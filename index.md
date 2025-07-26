@@ -1,4 +1,4 @@
-# 🔍 Browse Projects by Tech Stack
+# 🧭 Explore Projects by Tech Stack
 
 - [Android Projects](android.md)
 - [Angular Projects](angular.md)
@@ -16,7 +16,6 @@
 - [Mysql Projects](mysql.md)
 - [Next.Js Projects](next.js.md)
 - [Node.Js Projects](node.js.md)
-- [Opencv Projects](opencv.md)
 - [Postgresql Projects](postgresql.md)
 - [Python Projects](python.md)
 - [React Projects](react.md)
@@ -24,5 +23,4 @@
 - [Spring Boot Projects](spring_boot.md)
 - [Sqlite Projects](sqlite.md)
 - [Tailwind Css Projects](tailwind_css.md)
-- [Tensorflow Projects](tensorflow.md)
 - [Typescript Projects](typescript.md)

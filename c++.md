@@ -1,46 +1,62 @@
-# Projects using C++
+# 🚀 Projects using C++
 
-## Healconnect 
-A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+## 📌 Project: Healconnect 
 
-[🔗 Project Link](https://github.com/Dipanita45/HEALCONNECT)
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
 
-**Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
 
-### Unassigned Issues:
-- [✨ Added dark mode toggle with Tailwind support](https://github.com/Dipanita45/HEALCONNECT/pull/21) — **Difficulty:** Medium
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
 
 ---
 
-## cpp-sdk-appwrite
-The first ever C++ SDK for Appwrite, build from scratch!
+### 🐛 Unassigned Issues
 
-[🔗 Project Link](https://github.com/pooranjoyb/cpp-sdk-appwrite)
-
-**Tech Stack:** C++, Conan, CMake, libcurl
-
-### Unassigned Issues:
-- [[UI Enhancement] Add Sidebar Navigation Menu for Better Accessibility](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/88) — **Difficulty:** Medium
-- [[UI Enhancement] A user friendly Youtube Video and Resources Tab ](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/87) — **Difficulty:** Medium
-- [How to write APIs for C++ SDK Appwrite?](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/85) — **Difficulty:** Medium
-- [Interested in Contributing as contributor.](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/83) — **Difficulty:** Medium
-- [Feat/create email message](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/80) — **Difficulty:** Medium
-- [Feat/update message support](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/79) — **Difficulty:** Medium
-- [feat: update documents](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/45) — **Difficulty:** Medium
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
 
 ---
 
-## Hotel management system 
+## 📌 Project: cpp-sdk-appwrite
 
+📝 **Description:** The first ever C++ SDK for Appwrite, build from scratch!
+
+🔗 [View Project](https://github.com/pooranjoyb/cpp-sdk-appwrite)
+
+💻 **Tech Stack:** C++, Conan, CMake, libcurl
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Sidebar Navigation Menu for Better Accessibility | Medium | [#88](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/88) |
+| A user friendly Youtube Video and Resources Tab | Medium | [#87](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/87) |
+| How to write APIs for C++ SDK Appwrite? | Medium | [#85](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/85) |
+| Interested in Contributing as contributor. | Medium | [#83](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/83) |
+| Feat/create email message | Medium | [#80](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/80) |
+| Feat/update message support | Medium | [#79](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/79) |
+| feat: update documents | Medium | [#45](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/45) |
+
+---
+
+## 📌 Project: Hotel management system 
+
+📝 **Description:** 
 I have worked on a Hotel Management System using C++, MySQL, and HTML/CSS. I’ve also designed UI using Figma and have experience in basic Python and graphic designing.
 
 
-[🔗 Project Link](https://github.com/tasmiyashaikh711)
+🔗 [View Project](https://github.com/tasmiyashaikh711)
 
-**Tech Stack:** HTML, CSS, C++, Turbo C++, MySQL, Figma
+💻 **Tech Stack:** HTML, CSS, C++, Turbo C++, MySQL, Figma
 
-### Unassigned Issues:
-- No unassigned issues.
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
 
 ---
 

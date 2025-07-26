@@ -8,9 +8,11 @@ An innovative healthcare management system designed to help patients track medic
 **Tech Stack:** MERN, TensorFlow, Python, Embedded C
 
 ### Unassigned Issues:
-- [Missing CONTRIBUTING.md File](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/11) — **Difficulty:** Medium
-- [Detailed and Proper API Documentation](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/10) — **Difficulty:** Medium
-- [Deep Technical Documentation & Architecture Diagrams](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/7) — **Difficulty:** Medium
+| Issue Title | Difficulty | Link |
+|-------------|------------|------|
+| Missing CONTRIBUTING.md File | Medium | [Link](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/11) |
+| Detailed and Proper API Documentation | Medium | [Link](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/issues/10) |
+| Deep Technical Documentation & Architecture Diagrams | Medium | [Link](https://github.com/BrewedAlgorithms/Medical-Adherence-Monitoring-System/pull/7) |
 
 ---
 
@@ -22,18 +24,20 @@ This Python-based application uses computer vision and deep learning (TensorFlow
 **Tech Stack:** Python, OpenCV, TensorFlow, Keras, Webbrowser, Requests, YOLO, Sentiment Analysis, Computer Vision
 
 ### Unassigned Issues:
-- [Improve UI Theme of Streamlit App](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/27) — **Difficulty:** Easy
-- [Added ONNX-based Emotion Detector in new_models (Python 3.13 compatible)](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/55) — **Difficulty:** Medium
-- [Refactored app structure, added helpers and model training script](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/54) — **Difficulty:** Medium
-- [Added print statement to log when video streaming starts](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/50) — **Difficulty:** Medium
-- [ feat(ui): Add Gradio Frontend for Emotion-Based Music Recommendation](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/48) — **Difficulty:** Medium
-- [Add ML-based YouTube song recommendation system](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/46) — **Difficulty:** Medium
-- [Fix footer spacing issue - add bottom padding to prevent content overlap](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/42) — **Difficulty:** Medium
-- [Fixes:#2 Add DeepFace-based emotion detection with YouTube music recommendation ](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/39) — **Difficulty:** Medium
-- [🛠️ Troubleshooting / Bug Reports: Post Your Errors Here](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/22) — **Difficulty:** Medium
-- [Option to Play Uplifting Music When Sad](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/34) — **Difficulty:** Hard
-- [Streamlit WebRTC Fails to Capture Video on Deployment (STUN Not Working)](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/23) — **Difficulty:** Hard
-- [Change Computer Vision Libraries](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/8) — **Difficulty:** Hard
+| Issue Title | Difficulty | Link |
+|-------------|------------|------|
+| Improve UI Theme of Streamlit App | Easy | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/27) |
+| Added ONNX-based Emotion Detector in new_models (Python 3.13 compatible) | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/55) |
+| Refactored app structure, added helpers and model training script | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/54) |
+| Added print statement to log when video streaming starts | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/50) |
+|  feat(ui): Add Gradio Frontend for Emotion-Based Music Recommendation | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/48) |
+| Add ML-based YouTube song recommendation system | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/46) |
+| Fix footer spacing issue - add bottom padding to prevent content overlap | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/42) |
+| Fixes:#2 Add DeepFace-based emotion detection with YouTube music recommendation  | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/39) |
+| 🛠️ Troubleshooting / Bug Reports: Post Your Errors Here | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/22) |
+| Option to Play Uplifting Music When Sad | Hard | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/34) |
+| Streamlit WebRTC Fails to Capture Video on Deployment (STUN Not Working) | Hard | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/23) |
+| Change Computer Vision Libraries | Hard | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/8) |
 
 ---
 

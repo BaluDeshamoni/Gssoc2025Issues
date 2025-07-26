@@ -1,165 +1,211 @@
-# Projects using Django
+# 🚀 Projects using Django
 
-## OWASP Nest
-Your gateway to OWASP
+## 📌 Project: OWASP Nest
 
-[🔗 Project Link](https://github.com/owasp/nest)
+📝 **Description:** Your gateway to OWASP
 
-**Tech Stack:** Python, Django, GraphQL, TypeScript, Next.js, React, Tailwind CSS, Docker
+🔗 [View Project](https://github.com/owasp/nest)
 
-### Unassigned Issues:
-- [Add tests for <ProjectsDashboardNavBar> component](https://github.com/OWASP/Nest/issues/1866) — **Difficulty:** Easy
-- [Add tests for <ProjectsDashboardDropDown> component](https://github.com/OWASP/Nest/issues/1865) — **Difficulty:** Easy
-- [Add tests for <Pagination> component](https://github.com/OWASP/Nest/issues/1864) — **Difficulty:** Easy
-- [Add tests for <NavDropDown> component](https://github.com/OWASP/Nest/issues/1863) — **Difficulty:** Easy
-- [Add tests for <NavButton> component](https://github.com/OWASP/Nest/issues/1862) — **Difficulty:** Easy
-- [Add tests for <MultiSearch> component](https://github.com/OWASP/Nest/issues/1861) — **Difficulty:** Easy
-- [Add tests for <ModeToggle> component](https://github.com/OWASP/Nest/issues/1860) — **Difficulty:** Easy
-- [Add tests for <Modal> component](https://github.com/OWASP/Nest/issues/1859) — **Difficulty:** Easy
-- [Add tests for <Milestones> component](https://github.com/OWASP/Nest/issues/1858) — **Difficulty:** Easy
-- [Add tests for <LogoCarousel> component](https://github.com/OWASP/Nest/issues/1843) — **Difficulty:** Easy
-- [Add tests for <GeneralCompliantComponent> component](https://github.com/OWASP/Nest/issues/1835) — **Difficulty:** Easy
-- [✅ [Test] Add: Unit tests for InfoItem component](https://github.com/OWASP/Nest/pull/1870) — **Difficulty:** Medium
-- [Add user avatar in navbar with a dropdown menu](https://github.com/OWASP/Nest/issues/1869) — **Difficulty:** Medium
-- [Add LeadersList.test.tsx](https://github.com/OWASP/Nest/pull/1868) — **Difficulty:** Medium
-- [Fix #1792 Added a tooltip to show the entire number on hover](https://github.com/OWASP/Nest/pull/1855) — **Difficulty:** Medium
-- [Test/card details page 1804](https://github.com/OWASP/Nest/pull/1854) — **Difficulty:** Medium
-- [feat: Add comprehensive unit tests for MetricsScoreCircle component](https://github.com/OWASP/Nest/pull/1852) — **Difficulty:** Medium
-- [#1841 Add tests for <LoadingSpinner> component](https://github.com/OWASP/Nest/pull/1847) — **Difficulty:** Medium
-- [refactor:remove PLR0912 ignore and fix 4 violations](https://github.com/OWASP/Nest/pull/1834) — **Difficulty:** Medium
-- [Add Badge model to owasp app #1762](https://github.com/OWASP/Nest/pull/1831) — **Difficulty:** Medium
+💻 **Tech Stack:** Python, Django, GraphQL, TypeScript, Next.js, React, Tailwind CSS, Docker
 
 ---
 
-## FrostIQ
-FrostIQ is an open-source platform designed to make it easier for users to generate and customize bakery items according to their preferences. The project aims to simplify the process of finding, creating, and sharing bakery recipes and products, allowing users to explore a variety of options and contribute their own creations. By fostering collaboration and contribution, FrostIQ empowers a community of baking enthusiasts and developers to innovate together.
+### 🐛 Unassigned Issues
 
-[🔗 Project Link](https://github.com/indra7777/frostiq)
-
-**Tech Stack:** Python, Django, Flask, JavaScript, React.js, Vue.js, HTML, CSS, SQLite, MySQL, Docker, Git, GitHub
-
-### Unassigned Issues:
-- [Add Root Route (/) for Check](https://github.com/indra7777/frostiq/pull/18) — **Difficulty:** Medium
-- [Improve .gitignore for Development Hygiene](https://github.com/indra7777/frostiq/pull/17) — **Difficulty:** Medium
-- [🌐 Deploy FrostIQ and Add Live Demo Link to README](https://github.com/indra7777/frostiq/issues/16) — **Difficulty:** Medium
-- [Restructure Imports, Add Validation, and Strengthen API Security    #14 ](https://github.com/indra7777/frostiq/pull/15) — **Difficulty:** Medium
-
----
-
-## VisionMate
-VisionMate is a smart assistive solution designed to support visually impaired people in navigating their surroundings more independently. It uses computer vision and speech technologies to identify objects, read text, and give real time voice feedback through a user friendly interface. I have uploaded the initial code and concept to GitHub to give an idea of the project’s vision, but not the full implementation yet. The project is currently in the development phase, with plans to expand its capabilities to include environment detection and safe navigation features.
-
-[🔗 Project Link](https://www.github.com/kaushav07/VisionMate)
-
-**Tech Stack:** Python, OpenCV, Flask, Django, Flutter, MySQL, Google Cloud Vision API, Text to Speech API, Speech to Text API
-
-### Unassigned Issues:
-- [Real-Time Object Detection with Audio Feedback](https://github.com/kaushav07/VisionMate/issues/23) — **Difficulty:** Medium
-- [Refactor and Harden Application: Security, Robustness, and Error Handling Improvements](https://github.com/kaushav07/VisionMate/issues/21) — **Difficulty:** Medium
-- [contributors.md file is missing](https://github.com/kaushav07/VisionMate/issues/20) — **Difficulty:** Medium
-- [Add scan_logger utility for logging scans](https://github.com/kaushav07/VisionMate/pull/19) — **Difficulty:** Medium
-- [Add YOLOv8-based Object Detection with TTS Announcements](https://github.com/kaushav07/VisionMate/issues/18) — **Difficulty:** Medium
-- [Updated Readme](https://github.com/kaushav07/VisionMate/issues/17) — **Difficulty:** Medium
-- [🚫 License Missing from Repository](https://github.com/kaushav07/VisionMate/issues/14) — **Difficulty:** Medium
-- [Add option to switch between pyttsx3 and gTTS for better TTS voice quality](https://github.com/kaushav07/VisionMate/issues/12) — **Difficulty:** Medium
-- [Integrate LangChain for Modular Prompt Handling and Output Parsing](https://github.com/kaushav07/VisionMate/issues/11) — **Difficulty:** Medium
-- [Implementation of a Scan History Logger in the memory storage.](https://github.com/kaushav07/VisionMate/issues/10) — **Difficulty:** Medium
-- [Connecting the Interface with MySQL..](https://github.com/kaushav07/VisionMate/issues/9) — **Difficulty:** Medium
-- [Smart Scene Narration](https://github.com/kaushav07/VisionMate/issues/8) — **Difficulty:** Medium
-- [Improve prompt to ensure concise descriptions from Gemini](https://github.com/kaushav07/VisionMate/issues/6) — **Difficulty:** Medium
-- [Add Object Detection as a Backup (Offline Mode)](https://github.com/kaushav07/VisionMate/issues/5) — **Difficulty:** Medium
-- [contributors.md file is missing](https://github.com/kaushav07/VisionMate/issues/4) — **Difficulty:** Medium
-- [Missing .gitignore](https://github.com/kaushav07/VisionMate/issues/3) — **Difficulty:** Medium
-- [Missing requirements.txt file for environment setup](https://github.com/kaushav07/VisionMate/issues/1) — **Difficulty:** Medium
-- [Improve Object Detection Accuracy & Add Environment Awareness Features](https://github.com/kaushav07/VisionMate/issues/13) — **Difficulty:** Hard
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add tests for <ProjectsDashboardNavBar> component | Easy | [#1866](https://github.com/OWASP/Nest/issues/1866) |
+| Add tests for <ProjectsDashboardDropDown> component | Easy | [#1865](https://github.com/OWASP/Nest/issues/1865) |
+| Add tests for <Pagination> component | Easy | [#1864](https://github.com/OWASP/Nest/issues/1864) |
+| Add tests for <NavDropDown> component | Easy | [#1863](https://github.com/OWASP/Nest/issues/1863) |
+| Add tests for <NavButton> component | Easy | [#1862](https://github.com/OWASP/Nest/issues/1862) |
+| Add tests for <MultiSearch> component | Easy | [#1861](https://github.com/OWASP/Nest/issues/1861) |
+| Add tests for <ModeToggle> component | Easy | [#1860](https://github.com/OWASP/Nest/issues/1860) |
+| Add tests for <Modal> component | Easy | [#1859](https://github.com/OWASP/Nest/issues/1859) |
+| Add tests for <Milestones> component | Easy | [#1858](https://github.com/OWASP/Nest/issues/1858) |
+| Add tests for <LogoCarousel> component | Easy | [#1843](https://github.com/OWASP/Nest/issues/1843) |
+| Add tests for <GeneralCompliantComponent> component | Easy | [#1835](https://github.com/OWASP/Nest/issues/1835) |
+| [Test] Add: Unit tests for InfoItem component | Medium | [#1870](https://github.com/OWASP/Nest/pull/1870) |
+| Add user avatar in navbar with a dropdown menu | Medium | [#1869](https://github.com/OWASP/Nest/issues/1869) |
+| Add LeadersList.test.tsx | Medium | [#1868](https://github.com/OWASP/Nest/pull/1868) |
+| Fix #1792 Added a tooltip to show the entire number on hover | Medium | [#1855](https://github.com/OWASP/Nest/pull/1855) |
+| Test/card details page 1804 | Medium | [#1854](https://github.com/OWASP/Nest/pull/1854) |
+| feat: Add comprehensive unit tests for MetricsScoreCircle component | Medium | [#1852](https://github.com/OWASP/Nest/pull/1852) |
+| #1841 Add tests for <LoadingSpinner> component | Medium | [#1847](https://github.com/OWASP/Nest/pull/1847) |
+| refactor:remove PLR0912 ignore and fix 4 violations | Medium | [#1834](https://github.com/OWASP/Nest/pull/1834) |
+| Add Badge model to owasp app #1762 | Medium | [#1831](https://github.com/OWASP/Nest/pull/1831) |
 
 ---
 
-## foodBridge
-Its a food Donation website 
+## 📌 Project: FrostIQ
 
-[🔗 Project Link](https://github.com/Khushbudaswani/Foodbridge.git)
+📝 **Description:** FrostIQ is an open-source platform designed to make it easier for users to generate and customize bakery items according to their preferences. The project aims to simplify the process of finding, creating, and sharing bakery recipes and products, allowing users to explore a variety of options and contribute their own creations. By fostering collaboration and contribution, FrostIQ empowers a community of baking enthusiasts and developers to innovate together.
 
-**Tech Stack:** Python, Django, SQLite
+🔗 [View Project](https://github.com/indra7777/frostiq)
 
-### Unassigned Issues:
-- [Missing CONTRIBUTING.md File](https://github.com/Khushbudaswani/Foodbridge/issues/13) — **Difficulty:** Medium
-- [Improve project documentation and add `.gitignore` file](https://github.com/Khushbudaswani/Foodbridge/issues/12) — **Difficulty:** Medium
-- [Add inline comments and docstrings across un-commented files for better readability](https://github.com/Khushbudaswani/Foodbridge/issues/11) — **Difficulty:** Medium
-- [Django Template Errors & Fixes](https://github.com/Khushbudaswani/Foodbridge/issues/10) — **Difficulty:** Medium
-- [Fix and Verify Static Files, URL Names, and Template Configuration](https://github.com/Khushbudaswani/Foodbridge/issues/9) — **Difficulty:** Medium
-- [updated readme](https://github.com/Khushbudaswani/Foodbridge/issues/8) — **Difficulty:** Medium
-- [Added validation of phone/email/city for for donation and volunteer forms](https://github.com/Khushbudaswani/Foodbridge/pull/7) — **Difficulty:** Medium
-- [🚫 License Missing from Repository](https://github.com/Khushbudaswani/Foodbridge/issues/6) — **Difficulty:** Medium
-- [Improper card size](https://github.com/Khushbudaswani/Foodbridge/issues/5) — **Difficulty:** Medium
-- [Creating a proper readme](https://github.com/Khushbudaswani/Foodbridge/issues/4) — **Difficulty:** Medium
-- [added a text overlay effect on hovering on a gallery image](https://github.com/Khushbudaswani/Foodbridge/pull/3) — **Difficulty:** Medium
-- [Improve Hover Effects: "Get your plants" Button & Footer Links](https://github.com/Khushbudaswani/Foodbridge/issues/2) — **Difficulty:** Medium
+💻 **Tech Stack:** Python, Django, Flask, JavaScript, React.js, Vue.js, HTML, CSS, SQLite, MySQL, Docker, Git, GitHub
 
 ---
 
-## DreamJobs-Job Portal 
-this project aims to bridge the gap between job seekers and employers 
+### 🐛 Unassigned Issues
 
-[🔗 Project Link](https://github.com/Khushi-Nigam/jobportal)
-
-**Tech Stack:** HTML, CSS, JavaScript, Python, Django
-
-### Unassigned Issues:
-- [fix: Adding font styles in headings](https://github.com/Khushi-Nigam/jobportal/pull/57) — **Difficulty:** Medium
-- [Systemic Infosec Vulnerabilities and Codebase Anti-Patterns in Django](https://github.com/Khushi-Nigam/jobportal/issues/56) — **Difficulty:** Medium
-- [AI Powered Job Search Feature](https://github.com/Khushi-Nigam/jobportal/pull/55) — **Difficulty:** Medium
-- [updated the views](https://github.com/Khushi-Nigam/jobportal/pull/54) — **Difficulty:** Medium
-- [Add email notification for application status updates](https://github.com/Khushi-Nigam/jobportal/pull/51) — **Difficulty:** Medium
-- [UI Enhancement After Jobseeker or Employer Login](https://github.com/Khushi-Nigam/jobportal/issues/12) — **Difficulty:** Medium
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Root Route (/) for Check | Medium | [#18](https://github.com/indra7777/frostiq/pull/18) |
+| Improve .gitignore for Development Hygiene | Medium | [#17](https://github.com/indra7777/frostiq/pull/17) |
+| 🌐 Deploy FrostIQ and Add Live Demo Link to README | Medium | [#16](https://github.com/indra7777/frostiq/issues/16) |
+| Restructure Imports, Add Validation, and Strengthen API Security    #14 | Medium | [#15](https://github.com/indra7777/frostiq/pull/15) |
 
 ---
 
-## Smart Waste Management System
-A brief summary of your project idea. Include what problem it solves and how it works.
+## 📌 Project: VisionMate
 
-[🔗 Project Link](no)
+📝 **Description:** VisionMate is a smart assistive solution designed to support visually impaired people in navigating their surroundings more independently. It uses computer vision and speech technologies to identify objects, read text, and give real time voice feedback through a user friendly interface. I have uploaded the initial code and concept to GitHub to give an idea of the project’s vision, but not the full implementation yet. The project is currently in the development phase, with plans to expand its capabilities to include environment detection and safe navigation features.
 
-**Tech Stack:** Python, Django, React, MySQL
+🔗 [View Project](https://www.github.com/kaushav07/VisionMate)
 
-### Unassigned Issues:
-- No unassigned issues.
+💻 **Tech Stack:** Python, OpenCV, Flask, Django, Flutter, MySQL, Google Cloud Vision API, Text to Speech API, Speech to Text API
 
 ---
 
-## Sneaker Price Prediction using Machine Learning
-A Django-based web application that predicts sneaker prices using machine learning. It leverages historical sneaker data, performs preprocessing, model training, and allows users to input features like brand, color, and release year to get an estimated price.
+### 🐛 Unassigned Issues
 
-[🔗 Project Link](https://github.com/sahithinandikula/Sneaker-price-prediction)
-
-**Tech Stack:** Python, Django, Scikit-learn, Pandas, Matplotlib, HTML, CSS
-
-### Unassigned Issues:
-- [Create LICENSE](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/8) — **Difficulty:** Medium
-- [Added LSTM Model for Sneaker Price Prediction](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/7) — **Difficulty:** Medium
-- [[GSSoC’25] Add CSV Format Validation & Error Handling for Sneaker Dataset Upload](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/5) — **Difficulty:** Medium
-- [Improved frontend and fixed error 400](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/2) — **Difficulty:** Medium
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Real-Time Object Detection with Audio Feedback | Medium | [#23](https://github.com/kaushav07/VisionMate/issues/23) |
+| Refactor and Harden Application: Security, Robustness, and Error Handling Improvements | Medium | [#21](https://github.com/kaushav07/VisionMate/issues/21) |
+| contributors.md file is missing | Medium | [#20](https://github.com/kaushav07/VisionMate/issues/20) |
+| Add scan_logger utility for logging scans | Medium | [#19](https://github.com/kaushav07/VisionMate/pull/19) |
+| Add YOLOv8-based Object Detection with TTS Announcements | Medium | [#18](https://github.com/kaushav07/VisionMate/issues/18) |
+| Updated Readme | Medium | [#17](https://github.com/kaushav07/VisionMate/issues/17) |
+| 🚫 License Missing from Repository | Medium | [#14](https://github.com/kaushav07/VisionMate/issues/14) |
+| Add option to switch between pyttsx3 and gTTS for better TTS voice quality | Medium | [#12](https://github.com/kaushav07/VisionMate/issues/12) |
+| Integrate LangChain for Modular Prompt Handling and Output Parsing | Medium | [#11](https://github.com/kaushav07/VisionMate/issues/11) |
+| Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
+| Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
+| Smart Scene Narration | Medium | [#8](https://github.com/kaushav07/VisionMate/issues/8) |
+| Improve prompt to ensure concise descriptions from Gemini | Medium | [#6](https://github.com/kaushav07/VisionMate/issues/6) |
+| Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
+| contributors.md file is missing | Medium | [#4](https://github.com/kaushav07/VisionMate/issues/4) |
+| Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
+| Missing requirements.txt file for environment setup | Medium | [#1](https://github.com/kaushav07/VisionMate/issues/1) |
+| Improve Object Detection Accuracy & Add Environment Awareness Features | Hard | [#13](https://github.com/kaushav07/VisionMate/issues/13) |
 
 ---
 
-## White Paper
-The White Paper project is a simple notepad app built with Python Django. It allows users to create, save, and manage notes with a secure authentication system to keep their data private. Users can sign up, log in, and access their notes, offering a seamless and secure note-taking experience.
+## 📌 Project: foodBridge
 
-[🔗 Project Link](https://github.com/ygowthamr/WhitePaper)
+📝 **Description:** Its a food Donation website 
 
-**Tech Stack:** Python, Django, HTML, CSS, JavaScript, SQLite
+🔗 [View Project](https://github.com/Khushbudaswani/Foodbridge.git)
 
-### Unassigned Issues:
-- [Addaboutuspage](https://github.com/ygowthamr/WhitePaper/pull/170) — **Difficulty:** Medium
-- [Final improvements across all pages](https://github.com/ygowthamr/WhitePaper/pull/169) — **Difficulty:** Medium
-- [[Feature]: Create working signup Page](https://github.com/ygowthamr/WhitePaper/issues/167) — **Difficulty:** Medium
-- [Contributions - Support Pages](https://github.com/ygowthamr/WhitePaper/pull/166) — **Difficulty:** Medium
-- [Fixed Dark -light Mode](https://github.com/ygowthamr/WhitePaper/pull/165) — **Difficulty:** Medium
-- [[Feature]: Add tooltip descriptions to toolbar icons and fix heading format application](https://github.com/ygowthamr/WhitePaper/issues/164) — **Difficulty:** Medium
-- [Enhance <head> Section with Meta Tags for Mobile Responsiveness and Accessibility](https://github.com/ygowthamr/WhitePaper/issues/161) — **Difficulty:** Medium
-- [Fix Non-Working Sign Up & Login Buttons](https://github.com/ygowthamr/WhitePaper/issues/147) — **Difficulty:** Medium
-- [Enhancing Frontend UI & Functionality with Clean, Scalable Code](https://github.com/ygowthamr/WhitePaper/issues/146) — **Difficulty:** Medium
-- [Cleanup Related Objects on Note Deletion Using Django Signals](https://github.com/ygowthamr/WhitePaper/issues/132) — **Difficulty:** Medium
+💻 **Tech Stack:** Python, Django, SQLite
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Missing CONTRIBUTING.md File | Medium | [#13](https://github.com/Khushbudaswani/Foodbridge/issues/13) |
+| Improve project documentation and add `.gitignore` file | Medium | [#12](https://github.com/Khushbudaswani/Foodbridge/issues/12) |
+| Add inline comments and docstrings across un-commented files for better readability | Medium | [#11](https://github.com/Khushbudaswani/Foodbridge/issues/11) |
+| Django Template Errors & Fixes | Medium | [#10](https://github.com/Khushbudaswani/Foodbridge/issues/10) |
+| Fix and Verify Static Files, URL Names, and Template Configuration | Medium | [#9](https://github.com/Khushbudaswani/Foodbridge/issues/9) |
+| updated readme | Medium | [#8](https://github.com/Khushbudaswani/Foodbridge/issues/8) |
+| Added validation of phone/email/city for for donation and volunteer forms | Medium | [#7](https://github.com/Khushbudaswani/Foodbridge/pull/7) |
+| 🚫 License Missing from Repository | Medium | [#6](https://github.com/Khushbudaswani/Foodbridge/issues/6) |
+| Improper card size | Medium | [#5](https://github.com/Khushbudaswani/Foodbridge/issues/5) |
+| Creating a proper readme | Medium | [#4](https://github.com/Khushbudaswani/Foodbridge/issues/4) |
+| added a text overlay effect on hovering on a gallery image | Medium | [#3](https://github.com/Khushbudaswani/Foodbridge/pull/3) |
+| Improve Hover Effects: "Get your plants" Button & Footer Links | Medium | [#2](https://github.com/Khushbudaswani/Foodbridge/issues/2) |
+
+---
+
+## 📌 Project: DreamJobs-Job Portal 
+
+📝 **Description:** this project aims to bridge the gap between job seekers and employers 
+
+🔗 [View Project](https://github.com/Khushi-Nigam/jobportal)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Django
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| fix: Adding font styles in headings | Medium | [#57](https://github.com/Khushi-Nigam/jobportal/pull/57) |
+| Systemic Infosec Vulnerabilities and Codebase Anti-Patterns in Django | Medium | [#56](https://github.com/Khushi-Nigam/jobportal/issues/56) |
+| AI Powered Job Search Feature | Medium | [#55](https://github.com/Khushi-Nigam/jobportal/pull/55) |
+| updated the views | Medium | [#54](https://github.com/Khushi-Nigam/jobportal/pull/54) |
+| Add email notification for application status updates | Medium | [#51](https://github.com/Khushi-Nigam/jobportal/pull/51) |
+| UI Enhancement After Jobseeker or Employer Login | Medium | [#12](https://github.com/Khushi-Nigam/jobportal/issues/12) |
+
+---
+
+## 📌 Project: Smart Waste Management System
+
+📝 **Description:** A brief summary of your project idea. Include what problem it solves and how it works.
+
+🔗 [View Project](no)
+
+💻 **Tech Stack:** Python, Django, React, MySQL
+
+---
+
+### 🐛 Unassigned Issues
+
+_No unassigned issues._
+
+---
+
+## 📌 Project: Sneaker Price Prediction using Machine Learning
+
+📝 **Description:** A Django-based web application that predicts sneaker prices using machine learning. It leverages historical sneaker data, performs preprocessing, model training, and allows users to input features like brand, color, and release year to get an estimated price.
+
+🔗 [View Project](https://github.com/sahithinandikula/Sneaker-price-prediction)
+
+💻 **Tech Stack:** Python, Django, Scikit-learn, Pandas, Matplotlib, HTML, CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Create LICENSE | Medium | [#8](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/8) |
+| Added LSTM Model for Sneaker Price Prediction | Medium | [#7](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/7) |
+| Add CSV Format Validation & Error Handling for Sneaker Dataset Upload | Medium | [#5](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/5) |
+| Improved frontend and fixed error 400 | Medium | [#2](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/2) |
+
+---
+
+## 📌 Project: White Paper
+
+📝 **Description:** The White Paper project is a simple notepad app built with Python Django. It allows users to create, save, and manage notes with a secure authentication system to keep their data private. Users can sign up, log in, and access their notes, offering a seamless and secure note-taking experience.
+
+🔗 [View Project](https://github.com/ygowthamr/WhitePaper)
+
+💻 **Tech Stack:** Python, Django, HTML, CSS, JavaScript, SQLite
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Addaboutuspage | Medium | [#170](https://github.com/ygowthamr/WhitePaper/pull/170) |
+| Final improvements across all pages | Medium | [#169](https://github.com/ygowthamr/WhitePaper/pull/169) |
+| Create working signup Page | Medium | [#167](https://github.com/ygowthamr/WhitePaper/issues/167) |
+| Contributions - Support Pages | Medium | [#166](https://github.com/ygowthamr/WhitePaper/pull/166) |
+| Fixed Dark -light Mode | Medium | [#165](https://github.com/ygowthamr/WhitePaper/pull/165) |
+| Add tooltip descriptions to toolbar icons and fix heading format application | Medium | [#164](https://github.com/ygowthamr/WhitePaper/issues/164) |
+| Enhance <head> Section with Meta Tags for Mobile Responsiveness and Accessibility | Medium | [#161](https://github.com/ygowthamr/WhitePaper/issues/161) |
+| Fix Non-Working Sign Up & Login Buttons | Medium | [#147](https://github.com/ygowthamr/WhitePaper/issues/147) |
+| Enhancing Frontend UI & Functionality with Clean, Scalable Code | Medium | [#146](https://github.com/ygowthamr/WhitePaper/issues/146) |
+| Cleanup Related Objects on Note Deletion Using Django Signals | Medium | [#132](https://github.com/ygowthamr/WhitePaper/issues/132) |
 
 ---
 

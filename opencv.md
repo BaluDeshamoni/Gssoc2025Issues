@@ -9,22 +9,24 @@ KrishiMitra.py is an all-in-one AI-powered assistant designed to support Indian 
 **Tech Stack:** Python, gTTS, Pillow, OpenCV, Machine Learning, Streamlit
 
 ### Unassigned Issues:
-- [Feature Proposal:Accessibility and Usability Ehancements](https://github.com/Ansikka/KrishiMitra.py/issues/26) — **Difficulty:** Medium
-- [Add requirements.txt for Easy Dependency Installation](https://github.com/Ansikka/KrishiMitra.py/issues/25) — **Difficulty:** Medium
-- [📄 Missing LICENSE File](https://github.com/Ansikka/KrishiMitra.py/issues/24) — **Difficulty:** Medium
-- [Setup FastAPI backend with weather API integration](https://github.com/Ansikka/KrishiMitra.py/issues/22) — **Difficulty:** Medium
-- [[WIP] Feat: Setup FastAPI backend foundationI](https://github.com/Ansikka/KrishiMitra.py/pull/21) — **Difficulty:** Medium
-- [🚫 License Missing from Repository](https://github.com/Ansikka/KrishiMitra.py/issues/20) — **Difficulty:** Medium
-- [Fixes the issue #8, Add Profitability Forecast Charts Using Plotly](https://github.com/Ansikka/KrishiMitra.py/pull/19) — **Difficulty:** Medium
-- [Crop Disease Detection](https://github.com/Ansikka/KrishiMitra.py/issues/18) — **Difficulty:** Medium
-- [Improve the README file](https://github.com/Ansikka/KrishiMitra.py/issues/17) — **Difficulty:** Medium
-- [Help farmers connect with affordable and available transport options to carry produce from fields to mandis or markets.](https://github.com/Ansikka/KrishiMitra.py/issues/16) — **Difficulty:** Medium
-- [Fix Issue #14 Improved documentation with clear headers and a major change in struc…](https://github.com/Ansikka/KrishiMitra.py/pull/15) — **Difficulty:** Medium
-- [Improve the flow of README.md](https://github.com/Ansikka/KrishiMitra.py/issues/14) — **Difficulty:** Medium
-- [duplicate files](https://github.com/Ansikka/KrishiMitra.py/issues/10) — **Difficulty:** Medium
-- [Inconsistent Data Structures:](https://github.com/Ansikka/KrishiMitra.py/issues/9) — **Difficulty:** Medium
-- [Adding links of government Schemes](https://github.com/Ansikka/KrishiMitra.py/issues/5) — **Difficulty:** Medium
-- [Partial or Incomplete Regional  Language Translations](https://github.com/Ansikka/KrishiMitra.py/issues/4) — **Difficulty:** Medium
+| Issue Title | Difficulty | Link |
+|-------------|------------|------|
+| Feature Proposal:Accessibility and Usability Ehancements | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/issues/26) |
+| Add requirements.txt for Easy Dependency Installation | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/issues/25) |
+| 📄 Missing LICENSE File | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/issues/24) |
+| Setup FastAPI backend with weather API integration | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/issues/22) |
+| [WIP] Feat: Setup FastAPI backend foundationI | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/pull/21) |
+| 🚫 License Missing from Repository | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/issues/20) |
+| Fixes the issue #8, Add Profitability Forecast Charts Using Plotly | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/pull/19) |
+| Crop Disease Detection | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/issues/18) |
+| Improve the README file | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/issues/17) |
+| Help farmers connect with affordable and available transport options to carry produce from fields to mandis or markets. | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/issues/16) |
+| Fix Issue #14 Improved documentation with clear headers and a major change in struc… | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/pull/15) |
+| Improve the flow of README.md | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/issues/14) |
+| duplicate files | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/issues/10) |
+| Inconsistent Data Structures: | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/issues/9) |
+| Adding links of government Schemes | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/issues/5) |
+| Partial or Incomplete Regional  Language Translations | Medium | [Link](https://github.com/Ansikka/KrishiMitra.py/issues/4) |
 
 ---
 
@@ -36,21 +38,23 @@ Achieved 92% accuracy in detecting drowsiness using facial recognition and machi
 **Tech Stack:** OpenCV, Dlib, Machine Learning
 
 ### Unassigned Issues:
-- [Drunk Driver Detection](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/28) — **Difficulty:** Medium
-- [PR without assignment](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/27) — **Difficulty:** Medium
-- [Improve GUI Responsiveness & Script Execution in Tkinter Interface](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/26) — **Difficulty:** Medium
-- [Refactor Tkinter GUI](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/pull/25) — **Difficulty:** Medium
-- [Add Face Orientation Detection (Head Pose Estimation)](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/24) — **Difficulty:** Medium
-- [Added Streamlit web version of Drowsiness Detection System](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/pull/23) — **Difficulty:** Medium
-- [Fixed Issues in GUI and Responsiveness of GUI ( fixes issues #21, #18, #17)](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/pull/22) — **Difficulty:** Medium
-- [Face Detection Blocks UI and Doesn’t Terminate Cleanly ( unresponsive , unable to quit )](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/21) — **Difficulty:** Medium
-- [Update main.py](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/pull/19) — **Difficulty:** Medium
-- [Improving the launch file](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/18) — **Difficulty:** Medium
-- [Create License](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/pull/14) — **Difficulty:** Medium
-- [Contributing to Project](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/8) — **Difficulty:** Medium
-- [Contribute to the project by improving Model Performance](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/5) — **Difficulty:** Medium
-- [Contribute to the project](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/4) — **Difficulty:** Medium
-- [Want to contribute to this project](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/1) — **Difficulty:** Medium
+| Issue Title | Difficulty | Link |
+|-------------|------------|------|
+| Drunk Driver Detection | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/28) |
+| PR without assignment | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/27) |
+| Improve GUI Responsiveness & Script Execution in Tkinter Interface | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/26) |
+| Refactor Tkinter GUI | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/pull/25) |
+| Add Face Orientation Detection (Head Pose Estimation) | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/24) |
+| Added Streamlit web version of Drowsiness Detection System | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/pull/23) |
+| Fixed Issues in GUI and Responsiveness of GUI ( fixes issues #21, #18, #17) | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/pull/22) |
+| Face Detection Blocks UI and Doesn’t Terminate Cleanly ( unresponsive , unable to quit ) | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/21) |
+| Update main.py | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/pull/19) |
+| Improving the launch file | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/18) |
+| Create License | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/pull/14) |
+| Contributing to Project | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/8) |
+| Contribute to the project by improving Model Performance | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/5) |
+| Contribute to the project | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/4) |
+| Want to contribute to this project | Medium | [Link](https://github.com/Gagandeep-2003/driver-drowsiness-detection-system/issues/1) |
 
 ---
 
@@ -62,24 +66,26 @@ VisionMate is a smart assistive solution designed to support visually impaired p
 **Tech Stack:** Python, OpenCV, Flask, Django, Flutter, MySQL, Google Cloud Vision API, Text to Speech API, Speech to Text API
 
 ### Unassigned Issues:
-- [Real-Time Object Detection with Audio Feedback](https://github.com/kaushav07/VisionMate/issues/23) — **Difficulty:** Medium
-- [Refactor and Harden Application: Security, Robustness, and Error Handling Improvements](https://github.com/kaushav07/VisionMate/issues/21) — **Difficulty:** Medium
-- [contributors.md file is missing](https://github.com/kaushav07/VisionMate/issues/20) — **Difficulty:** Medium
-- [Add scan_logger utility for logging scans](https://github.com/kaushav07/VisionMate/pull/19) — **Difficulty:** Medium
-- [Add YOLOv8-based Object Detection with TTS Announcements](https://github.com/kaushav07/VisionMate/issues/18) — **Difficulty:** Medium
-- [Updated Readme](https://github.com/kaushav07/VisionMate/issues/17) — **Difficulty:** Medium
-- [🚫 License Missing from Repository](https://github.com/kaushav07/VisionMate/issues/14) — **Difficulty:** Medium
-- [Add option to switch between pyttsx3 and gTTS for better TTS voice quality](https://github.com/kaushav07/VisionMate/issues/12) — **Difficulty:** Medium
-- [Integrate LangChain for Modular Prompt Handling and Output Parsing](https://github.com/kaushav07/VisionMate/issues/11) — **Difficulty:** Medium
-- [Implementation of a Scan History Logger in the memory storage.](https://github.com/kaushav07/VisionMate/issues/10) — **Difficulty:** Medium
-- [Connecting the Interface with MySQL..](https://github.com/kaushav07/VisionMate/issues/9) — **Difficulty:** Medium
-- [Smart Scene Narration](https://github.com/kaushav07/VisionMate/issues/8) — **Difficulty:** Medium
-- [Improve prompt to ensure concise descriptions from Gemini](https://github.com/kaushav07/VisionMate/issues/6) — **Difficulty:** Medium
-- [Add Object Detection as a Backup (Offline Mode)](https://github.com/kaushav07/VisionMate/issues/5) — **Difficulty:** Medium
-- [contributors.md file is missing](https://github.com/kaushav07/VisionMate/issues/4) — **Difficulty:** Medium
-- [Missing .gitignore](https://github.com/kaushav07/VisionMate/issues/3) — **Difficulty:** Medium
-- [Missing requirements.txt file for environment setup](https://github.com/kaushav07/VisionMate/issues/1) — **Difficulty:** Medium
-- [Improve Object Detection Accuracy & Add Environment Awareness Features](https://github.com/kaushav07/VisionMate/issues/13) — **Difficulty:** Hard
+| Issue Title | Difficulty | Link |
+|-------------|------------|------|
+| Real-Time Object Detection with Audio Feedback | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/23) |
+| Refactor and Harden Application: Security, Robustness, and Error Handling Improvements | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/21) |
+| contributors.md file is missing | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/20) |
+| Add scan_logger utility for logging scans | Medium | [Link](https://github.com/kaushav07/VisionMate/pull/19) |
+| Add YOLOv8-based Object Detection with TTS Announcements | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/18) |
+| Updated Readme | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/17) |
+| 🚫 License Missing from Repository | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/14) |
+| Add option to switch between pyttsx3 and gTTS for better TTS voice quality | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/12) |
+| Integrate LangChain for Modular Prompt Handling and Output Parsing | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/11) |
+| Implementation of a Scan History Logger in the memory storage. | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/10) |
+| Connecting the Interface with MySQL.. | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/9) |
+| Smart Scene Narration | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/8) |
+| Improve prompt to ensure concise descriptions from Gemini | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/6) |
+| Add Object Detection as a Backup (Offline Mode) | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/5) |
+| contributors.md file is missing | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/4) |
+| Missing .gitignore | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/3) |
+| Missing requirements.txt file for environment setup | Medium | [Link](https://github.com/kaushav07/VisionMate/issues/1) |
+| Improve Object Detection Accuracy & Add Environment Awareness Features | Hard | [Link](https://github.com/kaushav07/VisionMate/issues/13) |
 
 ---
 
@@ -103,18 +109,20 @@ This Python-based application uses computer vision and deep learning (TensorFlow
 **Tech Stack:** Python, OpenCV, TensorFlow, Keras, Webbrowser, Requests, YOLO, Sentiment Analysis, Computer Vision
 
 ### Unassigned Issues:
-- [Improve UI Theme of Streamlit App](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/27) — **Difficulty:** Easy
-- [Added ONNX-based Emotion Detector in new_models (Python 3.13 compatible)](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/55) — **Difficulty:** Medium
-- [Refactored app structure, added helpers and model training script](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/54) — **Difficulty:** Medium
-- [Added print statement to log when video streaming starts](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/50) — **Difficulty:** Medium
-- [ feat(ui): Add Gradio Frontend for Emotion-Based Music Recommendation](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/48) — **Difficulty:** Medium
-- [Add ML-based YouTube song recommendation system](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/46) — **Difficulty:** Medium
-- [Fix footer spacing issue - add bottom padding to prevent content overlap](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/42) — **Difficulty:** Medium
-- [Fixes:#2 Add DeepFace-based emotion detection with YouTube music recommendation ](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/39) — **Difficulty:** Medium
-- [🛠️ Troubleshooting / Bug Reports: Post Your Errors Here](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/22) — **Difficulty:** Medium
-- [Option to Play Uplifting Music When Sad](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/34) — **Difficulty:** Hard
-- [Streamlit WebRTC Fails to Capture Video on Deployment (STUN Not Working)](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/23) — **Difficulty:** Hard
-- [Change Computer Vision Libraries](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/8) — **Difficulty:** Hard
+| Issue Title | Difficulty | Link |
+|-------------|------------|------|
+| Improve UI Theme of Streamlit App | Easy | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/27) |
+| Added ONNX-based Emotion Detector in new_models (Python 3.13 compatible) | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/55) |
+| Refactored app structure, added helpers and model training script | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/54) |
+| Added print statement to log when video streaming starts | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/50) |
+|  feat(ui): Add Gradio Frontend for Emotion-Based Music Recommendation | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/48) |
+| Add ML-based YouTube song recommendation system | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/46) |
+| Fix footer spacing issue - add bottom padding to prevent content overlap | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/42) |
+| Fixes:#2 Add DeepFace-based emotion detection with YouTube music recommendation  | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/39) |
+| 🛠️ Troubleshooting / Bug Reports: Post Your Errors Here | Medium | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/22) |
+| Option to Play Uplifting Music When Sad | Hard | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/34) |
+| Streamlit WebRTC Fails to Capture Video on Deployment (STUN Not Working) | Hard | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/23) |
+| Change Computer Vision Libraries | Hard | [Link](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/8) |
 
 ---
 
@@ -126,11 +134,13 @@ A real-time security screening system, using face recognition with OpenCV. The s
 **Tech Stack:** Python, OpenCV, Face Recognition, SMTPLib, Winsound
 
 ### Unassigned Issues:
-- [Added code for Data Augmentation](https://github.com/SomdattaNag/Security-Screening-System/pull/55) — **Difficulty:** Medium
-- [Add status label in the GUI Window](https://github.com/SomdattaNag/Security-Screening-System/pull/51) — **Difficulty:** Medium
-- [Subject Line in Email Alerts Lacks Timestamp, Location, and Match Confidence](https://github.com/SomdattaNag/Security-Screening-System/issues/21) — **Difficulty:** Medium
-- [Add Visitor History Feature to Face Recognition System](https://github.com/SomdattaNag/Security-Screening-System/issues/7) — **Difficulty:** Medium
-- [Replace print() with Python Logging Module](https://github.com/SomdattaNag/Security-Screening-System/issues/4) — **Difficulty:** Medium
+| Issue Title | Difficulty | Link |
+|-------------|------------|------|
+| Added code for Data Augmentation | Medium | [Link](https://github.com/SomdattaNag/Security-Screening-System/pull/55) |
+| Add status label in the GUI Window | Medium | [Link](https://github.com/SomdattaNag/Security-Screening-System/pull/51) |
+| Subject Line in Email Alerts Lacks Timestamp, Location, and Match Confidence | Medium | [Link](https://github.com/SomdattaNag/Security-Screening-System/issues/21) |
+| Add Visitor History Feature to Face Recognition System | Medium | [Link](https://github.com/SomdattaNag/Security-Screening-System/issues/7) |
+| Replace print() with Python Logging Module | Medium | [Link](https://github.com/SomdattaNag/Security-Screening-System/issues/4) |
 
 ---
 
