@@ -6,6 +6,16 @@ Welcome to the **GSSoC 2025 Issues Tracker**! This repository helps participants
 
 ---
 
+
+## 🖥️ Try the Web UI
+
+We've also built a modern UI to help you explore issues interactively:
+
+🔗 **[👉 Open the UI here](https://gssoc2025.vercel.app/)**
+
+---
+
+
 ## 🧭 Explore by Tech Stack
 
 Navigate projects by your favorite technologies:
