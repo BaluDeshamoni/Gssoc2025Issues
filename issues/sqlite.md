@@ -17,8 +17,6 @@
 | Updated README.md file | Medium | [#76](https://github.com/abhirajadhikary06/eventstack/pull/76) |
 | SECURITY.md | Medium | [#75](https://github.com/abhirajadhikary06/eventstack/pull/75) |
 | # 📅 Feature Request: Google Calendar Integration | Medium | [#73](https://github.com/abhirajadhikary06/eventstack/issues/73) |
-| # 🌀 Feature Request: Add Loading Spinners or Skeleton UIs During Data Fetch | Medium | [#72](https://github.com/abhirajadhikary06/eventstack/issues/72) |
-| Voting Analytics | Medium | [#71](https://github.com/abhirajadhikary06/eventstack/issues/71) |
 | Reminder System for Upcoming Events | Medium | [#70](https://github.com/abhirajadhikary06/eventstack/issues/70) |
 | Add Repository link in Github icon and text | Medium | [#56](https://github.com/abhirajadhikary06/eventstack/pull/56) |
 | Feat: Event created page | Medium | [#53](https://github.com/abhirajadhikary06/eventstack/issues/53) |
@@ -40,9 +38,21 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Major Feature Update: Spotify OAuth, User System, Favorites, Mood Playlists, and Enhanced Search | Medium | [#30](https://github.com/Ananya-te/MusicTrackerAPI/pull/30) |
+| Defect | Incorrect API Path in MusicAPI.html Caused Fetch Failure | Medium | [#29](https://github.com/Ananya-te/MusicTrackerAPI/issues/29) |
+| Link was wrong corrected it | Medium | [#28](https://github.com/Ananya-te/MusicTrackerAPI/issues/28) |
+| Enhanced README File for Better Clarity and Presentation #12 | Medium | [#27](https://github.com/Ananya-te/MusicTrackerAPI/pull/27) |
+| Add Music Analytics Dashboard using Streamlit | Medium | [#26](https://github.com/Ananya-te/MusicTrackerAPI/issues/26) |
+| Added the CODE_OF_CONDUCT.md file | Medium | [#25](https://github.com/Ananya-te/MusicTrackerAPI/pull/25) |
+| Reorganized folder structure as per GSSoC task | Medium | [#24](https://github.com/Ananya-te/MusicTrackerAPI/pull/24) |
+| webpage making @Nischala Medavarapu | Medium | [#23](https://github.com/Ananya-te/MusicTrackerAPI/issues/23) |
+| work for backend | Medium | [#22](https://github.com/Ananya-te/MusicTrackerAPI/issues/22) |
+| Enhanced README for Better Clarity and Professional Presentation (#12) | Medium | [#21](https://github.com/Ananya-te/MusicTrackerAPI/pull/21) |
+| Add Update and Delete Functionality to Music Tracker API | Medium | [#20](https://github.com/Ananya-te/MusicTrackerAPI/issues/20) |
+| Enhanced README.md for Improved Clarity, Project Structure, and Developer Onboarding | Medium | [#19](https://github.com/Ananya-te/MusicTrackerAPI/pull/19) |
+| Enhanced error handling in controllers/songController.js | Medium | [#15](https://github.com/Ananya-te/MusicTrackerAPI/issues/15) |
 | done with the file structure fix | Medium | [#14](https://github.com/Ananya-te/MusicTrackerAPI/pull/14) |
 | Readme Enhancement for better readability and scalability | Medium | [#13](https://github.com/Ananya-te/MusicTrackerAPI/pull/13) |
-| Enhance README File for Better Clarity and Presentation | Medium | [#12](https://github.com/Ananya-te/MusicTrackerAPI/issues/12) |
 | Add code_of_conduct.md file to the Repository | Medium | [#11](https://github.com/Ananya-te/MusicTrackerAPI/issues/11) |
 | Enhanced README.md for clarity, structure, and onboarding ease | Medium | [#10](https://github.com/Ananya-te/MusicTrackerAPI/pull/10) |
 | Defect | Incorrect API Path in MusicAPI.html Caused Fetch Failure | Medium | [#8](https://github.com/Ananya-te/MusicTrackerAPI/pull/8) |
@@ -68,6 +78,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create Templates for Issues , pull Request | Medium | [#20](https://github.com/indra7777/frostiq/issues/20) |
+| Improvements in main.py in bakerybackend | Medium | [#19](https://github.com/indra7777/frostiq/issues/19) |
 | Add Root Route (/) for Check | Medium | [#18](https://github.com/indra7777/frostiq/pull/18) |
 | Improve .gitignore for Development Hygiene | Medium | [#17](https://github.com/indra7777/frostiq/pull/17) |
 | 🌐 Deploy FrostIQ and Add Live Demo Link to README | Medium | [#16](https://github.com/indra7777/frostiq/issues/16) |
@@ -89,18 +101,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing CONTRIBUTING.md File | Medium | [#13](https://github.com/Khushbudaswani/Foodbridge/issues/13) |
+| Improve SEO for Food Bridge Website | Medium | [#20](https://github.com/Khushbudaswani/Foodbridge/issues/20) |
 | Improve project documentation and add `.gitignore` file | Medium | [#12](https://github.com/Khushbudaswani/Foodbridge/issues/12) |
 | Add inline comments and docstrings across un-commented files for better readability | Medium | [#11](https://github.com/Khushbudaswani/Foodbridge/issues/11) |
-| Django Template Errors & Fixes | Medium | [#10](https://github.com/Khushbudaswani/Foodbridge/issues/10) |
-| Fix and Verify Static Files, URL Names, and Template Configuration | Medium | [#9](https://github.com/Khushbudaswani/Foodbridge/issues/9) |
-| updated readme | Medium | [#8](https://github.com/Khushbudaswani/Foodbridge/issues/8) |
-| Added validation of phone/email/city for for donation and volunteer forms | Medium | [#7](https://github.com/Khushbudaswani/Foodbridge/pull/7) |
-| 🚫 License Missing from Repository | Medium | [#6](https://github.com/Khushbudaswani/Foodbridge/issues/6) |
-| Improper card size | Medium | [#5](https://github.com/Khushbudaswani/Foodbridge/issues/5) |
-| Creating a proper readme | Medium | [#4](https://github.com/Khushbudaswani/Foodbridge/issues/4) |
-| added a text overlay effect on hovering on a gallery image | Medium | [#3](https://github.com/Khushbudaswani/Foodbridge/pull/3) |
-| Improve Hover Effects: "Get your plants" Button & Footer Links | Medium | [#2](https://github.com/Khushbudaswani/Foodbridge/issues/2) |
 
 ---
 
@@ -118,6 +121,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Real-Time Note Saving Functionality | Medium | [#174](https://github.com/ygowthamr/WhitePaper/issues/174) |
+| Exposed GitHub OAuth Credentials | Medium | [#173](https://github.com/ygowthamr/WhitePaper/issues/173) |
+| Secret Key is Hardcoded in settings.py | Medium | [#172](https://github.com/ygowthamr/WhitePaper/issues/172) |
 | Addaboutuspage | Medium | [#170](https://github.com/ygowthamr/WhitePaper/pull/170) |
 | Final improvements across all pages | Medium | [#169](https://github.com/ygowthamr/WhitePaper/pull/169) |
 | Create working signup Page | Medium | [#167](https://github.com/ygowthamr/WhitePaper/issues/167) |
