@@ -32,12 +32,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Sidebar Navigation Menu for Better Accessibility | Medium | [#88](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/88) |
-| A user friendly Youtube Video and Resources Tab | Medium | [#87](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/87) |
+| added delete function used for deleting messages | Medium | [#91](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/91) |
 | How to write APIs for C++ SDK Appwrite? | Medium | [#85](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/85) |
 | Interested in Contributing as contributor. | Medium | [#83](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/83) |
 | Feat/create email message | Medium | [#80](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/80) |
-| Feat/update message support | Medium | [#79](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/79) |
+| feat: update_email [messaging] | Medium | [#70](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/70) |
 | feat: update documents | Medium | [#45](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/45) |
 
 ---
