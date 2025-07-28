@@ -14,8 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Remove Footer from the Home page | Easy | [#31](https://github.com/Abhinavhaldiya/FinPilot/issues/31) |
+| Adding Fields in Signup Page | Easy | [#30](https://github.com/Abhinavhaldiya/FinPilot/issues/30) |
+| Schema Definition using Prisma | Medium | [#32](https://github.com/Abhinavhaldiya/FinPilot/issues/32) |
+| fix: documentation updated along with .env.example | Medium | [#27](https://github.com/Abhinavhaldiya/FinPilot/pull/27) |
 | CODE_OF_CONDUCT.md | Medium | [#26](https://github.com/Abhinavhaldiya/FinPilot/pull/26) |
-| Documentation : Introduce Code of Conduct for FinPilot | GSSoC’25 | Medium | [#25](https://github.com/Abhinavhaldiya/FinPilot/issues/25) |
 | Responsive Sidebar & Dashboard UI Redesign | Medium | [#23](https://github.com/Abhinavhaldiya/FinPilot/issues/23) |
 | Update README.md file | Medium | [#21](https://github.com/Abhinavhaldiya/FinPilot/issues/21) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#19](https://github.com/Abhinavhaldiya/FinPilot/issues/19) |
@@ -45,11 +48,18 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Add MIT License | Easy | [#3](https://github.com/Menthub-GSSoC/Menthub/issues/3) |
 | Update README.md | Easy | [#2](https://github.com/Menthub-GSSoC/Menthub/pull/2) |
+| Documentation Add CODE OF CONDUCT - Menthub GSSoC'25 | Medium | [#33](https://github.com/Menthub-GSSoC/Menthub/pull/33) |
+| FEAT: Add light/dark mode toggle button | Medium | [#32](https://github.com/Menthub-GSSoC/Menthub/issues/32) |
+| Add Password Visibility Toggle on Signup/Login Forms | Medium | [#31](https://github.com/Menthub-GSSoC/Menthub/issues/31) |
+| Added Markdown Github Issue Template | Medium | [#28](https://github.com/Menthub-GSSoC/Menthub/pull/28) |
+| Sign-Up Page: Missing Field Validation for User Input | Medium | [#27](https://github.com/Menthub-GSSoC/Menthub/issues/27) |
+| Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
+| Structured Readme file required | Medium | [#24](https://github.com/Menthub-GSSoC/Menthub/issues/24) |
 | Prevent Duplicate Mentorship Requests (mentee_id + mentor_id) | Medium | [#23](https://github.com/Menthub-GSSoC/Menthub/issues/23) |
 | Contributor for Contribution | Medium | [#22](https://github.com/Menthub-GSSoC/Menthub/issues/22) |
-| Add Complete Project README.md for Menthub | Medium | [#19](https://github.com/Menthub-GSSoC/Menthub/pull/19) |
 | matcher.py is Empty – Matching Logic Missing & Project Scope Needed | Medium | [#18](https://github.com/Menthub-GSSoC/Menthub/issues/18) |
 | Improve README.md file | Medium | [#17](https://github.com/Menthub-GSSoC/Menthub/issues/17) |
 | Togglebutton | Medium | [#15](https://github.com/Menthub-GSSoC/Menthub/pull/15) |
@@ -91,15 +101,18 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add accessible aria-labels for map markers in issue map | Medium | [#329](https://github.com/HarshS16/Civix/issues/329) |
+| Smooth animation for FAQS | Medium | [#354](https://github.com/HarshS16/Civix/pull/354) |
+| Quick Profile Access from Navbar | Medium | [#353](https://github.com/HarshS16/Civix/issues/353) |
+| Resources Page – FAQs Not in Dark Mode + No Admission | Medium | [#352](https://github.com/HarshS16/Civix/issues/352) |
+| Community Voting Page Not in Dark Mode | Medium | [#351](https://github.com/HarshS16/Civix/issues/351) |
+| File Complaint Page is Laggy | Medium | [#350](https://github.com/HarshS16/Civix/issues/350) |
+| No Page Transition Animation from Dashboard | Medium | [#349](https://github.com/HarshS16/Civix/issues/349) |
+| Missing Navbar Link to Dashboard | Medium | [#348](https://github.com/HarshS16/Civix/issues/348) |
+| Added File Upload Feature with Cloudinary Support in Issue Reporting | Medium | [#342](https://github.com/HarshS16/Civix/pull/342) |
+| Mobile Responsiveness for Complaint Cards | Medium | [#341](https://github.com/HarshS16/Civix/issues/341) |
+|  | Medium | [#340](https://github.com/HarshS16/Civix/issues/340) |
 | Add dynamic current year to footer | Medium | [#328](https://github.com/HarshS16/Civix/issues/328) |
-| Scroll to top when clicking the logo | Medium | [#327](https://github.com/HarshS16/Civix/issues/327) |
-| Add download functionality to resource section (PDFs for guide/toolkits) | Medium | [#326](https://github.com/HarshS16/Civix/issues/326) |
-| Duplicate navbars and multiple dark mode toggles on the Dashboard | Medium | [#325](https://github.com/HarshS16/Civix/issues/325) |
-| Dark mode: white background visible on Civic Education page | Medium | [#324](https://github.com/HarshS16/Civix/issues/324) |
 | Add centered 'Back to Top' button to README | Medium | [#323](https://github.com/HarshS16/Civix/pull/323) |
-| fix: scroll position now resets on route change | Medium | [#322](https://github.com/HarshS16/Civix/pull/322) |
-| Improved login page design | Medium | [#320](https://github.com/HarshS16/Civix/pull/320) |
 
 ---
 
@@ -119,15 +132,15 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/add mac linux setup guide | Medium | [#165](https://github.com/Muneerali199/DocMagic/pull/165) |
-| Feature/add faq documentation | Medium | [#164](https://github.com/Muneerali199/DocMagic/pull/164) |
-| 📄 Documentation Improvement | Medium | [#161](https://github.com/Muneerali199/DocMagic/pull/161) |
-| feat: add secure MFA authentication endpoints and components | Medium | [#155](https://github.com/Muneerali199/DocMagic/pull/155) |
-| Enhance About Page with Technical Improvements | Medium | [#152](https://github.com/Muneerali199/DocMagic/pull/152) |
-| Feature/analytics complete final | Medium | [#143](https://github.com/Muneerali199/DocMagic/pull/143) |
-| Improved-placeholder-text | Medium | [#142](https://github.com/Muneerali199/DocMagic/pull/142) |
-| feat: ✨ Complete Analytics Dashboard & Enhanced Authentication System | Medium | [#141](https://github.com/Muneerali199/DocMagic/pull/141) |
-| feat: Implement contributor badges, leaderboard, and new contributor … | Medium | [#127](https://github.com/Muneerali199/DocMagic/pull/127) |
+| Fix issue #163 | Medium | [#222](https://github.com/Muneerali199/DocMagic/pull/222) |
+| fixes: #208 | Medium | [#221](https://github.com/Muneerali199/DocMagic/pull/221) |
+| Integrate Frontend with Backend for Payment Gateway | Medium | [#219](https://github.com/Muneerali199/DocMagic/issues/219) |
+| Design an Interactive Letter Preview and Edit Mode | Medium | [#217](https://github.com/Muneerali199/DocMagic/issues/217) |
+| Create a Library of Customizable Letter Templates | Medium | [#216](https://github.com/Muneerali199/DocMagic/issues/216) |
+| Updated README.md, cleaned up slop. | Medium | [#204](https://github.com/Muneerali199/DocMagic/pull/204) |
+| Add Testimonials page | Medium | [#203](https://github.com/Muneerali199/DocMagic/pull/203) |
+| fix: improve text contrast for gradient buttons | Medium | [#195](https://github.com/Muneerali199/DocMagic/pull/195) |
+| fix: resolve TypeScript errors in resume components | Medium | [#188](https://github.com/Muneerali199/DocMagic/pull/188) |
 
 ---
 
@@ -146,10 +159,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: PowerPoint Slide Generation from PDF Content | Medium | [#37](https://github.com/Er-luffy-D/SimplifAI/issues/37) |
-| feat: Added Summary Length Selection by the User | Medium | [#35](https://github.com/Er-luffy-D/SimplifAI/pull/35) |
+| enhancement: Improved the logic for Reset and Shuffle button and added Navigation Buttons | Medium | [#50](https://github.com/Er-luffy-D/SimplifAI/pull/50) |
+| feat: Implement advanced scroll animations and interactive cursor system inspired by Lenis and using GSAP | Medium | [#49](https://github.com/Er-luffy-D/SimplifAI/pull/49) |
 | Add Docker Compose setup and update README | Medium | [#31](https://github.com/Er-luffy-D/SimplifAI/pull/31) |
-| Feature Proposal: User Dashboard for Content & Progress Management | Hard | [#29](https://github.com/Er-luffy-D/SimplifAI/issues/29) |
 
 ---
 
@@ -167,6 +179,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance Register/Login UI and Improve Navbar for Student & Teacher Pages | Medium | [#13](https://github.com/sailaja-adapa/GuruShish/issues/13) |
+| Redesign landing page with minimalistic UI and Framer Motion animations | Medium | [#12](https://github.com/sailaja-adapa/GuruShish/pull/12) |
+| Enhancing the login page like the register page has | Medium | [#11](https://github.com/sailaja-adapa/GuruShish/issues/11) |
 | Add a dark theme option to improve the user experience, especially for browsing in low-light or nighttime conditions. | Medium | [#10](https://github.com/sailaja-adapa/GuruShish/issues/10) |
 | Feature: Addition of AI tutor | Medium | [#9](https://github.com/sailaja-adapa/GuruShish/issues/9) |
 | 🚫 License Missing from Repository | Medium | [#8](https://github.com/sailaja-adapa/GuruShish/issues/8) |
@@ -175,7 +190,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
 | Glassy Navbar Contribution | Medium | [#3](https://github.com/sailaja-adapa/GuruShish/issues/3) |
 | Issue with the setup instructions | Medium | [#2](https://github.com/sailaja-adapa/GuruShish/issues/2) |
-| Login page and register UI issue and authentication issues | Medium | [#1](https://github.com/sailaja-adapa/GuruShish/issues/1) |
 
 ---
 
@@ -193,6 +207,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement comprehensive client-side form validation using Zod and React Hook Form | Medium | [#6](https://github.com/Sarthak027/Hackgrid/issues/6) |
 | seacrch bar+ prisma and search bar fix + security implementation | Medium | [#5](https://github.com/Sarthak027/Hackgrid/issues/5) |
 | Add Public Landing Page and Prevent Default Sign-In Redirect | Medium | [#4](https://github.com/Sarthak027/Hackgrid/pull/4) |
 | Separate Dashboards for Students, Teachers, Admins | Medium | [#3](https://github.com/Sarthak027/Hackgrid/issues/3) |
