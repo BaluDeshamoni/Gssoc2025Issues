@@ -14,10 +14,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updated Middleware with Standard token format and improved Structure | Medium | [#135](https://github.com/Amarjha01/InfantCareCompass/pull/135) |
+| improved-signin-signup-workflow | Medium | [#132](https://github.com/Amarjha01/InfantCareCompass/pull/132) |
+| docs: Overhaul README with corrected formatting and details | Medium | [#129](https://github.com/Amarjha01/InfantCareCompass/pull/129) |
+| Cursor Ui Issue Resolved | Medium | [#125](https://github.com/Amarjha01/InfantCareCompass/pull/125) |
+| Add contributing.md fiile for new contributors | Medium | [#124](https://github.com/Amarjha01/InfantCareCompass/pull/124) |
+| Fix: Removed password strength from login and made cursor global | Medium | [#122](https://github.com/Amarjha01/InfantCareCompass/pull/122) |
+| Added Code of Conduct file and updated the README.md | Medium | [#121](https://github.com/Amarjha01/InfantCareCompass/pull/121) |
+| Cleaned up server/index.js for better readability. | Medium | [#117](https://github.com/Amarjha01/InfantCareCompass/pull/117) |
 | Improved footer design , added floating scroll-to-top button | Medium | [#113](https://github.com/Amarjha01/InfantCareCompass/pull/113) |
 | Fixed the alignment of experience section according to the screen size | Medium | [#108](https://github.com/Amarjha01/InfantCareCompass/pull/108) |
-| Rectified read more button redirection | Medium | [#105](https://github.com/Amarjha01/InfantCareCompass/pull/105) |
-| Improve News UI: consistent card sizing, hover effects, and fallback … | Medium | [#103](https://github.com/Amarjha01/InfantCareCompass/pull/103) |
 
 ---
 
@@ -35,10 +41,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create Comprehensive API Documentation with OpenAPI Specification | Easy | [#57](https://github.com/Devasy23/splitwiser/issues/57) |
+| Docs/gssoc25 expo analysis | Medium | [#84](https://github.com/Devasy23/splitwiser/pull/84) |
+| poc(frontend-streamlit): Added cookie baased auth in streamlit using streamlit-cookie-manager | Medium | [#83](https://github.com/Devasy23/splitwiser/pull/83) |
 | Improve exception handling and unit tests for auth, user, groups, expenses | Medium | [#79](https://github.com/Devasy23/splitwiser/pull/79) |
 | docs: Add setup guide for UI and authenticated endpoints | Medium | [#78](https://github.com/Devasy23/splitwiser/pull/78) |
-| Docs/expo analysis | Medium | [#77](https://github.com/Devasy23/splitwiser/pull/77) |
 | Implemented Google Authentication using firebase | Medium | [#76](https://github.com/Devasy23/splitwiser/pull/76) |
 | feat(groups): enhance expense splitting options with detailed methods and UI improvements | Medium | [#49](https://github.com/Devasy23/splitwiser/pull/49) |
 | Remove frontend codebase and add comprehensive documentation | Medium | [#47](https://github.com/Devasy23/splitwiser/pull/47) |
@@ -94,6 +100,11 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| #Issue 8: Validate uploaded data | Medium | [#28](https://github.com/manasvi-0/AlgoLab/pull/28) |
+| Implement Missing algo_files Module + Complete Data Visualization & Unsupervised Learning Suite | Medium | [#27](https://github.com/manasvi-0/AlgoLab/pull/27) |
+| Fix ModuleNotFoundError-Implement Missing algo_files Module with Data Visualization | Medium | [#26](https://github.com/manasvi-0/AlgoLab/issues/26) |
+| KNN visulization using streamlit as UI | Medium | [#25](https://github.com/manasvi-0/AlgoLab/pull/25) |
+| Implement Interactive Model Evaluation Dashboard | Medium | [#23](https://github.com/manasvi-0/AlgoLab/issues/23) |
 | updated requirements.txt, Created unsupervise_learning.py uses sample data | Medium | [#22](https://github.com/manasvi-0/AlgoLab/pull/22) |
 | Linear and Logistic Regression | Medium | [#16](https://github.com/manasvi-0/AlgoLab/pull/16) |
 | Add Linear Regression to supervised_module.py | Medium | [#15](https://github.com/manasvi-0/AlgoLab/pull/15) |
@@ -118,8 +129,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Role-Based Redirection (#32)and Protected Route Logic (#10) | Medium | [#90](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/90) |
-| Route change retains previous scroll position | Medium | [#89](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/89) |
+| Added the basic functionality to company dashboard | Medium | [#111](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/111) |
+| Replace Browser Alerts with Toast Notifications (Improve UX) | Medium | [#110](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/110) |
+| Created Sample dashboards with Mock data and resolved backend flaws | Medium | [#109](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/109) |
+| Added 404 and global error handling | Medium | [#108](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/108) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 
 ---
@@ -154,6 +167,10 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Patient Progress Tracker, Personalized Exercise Plan Generator, and Voice-Guided Mode for Accessibility | Medium | [#51](https://github.com/whyvineet/orthoplay/issues/51) |
+| Added a 'play slow' button to src/components/AudioPlayer | Medium | [#50](https://github.com/whyvineet/orthoplay/pull/50) |
+| The `AudioPlayer` component currently uses blocking `alert()` calls | Medium | [#47](https://github.com/whyvineet/orthoplay/issues/47) |
+| added a feedback celebration sound after entering a correct spelling,and 'next word button'. | Medium | [#46](https://github.com/whyvineet/orthoplay/pull/46) |
 | Add ABOUT_ORTHOPLAY.md with project overview, demo, features, and contributors | Medium | [#45](https://github.com/whyvineet/orthoplay/pull/45) |
 | Added requirements.txt for easier dependency installation | Medium | [#44](https://github.com/whyvineet/orthoplay/pull/44) |
 | Hint System Added | Medium | [#43](https://github.com/whyvineet/orthoplay/pull/43) |
