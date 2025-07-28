@@ -14,8 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Remove Footer from the Home page | Easy | [#31](https://github.com/Abhinavhaldiya/FinPilot/issues/31) |
+| Adding Fields in Signup Page | Easy | [#30](https://github.com/Abhinavhaldiya/FinPilot/issues/30) |
+| Schema Definition using Prisma | Medium | [#32](https://github.com/Abhinavhaldiya/FinPilot/issues/32) |
+| fix: documentation updated along with .env.example | Medium | [#27](https://github.com/Abhinavhaldiya/FinPilot/pull/27) |
 | CODE_OF_CONDUCT.md | Medium | [#26](https://github.com/Abhinavhaldiya/FinPilot/pull/26) |
-| Documentation : Introduce Code of Conduct for FinPilot | GSSoC’25 | Medium | [#25](https://github.com/Abhinavhaldiya/FinPilot/issues/25) |
 | Responsive Sidebar & Dashboard UI Redesign | Medium | [#23](https://github.com/Abhinavhaldiya/FinPilot/issues/23) |
 | Update README.md file | Medium | [#21](https://github.com/Abhinavhaldiya/FinPilot/issues/21) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#19](https://github.com/Abhinavhaldiya/FinPilot/issues/19) |
@@ -38,6 +41,11 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Auto-scroll to top on route change | Easy | [#69](https://github.com/BhaktiMore18/Pouranik/issues/69) |
+| Auto Logout of user after token expiration | Medium | [#92](https://github.com/BhaktiMore18/Pouranik/issues/92) |
+| Improve Navbar & Footer UI – Spacing, Visual Balance, and Background Color Consistency | Medium | [#91](https://github.com/BhaktiMore18/Pouranik/issues/91) |
+| Fix critical navbar visibility issue in light mode - improve accessibility | Medium | [#90](https://github.com/BhaktiMore18/Pouranik/pull/90) |
+| fixed the bug of explore search bar | Medium | [#88](https://github.com/BhaktiMore18/Pouranik/pull/88) |
+| fixed authors logic in explore books section | Medium | [#86](https://github.com/BhaktiMore18/Pouranik/pull/86) |
 | backend for Login/signUp | Medium | [#81](https://github.com/BhaktiMore18/Pouranik/pull/81) |
 | Add AI Summary Generator for Book Details Page | Medium | [#58](https://github.com/BhaktiMore18/Pouranik/pull/58) |
 | ui enhanced overflows prevented | Medium | [#44](https://github.com/BhaktiMore18/Pouranik/pull/44) |
@@ -84,6 +92,19 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| : Add Prettier Config for Code Consistency | Medium | [#92](https://github.com/chandannekya/Clean-Breath/issues/92) |
+| Add Script to Run Both Frontend and Backend Simultaneously | Medium | [#91](https://github.com/chandannekya/Clean-Breath/issues/91) |
+| Add Project Structure Diagram or Section in README.md | Medium | [#90](https://github.com/chandannekya/Clean-Breath/issues/90) |
+| Improve Accessibility by Adding Alt Text and ARIA Labels | Medium | [#89](https://github.com/chandannekya/Clean-Breath/issues/89) |
+| Rename Folder midelware to middleware | Medium | [#88](https://github.com/chandannekya/Clean-Breath/issues/88) |
+| Add Environment Variable Setup Instructions to README | Medium | [#87](https://github.com/chandannekya/Clean-Breath/issues/87) |
+| Add "Back to Top" Button in README.md for Better Navigation | Medium | [#86](https://github.com/chandannekya/Clean-Breath/issues/86) |
+| Feature Request: Add Favicon to the Website | Medium | [#85](https://github.com/chandannekya/Clean-Breath/issues/85) |
+| Complete Blog Page Redesign (Frontend + Backend) – Closes #74 | Medium | [#84](https://github.com/chandannekya/Clean-Breath/pull/84) |
+| Add search and filter functionality to plant recommendations. | Medium | [#83](https://github.com/chandannekya/Clean-Breath/issues/83) |
+| Scroll Doesn't Reset When Navigating from FAQ Links | Medium | [#82](https://github.com/chandannekya/Clean-Breath/issues/82) |
+| Bug: Mongoose Connection Uses Wrong Environment Variable | Medium | [#81](https://github.com/chandannekya/Clean-Breath/issues/81) |
+| Missing Forgot Password option while sign in | Medium | [#80](https://github.com/chandannekya/Clean-Breath/issues/80) |
 | refactored code to use utility | Medium | [#78](https://github.com/chandannekya/Clean-Breath/pull/78) |
 | Created backed for the User Profile section | Medium | [#77](https://github.com/chandannekya/Clean-Breath/pull/77) |
 | Fixing the data error | Medium | [#76](https://github.com/chandannekya/Clean-Breath/issues/76) |
@@ -98,13 +119,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Enhance Navbar with Smooth Transitions and Improved Spacing- Fixes #27 | Medium | [#63](https://github.com/chandannekya/Clean-Breath/pull/63) |
 | The navbar need UI changes | Medium | [#60](https://github.com/chandannekya/Clean-Breath/issues/60) |
 | Updated About us UI and added services page | Medium | [#59](https://github.com/chandannekya/Clean-Breath/pull/59) |
-| Missing LICENSE file | Medium | [#58](https://github.com/chandannekya/Clean-Breath/issues/58) |
-| Add CONTRIBUTING.md to Improve Contributor Onboarding | Medium | [#57](https://github.com/chandannekya/Clean-Breath/pull/57) |
-| In footer section one link is not working | Medium | [#55](https://github.com/chandannekya/Clean-Breath/issues/55) |
-| Add Navigation for "Features" Section on Homepage (Level 3) | Medium | [#52](https://github.com/chandannekya/Clean-Breath/issues/52) |
-| UI Issues in Pollutant Selector + Proposal for Dark Mode Support | Medium | [#49](https://github.com/chandannekya/Clean-Breath/issues/49) |
-| Make navbar responsive for mobile view with animation | Medium | [#48](https://github.com/chandannekya/Clean-Breath/pull/48) |
-| Add a 'Back to top' floating button | Medium | [#44](https://github.com/chandannekya/Clean-Breath/issues/44) |
 
 ---
 
@@ -142,7 +156,6 @@ _No unassigned issues._
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | feat: Implement CI/CD and monitoring workflows | Medium | [#182](https://github.com/GauravKarakoti/Weather-API/pull/182) |
-| Improved ARIA attributes | Medium | [#169](https://github.com/GauravKarakoti/Weather-API/pull/169) |
 | Improve SW cache versioning | Medium | [#150](https://github.com/GauravKarakoti/Weather-API/issues/150) |
 
 ---
@@ -161,13 +174,10 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| QA: Test session management after login | Easy | [#77](https://github.com/GitMetricsLab/github_tracker/issues/77) |
-| Feature: Migrate material UI to shadcn | Medium | [#92](https://github.com/GitMetricsLab/github_tracker/issues/92) |
-| 🐛 Bug Report: Pagination fails for some users | Medium | [#89](https://github.com/GitMetricsLab/github_tracker/issues/89) |
+| fixed: theme switch bug for login & contributors pages respectively | Medium | [#138](https://github.com/GitMetricsLab/github_tracker/pull/138) |
+| About UI | Medium | [#134](https://github.com/GitMetricsLab/github_tracker/pull/134) |
 | Feature/shareable pr link | Medium | [#72](https://github.com/GitMetricsLab/github_tracker/pull/72) |
-| Feature: Create a shareable link which showcases PRs of a user | Medium | [#70](https://github.com/GitMetricsLab/github_tracker/issues/70) |
-| Feature: Optimize timing of fetch data | Medium | [#62](https://github.com/GitMetricsLab/github_tracker/issues/62) |
-| Feature: Add a page to track all github issues with filters of programming language, labels | Hard | [#55](https://github.com/GitMetricsLab/github_tracker/issues/55) |
+| Feature: Add a page to track all github issues with filters of programming language, labels | Medium | [#55](https://github.com/GitMetricsLab/github_tracker/issues/55) |
 
 ---
 
@@ -187,8 +197,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Role-Based Redirection (#32)and Protected Route Logic (#10) | Medium | [#90](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/90) |
-| Route change retains previous scroll position | Medium | [#89](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/89) |
+| Added the basic functionality to company dashboard | Medium | [#111](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/111) |
+| Replace Browser Alerts with Toast Notifications (Improve UX) | Medium | [#110](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/110) |
+| Created Sample dashboards with Mock data and resolved backend flaws | Medium | [#109](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/109) |
+| Added 404 and global error handling | Medium | [#108](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/108) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 
 ---
@@ -212,6 +224,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Footer changes | Medium | [#38](https://github.com/nishantharkut/W3nity/pull/38) |
 | Route change retains previous scroll position | Medium | [#37](https://github.com/nishantharkut/W3nity/issues/37) |
 | Increase Test Coverage: Cover EventTicketNFT.sol and Escrow.sol Contracts, Lock.sol | Medium | [#36](https://github.com/nishantharkut/W3nity/pull/36) |
 | Refactor Smart Contracts for Solidity Best Practices, Gas Efficiency, and Readability | Medium | [#35](https://github.com/nishantharkut/W3nity/pull/35) |
@@ -234,6 +247,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Advanced "Company + Topic Wise Dashboard" with Filters, Progress Tracking, and Daily Planner | Medium | [#5](https://github.com/byteom/Interview01/issues/5) |
 | Add Hover Effect to Footer Links | Medium | [#4](https://github.com/byteom/Interview01/issues/4) |
 
 ---
@@ -252,6 +266,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📘 Documentation Code of Conduct — ClassMgmtSysOS | GSSoC'25 | Medium | [#9](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/9) |
+| Login and Register buttons visible on homepage even after user is signed in | Medium | [#8](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/8) |
 | Update Readme file | Medium | [#7](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/7) |
 | Feature: UI/UX Enhancements for Improved Navigation, Accessibility & Visual Experience | Medium | [#6](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/6) |
 | Create LICENSE | Medium | [#5](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/5) |
@@ -274,8 +290,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: manual refresh button to LeaderBoard | Medium | [#24](https://github.com/swarooppatilx/bit-by-query/pull/24) |
-| Fixes #22 : Added Validations For Register/Login Page | Medium | [#23](https://github.com/swarooppatilx/bit-by-query/pull/23) |
+| fix: persist question completion state and progress across page reloa… | Medium | [#25](https://github.com/swarooppatilx/bit-by-query/pull/25) |
 | Create server.js | Medium | [#17](https://github.com/swarooppatilx/bit-by-query/pull/17) |
 
 ---
