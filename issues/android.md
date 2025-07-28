@@ -12,10 +12,7 @@
 
 ### 🐛 Unassigned Issues
 
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| [Feature]: Setup Spotless for code formatting | Medium | [#114](https://github.com/sourabhkumar47/ResQFood/issues/114) |
-| [FEATURE]: Added the Option to continue as a Guest User and also re added the Onboarding Screen to the navigation Map | Medium | [#97](https://github.com/sourabhkumar47/ResQFood/issues/97) |
+_No unassigned issues._
 
 ---
 
