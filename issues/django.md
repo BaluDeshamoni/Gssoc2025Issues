@@ -14,26 +14,18 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add tests for <ProjectsDashboardNavBar> component | Easy | [#1866](https://github.com/OWASP/Nest/issues/1866) |
-| Add tests for <ProjectsDashboardDropDown> component | Easy | [#1865](https://github.com/OWASP/Nest/issues/1865) |
-| Add tests for <Pagination> component | Easy | [#1864](https://github.com/OWASP/Nest/issues/1864) |
-| Add tests for <NavDropDown> component | Easy | [#1863](https://github.com/OWASP/Nest/issues/1863) |
-| Add tests for <NavButton> component | Easy | [#1862](https://github.com/OWASP/Nest/issues/1862) |
-| Add tests for <MultiSearch> component | Easy | [#1861](https://github.com/OWASP/Nest/issues/1861) |
-| Add tests for <ModeToggle> component | Easy | [#1860](https://github.com/OWASP/Nest/issues/1860) |
-| Add tests for <Modal> component | Easy | [#1859](https://github.com/OWASP/Nest/issues/1859) |
-| Add tests for <Milestones> component | Easy | [#1858](https://github.com/OWASP/Nest/issues/1858) |
-| Add tests for <LogoCarousel> component | Easy | [#1843](https://github.com/OWASP/Nest/issues/1843) |
-| Add tests for <GeneralCompliantComponent> component | Easy | [#1835](https://github.com/OWASP/Nest/issues/1835) |
-| [Test] Add: Unit tests for InfoItem component | Medium | [#1870](https://github.com/OWASP/Nest/pull/1870) |
-| Add user avatar in navbar with a dropdown menu | Medium | [#1869](https://github.com/OWASP/Nest/issues/1869) |
-| Add LeadersList.test.tsx | Medium | [#1868](https://github.com/OWASP/Nest/pull/1868) |
-| Fix #1792 Added a tooltip to show the entire number on hover | Medium | [#1855](https://github.com/OWASP/Nest/pull/1855) |
+| Improve member page user details UX | Easy | [#1889](https://github.com/OWASP/Nest/issues/1889) |
+| Add tests for <RepositoriesCard> component | Easy | [#1885](https://github.com/OWASP/Nest/issues/1885) |
+| Add tests for <RecentReleases> component | Easy | [#1884](https://github.com/OWASP/Nest/issues/1884) |
+| Add tests for <RecentPullRequests> component | Easy | [#1883](https://github.com/OWASP/Nest/issues/1883) |
+| Improve unit tests for <Footer /> component | Medium | [#1888](https://github.com/OWASP/Nest/pull/1888) |
+| Header Component | Medium | [#1881](https://github.com/OWASP/Nest/pull/1881) |
+| feat: Add unit tests for MetricsCard component | Medium | [#1880](https://github.com/OWASP/Nest/pull/1880) |
+| Add Pagination Unit Tests & Accessibility Tweaks (Closes #1864) | Medium | [#1879](https://github.com/OWASP/Nest/pull/1879) |
+| Add LeadersList.test.tsx | Medium | [#1877](https://github.com/OWASP/Nest/pull/1877) |
+| Added tests for <NavDropDown> component #1863 | Medium | [#1876](https://github.com/OWASP/Nest/pull/1876) |
 | Test/card details page 1804 | Medium | [#1854](https://github.com/OWASP/Nest/pull/1854) |
-| feat: Add comprehensive unit tests for MetricsScoreCircle component | Medium | [#1852](https://github.com/OWASP/Nest/pull/1852) |
 | #1841 Add tests for <LoadingSpinner> component | Medium | [#1847](https://github.com/OWASP/Nest/pull/1847) |
-| refactor:remove PLR0912 ignore and fix 4 violations | Medium | [#1834](https://github.com/OWASP/Nest/pull/1834) |
-| Add Badge model to owasp app #1762 | Medium | [#1831](https://github.com/OWASP/Nest/pull/1831) |
 
 ---
 
@@ -51,6 +43,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create Templates for Issues , pull Request | Medium | [#20](https://github.com/indra7777/frostiq/issues/20) |
+| Improvements in main.py in bakerybackend | Medium | [#19](https://github.com/indra7777/frostiq/issues/19) |
 | Add Root Route (/) for Check | Medium | [#18](https://github.com/indra7777/frostiq/pull/18) |
 | Improve .gitignore for Development Hygiene | Medium | [#17](https://github.com/indra7777/frostiq/pull/17) |
 | 🌐 Deploy FrostIQ and Add Live Demo Link to README | Medium | [#16](https://github.com/indra7777/frostiq/issues/16) |
@@ -72,6 +66,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create Updated Readme | Medium | [#25](https://github.com/kaushav07/VisionMate/pull/25) |
+| Detect and possibly recognize faces of known people. | Medium | [#24](https://github.com/kaushav07/VisionMate/issues/24) |
 | Real-Time Object Detection with Audio Feedback | Medium | [#23](https://github.com/kaushav07/VisionMate/issues/23) |
 | Refactor and Harden Application: Security, Robustness, and Error Handling Improvements | Medium | [#21](https://github.com/kaushav07/VisionMate/issues/21) |
 | contributors.md file is missing | Medium | [#20](https://github.com/kaushav07/VisionMate/issues/20) |
@@ -107,18 +103,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing CONTRIBUTING.md File | Medium | [#13](https://github.com/Khushbudaswani/Foodbridge/issues/13) |
+| Improve SEO for Food Bridge Website | Medium | [#20](https://github.com/Khushbudaswani/Foodbridge/issues/20) |
 | Improve project documentation and add `.gitignore` file | Medium | [#12](https://github.com/Khushbudaswani/Foodbridge/issues/12) |
 | Add inline comments and docstrings across un-commented files for better readability | Medium | [#11](https://github.com/Khushbudaswani/Foodbridge/issues/11) |
-| Django Template Errors & Fixes | Medium | [#10](https://github.com/Khushbudaswani/Foodbridge/issues/10) |
-| Fix and Verify Static Files, URL Names, and Template Configuration | Medium | [#9](https://github.com/Khushbudaswani/Foodbridge/issues/9) |
-| updated readme | Medium | [#8](https://github.com/Khushbudaswani/Foodbridge/issues/8) |
-| Added validation of phone/email/city for for donation and volunteer forms | Medium | [#7](https://github.com/Khushbudaswani/Foodbridge/pull/7) |
-| 🚫 License Missing from Repository | Medium | [#6](https://github.com/Khushbudaswani/Foodbridge/issues/6) |
-| Improper card size | Medium | [#5](https://github.com/Khushbudaswani/Foodbridge/issues/5) |
-| Creating a proper readme | Medium | [#4](https://github.com/Khushbudaswani/Foodbridge/issues/4) |
-| added a text overlay effect on hovering on a gallery image | Medium | [#3](https://github.com/Khushbudaswani/Foodbridge/pull/3) |
-| Improve Hover Effects: "Get your plants" Button & Footer Links | Medium | [#2](https://github.com/Khushbudaswani/Foodbridge/issues/2) |
 
 ---
 
@@ -136,12 +123,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added job filter feature with location, experience, and job type filters | Medium | [#73](https://github.com/Khushi-Nigam/jobportal/pull/73) |
+| added linkedin button as new login feature | Medium | [#72](https://github.com/Khushi-Nigam/jobportal/pull/72) |
+| Enable Email Notification System for Job Updates | Medium | [#69](https://github.com/Khushi-Nigam/jobportal/issues/69) |
 | fix: Adding font styles in headings | Medium | [#57](https://github.com/Khushi-Nigam/jobportal/pull/57) |
 | Systemic Infosec Vulnerabilities and Codebase Anti-Patterns in Django | Medium | [#56](https://github.com/Khushi-Nigam/jobportal/issues/56) |
 | AI Powered Job Search Feature | Medium | [#55](https://github.com/Khushi-Nigam/jobportal/pull/55) |
 | updated the views | Medium | [#54](https://github.com/Khushi-Nigam/jobportal/pull/54) |
 | Add email notification for application status updates | Medium | [#51](https://github.com/Khushi-Nigam/jobportal/pull/51) |
-| UI Enhancement After Jobseeker or Employer Login | Medium | [#12](https://github.com/Khushi-Nigam/jobportal/issues/12) |
 
 ---
 
@@ -175,7 +164,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create LICENSE | Medium | [#8](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/8) |
+| Add Data Dashboard, Model Explainability, and API Layer for Sneaker Price Prediction | Medium | [#10](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/10) |
 | Added LSTM Model for Sneaker Price Prediction | Medium | [#7](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/7) |
 | Add CSV Format Validation & Error Handling for Sneaker Dataset Upload | Medium | [#5](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/5) |
 | Improved frontend and fixed error 400 | Medium | [#2](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/2) |
@@ -196,6 +185,9 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Real-Time Note Saving Functionality | Medium | [#174](https://github.com/ygowthamr/WhitePaper/issues/174) |
+| Exposed GitHub OAuth Credentials | Medium | [#173](https://github.com/ygowthamr/WhitePaper/issues/173) |
+| Secret Key is Hardcoded in settings.py | Medium | [#172](https://github.com/ygowthamr/WhitePaper/issues/172) |
 | Addaboutuspage | Medium | [#170](https://github.com/ygowthamr/WhitePaper/pull/170) |
 | Final improvements across all pages | Medium | [#169](https://github.com/ygowthamr/WhitePaper/pull/169) |
 | Create working signup Page | Medium | [#167](https://github.com/ygowthamr/WhitePaper/issues/167) |
