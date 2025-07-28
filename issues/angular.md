@@ -14,12 +14,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Integration of backend security features with frontend. | Easy | [#33](https://github.com/abhisek247767/PeopleHub-Frontend/issues/33) |
+| Update README.md file | Easy | [#42](https://github.com/abhisek247767/PeopleHub-Frontend/issues/42) |
 | project page ui issue | Easy | [#22](https://github.com/abhisek247767/PeopleHub-Frontend/issues/22) |
 | Frontend - register page | Easy | [#7](https://github.com/abhisek247767/PeopleHub-Frontend/issues/7) |
-| #33 Email-verification and forgot-password added | Medium | [#35](https://github.com/abhisek247767/PeopleHub-Frontend/pull/35) |
-| Implement Dark Mode Toggle | Medium | [#31](https://github.com/abhisek247767/PeopleHub-Frontend/issues/31) |
-| settings page header not come and ui also not good and not matching to main page | Hard | [#13](https://github.com/abhisek247767/PeopleHub-Frontend/issues/13) |
+| Updated README.md | Medium | [#49](https://github.com/abhisek247767/PeopleHub-Frontend/pull/49) |
+| Improved Settings Page UI and Integrated Profile Image Upload | Medium | [#48](https://github.com/abhisek247767/PeopleHub-Frontend/pull/48) |
+| #13 Header fixed | Medium | [#47](https://github.com/abhisek247767/PeopleHub-Frontend/pull/47) |
+| feat: add dark/light mode toggle in header with improved styling | Medium | [#46](https://github.com/abhisek247767/PeopleHub-Frontend/pull/46) |
+| #22 Fixed Project page ui issue | Medium | [#45](https://github.com/abhisek247767/PeopleHub-Frontend/pull/45) |
+| Improved Settings Page UI and Added Profile Photo Upload | Medium | [#38](https://github.com/abhisek247767/PeopleHub-Frontend/pull/38) |
+| settings page header not come and ui also not good and not matching to main page | Medium | [#13](https://github.com/abhisek247767/PeopleHub-Frontend/issues/13) |
 
 ---
 
