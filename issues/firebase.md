@@ -12,9 +12,7 @@
 
 ### 🐛 Unassigned Issues
 
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Fix footer subscribe button left border radius | Medium | [#53](https://github.com/ShishuCard/Vaccination_Portal/pull/53) |
+_No unassigned issues._
 
 ---
 
@@ -32,7 +30,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| google authorization | Medium | [#1159](https://github.com/Code-A2Z/code-a2z/issues/1159) |
+| 📃: Adding Music record manager | Easy | [#914](https://github.com/Code-A2Z/code-a2z/issues/914) |
+| Adding skeleton  for "Recommended Topics" | Medium | [#1163](https://github.com/Code-A2Z/code-a2z/issues/1163) |
 | 📃: Black Friday Analysis | Medium | [#1107](https://github.com/Code-A2Z/code-a2z/issues/1107) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 📃: Fake News Detection using Deep Learning | Medium | [#1139](https://github.com/Code-A2Z/code-a2z/issues/1139) |
@@ -72,12 +71,12 @@
 |----------|----------------|---------|
 | Debug and Fix Firebase Firestore Connection on Login | Easy | [#40](https://github.com/mansiruhil/fail-u-forward/issues/40) |
 | Fix "Failed to get document because the client is offline" Error | Easy | [#28](https://github.com/mansiruhil/fail-u-forward/issues/28) |
-| Improve Login Page Layout and Accessibility | Easy | [#21](https://github.com/mansiruhil/fail-u-forward/issues/21) |
 | Add Hover & Click Animation to Hero Buttons | Easy | [#20](https://github.com/mansiruhil/fail-u-forward/issues/20) |
-| Dark Mode: Signup form input text not visible while typing | Medium | [#71](https://github.com/mansiruhil/fail-u-forward/issues/71) |
-| Missing CONTRIBUTING.md File | Medium | [#70](https://github.com/mansiruhil/fail-u-forward/issues/70) |
+| 1: Add Backend to Post and Fix Fetch Error | Medium | [#81](https://github.com/mansiruhil/fail-u-forward/issues/81) |
+| Add Backend Support for User Post Submission and Fix Post Fetching Error | Medium | [#80](https://github.com/mansiruhil/fail-u-forward/issues/80) |
+| Implement Edit Profile Functionality | Medium | [#73](https://github.com/mansiruhil/fail-u-forward/issues/73) |
+| Add Post Submission Functionality with File Upload | Medium | [#72](https://github.com/mansiruhil/fail-u-forward/issues/72) |
 | Improve profile update error Occuring | Medium | [#65](https://github.com/mansiruhil/fail-u-forward/issues/65) |
-| Fix/polish signup page | Medium | [#59](https://github.com/mansiruhil/fail-u-forward/pull/59) |
 | UI Navigation Enhancement | Medium | [#55](https://github.com/mansiruhil/fail-u-forward/issues/55) |
 | vercel deployment has been failed | Medium | [#50](https://github.com/mansiruhil/fail-u-forward/issues/50) |
 | Improve Profile Card | Medium | [#46](https://github.com/mansiruhil/fail-u-forward/issues/46) |
@@ -100,10 +99,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a issue template | Easy | [#51](https://github.com/Prateek9876/NagarVikas/issues/51) |
-| UI: Improve Padding/Margin in Complaint Form | Easy | [#10](https://github.com/Prateek9876/NagarVikas/issues/10) |
-| Improve UI of Admin Dashboard Appbar (Again Submit) | Medium | [#154](https://github.com/Prateek9876/NagarVikas/pull/154) |
+| Localization | Medium | [#164](https://github.com/Prateek9876/NagarVikas/pull/164) |
 | Improve Image Upload UX | Medium | [#41](https://github.com/Prateek9876/NagarVikas/issues/41) |
+| Add push notification feature to admin dashboard whenever new complaint is filed by user | Hard | [#127](https://github.com/Prateek9876/NagarVikas/issues/127) |
 | Add Star/Favorite to Complaints (Admin) | Hard | [#64](https://github.com/Prateek9876/NagarVikas/issues/64) |
 
 ---
@@ -122,9 +120,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Mobile Responsive Now | Medium | [#18](https://github.com/robinsingh-ai/AutomataVerse/pull/18) |
-| Feature Request: Add Email/Password Signup Form (Alongside Google Signup) | Medium | [#17](https://github.com/robinsingh-ai/AutomataVerse/issues/17) |
-| Add Hover Effect to the Buttons | Medium | [#2](https://github.com/robinsingh-ai/AutomataVerse/issues/2) |
+| div overlap each other on demo | Medium | [#20](https://github.com/robinsingh-ai/AutomataVerse/issues/20) |
+| cross icon should align properly | Medium | [#19](https://github.com/robinsingh-ai/AutomataVerse/issues/19) |
 | redesign demo page | Hard | [#14](https://github.com/robinsingh-ai/AutomataVerse/issues/14) |
 | Refactor Complex Components with Render Props | Hard | [#7](https://github.com/robinsingh-ai/AutomataVerse/issues/7) |
 | Add Individual State and Transition Deletion | Hard | [#3](https://github.com/robinsingh-ai/AutomataVerse/issues/3) |
@@ -145,9 +142,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Code Quality Improvements: Logging, Theme Color Alpha, and Safety Checks | Medium | [#75](https://github.com/Yash159357/BREVITY/pull/75) |
+| FEATURE REQUEST: Add a CONTRIBUTING.md to guide new contributors | Medium | [#71](https://github.com/Yash159357/BREVITY/issues/71) |
 | Integrated FCM notification setup | Medium | [#67](https://github.com/Yash159357/BREVITY/pull/67) |
 | Migrate from firebase to node js | Medium | [#66](https://github.com/Yash159357/BREVITY/pull/66) |
-| updated readme | Medium | [#65](https://github.com/Yash159357/BREVITY/issues/65) |
 
 ---
 
@@ -163,9 +161,7 @@
 
 ### 🐛 Unassigned Issues
 
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Issue: Text Not Visible Below Images on Tablet/Desktop View | Medium | [#11](https://github.com/sayan0328/WallGodds-App/issues/11) |
+_No unassigned issues._
 
 ---
 
@@ -183,6 +179,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📘 Documentation Code of Conduct — ClassMgmtSysOS | GSSoC'25 | Medium | [#9](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/9) |
+| Login and Register buttons visible on homepage even after user is signed in | Medium | [#8](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/8) |
 | Update Readme file | Medium | [#7](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/7) |
 | Feature: UI/UX Enhancements for Improved Navigation, Accessibility & Visual Experience | Medium | [#6](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/6) |
 | Create LICENSE | Medium | [#5](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/5) |
@@ -221,9 +219,10 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fixed add players for organizations . | Medium | [#50](https://github.com/VJLIVE/Athletix/pull/50) |
+| Tournaments page for Organization - View | Medium | [#46](https://github.com/VJLIVE/Athletix/pull/46) |
 | My feature | Medium | [#33](https://github.com/VJLIVE/Athletix/pull/33) |
 | feature: Add performance tracking with Firestore and chart | Medium | [#26](https://github.com/VJLIVE/Athletix/pull/26) |
-| Add players for organizations | Hard | [#41](https://github.com/VJLIVE/Athletix/issues/41) |
 
 ---
 
@@ -241,9 +240,10 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Code Quality Improvements: Logging, Theme Color Alpha, and Safety Checks | Medium | [#75](https://github.com/Yash159357/BREVITY/pull/75) |
+| FEATURE REQUEST: Add a CONTRIBUTING.md to guide new contributors | Medium | [#71](https://github.com/Yash159357/BREVITY/issues/71) |
 | Integrated FCM notification setup | Medium | [#67](https://github.com/Yash159357/BREVITY/pull/67) |
 | Migrate from firebase to node js | Medium | [#66](https://github.com/Yash159357/BREVITY/pull/66) |
-| updated readme | Medium | [#65](https://github.com/Yash159357/BREVITY/issues/65) |
 
 ---
 
