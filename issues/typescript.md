@@ -14,21 +14,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Auto assign labels | Medium | [#120](https://github.com/techxninjas2/techxninjas-client/pull/120) |
-| Fix: Center-align footer content on mobile view (issue #114) | Medium | [#117](https://github.com/techxninjas2/techxninjas-client/pull/117) |
-| Add PR Template | Medium | [#99](https://github.com/techxninjas2/techxninjas-client/issues/99) |
-| Modify: Changing the bg color in index.css | Medium | [#98](https://github.com/techxninjas2/techxninjas-client/pull/98) |
-| Issue: Implement Infinite Scroll on Articles Page | Medium | [#96](https://github.com/techxninjas2/techxninjas-client/issues/96) |
-| Implement Infinite Carousel & Hover Effects for Mentor & Testimonial Sections | Medium | [#94](https://github.com/techxninjas2/techxninjas-client/issues/94) |
-| "Discover Fact" Button Fails Without Gemini API Key – Needs Graceful Fallback | Medium | [#91](https://github.com/techxninjas2/techxninjas-client/issues/91) |
-| 🎨 Fix: Smooth transition between hero section and community stats | Medium | [#89](https://github.com/techxninjas2/techxninjas-client/pull/89) |
-| Fix/UI upgradation | Medium | [#88](https://github.com/techxninjas2/techxninjas-client/pull/88) |
-| Feedback Page Added | Medium | [#86](https://github.com/techxninjas2/techxninjas-client/pull/86) |
-| Search bar padding in Courses tab fixed... | Medium | [#84](https://github.com/techxninjas2/techxninjas-client/pull/84) |
-| Consistent Box Heights in "Browse by Category" Section | Medium | [#81](https://github.com/techxninjas2/techxninjas-client/pull/81) |
-| Fix: Home Icon Missing from Collapsed Sidebar | Medium | [#80](https://github.com/techxninjas2/techxninjas-client/pull/80) |
-| prevent tooltip from showing on expanded sidebar | Medium | [#74](https://github.com/techxninjas2/techxninjas-client/pull/74) |
-| I did **not create an issue before** submitting the pull request. Instead, I directly created a PR introducing a **minor UI improvement**. | Medium | [#68](https://github.com/techxninjas2/techxninjas-client/issues/68) |
+| Added certified youtube playlists in the Courses page. | Medium | [#143](https://github.com/techxninjas2/techxninjas-client/pull/143) |
+| fixed issue on enhancing meta tags.html file | Medium | [#142](https://github.com/techxninjas2/techxninjas-client/pull/142) |
+| fix: reposition theme toggle for small screens (closes #40) | Medium | [#141](https://github.com/techxninjas2/techxninjas-client/pull/141) |
+| Add Hackathon Entry Button to Dashboard | Medium | [#139](https://github.com/techxninjas2/techxninjas-client/issues/139) |
+| Fixed: Login/Register Form Overflow in Mobile View (Profile Section) | Medium | [#137](https://github.com/techxninjas2/techxninjas-client/pull/137) |
+| Updated meta-tags.html | Medium | [#136](https://github.com/techxninjas2/techxninjas-client/pull/136) |
+| Fix: Add badges on readme | Medium | [#135](https://github.com/techxninjas2/techxninjas-client/pull/135) |
+| Fix: Added pr template | Medium | [#134](https://github.com/techxninjas2/techxninjas-client/pull/134) |
+| Fix: Navigation Arrows Missing in Mobile View | Medium | [#133](https://github.com/techxninjas2/techxninjas-client/pull/133) |
+| Fixed issue 65, Added Colour Effect and more to Dark Mode Toggle button | Medium | [#131](https://github.com/techxninjas2/techxninjas-client/pull/131) |
+| Improve responsiveness and filter layout for mobile | Medium | [#130](https://github.com/techxninjas2/techxninjas-client/pull/130) |
+| feat: Add GitHub OAuth authentication | Medium | [#124](https://github.com/techxninjas2/techxninjas-client/pull/124) |
+| #102 fixed the responsiveness of the course page | Medium | [#122](https://github.com/techxninjas2/techxninjas-client/pull/122) |
 
 ---
 
@@ -54,9 +52,12 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI updates | Medium | [#111](https://github.com/abhisek2004/Dev-Elevate/pull/111) |
-| Feature added for admin course management issue #67 | Medium | [#110](https://github.com/abhisek2004/Dev-Elevate/pull/110) |
-| ## ✨ Feature Added: Google OAuth Login (Backend Only) | Medium | [#89](https://github.com/abhisek2004/Dev-Elevate/pull/89) |
+| Feature Request: Add Favicon to the Website | Medium | [#139](https://github.com/abhisek2004/Dev-Elevate/issues/139) |
+| <UI of NavBar in light theme> | Medium | [#136](https://github.com/abhisek2004/Dev-Elevate/issues/136) |
+| Improve Tech News & Opportunities Listing UI/UX | Medium | [#135](https://github.com/abhisek2004/Dev-Elevate/issues/135) |
+| Update README.md | Medium | [#134](https://github.com/abhisek2004/Dev-Elevate/pull/134) |
+| &[BUG]: Add feature of Profile Stats | Medium | [#133](https://github.com/abhisek2004/Dev-Elevate/issues/133) |
+| Add Premium v/s Freemium Features Comparison on /premium Page | Medium | [#129](https://github.com/abhisek2004/Dev-Elevate/issues/129) |
 | Feature: Add Activity Log/History Section & Restore Profile Picture Layout  #46 | Medium | [#77](https://github.com/abhisek2004/Dev-Elevate/pull/77) |
 
 ---
@@ -75,26 +76,18 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add tests for <ProjectsDashboardNavBar> component | Easy | [#1866](https://github.com/OWASP/Nest/issues/1866) |
-| Add tests for <ProjectsDashboardDropDown> component | Easy | [#1865](https://github.com/OWASP/Nest/issues/1865) |
-| Add tests for <Pagination> component | Easy | [#1864](https://github.com/OWASP/Nest/issues/1864) |
-| Add tests for <NavDropDown> component | Easy | [#1863](https://github.com/OWASP/Nest/issues/1863) |
-| Add tests for <NavButton> component | Easy | [#1862](https://github.com/OWASP/Nest/issues/1862) |
-| Add tests for <MultiSearch> component | Easy | [#1861](https://github.com/OWASP/Nest/issues/1861) |
-| Add tests for <ModeToggle> component | Easy | [#1860](https://github.com/OWASP/Nest/issues/1860) |
-| Add tests for <Modal> component | Easy | [#1859](https://github.com/OWASP/Nest/issues/1859) |
-| Add tests for <Milestones> component | Easy | [#1858](https://github.com/OWASP/Nest/issues/1858) |
-| Add tests for <LogoCarousel> component | Easy | [#1843](https://github.com/OWASP/Nest/issues/1843) |
-| Add tests for <GeneralCompliantComponent> component | Easy | [#1835](https://github.com/OWASP/Nest/issues/1835) |
-| [Test] Add: Unit tests for InfoItem component | Medium | [#1870](https://github.com/OWASP/Nest/pull/1870) |
-| Add user avatar in navbar with a dropdown menu | Medium | [#1869](https://github.com/OWASP/Nest/issues/1869) |
-| Add LeadersList.test.tsx | Medium | [#1868](https://github.com/OWASP/Nest/pull/1868) |
-| Fix #1792 Added a tooltip to show the entire number on hover | Medium | [#1855](https://github.com/OWASP/Nest/pull/1855) |
+| Improve member page user details UX | Easy | [#1889](https://github.com/OWASP/Nest/issues/1889) |
+| Add tests for <RepositoriesCard> component | Easy | [#1885](https://github.com/OWASP/Nest/issues/1885) |
+| Add tests for <RecentReleases> component | Easy | [#1884](https://github.com/OWASP/Nest/issues/1884) |
+| Add tests for <RecentPullRequests> component | Easy | [#1883](https://github.com/OWASP/Nest/issues/1883) |
+| Improve unit tests for <Footer /> component | Medium | [#1888](https://github.com/OWASP/Nest/pull/1888) |
+| Header Component | Medium | [#1881](https://github.com/OWASP/Nest/pull/1881) |
+| feat: Add unit tests for MetricsCard component | Medium | [#1880](https://github.com/OWASP/Nest/pull/1880) |
+| Add Pagination Unit Tests & Accessibility Tweaks (Closes #1864) | Medium | [#1879](https://github.com/OWASP/Nest/pull/1879) |
+| Add LeadersList.test.tsx | Medium | [#1877](https://github.com/OWASP/Nest/pull/1877) |
+| Added tests for <NavDropDown> component #1863 | Medium | [#1876](https://github.com/OWASP/Nest/pull/1876) |
 | Test/card details page 1804 | Medium | [#1854](https://github.com/OWASP/Nest/pull/1854) |
-| feat: Add comprehensive unit tests for MetricsScoreCircle component | Medium | [#1852](https://github.com/OWASP/Nest/pull/1852) |
 | #1841 Add tests for <LoadingSpinner> component | Medium | [#1847](https://github.com/OWASP/Nest/pull/1847) |
-| refactor:remove PLR0912 ignore and fix 4 violations | Medium | [#1834](https://github.com/OWASP/Nest/pull/1834) |
-| Add Badge model to owasp app #1762 | Medium | [#1831](https://github.com/OWASP/Nest/pull/1831) |
 
 ---
 
@@ -112,8 +105,9 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Advance searching | Medium | [#73](https://github.com/BaraniVA/Habitheat/pull/73) |
-| Add user login | Medium | [#68](https://github.com/BaraniVA/Habitheat/issues/68) |
+| toggle password needs to fix | Medium | [#87](https://github.com/BaraniVA/Habitheat/issues/87) |
+| Update on : Habit Emergency Mode: One-click "Skip Today" with Reason (Sick, Traveling, etc.) Without Breaking Streak #45 | Medium | [#85](https://github.com/BaraniVA/Habitheat/pull/85) |
+| feat: add dynamic breadcrumbs navigation to improve page context and … | Medium | [#77](https://github.com/BaraniVA/Habitheat/pull/77) |
 | Fixed Issue #27 - Landing page for improved user engagement | Medium | [#65](https://github.com/BaraniVA/Habitheat/pull/65) |
 | UI improvements | Medium | [#38](https://github.com/BaraniVA/Habitheat/issues/38) |
 
@@ -133,13 +127,12 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: Can I work on making the modular structure of the server? | Medium | [#32](https://github.com/Altair-05/CodeBrosPlatform/issues/32) |
+| Update README.md | Medium | [#36](https://github.com/Altair-05/CodeBrosPlatform/pull/36) |
+| feat: Implement MongoDB database and authentication system ( closes #18,#4,#5,#7 ) | Medium | [#34](https://github.com/Altair-05/CodeBrosPlatform/pull/34) |
+| fix: issue #32, modular structure implement in a MVC manner | Medium | [#33](https://github.com/Altair-05/CodeBrosPlatform/pull/33) |
 | Fixed View Profile button not working | Medium | [#31](https://github.com/Altair-05/CodeBrosPlatform/pull/31) |
-| Update readme | Medium | [#30](https://github.com/Altair-05/CodeBrosPlatform/issues/30) |
 | Dark and Light UI fixed & enhanced | Medium | [#29](https://github.com/Altair-05/CodeBrosPlatform/pull/29) |
 | Updated README.md | Medium | [#27](https://github.com/Altair-05/CodeBrosPlatform/pull/27) |
-| Made the API_ENDPOINTS.md file - added all api endpoints | Medium | [#21](https://github.com/Altair-05/CodeBrosPlatform/pull/21) |
-| Fixed the view profile button | Medium | [#20](https://github.com/Altair-05/CodeBrosPlatform/pull/20) |
 | Some problems resolve :) | Medium | [#17](https://github.com/Altair-05/CodeBrosPlatform/pull/17) |
 | Analyze and suggest deployment methods for CodeBrosPlatform | Medium | [#2](https://github.com/Altair-05/CodeBrosPlatform/issues/2) |
 
@@ -160,6 +153,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | IMP FIX | Easy | [#261](https://github.com/divi-24/SheSync/issues/261) |
+| Add vercel.json to enable client-side routing for React app on Vercel | Medium | [#287](https://github.com/divi-24/SheSync/pull/287) |
 | <short description> Add file to Fixing the Error | Medium | [#286](https://github.com/divi-24/SheSync/issues/286) |
 | Period Tracker Integration | Medium | [#285](https://github.com/divi-24/SheSync/issues/285) |
 | Live chat or FAQ BOT | Medium | [#284](https://github.com/divi-24/SheSync/issues/284) |
@@ -218,10 +212,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updating readme | Medium | [#29](https://github.com/harshendram/Advanced-Discord-Bot/pull/29) |
-| Make An AI integrated FAQ bot command | Medium | [#25](https://github.com/harshendram/Advanced-Discord-Bot/issues/25) |
-| Add a Test Script To verify all the commands are working properly | Medium | [#24](https://github.com/harshendram/Advanced-Discord-Bot/issues/24) |
-| Redis-Powered Rate Limiting & Caching | Medium | [#3](https://github.com/harshendram/Advanced-Discord-Bot/issues/3) |
+| Improve Ping Command with Accurate Latency Metrics (#10) | Medium | [#34](https://github.com/harshendram/Advanced-Discord-Bot/pull/34) |
+| Add a code of conduct | Medium | [#32](https://github.com/harshendram/Advanced-Discord-Bot/issues/32) |
+| Adding a shop to spend the coins from economy. | Medium | [#31](https://github.com/harshendram/Advanced-Discord-Bot/issues/31) |
 
 ---
 
@@ -241,12 +234,12 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |----------|----------------|---------|
 | Debug and Fix Firebase Firestore Connection on Login | Easy | [#40](https://github.com/mansiruhil/fail-u-forward/issues/40) |
 | Fix "Failed to get document because the client is offline" Error | Easy | [#28](https://github.com/mansiruhil/fail-u-forward/issues/28) |
-| Improve Login Page Layout and Accessibility | Easy | [#21](https://github.com/mansiruhil/fail-u-forward/issues/21) |
 | Add Hover & Click Animation to Hero Buttons | Easy | [#20](https://github.com/mansiruhil/fail-u-forward/issues/20) |
-| Dark Mode: Signup form input text not visible while typing | Medium | [#71](https://github.com/mansiruhil/fail-u-forward/issues/71) |
-| Missing CONTRIBUTING.md File | Medium | [#70](https://github.com/mansiruhil/fail-u-forward/issues/70) |
+| 1: Add Backend to Post and Fix Fetch Error | Medium | [#81](https://github.com/mansiruhil/fail-u-forward/issues/81) |
+| Add Backend Support for User Post Submission and Fix Post Fetching Error | Medium | [#80](https://github.com/mansiruhil/fail-u-forward/issues/80) |
+| Implement Edit Profile Functionality | Medium | [#73](https://github.com/mansiruhil/fail-u-forward/issues/73) |
+| Add Post Submission Functionality with File Upload | Medium | [#72](https://github.com/mansiruhil/fail-u-forward/issues/72) |
 | Improve profile update error Occuring | Medium | [#65](https://github.com/mansiruhil/fail-u-forward/issues/65) |
-| Fix/polish signup page | Medium | [#59](https://github.com/mansiruhil/fail-u-forward/pull/59) |
 | UI Navigation Enhancement | Medium | [#55](https://github.com/mansiruhil/fail-u-forward/issues/55) |
 | vercel deployment has been failed | Medium | [#50](https://github.com/mansiruhil/fail-u-forward/issues/50) |
 | Improve Profile Card | Medium | [#46](https://github.com/mansiruhil/fail-u-forward/issues/46) |
@@ -269,14 +262,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add mit license | Medium | [#9](https://github.com/mehak-ui/Student-Portal/pull/9) |
-| Add a profile page | Medium | [#8](https://github.com/mehak-ui/Student-Portal/issues/8) |
-| Enhancement of overall flow | Medium | [#7](https://github.com/mehak-ui/Student-Portal/issues/7) |
-| Feature: Allow Students to Update Their Information on Dashboard | Medium | [#6](https://github.com/mehak-ui/Student-Portal/issues/6) |
+| Add Theme Toggle (Light/Dark Mode) + User Personalization Features for Enhanced Accessibility & UX | Medium | [#12](https://github.com/mehak-ui/Student-Portal/issues/12) |
 | 🚫 License Missing from Repository | Medium | [#5](https://github.com/mehak-ui/Student-Portal/issues/5) |
-| Add Footer and Enhance Card UI with Shadows and Transitions | Medium | [#4](https://github.com/mehak-ui/Student-Portal/issues/4) |
-| want to make a footer for the home page | Medium | [#3](https://github.com/mehak-ui/Student-Portal/issues/3) |
-| Issue : Backend Authentication & Authorization Setup (JWT + Cookie + Protected Routes) | Medium | [#2](https://github.com/mehak-ui/Student-Portal/issues/2) |
 | feat: Implement Basic Landing Page (Home.tsx) | Medium | [#1](https://github.com/mehak-ui/Student-Portal/issues/1) |
 
 ---
@@ -295,6 +282,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Advanced "Company + Topic Wise Dashboard" with Filters, Progress Tracking, and Daily Planner | Medium | [#5](https://github.com/byteom/Interview01/issues/5) |
 | Add Hover Effect to Footer Links | Medium | [#4](https://github.com/byteom/Interview01/issues/4) |
 
 ---
@@ -358,7 +346,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Movie Comparison Feature | Medium | [#9](https://github.com/rahulkhandait-sde/cineverse/issues/9) |
+| feat: Add search history functionality | Medium | [#16](https://github.com/rahulkhandait-sde/cineverse/pull/16) |
 
 ---
 
@@ -376,19 +364,16 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Phone number input bar issue | Easy | [#28](https://github.com/Richajaishwal0/Trip_assistant/issues/28) |
 | Migrate mysql to mongodb - Enhancement | Easy | [#19](https://github.com/Richajaishwal0/Trip_assistant/issues/19) |
+| Enhance Mobile Responsiveness & Add Location Autocomplete to Improve Usability | Easy | [#15](https://github.com/Richajaishwal0/Trip_assistant/issues/15) |
+| Help Centre Button Not Working | Easy | [#6](https://github.com/Richajaishwal0/Trip_assistant/issues/6) |
 | I want to add UI in it | Easy | [#3](https://github.com/Richajaishwal0/Trip_assistant/issues/3) |
-| Feature request : Add weather info button to each place card | Medium | [#30](https://github.com/Richajaishwal0/Trip_assistant/issues/30) |
-| Phone number input bar issue | Medium | [#28](https://github.com/Richajaishwal0/Trip_assistant/issues/28) |
-| Footer is missing and navbar needs improvement | Medium | [#26](https://github.com/Richajaishwal0/Trip_assistant/issues/26) |
-| Modularize Express Backend with Routes, Controllers, and DB Config | Medium | [#25](https://github.com/Richajaishwal0/Trip_assistant/pull/25) |
-| Add Pexels Api to explore more places and used google search to show details about them | Medium | [#24](https://github.com/Richajaishwal0/Trip_assistant/pull/24) |
-| Modularize Backend – Implement Scalable Folder Structure for API Layer | Medium | [#23](https://github.com/Richajaishwal0/Trip_assistant/issues/23) |
-| Enhance Mobile Responsiveness & Add Location Autocomplete to Improve Usability | Medium | [#15](https://github.com/Richajaishwal0/Trip_assistant/issues/15) |
+| Add AI chatbot assistant to help users with trip planning queries (GSSoC'25) | Medium | [#36](https://github.com/Richajaishwal0/Trip_assistant/issues/36) |
+| Feature Request: Add User Profile Section | Medium | [#32](https://github.com/Richajaishwal0/Trip_assistant/issues/32) |
 | Reward system for active users | Medium | [#14](https://github.com/Richajaishwal0/Trip_assistant/issues/14) |
 | Feature Request: Add nearby Recommendations for Travellers. | Medium | [#10](https://github.com/Richajaishwal0/Trip_assistant/issues/10) |
 | Feature Proposal: Integrate Place Details API (History, Description, Info on Click) | Medium | [#9](https://github.com/Richajaishwal0/Trip_assistant/issues/9) |
-| Help Centre Button Not Working | Medium | [#6](https://github.com/Richajaishwal0/Trip_assistant/issues/6) |
 
 ---
 
@@ -406,6 +391,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance Register/Login UI and Improve Navbar for Student & Teacher Pages | Medium | [#13](https://github.com/sailaja-adapa/GuruShish/issues/13) |
+| Redesign landing page with minimalistic UI and Framer Motion animations | Medium | [#12](https://github.com/sailaja-adapa/GuruShish/pull/12) |
+| Enhancing the login page like the register page has | Medium | [#11](https://github.com/sailaja-adapa/GuruShish/issues/11) |
 | Add a dark theme option to improve the user experience, especially for browsing in low-light or nighttime conditions. | Medium | [#10](https://github.com/sailaja-adapa/GuruShish/issues/10) |
 | Feature: Addition of AI tutor | Medium | [#9](https://github.com/sailaja-adapa/GuruShish/issues/9) |
 | 🚫 License Missing from Repository | Medium | [#8](https://github.com/sailaja-adapa/GuruShish/issues/8) |
@@ -414,7 +402,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
 | Glassy Navbar Contribution | Medium | [#3](https://github.com/sailaja-adapa/GuruShish/issues/3) |
 | Issue with the setup instructions | Medium | [#2](https://github.com/sailaja-adapa/GuruShish/issues/2) |
-| Login page and register UI issue and authentication issues | Medium | [#1](https://github.com/sailaja-adapa/GuruShish/issues/1) |
 
 ---
 
@@ -432,11 +419,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a new Feature | Medium | [#22](https://github.com/SamXop123/RigCrafter/issues/22) |
-| Construct a box shadow on the homepage around the main content area | Medium | [#21](https://github.com/SamXop123/RigCrafter/issues/21) |
-| Add blackish-purple background and glassy glowing border to cards | Medium | [#20](https://github.com/SamXop123/RigCrafter/pull/20) |
-| Randomize Rig with best combinations | Medium | [#19](https://github.com/SamXop123/RigCrafter/issues/19) |
-| Filtering in Build Guides | Medium | [#16](https://github.com/SamXop123/RigCrafter/issues/16) |
+| Add Advanced Rig Editor with Keyframe Timeline, FK/IK Toggle, and Export to GLTF/FBX Format | Medium | [#24](https://github.com/SamXop123/RigCrafter/issues/24) |
 
 ---
 
@@ -454,9 +437,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| API Documentation using Swagger | Easy | [#16](https://github.com/karmveershubham/CodeStreak/issues/16) |
-| Add Logging Support using winston | Easy | [#15](https://github.com/karmveershubham/CodeStreak/issues/15) |
-| Feature: Implement goal management, streak tracking, and weekly planning | Medium | [#17](https://github.com/karmveershubham/CodeStreak/pull/17) |
+| Polish About Page, Add Theme Toggle, Responsive UI, Tailwind config update | Medium | [#28](https://github.com/karmveershubham/CodeStreak/pull/28) |
+| Figma design for admin | Medium | [#27](https://github.com/karmveershubham/CodeStreak/issues/27) |
+| Add tooltip on "Settings" icon in dashboard | Medium | [#24](https://github.com/karmveershubham/CodeStreak/issues/24) |
+| API Documentation using Swagger | Medium | [#16](https://github.com/karmveershubham/CodeStreak/issues/16) |
 | Add Password Visibility Toggle in Login/Signup Form | Medium | [#14](https://github.com/karmveershubham/CodeStreak/issues/14) |
 | Added About Page (#4) | Medium | [#13](https://github.com/karmveershubham/CodeStreak/pull/13) |
 | Favicon missing and layout hydration error during app load | Medium | [#12](https://github.com/karmveershubham/CodeStreak/issues/12) |
@@ -478,15 +462,19 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| #102 feat: scroll to top on logo click if already on homepage | Medium | [#109](https://github.com/souvikpramanikgit/LearnHub/pull/109) |
-| Add a Playground or a code Editor #91 | Medium | [#108](https://github.com/souvikpramanikgit/LearnHub/issues/108) |
-| Add Quizzes to learning path #91 | Medium | [#107](https://github.com/souvikpramanikgit/LearnHub/issues/107) |
-| Update index.tsx | Medium | [#105](https://github.com/souvikpramanikgit/LearnHub/pull/105) |
-| Add a Beginner-Friendly Cloud Computing Tutorial to LearnHub | Medium | [#104](https://github.com/souvikpramanikgit/LearnHub/issues/104) |
-| : Add a Loading Animation During Page/Data Transitions (GSSoC'25) | Medium | [#101](https://github.com/souvikpramanikgit/LearnHub/issues/101) |
-| Add DevOps learning path initial files | Medium | [#97](https://github.com/souvikpramanikgit/LearnHub/pull/97) |
+| Add User Personalization, Smart Course Recommendations, and Gamified Progress System for LearnHub | Medium | [#141](https://github.com/souvikpramanikgit/LearnHub/issues/141) |
+| Changes Applied as A part of comtirbution | Medium | [#140](https://github.com/souvikpramanikgit/LearnHub/pull/140) |
+| Improve Mobile Responsiveness: Fix X-axis Scroll & Incomplete Navbar/Footer Rendering | Medium | [#139](https://github.com/souvikpramanikgit/LearnHub/issues/139) |
+| Fixes No 404 page / Broken link handling  #116 | Medium | [#137](https://github.com/souvikpramanikgit/LearnHub/pull/137) |
+| Enhance Footer Section: Add Branding, Social Links & Responsiveness | Medium | [#136](https://github.com/souvikpramanikgit/LearnHub/issues/136) |
+| UI Enhancement , Add a custome theme | Medium | [#135](https://github.com/souvikpramanikgit/LearnHub/issues/135) |
+| Quiz Section Added to the docs #91 --- #107 | Medium | [#132](https://github.com/souvikpramanikgit/LearnHub/pull/132) |
+| fixed footer section on mobile screen | Medium | [#129](https://github.com/souvikpramanikgit/LearnHub/pull/129) |
+| Fix footer on mobile Screen | Medium | [#125](https://github.com/souvikpramanikgit/LearnHub/issues/125) |
+| Add PWA Support to Enable Installable Web App | Medium | [#123](https://github.com/souvikpramanikgit/LearnHub/issues/123) |
+| Add a tutorial for AI/ML | Medium | [#120](https://github.com/souvikpramanikgit/LearnHub/issues/120) |
+| 'Ask me a doubt ' page | Medium | [#115](https://github.com/souvikpramanikgit/LearnHub/issues/115) |
 | Added responsive custom 404 page with dark mode toggle and navigation buttons | Medium | [#96](https://github.com/souvikpramanikgit/LearnHub/pull/96) |
-| Quiz & Certification Engine and Integrated Playground/Editor | Medium | [#91](https://github.com/souvikpramanikgit/LearnHub/issues/91) |
 
 ---
 
@@ -505,11 +493,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
+| Implement Role-Based Access Control (RBAC) with Dynamic Dashboard Views | Medium | [#44](https://github.com/sristy17/next-payroll/issues/44) |
+| Protect /dashboard Route from Unauthorized Access | Medium | [#43](https://github.com/sristy17/next-payroll/issues/43) |
+| display the user's profile information and allow them to edit fields like name, email, phone, and designation. | Medium | [#39](https://github.com/sristy17/next-payroll/issues/39) |
 | Update  login page.tsx | Medium | [#38](https://github.com/sristy17/next-payroll/pull/38) |
-| Add “Show/Hide Password” Toggle Button in Signup Password Field | Medium | [#37](https://github.com/sristy17/next-payroll/issues/37) |
 | Added Help page with FAQ dropdown and custom card UI component | Medium | [#36](https://github.com/sristy17/next-payroll/pull/36) |
-| Add a cool svg abstract background in the white background of login page | Medium | [#35](https://github.com/sristy17/next-payroll/issues/35) |
-| Build The Statistics Section in the Dashboard | Medium | [#34](https://github.com/sristy17/next-payroll/pull/34) |
 | feat: Build GST Return Filing Page - Fixes #27 | Medium | [#33](https://github.com/sristy17/next-payroll/pull/33) |
 
 ---
@@ -528,7 +516,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added pdf notes of different subjects in Notes.tsx | Medium | [#40](https://github.com/SurajSG23/PrepBuddy/pull/40) |
+| Create a seperate page for "Technical question practice" for each topic (Frontend) | Easy | [#55](https://github.com/SurajSG23/PrepBuddy/issues/55) |
 
 ---
 
@@ -547,20 +535,15 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | New ideas | Easy | [#23](https://github.com/yashvikram30/legalease/issues/23) |
-| fixed the text on signup page | Medium | [#57](https://github.com/yashvikram30/legalease/pull/57) |
-| Add: Pull request template for contributors | Medium | [#56](https://github.com/yashvikram30/legalease/pull/56) |
+| Removed auto-scroll behavior in chat interface | Medium | [#64](https://github.com/yashvikram30/legalease/pull/64) |
+| auto-scroll behavior in chat interface - page scrolls automatically when sending messages | Medium | [#63](https://github.com/yashvikram30/legalease/issues/63) |
+| Welcome to legalease should come in center | Medium | [#62](https://github.com/yashvikram30/legalease/issues/62) |
+| Typo error | Medium | [#61](https://github.com/yashvikram30/legalease/issues/61) |
+| Revamp Dark Mode – UI/UX Enhancements | Medium | [#59](https://github.com/yashvikram30/legalease/pull/59) |
+| fixes : dark theme | Medium | [#58](https://github.com/yashvikram30/legalease/pull/58) |
 | Unclear Password Placeholders on Login/Signup Pages | Medium | [#55](https://github.com/yashvikram30/legalease/issues/55) |
-| Dark Theme Bug: Some Fonts or Sections Don't Change Color | Medium | [#54](https://github.com/yashvikram30/legalease/issues/54) |
-| Fixed Navbar UI | Medium | [#53](https://github.com/yashvikram30/legalease/pull/53) |
-| add forgot password functionality and enhance signin/signup ux | Medium | [#51](https://github.com/yashvikram30/legalease/pull/51) |
-| No change in the home page theme in dark mode | Medium | [#48](https://github.com/yashvikram30/legalease/issues/48) |
-| Added Dockerfile and .dockerignore for containerization setup | Medium | [#46](https://github.com/yashvikram30/legalease/pull/46) |
-| "Know Your Rights" Quiz | Medium | [#45](https://github.com/yashvikram30/legalease/issues/45) |
-| add forgot password functionality and enhance signin/signup ux | Medium | [#44](https://github.com/yashvikram30/legalease/pull/44) |
 | Fixed the text on signup page | Medium | [#43](https://github.com/yashvikram30/legalease/pull/43) |
-| [Feature Request]: Dynamic Achievements & Enhanced Testimonials Section | Medium | [#38](https://github.com/yashvikram30/legalease/issues/38) |
 | Enhance HelpPage: Convert location, phone, and email to clickable links | Medium | [#35](https://github.com/yashvikram30/legalease/pull/35) |
-| Feature Request: Add "Forgot Password" Functionality | Medium | [#16](https://github.com/yashvikram30/legalease/issues/16) |
 
 ---
 
