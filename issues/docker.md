@@ -14,12 +14,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Integration of backend security features with frontend. | Easy | [#33](https://github.com/abhisek247767/PeopleHub-Frontend/issues/33) |
+| Update README.md file | Easy | [#42](https://github.com/abhisek247767/PeopleHub-Frontend/issues/42) |
 | project page ui issue | Easy | [#22](https://github.com/abhisek247767/PeopleHub-Frontend/issues/22) |
 | Frontend - register page | Easy | [#7](https://github.com/abhisek247767/PeopleHub-Frontend/issues/7) |
-| #33 Email-verification and forgot-password added | Medium | [#35](https://github.com/abhisek247767/PeopleHub-Frontend/pull/35) |
-| Implement Dark Mode Toggle | Medium | [#31](https://github.com/abhisek247767/PeopleHub-Frontend/issues/31) |
-| settings page header not come and ui also not good and not matching to main page | Hard | [#13](https://github.com/abhisek247767/PeopleHub-Frontend/issues/13) |
+| Updated README.md | Medium | [#49](https://github.com/abhisek247767/PeopleHub-Frontend/pull/49) |
+| Improved Settings Page UI and Integrated Profile Image Upload | Medium | [#48](https://github.com/abhisek247767/PeopleHub-Frontend/pull/48) |
+| #13 Header fixed | Medium | [#47](https://github.com/abhisek247767/PeopleHub-Frontend/pull/47) |
+| feat: add dark/light mode toggle in header with improved styling | Medium | [#46](https://github.com/abhisek247767/PeopleHub-Frontend/pull/46) |
+| #22 Fixed Project page ui issue | Medium | [#45](https://github.com/abhisek247767/PeopleHub-Frontend/pull/45) |
+| Improved Settings Page UI and Added Profile Photo Upload | Medium | [#38](https://github.com/abhisek247767/PeopleHub-Frontend/pull/38) |
+| settings page header not come and ui also not good and not matching to main page | Medium | [#13](https://github.com/abhisek247767/PeopleHub-Frontend/issues/13) |
 
 ---
 
@@ -37,10 +41,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updated Middleware with Standard token format and improved Structure | Medium | [#135](https://github.com/Amarjha01/InfantCareCompass/pull/135) |
+| improved-signin-signup-workflow | Medium | [#132](https://github.com/Amarjha01/InfantCareCompass/pull/132) |
+| docs: Overhaul README with corrected formatting and details | Medium | [#129](https://github.com/Amarjha01/InfantCareCompass/pull/129) |
+| Cursor Ui Issue Resolved | Medium | [#125](https://github.com/Amarjha01/InfantCareCompass/pull/125) |
+| Add contributing.md fiile for new contributors | Medium | [#124](https://github.com/Amarjha01/InfantCareCompass/pull/124) |
+| Fix: Removed password strength from login and made cursor global | Medium | [#122](https://github.com/Amarjha01/InfantCareCompass/pull/122) |
+| Added Code of Conduct file and updated the README.md | Medium | [#121](https://github.com/Amarjha01/InfantCareCompass/pull/121) |
+| Cleaned up server/index.js for better readability. | Medium | [#117](https://github.com/Amarjha01/InfantCareCompass/pull/117) |
 | Improved footer design , added floating scroll-to-top button | Medium | [#113](https://github.com/Amarjha01/InfantCareCompass/pull/113) |
 | Fixed the alignment of experience section according to the screen size | Medium | [#108](https://github.com/Amarjha01/InfantCareCompass/pull/108) |
-| Rectified read more button redirection | Medium | [#105](https://github.com/Amarjha01/InfantCareCompass/pull/105) |
-| Improve News UI: consistent card sizing, hover effects, and fallback … | Medium | [#103](https://github.com/Amarjha01/InfantCareCompass/pull/103) |
 
 ---
 
@@ -58,26 +68,18 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add tests for <ProjectsDashboardNavBar> component | Easy | [#1866](https://github.com/OWASP/Nest/issues/1866) |
-| Add tests for <ProjectsDashboardDropDown> component | Easy | [#1865](https://github.com/OWASP/Nest/issues/1865) |
-| Add tests for <Pagination> component | Easy | [#1864](https://github.com/OWASP/Nest/issues/1864) |
-| Add tests for <NavDropDown> component | Easy | [#1863](https://github.com/OWASP/Nest/issues/1863) |
-| Add tests for <NavButton> component | Easy | [#1862](https://github.com/OWASP/Nest/issues/1862) |
-| Add tests for <MultiSearch> component | Easy | [#1861](https://github.com/OWASP/Nest/issues/1861) |
-| Add tests for <ModeToggle> component | Easy | [#1860](https://github.com/OWASP/Nest/issues/1860) |
-| Add tests for <Modal> component | Easy | [#1859](https://github.com/OWASP/Nest/issues/1859) |
-| Add tests for <Milestones> component | Easy | [#1858](https://github.com/OWASP/Nest/issues/1858) |
-| Add tests for <LogoCarousel> component | Easy | [#1843](https://github.com/OWASP/Nest/issues/1843) |
-| Add tests for <GeneralCompliantComponent> component | Easy | [#1835](https://github.com/OWASP/Nest/issues/1835) |
-| [Test] Add: Unit tests for InfoItem component | Medium | [#1870](https://github.com/OWASP/Nest/pull/1870) |
-| Add user avatar in navbar with a dropdown menu | Medium | [#1869](https://github.com/OWASP/Nest/issues/1869) |
-| Add LeadersList.test.tsx | Medium | [#1868](https://github.com/OWASP/Nest/pull/1868) |
-| Fix #1792 Added a tooltip to show the entire number on hover | Medium | [#1855](https://github.com/OWASP/Nest/pull/1855) |
+| Improve member page user details UX | Easy | [#1889](https://github.com/OWASP/Nest/issues/1889) |
+| Add tests for <RepositoriesCard> component | Easy | [#1885](https://github.com/OWASP/Nest/issues/1885) |
+| Add tests for <RecentReleases> component | Easy | [#1884](https://github.com/OWASP/Nest/issues/1884) |
+| Add tests for <RecentPullRequests> component | Easy | [#1883](https://github.com/OWASP/Nest/issues/1883) |
+| Improve unit tests for <Footer /> component | Medium | [#1888](https://github.com/OWASP/Nest/pull/1888) |
+| Header Component | Medium | [#1881](https://github.com/OWASP/Nest/pull/1881) |
+| feat: Add unit tests for MetricsCard component | Medium | [#1880](https://github.com/OWASP/Nest/pull/1880) |
+| Add Pagination Unit Tests & Accessibility Tweaks (Closes #1864) | Medium | [#1879](https://github.com/OWASP/Nest/pull/1879) |
+| Add LeadersList.test.tsx | Medium | [#1877](https://github.com/OWASP/Nest/pull/1877) |
+| Added tests for <NavDropDown> component #1863 | Medium | [#1876](https://github.com/OWASP/Nest/pull/1876) |
 | Test/card details page 1804 | Medium | [#1854](https://github.com/OWASP/Nest/pull/1854) |
-| feat: Add comprehensive unit tests for MetricsScoreCircle component | Medium | [#1852](https://github.com/OWASP/Nest/pull/1852) |
 | #1841 Add tests for <LoadingSpinner> component | Medium | [#1847](https://github.com/OWASP/Nest/pull/1847) |
-| refactor:remove PLR0912 ignore and fix 4 violations | Medium | [#1834](https://github.com/OWASP/Nest/pull/1834) |
-| Add Badge model to owasp app #1762 | Medium | [#1831](https://github.com/OWASP/Nest/pull/1831) |
 
 ---
 
@@ -95,6 +97,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create Templates for Issues , pull Request | Medium | [#20](https://github.com/indra7777/frostiq/issues/20) |
+| Improvements in main.py in bakerybackend | Medium | [#19](https://github.com/indra7777/frostiq/issues/19) |
 | Add Root Route (/) for Check | Medium | [#18](https://github.com/indra7777/frostiq/pull/18) |
 | Improve .gitignore for Development Hygiene | Medium | [#17](https://github.com/indra7777/frostiq/pull/17) |
 | 🌐 Deploy FrostIQ and Add Live Demo Link to README | Medium | [#16](https://github.com/indra7777/frostiq/issues/16) |
@@ -116,9 +120,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| NEED OF MAIN HERO | Medium | [#29](https://github.com/kanikaa-3018/contest_onlinejudge/issues/29) |
 | Refactor Input Validation Logic to Use Joi Instead of Validator | Medium | [#28](https://github.com/kanikaa-3018/contest_onlinejudge/issues/28) |
-| bug: Dark/light mode toggle not working as expected | Medium | [#27](https://github.com/kanikaa-3018/contest_onlinejudge/issues/27) |
-| border #12 | Medium | [#26](https://github.com/kanikaa-3018/contest_onlinejudge/pull/26) |
 | plz change the google client id in env present in the client folder . | Medium | [#25](https://github.com/kanikaa-3018/contest_onlinejudge/pull/25) |
 | 🔔 Feature: Automatically Send Welcome Email Upon User Signup | Medium | [#23](https://github.com/kanikaa-3018/contest_onlinejudge/pull/23) |
 | Fix: Improve theme toggle consistency and persistence | Medium | [#6](https://github.com/kanikaa-3018/contest_onlinejudge/pull/6) |
