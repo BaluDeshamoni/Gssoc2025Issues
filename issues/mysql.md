@@ -30,6 +30,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create Templates for Issues , pull Request | Medium | [#20](https://github.com/indra7777/frostiq/issues/20) |
+| Improvements in main.py in bakerybackend | Medium | [#19](https://github.com/indra7777/frostiq/issues/19) |
 | Add Root Route (/) for Check | Medium | [#18](https://github.com/indra7777/frostiq/pull/18) |
 | Improve .gitignore for Development Hygiene | Medium | [#17](https://github.com/indra7777/frostiq/pull/17) |
 | 🌐 Deploy FrostIQ and Add Live Demo Link to README | Medium | [#16](https://github.com/indra7777/frostiq/issues/16) |
@@ -51,6 +53,8 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create Updated Readme | Medium | [#25](https://github.com/kaushav07/VisionMate/pull/25) |
+| Detect and possibly recognize faces of known people. | Medium | [#24](https://github.com/kaushav07/VisionMate/issues/24) |
 | Real-Time Object Detection with Audio Feedback | Medium | [#23](https://github.com/kaushav07/VisionMate/issues/23) |
 | Refactor and Harden Application: Security, Robustness, and Error Handling Improvements | Medium | [#21](https://github.com/kaushav07/VisionMate/issues/21) |
 | contributors.md file is missing | Medium | [#20](https://github.com/kaushav07/VisionMate/issues/20) |
@@ -118,8 +122,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: manual refresh button to LeaderBoard | Medium | [#24](https://github.com/swarooppatilx/bit-by-query/pull/24) |
-| Fixes #22 : Added Validations For Register/Login Page | Medium | [#23](https://github.com/swarooppatilx/bit-by-query/pull/23) |
+| fix: persist question completion state and progress across page reloa… | Medium | [#25](https://github.com/swarooppatilx/bit-by-query/pull/25) |
 | Create server.js | Medium | [#17](https://github.com/swarooppatilx/bit-by-query/pull/17) |
 
 ---
