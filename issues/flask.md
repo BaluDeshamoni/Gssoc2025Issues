@@ -22,11 +22,18 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Add MIT License | Easy | [#3](https://github.com/Menthub-GSSoC/Menthub/issues/3) |
 | Update README.md | Easy | [#2](https://github.com/Menthub-GSSoC/Menthub/pull/2) |
+| Documentation Add CODE OF CONDUCT - Menthub GSSoC'25 | Medium | [#33](https://github.com/Menthub-GSSoC/Menthub/pull/33) |
+| FEAT: Add light/dark mode toggle button | Medium | [#32](https://github.com/Menthub-GSSoC/Menthub/issues/32) |
+| Add Password Visibility Toggle on Signup/Login Forms | Medium | [#31](https://github.com/Menthub-GSSoC/Menthub/issues/31) |
+| Added Markdown Github Issue Template | Medium | [#28](https://github.com/Menthub-GSSoC/Menthub/pull/28) |
+| Sign-Up Page: Missing Field Validation for User Input | Medium | [#27](https://github.com/Menthub-GSSoC/Menthub/issues/27) |
+| Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
+| Structured Readme file required | Medium | [#24](https://github.com/Menthub-GSSoC/Menthub/issues/24) |
 | Prevent Duplicate Mentorship Requests (mentee_id + mentor_id) | Medium | [#23](https://github.com/Menthub-GSSoC/Menthub/issues/23) |
 | Contributor for Contribution | Medium | [#22](https://github.com/Menthub-GSSoC/Menthub/issues/22) |
-| Add Complete Project README.md for Menthub | Medium | [#19](https://github.com/Menthub-GSSoC/Menthub/pull/19) |
 | matcher.py is Empty – Matching Logic Missing & Project Scope Needed | Medium | [#18](https://github.com/Menthub-GSSoC/Menthub/issues/18) |
 | Improve README.md file | Medium | [#17](https://github.com/Menthub-GSSoC/Menthub/issues/17) |
 | Togglebutton | Medium | [#15](https://github.com/Menthub-GSSoC/Menthub/pull/15) |
@@ -57,7 +64,9 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Admin dashboard | Medium | [#83](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/83) |
+| Feature: Doctor's Dashboard UI | Medium | [#98](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/98) |
+| Refactor: PEP 8, type hints, docstrings, and error handling overhaul | Medium | [#97](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/97) |
+| Refactor: Standardized Gemini API responses, logging & documentation | Medium | [#96](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/96) |
 
 ---
 
@@ -75,6 +84,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create Templates for Issues , pull Request | Medium | [#20](https://github.com/indra7777/frostiq/issues/20) |
+| Improvements in main.py in bakerybackend | Medium | [#19](https://github.com/indra7777/frostiq/issues/19) |
 | Add Root Route (/) for Check | Medium | [#18](https://github.com/indra7777/frostiq/pull/18) |
 | Improve .gitignore for Development Hygiene | Medium | [#17](https://github.com/indra7777/frostiq/pull/17) |
 | 🌐 Deploy FrostIQ and Add Live Demo Link to README | Medium | [#16](https://github.com/indra7777/frostiq/issues/16) |
@@ -96,6 +107,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create Updated Readme | Medium | [#25](https://github.com/kaushav07/VisionMate/pull/25) |
+| Detect and possibly recognize faces of known people. | Medium | [#24](https://github.com/kaushav07/VisionMate/issues/24) |
 | Real-Time Object Detection with Audio Feedback | Medium | [#23](https://github.com/kaushav07/VisionMate/issues/23) |
 | Refactor and Harden Application: Security, Robustness, and Error Handling Improvements | Medium | [#21](https://github.com/kaushav07/VisionMate/issues/21) |
 | contributors.md file is missing | Medium | [#20](https://github.com/kaushav07/VisionMate/issues/20) |
@@ -133,8 +146,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Role-Based Redirection (#32)and Protected Route Logic (#10) | Medium | [#90](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/90) |
-| Route change retains previous scroll position | Medium | [#89](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/89) |
+| Added the basic functionality to company dashboard | Medium | [#111](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/111) |
+| Replace Browser Alerts with Toast Notifications (Improve UX) | Medium | [#110](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/110) |
+| Created Sample dashboards with Mock data and resolved backend flaws | Medium | [#109](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/109) |
+| Added 404 and global error handling | Medium | [#108](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/108) |
 | Implement Backend API Integration for User Authentication and Core Functionality | Medium | [#38](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/38) |
 
 ---
@@ -153,7 +168,14 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Improve the UI AND Interactivity of Chatbot. | Medium | [#44](https://github.com/omroy07/AgriTech/issues/44) |
+| 🐛 Bug Report: Inconsistent Margin and Navbar Spacing | Medium | [#53](https://github.com/omroy07/AgriTech/issues/53) |
+| 🐞[bug]: Sign-Up Page: Missing Field Validation for User Input | Medium | [#52](https://github.com/omroy07/AgriTech/issues/52) |
+| Improve Correlation & Confusion Matrix Visualization in Crop Recommendation Notebook | Medium | [#51](https://github.com/omroy07/AgriTech/pull/51) |
+| Add "Contact Us" or "Help & Support" Page | Medium | [#50](https://github.com/omroy07/AgriTech/issues/50) |
+| feat: added a labour scheduling and news updates in hindi. | Medium | [#49](https://github.com/omroy07/AgriTech/pull/49) |
+| Restructure Project Files (Organize HTML, CSS, JS into Templates and Static Folders) | Medium | [#48](https://github.com/omroy07/AgriTech/issues/48) |
+| Add search and filter functionality for crop recommendation and disease predictions | Medium | [#47](https://github.com/omroy07/AgriTech/issues/47) |
+| Added Toggle Theme | Medium | [#46](https://github.com/omroy07/AgriTech/pull/46) |
 | Add Social Media Icons to Footer | Medium | [#43](https://github.com/omroy07/AgriTech/issues/43) |
 | Add favicon | Medium | [#42](https://github.com/omroy07/AgriTech/issues/42) |
 | Comprehensive Flask Refactor: Resolve Architectural Inconsistencies and Enforce | Medium | [#40](https://github.com/omroy07/AgriTech/pull/40) |
@@ -172,7 +194,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Nav bar | Medium | [#15](https://github.com/omroy07/AgriTech/issues/15) |
 | Improve Interactivity & Design of Landing Page | Medium | [#14](https://github.com/omroy07/AgriTech/issues/14) |
 | Crop Recommendation feature opens a blank page when clicked | Medium | [#11](https://github.com/omroy07/AgriTech/issues/11) |
-| Setup fails due to requirements.txt being nested inside subfolder. | Medium | [#10](https://github.com/omroy07/AgriTech/issues/10) |
 
 ---
 
@@ -190,13 +211,14 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance README with GSSoC Banner, Structure & Contribution Guide | Medium | [#20](https://github.com/EmailScript/EmailScript/pull/20) |
+| Feature Request : Add Email Validation and Error Handling | Medium | [#19](https://github.com/EmailScript/EmailScript/issues/19) |
 | Issue: Fix Broken Default Test in App.test.js | Medium | [#16](https://github.com/EmailScript/EmailScript/issues/16) |
 | Adding a proper README file | Medium | [#15](https://github.com/EmailScript/EmailScript/issues/15) |
 | javascript file | Medium | [#14](https://github.com/EmailScript/EmailScript/pull/14) |
 | Update README.md | Medium | [#13](https://github.com/EmailScript/EmailScript/pull/13) |
 | 🚫 License Missing from Repository | Medium | [#12](https://github.com/EmailScript/EmailScript/issues/12) |
 | 🌐 [Feature] Set up Live Deployment for EmailScript Application | Medium | [#11](https://github.com/EmailScript/EmailScript/issues/11) |
-| Add MIT License to the project | Medium | [#10](https://github.com/EmailScript/EmailScript/pull/10) |
 | Improve false positive rate by ML tools | Medium | [#9](https://github.com/EmailScript/EmailScript/issues/9) |
 | Enhanced UI by adding navbar, footer, modern theme, dark/light mode toggle | Medium | [#8](https://github.com/EmailScript/EmailScript/pull/8) |
 | Email Health Score | Medium | [#7](https://github.com/EmailScript/EmailScript/issues/7) |
@@ -233,16 +255,18 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Global Navbar/Footer/Dark theme/ Dynamic Tab title/FeviIcon | Medium | [#81](https://github.com/openml-stack/SentiLog-AI/pull/81) |
-| Dark Theme Bug: Some Fonts or Sections Don't Change Color | Medium | [#80](https://github.com/openml-stack/SentiLog-AI/issues/80) |
+| Refactor and Created a HowItWorks section component to enhance structure | Medium | [#93](https://github.com/openml-stack/SentiLog-AI/pull/93) |
+| missing header  while  clicking on news and want to add clear  ui of news section | Medium | [#92](https://github.com/openml-stack/SentiLog-AI/issues/92) |
+| dark mode is not properly align on other than home tab | Medium | [#91](https://github.com/openml-stack/SentiLog-AI/issues/91) |
+| Updated readme with Folder Structure | Medium | [#90](https://github.com/openml-stack/SentiLog-AI/pull/90) |
+| solved issue#66-added company logo as favicon | Medium | [#89](https://github.com/openml-stack/SentiLog-AI/pull/89) |
+| Designed the Dashboard Page for website from scratch | Medium | [#85](https://github.com/openml-stack/SentiLog-AI/pull/85) |
+| Google oauth added in both login and signup pages | Medium | [#84](https://github.com/openml-stack/SentiLog-AI/pull/84) |
 | refactor(server): migrate from CommonJS require to ES6 import/export syntax | Medium | [#79](https://github.com/openml-stack/SentiLog-AI/pull/79) |
 | Added Privacy Policy page with navbar and footer links | Medium | [#78](https://github.com/openml-stack/SentiLog-AI/pull/78) |
-| Build News Aggregation Service for SentiLog AI with ML Sentiment Integration | Medium | [#77](https://github.com/openml-stack/SentiLog-AI/pull/77) |
 | Made the about  section for SentiLog-AI | Medium | [#76](https://github.com/openml-stack/SentiLog-AI/pull/76) |
 | Feature Request : Creating UI for Auth & News Pages | Medium | [#62](https://github.com/openml-stack/SentiLog-AI/issues/62) |
-| Add Google OAuth Login/Signup Integration | Medium | [#53](https://github.com/openml-stack/SentiLog-AI/pull/53) |
 | Update app.py | Medium | [#52](https://github.com/openml-stack/SentiLog-AI/pull/52) |
-| Upgrade News page UI | Medium | [#14](https://github.com/openml-stack/SentiLog-AI/issues/14) |
 
 ---
 
