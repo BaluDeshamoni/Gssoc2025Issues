@@ -36,10 +36,12 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update the Welcome screen when there isn't any API key set | Easy | [#36](https://github.com/VaibhavCodeClub/term/issues/36) |
+| Adding a back to top button in the README.md | Medium | [#37](https://github.com/VaibhavCodeClub/term/issues/37) |
 | feat: Add basic markdown rendering for AI responses #21 | Medium | [#34](https://github.com/VaibhavCodeClub/term/pull/34) |
 | Create pull_request_template.md | Medium | [#31](https://github.com/VaibhavCodeClub/term/pull/31) |
 | clickable links | Medium | [#29](https://github.com/VaibhavCodeClub/term/issues/29) |
 | ci: add GitHub Actions for commitlint and DCO checks | Medium | [#25](https://github.com/VaibhavCodeClub/term/pull/25) |
+| Set up GitHub Actions pipeline to build and package the Tauri app | Medium | [#23](https://github.com/VaibhavCodeClub/term/issues/23) |
 | Feature : Added support of `ls` and 'la` command | Medium | [#20](https://github.com/VaibhavCodeClub/term/pull/20) |
 
 ---
