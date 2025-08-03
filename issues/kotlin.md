@@ -57,6 +57,8 @@ User Profile: BMI calculator and fitness analytics.
 | 🚫 License Missing from Repository | Easy | [#3](https://github.com/akshtshrma/KinetiX/issues/3) |
 | Contributor Covenant Code of Conduct - GSSoC 2025 | Easy | [#2](https://github.com/akshtshrma/KinetiX/issues/2) |
 | Adding a README File | Easy | [#1](https://github.com/akshtshrma/KinetiX/issues/1) |
+| Redesign Profile screen UI with Material components (#15) | Medium | [#26](https://github.com/akshtshrma/KinetiX/pull/26) |
+| Feature Enhancement: Add Goal Sync Toggle Between Diet and Exercise Sections | Medium | [#25](https://github.com/akshtshrma/KinetiX/issues/25) |
 | Add LICENSE.md file | Medium | [#24](https://github.com/akshtshrma/KinetiX/issues/24) |
 | Add a CONTRIBUTING.md file | Medium | [#23](https://github.com/akshtshrma/KinetiX/issues/23) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#22](https://github.com/akshtshrma/KinetiX/issues/22) |
@@ -107,7 +109,10 @@ User Profile: BMI calculator and fitness analytics.
 
 ### 🐛 Unassigned Issues
 
-_No unassigned issues._
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| BUG REPORT PAGE | Easy | [#28](https://github.com/sayan0328/WallGodds-App/issues/28) |
+| 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
 
 ---
 
@@ -125,8 +130,6 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| [Feature]: Enhance Search & Filter UI with Bottom Sheet, Suggestion Chips & Location Input | Medium | [#166](https://github.com/sourabhkumar47/ResQFood/issues/166) |
-| FeedBack Form | Medium | [#165](https://github.com/sourabhkumar47/ResQFood/pull/165) |
 | Feature/android 15 support | Medium | [#160](https://github.com/sourabhkumar47/ResQFood/pull/160) |
 
 ---
@@ -145,10 +148,14 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Search Screen Implemented | Medium | [#333](https://github.com/yuvrajsinghgmx/ShopSmart/pull/333) |
+|  | Easy | [#337](https://github.com/yuvrajsinghgmx/ShopSmart/issues/337) |
+| Add Dark mode to Search Screen and User Profile Screen | Medium | [#339](https://github.com/yuvrajsinghgmx/ShopSmart/issues/339) |
+| 🖼️ Feature Request: Add Image Attachments for Specific Items | Medium | [#338](https://github.com/yuvrajsinghgmx/ShopSmart/issues/338) |
+| LogOut API Route | Medium | [#336](https://github.com/yuvrajsinghgmx/ShopSmart/issues/336) |
+| "Onboarding API Route" | Medium | [#335](https://github.com/yuvrajsinghgmx/ShopSmart/issues/335) |
+| "Add Shop" API route | Medium | [#334](https://github.com/yuvrajsinghgmx/ShopSmart/issues/334) |
 | Init Search-Feature | Medium | [#329](https://github.com/yuvrajsinghgmx/ShopSmart/issues/329) |
-| Saved Products Screen | Medium | [#284](https://github.com/yuvrajsinghgmx/ShopSmart/issues/284) |
-| Review Screen | Medium | [#283](https://github.com/yuvrajsinghgmx/ShopSmart/issues/283) |
+| Integrate Login Backend | Medium | [#312](https://github.com/yuvrajsinghgmx/ShopSmart/issues/312) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
@@ -167,10 +174,7 @@ _No unassigned issues._
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add clear search button to text field | Medium | [#12](https://github.com/Ajay-patidar0/GitSearch/pull/12) |
 | There is no license in the readme | Medium | [#11](https://github.com/Ajay-patidar0/GitSearch/issues/11) |
-| Docs: Update README with detailed setup instructions for GSSoC'25 | Medium | [#10](https://github.com/Ajay-patidar0/GitSearch/pull/10) |
-| Added : Code of Conduct | Medium | [#9](https://github.com/Ajay-patidar0/GitSearch/pull/9) |
 
 ---
 
