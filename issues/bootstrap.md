@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Clear Canvas Button (Fixes #1297) | Medium | [#1319](https://github.com/vishanurag/Canvas-Editor/pull/1319) |
 | Feat:  Adding "remember me" to the signup and signin page connecting it to the local storage database for user authentication. | Medium | [#1190](https://github.com/vishanurag/Canvas-Editor/issues/1190) |
 | 🧑‍💻:  change  layout of the website | Medium | [#1132](https://github.com/vishanurag/Canvas-Editor/issues/1132) |
 
@@ -37,32 +38,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhanced the footer  #84 | Medium | [#120](https://github.com/gyanshankar1708/GrowCraft/pull/120) |
+| Navbar contact us animation issue resolved | Medium | [#119](https://github.com/gyanshankar1708/GrowCraft/pull/119) |
+| Navbar/enhance issue #61 | Medium | [#113](https://github.com/gyanshankar1708/GrowCraft/pull/113) |
+| Remove unnecessary checkbox from navbar on Home page | Medium | [#105](https://github.com/gyanshankar1708/GrowCraft/issues/105) |
 | Refactor: static buttons in carousel for better UX and cleaner markup with improved background overlay. | Medium | [#100](https://github.com/gyanshankar1708/GrowCraft/pull/100) |
-| Our Work section's , the Graphic Design section is now properly aligned with the other two sections span tags | Medium | [#98](https://github.com/gyanshankar1708/GrowCraft/pull/98) |
 | Fixed : Section card layout and hovering | Medium | [#85](https://github.com/gyanshankar1708/GrowCraft/pull/85) |
-
----
-
-## 📌 Project: FARMLOC
-
-📝 **Description:** FARMLOC stands for Farmers-Agricultural-Resource-Management-and-Location-Of-Cold-storage.
- It is a web-based platform designed to empower farmers by providing seamless access to agricultural resources, tools for management, and real-time information about the nearest available cold storages.
-
-🔗 [View Project](https://github.com/Pujan-sarkar/FARMLOC)
-
-💻 **Tech Stack:** React.js, CSS, JavaScript, Bootstrap, Node.js, Express.js
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added Code of Conduct file | Medium | [#33](https://github.com/Pujan-sarkar/FARMLOC/pull/33) |
-| Adding hover effect in the Reviews section | Medium | [#31](https://github.com/Pujan-sarkar/FARMLOC/issues/31) |
-| Enhancing hover effect in footer | Medium | [#28](https://github.com/Pujan-sarkar/FARMLOC/issues/28) |
-| UI Improvements: FAQ Scroll, Review Hover Effect, Side Scroll for Reviews, and Contact Section | Medium | [#24](https://github.com/Pujan-sarkar/FARMLOC/issues/24) |
-| Add a Back to Top icon | Medium | [#20](https://github.com/Pujan-sarkar/FARMLOC/issues/20) |
 
 ---
 
@@ -80,15 +61,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Code of Conduct file | Medium | [#99](https://github.com/sachiva1/sachiva/pull/99) |
-| Modified Client Section | Medium | [#98](https://github.com/sachiva1/sachiva/pull/98) |
+| Added glassy blue border on contact form inputs | Medium | [#104](https://github.com/sachiva1/sachiva/pull/104) |
 | Refactor CSS Architecture and Remove Code Duplication (#42) | Medium | [#97](https://github.com/sachiva1/sachiva/pull/97) |
 | Accessibility/wcag 2.1 compliance issue 38 updated | Medium | [#84](https://github.com/sachiva1/sachiva/pull/84) |
 | Issue 42 css refactor architecture | Medium | [#82](https://github.com/sachiva1/sachiva/pull/82) |
 | Issue #40 dark mode enhancement | Medium | [#79](https://github.com/sachiva1/sachiva/pull/79) |
 | Issue 38 accessibility wcag | Medium | [#78](https://github.com/sachiva1/sachiva/pull/78) |
-| Quicklinks #57 | Medium | [#75](https://github.com/sachiva1/sachiva/pull/75) |
-| adding scroll to top button | Medium | [#71](https://github.com/sachiva1/sachiva/issues/71) |
 
 ---
 
