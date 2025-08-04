@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Implement Voice-Controlled App Launcher | Easy | [#24](https://github.com/A-Akhil/Astra-Ai/issues/24) |
+| Astra ai some important issues | Medium | [#61](https://github.com/A-Akhil/Astra-Ai/issues/61) |
 | Feature: Add Weekly Adherence Summary Email to Users | Medium | [#60](https://github.com/A-Akhil/Astra-Ai/issues/60) |
 | Improved Navigation between fragments | Medium | [#59](https://github.com/A-Akhil/Astra-Ai/issues/59) |
 | Add a contributing.md  file | Medium | [#58](https://github.com/A-Akhil/Astra-Ai/issues/58) |
@@ -57,6 +58,8 @@ User Profile: BMI calculator and fitness analytics.
 | 🚫 License Missing from Repository | Easy | [#3](https://github.com/akshtshrma/KinetiX/issues/3) |
 | Contributor Covenant Code of Conduct - GSSoC 2025 | Easy | [#2](https://github.com/akshtshrma/KinetiX/issues/2) |
 | Adding a README File | Easy | [#1](https://github.com/akshtshrma/KinetiX/issues/1) |
+| 🧠 [Feature Suggestion] Add Progress Visualization for Better Tracking & Motivation | Medium | [#28](https://github.com/akshtshrma/KinetiX/issues/28) |
+| Improve Posture Detection Accuracy Using Angle Checks and Feedback Smoothing | Medium | [#27](https://github.com/akshtshrma/KinetiX/pull/27) |
 | Redesign Profile screen UI with Material components (#15) | Medium | [#26](https://github.com/akshtshrma/KinetiX/pull/26) |
 | Feature Enhancement: Add Goal Sync Toggle Between Diet and Exercise Sections | Medium | [#25](https://github.com/akshtshrma/KinetiX/issues/25) |
 | Add LICENSE.md file | Medium | [#24](https://github.com/akshtshrma/KinetiX/issues/24) |
@@ -97,25 +100,6 @@ User Profile: BMI calculator and fitness analytics.
 
 ---
 
-## 📌 Project: WallGodds App
-
-📝 **Description:** WallGodds is reimagined for mobile — fast, clean, and loaded with stunning high-res wallpapers for every screen. It’s more than an app — it’s your personal visual canvas, made for those who style their screen with every swipe.
-
-🔗 [View Project](https://github.com/sayan0328/WallGodds-App)
-
-💻 **Tech Stack:** Kotlin, Compose, Firebase, Firebase RealTime DB
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| BUG REPORT PAGE | Easy | [#28](https://github.com/sayan0328/WallGodds-App/issues/28) |
-| 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
-
----
-
 ## 📌 Project: ResqFood
 
 📝 **Description:** ResQFood is a platform dedicated to the noble cause of reducing food wastage by facilitating the redistribution of surplus food during late-night hours before restaurant closures.
@@ -130,6 +114,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| [Feature]: Enhance Search & Filter UI with Bottom Sheet, Suggestion Chips & Location Input | Medium | [#167](https://github.com/sourabhkumar47/ResQFood/pull/167) |
 | Feature/android 15 support | Medium | [#160](https://github.com/sourabhkumar47/ResQFood/pull/160) |
 
 ---
@@ -149,7 +134,7 @@ User Profile: BMI calculator and fitness analytics.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 |  | Easy | [#337](https://github.com/yuvrajsinghgmx/ShopSmart/issues/337) |
-| Add Dark mode to Search Screen and User Profile Screen | Medium | [#339](https://github.com/yuvrajsinghgmx/ShopSmart/issues/339) |
+| Added Dark mode to User Profile Screen and Search Screen UI | Medium | [#342](https://github.com/yuvrajsinghgmx/ShopSmart/pull/342) |
 | 🖼️ Feature Request: Add Image Attachments for Specific Items | Medium | [#338](https://github.com/yuvrajsinghgmx/ShopSmart/issues/338) |
 | LogOut API Route | Medium | [#336](https://github.com/yuvrajsinghgmx/ShopSmart/issues/336) |
 | "Onboarding API Route" | Medium | [#335](https://github.com/yuvrajsinghgmx/ShopSmart/issues/335) |
