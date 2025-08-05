@@ -14,8 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Code of Conduct file | Medium | [#17](https://github.com/CharithaReddy18/AI-health-chatbot/pull/17) |
-| Create CONTRIBUTING.md | Medium | [#16](https://github.com/CharithaReddy18/AI-health-chatbot/pull/16) |
+| Add input validation and error handling in app.py | Medium | [#20](https://github.com/CharithaReddy18/AI-health-chatbot/issues/20) |
 
 ---
 
