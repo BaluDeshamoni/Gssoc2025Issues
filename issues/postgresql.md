@@ -14,7 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Sensitive information is exposed by the public GET /users endpoint. | Medium | [#50](https://github.com/Abhinavhaldiya/FinPilot/issues/50) |
+| Feature Request: AI Powered Receipt Categorization | Medium | [#52](https://github.com/Abhinavhaldiya/FinPilot/issues/52) |
+| docs: improve README with roadmap and API overview | Medium | [#51](https://github.com/Abhinavhaldiya/FinPilot/pull/51) |
 | Advanced ai technology | Medium | [#49](https://github.com/Abhinavhaldiya/FinPilot/issues/49) |
 | Create Ui for submit New Claim | Medium | [#47](https://github.com/Abhinavhaldiya/FinPilot/issues/47) |
 | Add prisma schema definition and seed data | Medium | [#35](https://github.com/Abhinavhaldiya/FinPilot/pull/35) |
@@ -83,12 +84,12 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Dark mode implementation in testimonials + UI Enhancement. | Medium | [#465](https://github.com/HarshS16/Civix/issues/465) |
-| Enhancement of the UI of How it Works section | Medium | [#464](https://github.com/HarshS16/Civix/pull/464) |
+| contributor page limit increased | Medium | [#479](https://github.com/HarshS16/Civix/pull/479) |
+| Add SOS button in navbar | Medium | [#478](https://github.com/HarshS16/Civix/issues/478) |
+| Improved UI of Testimonials Section | Medium | [#477](https://github.com/HarshS16/Civix/pull/477) |
+| Chatbot enhancement | Medium | [#476](https://github.com/HarshS16/Civix/issues/476) |
+| Logo corrected | Medium | [#475](https://github.com/HarshS16/Civix/pull/475) |
 | Improvement in UI of Civic Eduaction and Rights Page | Medium | [#463](https://github.com/HarshS16/Civix/issues/463) |
-| Mainpageui resolves issue#421 | Medium | [#462](https://github.com/HarshS16/Civix/pull/462) |
-| fix Issue 379: "Sign in with Google" Missing on Login Page | Medium | [#458](https://github.com/HarshS16/Civix/pull/458) |
-| Newsletter subscription Mail | Medium | [#425](https://github.com/HarshS16/Civix/issues/425) |
 | Improve FAQ UI and Smoothness with Animated Expand/Collapse | Medium | [#374](https://github.com/HarshS16/Civix/pull/374) |
 | Mobile Responsiveness for Complaint Cards | Medium | [#341](https://github.com/HarshS16/Civix/issues/341) |
 | Add dynamic current year to footer | Medium | [#328](https://github.com/HarshS16/Civix/issues/328) |
@@ -111,7 +112,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create SETUP_WINDOWS.md | Medium | [#289](https://github.com/Muneerali199/DocMagic/pull/289) |
 | chore(deps): bump react-day-picker from 8.10.1 to 9.8.1 | Medium | [#288](https://github.com/Muneerali199/DocMagic/pull/288) |
 | chore(deps): bump sonner from 1.7.4 to 2.0.7 | Medium | [#287](https://github.com/Muneerali199/DocMagic/pull/287) |
 | chore(deps): bump the minor-and-patch group with 11 updates | Medium | [#286](https://github.com/Muneerali199/DocMagic/pull/286) |
@@ -145,7 +145,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Changed twitter's old logo to new X logo | Medium | [#73](https://github.com/Er-luffy-D/SimplifAI/pull/73) |
+| feat: store generated JSON in DB, add documents API, sharing & access control fixes #74 | Medium | [#75](https://github.com/Er-luffy-D/SimplifAI/pull/75) |
 | Like to add Human pose estimation leveraging OpenCV for image processing and machine learning  algorithms under MLProjects | Medium | [#72](https://github.com/Er-luffy-D/SimplifAI/issues/72) |
 | Vmpranav/rag implementation | Medium | [#67](https://github.com/Er-luffy-D/SimplifAI/pull/67) |
 | Add Profile View and Update Functionality for Users | Medium | [#61](https://github.com/Er-luffy-D/SimplifAI/issues/61) |
@@ -167,6 +167,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Issue with ui/ux | Medium | [#20](https://github.com/sailaja-adapa/GuruShish/issues/20) |
 | "Forgot password" feature | Medium | [#19](https://github.com/sailaja-adapa/GuruShish/issues/19) |
 | Dark and Light Mode Enable | Medium | [#18](https://github.com/sailaja-adapa/GuruShish/issues/18) |
 | Add testimonial , hero, about section | Medium | [#17](https://github.com/sailaja-adapa/GuruShish/issues/17) |
@@ -230,6 +231,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance Documentation: Improve README.md and Add requirements.txt for ML Model | Medium | [#7](https://github.com/Gssoc-2025/co-supply-ai/issues/7) |
 | Work on ML model , and Python contribution | Medium | [#6](https://github.com/Gssoc-2025/co-supply-ai/issues/6) |
 | Add contributing.md in the repo | Medium | [#5](https://github.com/Gssoc-2025/co-supply-ai/issues/5) |
 | Work on ML Model for GreenScore | Medium | [#4](https://github.com/Gssoc-2025/co-supply-ai/issues/4) |
@@ -253,8 +255,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added: Fallback text | Medium | [#162](https://github.com/harsh3dev/DevMatchups/pull/162) |
-| Design of a scroll bar. | Medium | [#145](https://github.com/harsh3dev/DevMatchups/issues/145) |
+| added favorites functionality for hackathons | Medium | [#164](https://github.com/harsh3dev/DevMatchups/pull/164) |
 | Add validation for No. of team members field | Medium | [#134](https://github.com/harsh3dev/DevMatchups/issues/134) |
 
 ---
@@ -273,12 +274,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📌 Feature Request: Add a Gallery Section to the Website | Medium | [#29](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/29) |
-| Add Skeleton Loaders to Dashboard Pages | Medium | [#25](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/25) |
-| Add Support for Asterisk as a Telephony Backend | Hard | [#24](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/24) |
-| Allow Users to Select a TTS Voice for Each Agent | Hard | [#23](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/23) |
-| Build UI for Call Campaign Management (MVP) | Hard | [#20](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/20) |
-| Create API Endpoints for Call Campaign Management (MVP) | Hard | [#19](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/19) |
 | Bug: Live Twilio calls drop immediately after connecting; webhook not being triggered | Hard | [#18](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/18) |
 
 ---
@@ -323,10 +318,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Display GSSoC 2025 Leaderboard with Live Data md Copy Edit | Easy | [#53](https://github.com/Promptzy/Nexara/issues/53) |
-| Implement API Endpoint for GSSoC 2025 Leaderboard Data | Easy | [#52](https://github.com/Promptzy/Nexara/issues/52) |
-| Create Leaderboard Page Layout with Tabs for GSSoC and Dev Contributors | Easy | [#51](https://github.com/Promptzy/Nexara/issues/51) |
-| Add Project Logo to README from Public Assets | Easy | [#50](https://github.com/Promptzy/Nexara/issues/50) |
+| Center-aligned Responsive Logo | Easy | [#58](https://github.com/Promptzy/Nexara/pull/58) |
+| Implementation for User Dashboard for Nexara | Easy | [#56](https://github.com/Promptzy/Nexara/issues/56) |
 
 ---
 
@@ -344,9 +337,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Redesigned Event Cards on events page | Medium | [#47](https://github.com/SandeepVashishtha/Eventra/pull/47) |
+| Implemented login and signup functionality for user as well as admin. Added role based authentication for user and admin. | Medium | [#46](https://github.com/SandeepVashishtha/Eventra/pull/46) |
+| Update Navbar UI for Improved Design and UX | Medium | [#45](https://github.com/SandeepVashishtha/Eventra/pull/45) |
+| Navbar UI Revamp | Medium | [#44](https://github.com/SandeepVashishtha/Eventra/issues/44) |
+| Newone | Medium | [#43](https://github.com/SandeepVashishtha/Eventra/pull/43) |
 | Add Responsive Design for Mobile View | Medium | [#34](https://github.com/SandeepVashishtha/Eventra/issues/34) |
 | Form UI/UX improvements – Enhanced date pickers and inline validation | Medium | [#30](https://github.com/SandeepVashishtha/Eventra/issues/30) |
-| Add backend error handling and validation | Medium | [#14](https://github.com/SandeepVashishtha/Eventra/issues/14) |
 
 ---
 
@@ -364,13 +361,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix/Mobile navbar and sidebar - Part 1 | Medium | [#95](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/95) |
-| Change the 'X' icon in contact us page to something subtle | Medium | [#94](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/94) |
-| Enhance Card UI in about section to Match Site Aesthetics | Medium | [#93](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/93) |
+| Fix: Resolved Header Overlap Issue on Leaderboard Page | Easy | [#102](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/102) |
+| Bug: Clock Widget Remains in Dark Theme Even During Daytime in Dashboard | Medium | [#103](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/103) |
+| Feature : Combined and merged Dashboard Avatar icon and Three Dot menu | Medium | [#101](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/101) |
+| Fix/enhance card UI in about section[#93] | Medium | [#98](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/98) |
+| made Instagram and linkedin background bolder[#94] | Medium | [#97](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/97) |
 | Twitter/X OAuth2 Authentication | Medium | [#75](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/75) |
 | feat(ui): Implement Interactive Bubble Background with Scroll & Mouse Effects (#22) | Medium | [#49](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/49) |
-| Added pull request template(#33) | Medium | [#43](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/43) |
-| Feat/add pr template | Medium | [#35](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/35) |
 | Add dark mode toggle in Navbar & attempt to implement dark mode across pages | Medium | [#28](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/28) |
 | Add Comprehensive Feedback Feature to PrepNerdz Website | Hard | [#91](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/91) |
 | feat(ui): Implement Animated and Interactive Background Effects | Hard | [#22](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/22) |
@@ -392,8 +389,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add github oauth for login signup | Medium | [#50](https://github.com/vatsal-bhakodia/smriti-ai/issues/50) |
-| feat: Implement robust PDF text extraction with Python parser | Medium | [#43](https://github.com/vatsal-bhakodia/smriti-ai/pull/43) |
+| enhance UI of sign in and sign up page | Easy | [#31](https://github.com/vatsal-bhakodia/smriti-ai/issues/31) |
+| feat: enhance WhatsApp reminder API with smart filterin and cron support | Medium | [#53](https://github.com/vatsal-bhakodia/smriti-ai/pull/53) |
 | feat: improve ui for sign-in and sign-up pages | Medium | [#35](https://github.com/vatsal-bhakodia/smriti-ai/pull/35) |
 | Upload mp4 | Medium | [#2](https://github.com/vatsal-bhakodia/smriti-ai/issues/2) |
 
