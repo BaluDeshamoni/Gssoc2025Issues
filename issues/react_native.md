@@ -16,7 +16,8 @@
 |----------|----------------|---------|
 | Create GitHub Discussion for Known Issues and Limitations | Easy | [#106](https://github.com/Devasy23/splitwiser/issues/106) |
 | Missing Dependency in package.json | Easy | [#85](https://github.com/Devasy23/splitwiser/issues/85) |
-| pre-commit autoupdate | Medium | [#119](https://github.com/Devasy23/splitwiser/pull/119) |
+| fix(web): Fix web build error with React 19 | Medium | [#122](https://github.com/Devasy23/splitwiser/pull/122) |
+| feat: Migrate to Material 3 with dynamic theming | Medium | [#120](https://github.com/Devasy23/splitwiser/pull/120) |
 | Group Name Validation Enhancement | Medium | [#115](https://github.com/Devasy23/splitwiser/pull/115) |
 | Implement UI Consistency and Design System Standards | Medium | [#109](https://github.com/Devasy23/splitwiser/issues/109) |
 | Add Google Sign-Up Integration to feat/group-creation Branch | Medium | [#108](https://github.com/Devasy23/splitwiser/issues/108) |
@@ -47,6 +48,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| BUG: the input text fixed | Medium | [#19](https://github.com/SyedImtiyaz-1/Swapify/pull/19) |
 | Vehicle Filter Not Displaying Car - Maruti Celerio | Medium | [#18](https://github.com/SyedImtiyaz-1/Swapify/issues/18) |
 | Typo in Demo Link on README | Medium | [#17](https://github.com/SyedImtiyaz-1/Swapify/issues/17) |
 | Amount Input Not Visible in "Add an Offer" Section | Medium | [#16](https://github.com/SyedImtiyaz-1/Swapify/issues/16) |
@@ -72,6 +74,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add PWA Support to Enable Installable Web App | Medium | [#51](https://github.com/LarytheLord/Adventurers-Guild/pull/51) |
+| Add 3D Hover Effect on "From the Adventures" Cards for Improved UI Interaction #46 | Medium | [#50](https://github.com/LarytheLord/Adventurers-Guild/pull/50) |
 | Create Database for the project and connect apis | Medium | [#49](https://github.com/LarytheLord/Adventurers-Guild/issues/49) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
 | First F rank quest for all signups | Medium | [#33](https://github.com/LarytheLord/Adventurers-Guild/issues/33) |
@@ -108,15 +112,22 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Save Card should Redirect to Subject Page | Easy | [#109](https://github.com/Loop-Hive/ScheduleX/issues/109) |
+| Make Readme More Attractive | Easy | [#105](https://github.com/Loop-Hive/ScheduleX/issues/105) |
 | Add a workflow to remove Assigned member based on label | Easy | [#95](https://github.com/Loop-Hive/ScheduleX/issues/95) |
-| Update the welcome workflow to stop auto adding active label | Easy | [#92](https://github.com/Loop-Hive/ScheduleX/issues/92) |
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
 | Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
+| Move Export CSV Logic from TimeTable Page to Settings | Medium | [#114](https://github.com/Loop-Hive/ScheduleX/issues/114) |
+| Global Register Selection Setting | Medium | [#113](https://github.com/Loop-Hive/ScheduleX/issues/113) |
+| Edit Menu Button Delayed Activation | Medium | [#112](https://github.com/Loop-Hive/ScheduleX/issues/112) |
+| Overflowing Issue in Schedule Select Menu | Medium | [#111](https://github.com/Loop-Hive/ScheduleX/issues/111) |
+| Adding a Indexed DB for Tasks Chat Data Storage | Medium | [#110](https://github.com/Loop-Hive/ScheduleX/issues/110) |
+| Tab Memorization | Medium | [#108](https://github.com/Loop-Hive/ScheduleX/issues/108) |
+| Everyday Select Option to Add Multiple Slots | Medium | [#107](https://github.com/Loop-Hive/ScheduleX/issues/107) |
+| Duplicate Card Add on Add or Edit Card | Medium | [#106](https://github.com/Loop-Hive/ScheduleX/issues/106) |
 | Add UI Design Preview Folder README.md for Card Theme | Medium | [#100](https://github.com/Loop-Hive/ScheduleX/pull/100) |
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/Loop-Hive/ScheduleX/issues/98) |
 | Expo setup and Documentation | Medium | [#96](https://github.com/Loop-Hive/ScheduleX/issues/96) |
-| Create New App Icon Design for ScheduleX on Figma | Medium | [#89](https://github.com/Loop-Hive/ScheduleX/issues/89) |
 | Add CI/CD Pipeline to Automatically Create a Release APK on PR Merge | Medium | [#84](https://github.com/Loop-Hive/ScheduleX/issues/84) |
 | Add Time Slot Error on Specific days | Medium | [#82](https://github.com/Loop-Hive/ScheduleX/issues/82) |
 | Export tasks as pdf | Medium | [#10](https://github.com/Loop-Hive/ScheduleX/issues/10) |
@@ -138,7 +149,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding Move to Top Button | Medium | [#6](https://github.com/Ayushhgupta39/natively-ui/issues/6) |
+| Move to Top Button Added | Medium | [#7](https://github.com/Ayushhgupta39/natively-ui/pull/7) |
 | Dark and Light Theme Toggle Button with Functionality | Medium | [#5](https://github.com/Ayushhgupta39/natively-ui/issues/5) |
 
 ---
