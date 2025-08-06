@@ -58,6 +58,8 @@ User Profile: BMI calculator and fitness analytics.
 | 🚫 License Missing from Repository | Easy | [#3](https://github.com/akshtshrma/KinetiX/issues/3) |
 | Contributor Covenant Code of Conduct - GSSoC 2025 | Easy | [#2](https://github.com/akshtshrma/KinetiX/issues/2) |
 | Adding a README File | Easy | [#1](https://github.com/akshtshrma/KinetiX/issues/1) |
+| feat: Add GoalAchievedDialog | Medium | [#30](https://github.com/akshtshrma/KinetiX/pull/30) |
+| Add GitHub Issue & PR Templates | Medium | [#29](https://github.com/akshtshrma/KinetiX/issues/29) |
 | 🧠 [Feature Suggestion] Add Progress Visualization for Better Tracking & Motivation | Medium | [#28](https://github.com/akshtshrma/KinetiX/issues/28) |
 | Improve Posture Detection Accuracy Using Angle Checks and Feedback Smoothing | Medium | [#27](https://github.com/akshtshrma/KinetiX/pull/27) |
 | Redesign Profile screen UI with Material components (#15) | Medium | [#26](https://github.com/akshtshrma/KinetiX/pull/26) |
@@ -132,6 +134,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🧠 Feature Request: Smart Categorization & Sorting System | Easy | [#344](https://github.com/yuvrajsinghgmx/ShopSmart/issues/344) |
 |  | Easy | [#337](https://github.com/yuvrajsinghgmx/ShopSmart/issues/337) |
 | Added Dark mode to User Profile Screen and Search Screen UI | Medium | [#342](https://github.com/yuvrajsinghgmx/ShopSmart/pull/342) |
 | 🖼️ Feature Request: Add Image Attachments for Specific Items | Medium | [#338](https://github.com/yuvrajsinghgmx/ShopSmart/issues/338) |
@@ -139,7 +142,6 @@ User Profile: BMI calculator and fitness analytics.
 | "Onboarding API Route" | Medium | [#335](https://github.com/yuvrajsinghgmx/ShopSmart/issues/335) |
 | "Add Shop" API route | Medium | [#334](https://github.com/yuvrajsinghgmx/ShopSmart/issues/334) |
 | Init Search-Feature | Medium | [#329](https://github.com/yuvrajsinghgmx/ShopSmart/issues/329) |
-| Integrate Login Backend | Medium | [#312](https://github.com/yuvrajsinghgmx/ShopSmart/issues/312) |
 | See this Once before Starting. | Medium | [#268](https://github.com/yuvrajsinghgmx/ShopSmart/issues/268) |
 
 ---
