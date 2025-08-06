@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added LICENSE | Medium | [#28](https://github.com/sachiikrish/AttendanceTracker/pull/28) |
 | To add show/hide password | Medium | [#27](https://github.com/sachiikrish/AttendanceTracker/issues/27) |
 | There is no link in the mit license and in the code also there is no license present. | Medium | [#26](https://github.com/sachiikrish/AttendanceTracker/issues/26) |
 | Typo in placeholder text of the email input field on the Sign-Up form | Medium | [#25](https://github.com/sachiikrish/AttendanceTracker/issues/25) |
@@ -44,7 +45,6 @@
 | Add "Back to Top" Links in README for Better Navigation | Easy | [#19](https://github.com/komalkhatod1105/One-Stop-Guide/issues/19) |
 | To add Dark and light modes | Easy | [#18](https://github.com/komalkhatod1105/One-Stop-Guide/issues/18) |
 | Improve README Structure, Grammar, and Clarity for Better Professionalism and Accessibility | Easy | [#17](https://github.com/komalkhatod1105/One-Stop-Guide/issues/17) |
-| 🚫 License Missing from Repository | Easy | [#14](https://github.com/komalkhatod1105/One-Stop-Guide/issues/14) |
 | The current navbar and footer design is quite basic and does not look visually appealing. Also, the Kota section lacks a representative image to make the page more informative and attractive. | Easy | [#11](https://github.com/komalkhatod1105/One-Stop-Guide/issues/11) |
 | Page where local tourist guides contacts are there | Easy | [#10](https://github.com/komalkhatod1105/One-Stop-Guide/issues/10) |
 | Not a proper alignment of explore button in some cities,explore option navigating to maps another explore option giving information | Easy | [#9](https://github.com/komalkhatod1105/One-Stop-Guide/issues/9) |
@@ -52,6 +52,7 @@
 | Proper Alignment of Header in the Main page | Easy | [#7](https://github.com/komalkhatod1105/One-Stop-Guide/issues/7) |
 | Revamp Header, Cards, Footer & Hover Interactions for Better Interactivity and Engagement | Easy | [#5](https://github.com/komalkhatod1105/One-Stop-Guide/issues/5) |
 | Feature : Add "Plan Your Trip" Itinerary Builder | Easy | [#4](https://github.com/komalkhatod1105/One-Stop-Guide/issues/4) |
+| Add Admin Panel to Manage City Content (CRUD Functionality) | Medium | [#40](https://github.com/komalkhatod1105/One-Stop-Guide/issues/40) |
 | Add a Code of Conduct to Project | Medium | [#39](https://github.com/komalkhatod1105/One-Stop-Guide/issues/39) |
 | Add more cities, enhance the UI , Add more information and photos for each city #22 | Medium | [#31](https://github.com/komalkhatod1105/One-Stop-Guide/pull/31) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#30](https://github.com/komalkhatod1105/One-Stop-Guide/issues/30) |
