@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding related photo and video of the website in the readme file | Medium | [#69](https://github.com/Dipanita45/HEALCONNECT/issues/69) |
+| Update README.md | Medium | [#77](https://github.com/Dipanita45/HEALCONNECT/pull/77) |
 | Fix: Unified button styles across pages using .btn-global | Medium | [#45](https://github.com/Dipanita45/HEALCONNECT/pull/45) |
 | Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
@@ -35,14 +35,30 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| get_provider | Medium | [#123](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/123) |
 | listProviders function | Medium | [#122](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/122) |
-| feat: list_topic_logs | Medium | [#121](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/121) |
 | feat: Added API for listTargets [messaging] | Medium | [#120](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/120) |
 | listProviders | Medium | [#119](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/119) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
 | feat: update documents | Medium | [#45](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/45) |
+
+---
+
+## 📌 Project: CinderPeak
+
+📝 **Description:** CinderPeak is a fast and efficient, open-source C++ graph library designed to handle directed, undirected, and mixed graphs with customizable vertex and edge types. Built with modern C++ (C++17/C++20), it offers a flexible, templated API for graph manipulation and analysis. The library includes an integrated visualization engine powered by SFML, enabling intuitive graph rendering for visual insights. CinderPeak is thread-safe, portable, and optimized for integration into larger projects, making it ideal for graph theory applications, data analysis, and network modeling.
+
+🔗 [View Project](https://github.com/SharonIV0x86/CinderPeak)
+
+💻 **Tech Stack:** C++
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| added images | Medium | [#39](https://github.com/SharonIV0x86/CinderPeak/pull/39) |
 
 ---
 
@@ -60,11 +76,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve mobile responsiveness for small screen devices | Easy | [#66](https://github.com/Aqsa4066/netflixclone/issues/66) |
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
 | UI Improvements: Header Alignment & FAQ Background Styling | Easy | [#45](https://github.com/Aqsa4066/netflixclone/issues/45) |
 | Edited footer | Medium | [#71](https://github.com/Aqsa4066/netflixclone/pull/71) |
-| Change colour of boxes for FAQs and add more | Medium | [#70](https://github.com/Aqsa4066/netflixclone/issues/70) |
 | Replace the images with more attractive images | Medium | [#69](https://github.com/Aqsa4066/netflixclone/issues/69) |
 | Added alt text, placeholders, updated README screenshots | Medium | [#63](https://github.com/Aqsa4066/netflixclone/pull/63) |
 | Feature/full netflix implementation | Medium | [#61](https://github.com/Aqsa4066/netflixclone/pull/61) |
