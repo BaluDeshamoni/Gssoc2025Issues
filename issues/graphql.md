@@ -15,8 +15,9 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
+| Bump import-in-the-middle from 1.15.0 to 2.0.0 in /frontend | Medium | [#2457](https://github.com/OWASP/Nest/pull/2457) |
+| Bump langchain from 0.3.27 to 1.0.0 in /backend | Medium | [#2455](https://github.com/OWASP/Nest/pull/2455) |
 | Add GSSoC'25 Banner. | Medium | [#2445](https://github.com/OWASP/Nest/issues/2445) |
-| Refactor: Replace ArchivedBadge with Flexible StatusBadge Component | Medium | [#2444](https://github.com/OWASP/Nest/pull/2444) |
 | question detection refining | Medium | [#2443](https://github.com/OWASP/Nest/pull/2443) |
 | Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
@@ -34,7 +35,6 @@
 | Nestbot AI Direct message implementation | Medium | [#2374](https://github.com/OWASP/Nest/pull/2374) |
 | Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
 | Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
-| Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
