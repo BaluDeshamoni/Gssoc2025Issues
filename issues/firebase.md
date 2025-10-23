@@ -44,14 +44,15 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Editor Module and its components to MUI | Easy | [#1293](https://github.com/Code-A2Z/code-a2z/issues/1293) |
-| Add GSSoC'25 Banner. | Medium | [#1308](https://github.com/Code-A2Z/code-a2z/issues/1308) |
-| feat: add feedback form | Medium | [#1306](https://github.com/Code-A2Z/code-a2z/pull/1306) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add comprehensive GitHub Copilot instructions with validated commands and timing | Medium | [#1229](https://github.com/Code-A2Z/code-a2z/pull/1229) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
+| 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
+| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
+| 🧑‍💻: Dockerize the app | Medium | [#472](https://github.com/Code-A2Z/code-a2z/issues/472) |
 
 ---
 
@@ -71,37 +72,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing Navigation menu for smaller screens | Medium | [#125](https://github.com/Bavanetha27/Refixly/issues/125) |
-| Clickables not working | Medium | [#124](https://github.com/Bavanetha27/Refixly/issues/124) |
-| Terms of Service | Medium | [#123](https://github.com/Bavanetha27/Refixly/issues/123) |
-| Login UI | Medium | [#122](https://github.com/Bavanetha27/Refixly/issues/122) |
-| add performance and documentation in issue folder | Medium | [#120](https://github.com/Bavanetha27/Refixly/issues/120) |
-| Added 404 and global error handling | Medium | [#119](https://github.com/Bavanetha27/Refixly/pull/119) |
-| unwanted scroll bar appers | Medium | [#118](https://github.com/Bavanetha27/Refixly/issues/118) |
+| Fixed double scrollbar issue and improved AOS animations | Medium | [#128](https://github.com/Bavanetha27/Refixly/pull/128) |
+| added responsive-dropdown menu when user not loged in | Medium | [#127](https://github.com/Bavanetha27/Refixly/pull/127) |
+| "Powerful Features" Section Not Adopting Light Mode Theme | Medium | [#126](https://github.com/Bavanetha27/Refixly/issues/126) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
-
----
-
-## 📌 Project: Firebase Chat App
-
-📝 **Description:** A real-time chat application built using Firebase and React. It allows users to sign in with Google authentication, exchange messages instantly, and manage user sessions securely. The app showcases the power of serverless technologies with a sleek and responsive UI. Ideal for contributors interested in React, Firebase, and modern frontend/backend integration.
-
-🔗 [View Project](https://github.com/Dhruvi-tech/firebase-chat-app)
-
-💻 **Tech Stack:** React.js, Firebase Authentication, Firestore Database, HTML, CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add GSSoC'25 Banner | Medium | [#72](https://github.com/Dhruvi-tech/firebase-chat-app/issues/72) |
-| fix: enhance dark mode toggle button styling and accessibility(#55) | Medium | [#71](https://github.com/Dhruvi-tech/firebase-chat-app/pull/71) |
-| fix: display online users for each chat room (#65) | Medium | [#70](https://github.com/Dhruvi-tech/firebase-chat-app/pull/70) |
 
 ---
 
@@ -119,22 +96,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#278](https://github.com/mansiruhil/fail-u-forward/pull/278) |
+|  | Medium | [#277](https://github.com/mansiruhil/fail-u-forward/issues/277) |
+| updated readme | Medium | [#276](https://github.com/mansiruhil/fail-u-forward/pull/276) |
 |  | Medium | [#275](https://github.com/mansiruhil/fail-u-forward/issues/275) |
-| fix Sign Up Button Redirecting | Medium | [#274](https://github.com/mansiruhil/fail-u-forward/pull/274) |
-| Add “Back to Top” Button in README.md | Medium | [#273](https://github.com/mansiruhil/fail-u-forward/issues/273) |
-| Add Contributors Section in README | Medium | [#272](https://github.com/mansiruhil/fail-u-forward/issues/272) |
-| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#271](https://github.com/mansiruhil/fail-u-forward/issues/271) |
-|  | Medium | [#270](https://github.com/mansiruhil/fail-u-forward/issues/270) |
-| The icon + text overlap (⟳ Refresh) looks broken | Medium | [#269](https://github.com/mansiruhil/fail-u-forward/issues/269) |
 | 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/mansiruhil/fail-u-forward/issues/268) |
 | Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/mansiruhil/fail-u-forward/issues/264) |
 | Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/mansiruhil/fail-u-forward/issues/263) |
 | Text on About Page Not Clearly Visible | Medium | [#260](https://github.com/mansiruhil/fail-u-forward/issues/260) |
-| A clean and responsive Footer ⚠️ | Medium | [#258](https://github.com/mansiruhil/fail-u-forward/issues/258) |
 | Design Navbar: Minimalistic & Polished | Medium | [#257](https://github.com/mansiruhil/fail-u-forward/issues/257) |
 | Improve the About Page interface and the sign up and language option buttons | Medium | [#256](https://github.com/mansiruhil/fail-u-forward/issues/256) |
 |  | Medium | [#255](https://github.com/mansiruhil/fail-u-forward/issues/255) |
-|  | Medium | [#254](https://github.com/mansiruhil/fail-u-forward/issues/254) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Testing & CI/CD | Medium | [#190](https://github.com/mansiruhil/fail-u-forward/issues/190) |
 
@@ -318,7 +290,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| enhance: fix question modal layout and scrollbar, minor fixes | Medium | [#229](https://github.com/SurajSG23/PrepBuddy/pull/229) |
+| Improve README.md Structure and Visual Appeal | Medium | [#234](https://github.com/SurajSG23/PrepBuddy/issues/234) |
+| Enhance: Improve Visual Hierarchy and Content Detail in About Section | Medium | [#233](https://github.com/SurajSG23/PrepBuddy/issues/233) |
+| Fixed : Improve 'How It Works' Section UI/UX | Medium | [#232](https://github.com/SurajSG23/PrepBuddy/pull/232) |
+| added theme toggle button correctly | Medium | [#230](https://github.com/SurajSG23/PrepBuddy/pull/230) |
 
 ---
 
