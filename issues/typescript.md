@@ -45,6 +45,32 @@
 
 ---
 
+## 📌 Project: DevElevate
+
+📝 **Description:** DevElevate is a full-stack, AI-powered open-source platform built to help students and developers learn technical skills, grow confidently, and prepare for careers—all from a single platform.  The platform offers:
+Structured learning paths in DSA, Java, MERN, AI/ML, and Data Science
+An AI chatbot (Study Buddy) to solve doubts, guide on career paths, and suggest resources.
+Personalized dashboards for learners, including progress tracking, daily planners, and goals.
+A tech feed offering real-time internship updates, hackathon events, and developer news.
+Tools like resume and cover letter builders, mock interview practice, and profile optimizers.
+Role-based authentication for users and admins, with profile management and admin dashboard.
+Integrated coding practice links (GFG, LeetCode, HackerRank).
+Accessibility features like dark mode,white.
+
+🔗 [View Project](https://github.com/abhisek2004/Dev-Elevate.git)
+
+💻 **Tech Stack:** TypeScript, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB Atlas
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Frontend changes-add carousel for techstack and UI enhancement in VideoPage and Backend | Easy | [#601](https://github.com/abhisek2004/Dev-Elevate/pull/601) |
+
+---
+
 ## 📌 Project: OWASP Nest
 
 📝 **Description:** Your gateway to OWASP
@@ -60,26 +86,26 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate OWASP Nest to Zappa for serverless deployment | Easy | [#2431](https://github.com/OWASP/Nest/pull/2431) |
-| Add GSSoC'25 Banner. | Medium | [#2445](https://github.com/OWASP/Nest/issues/2445) |
-| Refactor: Replace ArchivedBadge with Flexible StatusBadge Component | Medium | [#2444](https://github.com/OWASP/Nest/pull/2444) |
-| question detection refining | Medium | [#2443](https://github.com/OWASP/Nest/pull/2443) |
+| fix: Prevent publishing blog posts that have future publish date | Medium | [#2474](https://github.com/OWASP/Nest/pull/2474) |
+| Added question detector to nestbot mentions | Medium | [#2473](https://github.com/OWASP/Nest/pull/2473) |
+| feat: Add milestone endpoints to v0 API | Medium | [#2472](https://github.com/OWASP/Nest/pull/2472) |
+| Bump @next/third-parties from 15.5.6 to 16.0.0 in /frontend | Medium | [#2470](https://github.com/OWASP/Nest/pull/2470) |
+| Bump eslint-config-next from 15.5.6 to 16.0.0 in /frontend | Medium | [#2469](https://github.com/OWASP/Nest/pull/2469) |
+| Bump langchain from 0.3.27 to 1.0.2 in /backend | Medium | [#2468](https://github.com/OWASP/Nest/pull/2468) |
+| Automatically focus the search field on page load | Medium | [#2465](https://github.com/OWASP/Nest/pull/2465) |
+| Bump @types/node from 22.18.11 to 22.18.12 in /frontend | Medium | [#2462](https://github.com/OWASP/Nest/pull/2462) |
+| Bump import-in-the-middle from 1.15.0 to 2.0.0 in /frontend | Medium | [#2457](https://github.com/OWASP/Nest/pull/2457) |
 | Update pre-commit configuration | Medium | [#2442](https://github.com/OWASP/Nest/pull/2442) |
 | refactor(owasp): Improve error handling in chapter scraping command | Medium | [#2439](https://github.com/OWASP/Nest/issues/2439) |
-| Agentic rag | Medium | [#2432](https://github.com/OWASP/Nest/pull/2432) |
 | Establish an e2e backend instance locally and in CI/CD | Medium | [#2429](https://github.com/OWASP/Nest/pull/2429) |
 | Docs(readme): improve README with flowchart and clarity enhancements | Medium | [#2421](https://github.com/OWASP/Nest/issues/2421) |
 | Consider configuring `DataLoader` plugin for GraphQL | Medium | [#2417](https://github.com/OWASP/Nest/issues/2417) |
 | Feature/project level compliance check | Medium | [#2415](https://github.com/OWASP/Nest/pull/2415) |
-| fix: prevent future-dated posts from appearing in news & opinions | Medium | [#2413](https://github.com/OWASP/Nest/pull/2413) |
 | Issue State & Deadline Reminders | Medium | [#2402](https://github.com/OWASP/Nest/issues/2402) |
 | Bug Fix and Enhancement : Sorting feature in Contribute and Projects Page | Medium | [#2401](https://github.com/OWASP/Nest/issues/2401) |
 | Add entity_channel field to Reminder model and remove channel_id | Medium | [#2399](https://github.com/OWASP/Nest/pull/2399) |
 | Bump python from 3.13.7-alpine to 3.14.0-alpine in /docs/docker | Medium | [#2396](https://github.com/OWASP/Nest/pull/2396) |
 | Bump python from 3.13.7-alpine to 3.14.0-alpine in /backend/docker | Medium | [#2395](https://github.com/OWASP/Nest/pull/2395) |
-| Nestbot AI Direct message implementation | Medium | [#2374](https://github.com/OWASP/Nest/pull/2374) |
-| Optimize Retriever queryset with select_related and only to reduce DB load | Medium | [#2351](https://github.com/OWASP/Nest/issues/2351) |
-| Sync OWASP Board of Directors Members Data | Medium | [#2345](https://github.com/OWASP/Nest/pull/2345) |
-| Terms of Service Page Implementation | Medium | [#2326](https://github.com/OWASP/Nest/issues/2326) |
 | Refactor `CardDetailsPage` and Update Dependent Pages | Hard | [#2414](https://github.com/OWASP/Nest/issues/2414) |
 
 ---
@@ -146,10 +172,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add project file structure to README.md | Easy | [#79](https://github.com/harshendram/Advanced-Discord-Bot/issues/79) |
+| feat: add /config ai command for AI assistant configuration- Implemen… | Medium | [#81](https://github.com/harshendram/Advanced-Discord-Bot/pull/81) |
 | Add Login Page for User Authentication | Medium | [#80](https://github.com/harshendram/Advanced-Discord-Bot/issues/80) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
-| create /config ai command | Hard | [#69](https://github.com/harshendram/Advanced-Discord-Bot/issues/69) |
 | Overhauling AI section | Hard | [#47](https://github.com/harshendram/Advanced-Discord-Bot/issues/47) |
 
 ---
@@ -168,6 +193,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Failed Authentication Page! | Medium | [#80](https://github.com/HimanshuHeda/Zip_Tales/issues/80) |
 | Add GSSoC Banner to README | Medium | [#79](https://github.com/HimanshuHeda/Zip_Tales/issues/79) |
 | Add Contributors Section in README | Medium | [#78](https://github.com/HimanshuHeda/Zip_Tales/issues/78) |
 | Chatbot Not Responding and Dashboard Displaying "No Data Available" Error. | Medium | [#77](https://github.com/HimanshuHeda/Zip_Tales/issues/77) |
@@ -194,22 +220,17 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#278](https://github.com/mansiruhil/fail-u-forward/pull/278) |
+|  | Medium | [#277](https://github.com/mansiruhil/fail-u-forward/issues/277) |
+| updated readme | Medium | [#276](https://github.com/mansiruhil/fail-u-forward/pull/276) |
 |  | Medium | [#275](https://github.com/mansiruhil/fail-u-forward/issues/275) |
-| fix Sign Up Button Redirecting | Medium | [#274](https://github.com/mansiruhil/fail-u-forward/pull/274) |
-| Add “Back to Top” Button in README.md | Medium | [#273](https://github.com/mansiruhil/fail-u-forward/issues/273) |
-| Add Contributors Section in README | Medium | [#272](https://github.com/mansiruhil/fail-u-forward/issues/272) |
-| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#271](https://github.com/mansiruhil/fail-u-forward/issues/271) |
-|  | Medium | [#270](https://github.com/mansiruhil/fail-u-forward/issues/270) |
-| The icon + text overlap (⟳ Refresh) looks broken | Medium | [#269](https://github.com/mansiruhil/fail-u-forward/issues/269) |
 | 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/mansiruhil/fail-u-forward/issues/268) |
 | Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/mansiruhil/fail-u-forward/issues/264) |
 | Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/mansiruhil/fail-u-forward/issues/263) |
 | Text on About Page Not Clearly Visible | Medium | [#260](https://github.com/mansiruhil/fail-u-forward/issues/260) |
-| A clean and responsive Footer ⚠️ | Medium | [#258](https://github.com/mansiruhil/fail-u-forward/issues/258) |
 | Design Navbar: Minimalistic & Polished | Medium | [#257](https://github.com/mansiruhil/fail-u-forward/issues/257) |
 | Improve the About Page interface and the sign up and language option buttons | Medium | [#256](https://github.com/mansiruhil/fail-u-forward/issues/256) |
 |  | Medium | [#255](https://github.com/mansiruhil/fail-u-forward/issues/255) |
-|  | Medium | [#254](https://github.com/mansiruhil/fail-u-forward/issues/254) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
 | Testing & CI/CD | Medium | [#190](https://github.com/mansiruhil/fail-u-forward/issues/190) |
 
@@ -359,9 +380,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance "Genres" Page UI/UX | Easy | [#87](https://github.com/rahulkhandait-sde/cineverse/issues/87) |
-| Removed duplicate © 2025 CineVerse. All rights reserved. Made with ❤️… | Medium | [#88](https://github.com/rahulkhandait-sde/cineverse/pull/88) |
-| Fix: Integrated Gemini API key for chatbot functionality | Medium | [#86](https://github.com/rahulkhandait-sde/cineverse/pull/86) |
+| Redesign & Enhancement of CONTRIBUTING.md for CineVerse | Easy | [#91](https://github.com/rahulkhandait-sde/cineverse/issues/91) |
+| Add GSSoC'25 Announcement in Readme. | Medium | [#90](https://github.com/rahulkhandait-sde/cineverse/issues/90) |
+| Enhanced Readability and Search Experience on "Genres" Page | Medium | [#89](https://github.com/rahulkhandait-sde/cineverse/pull/89) |
 | CSS for the header is not responsive | Medium | [#72](https://github.com/rahulkhandait-sde/cineverse/issues/72) |
 
 ---
@@ -544,7 +565,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| enhance: fix question modal layout and scrollbar, minor fixes | Medium | [#229](https://github.com/SurajSG23/PrepBuddy/pull/229) |
+| Improve README.md Structure and Visual Appeal | Medium | [#234](https://github.com/SurajSG23/PrepBuddy/issues/234) |
+| Enhance: Improve Visual Hierarchy and Content Detail in About Section | Medium | [#233](https://github.com/SurajSG23/PrepBuddy/issues/233) |
+| Fixed : Improve 'How It Works' Section UI/UX | Medium | [#232](https://github.com/SurajSG23/PrepBuddy/pull/232) |
+| added theme toggle button correctly | Medium | [#230](https://github.com/SurajSG23/PrepBuddy/pull/230) |
 
 ---
 
@@ -831,6 +855,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| AddED demo video link to README | Medium | [#51](https://github.com/Jyotibrat/AI-Flow/pull/51) |
 | Added Contributing.md file | Medium | [#29](https://github.com/Jyotibrat/AI-Flow/pull/29) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
@@ -890,7 +915,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated Twitter Icon | Medium | [#87](https://github.com/KrishChothani/CKsEdu/pull/87) |
 | Add a Gamified Leaderboard with XP System for Student Engagement | Medium | [#86](https://github.com/KrishChothani/CKsEdu/issues/86) |
 | Replace "Choose Your Plan" Button with Monthly-Yearly Slider for Better UX | Medium | [#66](https://github.com/KrishChothani/CKsEdu/issues/66) |
 | User Avatar Not Displaying Properly in Header | Medium | [#63](https://github.com/KrishChothani/CKsEdu/issues/63) |
@@ -1021,18 +1045,18 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump @supabase/supabase-js from 2.50.2 to 2.75.1 | Medium | [#149](https://github.com/Ojas-Arora/SapneSeSafar/pull/149) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.76.1 | Medium | [#153](https://github.com/Ojas-Arora/SapneSeSafar/pull/153) |
+| Bump vite from 5.4.17 to 7.1.11 | Medium | [#151](https://github.com/Ojas-Arora/SapneSeSafar/pull/151) |
+| Bump tailwindcss from 3.4.17 to 4.1.15 | Medium | [#150](https://github.com/Ojas-Arora/SapneSeSafar/pull/150) |
 | Bump recharts from 2.15.0 to 3.3.0 | Medium | [#148](https://github.com/Ojas-Arora/SapneSeSafar/pull/148) |
 | Bump eslint from 9.12.0 to 9.38.0 | Medium | [#147](https://github.com/Ojas-Arora/SapneSeSafar/pull/147) |
 | Bump lucide-react from 0.344.0 to 0.546.0 | Medium | [#146](https://github.com/Ojas-Arora/SapneSeSafar/pull/146) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.24 | Medium | [#145](https://github.com/Ojas-Arora/SapneSeSafar/pull/145) |
-| Bump vite from 5.4.17 to 7.1.10 | Medium | [#144](https://github.com/Ojas-Arora/SapneSeSafar/pull/144) |
 | Bump framer-motion from 11.18.2 to 12.23.24 | Medium | [#143](https://github.com/Ojas-Arora/SapneSeSafar/pull/143) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.0 | Medium | [#142](https://github.com/Ojas-Arora/SapneSeSafar/pull/142) |
 | Bump react-router-dom from 6.28.2 to 7.9.4 | Medium | [#140](https://github.com/Ojas-Arora/SapneSeSafar/pull/140) |
 | Bump react and @types/react | Medium | [#134](https://github.com/Ojas-Arora/SapneSeSafar/pull/134) |
 | Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
-| Bump tailwindcss from 3.4.17 to 4.1.14 | Medium | [#129](https://github.com/Ojas-Arora/SapneSeSafar/pull/129) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.0.4 | Medium | [#127](https://github.com/Ojas-Arora/SapneSeSafar/pull/127) |
 | Bump axios from 1.7.9 to 1.12.2 | Medium | [#106](https://github.com/Ojas-Arora/SapneSeSafar/pull/106) |
@@ -1265,7 +1289,6 @@ Fast Workflow Tools
 | Write tests for pkg/store | Easy | [#5](https://github.com/fordevio/wharf/issues/5) |
 | Write  tests for pkg/volume | Easy | [#4](https://github.com/fordevio/wharf/issues/4) |
 | Write  tests for pkg/network | Easy | [#3](https://github.com/fordevio/wharf/issues/3) |
-| test(pkg/image): add basic unit tests for image functions and types | Medium | [#151](https://github.com/fordevio/wharf/pull/151) |
 | fix(login): Prevent layout shift of header on login page | Medium | [#120](https://github.com/fordevio/wharf/pull/120) |
 | New Layout is not Responsive | Medium | [#111](https://github.com/fordevio/wharf/issues/111) |
 | Edit labels of a  volume | Medium | [#81](https://github.com/fordevio/wharf/issues/81) |
