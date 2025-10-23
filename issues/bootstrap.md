@@ -18,19 +18,24 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement modern CSS variables and enhance styles | Medium | [#1247](https://github.com/gyanshankar1708/GrowCraft/pull/1247) |
+| Title: Fix Typos and Naming Inconsistencies Across Repository | Medium | [#1246](https://github.com/gyanshankar1708/GrowCraft/issues/1246) |
+| Fix Navbar Inconsistency on Services Page | Medium | [#1245](https://github.com/gyanshankar1708/GrowCraft/pull/1245) |
+| Issue: Navbar Inconsistency on Service Page | Medium | [#1242](https://github.com/gyanshankar1708/GrowCraft/issues/1242) |
+| Carousel section not responsive on smaller screen sizes | Medium | [#1241](https://github.com/gyanshankar1708/GrowCraft/issues/1241) |
+| Add boxes for Services, Quick Links, and Get In Touch in the footer | Medium | [#1240](https://github.com/gyanshankar1708/GrowCraft/issues/1240) |
+| BUG: service section footer background issue | Medium | [#1239](https://github.com/gyanshankar1708/GrowCraft/issues/1239) |
+| Redesign the about us page | Medium | [#1238](https://github.com/gyanshankar1708/GrowCraft/pull/1238) |
+| UI Change | Medium | [#1233](https://github.com/gyanshankar1708/GrowCraft/issues/1233) |
+| Navbar styled properly for our work page. | Medium | [#1230](https://github.com/gyanshankar1708/GrowCraft/pull/1230) |
 | Fix UI sections -> those have incosistent UI | Medium | [#1226](https://github.com/gyanshankar1708/GrowCraft/issues/1226) |
-| Fix : css code visible in work.html (closes #1218) | Medium | [#1225](https://github.com/gyanshankar1708/GrowCraft/pull/1225) |
 | We can add hover effect on certain cards | Medium | [#1224](https://github.com/gyanshankar1708/GrowCraft/issues/1224) |
 | The Contact Us page doesn't match with the theme of the website | Medium | [#1223](https://github.com/gyanshankar1708/GrowCraft/issues/1223) |
 | Cards are of different sizes in the About Us section | Medium | [#1222](https://github.com/gyanshankar1708/GrowCraft/issues/1222) |
-| Login page is properly working in contact us page in navbar. | Medium | [#1221](https://github.com/gyanshankar1708/GrowCraft/pull/1221) |
 | unclear  code setting | Medium | [#1220](https://github.com/gyanshankar1708/GrowCraft/issues/1220) |
 | Intrens setting | Medium | [#1219](https://github.com/gyanshankar1708/GrowCraft/issues/1219) |
 | UI Fix | Medium | [#1217](https://github.com/gyanshankar1708/GrowCraft/issues/1217) |
 | Fix BackToTop Button | Medium | [#1216](https://github.com/gyanshankar1708/GrowCraft/issues/1216) |
-| Added sticky navbar to Content Writing, Web Development, and Digital Marketing pages | Medium | [#1208](https://github.com/gyanshankar1708/GrowCraft/pull/1208) |
-| Added Sticky navbar for graphic designing,socialmedia management and … | Medium | [#1207](https://github.com/gyanshankar1708/GrowCraft/pull/1207) |
-| Styled navbar properly for our work page. | Medium | [#1196](https://github.com/gyanshankar1708/GrowCraft/pull/1196) |
 | Services Section Misalignment on Home Page | Medium | [#1195](https://github.com/gyanshankar1708/GrowCraft/issues/1195) |
 | footer section inconvinient | Medium | [#1191](https://github.com/gyanshankar1708/GrowCraft/issues/1191) |
 | Services section is not looking good | Medium | [#1189](https://github.com/gyanshankar1708/GrowCraft/issues/1189) |
@@ -59,10 +64,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Slider Does Not Pause on Hover | Easy | [#70](https://github.com/Pujan-sarkar/FARMLOC/issues/70) |
-| Solved issue #68  -added real time interactive map | Medium | [#155](https://github.com/Pujan-sarkar/FARMLOC/pull/155) |
 | The image in about us section is overlapping the text right beside it | Medium | [#154](https://github.com/Pujan-sarkar/FARMLOC/issues/154) |
-| Fix issue #85 | Medium | [#152](https://github.com/Pujan-sarkar/FARMLOC/pull/152) |
-| Enhanced Contact Form and Added the SMTP Server service to send email to user and owner. | Medium | [#151](https://github.com/Pujan-sarkar/FARMLOC/pull/151) |
 | Find Cold Storage section is not working | Medium | [#145](https://github.com/Pujan-sarkar/FARMLOC/issues/145) |
 | Low text contrast on login page (labels and headings are barely visible) | Medium | [#141](https://github.com/Pujan-sarkar/FARMLOC/issues/141) |
 | Add "Continue with Google" option to FARMLOC login page | Medium | [#140](https://github.com/Pujan-sarkar/FARMLOC/issues/140) |
@@ -96,6 +98,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Redesign of the Community forum page | Medium | [#291](https://github.com/sachiva1/sachiva/pull/291) |
 | Added AI-powered FAQ Chatbot | Medium | [#290](https://github.com/sachiva1/sachiva/pull/290) |
 | Add Login/Signup UI with enhanced styles and functionality | Medium | [#289](https://github.com/sachiva1/sachiva/pull/289) |
 | Updated footer | Medium | [#288](https://github.com/sachiva1/sachiva/pull/288) |
