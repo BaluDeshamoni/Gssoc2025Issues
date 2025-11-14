@@ -14,8 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update README.md | Medium | [#77](https://github.com/Dipanita45/HEALCONNECT/pull/77) |
-| Add comprehensive error handling for real-time data fetch failures | Medium | [#41](https://github.com/Dipanita45/HEALCONNECT/pull/41) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
 
 ---
@@ -34,11 +32,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added ``updateSms`` method to update an existing sms message | Medium | [#142](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/142) |
-| Added ``createEmail`` method to create new email message | Medium | [#141](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/141) |
-| feat: get_queue_deletes [health] | Medium | [#140](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/140) |
-| feat: get_queue_databases [health] | Medium | [#139](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/139) |
-| issue create automate message added | Medium | [#129](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/129) |
 | feat: add createSms API to Messaging service with example | Medium | [#105](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/105) |
 | feat: list_targets [messaging] | Medium | [#97](https://github.com/pooranjoyb/cpp-sdk-appwrite/issues/97) |
 | feat: update documents | Medium | [#45](https://github.com/pooranjoyb/cpp-sdk-appwrite/pull/45) |
@@ -60,10 +53,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Tracking Issue: Tests for Error and Logging Policies | Easy | [#120](https://github.com/SharonIV0x86/CinderPeak/issues/120) |
+| feat(adjlist): Implement impl_hasVertex(const VertexType &v) in AdjacencyList.hpp | Easy | [#116](https://github.com/SharonIV0x86/CinderPeak/issues/116) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
-| refactor: dependency injection for PolicyHandler in Adjacency Storage | Medium | [#147](https://github.com/SharonIV0x86/CinderPeak/pull/147) |
-| feat(policies): Added tests for Ignore and LogFileAndConsole policy | Medium | [#143](https://github.com/SharonIV0x86/CinderPeak/pull/143) |
-| feat(policies): Added tests for Throw and LogFileAndConsole policy | Medium | [#141](https://github.com/SharonIV0x86/CinderPeak/pull/141) |
 | Add CI for autocomment on PR / ISSUES | Medium | [#128](https://github.com/SharonIV0x86/CinderPeak/issues/128) |
 
 ---
@@ -83,6 +74,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Issue Title: UI/UX Enhancement: Improve Styling for Netflix Clone Page | Easy | [#53](https://github.com/Aqsa4066/netflixclone/issues/53) |
+| Add Movie Listing Card Grid with Hover Effects and Responsive Design | Medium | [#85](https://github.com/Aqsa4066/netflixclone/issues/85) |
 | Fix: CSS issues in style.css (background-size, FAQ icon, font path, chatbot mobile) - Closes #77 | Medium | [#84](https://github.com/Aqsa4066/netflixclone/pull/84) |
 | Creating the latest styled carousel and enhancing the overall experience | Medium | [#83](https://github.com/Aqsa4066/netflixclone/issues/83) |
 | Redesign of the Sign In Page | Medium | [#82](https://github.com/Aqsa4066/netflixclone/issues/82) |
@@ -93,7 +85,6 @@
 | Change: Design of FAQs section | Medium | [#75](https://github.com/Aqsa4066/netflixclone/pull/75) |
 | Change: Design of FAQs section | Medium | [#72](https://github.com/Aqsa4066/netflixclone/pull/72) |
 | Edited footer | Medium | [#71](https://github.com/Aqsa4066/netflixclone/pull/71) |
-| Added alt text, placeholders, updated README screenshots | Medium | [#63](https://github.com/Aqsa4066/netflixclone/pull/63) |
 | Feature/full netflix implementation | Medium | [#61](https://github.com/Aqsa4066/netflixclone/pull/61) |
 | Enhance Netflix Clone Footer Design and Functionality | Medium | [#60](https://github.com/Aqsa4066/netflixclone/issues/60) |
 | Removed alt text for the logo and the language button | Medium | [#58](https://github.com/Aqsa4066/netflixclone/pull/58) |
