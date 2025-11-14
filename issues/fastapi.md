@@ -14,15 +14,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed : Enhance CONTRIBUTING.md Guidelines | Medium | [#345](https://github.com/Amarjha01/InfantCareCompass/pull/345) |
-| Update Registration.jsx | Medium | [#343](https://github.com/Amarjha01/InfantCareCompass/pull/343) |
-| Add GSSoC 2025 announcement to README | Medium | [#339](https://github.com/Amarjha01/InfantCareCompass/pull/339) |
-| Fixed GitHub OAuth Sign-In Crash issue | Medium | [#321](https://github.com/Amarjha01/InfantCareCompass/pull/321) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
 | Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
 | Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
+| Add document.md and performance.md | Medium | [#297](https://github.com/Amarjha01/InfantCareCompass/issues/297) |
+| Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
+| Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
+| Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
 
 ---
 
@@ -52,8 +52,6 @@
 | Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy23/splitwiser/pull/148) |
 | Fix preview workflow for forks | Medium | [#146](https://github.com/Devasy23/splitwiser/pull/146) |
 | Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
-| Add Google authentication and EAS preview patches | Medium | [#133](https://github.com/Devasy23/splitwiser/pull/133) |
-| Add Google Sign-Up Integration to main | Medium | [#132](https://github.com/Devasy23/splitwiser/pull/132) |
 
 ---
 
@@ -99,10 +97,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Improve Sign In button visibility on Register page (Light Theme) | Medium | [#761](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/761) |
-| Fix: Resolve overlapping issue between back button and Placify logo on Sign-Up page (mobile view) | Medium | [#760](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/760) |
-| Complete UI Refactor of Student Registration Page for Improved Design Consistency and Responsiveness | Medium | [#759](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/759) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -150,12 +146,12 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.8.0 | Medium | [#131](https://github.com/solve-ease/OptiBlogAi/pull/131) |
-| deps(deps-dev): bump eslint-config-next from 15.4.1 to 15.5.6 in /optiblogai-site | Medium | [#130](https://github.com/solve-ease/OptiBlogAi/pull/130) |
-| deps(deps-dev): bump @types/node from 20.19.8 to 24.8.1 in /optiblogai-site | Medium | [#129](https://github.com/solve-ease/OptiBlogAi/pull/129) |
-| deps(deps): bump lucide-react from 0.525.0 to 0.546.0 in /optiblogai-site | Medium | [#128](https://github.com/solve-ease/OptiBlogAi/pull/128) |
+| deps(deps-dev): bump eslint-config-next from 15.4.1 to 16.0.0 in /optiblogai-site | Medium | [#136](https://github.com/solve-ease/OptiBlogAi/pull/136) |
+| deps(deps): bump google-ai-generativelanguage from 0.6.15 to 0.9.0 | Medium | [#135](https://github.com/solve-ease/OptiBlogAi/pull/135) |
+| deps(deps): bump next from 15.4.1 to 16.0.0 in /optiblogai-site | Medium | [#134](https://github.com/solve-ease/OptiBlogAi/pull/134) |
+| deps(deps-dev): bump @types/node from 20.19.8 to 24.9.1 in /optiblogai-site | Medium | [#133](https://github.com/solve-ease/OptiBlogAi/pull/133) |
+| deps(deps): bump lucide-react from 0.525.0 to 0.548.0 in /optiblogai-site | Medium | [#132](https://github.com/solve-ease/OptiBlogAi/pull/132) |
 | ci(deps): bump actions/setup-node from 4 to 6 | Medium | [#127](https://github.com/solve-ease/OptiBlogAi/pull/127) |
-| deps(deps): bump next from 15.4.1 to 15.5.6 in /optiblogai-site | Medium | [#126](https://github.com/solve-ease/OptiBlogAi/pull/126) |
 | deps(deps-dev): bump eslint from 9.31.0 to 9.38.0 in /optiblogai-site | Medium | [#125](https://github.com/solve-ease/OptiBlogAi/pull/125) |
 | deps(deps): bump cachetools from 5.5.2 to 6.2.1 | Medium | [#124](https://github.com/solve-ease/OptiBlogAi/pull/124) |
 | docker(deps): bump python from 3.12-slim to 3.14-slim | Medium | [#123](https://github.com/solve-ease/OptiBlogAi/pull/123) |
@@ -255,7 +251,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | security: untrack .env | Medium | [#18](https://github.com/skdas20/Synapse/pull/18) |
 | Fix: Sidebar collapse on mobile, responsive modals, improved spacing | Medium | [#13](https://github.com/skdas20/Synapse/pull/13) |
 | 📱 Create Progressive Web App (PWA) | Medium | [#10](https://github.com/skdas20/Synapse/issues/10) |
-| ⚡ Optimize Performance and Add Caching | Hard | [#7](https://github.com/skdas20/Synapse/issues/7) |
 | 🔒 Add Authentication and User Management | Hard | [#6](https://github.com/skdas20/Synapse/issues/6) |
 | 📝 Add In-Browser Code Editor | Hard | [#3](https://github.com/skdas20/Synapse/issues/3) |
 | Add Input Validation and Error Handling | Hard | [#2](https://github.com/skdas20/Synapse/issues/2) |
