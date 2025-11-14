@@ -17,6 +17,7 @@
 | Add GitHub Actions CI for macOS & Linux | Easy | [#47](https://github.com/0xsambit/winix/issues/47) |
 | Create macOS Homebrew Formula | Easy | [#46](https://github.com/0xsambit/winix/issues/46) |
 | Create more commands from the Linux core library | Easy | [#9](https://github.com/0xsambit/winix/issues/9) |
+| Adding traceroute ,sysinfo and Ping command | Medium | [#71](https://github.com/0xsambit/winix/issues/71) |
 | Create a FEATURE.md | Medium | [#58](https://github.com/0xsambit/winix/issues/58) |
 
 ---
@@ -35,13 +36,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Addition of automate issue create message | Medium | [#41](https://github.com/VaibhavCodeClub/term/issues/41) |
-| Add SECURITY.md file | Medium | [#40](https://github.com/VaibhavCodeClub/term/issues/40) |
-| Added Context in the terminal | Medium | [#39](https://github.com/VaibhavCodeClub/term/pull/39) |
-| feat: Add basic markdown rendering for AI responses #21 | Medium | [#34](https://github.com/VaibhavCodeClub/term/pull/34) |
-| Added files for Pull request  template | Medium | [#31](https://github.com/VaibhavCodeClub/term/pull/31) |
-| clickable links | Medium | [#29](https://github.com/VaibhavCodeClub/term/issues/29) |
-| Feature : Added support of `ls` and 'la` command | Medium | [#20](https://github.com/VaibhavCodeClub/term/pull/20) |
+| Addition of automate issue create message | Medium | [#41](https://github.com/EkaAI-Tech/term/issues/41) |
+| Add SECURITY.md file | Medium | [#40](https://github.com/EkaAI-Tech/term/issues/40) |
+| Added Context in the terminal | Medium | [#39](https://github.com/EkaAI-Tech/term/pull/39) |
+| feat: Add basic markdown rendering for AI responses #21 | Medium | [#34](https://github.com/EkaAI-Tech/term/pull/34) |
+| Added files for Pull request  template | Medium | [#31](https://github.com/EkaAI-Tech/term/pull/31) |
+| clickable links | Medium | [#29](https://github.com/EkaAI-Tech/term/issues/29) |
+| Feature : Added support of `ls` and 'la` command | Medium | [#20](https://github.com/EkaAI-Tech/term/pull/20) |
 
 ---
 
