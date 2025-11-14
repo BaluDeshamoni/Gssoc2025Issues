@@ -22,6 +22,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Add GSSoC'25 Banner | Medium | [#70](https://github.com/Menthub-GSSoC/Menthub/issues/70) |
 | ⚙️: | Medium | [#69](https://github.com/Menthub-GSSoC/Menthub/issues/69) |
 | 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
@@ -31,11 +32,11 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | ⚙️:Add Unit & Integration Test Suite | Medium | [#63](https://github.com/Menthub-GSSoC/Menthub/issues/63) |
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
-| Update matcher.py | Medium | [#52](https://github.com/Menthub-GSSoC/Menthub/pull/52) |
 | ⚙️:Dark Mode Toggle with Persistent User Preference | Medium | [#48](https://github.com/Menthub-GSSoC/Menthub/issues/48) |
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
+| Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
 
 ---
 
@@ -188,10 +189,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Improve Sign In button visibility on Register page (Light Theme) | Medium | [#761](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/761) |
-| Fix: Resolve overlapping issue between back button and Placify logo on Sign-Up page (mobile view) | Medium | [#760](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/pull/760) |
-| Complete UI Refactor of Student Registration Page for Improved Design Consistency and Responsiveness | Medium | [#759](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/759) |
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
+| week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
 
 ---
 
@@ -209,8 +208,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Social Meadia in Footer | Medium | [#436](https://github.com/omroy07/AgriTech/issues/436) |
-| Integrate Google In Sign-Up/Login Page | Medium | [#434](https://github.com/omroy07/AgriTech/issues/434) |
+| Update README.md | Medium | [#443](https://github.com/omroy07/AgriTech/pull/443) |
+| Agritech | Medium | [#442](https://github.com/omroy07/AgriTech/pull/442) |
+| fix: mobile responsive layout for homepage | Medium | [#441](https://github.com/omroy07/AgriTech/pull/441) |
+| <short description>Proposal to Implement New Feature Enhancements for AgriTech | Medium | [#440](https://github.com/omroy07/AgriTech/issues/440) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
 | Add Contact Section in README.md | Medium | [#413](https://github.com/omroy07/AgriTech/issues/413) |
@@ -221,7 +222,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
 | Unify Navigation Bar Across Pages | Medium | [#358](https://github.com/omroy07/AgriTech/issues/358) |
 | Change in Structuring and design of Feedback form | Medium | [#349](https://github.com/omroy07/AgriTech/issues/349) |
-| Fixed Chat text visble or Edittext ui | Medium | [#346](https://github.com/omroy07/AgriTech/pull/346) |
 
 ---
 
@@ -385,8 +385,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhanced login & Sign-in UI/UX Sheet | Medium | [#56](https://github.com/AKing-283/Rewear/pull/56) |
-| Made the form titles visible in dark mode | Medium | [#54](https://github.com/AKing-283/Rewear/pull/54) |
 | Add Contact Section | Medium | [#51](https://github.com/AKing-283/Rewear/issues/51) |
 | Add Shipping Section | Medium | [#50](https://github.com/AKing-283/Rewear/issues/50) |
 | User profile and rating | Medium | [#39](https://github.com/AKing-283/Rewear/issues/39) |
@@ -407,10 +405,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Add Hover Effects and Tooltips to  “Export Chat” and “Clear Chat” Buttons | Medium | [#130](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/130) |
-| Home page | Medium | [#127](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/127) |
+| FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
+| feat(backend): add Flask authentication API and MongoDB integration | Medium | [#140](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/140) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
+| FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
+| FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
+| FEATURE: Add copy and edit functionality to chats | Hard | [#93](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/93) |
+| FEATURE: Create Page for Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
 
 ---
 
@@ -503,7 +505,6 @@ Fast Workflow Tools
 | Code Structure Fix - Separate JavaScript into an External File | Medium | [#10](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/10) |
 | Missing Error Handling: File Read | Medium | [#9](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/9) |
 | Code Structure Issue: HTML and CSS combined in a single file | Medium | [#8](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/8) |
-| Fix Responsivness | Medium | [#7](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/7) |
 | Add Flask Backend to Implement Core Functionality | Medium | [#6](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/6) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#5](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/5) |
 | Add a Comprehensive `README.md` File for Better Project Documentation | Medium | [#4](https://github.com/Vaddadibhavanaspoorthi/Projects/issues/4) |
