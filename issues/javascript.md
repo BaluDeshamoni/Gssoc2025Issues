@@ -661,10 +661,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Document repository structure in README | Medium | [#199](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/199) |
 | Add Pull Request (PR) Template | Medium | [#66](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/66) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#65](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/65) |
-| #42 Content Disappears After Reload on All Pages | Medium | [#44](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/44) |
 | Make UI Responsive for Mobile Devices | Medium | [#23](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/issues/23) |
 | Update README.md | Medium | [#19](https://github.com/mpawank/Rohit-Youtube-Advocate-AiBot/pull/19) |
 
@@ -1122,11 +1120,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Delete package-lock.json | Easy | [#1202](https://github.com/recodehive/recode-website/pull/1202) |
-| Package-lock.json exists in the main root | Easy | [#1201](https://github.com/recodehive/recode-website/issues/1201) |
 | Feature/social sharing buttons | Easy | [#1192](https://github.com/recodehive/recode-website/pull/1192) |
-| Issues Available to work with | Easy | [#1186](https://github.com/recodehive/recode-website/issues/1186) |
-| [Feature]: our project section is not looking good on mobile | Easy | [#937](https://github.com/recodehive/recode-website/issues/937) |
+| chore: bump firebase from 9.23.0 to 12.6.0 | Medium | [#1204](https://github.com/recodehive/recode-website/pull/1204) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
