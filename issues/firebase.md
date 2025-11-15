@@ -102,15 +102,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/mansiruhil/fail-u-forward/issues/268) |
-| Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/mansiruhil/fail-u-forward/issues/264) |
-| Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/mansiruhil/fail-u-forward/issues/263) |
-| Text on About Page Not Clearly Visible | Medium | [#260](https://github.com/mansiruhil/fail-u-forward/issues/260) |
-| Design Navbar: Minimalistic & Polished | Medium | [#257](https://github.com/mansiruhil/fail-u-forward/issues/257) |
-| Improve the About Page interface and the sign up and language option buttons | Medium | [#256](https://github.com/mansiruhil/fail-u-forward/issues/256) |
-|  | Medium | [#255](https://github.com/mansiruhil/fail-u-forward/issues/255) |
-| Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
-| Testing & CI/CD | Medium | [#190](https://github.com/mansiruhil/fail-u-forward/issues/190) |
+| 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/ruhilmansi/fail-u-forward/issues/268) |
+| Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/ruhilmansi/fail-u-forward/issues/264) |
+| Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/ruhilmansi/fail-u-forward/issues/263) |
+| Text on About Page Not Clearly Visible | Medium | [#260](https://github.com/ruhilmansi/fail-u-forward/issues/260) |
+| Design Navbar: Minimalistic & Polished | Medium | [#257](https://github.com/ruhilmansi/fail-u-forward/issues/257) |
+| Improve the About Page interface and the sign up and language option buttons | Medium | [#256](https://github.com/ruhilmansi/fail-u-forward/issues/256) |
+|  | Medium | [#255](https://github.com/ruhilmansi/fail-u-forward/issues/255) |
+| Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/ruhilmansi/fail-u-forward/issues/200) |
+| Testing & CI/CD | Medium | [#190](https://github.com/ruhilmansi/fail-u-forward/issues/190) |
 
 ---
 
