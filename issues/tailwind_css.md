@@ -254,21 +254,23 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Missing Keyboard Navigation Support | Easy | [#2655](https://github.com/OWASP/Nest/issues/2655) |
+| Improve Alt Text for Images Across Components | Easy | [#2654](https://github.com/OWASP/Nest/issues/2654) |
+| Add Type Hints to Utility Functions | Easy | [#2650](https://github.com/OWASP/Nest/issues/2650) |
+| Add Docstrings to Model Mixin Methods | Easy | [#2648](https://github.com/OWASP/Nest/issues/2648) |
+| Add Return Type Hints to Model Manager Methods | Easy | [#2647](https://github.com/OWASP/Nest/issues/2647) |
+| Add Docstrings to Sitemap View Methods | Easy | [#2645](https://github.com/OWASP/Nest/issues/2645) |
 | Fix long-running ECS/Fargate Tasks | Easy | [#2620](https://github.com/OWASP/Nest/pull/2620) |
+| Add aria-labels to interactive elements for WCAG 2.1 compliance | Medium | [#2657](https://github.com/OWASP/Nest/pull/2657) |
+| Extract magic numbers to constants in project.py (#2649) | Medium | [#2652](https://github.com/OWASP/Nest/pull/2652) |
+| Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
 | Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
 | active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
 | Add Sort Dropdown to Contribute (Issues) Page | Medium | [#2626](https://github.com/OWASP/Nest/issues/2626) |
 | Check "help wanted" issues sync process for Juice Shop | Medium | [#2621](https://github.com/OWASP/Nest/issues/2621) |
 | Monitoring and Observability Improvements | Medium | [#2615](https://github.com/OWASP/Nest/issues/2615) |
 | Extend Nest API `chapter` and `project` | Medium | [#2606](https://github.com/OWASP/Nest/pull/2606) |
-| Bump langchain from 0.3.27 to 1.0.5 in /backend | Medium | [#2590](https://github.com/OWASP/Nest/pull/2590) |
 | reduced-refractor-nesting | Medium | [#2586](https://github.com/OWASP/Nest/pull/2586) |
-| Extend Chapter and events REST endpoints with filtering and add longitude and latitude to schemes | Medium | [#2584](https://github.com/OWASP/Nest/pull/2584) |
-| Implement chapter map for 1M+ cities w/ no chapters | Medium | [#2580](https://github.com/OWASP/Nest/issues/2580) |
-| refactor: update breadcrumbs component to support dynamic title rende… | Medium | [#2573](https://github.com/OWASP/Nest/pull/2573) |
-| Implemenent automatic difficulty level AI labeling for contribution opportunities | Medium | [#2562](https://github.com/OWASP/Nest/issues/2562) |
-| Extend Nest API with OWASP Staff data | Medium | [#2555](https://github.com/OWASP/Nest/issues/2555) |
-| Extend Nest API with OWASP Board of directors (members and candidates) | Medium | [#2554](https://github.com/OWASP/Nest/issues/2554) |
 
 ---
 
@@ -878,7 +880,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added CONTRIBUTING.md file | Medium | [#28](https://github.com/byteom/Interview01/pull/28) |
-| 17: Implement functional search bar on homepage | Medium | [#26](https://github.com/byteom/Interview01/pull/26) |
 | Add a Navbar for Easy Section Access: | Medium | [#24](https://github.com/byteom/Interview01/issues/24) |
 | Enhance Stats & Testimonials with Engaging Animations | Medium | [#23](https://github.com/byteom/Interview01/issues/23) |
 | testing | Medium | [#22](https://github.com/byteom/Interview01/issues/22) |
@@ -1057,6 +1058,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Contribution Guidelines | Medium | [#36](https://github.com/sailaja-adapa/GuruShish/issues/36) |
+| Add an Architecture / Flow Diagram | Medium | [#35](https://github.com/sailaja-adapa/GuruShish/issues/35) |
 | docs: clarify installation commands for frontend and backend setup | Medium | [#34](https://github.com/sailaja-adapa/GuruShish/pull/34) |
 | Improving whole website structure and ui | Medium | [#33](https://github.com/sailaja-adapa/GuruShish/issues/33) |
 | Enhancement of Login Page | Medium | [#32](https://github.com/sailaja-adapa/GuruShish/issues/32) |
@@ -1085,8 +1088,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | UI Enhancement : Student Page | Medium | [#7](https://github.com/sailaja-adapa/GuruShish/issues/7) |
 | UI enhancement: Landing Page | Medium | [#5](https://github.com/sailaja-adapa/GuruShish/issues/5) |
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
-| Glassy Navbar Contribution | Medium | [#3](https://github.com/sailaja-adapa/GuruShish/issues/3) |
-| Issue with the setup instructions | Medium | [#2](https://github.com/sailaja-adapa/GuruShish/issues/2) |
 
 ---
 
@@ -2305,6 +2306,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| build(deps): bump js-yaml from 4.1.0 to 4.1.1 | Medium | [#95](https://github.com/dscnitrourkela/project-huckleberry/pull/95) |
 | build(deps): bump next-auth from 5.0.0-beta.27 to 5.0.0-beta.30 | Medium | [#94](https://github.com/dscnitrourkela/project-huckleberry/pull/94) |
 | build(deps): bump axios from 1.9.0 to 1.12.0 | Medium | [#93](https://github.com/dscnitrourkela/project-huckleberry/pull/93) |
 | build(deps): bump next from 15.3.1 to 15.4.7 | Medium | [#91](https://github.com/dscnitrourkela/project-huckleberry/pull/91) |
