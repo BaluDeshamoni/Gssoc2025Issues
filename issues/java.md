@@ -137,8 +137,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed CSS for footer | Medium | [#1040](https://github.com/opensource-society/notesvault/pull/1040) |
-| Dashboard need to be locked 1st login/sSignup to access the page | Medium | [#1038](https://github.com/opensource-society/notesvault/issues/1038) |
+| Fix/dashboard auth 1038 + Fix: enforce server-side auth for protected pages & add secure auth + upload flows | Medium | [#1042](https://github.com/opensource-society/notesvault/pull/1042) |
+| [AOS Animation] <Integrating animations that make the website look more modern and attractive> | Medium | [#1041](https://github.com/opensource-society/notesvault/issues/1041) |
 
 ---
 
@@ -1120,6 +1120,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🐞[Bug]: Dark Theme is not being applied to Courses Page | Easy | [#1207](https://github.com/recodehive/recode-website/issues/1207) |
 | Feature/social sharing buttons | Easy | [#1192](https://github.com/recodehive/recode-website/pull/1192) |
 | chore: bump firebase from 9.23.0 to 12.6.0 | Medium | [#1204](https://github.com/recodehive/recode-website/pull/1204) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
@@ -1187,6 +1188,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: make Why Choose LearnHub cards clickable with modal details | Medium | [#249](https://github.com/souvikpramanikgit/LearnHub/pull/249) |
+| feat: added web development & dsa roadmap pages with sidebar updates | Medium | [#248](https://github.com/souvikpramanikgit/LearnHub/pull/248) |
 | Optimize Background Image Loading (LCP/CLS) | Medium | [#245](https://github.com/souvikpramanikgit/LearnHub/issues/245) |
 | CSS Refactor: Theme-Specific Contrast Fix for Highlighted Text | Medium | [#244](https://github.com/souvikpramanikgit/LearnHub/issues/244) |
 | Update docusaurus.config.ts | Medium | [#222](https://github.com/souvikpramanikgit/LearnHub/pull/222) |
