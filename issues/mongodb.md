@@ -512,7 +512,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Leaderboard System to Track Ranks, Accuracy & Attempts | Medium | [#18](https://github.com/Piyush-t24/NBG/issues/18) |
 | Implement Dark/Light Mode Toggle | Medium | [#17](https://github.com/Piyush-t24/NBG/issues/17) |
 | feat: Enhanced homepage with dynamic gaming UI/UX | Medium | [#15](https://github.com/Piyush-t24/NBG/pull/15) |
 | Code of Conduct & README Update for NBG under GSSoC'25 | Medium | [#14](https://github.com/Piyush-t24/NBG/issues/14) |
@@ -1255,13 +1254,9 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Refactor ESLint Configuration for Stable Production Deployments (Level 3) | Medium | [#905](https://github.com/Premkolte/AnimateHub/issues/905) |
-| Level 3 Optimization: Hardened ESLint Configuration for Stable, Zero-Error Deployment | Medium | [#904](https://github.com/Premkolte/AnimateHub/pull/904) |
 | Enhance postcss.config.js for Stable, Efficient, and Error-Free Level 3 Deployments | Medium | [#903](https://github.com/Premkolte/AnimateHub/issues/903) |
-| Level 3 Optimization: Refined postcss.config.js for Zero-Error Builds and Faster Deployment | Medium | [#902](https://github.com/Premkolte/AnimateHub/pull/902) |
 | Enhance and Harden Tailwind Configuration for Deployment Stability and level 3 Scalability | Medium | [#901](https://github.com/Premkolte/AnimateHub/issues/901) |
-| Level 3 Enhancement: Optimized tailwind.config.js for CI/CD Safety, Scalability & Visual Consistency | Medium | [#900](https://github.com/Premkolte/AnimateHub/pull/900) |
 | Optimize vercel.json for Secure and Stable Vercel Deployments(Level3) | Medium | [#899](https://github.com/Premkolte/AnimateHub/issues/899) |
-| Level 3: Hardened vercel.json for Reliable and Secure Deployments | Medium | [#898](https://github.com/Premkolte/AnimateHub/pull/898) |
 | Optimize and Secure Vite Configuration for Level-3 Build & Deployment Performance | Medium | [#897](https://github.com/Premkolte/AnimateHub/issues/897) |
 | Enhance Sitemap for Better SEO, Accessibility & Site Coverage(level-3) | Medium | [#895](https://github.com/Premkolte/AnimateHub/issues/895) |
 | Level 3 Backend Refactor: Deploy-Ready Error Handling, CORS, Health & Uptime Monitoring | Medium | [#893](https://github.com/Premkolte/AnimateHub/issues/893) |
@@ -1279,6 +1274,11 @@ Fast Workflow Tools
 | Critical Security Vulnerability in Axios Library | Medium | [#842](https://github.com/Premkolte/AnimateHub/issues/842) |
 | Close button and copy button is not showing in Mac | Medium | [#833](https://github.com/Premkolte/AnimateHub/issues/833) |
 | Level 3 Futuristic UI Enhancements – App.jsx & Styles (Deployment-Safe) | Medium | [#832](https://github.com/Premkolte/AnimateHub/issues/832) |
+| Enhance vercel.json for Security, Performance & Scalability | Medium | [#830](https://github.com/Premkolte/AnimateHub/issues/830) |
+| Level 3 Futuristic UI Enhancements for index.css | Medium | [#827](https://github.com/Premkolte/AnimateHub/issues/827) |
+| Enhance Navbar and Logo Visibility in Dark Mode | Medium | [#825](https://github.com/Premkolte/AnimateHub/issues/825) |
+| Lev 3 – Futuristic UI/UX Overhaul for index.html | Medium | [#824](https://github.com/Premkolte/AnimateHub/issues/824) |
+| Remove gradient | Medium | [#817](https://github.com/Premkolte/AnimateHub/issues/817) |
 
 ---
 
