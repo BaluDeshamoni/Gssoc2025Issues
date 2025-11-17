@@ -284,20 +284,17 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix long-running ECS/Fargate Tasks | Easy | [#2620](https://github.com/OWASP/Nest/pull/2620) |
+| Add descriptive admin method docstrings across Django admin modules (… | Medium | [#2664](https://github.com/OWASP/Nest/pull/2664) |
+| NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
+| Add aria-labels to interactive elements for WCAG 2.1 compliance | Medium | [#2657](https://github.com/OWASP/Nest/pull/2657) |
+| Extract magic numbers to constants in project.py (#2649) | Medium | [#2652](https://github.com/OWASP/Nest/pull/2652) |
+| Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
 | Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
 | active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
 | Add Sort Dropdown to Contribute (Issues) Page | Medium | [#2626](https://github.com/OWASP/Nest/issues/2626) |
 | Check "help wanted" issues sync process for Juice Shop | Medium | [#2621](https://github.com/OWASP/Nest/issues/2621) |
 | Monitoring and Observability Improvements | Medium | [#2615](https://github.com/OWASP/Nest/issues/2615) |
 | Extend Nest API `chapter` and `project` | Medium | [#2606](https://github.com/OWASP/Nest/pull/2606) |
-| Bump langchain from 0.3.27 to 1.0.5 in /backend | Medium | [#2590](https://github.com/OWASP/Nest/pull/2590) |
-| reduced-refractor-nesting | Medium | [#2586](https://github.com/OWASP/Nest/pull/2586) |
-| Extend Chapter and events REST endpoints with filtering and add longitude and latitude to schemes | Medium | [#2584](https://github.com/OWASP/Nest/pull/2584) |
-| Implement chapter map for 1M+ cities w/ no chapters | Medium | [#2580](https://github.com/OWASP/Nest/issues/2580) |
-| refactor: update breadcrumbs component to support dynamic title rende… | Medium | [#2573](https://github.com/OWASP/Nest/pull/2573) |
-| Implemenent automatic difficulty level AI labeling for contribution opportunities | Medium | [#2562](https://github.com/OWASP/Nest/issues/2562) |
-| Extend Nest API with OWASP Staff data | Medium | [#2555](https://github.com/OWASP/Nest/issues/2555) |
-| Extend Nest API with OWASP Board of directors (members and candidates) | Medium | [#2554](https://github.com/OWASP/Nest/issues/2554) |
 
 ---
 
@@ -1178,7 +1175,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added CONTRIBUTING.md file | Medium | [#28](https://github.com/byteom/Interview01/pull/28) |
-| 17: Implement functional search bar on homepage | Medium | [#26](https://github.com/byteom/Interview01/pull/26) |
 | Add a Navbar for Easy Section Access: | Medium | [#24](https://github.com/byteom/Interview01/issues/24) |
 | Enhance Stats & Testimonials with Engaging Animations | Medium | [#23](https://github.com/byteom/Interview01/issues/23) |
 | testing | Medium | [#22](https://github.com/byteom/Interview01/issues/22) |
@@ -1236,7 +1232,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Leaderboard System to Track Ranks, Accuracy & Attempts | Medium | [#18](https://github.com/Piyush-t24/NBG/issues/18) |
 | Implement Dark/Light Mode Toggle | Medium | [#17](https://github.com/Piyush-t24/NBG/issues/17) |
 | feat: Enhanced homepage with dynamic gaming UI/UX | Medium | [#15](https://github.com/Piyush-t24/NBG/pull/15) |
 | Code of Conduct & README Update for NBG under GSSoC'25 | Medium | [#14](https://github.com/Piyush-t24/NBG/issues/14) |
@@ -1477,6 +1472,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/add cpu components | Medium | [#117](https://github.com/SamXop123/RigCrafter/pull/117) |
 | <Component> Add more RAM Components | Medium | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
 
 ---
@@ -1568,6 +1564,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: make Why Choose LearnHub cards clickable with modal details | Medium | [#249](https://github.com/souvikpramanikgit/LearnHub/pull/249) |
+| feat: added web development & dsa roadmap pages with sidebar updates | Medium | [#248](https://github.com/souvikpramanikgit/LearnHub/pull/248) |
 | Optimize Background Image Loading (LCP/CLS) | Medium | [#245](https://github.com/souvikpramanikgit/LearnHub/issues/245) |
 | CSS Refactor: Theme-Specific Contrast Fix for Highlighted Text | Medium | [#244](https://github.com/souvikpramanikgit/LearnHub/issues/244) |
 | Update docusaurus.config.ts | Medium | [#222](https://github.com/souvikpramanikgit/LearnHub/pull/222) |
@@ -2556,13 +2554,9 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Refactor ESLint Configuration for Stable Production Deployments (Level 3) | Medium | [#905](https://github.com/Premkolte/AnimateHub/issues/905) |
-| Level 3 Optimization: Hardened ESLint Configuration for Stable, Zero-Error Deployment | Medium | [#904](https://github.com/Premkolte/AnimateHub/pull/904) |
 | Enhance postcss.config.js for Stable, Efficient, and Error-Free Level 3 Deployments | Medium | [#903](https://github.com/Premkolte/AnimateHub/issues/903) |
-| Level 3 Optimization: Refined postcss.config.js for Zero-Error Builds and Faster Deployment | Medium | [#902](https://github.com/Premkolte/AnimateHub/pull/902) |
 | Enhance and Harden Tailwind Configuration for Deployment Stability and level 3 Scalability | Medium | [#901](https://github.com/Premkolte/AnimateHub/issues/901) |
-| Level 3 Enhancement: Optimized tailwind.config.js for CI/CD Safety, Scalability & Visual Consistency | Medium | [#900](https://github.com/Premkolte/AnimateHub/pull/900) |
 | Optimize vercel.json for Secure and Stable Vercel Deployments(Level3) | Medium | [#899](https://github.com/Premkolte/AnimateHub/issues/899) |
-| Level 3: Hardened vercel.json for Reliable and Secure Deployments | Medium | [#898](https://github.com/Premkolte/AnimateHub/pull/898) |
 | Optimize and Secure Vite Configuration for Level-3 Build & Deployment Performance | Medium | [#897](https://github.com/Premkolte/AnimateHub/issues/897) |
 | Enhance Sitemap for Better SEO, Accessibility & Site Coverage(level-3) | Medium | [#895](https://github.com/Premkolte/AnimateHub/issues/895) |
 | Level 3 Backend Refactor: Deploy-Ready Error Handling, CORS, Health & Uptime Monitoring | Medium | [#893](https://github.com/Premkolte/AnimateHub/issues/893) |
@@ -2580,6 +2574,11 @@ Fast Workflow Tools
 | Critical Security Vulnerability in Axios Library | Medium | [#842](https://github.com/Premkolte/AnimateHub/issues/842) |
 | Close button and copy button is not showing in Mac | Medium | [#833](https://github.com/Premkolte/AnimateHub/issues/833) |
 | Level 3 Futuristic UI Enhancements – App.jsx & Styles (Deployment-Safe) | Medium | [#832](https://github.com/Premkolte/AnimateHub/issues/832) |
+| Enhance vercel.json for Security, Performance & Scalability | Medium | [#830](https://github.com/Premkolte/AnimateHub/issues/830) |
+| Level 3 Futuristic UI Enhancements for index.css | Medium | [#827](https://github.com/Premkolte/AnimateHub/issues/827) |
+| Enhance Navbar and Logo Visibility in Dark Mode | Medium | [#825](https://github.com/Premkolte/AnimateHub/issues/825) |
+| Lev 3 – Futuristic UI/UX Overhaul for index.html | Medium | [#824](https://github.com/Premkolte/AnimateHub/issues/824) |
+| Remove gradient | Medium | [#817](https://github.com/Premkolte/AnimateHub/issues/817) |
 
 ---
 
