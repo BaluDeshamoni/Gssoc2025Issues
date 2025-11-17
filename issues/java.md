@@ -1082,6 +1082,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/add cpu components | Medium | [#117](https://github.com/SamXop123/RigCrafter/pull/117) |
 | <Component> Add more RAM Components | Medium | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
 
 ---
@@ -1120,8 +1121,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat/interactive python editor | Easy | [#1214](https://github.com/recodehive/recode-website/pull/1214) |
 | 🐞[Bug]: Dark Theme is not being applied to Courses Page | Easy | [#1207](https://github.com/recodehive/recode-website/issues/1207) |
-| Feature/social sharing buttons | Easy | [#1192](https://github.com/recodehive/recode-website/pull/1192) |
 | chore: bump firebase from 9.23.0 to 12.6.0 | Medium | [#1204](https://github.com/recodehive/recode-website/pull/1204) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
