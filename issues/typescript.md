@@ -69,11 +69,13 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🤖 AI Interview System — Complete AI Functionality | Easy | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
-| 💻 Code Compiler Integration | Easy | [#621](https://github.com/abhisek2004/Dev-Elevate/issues/621) |
-| Feature: Learning Hub – Learning Tracks | Easy | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
-| 🧩 Forgot Password — Functional Implementation | Medium | [#616](https://github.com/abhisek2004/Dev-Elevate/issues/616) |
+| 📨 Newsletter Subscription — Store Email + Auto Email Updates | Medium | [#673](https://github.com/abhisek2004/Dev-Elevate/issues/673) |
+| Store Cookie Consent Popup + Preference Storage | Medium | [#672](https://github.com/abhisek2004/Dev-Elevate/issues/672) |
+| Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
+| 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
+| 💻 Code Compiler Integration | Hard | [#621](https://github.com/abhisek2004/Dev-Elevate/issues/621) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
+| 🧩 Forgot Password — Functional Implementation | Hard | [#616](https://github.com/abhisek2004/Dev-Elevate/issues/616) |
 
 ---
 
@@ -92,19 +94,17 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix long-running ECS/Fargate Tasks | Easy | [#2620](https://github.com/OWASP/Nest/pull/2620) |
+| Add descriptive admin method docstrings across Django admin modules (… | Medium | [#2664](https://github.com/OWASP/Nest/pull/2664) |
+| NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
+| Add aria-labels to interactive elements for WCAG 2.1 compliance | Medium | [#2657](https://github.com/OWASP/Nest/pull/2657) |
+| Extract magic numbers to constants in project.py (#2649) | Medium | [#2652](https://github.com/OWASP/Nest/pull/2652) |
+| Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
+| Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
+| active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
 | Add Sort Dropdown to Contribute (Issues) Page | Medium | [#2626](https://github.com/OWASP/Nest/issues/2626) |
 | Check "help wanted" issues sync process for Juice Shop | Medium | [#2621](https://github.com/OWASP/Nest/issues/2621) |
 | Monitoring and Observability Improvements | Medium | [#2615](https://github.com/OWASP/Nest/issues/2615) |
 | Extend Nest API `chapter` and `project` | Medium | [#2606](https://github.com/OWASP/Nest/pull/2606) |
-| Bump langchain from 0.3.27 to 1.0.5 in /backend | Medium | [#2590](https://github.com/OWASP/Nest/pull/2590) |
-| reduced-refractor-nesting | Medium | [#2586](https://github.com/OWASP/Nest/pull/2586) |
-| Extend Chapter and events REST endpoints with filtering and add longitude and latitude to schemes | Medium | [#2584](https://github.com/OWASP/Nest/pull/2584) |
-| Implement chapter map for 1M+ cities w/ no chapters | Medium | [#2580](https://github.com/OWASP/Nest/issues/2580) |
-| refactor: update breadcrumbs component to support dynamic title rende… | Medium | [#2573](https://github.com/OWASP/Nest/pull/2573) |
-| Implemenent automatic difficulty level AI labeling for contribution opportunities | Medium | [#2562](https://github.com/OWASP/Nest/issues/2562) |
-| Extend Nest API with OWASP Staff data | Medium | [#2555](https://github.com/OWASP/Nest/issues/2555) |
-| Extend Nest API with OWASP Board of directors (members and candidates) | Medium | [#2554](https://github.com/OWASP/Nest/issues/2554) |
-| Extend OWASP app with `Award` model and extend the REST API with its data | Medium | [#2553](https://github.com/OWASP/Nest/issues/2553) |
 
 ---
 
@@ -217,15 +217,15 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/mansiruhil/fail-u-forward/issues/268) |
-| Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/mansiruhil/fail-u-forward/issues/264) |
-| Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/mansiruhil/fail-u-forward/issues/263) |
-| Text on About Page Not Clearly Visible | Medium | [#260](https://github.com/mansiruhil/fail-u-forward/issues/260) |
-| Design Navbar: Minimalistic & Polished | Medium | [#257](https://github.com/mansiruhil/fail-u-forward/issues/257) |
-| Improve the About Page interface and the sign up and language option buttons | Medium | [#256](https://github.com/mansiruhil/fail-u-forward/issues/256) |
-|  | Medium | [#255](https://github.com/mansiruhil/fail-u-forward/issues/255) |
-| Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/mansiruhil/fail-u-forward/issues/200) |
-| Testing & CI/CD | Medium | [#190](https://github.com/mansiruhil/fail-u-forward/issues/190) |
+| 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/ruhilmansi/fail-u-forward/issues/268) |
+| Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/ruhilmansi/fail-u-forward/issues/264) |
+| Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/ruhilmansi/fail-u-forward/issues/263) |
+| Text on About Page Not Clearly Visible | Medium | [#260](https://github.com/ruhilmansi/fail-u-forward/issues/260) |
+| Design Navbar: Minimalistic & Polished | Medium | [#257](https://github.com/ruhilmansi/fail-u-forward/issues/257) |
+| Improve the About Page interface and the sign up and language option buttons | Medium | [#256](https://github.com/ruhilmansi/fail-u-forward/issues/256) |
+|  | Medium | [#255](https://github.com/ruhilmansi/fail-u-forward/issues/255) |
+| Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/ruhilmansi/fail-u-forward/issues/200) |
+| Testing & CI/CD | Medium | [#190](https://github.com/ruhilmansi/fail-u-forward/issues/190) |
 
 ---
 
@@ -274,7 +274,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added CONTRIBUTING.md file | Medium | [#28](https://github.com/byteom/Interview01/pull/28) |
-| 17: Implement functional search bar on homepage | Medium | [#26](https://github.com/byteom/Interview01/pull/26) |
 | Add a Navbar for Easy Section Access: | Medium | [#24](https://github.com/byteom/Interview01/issues/24) |
 | Enhance Stats & Testimonials with Engaging Animations | Medium | [#23](https://github.com/byteom/Interview01/issues/23) |
 | testing | Medium | [#22](https://github.com/byteom/Interview01/issues/22) |
@@ -347,7 +346,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Leaderboard System to Track Ranks, Accuracy & Attempts | Medium | [#18](https://github.com/Piyush-t24/NBG/issues/18) |
 | Implement Dark/Light Mode Toggle | Medium | [#17](https://github.com/Piyush-t24/NBG/issues/17) |
 | feat: Enhanced homepage with dynamic gaming UI/UX | Medium | [#15](https://github.com/Piyush-t24/NBG/pull/15) |
 | Code of Conduct & README Update for NBG under GSSoC'25 | Medium | [#14](https://github.com/Piyush-t24/NBG/issues/14) |
@@ -433,6 +431,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Contribution Guidelines | Medium | [#36](https://github.com/sailaja-adapa/GuruShish/issues/36) |
+| Add an Architecture / Flow Diagram | Medium | [#35](https://github.com/sailaja-adapa/GuruShish/issues/35) |
 | docs: clarify installation commands for frontend and backend setup | Medium | [#34](https://github.com/sailaja-adapa/GuruShish/pull/34) |
 | Improving whole website structure and ui | Medium | [#33](https://github.com/sailaja-adapa/GuruShish/issues/33) |
 | Enhancement of Login Page | Medium | [#32](https://github.com/sailaja-adapa/GuruShish/issues/32) |
@@ -461,8 +461,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | UI Enhancement : Student Page | Medium | [#7](https://github.com/sailaja-adapa/GuruShish/issues/7) |
 | UI enhancement: Landing Page | Medium | [#5](https://github.com/sailaja-adapa/GuruShish/issues/5) |
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
-| Glassy Navbar Contribution | Medium | [#3](https://github.com/sailaja-adapa/GuruShish/issues/3) |
-| Issue with the setup instructions | Medium | [#2](https://github.com/sailaja-adapa/GuruShish/issues/2) |
 
 ---
 
@@ -480,6 +478,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/add cpu components | Medium | [#117](https://github.com/SamXop123/RigCrafter/pull/117) |
 | <Component> Add more RAM Components | Medium | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
 
 ---
@@ -534,6 +533,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: make Why Choose LearnHub cards clickable with modal details | Medium | [#249](https://github.com/souvikpramanikgit/LearnHub/pull/249) |
+| feat: added web development & dsa roadmap pages with sidebar updates | Medium | [#248](https://github.com/souvikpramanikgit/LearnHub/pull/248) |
 | Optimize Background Image Loading (LCP/CLS) | Medium | [#245](https://github.com/souvikpramanikgit/LearnHub/issues/245) |
 | CSS Refactor: Theme-Specific Contrast Fix for Highlighted Text | Medium | [#244](https://github.com/souvikpramanikgit/LearnHub/issues/244) |
 | Update docusaurus.config.ts | Medium | [#222](https://github.com/souvikpramanikgit/LearnHub/pull/222) |
