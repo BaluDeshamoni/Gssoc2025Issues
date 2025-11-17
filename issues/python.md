@@ -216,13 +216,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Missing Keyboard Navigation Support | Easy | [#2655](https://github.com/OWASP/Nest/issues/2655) |
-| Improve Alt Text for Images Across Components | Easy | [#2654](https://github.com/OWASP/Nest/issues/2654) |
-| Add Type Hints to Utility Functions | Easy | [#2650](https://github.com/OWASP/Nest/issues/2650) |
-| Add Docstrings to Model Mixin Methods | Easy | [#2648](https://github.com/OWASP/Nest/issues/2648) |
-| Add Return Type Hints to Model Manager Methods | Easy | [#2647](https://github.com/OWASP/Nest/issues/2647) |
-| Add Docstrings to Sitemap View Methods | Easy | [#2645](https://github.com/OWASP/Nest/issues/2645) |
 | Fix long-running ECS/Fargate Tasks | Easy | [#2620](https://github.com/OWASP/Nest/pull/2620) |
+| Add descriptive admin method docstrings across Django admin modules (… | Medium | [#2664](https://github.com/OWASP/Nest/pull/2664) |
+| NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
 | Add aria-labels to interactive elements for WCAG 2.1 compliance | Medium | [#2657](https://github.com/OWASP/Nest/pull/2657) |
 | Extract magic numbers to constants in project.py (#2649) | Medium | [#2652](https://github.com/OWASP/Nest/pull/2652) |
 | Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
@@ -232,7 +228,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Check "help wanted" issues sync process for Juice Shop | Medium | [#2621](https://github.com/OWASP/Nest/issues/2621) |
 | Monitoring and Observability Improvements | Medium | [#2615](https://github.com/OWASP/Nest/issues/2615) |
 | Extend Nest API `chapter` and `project` | Medium | [#2606](https://github.com/OWASP/Nest/pull/2606) |
-| reduced-refractor-nesting | Medium | [#2586](https://github.com/OWASP/Nest/pull/2586) |
 
 ---
 
@@ -1432,10 +1427,10 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Contributors Section in README | Medium | [#27](https://github.com/xyzdemo09/ZBOT/issues/27) |
-| Fix typos and improve formatting in README | Medium | [#26](https://github.com/xyzdemo09/ZBOT/issues/26) |
-| Add Pull Request (PR) Template | Medium | [#25](https://github.com/xyzdemo09/ZBOT/issues/25) |
-| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#24](https://github.com/xyzdemo09/ZBOT/issues/24) |
+| Add Contributors Section in README | Medium | [#27](https://github.com/DishaA06/ZBOT/issues/27) |
+| Fix typos and improve formatting in README | Medium | [#26](https://github.com/DishaA06/ZBOT/issues/26) |
+| Add Pull Request (PR) Template | Medium | [#25](https://github.com/DishaA06/ZBOT/issues/25) |
+| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#24](https://github.com/DishaA06/ZBOT/issues/24) |
 
 ---
 
