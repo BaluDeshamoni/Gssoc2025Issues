@@ -216,18 +216,17 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix long-running ECS/Fargate Tasks | Easy | [#2620](https://github.com/OWASP/Nest/pull/2620) |
+| Refactor Limit frontend function nesting to maximum 4 levels | Medium | [#2671](https://github.com/OWASP/Nest/pull/2671) |
+| Add type hints to utils.py files | Medium | [#2670](https://github.com/OWASP/Nest/pull/2670) |
+| test: add ContributionHeatmap component unit tests | Medium | [#2667](https://github.com/OWASP/Nest/pull/2667) |
+| Fix : nestbot mention fixed | Medium | [#2666](https://github.com/OWASP/Nest/pull/2666) |
 | Add descriptive admin method docstrings across Django admin modules (… | Medium | [#2664](https://github.com/OWASP/Nest/pull/2664) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
 | Add aria-labels to interactive elements for WCAG 2.1 compliance | Medium | [#2657](https://github.com/OWASP/Nest/pull/2657) |
-| Extract magic numbers to constants in project.py (#2649) | Medium | [#2652](https://github.com/OWASP/Nest/pull/2652) |
 | Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
 | Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
 | active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
 | Add Sort Dropdown to Contribute (Issues) Page | Medium | [#2626](https://github.com/OWASP/Nest/issues/2626) |
-| Check "help wanted" issues sync process for Juice Shop | Medium | [#2621](https://github.com/OWASP/Nest/issues/2621) |
-| Monitoring and Observability Improvements | Medium | [#2615](https://github.com/OWASP/Nest/issues/2615) |
-| Extend Nest API `chapter` and `project` | Medium | [#2606](https://github.com/OWASP/Nest/pull/2606) |
 
 ---
 
@@ -1094,9 +1093,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 🔊 Issue: Add a Voice Assistant to Navigate PyVerse | Medium | [#1813](https://github.com/UTSAVS26/PyVerse/issues/1813) |
-| 🧑‍💻: Advanced Genetic Algorithm for Knapsack Problem | Medium | [#1812](https://github.com/UTSAVS26/PyVerse/issues/1812) |
-| 🧑‍💻: Improve AI Study Assistant with Context-Aware Quiz and Adaptive Flashcards | Medium | [#1811](https://github.com/UTSAVS26/PyVerse/issues/1811) |
-| 🧑‍💻: Modularize Code, Add CSV Export & Outlier Visualization for Environmental Data Analysis | Medium | [#1810](https://github.com/UTSAVS26/PyVerse/issues/1810) |
 | Adding  Image Resizer Project | Medium | [#1804](https://github.com/UTSAVS26/PyVerse/pull/1804) |
 | ]: Add Responsive Design and Dark Mode Toggle to Portfolio Website | Medium | [#1524](https://github.com/UTSAVS26/PyVerse/issues/1524) |
 | NLP Project autocorrect algorithm | Medium | [#1506](https://github.com/UTSAVS26/PyVerse/issues/1506) |
