@@ -232,6 +232,47 @@ User Profile: BMI calculator and fitness analytics.
 
 ---
 
+## 📌 Project: exciting_pong-game
+
+📝 **Description:** An classic Pong game built with HTML, CSS, and JavaScript, featuring AI, difficulty levels, and sound effects.
+
+🔗 [View Project](https://github.com/Akki-jaiswal/pong-game.git)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fixed AI paddle movement to be smoother | Medium | [#241](https://github.com/Akki-jaiswal/pong-game/pull/241) |
+| Update script.js | Medium | [#236](https://github.com/Akki-jaiswal/pong-game/pull/236) |
+| Enhancing the overall UI and adding New Features | Medium | [#235](https://github.com/Akki-jaiswal/pong-game/issues/235) |
+| Feature Request: Add Blog section for Pong game | Medium | [#234](https://github.com/Akki-jaiswal/pong-game/issues/234) |
+| Update script.js | Medium | [#233](https://github.com/Akki-jaiswal/pong-game/pull/233) |
+| IMPROVING HEADER SECTION OF HOME PAGE | Medium | [#232](https://github.com/Akki-jaiswal/pong-game/issues/232) |
+| Enhanced UI , fixed issues and added many more new fetaures in the pong game. I have given the brief explanation of the newly added features in the ping pong game in the description part along with the existing features | Medium | [#231](https://github.com/Akki-jaiswal/pong-game/pull/231) |
+| Dropdown text not clearly visible due to background color conflict | Medium | [#229](https://github.com/Akki-jaiswal/pong-game/issues/229) |
+| wrong cmd in readme | Medium | [#227](https://github.com/Akki-jaiswal/pong-game/issues/227) |
+| Theme dropdown not working | Medium | [#225](https://github.com/Akki-jaiswal/pong-game/issues/225) |
+| Theme | Medium | [#224](https://github.com/Akki-jaiswal/pong-game/issues/224) |
+| UI Enhancement: Improved Game Controls Interface with Modern Design Elements | Medium | [#223](https://github.com/Akki-jaiswal/pong-game/issues/223) |
+| Add “Mute/Unmute Background Music” Button | Medium | [#222](https://github.com/Akki-jaiswal/pong-game/issues/222) |
+| Addition of Automate issue create message | Medium | [#219](https://github.com/Akki-jaiswal/pong-game/issues/219) |
+| Revert "fix the how to play button and play button and enhance the ui" | Medium | [#217](https://github.com/Akki-jaiswal/pong-game/pull/217) |
+| add working on how to play button | Medium | [#215](https://github.com/Akki-jaiswal/pong-game/pull/215) |
+| Button-hover-effect in navbar | Medium | [#214](https://github.com/Akki-jaiswal/pong-game/issues/214) |
+| Add how to play button content and enhance the cursor speed | Medium | [#212](https://github.com/Akki-jaiswal/pong-game/issues/212) |
+| Add Templates for PR and Issues | Medium | [#211](https://github.com/Akki-jaiswal/pong-game/issues/211) |
+| UI Bug: Dropdown Options Not Clearly Visible in Theme Selector | Medium | [#210](https://github.com/Akki-jaiswal/pong-game/issues/210) |
+| theme selection does not change UI; duplicate theme systems in code | Medium | [#207](https://github.com/Akki-jaiswal/pong-game/issues/207) |
+| How to Play” button does not open instructions modal  Description | Medium | [#206](https://github.com/Akki-jaiswal/pong-game/issues/206) |
+| Navbar UI/UX Improvements | Medium | [#205](https://github.com/Akki-jaiswal/pong-game/issues/205) |
+| changed the design after winning | Medium | [#204](https://github.com/Akki-jaiswal/pong-game/pull/204) |
+
+---
+
 ## 📌 Project: Music tracker API
 
 📝 **Description:** MusicTrackerAPI is a lightweight, RESTful API built to help users track, organize, and manage their favorite songs easily. Designed using Node.js and SQLite, this backend service allows full CRUD operations on music entries, making it ideal for personal music dashboards, playlist managers, or even as a backend for music-based applications.
@@ -1168,7 +1209,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/add cpu components | Medium | [#117](https://github.com/SamXop123/RigCrafter/pull/117) |
 | <Component> Add more RAM Components | Medium | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
 
 ---
@@ -1207,7 +1247,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feat/interactive python editor | Easy | [#1214](https://github.com/recodehive/recode-website/pull/1214) |
 | chore: bump lucide-react from 0.503.0 to 0.554.0 | Medium | [#1217](https://github.com/recodehive/recode-website/pull/1217) |
 | chore: bump @typescript-eslint/parser from 8.46.2 to 8.47.0 | Medium | [#1216](https://github.com/recodehive/recode-website/pull/1216) |
 | chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.47.0 | Medium | [#1215](https://github.com/recodehive/recode-website/pull/1215) |
