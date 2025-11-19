@@ -22,11 +22,9 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📨 Newsletter Subscription — Store Email + Auto Email Updates | Medium | [#673](https://github.com/abhisek2004/Dev-Elevate/issues/673) |
 | Store Cookie Consent Popup + Preference Storage | Medium | [#672](https://github.com/abhisek2004/Dev-Elevate/issues/672) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
-| 💻 Code Compiler Integration | Hard | [#621](https://github.com/abhisek2004/Dev-Elevate/issues/621) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 | 🧩 Forgot Password — Functional Implementation | Hard | [#616](https://github.com/abhisek2004/Dev-Elevate/issues/616) |
 
@@ -196,18 +194,17 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix long-running ECS/Fargate Tasks | Easy | [#2620](https://github.com/OWASP/Nest/pull/2620) |
-| Add descriptive admin method docstrings across Django admin modules (… | Medium | [#2664](https://github.com/OWASP/Nest/pull/2664) |
+| Improve Security Groups for Infrastructure | Easy | [#2685](https://github.com/OWASP/Nest/pull/2685) |
+| Migrate User fields to MemberProfile (PR 1: Schema & Sync) | Medium | [#2686](https://github.com/OWASP/Nest/pull/2686) |
+| Bump langgraph from 0.6.11 to 1.0.1 in /backend | Medium | [#2680](https://github.com/OWASP/Nest/pull/2680) |
+| feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
+| Missing Skeleton Loading State in Snapshot & About Pages | Medium | [#2673](https://github.com/OWASP/Nest/issues/2673) |
+| Fix : nestbot mention fixed | Medium | [#2666](https://github.com/OWASP/Nest/pull/2666) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
-| Add aria-labels to interactive elements for WCAG 2.1 compliance | Medium | [#2657](https://github.com/OWASP/Nest/pull/2657) |
-| Extract magic numbers to constants in project.py (#2649) | Medium | [#2652](https://github.com/OWASP/Nest/pull/2652) |
 | Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
 | Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
 | active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
 | Add Sort Dropdown to Contribute (Issues) Page | Medium | [#2626](https://github.com/OWASP/Nest/issues/2626) |
-| Check "help wanted" issues sync process for Juice Shop | Medium | [#2621](https://github.com/OWASP/Nest/issues/2621) |
-| Monitoring and Observability Improvements | Medium | [#2615](https://github.com/OWASP/Nest/issues/2615) |
-| Extend Nest API `chapter` and `project` | Medium | [#2606](https://github.com/OWASP/Nest/pull/2606) |
 
 ---
 
@@ -258,9 +255,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Docs(readme): improve README with flowchart and clarity enhancements | Easy | [#1292](https://github.com/Code-A2Z/code-a2z/issues/1292) |
 | Migrate Notification components to MUI Alert/List | Easy | [#1283](https://github.com/Code-A2Z/code-a2z/issues/1283) |
-| 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
@@ -422,7 +417,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | API documentation | Medium | [#149](https://github.com/Devasy23/splitwiser/pull/149) |
 | Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy23/splitwiser/pull/148) |
 | Fix preview workflow for forks | Medium | [#146](https://github.com/Devasy23/splitwiser/pull/146) |
-| Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
 
 ---
 
@@ -1785,6 +1779,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump lucide-react from 0.344.0 to 0.554.0 | Medium | [#183](https://github.com/Ojas-Arora/SapneSeSafar/pull/183) |
 | Bump react-router-dom from 6.28.2 to 7.9.6 | Medium | [#182](https://github.com/Ojas-Arora/SapneSeSafar/pull/182) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.1 | Medium | [#181](https://github.com/Ojas-Arora/SapneSeSafar/pull/181) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.81.1 | Medium | [#180](https://github.com/Ojas-Arora/SapneSeSafar/pull/180) |
@@ -1792,7 +1787,6 @@ Fast Workflow Tools
 | Bump three from 0.161.0 to 0.181.1 | Medium | [#178](https://github.com/Ojas-Arora/SapneSeSafar/pull/178) |
 | Bump recharts from 2.15.0 to 3.4.1 | Medium | [#177](https://github.com/Ojas-Arora/SapneSeSafar/pull/177) |
 | Bump vite from 5.4.17 to 7.2.2 | Medium | [#175](https://github.com/Ojas-Arora/SapneSeSafar/pull/175) |
-| Bump lucide-react from 0.344.0 to 0.553.0 | Medium | [#174](https://github.com/Ojas-Arora/SapneSeSafar/pull/174) |
 | Bump tailwindcss from 3.4.17 to 4.1.17 | Medium | [#171](https://github.com/Ojas-Arora/SapneSeSafar/pull/171) |
 | Bump eslint from 9.12.0 to 9.39.1 | Medium | [#170](https://github.com/Ojas-Arora/SapneSeSafar/pull/170) |
 | Bump @types/papaparse from 5.3.16 to 5.5.0 | Medium | [#169](https://github.com/Ojas-Arora/SapneSeSafar/pull/169) |
