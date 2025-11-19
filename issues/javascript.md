@@ -1082,7 +1082,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/add cpu components | Medium | [#117](https://github.com/SamXop123/RigCrafter/pull/117) |
 | <Component> Add more RAM Components | Medium | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
 
 ---
@@ -1121,8 +1120,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feat/interactive python editor | Easy | [#1214](https://github.com/recodehive/recode-website/pull/1214) |
-| 🐞[Bug]: Dark Theme is not being applied to Courses Page | Easy | [#1207](https://github.com/recodehive/recode-website/issues/1207) |
+| chore: bump lucide-react from 0.503.0 to 0.554.0 | Medium | [#1217](https://github.com/recodehive/recode-website/pull/1217) |
+| chore: bump @typescript-eslint/parser from 8.46.2 to 8.47.0 | Medium | [#1216](https://github.com/recodehive/recode-website/pull/1216) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.47.0 | Medium | [#1215](https://github.com/recodehive/recode-website/pull/1215) |
 | chore: bump firebase from 9.23.0 to 12.6.0 | Medium | [#1204](https://github.com/recodehive/recode-website/pull/1204) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
@@ -2049,6 +2049,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump lucide-react from 0.344.0 to 0.554.0 | Medium | [#183](https://github.com/Ojas-Arora/SapneSeSafar/pull/183) |
 | Bump react-router-dom from 6.28.2 to 7.9.6 | Medium | [#182](https://github.com/Ojas-Arora/SapneSeSafar/pull/182) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.1 | Medium | [#181](https://github.com/Ojas-Arora/SapneSeSafar/pull/181) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.81.1 | Medium | [#180](https://github.com/Ojas-Arora/SapneSeSafar/pull/180) |
@@ -2056,7 +2057,6 @@ Fast Workflow Tools
 | Bump three from 0.161.0 to 0.181.1 | Medium | [#178](https://github.com/Ojas-Arora/SapneSeSafar/pull/178) |
 | Bump recharts from 2.15.0 to 3.4.1 | Medium | [#177](https://github.com/Ojas-Arora/SapneSeSafar/pull/177) |
 | Bump vite from 5.4.17 to 7.2.2 | Medium | [#175](https://github.com/Ojas-Arora/SapneSeSafar/pull/175) |
-| Bump lucide-react from 0.344.0 to 0.553.0 | Medium | [#174](https://github.com/Ojas-Arora/SapneSeSafar/pull/174) |
 | Bump tailwindcss from 3.4.17 to 4.1.17 | Medium | [#171](https://github.com/Ojas-Arora/SapneSeSafar/pull/171) |
 | Bump eslint from 9.12.0 to 9.39.1 | Medium | [#170](https://github.com/Ojas-Arora/SapneSeSafar/pull/170) |
 | Bump @types/papaparse from 5.3.16 to 5.5.0 | Medium | [#169](https://github.com/Ojas-Arora/SapneSeSafar/pull/169) |
