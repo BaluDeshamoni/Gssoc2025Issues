@@ -216,13 +216,13 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor Limit frontend function nesting to maximum 4 levels | Medium | [#2671](https://github.com/OWASP/Nest/pull/2671) |
-| Add type hints to utils.py files | Medium | [#2670](https://github.com/OWASP/Nest/pull/2670) |
-| test: add ContributionHeatmap component unit tests | Medium | [#2667](https://github.com/OWASP/Nest/pull/2667) |
+| Improve Security Groups for Infrastructure | Easy | [#2685](https://github.com/OWASP/Nest/pull/2685) |
+| Migrate User fields to MemberProfile (PR 1: Schema & Sync) | Medium | [#2686](https://github.com/OWASP/Nest/pull/2686) |
+| Bump langgraph from 0.6.11 to 1.0.1 in /backend | Medium | [#2680](https://github.com/OWASP/Nest/pull/2680) |
+| feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
+| Missing Skeleton Loading State in Snapshot & About Pages | Medium | [#2673](https://github.com/OWASP/Nest/issues/2673) |
 | Fix : nestbot mention fixed | Medium | [#2666](https://github.com/OWASP/Nest/pull/2666) |
-| Add descriptive admin method docstrings across Django admin modules (… | Medium | [#2664](https://github.com/OWASP/Nest/pull/2664) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
-| Add aria-labels to interactive elements for WCAG 2.1 compliance | Medium | [#2657](https://github.com/OWASP/Nest/pull/2657) |
 | Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
 | Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
 | active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
@@ -288,7 +288,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | API documentation | Medium | [#149](https://github.com/Devasy23/splitwiser/pull/149) |
 | Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy23/splitwiser/pull/148) |
 | Fix preview workflow for forks | Medium | [#146](https://github.com/Devasy23/splitwiser/pull/146) |
-| Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
 
 ---
 
