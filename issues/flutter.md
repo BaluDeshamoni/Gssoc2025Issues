@@ -118,8 +118,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Optimize Performance for Large Canvases with Many Elements | Easy | [#115](https://github.com/may-tas/TextEditingApp/issues/115) |
-| docs(contributor): contributors readme action update | Medium | [#169](https://github.com/may-tas/TextEditingApp/pull/169) |
-| docs(contributor): contributors readme action update | Medium | [#168](https://github.com/may-tas/TextEditingApp/pull/168) |
 | Implement advanced undo/redo system with visual history timeline | Medium | [#140](https://github.com/may-tas/TextEditingApp/pull/140) |
 
 ---
