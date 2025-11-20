@@ -1120,10 +1120,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump lucide-react from 0.503.0 to 0.554.0 | Medium | [#1217](https://github.com/recodehive/recode-website/pull/1217) |
-| chore: bump @typescript-eslint/parser from 8.46.2 to 8.47.0 | Medium | [#1216](https://github.com/recodehive/recode-website/pull/1216) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.47.0 | Medium | [#1215](https://github.com/recodehive/recode-website/pull/1215) |
-| chore: bump firebase from 9.23.0 to 12.6.0 | Medium | [#1204](https://github.com/recodehive/recode-website/pull/1204) |
+| Added Theme toggle for courses page | Easy | [#1219](https://github.com/recodehive/recode-website/pull/1219) |
+| 📝[Docs]: Add Table of Contents to README | Easy | [#1218](https://github.com/recodehive/recode-website/issues/1218) |
+| chore: bump lint-staged from 16.2.4 to 16.2.7 | Medium | [#1220](https://github.com/recodehive/recode-website/pull/1220) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
@@ -2049,12 +2048,12 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump three from 0.161.0 to 0.181.2 | Medium | [#185](https://github.com/Ojas-Arora/SapneSeSafar/pull/185) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.83.0 | Medium | [#184](https://github.com/Ojas-Arora/SapneSeSafar/pull/184) |
 | Bump lucide-react from 0.344.0 to 0.554.0 | Medium | [#183](https://github.com/Ojas-Arora/SapneSeSafar/pull/183) |
 | Bump react-router-dom from 6.28.2 to 7.9.6 | Medium | [#182](https://github.com/Ojas-Arora/SapneSeSafar/pull/182) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.1 | Medium | [#181](https://github.com/Ojas-Arora/SapneSeSafar/pull/181) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.81.1 | Medium | [#180](https://github.com/Ojas-Arora/SapneSeSafar/pull/180) |
 | Bump autoprefixer from 10.4.20 to 10.4.22 | Medium | [#179](https://github.com/Ojas-Arora/SapneSeSafar/pull/179) |
-| Bump three from 0.161.0 to 0.181.1 | Medium | [#178](https://github.com/Ojas-Arora/SapneSeSafar/pull/178) |
 | Bump recharts from 2.15.0 to 3.4.1 | Medium | [#177](https://github.com/Ojas-Arora/SapneSeSafar/pull/177) |
 | Bump vite from 5.4.17 to 7.2.2 | Medium | [#175](https://github.com/Ojas-Arora/SapneSeSafar/pull/175) |
 | Bump tailwindcss from 3.4.17 to 4.1.17 | Medium | [#171](https://github.com/Ojas-Arora/SapneSeSafar/pull/171) |
