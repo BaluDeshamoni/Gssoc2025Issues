@@ -167,11 +167,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve Security Groups for Infrastructure | Easy | [#2685](https://github.com/OWASP/Nest/pull/2685) |
-| Migrate User fields to MemberProfile (PR 1: Schema & Sync) | Medium | [#2686](https://github.com/OWASP/Nest/pull/2686) |
-| Bump langgraph from 0.6.11 to 1.0.1 in /backend | Medium | [#2680](https://github.com/OWASP/Nest/pull/2680) |
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | Missing Skeleton Loading State in Snapshot & About Pages | Medium | [#2673](https://github.com/OWASP/Nest/issues/2673) |
-| Fix : nestbot mention fixed | Medium | [#2666](https://github.com/OWASP/Nest/pull/2666) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
 | Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
 | Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
@@ -503,10 +500,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump lucide-react from 0.503.0 to 0.554.0 | Medium | [#1217](https://github.com/recodehive/recode-website/pull/1217) |
-| chore: bump @typescript-eslint/parser from 8.46.2 to 8.47.0 | Medium | [#1216](https://github.com/recodehive/recode-website/pull/1216) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.47.0 | Medium | [#1215](https://github.com/recodehive/recode-website/pull/1215) |
-| chore: bump firebase from 9.23.0 to 12.6.0 | Medium | [#1204](https://github.com/recodehive/recode-website/pull/1204) |
+| Added Theme toggle for courses page | Easy | [#1219](https://github.com/recodehive/recode-website/pull/1219) |
+| 📝[Docs]: Add Table of Contents to README | Easy | [#1218](https://github.com/recodehive/recode-website/issues/1218) |
+| chore: bump lint-staged from 16.2.4 to 16.2.7 | Medium | [#1220](https://github.com/recodehive/recode-website/pull/1220) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
