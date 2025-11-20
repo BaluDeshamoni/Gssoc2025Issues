@@ -214,12 +214,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump three from 0.161.0 to 0.181.2 | Medium | [#185](https://github.com/Ojas-Arora/SapneSeSafar/pull/185) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.83.0 | Medium | [#184](https://github.com/Ojas-Arora/SapneSeSafar/pull/184) |
 | Bump lucide-react from 0.344.0 to 0.554.0 | Medium | [#183](https://github.com/Ojas-Arora/SapneSeSafar/pull/183) |
 | Bump react-router-dom from 6.28.2 to 7.9.6 | Medium | [#182](https://github.com/Ojas-Arora/SapneSeSafar/pull/182) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.1 | Medium | [#181](https://github.com/Ojas-Arora/SapneSeSafar/pull/181) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.81.1 | Medium | [#180](https://github.com/Ojas-Arora/SapneSeSafar/pull/180) |
 | Bump autoprefixer from 10.4.20 to 10.4.22 | Medium | [#179](https://github.com/Ojas-Arora/SapneSeSafar/pull/179) |
-| Bump three from 0.161.0 to 0.181.1 | Medium | [#178](https://github.com/Ojas-Arora/SapneSeSafar/pull/178) |
 | Bump recharts from 2.15.0 to 3.4.1 | Medium | [#177](https://github.com/Ojas-Arora/SapneSeSafar/pull/177) |
 | Bump vite from 5.4.17 to 7.2.2 | Medium | [#175](https://github.com/Ojas-Arora/SapneSeSafar/pull/175) |
 | Bump tailwindcss from 3.4.17 to 4.1.17 | Medium | [#171](https://github.com/Ojas-Arora/SapneSeSafar/pull/171) |
