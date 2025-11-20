@@ -22,6 +22,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump glob from 10.4.5 to 10.5.0 in /DevElevate/Client in the npm_and_yarn group across 1 directory | Medium | [#684](https://github.com/abhisek2004/Dev-Elevate/pull/684) |
+| 📊 Weekly Project Summary - 11/19/2025 | Medium | [#683](https://github.com/abhisek2004/Dev-Elevate/issues/683) |
 | Store Cookie Consent Popup + Preference Storage | Medium | [#672](https://github.com/abhisek2004/Dev-Elevate/issues/672) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -195,11 +197,8 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve Security Groups for Infrastructure | Easy | [#2685](https://github.com/OWASP/Nest/pull/2685) |
-| Migrate User fields to MemberProfile (PR 1: Schema & Sync) | Medium | [#2686](https://github.com/OWASP/Nest/pull/2686) |
-| Bump langgraph from 0.6.11 to 1.0.1 in /backend | Medium | [#2680](https://github.com/OWASP/Nest/pull/2680) |
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | Missing Skeleton Loading State in Snapshot & About Pages | Medium | [#2673](https://github.com/OWASP/Nest/issues/2673) |
-| Fix : nestbot mention fixed | Medium | [#2666](https://github.com/OWASP/Nest/pull/2666) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
 | Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
 | Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
@@ -257,6 +256,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 |----------|----------------|---------|
 | Migrate Notification components to MUI Alert/List | Easy | [#1283](https://github.com/Code-A2Z/code-a2z/issues/1283) |
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| feat(notes): Implement private project-specific notes (#249) | Medium | [#1328](https://github.com/Code-A2Z/code-a2z/pull/1328) |
+| Feature/private notes backend | Medium | [#1327](https://github.com/Code-A2Z/code-a2z/pull/1327) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
@@ -266,9 +267,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 🧑‍💻: Dockerize the app | Medium | [#472](https://github.com/Code-A2Z/code-a2z/issues/472) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
 | 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
-| 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
-| 📃: Kanban projects management system on users dashboard | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
-| 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 
 ---
 
@@ -410,7 +408,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
-| Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy23/splitwiser/pull/174) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy23/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy23/splitwiser/pull/151) |
@@ -1779,12 +1776,12 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump three from 0.161.0 to 0.181.2 | Medium | [#185](https://github.com/Ojas-Arora/SapneSeSafar/pull/185) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.83.0 | Medium | [#184](https://github.com/Ojas-Arora/SapneSeSafar/pull/184) |
 | Bump lucide-react from 0.344.0 to 0.554.0 | Medium | [#183](https://github.com/Ojas-Arora/SapneSeSafar/pull/183) |
 | Bump react-router-dom from 6.28.2 to 7.9.6 | Medium | [#182](https://github.com/Ojas-Arora/SapneSeSafar/pull/182) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.1 | Medium | [#181](https://github.com/Ojas-Arora/SapneSeSafar/pull/181) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.81.1 | Medium | [#180](https://github.com/Ojas-Arora/SapneSeSafar/pull/180) |
 | Bump autoprefixer from 10.4.20 to 10.4.22 | Medium | [#179](https://github.com/Ojas-Arora/SapneSeSafar/pull/179) |
-| Bump three from 0.161.0 to 0.181.1 | Medium | [#178](https://github.com/Ojas-Arora/SapneSeSafar/pull/178) |
 | Bump recharts from 2.15.0 to 3.4.1 | Medium | [#177](https://github.com/Ojas-Arora/SapneSeSafar/pull/177) |
 | Bump vite from 5.4.17 to 7.2.2 | Medium | [#175](https://github.com/Ojas-Arora/SapneSeSafar/pull/175) |
 | Bump tailwindcss from 3.4.17 to 4.1.17 | Medium | [#171](https://github.com/Ojas-Arora/SapneSeSafar/pull/171) |
