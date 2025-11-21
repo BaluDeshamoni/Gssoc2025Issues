@@ -22,10 +22,11 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 11/20/2025 | Medium | [#686](https://github.com/abhisek2004/Dev-Elevate/issues/686) |
 | Bump glob from 10.4.5 to 10.5.0 in /DevElevate/Client in the npm_and_yarn group across 1 directory | Medium | [#684](https://github.com/abhisek2004/Dev-Elevate/pull/684) |
-| 📊 Weekly Project Summary - 11/19/2025 | Medium | [#683](https://github.com/abhisek2004/Dev-Elevate/issues/683) |
 | Store Cookie Consent Popup + Preference Storage | Medium | [#672](https://github.com/abhisek2004/Dev-Elevate/issues/672) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
+| Compiler | Hard | [#685](https://github.com/abhisek2004/Dev-Elevate/pull/685) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 | 🧩 Forgot Password — Functional Implementation | Hard | [#616](https://github.com/abhisek2004/Dev-Elevate/issues/616) |
@@ -197,13 +198,14 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve Security Groups for Infrastructure | Easy | [#2685](https://github.com/OWASP/Nest/pull/2685) |
+| Adding cursor | Medium | [#2696](https://github.com/OWASP/Nest/pull/2696) |
+| Improve Developer Experience by Adding Husky Pre-Commit Hook | Medium | [#2692](https://github.com/OWASP/Nest/issues/2692) |
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | Missing Skeleton Loading State in Snapshot & About Pages | Medium | [#2673](https://github.com/OWASP/Nest/issues/2673) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
 | Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
 | Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
 | active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
-| Add Sort Dropdown to Contribute (Issues) Page | Medium | [#2626](https://github.com/OWASP/Nest/issues/2626) |
 
 ---
 
@@ -264,9 +266,9 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
-| 🧑‍💻: Dockerize the app | Medium | [#472](https://github.com/Code-A2Z/code-a2z/issues/472) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
 | 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
+| 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
 
 ---
 
@@ -1776,14 +1778,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump vite from 5.4.17 to 7.2.4 | Medium | [#187](https://github.com/Ojas-Arora/SapneSeSafar/pull/187) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.84.0 | Medium | [#186](https://github.com/Ojas-Arora/SapneSeSafar/pull/186) |
 | Bump three from 0.161.0 to 0.181.2 | Medium | [#185](https://github.com/Ojas-Arora/SapneSeSafar/pull/185) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.83.0 | Medium | [#184](https://github.com/Ojas-Arora/SapneSeSafar/pull/184) |
 | Bump lucide-react from 0.344.0 to 0.554.0 | Medium | [#183](https://github.com/Ojas-Arora/SapneSeSafar/pull/183) |
 | Bump react-router-dom from 6.28.2 to 7.9.6 | Medium | [#182](https://github.com/Ojas-Arora/SapneSeSafar/pull/182) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.1 | Medium | [#181](https://github.com/Ojas-Arora/SapneSeSafar/pull/181) |
 | Bump autoprefixer from 10.4.20 to 10.4.22 | Medium | [#179](https://github.com/Ojas-Arora/SapneSeSafar/pull/179) |
 | Bump recharts from 2.15.0 to 3.4.1 | Medium | [#177](https://github.com/Ojas-Arora/SapneSeSafar/pull/177) |
-| Bump vite from 5.4.17 to 7.2.2 | Medium | [#175](https://github.com/Ojas-Arora/SapneSeSafar/pull/175) |
 | Bump tailwindcss from 3.4.17 to 4.1.17 | Medium | [#171](https://github.com/Ojas-Arora/SapneSeSafar/pull/171) |
 | Bump eslint from 9.12.0 to 9.39.1 | Medium | [#170](https://github.com/Ojas-Arora/SapneSeSafar/pull/170) |
 | Bump @types/papaparse from 5.3.16 to 5.5.0 | Medium | [#169](https://github.com/Ojas-Arora/SapneSeSafar/pull/169) |
