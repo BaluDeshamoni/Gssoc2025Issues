@@ -216,15 +216,17 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Remote State Management | Easy | [#2699](https://github.com/OWASP/Nest/pull/2699) |
 | Improve Security Groups for Infrastructure | Easy | [#2685](https://github.com/OWASP/Nest/pull/2685) |
+| Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
 | Adding cursor | Medium | [#2696](https://github.com/OWASP/Nest/pull/2696) |
-| Improve Developer Experience by Adding Husky Pre-Commit Hook | Medium | [#2692](https://github.com/OWASP/Nest/issues/2692) |
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | Missing Skeleton Loading State in Snapshot & About Pages | Medium | [#2673](https://github.com/OWASP/Nest/issues/2673) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
 | Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
 | Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
 | active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
+| Add Sort Dropdown to Contribute (Issues) Page | Medium | [#2626](https://github.com/OWASP/Nest/issues/2626) |
 
 ---
 
@@ -796,8 +798,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Machine Learning Component | Medium | [#6](https://github.com/ritikka06/Tariff-Fashion/issues/6) |
 | Model Training with Dataset and Streamlit App Integration | Medium | [#5](https://github.com/ritikka06/Tariff-Fashion/issues/5) |
 | Create Initial Seed Dataset for Fashion Products | Medium | [#4](https://github.com/ritikka06/Tariff-Fashion/issues/4) |
-| Add a CONTRIBUTING.md File for New Contributors | Medium | [#2](https://github.com/ritikka06/Tariff-Fashion/issues/2) |
-| Improve Documentation: Add Clear Overview and Project Workflow Explanation | Medium | [#1](https://github.com/ritikka06/Tariff-Fashion/issues/1) |
 
 ---
 
@@ -1602,26 +1602,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | add phi-4 model (14B parameter) | Medium | [#28](https://github.com/manideepBotsaa/streamlit_application/issues/28) |
-
----
-
-## 📌 Project: GroqTales
-
-📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
-
-🔗 [View Project](https://github.com/Drago-03/GroqTales)
-
-💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| pre-commit autoupdate | Medium | [#121](https://github.com/Drago-03/GroqTales/pull/121) |
-| added a copy to clipboard button | Medium | [#81](https://github.com/Drago-03/GroqTales/pull/81) |
-| Feat/#18 adding images for nft gallery | Medium | [#80](https://github.com/Drago-03/GroqTales/pull/80) |
 
 ---
 
