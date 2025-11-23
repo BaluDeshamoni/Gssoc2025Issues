@@ -169,7 +169,6 @@
 | Update index.html | Medium | [#71](https://github.com/Jadhav124Akshada/SkinSense/pull/71) |
 | updated Ui design | Medium | [#70](https://github.com/Jadhav124Akshada/SkinSense/pull/70) |
 | Improvement :appointment page | Medium | [#69](https://github.com/Jadhav124Akshada/SkinSense/issues/69) |
-| LICENSE.md | Medium | [#68](https://github.com/Jadhav124Akshada/SkinSense/pull/68) |
 | make a contributor too | Medium | [#67](https://github.com/Jadhav124Akshada/SkinSense/pull/67) |
 | created background.png | Medium | [#66](https://github.com/Jadhav124Akshada/SkinSense/pull/66) |
 | Contributed on  style.css | Medium | [#65](https://github.com/Jadhav124Akshada/SkinSense/pull/65) |
@@ -186,6 +185,7 @@
 | Add image preview feature before uploading | Medium | [#50](https://github.com/Jadhav124Akshada/SkinSense/issues/50) |
 | I can handle the full frontend tuning and possibly integrating the login system with google firebase(with the owners perms) | Medium | [#49](https://github.com/Jadhav124Akshada/SkinSense/issues/49) |
 | creating a AI  model for prediction of the skin disease | Medium | [#48](https://github.com/Jadhav124Akshada/SkinSense/issues/48) |
+| Refactor Summary: Project Folder Restructure | Medium | [#47](https://github.com/Jadhav124Akshada/SkinSense/pull/47) |
 
 ---
 
@@ -1121,7 +1121,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added Theme toggle for courses page | Easy | [#1219](https://github.com/recodehive/recode-website/pull/1219) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
@@ -1187,6 +1186,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| screen shot of issused bugs | Medium | [#252](https://github.com/souvikpramanikgit/LearnHub/issues/252) |
+| Improve Landing Page Performance by Optimizing Background Image (LCP Enhancement) | Medium | [#251](https://github.com/souvikpramanikgit/LearnHub/issues/251) |
+| Optimized background image file issue | Medium | [#250](https://github.com/souvikpramanikgit/LearnHub/issues/250) |
 | feat: make Why Choose LearnHub cards clickable with modal details | Medium | [#249](https://github.com/souvikpramanikgit/LearnHub/pull/249) |
 | feat: added web development & dsa roadmap pages with sidebar updates | Medium | [#248](https://github.com/souvikpramanikgit/LearnHub/pull/248) |
 | Optimize Background Image Loading (LCP/CLS) | Medium | [#245](https://github.com/souvikpramanikgit/LearnHub/issues/245) |
@@ -1722,6 +1724,25 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
+## 📌 Project: HotelOnTouch
+
+📝 **Description:** Gssoc open source contribution
+
+🔗 [View Project](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch)
+
+💻 **Tech Stack:** JavaScript, Java, HTML, Objective-C, CSS, Ruby, Starlang
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| SignIn Signup page creation | Medium | [#227](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/issues/227) |
+| Font modification and Signin Signup page design | Medium | [#226](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/issues/226) |
+
+---
+
 ## 📌 Project: GrowCraft
 
 📝 **Description:** GrowCraft is a service-based web platform that offers digital solutions to businesses while providing training and internship opportunities to students. The platform features services like Website Development, Graphic Design, Content Writing, Social Media Management, and Digital Marketing.
@@ -2025,26 +2046,6 @@ Fast Workflow Tools
 | Feature Request: Add Profile Page with Google Sign-In (Firebase Auth) | Medium | [#96](https://github.com/Varshitha713/CodeCanvas/issues/96) |
 | ## 🚨 Feature Request: Add Login/Signup Functionality | Medium | [#87](https://github.com/Varshitha713/CodeCanvas/issues/87) |
 | Add login and logout page | Medium | [#60](https://github.com/Varshitha713/CodeCanvas/issues/60) |
-
----
-
-## 📌 Project: GroqTales
-
-📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
-
-🔗 [View Project](https://github.com/Drago-03/GroqTales)
-
-💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| pre-commit autoupdate | Medium | [#121](https://github.com/Drago-03/GroqTales/pull/121) |
-| added a copy to clipboard button | Medium | [#81](https://github.com/Drago-03/GroqTales/pull/81) |
-| Feat/#18 adding images for nft gallery | Medium | [#80](https://github.com/Drago-03/GroqTales/pull/80) |
 
 ---
 
