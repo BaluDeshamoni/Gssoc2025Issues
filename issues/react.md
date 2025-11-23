@@ -215,6 +215,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🔒 Implement Comprehensive Input Validation and Sanitization | Medium | [#136](https://github.com/amitkumardemo/EdgeCareer/issues/136) |
 | ui enhancement | Medium | [#135](https://github.com/amitkumardemo/EdgeCareer/issues/135) |
 | Implement PDF export for generated resumes (#111) | Medium | [#134](https://github.com/amitkumardemo/EdgeCareer/pull/134) |
 | fix: improved the file's structure, user engagement, and maintainability | Medium | [#133](https://github.com/amitkumardemo/EdgeCareer/pull/133) |
@@ -236,7 +237,6 @@
 | Enhanced the Visual Formatting of CODE_OF_CONDUCT.md file | Medium | [#113](https://github.com/amitkumardemo/EdgeCareer/pull/113) |
 | feat: add AI-powered career guidance feature with new page and lib module | Medium | [#109](https://github.com/amitkumardemo/EdgeCareer/pull/109) |
 | Fix: Improve icon visibility for theme toggle (issue #63) | Medium | [#108](https://github.com/amitkumardemo/EdgeCareer/pull/108) |
-| HeroSection hydration mismatch and deterministic floating elements | Medium | [#105](https://github.com/amitkumardemo/EdgeCareer/pull/105) |
 
 ---
 
@@ -283,15 +283,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Remote State Management | Easy | [#2699](https://github.com/OWASP/Nest/pull/2699) |
 | Improve Security Groups for Infrastructure | Easy | [#2685](https://github.com/OWASP/Nest/pull/2685) |
+| Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
 | Adding cursor | Medium | [#2696](https://github.com/OWASP/Nest/pull/2696) |
-| Improve Developer Experience by Adding Husky Pre-Commit Hook | Medium | [#2692](https://github.com/OWASP/Nest/issues/2692) |
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | Missing Skeleton Loading State in Snapshot & About Pages | Medium | [#2673](https://github.com/OWASP/Nest/issues/2673) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
 | Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
 | Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
 | active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
+| Add Sort Dropdown to Contribute (Issues) Page | Medium | [#2626](https://github.com/OWASP/Nest/issues/2626) |
 
 ---
 
@@ -1550,6 +1552,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| screen shot of issused bugs | Medium | [#252](https://github.com/souvikpramanikgit/LearnHub/issues/252) |
+| Improve Landing Page Performance by Optimizing Background Image (LCP Enhancement) | Medium | [#251](https://github.com/souvikpramanikgit/LearnHub/issues/251) |
+| Optimized background image file issue | Medium | [#250](https://github.com/souvikpramanikgit/LearnHub/issues/250) |
 | feat: make Why Choose LearnHub cards clickable with modal details | Medium | [#249](https://github.com/souvikpramanikgit/LearnHub/pull/249) |
 | feat: added web development & dsa roadmap pages with sidebar updates | Medium | [#248](https://github.com/souvikpramanikgit/LearnHub/pull/248) |
 | Optimize Background Image Loading (LCP/CLS) | Medium | [#245](https://github.com/souvikpramanikgit/LearnHub/issues/245) |
@@ -2438,26 +2443,6 @@ Fast Workflow Tools
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
-
----
-
-## 📌 Project: GroqTales
-
-📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
-
-🔗 [View Project](https://github.com/Drago-03/GroqTales)
-
-💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| pre-commit autoupdate | Medium | [#121](https://github.com/Drago-03/GroqTales/pull/121) |
-| added a copy to clipboard button | Medium | [#81](https://github.com/Drago-03/GroqTales/pull/81) |
-| Feat/#18 adding images for nft gallery | Medium | [#80](https://github.com/Drago-03/GroqTales/pull/80) |
 
 ---
 
