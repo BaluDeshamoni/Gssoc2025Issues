@@ -14,7 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#221](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/issues/221) |
+| SignIn Signup page creation | Medium | [#227](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/issues/227) |
+| Font modification and Signin Signup page design | Medium | [#226](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/issues/226) |
 
 ---
 
