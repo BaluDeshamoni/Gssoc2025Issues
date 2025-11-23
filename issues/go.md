@@ -22,11 +22,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📊 Weekly Project Summary - 11/20/2025 | Medium | [#686](https://github.com/abhisek2004/Dev-Elevate/issues/686) |
-| Bump glob from 10.4.5 to 10.5.0 in /DevElevate/Client in the npm_and_yarn group across 1 directory | Medium | [#684](https://github.com/abhisek2004/Dev-Elevate/pull/684) |
 | Store Cookie Consent Popup + Preference Storage | Medium | [#672](https://github.com/abhisek2004/Dev-Elevate/issues/672) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
-| Compiler | Hard | [#685](https://github.com/abhisek2004/Dev-Elevate/pull/685) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 | 🧩 Forgot Password — Functional Implementation | Hard | [#616](https://github.com/abhisek2004/Dev-Elevate/issues/616) |
@@ -197,15 +194,17 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Remote State Management | Easy | [#2699](https://github.com/OWASP/Nest/pull/2699) |
 | Improve Security Groups for Infrastructure | Easy | [#2685](https://github.com/OWASP/Nest/pull/2685) |
+| Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
 | Adding cursor | Medium | [#2696](https://github.com/OWASP/Nest/pull/2696) |
-| Improve Developer Experience by Adding Husky Pre-Commit Hook | Medium | [#2692](https://github.com/OWASP/Nest/issues/2692) |
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | Missing Skeleton Loading State in Snapshot & About Pages | Medium | [#2673](https://github.com/OWASP/Nest/issues/2673) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
 | Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
 | Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
 | active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
+| Add Sort Dropdown to Contribute (Issues) Page | Medium | [#2626](https://github.com/OWASP/Nest/issues/2626) |
 
 ---
 
@@ -317,7 +316,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
 | Forget password | Medium | [#275](https://github.com/BhaktiMore18/Pouranik/pull/275) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#268](https://github.com/BhaktiMore18/Pouranik/issues/268) |
-| Fixes #247: Added Blog Section | Hard | [#251](https://github.com/BhaktiMore18/Pouranik/pull/251) |
 
 ---
 
@@ -1700,26 +1698,6 @@ Fast Workflow Tools
 
 ---
 
-## 📌 Project: GroqTales
-
-📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
-
-🔗 [View Project](https://github.com/Drago-03/GroqTales)
-
-💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| pre-commit autoupdate | Medium | [#121](https://github.com/Drago-03/GroqTales/pull/121) |
-| added a copy to clipboard button | Medium | [#81](https://github.com/Drago-03/GroqTales/pull/81) |
-| Feat/#18 adding images for nft gallery | Medium | [#80](https://github.com/Drago-03/GroqTales/pull/80) |
-
----
-
 ## 📌 Project: Project Management System
 
 📝 **Description:** Advanced Project Management System is a real-time, collaborative platform to manage projects, tasks, and teams efficiently.
@@ -2170,8 +2148,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | Tree-shake unused icons and optimize icon bundle | Easy | [#39](https://github.com/x0lg0n/Boutique-To-Box/issues/39) |
 | Add high-contrast theme toggle and test | Easy | [#37](https://github.com/x0lg0n/Boutique-To-Box/issues/37) |
 | security: add CSP meta with report-to endpoint and backend logging | Medium | [#52](https://github.com/x0lg0n/Boutique-To-Box/pull/52) |
-| Integrate 32 DaisyUI Themes for Enhanced UI/UX | Medium | [#48](https://github.com/x0lg0n/Boutique-To-Box/issues/48) |
-| "Sign in with Google" button not working | Medium | [#47](https://github.com/x0lg0n/Boutique-To-Box/issues/47) |
 | 🎨 Improve About Page UI | Medium | [#46](https://github.com/x0lg0n/Boutique-To-Box/issues/46) |
 
 ---
