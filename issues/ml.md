@@ -2069,6 +2069,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Notepad Implementation | Medium | [#168](https://github.com/Varshitha713/CodeCanvas/pull/168) |
 | Improved footer section | Medium | [#167](https://github.com/Varshitha713/CodeCanvas/pull/167) |
 | Improve footer | Medium | [#165](https://github.com/Varshitha713/CodeCanvas/issues/165) |
 | Update index.html | Medium | [#163](https://github.com/Varshitha713/CodeCanvas/pull/163) |
