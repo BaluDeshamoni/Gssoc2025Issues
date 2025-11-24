@@ -244,7 +244,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix authentication setup: add firebase.js fallback for missing config | Medium | [#229](https://github.com/SrigadaAkshayKumar/stock/pull/229) |
 | ui fix | Medium | [#228](https://github.com/SrigadaAkshayKumar/stock/issues/228) |
 | Title Color | Medium | [#222](https://github.com/SrigadaAkshayKumar/stock/issues/222) |
 | Search functionality doesn't trigger on Enter key | Medium | [#216](https://github.com/SrigadaAkshayKumar/stock/issues/216) |
@@ -2024,6 +2023,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Notepad Implementation | Medium | [#168](https://github.com/Varshitha713/CodeCanvas/pull/168) |
 | Improved footer section | Medium | [#167](https://github.com/Varshitha713/CodeCanvas/pull/167) |
 | Improve footer | Medium | [#165](https://github.com/Varshitha713/CodeCanvas/issues/165) |
 | Update index.html | Medium | [#163](https://github.com/Varshitha713/CodeCanvas/pull/163) |
