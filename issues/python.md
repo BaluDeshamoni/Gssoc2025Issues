@@ -215,7 +215,10 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
 | Add Remote State Management | Easy | [#2699](https://github.com/OWASP/Nest/pull/2699) |
+| Light Mode Icon Is Misleading and Confusing | Medium | [#2713](https://github.com/OWASP/Nest/issues/2713) |
+| Dark / Light  Mode Toggle Tooltip Misalignment, And Color Mismatch. | Medium | [#2711](https://github.com/OWASP/Nest/issues/2711) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
 | fix: add descriptive alt text for images to improve screen reader accessibility | Medium | [#2703](https://github.com/OWASP/Nest/pull/2703) |
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
@@ -223,9 +226,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
 | Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
-| Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
-| active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
-| Add Sort Dropdown to Contribute (Issues) Page | Medium | [#2626](https://github.com/OWASP/Nest/issues/2626) |
 
 ---
 
@@ -539,7 +539,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 |----------|----------------|---------|
 | Update README.md | Medium | [#443](https://github.com/omroy07/AgriTech/pull/443) |
 | Agritech | Medium | [#442](https://github.com/omroy07/AgriTech/pull/442) |
-| fix: mobile responsive layout for homepage | Medium | [#441](https://github.com/omroy07/AgriTech/pull/441) |
 | <short description>Proposal to Implement New Feature Enhancements for AgriTech | Medium | [#440](https://github.com/omroy07/AgriTech/issues/440) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
@@ -797,6 +796,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Machine Learning Component | Medium | [#6](https://github.com/ritikka06/Tariff-Fashion/issues/6) |
 | Model Training with Dataset and Streamlit App Integration | Medium | [#5](https://github.com/ritikka06/Tariff-Fashion/issues/5) |
 | Create Initial Seed Dataset for Fashion Products | Medium | [#4](https://github.com/ritikka06/Tariff-Fashion/issues/4) |
+| Add a CONTRIBUTING.md File for New Contributors | Medium | [#2](https://github.com/ritikka06/Tariff-Fashion/issues/2) |
+| Improve Documentation: Add Clear Overview and Project Workflow Explanation | Medium | [#1](https://github.com/ritikka06/Tariff-Fashion/issues/1) |
 
 ---
 
