@@ -99,7 +99,9 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implemented Persistent Cookie Consent Storage using LocalStorage | Medium | [#696](https://github.com/abhisek2004/Dev-Elevate/pull/696) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
+| Bump the npm_and_yarn group across 2 directories with 1 update | Hard | [#695](https://github.com/abhisek2004/Dev-Elevate/pull/695) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 
@@ -250,7 +252,9 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
 | Add Remote State Management | Easy | [#2699](https://github.com/OWASP/Nest/pull/2699) |
+| Dark / Light  Mode Toggle Tooltip Misalignment, And Color Mismatch. | Medium | [#2711](https://github.com/OWASP/Nest/issues/2711) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
 | fix: add descriptive alt text for images to improve screen reader accessibility | Medium | [#2703](https://github.com/OWASP/Nest/pull/2703) |
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
@@ -258,9 +262,6 @@ Accessibility features like dark mode,white.
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
 | Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
-| Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
-| active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
-| Add Sort Dropdown to Contribute (Issues) Page | Medium | [#2626](https://github.com/OWASP/Nest/issues/2626) |
 
 ---
 
@@ -1230,7 +1231,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
-| Added Profile Page to manage user profile | Medium | [#103](https://github.com/sristy17/next-payroll/pull/103) |
 | fix css | Medium | [#102](https://github.com/sristy17/next-payroll/issues/102) |
 | Fix/add payment page validation | Medium | [#101](https://github.com/sristy17/next-payroll/pull/101) |
 | feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
@@ -2338,6 +2338,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add new component creative/bubble-board | Medium | [#111](https://github.com/subhadeeproy3902/mvpblocks/pull/111) |
 | add new button | Medium | [#110](https://github.com/subhadeeproy3902/mvpblocks/pull/110) |
 | Feat/new components | Medium | [#109](https://github.com/subhadeeproy3902/mvpblocks/pull/109) |
 | add expandable cards | Medium | [#108](https://github.com/subhadeeproy3902/mvpblocks/pull/108) |
