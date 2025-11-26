@@ -751,7 +751,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |----------|----------------|---------|
 | Update README.md | Medium | [#443](https://github.com/omroy07/AgriTech/pull/443) |
 | Agritech | Medium | [#442](https://github.com/omroy07/AgriTech/pull/442) |
-| fix: mobile responsive layout for homepage | Medium | [#441](https://github.com/omroy07/AgriTech/pull/441) |
 | <short description>Proposal to Implement New Feature Enhancements for AgriTech | Medium | [#440](https://github.com/omroy07/AgriTech/issues/440) |
 | Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
 | Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
@@ -1219,7 +1218,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |----------|----------------|---------|
 | UI Enhancement: Add Professional Loading Bar, Smooth Scrolling & Page Animations | Easy | [#64](https://github.com/sristy17/next-payroll/issues/64) |
 | UI enhancement | Easy | [#8](https://github.com/sristy17/next-payroll/issues/8) |
-| Added Profile Page to manage user profile | Medium | [#103](https://github.com/sristy17/next-payroll/pull/103) |
 | fix css | Medium | [#102](https://github.com/sristy17/next-payroll/issues/102) |
 | Fix/add payment page validation | Medium | [#101](https://github.com/sristy17/next-payroll/pull/101) |
 | feat: add-address-page | Medium | [#90](https://github.com/sristy17/next-payroll/issues/90) |
@@ -1914,7 +1912,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add more cities, enhance the UI , Add more information and photos for each city | Easy | [#22](https://github.com/komalkhatod1105/One-Stop-Guide/issues/22) |
 | The description of each city can be more in detail and add few more cities to the website | Easy | [#20](https://github.com/komalkhatod1105/One-Stop-Guide/issues/20) |
 | Add "Back to Top" Links in README for Better Navigation | Easy | [#19](https://github.com/komalkhatod1105/One-Stop-Guide/issues/19) |
-| To add Dark and light modes | Easy | [#18](https://github.com/komalkhatod1105/One-Stop-Guide/issues/18) |
 | Improve README Structure, Grammar, and Clarity for Better Professionalism and Accessibility | Easy | [#17](https://github.com/komalkhatod1105/One-Stop-Guide/issues/17) |
 | The current navbar and footer design is quite basic and does not look visually appealing. Also, the Kota section lacks a representative image to make the page more informative and attractive. | Easy | [#11](https://github.com/komalkhatod1105/One-Stop-Guide/issues/11) |
 | Page where local tourist guides contacts are there | Easy | [#10](https://github.com/komalkhatod1105/One-Stop-Guide/issues/10) |
@@ -2123,6 +2120,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump recharts from 2.15.0 to 3.5.0 | Medium | [#188](https://github.com/Ojas-Arora/SapneSeSafar/pull/188) |
 | Bump vite from 5.4.17 to 7.2.4 | Medium | [#187](https://github.com/Ojas-Arora/SapneSeSafar/pull/187) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.84.0 | Medium | [#186](https://github.com/Ojas-Arora/SapneSeSafar/pull/186) |
 | Bump three from 0.161.0 to 0.181.2 | Medium | [#185](https://github.com/Ojas-Arora/SapneSeSafar/pull/185) |
@@ -2130,7 +2128,6 @@ Fast Workflow Tools
 | Bump react-router-dom from 6.28.2 to 7.9.6 | Medium | [#182](https://github.com/Ojas-Arora/SapneSeSafar/pull/182) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.1 | Medium | [#181](https://github.com/Ojas-Arora/SapneSeSafar/pull/181) |
 | Bump autoprefixer from 10.4.20 to 10.4.22 | Medium | [#179](https://github.com/Ojas-Arora/SapneSeSafar/pull/179) |
-| Bump recharts from 2.15.0 to 3.4.1 | Medium | [#177](https://github.com/Ojas-Arora/SapneSeSafar/pull/177) |
 | Bump tailwindcss from 3.4.17 to 4.1.17 | Medium | [#171](https://github.com/Ojas-Arora/SapneSeSafar/pull/171) |
 | Bump eslint from 9.12.0 to 9.39.1 | Medium | [#170](https://github.com/Ojas-Arora/SapneSeSafar/pull/170) |
 | Bump @types/papaparse from 5.3.16 to 5.5.0 | Medium | [#169](https://github.com/Ojas-Arora/SapneSeSafar/pull/169) |
@@ -2222,28 +2219,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Home page, signup/login page needed | Medium | [#116](https://github.com/rajdeep13-coder/Resume-Generator/issues/116) |
 | Fix issue #112: Prevent download window from opening on incorrect input format | Medium | [#114](https://github.com/rajdeep13-coder/Resume-Generator/pull/114) |
-| Required fields are not marked with an asterisk (*) in the form | Medium | [#113](https://github.com/rajdeep13-coder/Resume-Generator/issues/113) |
-| Need for an "About Us" Section | Medium | [#111](https://github.com/rajdeep13-coder/Resume-Generator/issues/111) |
 | feat: Overhaul UI and add page preview features | Medium | [#110](https://github.com/rajdeep13-coder/Resume-Generator/pull/110) |
-| Adding Achievements Section | Medium | [#109](https://github.com/rajdeep13-coder/Resume-Generator/issues/109) |
-| Change the colour of Links in Dark Mode for better Visibility | Medium | [#105](https://github.com/rajdeep13-coder/Resume-Generator/issues/105) |
-| Add Placeholder Text to Form Inputs | Medium | [#103](https://github.com/rajdeep13-coder/Resume-Generator/issues/103) |
-| <new feature> adding dark theme toggle | Medium | [#101](https://github.com/rajdeep13-coder/Resume-Generator/issues/101) |
-| Creating a Footer | Medium | [#100](https://github.com/rajdeep13-coder/Resume-Generator/issues/100) |
 | Created a landing page for the site | Medium | [#99](https://github.com/rajdeep13-coder/Resume-Generator/pull/99) |
-| Feature Request: Autosuggest for Skills and Job Titles | Medium | [#98](https://github.com/rajdeep13-coder/Resume-Generator/issues/98) |
-| No Logo or Branding | Medium | [#97](https://github.com/rajdeep13-coder/Resume-Generator/issues/97) |
-| Navbar Missing | Medium | [#96](https://github.com/rajdeep13-coder/Resume-Generator/issues/96) |
-| Page Enhancement | Medium | [#94](https://github.com/rajdeep13-coder/Resume-Generator/issues/94) |
-| Add "Syncing Forked Repository" Instructions to CONTRIBUTING.md | Medium | [#91](https://github.com/rajdeep13-coder/Resume-Generator/issues/91) |
-| Seperate scroll for form and resume | Medium | [#90](https://github.com/rajdeep13-coder/Resume-Generator/issues/90) |
-| Issue: Add Proper Form Validation | Medium | [#89](https://github.com/rajdeep13-coder/Resume-Generator/issues/89) |
-| Adding a loader | Medium | [#88](https://github.com/rajdeep13-coder/Resume-Generator/issues/88) |
 | add back to top button | Medium | [#84](https://github.com/rajdeep13-coder/Resume-Generator/pull/84) |
-| Need to add a content section at the beginning | Medium | [#82](https://github.com/rajdeep13-coder/Resume-Generator/issues/82) |
-| Add Navigation Header to Improve Layout & UX | Medium | [#77](https://github.com/rajdeep13-coder/Resume-Generator/issues/77) |
 | GSSoC '25   Fix layout overflow, enhance responsiveness with media queries, and update footer/buttons. | Medium | [#72](https://github.com/rajdeep13-coder/Resume-Generator/pull/72) |
 | Fixed input overflowing out of container + toggle button position | Medium | [#65](https://github.com/rajdeep13-coder/Resume-Generator/pull/65) |
 | nseeka | Medium | [#64](https://github.com/rajdeep13-coder/Resume-Generator/pull/64) |
