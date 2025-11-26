@@ -1119,7 +1119,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add glassmorphic effect on the navbar for better looks. | Easy | [#1221](https://github.com/recodehive/recode-website/issues/1221) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
@@ -1838,7 +1837,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add more cities, enhance the UI , Add more information and photos for each city | Easy | [#22](https://github.com/komalkhatod1105/One-Stop-Guide/issues/22) |
 | The description of each city can be more in detail and add few more cities to the website | Easy | [#20](https://github.com/komalkhatod1105/One-Stop-Guide/issues/20) |
 | Add "Back to Top" Links in README for Better Navigation | Easy | [#19](https://github.com/komalkhatod1105/One-Stop-Guide/issues/19) |
-| To add Dark and light modes | Easy | [#18](https://github.com/komalkhatod1105/One-Stop-Guide/issues/18) |
 | Improve README Structure, Grammar, and Clarity for Better Professionalism and Accessibility | Easy | [#17](https://github.com/komalkhatod1105/One-Stop-Guide/issues/17) |
 | The current navbar and footer design is quite basic and does not look visually appealing. Also, the Kota section lacks a representative image to make the page more informative and attractive. | Easy | [#11](https://github.com/komalkhatod1105/One-Stop-Guide/issues/11) |
 | Page where local tourist guides contacts are there | Easy | [#10](https://github.com/komalkhatod1105/One-Stop-Guide/issues/10) |
@@ -2146,28 +2144,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Home page, signup/login page needed | Medium | [#116](https://github.com/rajdeep13-coder/Resume-Generator/issues/116) |
 | Fix issue #112: Prevent download window from opening on incorrect input format | Medium | [#114](https://github.com/rajdeep13-coder/Resume-Generator/pull/114) |
-| Required fields are not marked with an asterisk (*) in the form | Medium | [#113](https://github.com/rajdeep13-coder/Resume-Generator/issues/113) |
-| Need for an "About Us" Section | Medium | [#111](https://github.com/rajdeep13-coder/Resume-Generator/issues/111) |
 | feat: Overhaul UI and add page preview features | Medium | [#110](https://github.com/rajdeep13-coder/Resume-Generator/pull/110) |
-| Adding Achievements Section | Medium | [#109](https://github.com/rajdeep13-coder/Resume-Generator/issues/109) |
-| Change the colour of Links in Dark Mode for better Visibility | Medium | [#105](https://github.com/rajdeep13-coder/Resume-Generator/issues/105) |
-| Add Placeholder Text to Form Inputs | Medium | [#103](https://github.com/rajdeep13-coder/Resume-Generator/issues/103) |
-| <new feature> adding dark theme toggle | Medium | [#101](https://github.com/rajdeep13-coder/Resume-Generator/issues/101) |
-| Creating a Footer | Medium | [#100](https://github.com/rajdeep13-coder/Resume-Generator/issues/100) |
 | Created a landing page for the site | Medium | [#99](https://github.com/rajdeep13-coder/Resume-Generator/pull/99) |
-| Feature Request: Autosuggest for Skills and Job Titles | Medium | [#98](https://github.com/rajdeep13-coder/Resume-Generator/issues/98) |
-| No Logo or Branding | Medium | [#97](https://github.com/rajdeep13-coder/Resume-Generator/issues/97) |
-| Navbar Missing | Medium | [#96](https://github.com/rajdeep13-coder/Resume-Generator/issues/96) |
-| Page Enhancement | Medium | [#94](https://github.com/rajdeep13-coder/Resume-Generator/issues/94) |
-| Add "Syncing Forked Repository" Instructions to CONTRIBUTING.md | Medium | [#91](https://github.com/rajdeep13-coder/Resume-Generator/issues/91) |
-| Seperate scroll for form and resume | Medium | [#90](https://github.com/rajdeep13-coder/Resume-Generator/issues/90) |
-| Issue: Add Proper Form Validation | Medium | [#89](https://github.com/rajdeep13-coder/Resume-Generator/issues/89) |
-| Adding a loader | Medium | [#88](https://github.com/rajdeep13-coder/Resume-Generator/issues/88) |
 | add back to top button | Medium | [#84](https://github.com/rajdeep13-coder/Resume-Generator/pull/84) |
-| Need to add a content section at the beginning | Medium | [#82](https://github.com/rajdeep13-coder/Resume-Generator/issues/82) |
-| Add Navigation Header to Improve Layout & UX | Medium | [#77](https://github.com/rajdeep13-coder/Resume-Generator/issues/77) |
 | GSSoC '25   Fix layout overflow, enhance responsiveness with media queries, and update footer/buttons. | Medium | [#72](https://github.com/rajdeep13-coder/Resume-Generator/pull/72) |
 | Fixed input overflowing out of container + toggle button position | Medium | [#65](https://github.com/rajdeep13-coder/Resume-Generator/pull/65) |
 | nseeka | Medium | [#64](https://github.com/rajdeep13-coder/Resume-Generator/pull/64) |
