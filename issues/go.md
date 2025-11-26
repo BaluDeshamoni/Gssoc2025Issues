@@ -22,11 +22,11 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Store Cookie Consent Popup + Preference Storage | Medium | [#672](https://github.com/abhisek2004/Dev-Elevate/issues/672) |
+| Implemented Persistent Cookie Consent Storage using LocalStorage | Medium | [#696](https://github.com/abhisek2004/Dev-Elevate/pull/696) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
+| Bump the npm_and_yarn group across 2 directories with 1 update | Hard | [#695](https://github.com/abhisek2004/Dev-Elevate/pull/695) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
-| 🧩 Forgot Password — Functional Implementation | Hard | [#616](https://github.com/abhisek2004/Dev-Elevate/issues/616) |
 
 ---
 
@@ -194,17 +194,16 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
 | Add Remote State Management | Easy | [#2699](https://github.com/OWASP/Nest/pull/2699) |
-| Improve Security Groups for Infrastructure | Easy | [#2685](https://github.com/OWASP/Nest/pull/2685) |
+| Dark / Light  Mode Toggle Tooltip Misalignment, And Color Mismatch. | Medium | [#2711](https://github.com/OWASP/Nest/issues/2711) |
+| Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
+| fix: add descriptive alt text for images to improve screen reader accessibility | Medium | [#2703](https://github.com/OWASP/Nest/pull/2703) |
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
 | Adding cursor | Medium | [#2696](https://github.com/OWASP/Nest/pull/2696) |
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
-| Missing Skeleton Loading State in Snapshot & About Pages | Medium | [#2673](https://github.com/OWASP/Nest/issues/2673) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
 | Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
-| Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
-| active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
-| Add Sort Dropdown to Contribute (Issues) Page | Medium | [#2626](https://github.com/OWASP/Nest/issues/2626) |
 
 ---
 
@@ -1572,7 +1571,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Add more cities, enhance the UI , Add more information and photos for each city | Easy | [#22](https://github.com/komalkhatod1105/One-Stop-Guide/issues/22) |
 | The description of each city can be more in detail and add few more cities to the website | Easy | [#20](https://github.com/komalkhatod1105/One-Stop-Guide/issues/20) |
 | Add "Back to Top" Links in README for Better Navigation | Easy | [#19](https://github.com/komalkhatod1105/One-Stop-Guide/issues/19) |
-| To add Dark and light modes | Easy | [#18](https://github.com/komalkhatod1105/One-Stop-Guide/issues/18) |
 | Improve README Structure, Grammar, and Clarity for Better Professionalism and Accessibility | Easy | [#17](https://github.com/komalkhatod1105/One-Stop-Guide/issues/17) |
 | The current navbar and footer design is quite basic and does not look visually appealing. Also, the Kota section lacks a representative image to make the page more informative and attractive. | Easy | [#11](https://github.com/komalkhatod1105/One-Stop-Guide/issues/11) |
 | Page where local tourist guides contacts are there | Easy | [#10](https://github.com/komalkhatod1105/One-Stop-Guide/issues/10) |
@@ -1756,6 +1754,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump recharts from 2.15.0 to 3.5.0 | Medium | [#188](https://github.com/Ojas-Arora/SapneSeSafar/pull/188) |
 | Bump vite from 5.4.17 to 7.2.4 | Medium | [#187](https://github.com/Ojas-Arora/SapneSeSafar/pull/187) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.84.0 | Medium | [#186](https://github.com/Ojas-Arora/SapneSeSafar/pull/186) |
 | Bump three from 0.161.0 to 0.181.2 | Medium | [#185](https://github.com/Ojas-Arora/SapneSeSafar/pull/185) |
@@ -1763,7 +1762,6 @@ Fast Workflow Tools
 | Bump react-router-dom from 6.28.2 to 7.9.6 | Medium | [#182](https://github.com/Ojas-Arora/SapneSeSafar/pull/182) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.1 | Medium | [#181](https://github.com/Ojas-Arora/SapneSeSafar/pull/181) |
 | Bump autoprefixer from 10.4.20 to 10.4.22 | Medium | [#179](https://github.com/Ojas-Arora/SapneSeSafar/pull/179) |
-| Bump recharts from 2.15.0 to 3.4.1 | Medium | [#177](https://github.com/Ojas-Arora/SapneSeSafar/pull/177) |
 | Bump tailwindcss from 3.4.17 to 4.1.17 | Medium | [#171](https://github.com/Ojas-Arora/SapneSeSafar/pull/171) |
 | Bump eslint from 9.12.0 to 9.39.1 | Medium | [#170](https://github.com/Ojas-Arora/SapneSeSafar/pull/170) |
 | Bump @types/papaparse from 5.3.16 to 5.5.0 | Medium | [#169](https://github.com/Ojas-Arora/SapneSeSafar/pull/169) |
