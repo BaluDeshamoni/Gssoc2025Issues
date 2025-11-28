@@ -22,9 +22,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implemented Persistent Cookie Consent Storage using LocalStorage | Medium | [#696](https://github.com/abhisek2004/Dev-Elevate/pull/696) |
+| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#700](https://github.com/abhisek2004/Dev-Elevate/issues/700) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
-| Bump the npm_and_yarn group across 2 directories with 1 update | Hard | [#695](https://github.com/abhisek2004/Dev-Elevate/pull/695) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 
@@ -103,6 +102,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Claude Code GitHub Workflow | Medium | [#92](https://github.com/AdityaRalhan/Aluma/issues/92) |
 | issue create automate message added | Medium | [#91](https://github.com/AdityaRalhan/Aluma/pull/91) |
 | Adding issue template | Medium | [#90](https://github.com/AdityaRalhan/Aluma/issues/90) |
 | Improve README with setup instructions | Medium | [#89](https://github.com/AdityaRalhan/Aluma/issues/89) |
@@ -127,7 +127,6 @@ Accessibility features like dark mode,white.
 | Add GitHub Issue & PR Templates | Medium | [#58](https://github.com/AdityaRalhan/Aluma/issues/58) |
 | <# Add Footer> | Medium | [#57](https://github.com/AdityaRalhan/Aluma/issues/57) |
 | We can add talk to professionals feature | Medium | [#56](https://github.com/AdityaRalhan/Aluma/issues/56) |
-| no descripton in the about section | Medium | [#55](https://github.com/AdityaRalhan/Aluma/issues/55) |
 
 ---
 
@@ -195,15 +194,15 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
-| Add Remote State Management | Easy | [#2699](https://github.com/OWASP/Nest/pull/2699) |
-| Dark / Light  Mode Toggle Tooltip Misalignment, And Color Mismatch. | Medium | [#2711](https://github.com/OWASP/Nest/issues/2711) |
+| Add logging in Infrastructure | Medium | [#2743](https://github.com/OWASP/Nest/pull/2743) |
+| Changed light mode icon because it was misleading | Medium | [#2742](https://github.com/OWASP/Nest/pull/2742) |
+| Add CalendarButton component and related tests for Google Calendar in… | Medium | [#2739](https://github.com/OWASP/Nest/pull/2739) |
+| fix: add keyboard navigation support | Medium | [#2737](https://github.com/OWASP/Nest/pull/2737) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
-| fix: add descriptive alt text for images to improve screen reader accessibility | Medium | [#2703](https://github.com/OWASP/Nest/pull/2703) |
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
 | Adding cursor | Medium | [#2696](https://github.com/OWASP/Nest/pull/2696) |
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
-| Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
 
 ---
 
@@ -311,6 +310,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fixed the eye icons issue in lightmode | Easy | [#277](https://github.com/BhaktiMore18/Pouranik/pull/277) |
+| Add Claude Code GitHub Workflow | Medium | [#301](https://github.com/BhaktiMore18/Pouranik/issues/301) |
 | Added Forgot password | Medium | [#300](https://github.com/BhaktiMore18/Pouranik/pull/300) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
 | Forget password | Medium | [#275](https://github.com/BhaktiMore18/Pouranik/pull/275) |
@@ -407,12 +407,17 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
+| Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
+| Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy23/splitwiser/issues/207) |
+| Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy23/splitwiser/pull/205) |
+| chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy23/splitwiser/pull/202) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy23/splitwiser/pull/174) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy23/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy23/splitwiser/pull/151) |
 | API documentation | Medium | [#149](https://github.com/Devasy23/splitwiser/pull/149) |
 | Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy23/splitwiser/pull/148) |
 | Fix preview workflow for forks | Medium | [#146](https://github.com/Devasy23/splitwiser/pull/146) |
+| Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
 
 ---
 
@@ -430,6 +435,7 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#123](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/123) |
 | Feature/terms | Medium | [#122](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/122) |
 | Added Privacy Policy component and updated Footer and App | Medium | [#121](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/121) |
 | Improve Footer UI and Add Missing Links | Medium | [#120](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/120) |
@@ -1754,11 +1760,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump lucide-react from 0.344.0 to 0.555.0 | Medium | [#190](https://github.com/Ojas-Arora/SapneSeSafar/pull/190) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.86.0 | Medium | [#189](https://github.com/Ojas-Arora/SapneSeSafar/pull/189) |
 | Bump recharts from 2.15.0 to 3.5.0 | Medium | [#188](https://github.com/Ojas-Arora/SapneSeSafar/pull/188) |
 | Bump vite from 5.4.17 to 7.2.4 | Medium | [#187](https://github.com/Ojas-Arora/SapneSeSafar/pull/187) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.84.0 | Medium | [#186](https://github.com/Ojas-Arora/SapneSeSafar/pull/186) |
 | Bump three from 0.161.0 to 0.181.2 | Medium | [#185](https://github.com/Ojas-Arora/SapneSeSafar/pull/185) |
-| Bump lucide-react from 0.344.0 to 0.554.0 | Medium | [#183](https://github.com/Ojas-Arora/SapneSeSafar/pull/183) |
 | Bump react-router-dom from 6.28.2 to 7.9.6 | Medium | [#182](https://github.com/Ojas-Arora/SapneSeSafar/pull/182) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.1 | Medium | [#181](https://github.com/Ojas-Arora/SapneSeSafar/pull/181) |
 | Bump autoprefixer from 10.4.20 to 10.4.22 | Medium | [#179](https://github.com/Ojas-Arora/SapneSeSafar/pull/179) |
