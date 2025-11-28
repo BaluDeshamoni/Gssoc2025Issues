@@ -22,9 +22,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implemented Persistent Cookie Consent Storage using LocalStorage | Medium | [#696](https://github.com/abhisek2004/Dev-Elevate/pull/696) |
+| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#700](https://github.com/abhisek2004/Dev-Elevate/issues/700) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
-| Bump the npm_and_yarn group across 2 directories with 1 update | Hard | [#695](https://github.com/abhisek2004/Dev-Elevate/pull/695) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 
@@ -103,6 +102,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Claude Code GitHub Workflow | Medium | [#92](https://github.com/AdityaRalhan/Aluma/issues/92) |
 | issue create automate message added | Medium | [#91](https://github.com/AdityaRalhan/Aluma/pull/91) |
 | Adding issue template | Medium | [#90](https://github.com/AdityaRalhan/Aluma/issues/90) |
 | Improve README with setup instructions | Medium | [#89](https://github.com/AdityaRalhan/Aluma/issues/89) |
@@ -127,7 +127,6 @@ Accessibility features like dark mode,white.
 | Add GitHub Issue & PR Templates | Medium | [#58](https://github.com/AdityaRalhan/Aluma/issues/58) |
 | <# Add Footer> | Medium | [#57](https://github.com/AdityaRalhan/Aluma/issues/57) |
 | We can add talk to professionals feature | Medium | [#56](https://github.com/AdityaRalhan/Aluma/issues/56) |
-| no descripton in the about section | Medium | [#55](https://github.com/AdityaRalhan/Aluma/issues/55) |
 
 ---
 
@@ -202,6 +201,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fixed the eye icons issue in lightmode | Easy | [#277](https://github.com/BhaktiMore18/Pouranik/pull/277) |
+| Add Claude Code GitHub Workflow | Medium | [#301](https://github.com/BhaktiMore18/Pouranik/issues/301) |
 | Added Forgot password | Medium | [#300](https://github.com/BhaktiMore18/Pouranik/pull/300) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
 | Forget password | Medium | [#275](https://github.com/BhaktiMore18/Pouranik/pull/275) |
@@ -298,12 +298,17 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
+| Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
+| Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy23/splitwiser/issues/207) |
+| Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy23/splitwiser/pull/205) |
+| chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy23/splitwiser/pull/202) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy23/splitwiser/pull/174) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy23/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy23/splitwiser/pull/151) |
 | API documentation | Medium | [#149](https://github.com/Devasy23/splitwiser/pull/149) |
 | Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy23/splitwiser/pull/148) |
 | Fix preview workflow for forks | Medium | [#146](https://github.com/Devasy23/splitwiser/pull/146) |
+| Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
 
 ---
 
@@ -321,6 +326,7 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#123](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/123) |
 | Feature/terms | Medium | [#122](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/122) |
 | Added Privacy Policy component and updated Footer and App | Medium | [#121](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/121) |
 | Improve Footer UI and Add Missing Links | Medium | [#120](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/120) |
