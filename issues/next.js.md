@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Claude Code GitHub Workflow | Medium | [#289](https://github.com/iaadillatif/techxninjas-client/issues/289) |
 | fix: notification panel logic, placement, and Supabase redirect handling | Medium | [#287](https://github.com/iaadillatif/techxninjas-client/pull/287) |
 | Added Leaderboard and new features | Medium | [#286](https://github.com/iaadillatif/techxninjas-client/pull/286) |
 | Feature Request: Add a Gamified Leaderboard to Ignite Daily Engagement & Community | Medium | [#285](https://github.com/iaadillatif/techxninjas-client/issues/285) |
@@ -43,7 +44,6 @@
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
 | course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
-| Template | Medium | [#253](https://github.com/iaadillatif/techxninjas-client/pull/253) |
 
 ---
 
@@ -61,6 +61,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Claude Code GitHub Workflow | Medium | [#92](https://github.com/AdityaRalhan/Aluma/issues/92) |
 | issue create automate message added | Medium | [#91](https://github.com/AdityaRalhan/Aluma/pull/91) |
 | Adding issue template | Medium | [#90](https://github.com/AdityaRalhan/Aluma/issues/90) |
 | Improve README with setup instructions | Medium | [#89](https://github.com/AdityaRalhan/Aluma/issues/89) |
@@ -85,7 +86,6 @@
 | Add GitHub Issue & PR Templates | Medium | [#58](https://github.com/AdityaRalhan/Aluma/issues/58) |
 | <# Add Footer> | Medium | [#57](https://github.com/AdityaRalhan/Aluma/issues/57) |
 | We can add talk to professionals feature | Medium | [#56](https://github.com/AdityaRalhan/Aluma/issues/56) |
-| no descripton in the about section | Medium | [#55](https://github.com/AdityaRalhan/Aluma/issues/55) |
 
 ---
 
@@ -167,15 +167,17 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
-| Add Remote State Management | Easy | [#2699](https://github.com/OWASP/Nest/pull/2699) |
-| Dark / Light  Mode Toggle Tooltip Misalignment, And Color Mismatch. | Medium | [#2711](https://github.com/OWASP/Nest/issues/2711) |
+| Add pointer cursor to Languages/Topics | Easy | [#2672](https://github.com/OWASP/Nest/issues/2672) |
+| Non-interactive <button> used in ModuleList component | Medium | [#2750](https://github.com/OWASP/Nest/issues/2750) |
+| Bump mkdocstrings from 0.30.1 to 1.0.0 in /docs | Medium | [#2745](https://github.com/OWASP/Nest/pull/2745) |
+| Changed light mode icon because it was misleading | Medium | [#2742](https://github.com/OWASP/Nest/pull/2742) |
+| fix: add keyboard navigation support | Medium | [#2737](https://github.com/OWASP/Nest/pull/2737) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
-| fix: add descriptive alt text for images to improve screen reader accessibility | Medium | [#2703](https://github.com/OWASP/Nest/pull/2703) |
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
-| Adding cursor | Medium | [#2696](https://github.com/OWASP/Nest/pull/2696) |
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
-| Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
+| Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
+| active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
 
 ---
 
@@ -312,6 +314,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#282](https://github.com/ruhilmansi/fail-u-forward/issues/282) |
 | 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/ruhilmansi/fail-u-forward/issues/268) |
 | Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/ruhilmansi/fail-u-forward/issues/264) |
 | Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/ruhilmansi/fail-u-forward/issues/263) |
@@ -502,7 +505,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
+| chore: bump prettier from 3.6.2 to 3.7.2 | Easy | [#1231](https://github.com/recodehive/recode-website/pull/1231) |
+| Added sidebar for docker and changed its content | Easy | [#1230](https://github.com/recodehive/recode-website/pull/1230) |
 
 ---
 
