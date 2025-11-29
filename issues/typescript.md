@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Claude Code GitHub Workflow | Medium | [#289](https://github.com/iaadillatif/techxninjas-client/issues/289) |
 | fix: notification panel logic, placement, and Supabase redirect handling | Medium | [#287](https://github.com/iaadillatif/techxninjas-client/pull/287) |
 | Added Leaderboard and new features | Medium | [#286](https://github.com/iaadillatif/techxninjas-client/pull/286) |
 | Feature Request: Add a Gamified Leaderboard to Ignite Daily Engagement & Community | Medium | [#285](https://github.com/iaadillatif/techxninjas-client/issues/285) |
@@ -43,7 +44,6 @@
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
 | course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
-| Template | Medium | [#253](https://github.com/iaadillatif/techxninjas-client/pull/253) |
 
 ---
 
@@ -69,9 +69,9 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implemented Persistent Cookie Consent Storage using LocalStorage | Medium | [#696](https://github.com/abhisek2004/Dev-Elevate/pull/696) |
+| 📊 Weekly Project Summary - 11/28/2025 | Medium | [#701](https://github.com/abhisek2004/Dev-Elevate/issues/701) |
+| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#700](https://github.com/abhisek2004/Dev-Elevate/issues/700) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
-| Bump the npm_and_yarn group across 2 directories with 1 update | Hard | [#695](https://github.com/abhisek2004/Dev-Elevate/pull/695) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 
@@ -92,15 +92,17 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
-| Add Remote State Management | Easy | [#2699](https://github.com/OWASP/Nest/pull/2699) |
-| Dark / Light  Mode Toggle Tooltip Misalignment, And Color Mismatch. | Medium | [#2711](https://github.com/OWASP/Nest/issues/2711) |
+| Add pointer cursor to Languages/Topics | Easy | [#2672](https://github.com/OWASP/Nest/issues/2672) |
+| Non-interactive <button> used in ModuleList component | Medium | [#2750](https://github.com/OWASP/Nest/issues/2750) |
+| Bump mkdocstrings from 0.30.1 to 1.0.0 in /docs | Medium | [#2745](https://github.com/OWASP/Nest/pull/2745) |
+| Changed light mode icon because it was misleading | Medium | [#2742](https://github.com/OWASP/Nest/pull/2742) |
+| fix: add keyboard navigation support | Medium | [#2737](https://github.com/OWASP/Nest/pull/2737) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
-| fix: add descriptive alt text for images to improve screen reader accessibility | Medium | [#2703](https://github.com/OWASP/Nest/pull/2703) |
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
-| Adding cursor | Medium | [#2696](https://github.com/OWASP/Nest/pull/2696) |
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
-| Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
+| Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
+| active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
 
 ---
 
@@ -213,6 +215,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#282](https://github.com/ruhilmansi/fail-u-forward/issues/282) |
 | 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/ruhilmansi/fail-u-forward/issues/268) |
 | Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/ruhilmansi/fail-u-forward/issues/264) |
 | Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/ruhilmansi/fail-u-forward/issues/263) |
@@ -239,6 +242,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#27](https://github.com/mehak-ui/Student-Portal/issues/27) |
 | frontend enhancement | Medium | [#26](https://github.com/mehak-ui/Student-Portal/issues/26) |
 | foter added | Medium | [#25](https://github.com/mehak-ui/Student-Portal/pull/25) |
 | Fixed overall flow and project structure | Medium | [#23](https://github.com/mehak-ui/Student-Portal/pull/23) |
@@ -528,6 +532,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chatbot | Medium | [#253](https://github.com/souvikpramanikgit/LearnHub/issues/253) |
 | screen shot of issused bugs | Medium | [#252](https://github.com/souvikpramanikgit/LearnHub/issues/252) |
 | Improve Landing Page Performance by Optimizing Background Image (LCP Enhancement) | Medium | [#251](https://github.com/souvikpramanikgit/LearnHub/issues/251) |
 | Optimized background image file issue | Medium | [#250](https://github.com/souvikpramanikgit/LearnHub/issues/250) |
@@ -1045,11 +1050,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump recharts from 2.15.0 to 3.5.0 | Medium | [#188](https://github.com/Ojas-Arora/SapneSeSafar/pull/188) |
+| Bump recharts from 2.15.0 to 3.5.1 | Medium | [#191](https://github.com/Ojas-Arora/SapneSeSafar/pull/191) |
+| Bump lucide-react from 0.344.0 to 0.555.0 | Medium | [#190](https://github.com/Ojas-Arora/SapneSeSafar/pull/190) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.86.0 | Medium | [#189](https://github.com/Ojas-Arora/SapneSeSafar/pull/189) |
 | Bump vite from 5.4.17 to 7.2.4 | Medium | [#187](https://github.com/Ojas-Arora/SapneSeSafar/pull/187) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.84.0 | Medium | [#186](https://github.com/Ojas-Arora/SapneSeSafar/pull/186) |
 | Bump three from 0.161.0 to 0.181.2 | Medium | [#185](https://github.com/Ojas-Arora/SapneSeSafar/pull/185) |
-| Bump lucide-react from 0.344.0 to 0.554.0 | Medium | [#183](https://github.com/Ojas-Arora/SapneSeSafar/pull/183) |
 | Bump react-router-dom from 6.28.2 to 7.9.6 | Medium | [#182](https://github.com/Ojas-Arora/SapneSeSafar/pull/182) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.1 | Medium | [#181](https://github.com/Ojas-Arora/SapneSeSafar/pull/181) |
 | Bump autoprefixer from 10.4.20 to 10.4.22 | Medium | [#179](https://github.com/Ojas-Arora/SapneSeSafar/pull/179) |
