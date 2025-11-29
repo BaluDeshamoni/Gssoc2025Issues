@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#85](https://github.com/Abhinavhaldiya/FinPilot/issues/85) |
 | DOCS: Fix Formatting in README.md and Enhance with Dynamic Status Badges | Medium | [#84](https://github.com/Abhinavhaldiya/FinPilot/issues/84) |
 | Updated readme | Medium | [#83](https://github.com/Abhinavhaldiya/FinPilot/pull/83) |
 | Add theme switch button | Medium | [#82](https://github.com/Abhinavhaldiya/FinPilot/issues/82) |
@@ -52,6 +53,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 11/28/2025 | Medium | [#701](https://github.com/abhisek2004/Dev-Elevate/issues/701) |
+| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#700](https://github.com/abhisek2004/Dev-Elevate/issues/700) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
@@ -106,6 +109,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Claude Code GitHub Workflow | Medium | [#92](https://github.com/AdityaRalhan/Aluma/issues/92) |
 | issue create automate message added | Medium | [#91](https://github.com/AdityaRalhan/Aluma/pull/91) |
 | Adding issue template | Medium | [#90](https://github.com/AdityaRalhan/Aluma/issues/90) |
 | Improve README with setup instructions | Medium | [#89](https://github.com/AdityaRalhan/Aluma/issues/89) |
@@ -130,7 +134,6 @@ Accessibility features like dark mode,white.
 | Add GitHub Issue & PR Templates | Medium | [#58](https://github.com/AdityaRalhan/Aluma/issues/58) |
 | <# Add Footer> | Medium | [#57](https://github.com/AdityaRalhan/Aluma/issues/57) |
 | We can add talk to professionals feature | Medium | [#56](https://github.com/AdityaRalhan/Aluma/issues/56) |
-| no descripton in the about section | Medium | [#55](https://github.com/AdityaRalhan/Aluma/issues/55) |
 
 ---
 
@@ -205,6 +208,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fixed the eye icons issue in lightmode | Easy | [#277](https://github.com/BhaktiMore18/Pouranik/pull/277) |
+| Add Claude Code GitHub Workflow | Medium | [#301](https://github.com/BhaktiMore18/Pouranik/issues/301) |
 | Added Forgot password | Medium | [#300](https://github.com/BhaktiMore18/Pouranik/pull/300) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
 | Forget password | Medium | [#275](https://github.com/BhaktiMore18/Pouranik/pull/275) |
@@ -315,6 +319,7 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#123](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/123) |
 | Feature/terms | Medium | [#122](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/122) |
 | Added Privacy Policy component and updated Footer and App | Medium | [#121](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/121) |
 | Improve Footer UI and Add Missing Links | Medium | [#120](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/120) |
@@ -334,33 +339,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Homepage enhancements | Medium | [#97](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/97) |
 | UI Enhancements: Interactive Landing Page, Footer Redesign & GitHub Popup | Medium | [#92](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/92) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
-
----
-
-## 📌 Project: Weather-API
-
-📝 **Description:** A simple yet powerful weather scraper built with Node.js, Express and Cheerio. This project dynamically fetches real-time weather data for any city, scrapes the necessary details, and presents them on an intuitive user interfaec.
-
-🔗 [View Project](https://github.com/GauravKarakoti/Weather-API)
-
-💻 **Tech Stack:** Express, Axios, Cheerio, Cors, Dotenv
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| npm(deps): bump redis from 4.7.1 to 5.9.0 | Medium | [#389](https://github.com/GauravKarakoti/Weather-API/pull/389) |
-| npm(deps): bump uuid from 9.0.1 to 13.0.0 | Medium | [#388](https://github.com/GauravKarakoti/Weather-API/pull/388) |
-| npm(deps): bump dotenv from 16.6.1 to 17.2.3 | Medium | [#387](https://github.com/GauravKarakoti/Weather-API/pull/387) |
-| npm(deps-dev): bump eslint from 9.38.0 to 9.39.0 | Medium | [#386](https://github.com/GauravKarakoti/Weather-API/pull/386) |
-| npm(deps): bump axios from 1.12.2 to 1.13.1 | Medium | [#385](https://github.com/GauravKarakoti/Weather-API/pull/385) |
-| npm(deps): bump express-rate-limit from 7.5.1 to 8.2.1 | Medium | [#384](https://github.com/GauravKarakoti/Weather-API/pull/384) |
-| npm(deps): bump express from 4.21.2 to 5.1.0 | Medium | [#383](https://github.com/GauravKarakoti/Weather-API/pull/383) |
-| npm(deps-dev): bump jsdom from 27.0.1 to 27.1.0 | Medium | [#382](https://github.com/GauravKarakoti/Weather-API/pull/382) |
-| npm(deps): bump nodemailer from 6.10.1 to 7.0.10 | Medium | [#381](https://github.com/GauravKarakoti/Weather-API/pull/381) |
-| npm(deps): bump bcrypt from 5.1.1 to 6.0.0 | Medium | [#380](https://github.com/GauravKarakoti/Weather-API/pull/380) |
 
 ---
 
