@@ -44,6 +44,12 @@
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
+| Restore EAS configuration files | Medium | [#210](https://github.com/Devasy23/splitwiser/pull/210) |
+| Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy23/splitwiser/pull/209) |
+| Mobile UI Refresh | Medium | [#208](https://github.com/Devasy23/splitwiser/pull/208) |
+| Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy23/splitwiser/issues/207) |
+| Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy23/splitwiser/pull/205) |
+| chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy23/splitwiser/pull/202) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy23/splitwiser/pull/174) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy23/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy23/splitwiser/pull/151) |
