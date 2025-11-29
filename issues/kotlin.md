@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Claude Code GitHub Workflow | Medium | [#76](https://github.com/A-Akhil/Astra-Ai/issues/76) |
 | Add GSSoC'25 Banner | Medium | [#75](https://github.com/A-Akhil/Astra-Ai/issues/75) |
 | feat(layout): Enhance assistant message item | Medium | [#70](https://github.com/A-Akhil/Astra-Ai/pull/70) |
 | Refactor & Enhance: Improve item_message_assistant.xml Layout | Medium | [#68](https://github.com/A-Akhil/Astra-Ai/issues/68) |
@@ -39,7 +40,6 @@
 | UPDATE ON : Add Smart Reminder System with Voice Commands and Push Notifications #2 | Medium | [#32](https://github.com/A-Akhil/Astra-Ai/pull/32) |
 | Add My Application to initialize Logger | Medium | [#30](https://github.com/A-Akhil/Astra-Ai/pull/30) |
 | Update Llama Client.kt | Medium | [#29](https://github.com/A-Akhil/Astra-Ai/pull/29) |
-| Suggested Advanced Additions to Scale Astra-AI to a Full-Fledged Assistant | Medium | [#26](https://github.com/A-Akhil/Astra-Ai/issues/26) |
 
 ---
 
