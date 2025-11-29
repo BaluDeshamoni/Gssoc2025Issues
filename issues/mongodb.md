@@ -22,6 +22,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 11/28/2025 | Medium | [#701](https://github.com/abhisek2004/Dev-Elevate/issues/701) |
 | welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#700](https://github.com/abhisek2004/Dev-Elevate/issues/700) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -298,7 +299,9 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
-| Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
+| Restore EAS configuration files | Medium | [#210](https://github.com/Devasy23/splitwiser/pull/210) |
+| Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy23/splitwiser/pull/209) |
+| Mobile UI Refresh | Medium | [#208](https://github.com/Devasy23/splitwiser/pull/208) |
 | Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy23/splitwiser/issues/207) |
 | Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy23/splitwiser/pull/205) |
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy23/splitwiser/pull/202) |
@@ -308,7 +311,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | API documentation | Medium | [#149](https://github.com/Devasy23/splitwiser/pull/149) |
 | Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy23/splitwiser/pull/148) |
 | Fix preview workflow for forks | Medium | [#146](https://github.com/Devasy23/splitwiser/pull/146) |
-| Feature/google signin | Medium | [#139](https://github.com/Devasy23/splitwiser/pull/139) |
 
 ---
 
