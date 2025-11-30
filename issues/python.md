@@ -184,6 +184,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
+| Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#71](https://github.com/Menthub-GSSoC/Menthub/issues/71) |
 | Add GSSoC'25 Banner | Medium | [#70](https://github.com/Menthub-GSSoC/Menthub/issues/70) |
 | ⚙️: | Medium | [#69](https://github.com/Menthub-GSSoC/Menthub/issues/69) |
 | 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
@@ -197,7 +198,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
-| Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
 
 ---
 
@@ -216,15 +216,18 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
-| Add Remote State Management | Easy | [#2699](https://github.com/OWASP/Nest/pull/2699) |
-| Dark / Light  Mode Toggle Tooltip Misalignment, And Color Mismatch. | Medium | [#2711](https://github.com/OWASP/Nest/issues/2711) |
+| Add pointer cursor to Languages/Topics | Easy | [#2672](https://github.com/OWASP/Nest/issues/2672) |
+| Add llms.txt file for Nest | Medium | [#2753](https://github.com/OWASP/Nest/issues/2753) |
+| Add comprehensive unit tests for ContributionHeatmap | Medium | [#2751](https://github.com/OWASP/Nest/pull/2751) |
+| Bump mkdocstrings from 0.30.1 to 1.0.0 in /docs | Medium | [#2745](https://github.com/OWASP/Nest/pull/2745) |
+| Changed light mode icon because it was misleading | Medium | [#2742](https://github.com/OWASP/Nest/pull/2742) |
+| fix: add keyboard navigation support | Medium | [#2737](https://github.com/OWASP/Nest/pull/2737) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
-| fix: add descriptive alt text for images to improve screen reader accessibility | Medium | [#2703](https://github.com/OWASP/Nest/pull/2703) |
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
-| Adding cursor | Medium | [#2696](https://github.com/OWASP/Nest/pull/2696) |
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
-| Add precise location sharing option for chapter map | Medium | [#2644](https://github.com/OWASP/Nest/pull/2644) |
+| Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
+| active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
 
 ---
 
@@ -279,6 +282,12 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
+| Restore EAS configuration files | Medium | [#210](https://github.com/Devasy23/splitwiser/pull/210) |
+| Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy23/splitwiser/pull/209) |
+| Mobile UI Refresh | Medium | [#208](https://github.com/Devasy23/splitwiser/pull/208) |
+| Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy23/splitwiser/issues/207) |
+| Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy23/splitwiser/pull/205) |
+| chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy23/splitwiser/pull/202) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy23/splitwiser/pull/174) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy23/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy23/splitwiser/pull/151) |
@@ -601,29 +610,17 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Stochastic Passenger Behavior & Color Coded Visualization | Medium | [#55](https://github.com/18Prachi/airplane-boarding-simulation/issues/55) |
-| Improved model performance by adding new functionalities | Medium | [#54](https://github.com/18Prachi/airplane-boarding-simulation/pull/54) |
-| Readme_Modification | Medium | [#53](https://github.com/18Prachi/airplane-boarding-simulation/pull/53) |
-| Added strategy simulation and comparison feature (GSSoC) | Medium | [#52](https://github.com/18Prachi/airplane-boarding-simulation/pull/52) |
 | Add Support for Multiple Boarding Strategies and Comparison Visualization | Medium | [#51](https://github.com/18Prachi/airplane-boarding-simulation/issues/51) |
 | new features | Medium | [#49](https://github.com/18Prachi/airplane-boarding-simulation/issues/49) |
 | Implementing a Data-Driven Analysis and Reporting Module | Medium | [#48](https://github.com/18Prachi/airplane-boarding-simulation/issues/48) |
 | to make website for the same | Medium | [#46](https://github.com/18Prachi/airplane-boarding-simulation/issues/46) |
-| resolve the cascading movement bug | Medium | [#45](https://github.com/18Prachi/airplane-boarding-simulation/pull/45) |
 | adding baseline boarding strategies for comparison | Medium | [#44](https://github.com/18Prachi/airplane-boarding-simulation/issues/44) |
-| Enhance Robustness, Add Logging & Validation | Medium | [#39](https://github.com/18Prachi/airplane-boarding-simulation/pull/39) |
 | Bugs issue | Medium | [#38](https://github.com/18Prachi/airplane-boarding-simulation/issues/38) |
-| Update airplane_boarding.py | Medium | [#35](https://github.com/18Prachi/airplane-boarding-simulation/pull/35) |
-| Added CONTRIBUTING.md and CODE_OF_CONDUCT.md | Medium | [#34](https://github.com/18Prachi/airplane-boarding-simulation/pull/34) |
 | Hey, I’m interested in working on this issue. Can you please assign it to me? | Medium | [#32](https://github.com/18Prachi/airplane-boarding-simulation/issues/32) |
 | Add a CodeOfConduct.md file | Medium | [#31](https://github.com/18Prachi/airplane-boarding-simulation/issues/31) |
 | Add CLI arguments to customize number of airplane rows and seats per row | Medium | [#30](https://github.com/18Prachi/airplane-boarding-simulation/issues/30) |
 | Code Refactoring | Medium | [#29](https://github.com/18Prachi/airplane-boarding-simulation/issues/29) |
-| Feature Request: Create Streamlit-based UI/Dashboard | Medium | [#26](https://github.com/18Prachi/airplane-boarding-simulation/issues/26) |
 | Add priority based boarding queue system | Medium | [#25](https://github.com/18Prachi/airplane-boarding-simulation/issues/25) |
-| Add random luggage stowing delay to enhance boarding simulation realism | Medium | [#22](https://github.com/18Prachi/airplane-boarding-simulation/pull/22) |
-| Fix: 5 [Bug Fixes & Testing] | Medium | [#16](https://github.com/18Prachi/airplane-boarding-simulation/pull/16) |
-| Bug: Method not called in _calculate_reward | Medium | [#13](https://github.com/18Prachi/airplane-boarding-simulation/issues/13) |
 
 ---
 
