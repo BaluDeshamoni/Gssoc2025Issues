@@ -215,8 +215,12 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve / Fix S3 Bucket Usage | Easy | [#2760](https://github.com/OWASP/Nest/pull/2760) |
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
 | Add pointer cursor to Languages/Topics | Easy | [#2672](https://github.com/OWASP/Nest/issues/2672) |
+| Use markdown-it for mentorship portal summaries | Medium | [#2762](https://github.com/OWASP/Nest/pull/2762) |
+| removed indexing from repositories and projects that do not belong to any organization | Medium | [#2758](https://github.com/OWASP/Nest/pull/2758) |
+| Add skeleton loading states for About, Organization, and Snapshot pages | Medium | [#2757](https://github.com/OWASP/Nest/pull/2757) |
 | Add llms.txt file for Nest | Medium | [#2753](https://github.com/OWASP/Nest/issues/2753) |
 | Add comprehensive unit tests for ContributionHeatmap | Medium | [#2751](https://github.com/OWASP/Nest/pull/2751) |
 | Bump mkdocstrings from 0.30.1 to 1.0.0 in /docs | Medium | [#2745](https://github.com/OWASP/Nest/pull/2745) |
@@ -226,8 +230,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
-| Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
-| active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
 
 ---
 
@@ -1085,7 +1087,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 🔊 Issue: Add a Voice Assistant to Navigate PyVerse | Medium | [#1813](https://github.com/UTSAVS26/PyVerse/issues/1813) |
-| Adding  Image Resizer Project | Medium | [#1804](https://github.com/UTSAVS26/PyVerse/pull/1804) |
 | ]: Add Responsive Design and Dark Mode Toggle to Portfolio Website | Medium | [#1524](https://github.com/UTSAVS26/PyVerse/issues/1524) |
 | NLP Project autocorrect algorithm | Medium | [#1506](https://github.com/UTSAVS26/PyVerse/issues/1506) |
 | Added pyverse_tip CLI command to show random Python tips | Medium | [#1480](https://github.com/UTSAVS26/PyVerse/pull/1480) |
@@ -1271,6 +1272,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI: Improve mobile responsiveness and modernize tabs | Medium | [#74](https://github.com/Xenonesis/code-guardian-report/pull/74) |
 | Create extension support for different IDEs | Medium | [#71](https://github.com/Xenonesis/code-guardian-report/pull/71) |
 | Add "Back to Top" button in README | Medium | [#61](https://github.com/Xenonesis/code-guardian-report/issues/61) |
 | Feature Request: Add search bar | Medium | [#60](https://github.com/Xenonesis/code-guardian-report/issues/60) |
