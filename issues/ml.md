@@ -1235,25 +1235,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
-## 📌 Project: recode-website
-
-📝 **Description:** community blog website 
-
-🔗 [View Project](https://github.com/recodehive/recode-website)
-
-💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| chore: bump prettier from 3.6.2 to 3.7.2 | Easy | [#1231](https://github.com/recodehive/recode-website/pull/1231) |
-| Added sidebar for docker and changed its content | Easy | [#1230](https://github.com/recodehive/recode-website/pull/1230) |
-
----
-
 ## 📌 Project: Wisdom-Weaver
 
 📝 **Description:** Develop an AI-driven, multi-modal mental health support system that integrates NLP, emotion recognition, and reinforcement learning to provide real-time, adaptive mental health assistance using Spiritual Book *Bhagwat Geeta*
