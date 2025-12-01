@@ -69,7 +69,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📊 Weekly Project Summary - 11/28/2025 | Medium | [#701](https://github.com/abhisek2004/Dev-Elevate/issues/701) |
 | welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#700](https://github.com/abhisek2004/Dev-Elevate/issues/700) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -91,9 +90,14 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve / Fix S3 Bucket Usage | Easy | [#2760](https://github.com/OWASP/Nest/pull/2760) |
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
 | Add pointer cursor to Languages/Topics | Easy | [#2672](https://github.com/OWASP/Nest/issues/2672) |
-| Non-interactive <button> used in ModuleList component | Medium | [#2750](https://github.com/OWASP/Nest/issues/2750) |
+| Use markdown-it for mentorship portal summaries | Medium | [#2762](https://github.com/OWASP/Nest/pull/2762) |
+| removed indexing from repositories and projects that do not belong to any organization | Medium | [#2758](https://github.com/OWASP/Nest/pull/2758) |
+| Add skeleton loading states for About, Organization, and Snapshot pages | Medium | [#2757](https://github.com/OWASP/Nest/pull/2757) |
+| Add llms.txt file for Nest | Medium | [#2753](https://github.com/OWASP/Nest/issues/2753) |
+| Add comprehensive unit tests for ContributionHeatmap | Medium | [#2751](https://github.com/OWASP/Nest/pull/2751) |
 | Bump mkdocstrings from 0.30.1 to 1.0.0 in /docs | Medium | [#2745](https://github.com/OWASP/Nest/pull/2745) |
 | Changed light mode icon because it was misleading | Medium | [#2742](https://github.com/OWASP/Nest/pull/2742) |
 | fix: add keyboard navigation support | Medium | [#2737](https://github.com/OWASP/Nest/pull/2737) |
@@ -101,8 +105,6 @@ Accessibility features like dark mode,white.
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
 | feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 | NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
-| Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
-| active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
 
 ---
 
