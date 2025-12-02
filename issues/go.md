@@ -24,6 +24,7 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#700](https://github.com/abhisek2004/Dev-Elevate/issues/700) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
+| Bump the npm_and_yarn group across 2 directories with 1 update | Hard | [#705](https://github.com/abhisek2004/Dev-Elevate/pull/705) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 
@@ -195,7 +196,13 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Improve / Fix S3 Bucket Usage | Easy | [#2760](https://github.com/OWASP/Nest/pull/2760) |
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
-| Add pointer cursor to Languages/Topics | Easy | [#2672](https://github.com/OWASP/Nest/issues/2672) |
+| Bump express from 4.21.2 to 4.22.1 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#2772](https://github.com/OWASP/Nest/pull/2772) |
+| Improve `networking` Module | Medium | [#2770](https://github.com/OWASP/Nest/pull/2770) |
+| refactor: Extract hardcoded numbers to named constants in model mixins | Medium | [#2769](https://github.com/OWASP/Nest/pull/2769) |
+| Bump prettier from 3.7.2 to 3.7.3 in /frontend | Medium | [#2768](https://github.com/OWASP/Nest/pull/2768) |
+| Bump @graphql-codegen/typescript-operations from 5.0.5 to 5.0.6 in /frontend | Medium | [#2767](https://github.com/OWASP/Nest/pull/2767) |
+| Bump @graphql-codegen/typescript from 5.0.5 to 5.0.6 in /frontend | Medium | [#2766](https://github.com/OWASP/Nest/pull/2766) |
+| Bump @graphql-codegen/typed-document-node from 6.1.3 to 6.1.4 in /frontend | Medium | [#2765](https://github.com/OWASP/Nest/pull/2765) |
 | Use markdown-it for mentorship portal summaries | Medium | [#2762](https://github.com/OWASP/Nest/pull/2762) |
 | removed indexing from repositories and projects that do not belong to any organization | Medium | [#2758](https://github.com/OWASP/Nest/pull/2758) |
 | Add skeleton loading states for About, Organization, and Snapshot pages | Medium | [#2757](https://github.com/OWASP/Nest/pull/2757) |
@@ -206,8 +213,6 @@ Accessibility features like dark mode,white.
 | fix: add keyboard navigation support | Medium | [#2737](https://github.com/OWASP/Nest/pull/2737) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
-| feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
-| NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
 
 ---
 
@@ -1766,27 +1771,27 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump framer-motion from 11.18.2 to 12.23.25 | Medium | [#195](https://github.com/Ojas-Arora/SapneSeSafar/pull/195) |
+| Bump vite from 5.4.17 to 7.2.6 | Medium | [#194](https://github.com/Ojas-Arora/SapneSeSafar/pull/194) |
+| Bump zustand from 4.5.6 to 5.0.9 | Medium | [#193](https://github.com/Ojas-Arora/SapneSeSafar/pull/193) |
+| Bump @types/papaparse from 5.3.16 to 5.5.1 | Medium | [#192](https://github.com/Ojas-Arora/SapneSeSafar/pull/192) |
 | Bump recharts from 2.15.0 to 3.5.1 | Medium | [#191](https://github.com/Ojas-Arora/SapneSeSafar/pull/191) |
 | Bump lucide-react from 0.344.0 to 0.555.0 | Medium | [#190](https://github.com/Ojas-Arora/SapneSeSafar/pull/190) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.86.0 | Medium | [#189](https://github.com/Ojas-Arora/SapneSeSafar/pull/189) |
-| Bump vite from 5.4.17 to 7.2.4 | Medium | [#187](https://github.com/Ojas-Arora/SapneSeSafar/pull/187) |
 | Bump three from 0.161.0 to 0.181.2 | Medium | [#185](https://github.com/Ojas-Arora/SapneSeSafar/pull/185) |
 | Bump react-router-dom from 6.28.2 to 7.9.6 | Medium | [#182](https://github.com/Ojas-Arora/SapneSeSafar/pull/182) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.1 | Medium | [#181](https://github.com/Ojas-Arora/SapneSeSafar/pull/181) |
 | Bump autoprefixer from 10.4.20 to 10.4.22 | Medium | [#179](https://github.com/Ojas-Arora/SapneSeSafar/pull/179) |
 | Bump tailwindcss from 3.4.17 to 4.1.17 | Medium | [#171](https://github.com/Ojas-Arora/SapneSeSafar/pull/171) |
 | Bump eslint from 9.12.0 to 9.39.1 | Medium | [#170](https://github.com/Ojas-Arora/SapneSeSafar/pull/170) |
-| Bump @types/papaparse from 5.3.16 to 5.5.0 | Medium | [#169](https://github.com/Ojas-Arora/SapneSeSafar/pull/169) |
 | Bump axios from 1.7.9 to 1.13.2 | Medium | [#167](https://github.com/Ojas-Arora/SapneSeSafar/pull/167) |
 | Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.24 | Medium | [#145](https://github.com/Ojas-Arora/SapneSeSafar/pull/145) |
-| Bump framer-motion from 11.18.2 to 12.23.24 | Medium | [#143](https://github.com/Ojas-Arora/SapneSeSafar/pull/143) |
 | Bump react and @types/react | Medium | [#134](https://github.com/Ojas-Arora/SapneSeSafar/pull/134) |
 | Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
-| Bump zustand from 4.5.6 to 5.0.8 | Medium | [#82](https://github.com/Ojas-Arora/SapneSeSafar/pull/82) |
 | Feat: Sharks Details | Medium | [#60](https://github.com/Ojas-Arora/SapneSeSafar/issues/60) |
 | Feat: Connecting All Sharks CSV file with all Features | Medium | [#59](https://github.com/Ojas-Arora/SapneSeSafar/issues/59) |
 | Bump react, react-dom and @types/react | Medium | [#14](https://github.com/Ojas-Arora/SapneSeSafar/pull/14) |
