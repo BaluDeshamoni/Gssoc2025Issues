@@ -166,8 +166,18 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve / Fix S3 Bucket Usage | Easy | [#2760](https://github.com/OWASP/Nest/pull/2760) |
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
-| Add pointer cursor to Languages/Topics | Easy | [#2672](https://github.com/OWASP/Nest/issues/2672) |
+| Bump express from 4.21.2 to 4.22.1 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#2772](https://github.com/OWASP/Nest/pull/2772) |
+| Improve `networking` Module | Medium | [#2770](https://github.com/OWASP/Nest/pull/2770) |
+| refactor: Extract hardcoded numbers to named constants in model mixins | Medium | [#2769](https://github.com/OWASP/Nest/pull/2769) |
+| Bump prettier from 3.7.2 to 3.7.3 in /frontend | Medium | [#2768](https://github.com/OWASP/Nest/pull/2768) |
+| Bump @graphql-codegen/typescript-operations from 5.0.5 to 5.0.6 in /frontend | Medium | [#2767](https://github.com/OWASP/Nest/pull/2767) |
+| Bump @graphql-codegen/typescript from 5.0.5 to 5.0.6 in /frontend | Medium | [#2766](https://github.com/OWASP/Nest/pull/2766) |
+| Bump @graphql-codegen/typed-document-node from 6.1.3 to 6.1.4 in /frontend | Medium | [#2765](https://github.com/OWASP/Nest/pull/2765) |
+| Use markdown-it for mentorship portal summaries | Medium | [#2762](https://github.com/OWASP/Nest/pull/2762) |
+| removed indexing from repositories and projects that do not belong to any organization | Medium | [#2758](https://github.com/OWASP/Nest/pull/2758) |
+| Add skeleton loading states for About, Organization, and Snapshot pages | Medium | [#2757](https://github.com/OWASP/Nest/pull/2757) |
 | Add llms.txt file for Nest | Medium | [#2753](https://github.com/OWASP/Nest/issues/2753) |
 | Add comprehensive unit tests for ContributionHeatmap | Medium | [#2751](https://github.com/OWASP/Nest/pull/2751) |
 | Bump mkdocstrings from 0.30.1 to 1.0.0 in /docs | Medium | [#2745](https://github.com/OWASP/Nest/pull/2745) |
@@ -175,10 +185,6 @@
 | fix: add keyboard navigation support | Medium | [#2737](https://github.com/OWASP/Nest/pull/2737) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
-| feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
-| NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
-| Extract Repeated Error Messages to Constants | Medium | [#2641](https://github.com/OWASP/Nest/issues/2641) |
-| active navbar state does not update correctly. | Medium | [#2633](https://github.com/OWASP/Nest/issues/2633) |
 
 ---
 
@@ -379,7 +385,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the minor-and-patch group across 1 directory with 56 updates | Medium | [#373](https://github.com/Muneerali199/DocMagic/pull/373) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 57 updates | Medium | [#375](https://github.com/Muneerali199/DocMagic/pull/375) |
 | Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/DocMagic/pull/363) |
 | Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/DocMagic/pull/362) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
@@ -489,25 +495,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | UI Enhancement : Student Page | Medium | [#7](https://github.com/sailaja-adapa/GuruShish/issues/7) |
 | UI enhancement: Landing Page | Medium | [#5](https://github.com/sailaja-adapa/GuruShish/issues/5) |
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
-
----
-
-## 📌 Project: recode-website
-
-📝 **Description:** community blog website 
-
-🔗 [View Project](https://github.com/recodehive/recode-website)
-
-💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| chore: bump prettier from 3.6.2 to 3.7.2 | Easy | [#1231](https://github.com/recodehive/recode-website/pull/1231) |
-| Added sidebar for docker and changed its content | Easy | [#1230](https://github.com/recodehive/recode-website/pull/1230) |
 
 ---
 
@@ -1282,6 +1269,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| build(deps): bump express from 5.1.0 to 5.2.1 | Medium | [#97](https://github.com/dscnitrourkela/project-huckleberry/pull/97) |
 | build(deps): bump glob from 10.4.5 to 10.5.0 | Medium | [#96](https://github.com/dscnitrourkela/project-huckleberry/pull/96) |
 | build(deps): bump js-yaml from 4.1.0 to 4.1.1 | Medium | [#95](https://github.com/dscnitrourkela/project-huckleberry/pull/95) |
 | build(deps): bump next-auth from 5.0.0-beta.27 to 5.0.0-beta.30 | Medium | [#94](https://github.com/dscnitrourkela/project-huckleberry/pull/94) |
@@ -1309,7 +1297,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add new component creative/bubble-board | Medium | [#111](https://github.com/subhadeeproy3902/mvpblocks/pull/111) |
 | add new button | Medium | [#110](https://github.com/subhadeeproy3902/mvpblocks/pull/110) |
 | Feat/new components | Medium | [#109](https://github.com/subhadeeproy3902/mvpblocks/pull/109) |
 | add expandable cards | Medium | [#108](https://github.com/subhadeeproy3902/mvpblocks/pull/108) |
