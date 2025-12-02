@@ -55,6 +55,7 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#700](https://github.com/abhisek2004/Dev-Elevate/issues/700) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
+| Bump the npm_and_yarn group across 2 directories with 1 update | Hard | [#705](https://github.com/abhisek2004/Dev-Elevate/pull/705) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 
@@ -338,6 +339,31 @@ Schools, offices, and wellness centers looking to green their spaces
 | Homepage enhancements | Medium | [#97](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/97) |
 | UI Enhancements: Interactive Landing Page, Footer Redesign & GitHub Popup | Medium | [#92](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/92) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
+
+---
+
+## 📌 Project: Weather-API
+
+📝 **Description:** A simple yet powerful weather scraper built with Node.js, Express and Cheerio. This project dynamically fetches real-time weather data for any city, scrapes the necessary details, and presents them on an intuitive user interfaec.
+
+🔗 [View Project](https://github.com/GauravKarakoti/Weather-API)
+
+💻 **Tech Stack:** Express, Axios, Cheerio, Cors, Dotenv
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| npm(deps): bump nodemon from 3.1.10 to 3.1.11 | Medium | [#398](https://github.com/GauravKarakoti/Weather-API/pull/398) |
+| npm(deps-dev): bump jsdom from 27.1.0 to 27.2.0 | Medium | [#397](https://github.com/GauravKarakoti/Weather-API/pull/397) |
+| npm(deps): bump nodemailer from 7.0.10 to 7.0.11 | Medium | [#396](https://github.com/GauravKarakoti/Weather-API/pull/396) |
+| npm(deps-dev): bump prettier from 3.6.2 to 3.7.3 | Medium | [#395](https://github.com/GauravKarakoti/Weather-API/pull/395) |
+| npm(deps-dev): bump eslint from 9.39.0 to 9.39.1 | Medium | [#394](https://github.com/GauravKarakoti/Weather-API/pull/394) |
+| npm(deps): bump express from 5.1.0 to 5.2.0 | Medium | [#393](https://github.com/GauravKarakoti/Weather-API/pull/393) |
+| npm(deps-dev): bump glob from 11.0.3 to 13.0.0 | Medium | [#392](https://github.com/GauravKarakoti/Weather-API/pull/392) |
+| npm(deps-dev): bump sharp from 0.34.4 to 0.34.5 | Medium | [#391](https://github.com/GauravKarakoti/Weather-API/pull/391) |
 
 ---
 
@@ -695,6 +721,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| <Component> Add more GPU components | Medium | [#113](https://github.com/SamXop123/RigCrafter/issues/113) |
 | <Component> Add more RAM Components | Medium | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
 
 ---
