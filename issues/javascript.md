@@ -1108,6 +1108,28 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
+## 📌 Project: recode-website
+
+📝 **Description:** community blog website 
+
+🔗 [View Project](https://github.com/recodehive/recode-website)
+
+💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| chore: bump prettier from 3.6.2 to 3.7.3 | Easy | [#1238](https://github.com/recodehive/recode-website/pull/1238) |
+| chore: bump framer-motion from 12.23.24 to 12.23.25 | Medium | [#1237](https://github.com/recodehive/recode-website/pull/1237) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.48.1 | Medium | [#1236](https://github.com/recodehive/recode-website/pull/1236) |
+| chore: bump @vercel/analytics from 1.5.0 to 1.6.1 | Medium | [#1235](https://github.com/recodehive/recode-website/pull/1235) |
+| chore: bump @typescript-eslint/parser from 8.46.2 to 8.48.1 | Medium | [#1234](https://github.com/recodehive/recode-website/pull/1234) |
+
+---
+
 ## 📌 Project: faculty publication management 
 
 📝 **Description:** faculty publication  management 
@@ -2031,6 +2053,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump react-router-dom from 6.28.2 to 7.10.0 | Medium | [#196](https://github.com/Ojas-Arora/SapneSeSafar/pull/196) |
 | Bump framer-motion from 11.18.2 to 12.23.25 | Medium | [#195](https://github.com/Ojas-Arora/SapneSeSafar/pull/195) |
 | Bump vite from 5.4.17 to 7.2.6 | Medium | [#194](https://github.com/Ojas-Arora/SapneSeSafar/pull/194) |
 | Bump zustand from 4.5.6 to 5.0.9 | Medium | [#193](https://github.com/Ojas-Arora/SapneSeSafar/pull/193) |
@@ -2039,7 +2062,6 @@ Fast Workflow Tools
 | Bump lucide-react from 0.344.0 to 0.555.0 | Medium | [#190](https://github.com/Ojas-Arora/SapneSeSafar/pull/190) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.86.0 | Medium | [#189](https://github.com/Ojas-Arora/SapneSeSafar/pull/189) |
 | Bump three from 0.161.0 to 0.181.2 | Medium | [#185](https://github.com/Ojas-Arora/SapneSeSafar/pull/185) |
-| Bump react-router-dom from 6.28.2 to 7.9.6 | Medium | [#182](https://github.com/Ojas-Arora/SapneSeSafar/pull/182) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.1 | Medium | [#181](https://github.com/Ojas-Arora/SapneSeSafar/pull/181) |
 | Bump autoprefixer from 10.4.20 to 10.4.22 | Medium | [#179](https://github.com/Ojas-Arora/SapneSeSafar/pull/179) |
 | Bump tailwindcss from 3.4.17 to 4.1.17 | Medium | [#171](https://github.com/Ojas-Arora/SapneSeSafar/pull/171) |
