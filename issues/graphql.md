@@ -14,9 +14,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve `ecs` Module | Easy | [#2777](https://github.com/OWASP/Nest/pull/2777) |
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
-| Add pointer cursor to Languages/Topics | Easy | [#2672](https://github.com/OWASP/Nest/issues/2672) |
+| fix: add missing type attributes on buttons | Medium | [#2789](https://github.com/OWASP/Nest/pull/2789) |
+| Enable coverage for API Keys page and improve deterministic test quality | Medium | [#2788](https://github.com/OWASP/Nest/pull/2788) |
+| Bump python from 3.13.7-alpine to 3.14.1-alpine in /docs/docker | Medium | [#2787](https://github.com/OWASP/Nest/pull/2787) |
+| Bump python from 3.13.7-alpine to 3.14.1-alpine in /backend/docker | Medium | [#2786](https://github.com/OWASP/Nest/pull/2786) |
+| Improve `ecs` Module | Medium | [#2777](https://github.com/OWASP/Nest/pull/2777) |
 | Optimize GitHub Workflows with Path Filtering or [FEATURE] Reduce Unnecessary CI/CD Runs | Medium | [#2776](https://github.com/OWASP/Nest/issues/2776) |
 | Improve `networking` Module | Medium | [#2770](https://github.com/OWASP/Nest/pull/2770) |
 | refactor: Extract hardcoded numbers to named constants in model mixins | Medium | [#2769](https://github.com/OWASP/Nest/pull/2769) |
