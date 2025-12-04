@@ -2128,6 +2128,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump react-dom and @types/react-dom | Medium | [#198](https://github.com/Ojas-Arora/SapneSeSafar/pull/198) |
+| Bump react and @types/react | Medium | [#197](https://github.com/Ojas-Arora/SapneSeSafar/pull/197) |
 | Bump react-router-dom from 6.28.2 to 7.10.0 | Medium | [#196](https://github.com/Ojas-Arora/SapneSeSafar/pull/196) |
 | Bump framer-motion from 11.18.2 to 12.23.25 | Medium | [#195](https://github.com/Ojas-Arora/SapneSeSafar/pull/195) |
 | Bump vite from 5.4.17 to 7.2.6 | Medium | [#194](https://github.com/Ojas-Arora/SapneSeSafar/pull/194) |
@@ -2145,8 +2147,6 @@ Fast Workflow Tools
 | Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.24 | Medium | [#145](https://github.com/Ojas-Arora/SapneSeSafar/pull/145) |
-| Bump react and @types/react | Medium | [#134](https://github.com/Ojas-Arora/SapneSeSafar/pull/134) |
-| Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
 | Feat: Sharks Details | Medium | [#60](https://github.com/Ojas-Arora/SapneSeSafar/issues/60) |
