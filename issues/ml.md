@@ -1236,6 +1236,28 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
+## 📌 Project: recode-website
+
+📝 **Description:** community blog website 
+
+🔗 [View Project](https://github.com/recodehive/recode-website)
+
+💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| chore: bump prettier from 3.6.2 to 3.7.3 | Easy | [#1238](https://github.com/recodehive/recode-website/pull/1238) |
+| chore: bump framer-motion from 12.23.24 to 12.23.25 | Medium | [#1237](https://github.com/recodehive/recode-website/pull/1237) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.48.1 | Medium | [#1236](https://github.com/recodehive/recode-website/pull/1236) |
+| chore: bump @vercel/analytics from 1.5.0 to 1.6.1 | Medium | [#1235](https://github.com/recodehive/recode-website/pull/1235) |
+| chore: bump @typescript-eslint/parser from 8.46.2 to 8.48.1 | Medium | [#1234](https://github.com/recodehive/recode-website/pull/1234) |
+
+---
+
 ## 📌 Project: Wisdom-Weaver
 
 📝 **Description:** Develop an AI-driven, multi-modal mental health support system that integrates NLP, emotion recognition, and reinforcement learning to provide real-time, adaptive mental health assistance using Spiritual Book *Bhagwat Geeta*
