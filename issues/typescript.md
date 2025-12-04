@@ -69,9 +69,10 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve crash in notes page and add missing css resources (Issue #622) | Medium | [#708](https://github.com/abhisek2004/Dev-Elevate/pull/708) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
+| 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
+| 📚 Notes & Resources – Fix Broken Notes | Hard | [#622](https://github.com/abhisek2004/Dev-Elevate/issues/622) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 
 ---
@@ -90,9 +91,12 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve `ecs` Module | Easy | [#2777](https://github.com/OWASP/Nest/pull/2777) |
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
-| Add pointer cursor to Languages/Topics | Easy | [#2672](https://github.com/OWASP/Nest/issues/2672) |
+| fix: add missing type attributes on buttons | Medium | [#2789](https://github.com/OWASP/Nest/pull/2789) |
+| Enable coverage for API Keys page and improve deterministic test quality | Medium | [#2788](https://github.com/OWASP/Nest/pull/2788) |
+| Bump python from 3.13.7-alpine to 3.14.1-alpine in /docs/docker | Medium | [#2787](https://github.com/OWASP/Nest/pull/2787) |
+| Bump python from 3.13.7-alpine to 3.14.1-alpine in /backend/docker | Medium | [#2786](https://github.com/OWASP/Nest/pull/2786) |
+| Improve `ecs` Module | Medium | [#2777](https://github.com/OWASP/Nest/pull/2777) |
 | Optimize GitHub Workflows with Path Filtering or [FEATURE] Reduce Unnecessary CI/CD Runs | Medium | [#2776](https://github.com/OWASP/Nest/issues/2776) |
 | Improve `networking` Module | Medium | [#2770](https://github.com/OWASP/Nest/pull/2770) |
 | refactor: Extract hardcoded numbers to named constants in model mixins | Medium | [#2769](https://github.com/OWASP/Nest/pull/2769) |
@@ -864,9 +868,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |----------|----------------|---------|
 | Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Easy | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 | Phase - 1 Issue 4: Frontend Typography and Design System | Easy | [#13](https://github.com/dscnitrourkela/project-xangoes/issues/13) |
+| chore(deps): bump next from 15.3.5 to 15.4.8 in /client | Medium | [#22](https://github.com/dscnitrourkela/project-xangoes/pull/22) |
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Medium | [#20](https://github.com/dscnitrourkela/project-xangoes/pull/20) |
 | Login and Signup Page #9 | Medium | [#19](https://github.com/dscnitrourkela/project-xangoes/pull/19) |
-| chore(deps): bump next from 15.3.5 to 15.4.7 in /client | Medium | [#17](https://github.com/dscnitrourkela/project-xangoes/pull/17) |
 
 ---
 
@@ -1053,6 +1057,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump react-dom and @types/react-dom | Medium | [#198](https://github.com/Ojas-Arora/SapneSeSafar/pull/198) |
+| Bump react and @types/react | Medium | [#197](https://github.com/Ojas-Arora/SapneSeSafar/pull/197) |
 | Bump react-router-dom from 6.28.2 to 7.10.0 | Medium | [#196](https://github.com/Ojas-Arora/SapneSeSafar/pull/196) |
 | Bump framer-motion from 11.18.2 to 12.23.25 | Medium | [#195](https://github.com/Ojas-Arora/SapneSeSafar/pull/195) |
 | Bump vite from 5.4.17 to 7.2.6 | Medium | [#194](https://github.com/Ojas-Arora/SapneSeSafar/pull/194) |
@@ -1070,8 +1076,6 @@ Fast Workflow Tools
 | Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.24 | Medium | [#145](https://github.com/Ojas-Arora/SapneSeSafar/pull/145) |
-| Bump react and @types/react | Medium | [#134](https://github.com/Ojas-Arora/SapneSeSafar/pull/134) |
-| Bump react-dom and @types/react-dom | Medium | [#130](https://github.com/Ojas-Arora/SapneSeSafar/pull/130) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
 | Feat: Sharks Details | Medium | [#60](https://github.com/Ojas-Arora/SapneSeSafar/issues/60) |
