@@ -121,10 +121,10 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| CONGRATULATIONS PAGE | Easy | [#53](https://github.com/sayan0328/WallGodds-App/issues/53) |
-| [UPLOAD PAGE] EDIT WALLPAPER POPUP | Easy | [#52](https://github.com/sayan0328/WallGodds-App/issues/52) |
-| [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/sayan0328/WallGodds-App/issues/47) |
-| 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
+| CONGRATULATIONS PAGE | Easy | [#53](https://github.com/WallGodds/WallGodds-App/issues/53) |
+| [UPLOAD PAGE] EDIT WALLPAPER POPUP | Easy | [#52](https://github.com/WallGodds/WallGodds-App/issues/52) |
+| [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/WallGodds/WallGodds-App/issues/47) |
+| 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/WallGodds/WallGodds-App/issues/1) |
 
 ---
 
