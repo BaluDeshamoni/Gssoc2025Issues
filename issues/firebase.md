@@ -126,16 +126,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| NEW HOME PAGE | Easy | [#146](https://github.com/Parnab03/WallGodds/issues/146) |
-| WallGodds IMPRESSION (macOS Preview) | Easy | [#139](https://github.com/Parnab03/WallGodds/issues/139) |
-| PROFILE PAGE | Easy | [#130](https://github.com/Parnab03/WallGodds/issues/130) |
-| UPLOAD PAGE FOR MOBILE WALLPAPERS | Easy | [#128](https://github.com/Parnab03/WallGodds/issues/128) |
-| UPLOAD PAGE FOR TABLET WALLPAPERS | Easy | [#127](https://github.com/Parnab03/WallGodds/issues/127) |
-| UPLOAD PAGE FOR DESKTOP WALLPAPERS | Easy | [#126](https://github.com/Parnab03/WallGodds/issues/126) |
-| ABOUT US IN MOBILE VERSION | Easy | [#88](https://github.com/Parnab03/WallGodds/issues/88) |
-| 🌱 Fix the Responsiveness of the Gallery Page | Easy | [#87](https://github.com/Parnab03/WallGodds/issues/87) |
-| Implement Feedback Page for user suggestions and bug reports [Accepted and waiting for design] | Medium | [#123](https://github.com/Parnab03/WallGodds/issues/123) |
-| DALL-E Integration for AI Image Generation [Accepted & Waiting for Backend Integration] | Medium | [#111](https://github.com/Parnab03/WallGodds/issues/111) |
+| NEW HOME PAGE | Easy | [#146](https://github.com/WallGodds/WallGodds-Web/issues/146) |
+| WallGodds IMPRESSION (macOS Preview) | Easy | [#139](https://github.com/WallGodds/WallGodds-Web/issues/139) |
+| PROFILE PAGE | Easy | [#130](https://github.com/WallGodds/WallGodds-Web/issues/130) |
+| UPLOAD PAGE FOR MOBILE WALLPAPERS | Easy | [#128](https://github.com/WallGodds/WallGodds-Web/issues/128) |
+| UPLOAD PAGE FOR TABLET WALLPAPERS | Easy | [#127](https://github.com/WallGodds/WallGodds-Web/issues/127) |
+| UPLOAD PAGE FOR DESKTOP WALLPAPERS | Easy | [#126](https://github.com/WallGodds/WallGodds-Web/issues/126) |
+| ABOUT US IN MOBILE VERSION | Easy | [#88](https://github.com/WallGodds/WallGodds-Web/issues/88) |
+| 🌱 Fix the Responsiveness of the Gallery Page | Easy | [#87](https://github.com/WallGodds/WallGodds-Web/issues/87) |
+| Implement Feedback Page for user suggestions and bug reports [Accepted and waiting for design] | Medium | [#123](https://github.com/WallGodds/WallGodds-Web/issues/123) |
+| DALL-E Integration for AI Image Generation [Accepted & Waiting for Backend Integration] | Medium | [#111](https://github.com/WallGodds/WallGodds-Web/issues/111) |
 
 ---
 
@@ -239,10 +239,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| CONGRATULATIONS PAGE | Easy | [#53](https://github.com/sayan0328/WallGodds-App/issues/53) |
-| [UPLOAD PAGE] EDIT WALLPAPER POPUP | Easy | [#52](https://github.com/sayan0328/WallGodds-App/issues/52) |
-| [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/sayan0328/WallGodds-App/issues/47) |
-| 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/sayan0328/WallGodds-App/issues/1) |
+| CONGRATULATIONS PAGE | Easy | [#53](https://github.com/WallGodds/WallGodds-App/issues/53) |
+| [UPLOAD PAGE] EDIT WALLPAPER POPUP | Easy | [#52](https://github.com/WallGodds/WallGodds-App/issues/52) |
+| [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/WallGodds/WallGodds-App/issues/47) |
+| 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/WallGodds/WallGodds-App/issues/1) |
 
 ---
 
