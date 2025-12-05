@@ -22,6 +22,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump jws from 3.2.2 to 3.2.3 in /DevElevate/Server in the npm_and_yarn group across 1 directory | Medium | [#716](https://github.com/abhisek2004/Dev-Elevate/pull/716) |
+| 📊 Weekly Project Summary - 12/4/2025 | Medium | [#715](https://github.com/abhisek2004/Dev-Elevate/issues/715) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -1068,7 +1070,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🚀 Let’s Build Something Real — A Developer Community Beyond Certificates | Medium | [#305](https://github.com/dipexplorer/LegalHuB/issues/305) |
 | 🚨 Contributor Guidelines & Etiquette | Medium | [#293](https://github.com/dipexplorer/LegalHuB/issues/293) |
 | Enhance Notification Page with Auto-Delete and User-Controlled Deletion | Medium | [#233](https://github.com/dipexplorer/LegalHuB/issues/233) |
 | Add Contributor Spotlight & Top Contributors Section and Animate Contributor Cards  for contributor page | Medium | [#227](https://github.com/dipexplorer/LegalHuB/issues/227) |
