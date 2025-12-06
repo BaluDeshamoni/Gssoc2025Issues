@@ -307,24 +307,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 ---
 
-## 📌 Project: Metal Sheet Defect Detector
-
-📝 **Description:** Detect Defects in metal sheets used to make the body of vehicles
-
-🔗 [View Project](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector.git)
-
-💻 **Tech Stack:** Python, Flask, YOLO, React
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added Code of Conduct | Medium | [#11](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/11) |
-
----
-
 ## 📌 Project: CKsEdu
 
 📝 **Description:** CKsEdu is a smart university platform that bridges students and faculty through real-time mentoring, academic collaboration, and AI-powered productivity tools. It creates a connected and supportive learning ecosystem tailored for university life.
