@@ -100,12 +100,11 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump jws from 3.2.2 to 3.2.3 in /DevElevate/Server in the npm_and_yarn group across 1 directory | Medium | [#716](https://github.com/abhisek2004/Dev-Elevate/pull/716) |
-| 📊 Weekly Project Summary - 12/4/2025 | Medium | [#715](https://github.com/abhisek2004/Dev-Elevate/issues/715) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
 | 📚 Notes & Resources – Fix Broken Notes | Hard | [#622](https://github.com/abhisek2004/Dev-Elevate/issues/622) |
+| 🎯 Learning Progress & Completed Goals — Backend Integration | Hard | [#619](https://github.com/abhisek2004/Dev-Elevate/issues/619) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 
 ---
@@ -256,21 +255,22 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
+| improved test for src/app/my/** | Medium | [#2817](https://github.com/OWASP/Nest/pull/2817) |
+| Replace Truncator with common.utils.truncate | Medium | [#2816](https://github.com/OWASP/Nest/pull/2816) |
+| Make Improvements to Infrastructure Code | Medium | [#2812](https://github.com/OWASP/Nest/pull/2812) |
+| Improve `database` Module | Medium | [#2810](https://github.com/OWASP/Nest/pull/2810) |
+| Incorrect Error Constructor Usage | Medium | [#2803](https://github.com/OWASP/Nest/issues/2803) |
+| feat: add admin method docstrings | Medium | [#2802](https://github.com/OWASP/Nest/pull/2802) |
 | Fixed cursor pointer tags | Medium | [#2796](https://github.com/OWASP/Nest/pull/2796) |
-| Improve Sponsor Logo Contrast in Dark Mode | Medium | [#2791](https://github.com/OWASP/Nest/issues/2791) |
 | fix: add missing type attributes on buttons | Medium | [#2789](https://github.com/OWASP/Nest/pull/2789) |
 | Enable coverage for API Keys page and improve deterministic test quality | Medium | [#2788](https://github.com/OWASP/Nest/pull/2788) |
 | Bump python from 3.13.7-alpine to 3.14.1-alpine in /docs/docker | Medium | [#2787](https://github.com/OWASP/Nest/pull/2787) |
 | Bump python from 3.13.7-alpine to 3.14.1-alpine in /backend/docker | Medium | [#2786](https://github.com/OWASP/Nest/pull/2786) |
-| Improve `ecs` Module | Medium | [#2777](https://github.com/OWASP/Nest/pull/2777) |
 | Optimize GitHub Workflows with Path Filtering or [FEATURE] Reduce Unnecessary CI/CD Runs | Medium | [#2776](https://github.com/OWASP/Nest/issues/2776) |
-| refactor: Extract hardcoded numbers to named constants in model mixins | Medium | [#2769](https://github.com/OWASP/Nest/pull/2769) |
 | Use markdown-it for mentorship portal summaries | Medium | [#2762](https://github.com/OWASP/Nest/pull/2762) |
-| removed indexing from repositories and projects that do not belong to any organization | Medium | [#2758](https://github.com/OWASP/Nest/pull/2758) |
 | Add skeleton loading states for About, Organization, and Snapshot pages | Medium | [#2757](https://github.com/OWASP/Nest/pull/2757) |
 | Add llms.txt file for Nest | Medium | [#2753](https://github.com/OWASP/Nest/issues/2753) |
-| Bump mkdocstrings from 0.30.1 to 1.0.0 in /docs | Medium | [#2745](https://github.com/OWASP/Nest/pull/2745) |
-| Changed light mode icon because it was misleading | Medium | [#2742](https://github.com/OWASP/Nest/pull/2742) |
+| Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
 
 ---
 
@@ -1634,7 +1634,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add scroll-to-top button in footer | Medium | [#41](https://github.com/AkashJana18/statify/pull/41) |
-| Added Code of Conduct | Medium | [#38](https://github.com/AkashJana18/statify/pull/38) |
 | Plan the Backend Architecture for Statify using Node.js | Medium | [#25](https://github.com/AkashJana18/statify/issues/25) |
 
 ---
@@ -2056,9 +2055,7 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Clear Setup and Contribution Instructions to README | Medium | [#13](https://github.com/kunal0297/Nexus_dawn/issues/13) |
-| Added Contributing.md | Medium | [#12](https://github.com/kunal0297/Nexus_dawn/pull/12) |
 | Add a CONTRIBUTING.md file for better onboarding #8 | Medium | [#11](https://github.com/kunal0297/Nexus_dawn/pull/11) |
-| Added Code of Conduct | Medium | [#4](https://github.com/kunal0297/Nexus_dawn/pull/4) |
 
 ---
 
