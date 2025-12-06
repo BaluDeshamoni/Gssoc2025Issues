@@ -303,23 +303,22 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
+| improved test for src/app/my/** | Medium | [#2817](https://github.com/OWASP/Nest/pull/2817) |
+| Replace Truncator with common.utils.truncate | Medium | [#2816](https://github.com/OWASP/Nest/pull/2816) |
+| Make Improvements to Infrastructure Code | Medium | [#2812](https://github.com/OWASP/Nest/pull/2812) |
+| Improve `database` Module | Medium | [#2810](https://github.com/OWASP/Nest/pull/2810) |
+| Incorrect Error Constructor Usage | Medium | [#2803](https://github.com/OWASP/Nest/issues/2803) |
+| feat: add admin method docstrings | Medium | [#2802](https://github.com/OWASP/Nest/pull/2802) |
+| Fixed cursor pointer tags | Medium | [#2796](https://github.com/OWASP/Nest/pull/2796) |
 | fix: add missing type attributes on buttons | Medium | [#2789](https://github.com/OWASP/Nest/pull/2789) |
 | Enable coverage for API Keys page and improve deterministic test quality | Medium | [#2788](https://github.com/OWASP/Nest/pull/2788) |
 | Bump python from 3.13.7-alpine to 3.14.1-alpine in /docs/docker | Medium | [#2787](https://github.com/OWASP/Nest/pull/2787) |
 | Bump python from 3.13.7-alpine to 3.14.1-alpine in /backend/docker | Medium | [#2786](https://github.com/OWASP/Nest/pull/2786) |
-| Improve `ecs` Module | Medium | [#2777](https://github.com/OWASP/Nest/pull/2777) |
 | Optimize GitHub Workflows with Path Filtering or [FEATURE] Reduce Unnecessary CI/CD Runs | Medium | [#2776](https://github.com/OWASP/Nest/issues/2776) |
-| Improve `networking` Module | Medium | [#2770](https://github.com/OWASP/Nest/pull/2770) |
-| refactor: Extract hardcoded numbers to named constants in model mixins | Medium | [#2769](https://github.com/OWASP/Nest/pull/2769) |
 | Use markdown-it for mentorship portal summaries | Medium | [#2762](https://github.com/OWASP/Nest/pull/2762) |
-| removed indexing from repositories and projects that do not belong to any organization | Medium | [#2758](https://github.com/OWASP/Nest/pull/2758) |
 | Add skeleton loading states for About, Organization, and Snapshot pages | Medium | [#2757](https://github.com/OWASP/Nest/pull/2757) |
 | Add llms.txt file for Nest | Medium | [#2753](https://github.com/OWASP/Nest/issues/2753) |
-| Bump mkdocstrings from 0.30.1 to 1.0.0 in /docs | Medium | [#2745](https://github.com/OWASP/Nest/pull/2745) |
-| Changed light mode icon because it was misleading | Medium | [#2742](https://github.com/OWASP/Nest/pull/2742) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
-| Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
-| feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 
 ---
 
@@ -2287,29 +2286,10 @@ Why Jeanne?
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🚀 Let’s Build Something Real — A Developer Community Beyond Certificates | Medium | [#305](https://github.com/dipexplorer/LegalHuB/issues/305) |
 | 🚨 Contributor Guidelines & Etiquette | Medium | [#293](https://github.com/dipexplorer/LegalHuB/issues/293) |
 | Enhance Notification Page with Auto-Delete and User-Controlled Deletion | Medium | [#233](https://github.com/dipexplorer/LegalHuB/issues/233) |
 | Add Contributor Spotlight & Top Contributors Section and Animate Contributor Cards  for contributor page | Medium | [#227](https://github.com/dipexplorer/LegalHuB/issues/227) |
 | Implement Search, Sort, and Filter Controls for contributor page | Hard | [#226](https://github.com/dipexplorer/LegalHuB/issues/226) |
-
----
-
-## 📌 Project: Metal Sheet Defect Detector
-
-📝 **Description:** Detect Defects in metal sheets used to make the body of vehicles
-
-🔗 [View Project](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector.git)
-
-💻 **Tech Stack:** Python, Flask, YOLO, React
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added Code of Conduct | Medium | [#11](https://github.com/FarhanK20-hub/Metal-Sheet-Defect-Detector/pull/11) |
 
 ---
 
@@ -2454,9 +2434,7 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Clear Setup and Contribution Instructions to README | Medium | [#13](https://github.com/kunal0297/Nexus_dawn/issues/13) |
-| Added Contributing.md | Medium | [#12](https://github.com/kunal0297/Nexus_dawn/pull/12) |
 | Add a CONTRIBUTING.md file for better onboarding #8 | Medium | [#11](https://github.com/kunal0297/Nexus_dawn/pull/11) |
-| Added Code of Conduct | Medium | [#4](https://github.com/kunal0297/Nexus_dawn/pull/4) |
 
 ---
 
@@ -2869,7 +2847,6 @@ Fast Workflow Tools
 | Feature: Theme Toggle Button with Full-Site Integration | Medium | [#29](https://github.com/SaishGhatol/quiz-portal/pull/29) |
 | Enhancement(navbar): Redesign and refactor navbar for polished, scalable UI | Medium | [#28](https://github.com/SaishGhatol/quiz-portal/issues/28) |
 | Feature: Add the Profile image | Medium | [#19](https://github.com/SaishGhatol/quiz-portal/issues/19) |
-| Added Code of Conduct file | Medium | [#17](https://github.com/SaishGhatol/quiz-portal/pull/17) |
 | Leaderboard UI Component | Hard | [#10](https://github.com/SaishGhatol/quiz-portal/issues/10) |
 
 ---
