@@ -215,23 +215,21 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Make Improvements to Infrastructure Code | Easy | [#2812](https://github.com/OWASP/Nest/pull/2812) |
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
+| fix: incorrect Error constructor syntax in files | Medium | [#2824](https://github.com/OWASP/Nest/pull/2824) |
+| fix(nav): add pointer cursor to 'community' dropdown | Medium | [#2821](https://github.com/OWASP/Nest/pull/2821) |
 | improved test for src/app/my/** | Medium | [#2817](https://github.com/OWASP/Nest/pull/2817) |
-| Replace Truncator with common.utils.truncate | Medium | [#2816](https://github.com/OWASP/Nest/pull/2816) |
-| Make Improvements to Infrastructure Code | Medium | [#2812](https://github.com/OWASP/Nest/pull/2812) |
-| Improve `database` Module | Medium | [#2810](https://github.com/OWASP/Nest/pull/2810) |
-| Incorrect Error Constructor Usage | Medium | [#2803](https://github.com/OWASP/Nest/issues/2803) |
 | feat: add admin method docstrings | Medium | [#2802](https://github.com/OWASP/Nest/pull/2802) |
 | Fixed cursor pointer tags | Medium | [#2796](https://github.com/OWASP/Nest/pull/2796) |
-| fix: add missing type attributes on buttons | Medium | [#2789](https://github.com/OWASP/Nest/pull/2789) |
 | Enable coverage for API Keys page and improve deterministic test quality | Medium | [#2788](https://github.com/OWASP/Nest/pull/2788) |
 | Bump python from 3.13.7-alpine to 3.14.1-alpine in /docs/docker | Medium | [#2787](https://github.com/OWASP/Nest/pull/2787) |
 | Bump python from 3.13.7-alpine to 3.14.1-alpine in /backend/docker | Medium | [#2786](https://github.com/OWASP/Nest/pull/2786) |
 | Optimize GitHub Workflows with Path Filtering or [FEATURE] Reduce Unnecessary CI/CD Runs | Medium | [#2776](https://github.com/OWASP/Nest/issues/2776) |
 | Use markdown-it for mentorship portal summaries | Medium | [#2762](https://github.com/OWASP/Nest/pull/2762) |
-| Add skeleton loading states for About, Organization, and Snapshot pages | Medium | [#2757](https://github.com/OWASP/Nest/pull/2757) |
 | Add llms.txt file for Nest | Medium | [#2753](https://github.com/OWASP/Nest/issues/2753) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
+| Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
 
 ---
 
@@ -262,7 +260,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Refactor repeated header and profile menu into Jinja2 includes | Medium | [#172](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/172) |
 | Add client-side form validation for all user input forms | Medium | [#171](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/171) |
 | Add automated tests for backend API endpoints error handling | Medium | [#168](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/168) |
-| Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
 | Added doctor specialist recommendation feature | Medium | [#133](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/133) |
 
@@ -670,10 +667,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Added Website Style + More examples | Medium | [#43](https://github.com/etsi-ai/etsi-watchdog/pull/43) |
 | Feature/concept drift detection | Medium | [#42](https://github.com/etsi-ai/etsi-watchdog/pull/42) |
 | Add Gaussian Process drift detection (closes #25) | Medium | [#41](https://github.com/etsi-ai/etsi-watchdog/pull/41) |
-| feat(cli): Add command-line interface | Medium | [#39](https://github.com/etsi-ai/etsi-watchdog/pull/39) |
 | Improvement in Documentation Website UI | Medium | [#37](https://github.com/etsi-ai/etsi-watchdog/issues/37) |
 | feat: Add tree-based drift detection module and tests | Medium | [#35](https://github.com/etsi-ai/etsi-watchdog/pull/35) |
-| feat: Add YAML configuration support | Medium | [#19](https://github.com/etsi-ai/etsi-watchdog/pull/19) |
 
 ---
 
@@ -816,6 +811,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Dataset Schema Validation | Medium | [#52](https://github.com/etsi-ai/etsi-failprint/pull/52) |
 | Add Dataset Schema Validation Before Analysis | Medium | [#51](https://github.com/etsi-ai/etsi-failprint/issues/51) |
 | failprint.log committed inside the repository | Medium | [#50](https://github.com/etsi-ai/etsi-failprint/issues/50) |
 | Added Matplotlib Visualization of Feature Importance in model failure | Medium | [#48](https://github.com/etsi-ai/etsi-failprint/pull/48) |
