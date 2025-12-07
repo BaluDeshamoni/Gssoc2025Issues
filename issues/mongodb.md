@@ -22,12 +22,11 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump jws from 3.2.2 to 3.2.3 in /DevElevate/Server in the npm_and_yarn group across 1 directory | Medium | [#716](https://github.com/abhisek2004/Dev-Elevate/pull/716) |
-| 📊 Weekly Project Summary - 12/4/2025 | Medium | [#715](https://github.com/abhisek2004/Dev-Elevate/issues/715) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
 | 📚 Notes & Resources – Fix Broken Notes | Hard | [#622](https://github.com/abhisek2004/Dev-Elevate/issues/622) |
+| 🎯 Learning Progress & Completed Goals — Backend Integration | Hard | [#619](https://github.com/abhisek2004/Dev-Elevate/issues/619) |
 | 🧭 Admin Dashboard — Backend Integration | Hard | [#617](https://github.com/abhisek2004/Dev-Elevate/issues/617) |
 
 ---
@@ -1435,7 +1434,6 @@ Fast Workflow Tools
 | Feature: Theme Toggle Button with Full-Site Integration | Medium | [#29](https://github.com/SaishGhatol/quiz-portal/pull/29) |
 | Enhancement(navbar): Redesign and refactor navbar for polished, scalable UI | Medium | [#28](https://github.com/SaishGhatol/quiz-portal/issues/28) |
 | Feature: Add the Profile image | Medium | [#19](https://github.com/SaishGhatol/quiz-portal/issues/19) |
-| Added Code of Conduct file | Medium | [#17](https://github.com/SaishGhatol/quiz-portal/pull/17) |
 | Leaderboard UI Component | Hard | [#10](https://github.com/SaishGhatol/quiz-portal/issues/10) |
 
 ---
