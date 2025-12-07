@@ -376,23 +376,23 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance Contact Page UI/UX | Medium | [#1707](https://github.com/itsAnimation/AnimateItNow/issues/1707) |
-| Added my new feature and fixed footer | Medium | [#1706](https://github.com/itsAnimation/AnimateItNow/pull/1706) |
-| Enhancement: Refine dark mode theme & UI consistency for Feedback Page | Medium | [#1705](https://github.com/itsAnimation/AnimateItNow/pull/1705) |
-| Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/itsAnimation/AnimateItNow/issues/1704) |
-| contributor page enhancement | Medium | [#1703](https://github.com/itsAnimation/AnimateItNow/issues/1703) |
-| Contact Page UI/UX with Modern Interactions and Animations | Medium | [#1702](https://github.com/itsAnimation/AnimateItNow/issues/1702) |
-| Enhancing feedback page | Medium | [#1701](https://github.com/itsAnimation/AnimateItNow/issues/1701) |
-| dark/light theme for signup implemented | Medium | [#1692](https://github.com/itsAnimation/AnimateItNow/pull/1692) |
-| Improved UI/UX by updating colors and removing 'Get Started' button | Medium | [#1691](https://github.com/itsAnimation/AnimateItNow/pull/1691) |
-| updated show/hide toggle in signup | Medium | [#1690](https://github.com/itsAnimation/AnimateItNow/pull/1690) |
-| dark mode implemented in contributors page | Medium | [#1686](https://github.com/itsAnimation/AnimateItNow/pull/1686) |
-| dropdown color change for resource n community | Medium | [#1670](https://github.com/itsAnimation/AnimateItNow/pull/1670) |
-| dropdown color change for resource n community | Medium | [#1669](https://github.com/itsAnimation/AnimateItNow/pull/1669) |
-| fixed UI of coming soon page | Medium | [#1668](https://github.com/itsAnimation/AnimateItNow/pull/1668) |
-| Styled navbar properly for Components page. | Medium | [#1667](https://github.com/itsAnimation/AnimateItNow/pull/1667) |
-| Styled navbar properly for about page. | Medium | [#1666](https://github.com/itsAnimation/AnimateItNow/pull/1666) |
-| Styled dark mode for login page for UI consistency. | Medium | [#1665](https://github.com/itsAnimation/AnimateItNow/pull/1665) |
+| Enhance Contact Page UI/UX | Medium | [#1707](https://github.com/AnujShrivastava01/AnimateItNow/issues/1707) |
+| Added my new feature and fixed footer | Medium | [#1706](https://github.com/AnujShrivastava01/AnimateItNow/pull/1706) |
+| Enhancement: Refine dark mode theme & UI consistency for Feedback Page | Medium | [#1705](https://github.com/AnujShrivastava01/AnimateItNow/pull/1705) |
+| Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/AnujShrivastava01/AnimateItNow/issues/1704) |
+| contributor page enhancement | Medium | [#1703](https://github.com/AnujShrivastava01/AnimateItNow/issues/1703) |
+| Contact Page UI/UX with Modern Interactions and Animations | Medium | [#1702](https://github.com/AnujShrivastava01/AnimateItNow/issues/1702) |
+| Enhancing feedback page | Medium | [#1701](https://github.com/AnujShrivastava01/AnimateItNow/issues/1701) |
+| dark/light theme for signup implemented | Medium | [#1692](https://github.com/AnujShrivastava01/AnimateItNow/pull/1692) |
+| Improved UI/UX by updating colors and removing 'Get Started' button | Medium | [#1691](https://github.com/AnujShrivastava01/AnimateItNow/pull/1691) |
+| updated show/hide toggle in signup | Medium | [#1690](https://github.com/AnujShrivastava01/AnimateItNow/pull/1690) |
+| dark mode implemented in contributors page | Medium | [#1686](https://github.com/AnujShrivastava01/AnimateItNow/pull/1686) |
+| dropdown color change for resource n community | Medium | [#1670](https://github.com/AnujShrivastava01/AnimateItNow/pull/1670) |
+| dropdown color change for resource n community | Medium | [#1669](https://github.com/AnujShrivastava01/AnimateItNow/pull/1669) |
+| fixed UI of coming soon page | Medium | [#1668](https://github.com/AnujShrivastava01/AnimateItNow/pull/1668) |
+| Styled navbar properly for Components page. | Medium | [#1667](https://github.com/AnujShrivastava01/AnimateItNow/pull/1667) |
+| Styled navbar properly for about page. | Medium | [#1666](https://github.com/AnujShrivastava01/AnimateItNow/pull/1666) |
+| Styled dark mode for login page for UI consistency. | Medium | [#1665](https://github.com/AnujShrivastava01/AnimateItNow/pull/1665) |
 
 ---
 
@@ -511,7 +511,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Refactor repeated header and profile menu into Jinja2 includes | Medium | [#172](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/172) |
 | Add client-side form validation for all user input forms | Medium | [#171](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/171) |
 | Add automated tests for backend API endpoints error handling | Medium | [#168](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/168) |
-| Made a Doctors_DashBoard | Medium | [#153](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/153) |
 | drug-Side-Effect-feature | Medium | [#148](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/148) |
 | Added doctor specialist recommendation feature | Medium | [#133](https://github.com/MAVERICK-VF142/Drx.MediMate/pull/133) |
 
@@ -1251,6 +1250,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | chore: bump prettier from 3.6.2 to 3.7.3 | Easy | [#1238](https://github.com/recodehive/recode-website/pull/1238) |
+| Enhanced testimonal section | Medium | [#1239](https://github.com/recodehive/recode-website/pull/1239) |
 | chore: bump framer-motion from 12.23.24 to 12.23.25 | Medium | [#1237](https://github.com/recodehive/recode-website/pull/1237) |
 | chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.48.1 | Medium | [#1236](https://github.com/recodehive/recode-website/pull/1236) |
 | chore: bump @vercel/analytics from 1.5.0 to 1.6.1 | Medium | [#1235](https://github.com/recodehive/recode-website/pull/1235) |
