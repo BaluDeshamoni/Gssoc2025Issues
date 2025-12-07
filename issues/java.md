@@ -268,23 +268,23 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance Contact Page UI/UX | Medium | [#1707](https://github.com/itsAnimation/AnimateItNow/issues/1707) |
-| Added my new feature and fixed footer | Medium | [#1706](https://github.com/itsAnimation/AnimateItNow/pull/1706) |
-| Enhancement: Refine dark mode theme & UI consistency for Feedback Page | Medium | [#1705](https://github.com/itsAnimation/AnimateItNow/pull/1705) |
-| Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/itsAnimation/AnimateItNow/issues/1704) |
-| contributor page enhancement | Medium | [#1703](https://github.com/itsAnimation/AnimateItNow/issues/1703) |
-| Contact Page UI/UX with Modern Interactions and Animations | Medium | [#1702](https://github.com/itsAnimation/AnimateItNow/issues/1702) |
-| Enhancing feedback page | Medium | [#1701](https://github.com/itsAnimation/AnimateItNow/issues/1701) |
-| dark/light theme for signup implemented | Medium | [#1692](https://github.com/itsAnimation/AnimateItNow/pull/1692) |
-| Improved UI/UX by updating colors and removing 'Get Started' button | Medium | [#1691](https://github.com/itsAnimation/AnimateItNow/pull/1691) |
-| updated show/hide toggle in signup | Medium | [#1690](https://github.com/itsAnimation/AnimateItNow/pull/1690) |
-| dark mode implemented in contributors page | Medium | [#1686](https://github.com/itsAnimation/AnimateItNow/pull/1686) |
-| dropdown color change for resource n community | Medium | [#1670](https://github.com/itsAnimation/AnimateItNow/pull/1670) |
-| dropdown color change for resource n community | Medium | [#1669](https://github.com/itsAnimation/AnimateItNow/pull/1669) |
-| fixed UI of coming soon page | Medium | [#1668](https://github.com/itsAnimation/AnimateItNow/pull/1668) |
-| Styled navbar properly for Components page. | Medium | [#1667](https://github.com/itsAnimation/AnimateItNow/pull/1667) |
-| Styled navbar properly for about page. | Medium | [#1666](https://github.com/itsAnimation/AnimateItNow/pull/1666) |
-| Styled dark mode for login page for UI consistency. | Medium | [#1665](https://github.com/itsAnimation/AnimateItNow/pull/1665) |
+| Enhance Contact Page UI/UX | Medium | [#1707](https://github.com/AnujShrivastava01/AnimateItNow/issues/1707) |
+| Added my new feature and fixed footer | Medium | [#1706](https://github.com/AnujShrivastava01/AnimateItNow/pull/1706) |
+| Enhancement: Refine dark mode theme & UI consistency for Feedback Page | Medium | [#1705](https://github.com/AnujShrivastava01/AnimateItNow/pull/1705) |
+| Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/AnujShrivastava01/AnimateItNow/issues/1704) |
+| contributor page enhancement | Medium | [#1703](https://github.com/AnujShrivastava01/AnimateItNow/issues/1703) |
+| Contact Page UI/UX with Modern Interactions and Animations | Medium | [#1702](https://github.com/AnujShrivastava01/AnimateItNow/issues/1702) |
+| Enhancing feedback page | Medium | [#1701](https://github.com/AnujShrivastava01/AnimateItNow/issues/1701) |
+| dark/light theme for signup implemented | Medium | [#1692](https://github.com/AnujShrivastava01/AnimateItNow/pull/1692) |
+| Improved UI/UX by updating colors and removing 'Get Started' button | Medium | [#1691](https://github.com/AnujShrivastava01/AnimateItNow/pull/1691) |
+| updated show/hide toggle in signup | Medium | [#1690](https://github.com/AnujShrivastava01/AnimateItNow/pull/1690) |
+| dark mode implemented in contributors page | Medium | [#1686](https://github.com/AnujShrivastava01/AnimateItNow/pull/1686) |
+| dropdown color change for resource n community | Medium | [#1670](https://github.com/AnujShrivastava01/AnimateItNow/pull/1670) |
+| dropdown color change for resource n community | Medium | [#1669](https://github.com/AnujShrivastava01/AnimateItNow/pull/1669) |
+| fixed UI of coming soon page | Medium | [#1668](https://github.com/AnujShrivastava01/AnimateItNow/pull/1668) |
+| Styled navbar properly for Components page. | Medium | [#1667](https://github.com/AnujShrivastava01/AnimateItNow/pull/1667) |
+| Styled navbar properly for about page. | Medium | [#1666](https://github.com/AnujShrivastava01/AnimateItNow/pull/1666) |
+| Styled dark mode for login page for UI consistency. | Medium | [#1665](https://github.com/AnujShrivastava01/AnimateItNow/pull/1665) |
 
 ---
 
