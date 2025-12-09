@@ -215,11 +215,11 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Frontend to Infrastructure | Easy | [#2832](https://github.com/OWASP/Nest/pull/2832) |
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
 | test: Add tests for long title overflow handling in CalendarButton co… | Medium | [#2827](https://github.com/OWASP/Nest/pull/2827) |
 | Button on the ErrorDisplay Component Violates WCAG Contrast Guidelines | Medium | [#2826](https://github.com/OWASP/Nest/issues/2826) |
 | fix: incorrect Error constructor syntax in files | Medium | [#2824](https://github.com/OWASP/Nest/pull/2824) |
-| fix(nav): add pointer cursor to 'community' dropdown | Medium | [#2821](https://github.com/OWASP/Nest/pull/2821) |
 | improved test for src/app/my/** | Medium | [#2817](https://github.com/OWASP/Nest/pull/2817) |
 | feat: add admin method docstrings | Medium | [#2802](https://github.com/OWASP/Nest/pull/2802) |
 | Fixed cursor pointer tags | Medium | [#2796](https://github.com/OWASP/Nest/pull/2796) |
@@ -231,6 +231,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Add llms.txt file for Nest | Medium | [#2753](https://github.com/OWASP/Nest/issues/2753) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
+| feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 
 ---
 
@@ -913,7 +914,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Allow Users to Cancel or Modify Their Reservations | Medium | [#22](https://github.com/santhoshkumar1204/hotel-table-reservation-system/issues/22) |
 | feat: Add password hashing and security enhancements #18 | Medium | [#21](https://github.com/santhoshkumar1204/hotel-table-reservation-system/pull/21) |
 | Implement Sign Up & Login Validation | Medium | [#20](https://github.com/santhoshkumar1204/hotel-table-reservation-system/issues/20) |
 | Add a Responsive Home Screen GUI | Medium | [#19](https://github.com/santhoshkumar1204/hotel-table-reservation-system/issues/19) |
@@ -1418,8 +1418,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Contributors Section in README | Medium | [#27](https://github.com/DishaA06/ZBOT/issues/27) |
-| Fix typos and improve formatting in README | Medium | [#26](https://github.com/DishaA06/ZBOT/issues/26) |
 | Add Pull Request (PR) Template | Medium | [#25](https://github.com/DishaA06/ZBOT/issues/25) |
 | Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#24](https://github.com/DishaA06/ZBOT/issues/24) |
 
@@ -1651,7 +1649,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Sidebar Text Visibility Bug + Dashboard Styling Improvements | Easy | [#37](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/37) |
+| Add interactive dashboard for crop yield visualization | Medium | [#60](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/60) |
 | Update Project Structure in README.md | Medium | [#53](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/53) |
 | Dynamic Crop-Based Yield Map on Streamlit | Medium | [#50](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/50) |
 
