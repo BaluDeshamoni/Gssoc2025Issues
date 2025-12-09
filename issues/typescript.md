@@ -92,10 +92,11 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Make Improvements to Infrastructure Code | Easy | [#2812](https://github.com/OWASP/Nest/pull/2812) |
+| Add Frontend to Infrastructure | Easy | [#2832](https://github.com/OWASP/Nest/pull/2832) |
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
+| test: Add tests for long title overflow handling in CalendarButton co… | Medium | [#2827](https://github.com/OWASP/Nest/pull/2827) |
+| Button on the ErrorDisplay Component Violates WCAG Contrast Guidelines | Medium | [#2826](https://github.com/OWASP/Nest/issues/2826) |
 | fix: incorrect Error constructor syntax in files | Medium | [#2824](https://github.com/OWASP/Nest/pull/2824) |
-| fix(nav): add pointer cursor to 'community' dropdown | Medium | [#2821](https://github.com/OWASP/Nest/pull/2821) |
 | improved test for src/app/my/** | Medium | [#2817](https://github.com/OWASP/Nest/pull/2817) |
 | feat: add admin method docstrings | Medium | [#2802](https://github.com/OWASP/Nest/pull/2802) |
 | Fixed cursor pointer tags | Medium | [#2796](https://github.com/OWASP/Nest/pull/2796) |
@@ -107,6 +108,7 @@ Accessibility features like dark mode,white.
 | Add llms.txt file for Nest | Medium | [#2753](https://github.com/OWASP/Nest/issues/2753) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
+| feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 
 ---
 
@@ -501,7 +503,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump winston from 3.17.0 to 3.18.3 | Medium | [#70](https://github.com/karmveershubham/CodeStreak/pull/70) |
+| Bump winston from 3.17.0 to 3.19.0 | Medium | [#71](https://github.com/karmveershubham/CodeStreak/pull/71) |
 | Login Page Improvements | Medium | [#69](https://github.com/karmveershubham/CodeStreak/issues/69) |
 | <title> AI chatbot for answering Platform related queries | Medium | [#68](https://github.com/karmveershubham/CodeStreak/issues/68) |
 | <title> Strong Password generator | Medium | [#67](https://github.com/karmveershubham/CodeStreak/issues/67) |
@@ -1053,18 +1055,18 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump @vitejs/plugin-react from 4.3.2 to 5.1.2 | Medium | [#204](https://github.com/Ojas-Arora/SapneSeSafar/pull/204) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.87.0 | Medium | [#203](https://github.com/Ojas-Arora/SapneSeSafar/pull/203) |
+| Bump vite from 5.4.17 to 7.2.7 | Medium | [#202](https://github.com/Ojas-Arora/SapneSeSafar/pull/202) |
 | Bump lucide-react from 0.344.0 to 0.556.0 | Medium | [#201](https://github.com/Ojas-Arora/SapneSeSafar/pull/201) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.86.2 | Medium | [#200](https://github.com/Ojas-Arora/SapneSeSafar/pull/200) |
 | Bump react-router-dom from 6.28.2 to 7.10.1 | Medium | [#199](https://github.com/Ojas-Arora/SapneSeSafar/pull/199) |
 | Bump react-dom and @types/react-dom | Medium | [#198](https://github.com/Ojas-Arora/SapneSeSafar/pull/198) |
 | Bump react and @types/react | Medium | [#197](https://github.com/Ojas-Arora/SapneSeSafar/pull/197) |
 | Bump framer-motion from 11.18.2 to 12.23.25 | Medium | [#195](https://github.com/Ojas-Arora/SapneSeSafar/pull/195) |
-| Bump vite from 5.4.17 to 7.2.6 | Medium | [#194](https://github.com/Ojas-Arora/SapneSeSafar/pull/194) |
 | Bump zustand from 4.5.6 to 5.0.9 | Medium | [#193](https://github.com/Ojas-Arora/SapneSeSafar/pull/193) |
 | Bump @types/papaparse from 5.3.16 to 5.5.1 | Medium | [#192](https://github.com/Ojas-Arora/SapneSeSafar/pull/192) |
 | Bump recharts from 2.15.0 to 3.5.1 | Medium | [#191](https://github.com/Ojas-Arora/SapneSeSafar/pull/191) |
 | Bump three from 0.161.0 to 0.181.2 | Medium | [#185](https://github.com/Ojas-Arora/SapneSeSafar/pull/185) |
-| Bump @vitejs/plugin-react from 4.3.2 to 5.1.1 | Medium | [#181](https://github.com/Ojas-Arora/SapneSeSafar/pull/181) |
 | Bump autoprefixer from 10.4.20 to 10.4.22 | Medium | [#179](https://github.com/Ojas-Arora/SapneSeSafar/pull/179) |
 | Bump tailwindcss from 3.4.17 to 4.1.17 | Medium | [#171](https://github.com/Ojas-Arora/SapneSeSafar/pull/171) |
 | Bump eslint from 9.12.0 to 9.39.1 | Medium | [#170](https://github.com/Ojas-Arora/SapneSeSafar/pull/170) |
