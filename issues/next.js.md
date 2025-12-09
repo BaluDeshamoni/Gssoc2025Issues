@@ -166,11 +166,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Frontend to Infrastructure | Easy | [#2832](https://github.com/OWASP/Nest/pull/2832) |
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
 | test: Add tests for long title overflow handling in CalendarButton co… | Medium | [#2827](https://github.com/OWASP/Nest/pull/2827) |
 | Button on the ErrorDisplay Component Violates WCAG Contrast Guidelines | Medium | [#2826](https://github.com/OWASP/Nest/issues/2826) |
 | fix: incorrect Error constructor syntax in files | Medium | [#2824](https://github.com/OWASP/Nest/pull/2824) |
-| fix(nav): add pointer cursor to 'community' dropdown | Medium | [#2821](https://github.com/OWASP/Nest/pull/2821) |
 | improved test for src/app/my/** | Medium | [#2817](https://github.com/OWASP/Nest/pull/2817) |
 | feat: add admin method docstrings | Medium | [#2802](https://github.com/OWASP/Nest/pull/2802) |
 | Fixed cursor pointer tags | Medium | [#2796](https://github.com/OWASP/Nest/pull/2796) |
@@ -182,6 +182,7 @@
 | Add llms.txt file for Nest | Medium | [#2753](https://github.com/OWASP/Nest/issues/2753) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
+| feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 
 ---
 
@@ -382,7 +383,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the minor-and-patch group across 1 directory with 57 updates | Medium | [#375](https://github.com/Muneerali199/DocMagic/pull/375) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 58 updates | Medium | [#376](https://github.com/Muneerali199/DocMagic/pull/376) |
 | Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/DocMagic/pull/363) |
 | Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/DocMagic/pull/362) |
 | Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
@@ -510,7 +511,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | chore: bump prettier from 3.6.2 to 3.7.3 | Easy | [#1238](https://github.com/recodehive/recode-website/pull/1238) |
-| Enhanced testimonal section | Medium | [#1239](https://github.com/recodehive/recode-website/pull/1239) |
 | chore: bump framer-motion from 12.23.24 to 12.23.25 | Medium | [#1237](https://github.com/recodehive/recode-website/pull/1237) |
 | chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.48.1 | Medium | [#1236](https://github.com/recodehive/recode-website/pull/1236) |
 | chore: bump @vercel/analytics from 1.5.0 to 1.6.1 | Medium | [#1235](https://github.com/recodehive/recode-website/pull/1235) |
@@ -581,7 +581,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump winston from 3.17.0 to 3.18.3 | Medium | [#70](https://github.com/karmveershubham/CodeStreak/pull/70) |
+| Bump winston from 3.17.0 to 3.19.0 | Medium | [#71](https://github.com/karmveershubham/CodeStreak/pull/71) |
 | Login Page Improvements | Medium | [#69](https://github.com/karmveershubham/CodeStreak/issues/69) |
 | <title> AI chatbot for answering Platform related queries | Medium | [#68](https://github.com/karmveershubham/CodeStreak/issues/68) |
 | <title> Strong Password generator | Medium | [#67](https://github.com/karmveershubham/CodeStreak/issues/67) |
