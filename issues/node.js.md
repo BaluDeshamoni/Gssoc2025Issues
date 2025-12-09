@@ -1624,8 +1624,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: Update project structure in README | Medium | [#55](https://github.com/prasoonk1204/BreatheEasy/pull/55) |
-| feat: Update contributor list in README | Medium | [#54](https://github.com/prasoonk1204/BreatheEasy/pull/54) |
 | Add dynamic tab title and Social media handles in navbar & footer | Medium | [#51](https://github.com/prasoonk1204/BreatheEasy/issues/51) |
 
 ---
