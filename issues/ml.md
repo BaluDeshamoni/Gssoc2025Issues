@@ -137,6 +137,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add AOS scroll animations to enhance user experience | Medium | [#1044](https://github.com/opensource-society/notesvault/pull/1044) |
 | Fix download issue | Medium | [#1043](https://github.com/opensource-society/notesvault/pull/1043) |
 | Fix/dashboard auth 1038 + Fix: enforce server-side auth for protected pages & add secure auth + upload flows | Medium | [#1042](https://github.com/opensource-society/notesvault/pull/1042) |
 | [AOS Animation] <Integrating animations that make the website look more modern and attractive> | Medium | [#1041](https://github.com/opensource-society/notesvault/issues/1041) |
@@ -1250,7 +1251,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | chore: bump prettier from 3.6.2 to 3.7.3 | Easy | [#1238](https://github.com/recodehive/recode-website/pull/1238) |
-| Enhanced testimonal section | Medium | [#1239](https://github.com/recodehive/recode-website/pull/1239) |
 | chore: bump framer-motion from 12.23.24 to 12.23.25 | Medium | [#1237](https://github.com/recodehive/recode-website/pull/1237) |
 | chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.48.1 | Medium | [#1236](https://github.com/recodehive/recode-website/pull/1236) |
 | chore: bump @vercel/analytics from 1.5.0 to 1.6.1 | Medium | [#1235](https://github.com/recodehive/recode-website/pull/1235) |
