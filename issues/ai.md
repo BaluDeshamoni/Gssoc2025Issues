@@ -100,7 +100,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📊 Weekly Project Summary - 12/7/2025 | Medium | [#719](https://github.com/abhisek2004/Dev-Elevate/issues/719) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -255,11 +254,11 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Frontend to Infrastructure | Easy | [#2832](https://github.com/OWASP/Nest/pull/2832) |
 | Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
 | test: Add tests for long title overflow handling in CalendarButton co… | Medium | [#2827](https://github.com/OWASP/Nest/pull/2827) |
 | Button on the ErrorDisplay Component Violates WCAG Contrast Guidelines | Medium | [#2826](https://github.com/OWASP/Nest/issues/2826) |
 | fix: incorrect Error constructor syntax in files | Medium | [#2824](https://github.com/OWASP/Nest/pull/2824) |
-| fix(nav): add pointer cursor to 'community' dropdown | Medium | [#2821](https://github.com/OWASP/Nest/pull/2821) |
 | improved test for src/app/my/** | Medium | [#2817](https://github.com/OWASP/Nest/pull/2817) |
 | feat: add admin method docstrings | Medium | [#2802](https://github.com/OWASP/Nest/pull/2802) |
 | Fixed cursor pointer tags | Medium | [#2796](https://github.com/OWASP/Nest/pull/2796) |
@@ -271,6 +270,7 @@ Accessibility features like dark mode,white.
 | Add llms.txt file for Nest | Medium | [#2753](https://github.com/OWASP/Nest/issues/2753) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
 | Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
+| feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
 
 ---
 
@@ -1229,7 +1229,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump winston from 3.17.0 to 3.18.3 | Medium | [#70](https://github.com/karmveershubham/CodeStreak/pull/70) |
+| Bump winston from 3.17.0 to 3.19.0 | Medium | [#71](https://github.com/karmveershubham/CodeStreak/pull/71) |
 | Login Page Improvements | Medium | [#69](https://github.com/karmveershubham/CodeStreak/issues/69) |
 | <title> AI chatbot for answering Platform related queries | Medium | [#68](https://github.com/karmveershubham/CodeStreak/issues/68) |
 | <title> Strong Password generator | Medium | [#67](https://github.com/karmveershubham/CodeStreak/issues/67) |
@@ -2159,8 +2159,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: Update project structure in README | Medium | [#55](https://github.com/prasoonk1204/BreatheEasy/pull/55) |
-| feat: Update contributor list in README | Medium | [#54](https://github.com/prasoonk1204/BreatheEasy/pull/54) |
 | Add dynamic tab title and Social media handles in navbar & footer | Medium | [#51](https://github.com/prasoonk1204/BreatheEasy/issues/51) |
 
 ---
