@@ -213,8 +213,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump @supabase/supabase-js from 2.50.2 to 2.87.1 | Medium | [#205](https://github.com/Ojas-Arora/SapneSeSafar/pull/205) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.2 | Medium | [#204](https://github.com/Ojas-Arora/SapneSeSafar/pull/204) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.87.0 | Medium | [#203](https://github.com/Ojas-Arora/SapneSeSafar/pull/203) |
 | Bump vite from 5.4.17 to 7.2.7 | Medium | [#202](https://github.com/Ojas-Arora/SapneSeSafar/pull/202) |
 | Bump lucide-react from 0.344.0 to 0.556.0 | Medium | [#201](https://github.com/Ojas-Arora/SapneSeSafar/pull/201) |
 | Bump react-router-dom from 6.28.2 to 7.10.1 | Medium | [#199](https://github.com/Ojas-Arora/SapneSeSafar/pull/199) |
