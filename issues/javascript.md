@@ -269,23 +269,36 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| priyanshu-changes in name | Medium | [#1733](https://github.com/AnujShrivastava01/AnimateItNow/pull/1733) |
+| vansh gupta BTEOP24O1051 | Medium | [#1732](https://github.com/AnujShrivastava01/AnimateItNow/pull/1732) |
+| Theme and color change - Divyani Nema | Medium | [#1731](https://github.com/AnujShrivastava01/AnimateItNow/pull/1731) |
+| changes | Medium | [#1730](https://github.com/AnujShrivastava01/AnimateItNow/pull/1730) |
+| CREATE LOGO TEMPLATE | Medium | [#1729](https://github.com/AnujShrivastava01/AnimateItNow/pull/1729) |
+| Dhruv Singh - BTEO24O1012 | Medium | [#1728](https://github.com/AnujShrivastava01/AnimateItNow/pull/1728) |
+| Aryan - BTEO24O1010 | Medium | [#1727](https://github.com/AnujShrivastava01/AnimateItNow/pull/1727) |
+| changes | Medium | [#1726](https://github.com/AnujShrivastava01/AnimateItNow/pull/1726) |
+| Aman Singh Kushwah | Medium | [#1725](https://github.com/AnujShrivastava01/AnimateItNow/pull/1725) |
+| I have added a extra member Bio wiht all the social media handles | Medium | [#1723](https://github.com/AnujShrivastava01/AnimateItNow/pull/1723) |
+| Template Size | Medium | [#1722](https://github.com/AnujShrivastava01/AnimateItNow/pull/1722) |
+| Centered the Navbar LInks and and added the Name in my Front - Love M… | Medium | [#1721](https://github.com/AnujShrivastava01/AnimateItNow/pull/1721) |
+| blog to blogs by ishika prajapati | Medium | [#1720](https://github.com/AnujShrivastava01/AnimateItNow/pull/1720) |
+| Update chatbot-data.json | Medium | [#1719](https://github.com/AnujShrivastava01/AnimateItNow/pull/1719) |
+| update in index.css styles | Medium | [#1718](https://github.com/AnujShrivastava01/AnimateItNow/pull/1718) |
+| Minor Change in README.md | Medium | [#1717](https://github.com/AnujShrivastava01/AnimateItNow/pull/1717) |
+| replace text with hyper link in the footer | Medium | [#1716](https://github.com/AnujShrivastava01/AnimateItNow/pull/1716) |
+| readme change | Medium | [#1715](https://github.com/AnujShrivastava01/AnimateItNow/pull/1715) |
+| edit footer bottom | Medium | [#1714](https://github.com/AnujShrivastava01/AnimateItNow/pull/1714) |
+| OK | Medium | [#1713](https://github.com/AnujShrivastava01/AnimateItNow/pull/1713) |
+| BG ANIMATION CHANGED Find Another Change | Medium | [#1712](https://github.com/AnujShrivastava01/AnimateItNow/pull/1712) |
+| edited name and roll no. | Medium | [#1711](https://github.com/AnujShrivastava01/AnimateItNow/pull/1711) |
+| Changes | Medium | [#1710](https://github.com/AnujShrivastava01/AnimateItNow/pull/1710) |
+| Update components.css | Medium | [#1709](https://github.com/AnujShrivastava01/AnimateItNow/pull/1709) |
+| footer add not page | Medium | [#1708](https://github.com/AnujShrivastava01/AnimateItNow/pull/1708) |
 | Enhance Contact Page UI/UX | Medium | [#1707](https://github.com/AnujShrivastava01/AnimateItNow/issues/1707) |
 | Added my new feature and fixed footer | Medium | [#1706](https://github.com/AnujShrivastava01/AnimateItNow/pull/1706) |
 | Enhancement: Refine dark mode theme & UI consistency for Feedback Page | Medium | [#1705](https://github.com/AnujShrivastava01/AnimateItNow/pull/1705) |
 | Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/AnujShrivastava01/AnimateItNow/issues/1704) |
 | contributor page enhancement | Medium | [#1703](https://github.com/AnujShrivastava01/AnimateItNow/issues/1703) |
-| Contact Page UI/UX with Modern Interactions and Animations | Medium | [#1702](https://github.com/AnujShrivastava01/AnimateItNow/issues/1702) |
-| Enhancing feedback page | Medium | [#1701](https://github.com/AnujShrivastava01/AnimateItNow/issues/1701) |
-| dark/light theme for signup implemented | Medium | [#1692](https://github.com/AnujShrivastava01/AnimateItNow/pull/1692) |
-| Improved UI/UX by updating colors and removing 'Get Started' button | Medium | [#1691](https://github.com/AnujShrivastava01/AnimateItNow/pull/1691) |
-| updated show/hide toggle in signup | Medium | [#1690](https://github.com/AnujShrivastava01/AnimateItNow/pull/1690) |
-| dark mode implemented in contributors page | Medium | [#1686](https://github.com/AnujShrivastava01/AnimateItNow/pull/1686) |
-| dropdown color change for resource n community | Medium | [#1670](https://github.com/AnujShrivastava01/AnimateItNow/pull/1670) |
-| dropdown color change for resource n community | Medium | [#1669](https://github.com/AnujShrivastava01/AnimateItNow/pull/1669) |
-| fixed UI of coming soon page | Medium | [#1668](https://github.com/AnujShrivastava01/AnimateItNow/pull/1668) |
-| Styled navbar properly for Components page. | Medium | [#1667](https://github.com/AnujShrivastava01/AnimateItNow/pull/1667) |
-| Styled navbar properly for about page. | Medium | [#1666](https://github.com/AnujShrivastava01/AnimateItNow/pull/1666) |
-| Styled dark mode for login page for UI consistency. | Medium | [#1665](https://github.com/AnujShrivastava01/AnimateItNow/pull/1665) |
 
 ---
 
@@ -684,6 +697,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement OpenCV Order Receipt Scanner | Medium | [#586](https://github.com/Mujtabaa07/coffeeShop/pull/586) |
 | Fix: Add Password Visibility Toggle and Update Regex to Allow | Medium | [#585](https://github.com/Mujtabaa07/coffeeShop/pull/585) |
 | feat: added dark/light theme toggle | Medium | [#584](https://github.com/Mujtabaa07/coffeeShop/pull/584) |
 | Enhance the customer say page | Medium | [#582](https://github.com/Mujtabaa07/coffeeShop/issues/582) |
@@ -708,7 +722,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | (ui): make 'Edit Profile' button functional and navigable | Medium | [#537](https://github.com/Mujtabaa07/coffeeShop/issues/537) |
 | ENHANCE : the top and the cup icon enhance | Medium | [#535](https://github.com/Mujtabaa07/coffeeShop/pull/535) |
 | animation color | Medium | [#534](https://github.com/Mujtabaa07/coffeeShop/pull/534) |
-| <write a small description here>rEDUNDANCY IN LOGIN PAGE | Medium | [#533](https://github.com/Mujtabaa07/coffeeShop/issues/533) |
 
 ---
 
@@ -2054,8 +2067,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump @supabase/supabase-js from 2.50.2 to 2.87.1 | Medium | [#205](https://github.com/Ojas-Arora/SapneSeSafar/pull/205) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.2 | Medium | [#204](https://github.com/Ojas-Arora/SapneSeSafar/pull/204) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.87.0 | Medium | [#203](https://github.com/Ojas-Arora/SapneSeSafar/pull/203) |
 | Bump vite from 5.4.17 to 7.2.7 | Medium | [#202](https://github.com/Ojas-Arora/SapneSeSafar/pull/202) |
 | Bump lucide-react from 0.344.0 to 0.556.0 | Medium | [#201](https://github.com/Ojas-Arora/SapneSeSafar/pull/201) |
 | Bump react-router-dom from 6.28.2 to 7.10.1 | Medium | [#199](https://github.com/Ojas-Arora/SapneSeSafar/pull/199) |
