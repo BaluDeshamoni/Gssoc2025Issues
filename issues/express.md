@@ -357,12 +357,14 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| npm(deps): bump jsonwebtoken from 9.0.2 to 9.0.3 | Medium | [#402](https://github.com/GauravKarakoti/Weather-API/pull/402) |
+| npm(deps-dev): bump prettier from 3.6.2 to 3.7.4 | Medium | [#401](https://github.com/GauravKarakoti/Weather-API/pull/401) |
+| npm(deps): bump winston from 3.18.3 to 3.19.0 | Medium | [#400](https://github.com/GauravKarakoti/Weather-API/pull/400) |
+| npm(deps): bump express from 5.1.0 to 5.2.1 | Medium | [#399](https://github.com/GauravKarakoti/Weather-API/pull/399) |
 | npm(deps): bump nodemon from 3.1.10 to 3.1.11 | Medium | [#398](https://github.com/GauravKarakoti/Weather-API/pull/398) |
 | npm(deps-dev): bump jsdom from 27.1.0 to 27.2.0 | Medium | [#397](https://github.com/GauravKarakoti/Weather-API/pull/397) |
 | npm(deps): bump nodemailer from 7.0.10 to 7.0.11 | Medium | [#396](https://github.com/GauravKarakoti/Weather-API/pull/396) |
-| npm(deps-dev): bump prettier from 3.6.2 to 3.7.3 | Medium | [#395](https://github.com/GauravKarakoti/Weather-API/pull/395) |
 | npm(deps-dev): bump eslint from 9.39.0 to 9.39.1 | Medium | [#394](https://github.com/GauravKarakoti/Weather-API/pull/394) |
-| npm(deps): bump express from 5.1.0 to 5.2.0 | Medium | [#393](https://github.com/GauravKarakoti/Weather-API/pull/393) |
 | npm(deps-dev): bump glob from 11.0.3 to 13.0.0 | Medium | [#392](https://github.com/GauravKarakoti/Weather-API/pull/392) |
 | npm(deps-dev): bump sharp from 0.34.4 to 0.34.5 | Medium | [#391](https://github.com/GauravKarakoti/Weather-API/pull/391) |
 
@@ -1313,8 +1315,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: Update project structure in README | Medium | [#55](https://github.com/prasoonk1204/BreatheEasy/pull/55) |
-| feat: Update contributor list in README | Medium | [#54](https://github.com/prasoonk1204/BreatheEasy/pull/54) |
 | Add dynamic tab title and Social media handles in navbar & footer | Medium | [#51](https://github.com/prasoonk1204/BreatheEasy/issues/51) |
 
 ---
@@ -1630,7 +1630,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| uiux redesign | Medium | [#134](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/134) |
 | Add Dark Mode Toggle with Initial Page Theme Support | Medium | [#131](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/131) |
 | Feature Request: Mentor Connect – Connect Students with Toppers, Seniors, and Faculty | Hard | [#25](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/25) |
 | feat(ui): Implement Animated and Interactive Background Effects | Hard | [#22](https://github.com/Shubhashish-Chakraborty/prepnerdz/issues/22) |
