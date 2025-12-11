@@ -377,6 +377,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Made basic changes in readme.md | Medium | [#1734](https://github.com/AnujShrivastava01/AnimateItNow/pull/1734) |
 | priyanshu-changes in name | Medium | [#1733](https://github.com/AnujShrivastava01/AnimateItNow/pull/1733) |
 | vansh gupta BTEOP24O1051 | Medium | [#1732](https://github.com/AnujShrivastava01/AnimateItNow/pull/1732) |
 | Theme and color change - Divyani Nema | Medium | [#1731](https://github.com/AnujShrivastava01/AnimateItNow/pull/1731) |
@@ -406,7 +407,6 @@ User Profile: BMI calculator and fitness analytics.
 | Added my new feature and fixed footer | Medium | [#1706](https://github.com/AnujShrivastava01/AnimateItNow/pull/1706) |
 | Enhancement: Refine dark mode theme & UI consistency for Feedback Page | Medium | [#1705](https://github.com/AnujShrivastava01/AnimateItNow/pull/1705) |
 | Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/AnujShrivastava01/AnimateItNow/issues/1704) |
-| contributor page enhancement | Medium | [#1703](https://github.com/AnujShrivastava01/AnimateItNow/issues/1703) |
 
 ---
 
