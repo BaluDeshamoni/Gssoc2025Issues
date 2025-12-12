@@ -43,50 +43,6 @@
 
 ---
 
-## 📌 Project: KinetiX : AI Powered Fitness Application 
-
-📝 **Description:** KinetiX is an AI-powered Android fitness app that helps users improve posture, track workouts, and maintain a healthy lifestyle. Built using Kotlin and ML models, KinetiX combines mobile development with machine learning to provide real-time posture correction and personalized exercise feedback. The app is designed with a sleek dark theme UI, offering features like:
-Posture AI: Real-time posture detection using TensorFlow Lite. Workout Tracker: Customizable workout plans and tracking. Progress Dashboard: Visual insights into fitness journey.
-Reminders & Goals: Push notifications for workouts and hydration.
-User Profile: BMI calculator and fitness analytics.
-
-🔗 [View Project](https://github.com/akshtshrma/KinetiX)
-
-💻 **Tech Stack:** Kotlin, XML, MediaPipe, MVVM
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| 🚫 License Missing from Repository | Easy | [#3](https://github.com/akshtshrma/KinetiX/issues/3) |
-| Contributor Covenant Code of Conduct - GSSoC 2025 | Easy | [#2](https://github.com/akshtshrma/KinetiX/issues/2) |
-| Adding a README File | Easy | [#1](https://github.com/akshtshrma/KinetiX/issues/1) |
-| Improve README with setup & build instructions | Medium | [#31](https://github.com/akshtshrma/KinetiX/issues/31) |
-| feat: Add GoalAchievedDialog | Medium | [#30](https://github.com/akshtshrma/KinetiX/pull/30) |
-| Add GitHub Issue & PR Templates | Medium | [#29](https://github.com/akshtshrma/KinetiX/issues/29) |
-| 🧠 [Feature Suggestion] Add Progress Visualization for Better Tracking & Motivation | Medium | [#28](https://github.com/akshtshrma/KinetiX/issues/28) |
-| Improve Posture Detection Accuracy Using Angle Checks and Feedback Smoothing | Medium | [#27](https://github.com/akshtshrma/KinetiX/pull/27) |
-| Redesign Profile screen UI with Material components (#15) | Medium | [#26](https://github.com/akshtshrma/KinetiX/pull/26) |
-| Feature Enhancement: Add Goal Sync Toggle Between Diet and Exercise Sections | Medium | [#25](https://github.com/akshtshrma/KinetiX/issues/25) |
-| Add LICENSE.md file | Medium | [#24](https://github.com/akshtshrma/KinetiX/issues/24) |
-| Add a CONTRIBUTING.md file | Medium | [#23](https://github.com/akshtshrma/KinetiX/issues/23) |
-| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#22](https://github.com/akshtshrma/KinetiX/issues/22) |
-| Add CODE_OF_CONDUCT.md file | Medium | [#21](https://github.com/akshtshrma/KinetiX/issues/21) |
-| Add README.md file | Medium | [#20](https://github.com/akshtshrma/KinetiX/issues/20) |
-| AI-Enhanced Form Analysis & Comprehensive App Improvements | Medium | [#18](https://github.com/akshtshrma/KinetiX/pull/18) |
-| Feature Request: Add Personalized AI Coach for Dynamic Workout Suggestions | Medium | [#17](https://github.com/akshtshrma/KinetiX/issues/17) |
-| docs: add comprehensive README with project overview, features, and contribution guidelines ( closes #1 ) | Medium | [#16](https://github.com/akshtshrma/KinetiX/pull/16) |
-| Add Dynamic Images in the "Login/SignUp" screen | Medium | [#13](https://github.com/akshtshrma/KinetiX/issues/13) |
-| Improve Steps Counter Functionality | Medium | [#8](https://github.com/akshtshrma/KinetiX/issues/8) |
-| Contributor Covenant Code of Conduct - GSSoC 2025 | Medium | [#7](https://github.com/akshtshrma/KinetiX/pull/7) |
-| GSSoC Contributors – Join the KinetiX WhatsApp Group | Medium | [#6](https://github.com/akshtshrma/KinetiX/issues/6) |
-| Create LICENSE | Medium | [#5](https://github.com/akshtshrma/KinetiX/pull/5) |
-| Add MIT License | Medium | [#4](https://github.com/akshtshrma/KinetiX/pull/4) |
-
----
-
 ## 📌 Project: Canvas
 
 📝 **Description:** A Kotlin Multiplatform Paint application to pain and draw Sketch Doodle. This application uses local storage to store drawings and doesn't require any internet access.
