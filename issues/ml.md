@@ -190,50 +190,6 @@
 
 ---
 
-## 📌 Project: KinetiX : AI Powered Fitness Application 
-
-📝 **Description:** KinetiX is an AI-powered Android fitness app that helps users improve posture, track workouts, and maintain a healthy lifestyle. Built using Kotlin and ML models, KinetiX combines mobile development with machine learning to provide real-time posture correction and personalized exercise feedback. The app is designed with a sleek dark theme UI, offering features like:
-Posture AI: Real-time posture detection using TensorFlow Lite. Workout Tracker: Customizable workout plans and tracking. Progress Dashboard: Visual insights into fitness journey.
-Reminders & Goals: Push notifications for workouts and hydration.
-User Profile: BMI calculator and fitness analytics.
-
-🔗 [View Project](https://github.com/akshtshrma/KinetiX)
-
-💻 **Tech Stack:** Kotlin, XML, MediaPipe, MVVM
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| 🚫 License Missing from Repository | Easy | [#3](https://github.com/akshtshrma/KinetiX/issues/3) |
-| Contributor Covenant Code of Conduct - GSSoC 2025 | Easy | [#2](https://github.com/akshtshrma/KinetiX/issues/2) |
-| Adding a README File | Easy | [#1](https://github.com/akshtshrma/KinetiX/issues/1) |
-| Improve README with setup & build instructions | Medium | [#31](https://github.com/akshtshrma/KinetiX/issues/31) |
-| feat: Add GoalAchievedDialog | Medium | [#30](https://github.com/akshtshrma/KinetiX/pull/30) |
-| Add GitHub Issue & PR Templates | Medium | [#29](https://github.com/akshtshrma/KinetiX/issues/29) |
-| 🧠 [Feature Suggestion] Add Progress Visualization for Better Tracking & Motivation | Medium | [#28](https://github.com/akshtshrma/KinetiX/issues/28) |
-| Improve Posture Detection Accuracy Using Angle Checks and Feedback Smoothing | Medium | [#27](https://github.com/akshtshrma/KinetiX/pull/27) |
-| Redesign Profile screen UI with Material components (#15) | Medium | [#26](https://github.com/akshtshrma/KinetiX/pull/26) |
-| Feature Enhancement: Add Goal Sync Toggle Between Diet and Exercise Sections | Medium | [#25](https://github.com/akshtshrma/KinetiX/issues/25) |
-| Add LICENSE.md file | Medium | [#24](https://github.com/akshtshrma/KinetiX/issues/24) |
-| Add a CONTRIBUTING.md file | Medium | [#23](https://github.com/akshtshrma/KinetiX/issues/23) |
-| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#22](https://github.com/akshtshrma/KinetiX/issues/22) |
-| Add CODE_OF_CONDUCT.md file | Medium | [#21](https://github.com/akshtshrma/KinetiX/issues/21) |
-| Add README.md file | Medium | [#20](https://github.com/akshtshrma/KinetiX/issues/20) |
-| AI-Enhanced Form Analysis & Comprehensive App Improvements | Medium | [#18](https://github.com/akshtshrma/KinetiX/pull/18) |
-| Feature Request: Add Personalized AI Coach for Dynamic Workout Suggestions | Medium | [#17](https://github.com/akshtshrma/KinetiX/issues/17) |
-| docs: add comprehensive README with project overview, features, and contribution guidelines ( closes #1 ) | Medium | [#16](https://github.com/akshtshrma/KinetiX/pull/16) |
-| Add Dynamic Images in the "Login/SignUp" screen | Medium | [#13](https://github.com/akshtshrma/KinetiX/issues/13) |
-| Improve Steps Counter Functionality | Medium | [#8](https://github.com/akshtshrma/KinetiX/issues/8) |
-| Contributor Covenant Code of Conduct - GSSoC 2025 | Medium | [#7](https://github.com/akshtshrma/KinetiX/pull/7) |
-| GSSoC Contributors – Join the KinetiX WhatsApp Group | Medium | [#6](https://github.com/akshtshrma/KinetiX/issues/6) |
-| Create LICENSE | Medium | [#5](https://github.com/akshtshrma/KinetiX/pull/5) |
-| Add MIT License | Medium | [#4](https://github.com/akshtshrma/KinetiX/pull/4) |
-
----
-
 ## 📌 Project: exciting_pong-game
 
 📝 **Description:** An classic Pong game built with HTML, CSS, and JavaScript, featuring AI, difficulty levels, and sound effects.
@@ -447,54 +403,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
-
----
-
-## 📌 Project: Travel_Website
-
-📝 **Description:** About
-🚀 Welcome🌈 , This repo is officially accepted for 🌟APERTRE 2025🌟 & 🌟CODEPEAK 2025🌟 This repo contains my project on Travel Website ✈️ using HTML,CSS . It contains the landing page of a travel tour company website. If you have any front end project on this or you can add new features in the project or in this repos.
-
-🔗 [View Project](https://github.com/apu52/Travel_Website)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Improved README documentation | Medium | [#1885](https://github.com/apu52/Travel_Website/pull/1885) |
-| TRAVEL WEBSITE | Medium | [#1884](https://github.com/apu52/Travel_Website/pull/1884) |
-| Fixed UI issues (#1776, #1759, #1783, #1696) - improved navigation, f… | Medium | [#1883](https://github.com/apu52/Travel_Website/pull/1883) |
-| feat: Implement modern CSS styling for all authentication and contact… | Medium | [#1882](https://github.com/apu52/Travel_Website/pull/1882) |
-| Added elegent hover effect to navbar buttons | Medium | [#1881](https://github.com/apu52/Travel_Website/pull/1881) |
-| Add smooth transition effect to images in card section | Medium | [#1880](https://github.com/apu52/Travel_Website/issues/1880) |
-| Footer and Navigation Layout Issues | Medium | [#1879](https://github.com/apu52/Travel_Website/issues/1879) |
-| Inconsistent UI design in the “Trending Tours” section | Medium | [#1878](https://github.com/apu52/Travel_Website/issues/1878) |
-| Images not displaying in trip cards | Medium | [#1877](https://github.com/apu52/Travel_Website/issues/1877) |
-| Validating dates of the trip | Medium | [#1876](https://github.com/apu52/Travel_Website/pull/1876) |
-| Booking dates are even accepting the wrong years like 2024, 2023 etc | Medium | [#1875](https://github.com/apu52/Travel_Website/issues/1875) |
-| alert page, pointer | Medium | [#1874](https://github.com/apu52/Travel_Website/issues/1874) |
-| Slidebar, Hover, Pictures, Overall UI | Medium | [#1873](https://github.com/apu52/Travel_Website/issues/1873) |
-| Authorization Bypass: Unauthenticated users can submit ratings/feedback. | Medium | [#1872](https://github.com/apu52/Travel_Website/issues/1872) |
-| Add Snake Cursor Effect | Medium | [#1871](https://github.com/apu52/Travel_Website/issues/1871) |
-| Implement a custom cursor for enhanced UI | Medium | [#1870](https://github.com/apu52/Travel_Website/issues/1870) |
-| docs: Refine and improve README introduction | Medium | [#1869](https://github.com/apu52/Travel_Website/pull/1869) |
-| Card Alignment's Improvement | Medium | [#1868](https://github.com/apu52/Travel_Website/issues/1868) |
-| UI/UX Improvement of footer inside the pricing section | Medium | [#1867](https://github.com/apu52/Travel_Website/issues/1867) |
-| UI Enhancement | Medium | [#1866](https://github.com/apu52/Travel_Website/issues/1866) |
-| Direct signup/signin not working | Medium | [#1865](https://github.com/apu52/Travel_Website/issues/1865) |
-| UI/UX & Feature Enhancements | Medium | [#1864](https://github.com/apu52/Travel_Website/issues/1864) |
-| Need more spacing between stat cards on the homepage UI | Medium | [#1863](https://github.com/apu52/Travel_Website/issues/1863) |
-| Singup with google,facebook not working | Medium | [#1862](https://github.com/apu52/Travel_Website/issues/1862) |
-| Improve Navbar & Footer Responsiveness (Mobile Enhancement) | Medium | [#1861](https://github.com/apu52/Travel_Website/issues/1861) |
-| work on overall project | Medium | [#1860](https://github.com/apu52/Travel_Website/issues/1860) |
-| UX Improvement: Speed Up Page Navigation Animations | Medium | [#1859](https://github.com/apu52/Travel_Website/issues/1859) |
-| Add Flight Booking Page/Section | Medium | [#1858](https://github.com/apu52/Travel_Website/issues/1858) |
-| Add TravelChat for Real-Time User Communication | Medium | [#1857](https://github.com/apu52/Travel_Website/issues/1857) |
-| Image not visible | Medium | [#1856](https://github.com/apu52/Travel_Website/issues/1856) |
 
 ---
 
@@ -1263,6 +1171,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
 | chore: bump prettier from 3.6.2 to 3.7.3 | Easy | [#1238](https://github.com/recodehive/recode-website/pull/1238) |
 | chore: bump framer-motion from 12.23.24 to 12.23.25 | Medium | [#1237](https://github.com/recodehive/recode-website/pull/1237) |
 | chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.48.1 | Medium | [#1236](https://github.com/recodehive/recode-website/pull/1236) |
@@ -1754,25 +1663,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
-## 📌 Project: HotelOnTouch
-
-📝 **Description:** Gssoc open source contribution
-
-🔗 [View Project](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch)
-
-💻 **Tech Stack:** JavaScript, Java, HTML, Objective-C, CSS, Ruby, Starlang
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| SignIn Signup page creation | Medium | [#227](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/issues/227) |
-| Font modification and Signin Signup page design | Medium | [#226](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/issues/226) |
-
----
-
 ## 📌 Project: BodyCraft-Gym
 
 📝 **Description:** BodyCraft Gym Welcome to BodyCraft Gym, your ultimate fitness destination! Mission Empowering individuals to sculpt their bodies, sharpen their minds, and unlock their full potential.
@@ -1838,6 +1728,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| service page navbar inconsistency solved | Medium | [#1256](https://github.com/gyanshankar1708/GrowCraft/pull/1256) |
 | Add Hackathon and Contribution Section Please Review | Medium | [#1251](https://github.com/gyanshankar1708/GrowCraft/pull/1251) |
 | Enhancement of Contributing.md | Medium | [#1250](https://github.com/gyanshankar1708/GrowCraft/pull/1250) |
 | Implement modern CSS variables and enhance styles | Medium | [#1247](https://github.com/gyanshankar1708/GrowCraft/pull/1247) |
@@ -1864,7 +1755,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | to improve the overall syling of the service section in the home page and make the dark mode button functional | Medium | [#1187](https://github.com/gyanshankar1708/GrowCraft/issues/1187) |
 | unwanted login signup options | Medium | [#1186](https://github.com/gyanshankar1708/GrowCraft/issues/1186) |
 | invisible show password icon in login page | Medium | [#1185](https://github.com/gyanshankar1708/GrowCraft/issues/1185) |
-| missing back to home button in sign up page | Medium | [#1183](https://github.com/gyanshankar1708/GrowCraft/issues/1183) |
 
 ---
 
@@ -2088,7 +1978,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Notepad Implementation | Medium | [#168](https://github.com/Varshitha713/CodeCanvas/pull/168) |
+| Personal Notepad / Dairy feature | Medium | [#169](https://github.com/Varshitha713/CodeCanvas/pull/169) |
 | Improved footer section | Medium | [#167](https://github.com/Varshitha713/CodeCanvas/pull/167) |
 | Improve footer | Medium | [#165](https://github.com/Varshitha713/CodeCanvas/issues/165) |
 | Update index.html | Medium | [#163](https://github.com/Varshitha713/CodeCanvas/pull/163) |
