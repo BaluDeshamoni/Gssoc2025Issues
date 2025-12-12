@@ -269,6 +269,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Made basic changes in readme.md | Medium | [#1734](https://github.com/AnujShrivastava01/AnimateItNow/pull/1734) |
 | priyanshu-changes in name | Medium | [#1733](https://github.com/AnujShrivastava01/AnimateItNow/pull/1733) |
 | vansh gupta BTEOP24O1051 | Medium | [#1732](https://github.com/AnujShrivastava01/AnimateItNow/pull/1732) |
 | Theme and color change - Divyani Nema | Medium | [#1731](https://github.com/AnujShrivastava01/AnimateItNow/pull/1731) |
@@ -298,7 +299,6 @@
 | Added my new feature and fixed footer | Medium | [#1706](https://github.com/AnujShrivastava01/AnimateItNow/pull/1706) |
 | Enhancement: Refine dark mode theme & UI consistency for Feedback Page | Medium | [#1705](https://github.com/AnujShrivastava01/AnimateItNow/pull/1705) |
 | Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/AnujShrivastava01/AnimateItNow/issues/1704) |
-| contributor page enhancement | Medium | [#1703](https://github.com/AnujShrivastava01/AnimateItNow/issues/1703) |
 
 ---
 
@@ -339,54 +339,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
-
----
-
-## 📌 Project: Travel_Website
-
-📝 **Description:** About
-🚀 Welcome🌈 , This repo is officially accepted for 🌟APERTRE 2025🌟 & 🌟CODEPEAK 2025🌟 This repo contains my project on Travel Website ✈️ using HTML,CSS . It contains the landing page of a travel tour company website. If you have any front end project on this or you can add new features in the project or in this repos.
-
-🔗 [View Project](https://github.com/apu52/Travel_Website)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Improved README documentation | Medium | [#1885](https://github.com/apu52/Travel_Website/pull/1885) |
-| TRAVEL WEBSITE | Medium | [#1884](https://github.com/apu52/Travel_Website/pull/1884) |
-| Fixed UI issues (#1776, #1759, #1783, #1696) - improved navigation, f… | Medium | [#1883](https://github.com/apu52/Travel_Website/pull/1883) |
-| feat: Implement modern CSS styling for all authentication and contact… | Medium | [#1882](https://github.com/apu52/Travel_Website/pull/1882) |
-| Added elegent hover effect to navbar buttons | Medium | [#1881](https://github.com/apu52/Travel_Website/pull/1881) |
-| Add smooth transition effect to images in card section | Medium | [#1880](https://github.com/apu52/Travel_Website/issues/1880) |
-| Footer and Navigation Layout Issues | Medium | [#1879](https://github.com/apu52/Travel_Website/issues/1879) |
-| Inconsistent UI design in the “Trending Tours” section | Medium | [#1878](https://github.com/apu52/Travel_Website/issues/1878) |
-| Images not displaying in trip cards | Medium | [#1877](https://github.com/apu52/Travel_Website/issues/1877) |
-| Validating dates of the trip | Medium | [#1876](https://github.com/apu52/Travel_Website/pull/1876) |
-| Booking dates are even accepting the wrong years like 2024, 2023 etc | Medium | [#1875](https://github.com/apu52/Travel_Website/issues/1875) |
-| alert page, pointer | Medium | [#1874](https://github.com/apu52/Travel_Website/issues/1874) |
-| Slidebar, Hover, Pictures, Overall UI | Medium | [#1873](https://github.com/apu52/Travel_Website/issues/1873) |
-| Authorization Bypass: Unauthenticated users can submit ratings/feedback. | Medium | [#1872](https://github.com/apu52/Travel_Website/issues/1872) |
-| Add Snake Cursor Effect | Medium | [#1871](https://github.com/apu52/Travel_Website/issues/1871) |
-| Implement a custom cursor for enhanced UI | Medium | [#1870](https://github.com/apu52/Travel_Website/issues/1870) |
-| docs: Refine and improve README introduction | Medium | [#1869](https://github.com/apu52/Travel_Website/pull/1869) |
-| Card Alignment's Improvement | Medium | [#1868](https://github.com/apu52/Travel_Website/issues/1868) |
-| UI/UX Improvement of footer inside the pricing section | Medium | [#1867](https://github.com/apu52/Travel_Website/issues/1867) |
-| UI Enhancement | Medium | [#1866](https://github.com/apu52/Travel_Website/issues/1866) |
-| Direct signup/signin not working | Medium | [#1865](https://github.com/apu52/Travel_Website/issues/1865) |
-| UI/UX & Feature Enhancements | Medium | [#1864](https://github.com/apu52/Travel_Website/issues/1864) |
-| Need more spacing between stat cards on the homepage UI | Medium | [#1863](https://github.com/apu52/Travel_Website/issues/1863) |
-| Singup with google,facebook not working | Medium | [#1862](https://github.com/apu52/Travel_Website/issues/1862) |
-| Improve Navbar & Footer Responsiveness (Mobile Enhancement) | Medium | [#1861](https://github.com/apu52/Travel_Website/issues/1861) |
-| work on overall project | Medium | [#1860](https://github.com/apu52/Travel_Website/issues/1860) |
-| UX Improvement: Speed Up Page Navigation Animations | Medium | [#1859](https://github.com/apu52/Travel_Website/issues/1859) |
-| Add Flight Booking Page/Section | Medium | [#1858](https://github.com/apu52/Travel_Website/issues/1858) |
-| Add TravelChat for Real-Time User Communication | Medium | [#1857](https://github.com/apu52/Travel_Website/issues/1857) |
-| Image not visible | Medium | [#1856](https://github.com/apu52/Travel_Website/issues/1856) |
 
 ---
 
@@ -1136,6 +1088,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
 | chore: bump prettier from 3.6.2 to 3.7.3 | Easy | [#1238](https://github.com/recodehive/recode-website/pull/1238) |
 | chore: bump framer-motion from 12.23.24 to 12.23.25 | Medium | [#1237](https://github.com/recodehive/recode-website/pull/1237) |
 | chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.48.1 | Medium | [#1236](https://github.com/recodehive/recode-website/pull/1236) |
@@ -1743,25 +1696,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
-## 📌 Project: HotelOnTouch
-
-📝 **Description:** Gssoc open source contribution
-
-🔗 [View Project](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch)
-
-💻 **Tech Stack:** JavaScript, Java, HTML, Objective-C, CSS, Ruby, Starlang
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| SignIn Signup page creation | Medium | [#227](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/issues/227) |
-| Font modification and Signin Signup page design | Medium | [#226](https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/issues/226) |
-
----
-
 ## 📌 Project: GrowCraft
 
 📝 **Description:** GrowCraft is a service-based web platform that offers digital solutions to businesses while providing training and internship opportunities to students. The platform features services like Website Development, Graphic Design, Content Writing, Social Media Management, and Digital Marketing.
@@ -1780,6 +1714,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| service page navbar inconsistency solved | Medium | [#1256](https://github.com/gyanshankar1708/GrowCraft/pull/1256) |
 | Add Hackathon and Contribution Section Please Review | Medium | [#1251](https://github.com/gyanshankar1708/GrowCraft/pull/1251) |
 | Enhancement of Contributing.md | Medium | [#1250](https://github.com/gyanshankar1708/GrowCraft/pull/1250) |
 | Implement modern CSS variables and enhance styles | Medium | [#1247](https://github.com/gyanshankar1708/GrowCraft/pull/1247) |
@@ -1806,7 +1741,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | to improve the overall syling of the service section in the home page and make the dark mode button functional | Medium | [#1187](https://github.com/gyanshankar1708/GrowCraft/issues/1187) |
 | unwanted login signup options | Medium | [#1186](https://github.com/gyanshankar1708/GrowCraft/issues/1186) |
 | invisible show password icon in login page | Medium | [#1185](https://github.com/gyanshankar1708/GrowCraft/issues/1185) |
-| missing back to home button in sign up page | Medium | [#1183](https://github.com/gyanshankar1708/GrowCraft/issues/1183) |
 
 ---
 
@@ -2042,7 +1976,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Notepad Implementation | Medium | [#168](https://github.com/Varshitha713/CodeCanvas/pull/168) |
+| Personal Notepad / Dairy feature | Medium | [#169](https://github.com/Varshitha713/CodeCanvas/pull/169) |
 | Improved footer section | Medium | [#167](https://github.com/Varshitha713/CodeCanvas/pull/167) |
 | Improve footer | Medium | [#165](https://github.com/Varshitha713/CodeCanvas/issues/165) |
 | Update index.html | Medium | [#163](https://github.com/Varshitha713/CodeCanvas/pull/163) |
@@ -2142,20 +2076,20 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump lucide-react from 0.344.0 to 0.560.0 | Medium | [#212](https://github.com/Ojas-Arora/SapneSeSafar/pull/212) |
+| Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
+| Bump react and @types/react | Medium | [#210](https://github.com/Ojas-Arora/SapneSeSafar/pull/210) |
+| Bump react-dom and @types/react-dom | Medium | [#209](https://github.com/Ojas-Arora/SapneSeSafar/pull/209) |
+| Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
+| Bump framer-motion from 11.18.2 to 12.23.26 | Medium | [#206](https://github.com/Ojas-Arora/SapneSeSafar/pull/206) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.87.1 | Medium | [#205](https://github.com/Ojas-Arora/SapneSeSafar/pull/205) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.2 | Medium | [#204](https://github.com/Ojas-Arora/SapneSeSafar/pull/204) |
 | Bump vite from 5.4.17 to 7.2.7 | Medium | [#202](https://github.com/Ojas-Arora/SapneSeSafar/pull/202) |
-| Bump lucide-react from 0.344.0 to 0.556.0 | Medium | [#201](https://github.com/Ojas-Arora/SapneSeSafar/pull/201) |
 | Bump react-router-dom from 6.28.2 to 7.10.1 | Medium | [#199](https://github.com/Ojas-Arora/SapneSeSafar/pull/199) |
-| Bump react-dom and @types/react-dom | Medium | [#198](https://github.com/Ojas-Arora/SapneSeSafar/pull/198) |
-| Bump react and @types/react | Medium | [#197](https://github.com/Ojas-Arora/SapneSeSafar/pull/197) |
-| Bump framer-motion from 11.18.2 to 12.23.25 | Medium | [#195](https://github.com/Ojas-Arora/SapneSeSafar/pull/195) |
 | Bump zustand from 4.5.6 to 5.0.9 | Medium | [#193](https://github.com/Ojas-Arora/SapneSeSafar/pull/193) |
 | Bump @types/papaparse from 5.3.16 to 5.5.1 | Medium | [#192](https://github.com/Ojas-Arora/SapneSeSafar/pull/192) |
 | Bump recharts from 2.15.0 to 3.5.1 | Medium | [#191](https://github.com/Ojas-Arora/SapneSeSafar/pull/191) |
-| Bump three from 0.161.0 to 0.181.2 | Medium | [#185](https://github.com/Ojas-Arora/SapneSeSafar/pull/185) |
 | Bump autoprefixer from 10.4.20 to 10.4.22 | Medium | [#179](https://github.com/Ojas-Arora/SapneSeSafar/pull/179) |
-| Bump tailwindcss from 3.4.17 to 4.1.17 | Medium | [#171](https://github.com/Ojas-Arora/SapneSeSafar/pull/171) |
 | Bump eslint from 9.12.0 to 9.39.1 | Medium | [#170](https://github.com/Ojas-Arora/SapneSeSafar/pull/170) |
 | Bump axios from 1.7.9 to 1.13.2 | Medium | [#167](https://github.com/Ojas-Arora/SapneSeSafar/pull/167) |
 | Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
