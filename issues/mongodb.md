@@ -22,6 +22,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 12/12/2025 | Medium | [#724](https://github.com/abhisek2004/Dev-Elevate/issues/724) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -617,6 +618,14 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve website layout and css for better user experience. | Easy | [#188](https://github.com/samarsajad/Hospital_Management_Website/issues/188) |
+| Enhancement: Added Framer Motion animations and interactive mouse poi… | Medium | [#200](https://github.com/samarsajad/Hospital_Management_Website/pull/200) |
+| Fix: Surgery booking form submission issue (#72) | Medium | [#199](https://github.com/samarsajad/Hospital_Management_Website/pull/199) |
+| feat: enhance UI of appointment, login pages and footer (#159) | Medium | [#198](https://github.com/samarsajad/Hospital_Management_Website/pull/198) |
+| fix: show NavBar on all routes except home (#171) | Medium | [#197](https://github.com/samarsajad/Hospital_Management_Website/pull/197) |
+| feat: improve website layout and CSS for better UX (#188) | Medium | [#196](https://github.com/samarsajad/Hospital_Management_Website/pull/196) |
+| feat: add skeleton loader for homepage images (#183) | Medium | [#195](https://github.com/samarsajad/Hospital_Management_Website/pull/195) |
+| implements a complete visual and interactive overhaul of the landing … | Medium | [#194](https://github.com/samarsajad/Hospital_Management_Website/pull/194) |
+| Refactor Navbar and add Specialties section #192 | Medium | [#193](https://github.com/samarsajad/Hospital_Management_Website/pull/193) |
 | Add DoctorProfilePage with doctor details and booking option | Medium | [#189](https://github.com/samarsajad/Hospital_Management_Website/pull/189) |
 | Fixing css | Medium | [#187](https://github.com/samarsajad/Hospital_Management_Website/issues/187) |
 | UI/UX Improvement: Footer Redesign | Medium | [#186](https://github.com/samarsajad/Hospital_Management_Website/issues/186) |
@@ -626,10 +635,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Insecure Password Reset Functionality | Medium | [#179](https://github.com/samarsajad/Hospital_Management_Website/issues/179) |
 | Make  Footer Visible on All Pages | Medium | [#176](https://github.com/samarsajad/Hospital_Management_Website/issues/176) |
 | UI enhancement | Medium | [#163](https://github.com/samarsajad/Hospital_Management_Website/issues/163) |
-| Rework homepage layout, about section and navbar for a modern look and improved UX | Medium | [#158](https://github.com/samarsajad/Hospital_Management_Website/pull/158) |
-| Added Scroll-To-Top Button | Medium | [#157](https://github.com/samarsajad/Hospital_Management_Website/pull/157) |
-| Routes Not Handled Properly – Login/Signup Pages Displayed Separately Without Layout | Medium | [#148](https://github.com/samarsajad/Hospital_Management_Website/issues/148) |
-| Google Translate Feature #Closes 140 | Medium | [#145](https://github.com/samarsajad/Hospital_Management_Website/pull/145) |
 
 ---
 
