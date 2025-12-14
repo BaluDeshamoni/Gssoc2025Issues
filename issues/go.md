@@ -22,6 +22,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 12/13/2025 | Medium | [#725](https://github.com/abhisek2004/Dev-Elevate/issues/725) |
 | 📊 Weekly Project Summary - 12/12/2025 | Medium | [#724](https://github.com/abhisek2004/Dev-Elevate/issues/724) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -198,20 +199,20 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Update `mentorship_update_comments` Command to Skip Modules Without Labels | Easy | [#2860](https://github.com/OWASP/Nest/issues/2860) |
 | feat: add PostHog support integration | Easy | [#2851](https://github.com/OWASP/Nest/pull/2851) |
+| Update about page project timeline with the logo related item | Medium | [#2900](https://github.com/OWASP/Nest/pull/2900) |
+| imporove test covarage to 100 percent for EntityActions.tsx | Medium | [#2898](https://github.com/OWASP/Nest/pull/2898) |
+| add sortBy in contribute page | Medium | [#2897](https://github.com/OWASP/Nest/issues/2897) |
+| Hide map controls by default | Medium | [#2896](https://github.com/OWASP/Nest/issues/2896) |
+| Enhance Precise Location Manipulation on Chapters Map | Medium | [#2895](https://github.com/OWASP/Nest/issues/2895) |
+| Improve NestBot UX for mentions and unanswered messages | Medium | [#2893](https://github.com/OWASP/Nest/issues/2893) |
+| feat: add skeleton loaders for Organizations and Members Details pages (#2852) | Medium | [#2890](https://github.com/OWASP/Nest/pull/2890) |
+| Move community-related pages under /community path | Medium | [#2886](https://github.com/OWASP/Nest/issues/2886) |
 | migrate to react-icons | Medium | [#2869](https://github.com/OWASP/Nest/pull/2869) |
-| Project statistics are not Animating the way they're supposed to animate on Home page | Medium | [#2868](https://github.com/OWASP/Nest/issues/2868) |
-| Fixed inconsistent UI of clear search icon across all search bars | Medium | [#2866](https://github.com/OWASP/Nest/pull/2866) |
 | Replace Loading Spinner with Skeleton UI Across Mentorship Portal | Medium | [#2862](https://github.com/OWASP/Nest/issues/2862) |
 | Hide Unpublished Programs and Modules From Public View | Medium | [#2859](https://github.com/OWASP/Nest/issues/2859) |
 | Add Module Removal for Program Admins and Editing for Module Mentors | Medium | [#2858](https://github.com/OWASP/Nest/issues/2858) |
 | Improve Accessibility with ARIA Labels | Medium | [#2846](https://github.com/OWASP/Nest/issues/2846) |
 | Add Return Type Hints to Model Manager Methods | Medium | [#2845](https://github.com/OWASP/Nest/issues/2845) |
-| fix: incorrect Error constructor syntax in files | Medium | [#2824](https://github.com/OWASP/Nest/pull/2824) |
-| feat: add admin method docstrings | Medium | [#2802](https://github.com/OWASP/Nest/pull/2802) |
-| Optimize GitHub Workflows with Path Filtering or [FEATURE] Reduce Unnecessary CI/CD Runs | Medium | [#2776](https://github.com/OWASP/Nest/issues/2776) |
-| Use markdown-it for mentorship portal summaries | Medium | [#2762](https://github.com/OWASP/Nest/pull/2762) |
-| Add llms.txt file for Nest | Medium | [#2753](https://github.com/OWASP/Nest/issues/2753) |
-| Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
 | Extend Module Assignment Functionality with GitHub API Integration | Hard | [#2861](https://github.com/OWASP/Nest/issues/2861) |
 
 ---
@@ -887,10 +888,10 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 |----------|----------------|---------|
 | Need Performance optimization | Medium | [#70](https://github.com/Sahilll94/Travel-Book/issues/70) |
 | Add Left & Right Padding/Margin in "Our Services" Section | Medium | [#61](https://github.com/Sahilll94/Travel-Book/issues/61) |
-| Adding Navbar | Medium | [#59](https://github.com/Sahilll94/Travel-Book/pull/59) |
 | Fixed (Story Creation Form Skips to Next Page on Small Screens) | Medium | [#56](https://github.com/Sahilll94/Travel-Book/pull/56) |
 | UI enhancement of home page | Medium | [#55](https://github.com/Sahilll94/Travel-Book/pull/55) |
 | Fix overlapping Back-to-Top and Plus buttons by adjusting bottom spacing | Medium | [#53](https://github.com/Sahilll94/Travel-Book/pull/53) |
+| Adding Framer Motion to hero section make site interactive | Medium | [#4](https://github.com/Sahilll94/Travel-Book/issues/4) |
 
 ---
 
@@ -2158,9 +2159,7 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Prevent double-submit on Contact form and validate server errors | Easy | [#40](https://github.com/x0lg0n/Boutique-To-Box/issues/40) |
 | Tree-shake unused icons and optimize icon bundle | Easy | [#39](https://github.com/x0lg0n/Boutique-To-Box/issues/39) |
-| Add high-contrast theme toggle and test | Easy | [#37](https://github.com/x0lg0n/Boutique-To-Box/issues/37) |
 | security: add CSP meta with report-to endpoint and backend logging | Medium | [#52](https://github.com/x0lg0n/Boutique-To-Box/pull/52) |
 | 🎨 Improve About Page UI | Medium | [#46](https://github.com/x0lg0n/Boutique-To-Box/issues/46) |
 
