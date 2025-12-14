@@ -213,10 +213,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump lucide-react from 0.344.0 to 0.560.0 | Medium | [#212](https://github.com/Ojas-Arora/SapneSeSafar/pull/212) |
+| Bump lucide-react from 0.344.0 to 0.561.0 | Medium | [#215](https://github.com/Ojas-Arora/SapneSeSafar/pull/215) |
+| Bump react and @types/react | Medium | [#214](https://github.com/Ojas-Arora/SapneSeSafar/pull/214) |
+| Bump react-dom and @types/react-dom | Medium | [#213](https://github.com/Ojas-Arora/SapneSeSafar/pull/213) |
 | Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
-| Bump react and @types/react | Medium | [#210](https://github.com/Ojas-Arora/SapneSeSafar/pull/210) |
-| Bump react-dom and @types/react-dom | Medium | [#209](https://github.com/Ojas-Arora/SapneSeSafar/pull/209) |
 | Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
 | Bump framer-motion from 11.18.2 to 12.23.26 | Medium | [#206](https://github.com/Ojas-Arora/SapneSeSafar/pull/206) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.87.1 | Medium | [#205](https://github.com/Ojas-Arora/SapneSeSafar/pull/205) |
