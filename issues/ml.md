@@ -465,29 +465,19 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improved README documentation | Medium | [#1885](https://github.com/apu52/Travel_Website/pull/1885) |
-| TRAVEL WEBSITE | Medium | [#1884](https://github.com/apu52/Travel_Website/pull/1884) |
-| Fixed UI issues (#1776, #1759, #1783, #1696) - improved navigation, f… | Medium | [#1883](https://github.com/apu52/Travel_Website/pull/1883) |
-| feat: Implement modern CSS styling for all authentication and contact… | Medium | [#1882](https://github.com/apu52/Travel_Website/pull/1882) |
-| Added elegent hover effect to navbar buttons | Medium | [#1881](https://github.com/apu52/Travel_Website/pull/1881) |
-| Add smooth transition effect to images in card section | Medium | [#1880](https://github.com/apu52/Travel_Website/issues/1880) |
-| Footer and Navigation Layout Issues | Medium | [#1879](https://github.com/apu52/Travel_Website/issues/1879) |
 | Inconsistent UI design in the “Trending Tours” section | Medium | [#1878](https://github.com/apu52/Travel_Website/issues/1878) |
 | Images not displaying in trip cards | Medium | [#1877](https://github.com/apu52/Travel_Website/issues/1877) |
-| Validating dates of the trip | Medium | [#1876](https://github.com/apu52/Travel_Website/pull/1876) |
 | Booking dates are even accepting the wrong years like 2024, 2023 etc | Medium | [#1875](https://github.com/apu52/Travel_Website/issues/1875) |
 | alert page, pointer | Medium | [#1874](https://github.com/apu52/Travel_Website/issues/1874) |
 | Slidebar, Hover, Pictures, Overall UI | Medium | [#1873](https://github.com/apu52/Travel_Website/issues/1873) |
 | Authorization Bypass: Unauthenticated users can submit ratings/feedback. | Medium | [#1872](https://github.com/apu52/Travel_Website/issues/1872) |
 | Add Snake Cursor Effect | Medium | [#1871](https://github.com/apu52/Travel_Website/issues/1871) |
 | Implement a custom cursor for enhanced UI | Medium | [#1870](https://github.com/apu52/Travel_Website/issues/1870) |
-| docs: Refine and improve README introduction | Medium | [#1869](https://github.com/apu52/Travel_Website/pull/1869) |
 | Card Alignment's Improvement | Medium | [#1868](https://github.com/apu52/Travel_Website/issues/1868) |
 | UI/UX Improvement of footer inside the pricing section | Medium | [#1867](https://github.com/apu52/Travel_Website/issues/1867) |
 | UI Enhancement | Medium | [#1866](https://github.com/apu52/Travel_Website/issues/1866) |
 | Direct signup/signin not working | Medium | [#1865](https://github.com/apu52/Travel_Website/issues/1865) |
 | UI/UX & Feature Enhancements | Medium | [#1864](https://github.com/apu52/Travel_Website/issues/1864) |
-| Need more spacing between stat cards on the homepage UI | Medium | [#1863](https://github.com/apu52/Travel_Website/issues/1863) |
 | Singup with google,facebook not working | Medium | [#1862](https://github.com/apu52/Travel_Website/issues/1862) |
 | Improve Navbar & Footer Responsiveness (Mobile Enhancement) | Medium | [#1861](https://github.com/apu52/Travel_Website/issues/1861) |
 | work on overall project | Medium | [#1860](https://github.com/apu52/Travel_Website/issues/1860) |
@@ -495,6 +485,13 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Add Flight Booking Page/Section | Medium | [#1858](https://github.com/apu52/Travel_Website/issues/1858) |
 | Add TravelChat for Real-Time User Communication | Medium | [#1857](https://github.com/apu52/Travel_Website/issues/1857) |
 | Image not visible | Medium | [#1856](https://github.com/apu52/Travel_Website/issues/1856) |
+| Adding hover effect in navbar buttons | Medium | [#1852](https://github.com/apu52/Travel_Website/issues/1852) |
+| Hamburger menu not working on Plan Trip page | Medium | [#1851](https://github.com/apu52/Travel_Website/issues/1851) |
+| Navbar button inconsistency and low visibility of nav links | Medium | [#1850](https://github.com/apu52/Travel_Website/issues/1850) |
+| Improve footer content spacing and ui | Medium | [#1849](https://github.com/apu52/Travel_Website/issues/1849) |
+| Improve the font and UI of navbar | Medium | [#1848](https://github.com/apu52/Travel_Website/issues/1848) |
+| No image loaded for Local Events and Festival | Medium | [#1846](https://github.com/apu52/Travel_Website/issues/1846) |
+| Update SECURITY.md file | Medium | [#1845](https://github.com/apu52/Travel_Website/issues/1845) |
 
 ---
 
@@ -2655,9 +2652,7 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Prevent double-submit on Contact form and validate server errors | Easy | [#40](https://github.com/x0lg0n/Boutique-To-Box/issues/40) |
 | Tree-shake unused icons and optimize icon bundle | Easy | [#39](https://github.com/x0lg0n/Boutique-To-Box/issues/39) |
-| Add high-contrast theme toggle and test | Easy | [#37](https://github.com/x0lg0n/Boutique-To-Box/issues/37) |
 | security: add CSP meta with report-to endpoint and backend logging | Medium | [#52](https://github.com/x0lg0n/Boutique-To-Box/pull/52) |
 | 🎨 Improve About Page UI | Medium | [#46](https://github.com/x0lg0n/Boutique-To-Box/issues/46) |
 
