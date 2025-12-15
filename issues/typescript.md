@@ -94,20 +94,19 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Update `mentorship_update_comments` Command to Skip Modules Without Labels | Easy | [#2860](https://github.com/OWASP/Nest/issues/2860) |
 | feat: add PostHog support integration | Easy | [#2851](https://github.com/OWASP/Nest/pull/2851) |
-| Bump next from 16.0.8 to 16.0.9 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#2874](https://github.com/OWASP/Nest/pull/2874) |
-| Improve backend/mentorship/* test coverage | Medium | [#2872](https://github.com/OWASP/Nest/issues/2872) |
+| Enhance Precise Location Manipulation on Chapters Map | Medium | [#2914](https://github.com/OWASP/Nest/pull/2914) |
+| feat: added ICS file download support | Medium | [#2909](https://github.com/OWASP/Nest/pull/2909) |
+| Add a proper typescript types | Medium | [#2903](https://github.com/OWASP/Nest/issues/2903) |
+| imporove test covarage to 100 percent for EntityActions.tsx | Medium | [#2898](https://github.com/OWASP/Nest/pull/2898) |
+| Improve NestBot UX for mentions and unanswered messages | Medium | [#2893](https://github.com/OWASP/Nest/issues/2893) |
+| feat: add skeleton loaders for Organizations and Members Details pages (#2852) | Medium | [#2890](https://github.com/OWASP/Nest/pull/2890) |
+| Move community-related pages under /community path | Medium | [#2886](https://github.com/OWASP/Nest/issues/2886) |
 | migrate to react-icons | Medium | [#2869](https://github.com/OWASP/Nest/pull/2869) |
-| Project statistics are not Animating the way they're supposed to animate on Home page | Medium | [#2868](https://github.com/OWASP/Nest/issues/2868) |
-| Fixed inconsistent UI of clear search icon across all search bars | Medium | [#2866](https://github.com/OWASP/Nest/pull/2866) |
-| add contrast improvement styles to global error component | Medium | [#2863](https://github.com/OWASP/Nest/pull/2863) |
 | Replace Loading Spinner with Skeleton UI Across Mentorship Portal | Medium | [#2862](https://github.com/OWASP/Nest/issues/2862) |
 | Hide Unpublished Programs and Modules From Public View | Medium | [#2859](https://github.com/OWASP/Nest/issues/2859) |
 | Add Module Removal for Program Admins and Editing for Module Mentors | Medium | [#2858](https://github.com/OWASP/Nest/issues/2858) |
 | Improve Accessibility with ARIA Labels | Medium | [#2846](https://github.com/OWASP/Nest/issues/2846) |
 | Add Return Type Hints to Model Manager Methods | Medium | [#2845](https://github.com/OWASP/Nest/issues/2845) |
-| feat: update map overlay to 'Unlock map' with unlock icon | Medium | [#2844](https://github.com/OWASP/Nest/pull/2844) |
-| fix: incorrect Error constructor syntax in files | Medium | [#2824](https://github.com/OWASP/Nest/pull/2824) |
-| feat: add admin method docstrings | Medium | [#2802](https://github.com/OWASP/Nest/pull/2802) |
 | Extend Module Assignment Functionality with GitHub API Integration | Hard | [#2861](https://github.com/OWASP/Nest/issues/2861) |
 
 ---
@@ -1055,10 +1054,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump lucide-react from 0.344.0 to 0.560.0 | Medium | [#212](https://github.com/Ojas-Arora/SapneSeSafar/pull/212) |
+| Bump lucide-react from 0.344.0 to 0.561.0 | Medium | [#215](https://github.com/Ojas-Arora/SapneSeSafar/pull/215) |
+| Bump react and @types/react | Medium | [#214](https://github.com/Ojas-Arora/SapneSeSafar/pull/214) |
+| Bump react-dom and @types/react-dom | Medium | [#213](https://github.com/Ojas-Arora/SapneSeSafar/pull/213) |
 | Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
-| Bump react and @types/react | Medium | [#210](https://github.com/Ojas-Arora/SapneSeSafar/pull/210) |
-| Bump react-dom and @types/react-dom | Medium | [#209](https://github.com/Ojas-Arora/SapneSeSafar/pull/209) |
 | Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
 | Bump framer-motion from 11.18.2 to 12.23.26 | Medium | [#206](https://github.com/Ojas-Arora/SapneSeSafar/pull/206) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.87.1 | Medium | [#205](https://github.com/Ojas-Arora/SapneSeSafar/pull/205) |
