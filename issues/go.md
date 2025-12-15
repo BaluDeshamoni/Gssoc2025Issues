@@ -22,8 +22,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📊 Weekly Project Summary - 12/13/2025 | Medium | [#725](https://github.com/abhisek2004/Dev-Elevate/issues/725) |
-| 📊 Weekly Project Summary - 12/12/2025 | Medium | [#724](https://github.com/abhisek2004/Dev-Elevate/issues/724) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -199,11 +197,10 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Update `mentorship_update_comments` Command to Skip Modules Without Labels | Easy | [#2860](https://github.com/OWASP/Nest/issues/2860) |
 | feat: add PostHog support integration | Easy | [#2851](https://github.com/OWASP/Nest/pull/2851) |
-| Update about page project timeline with the logo related item | Medium | [#2900](https://github.com/OWASP/Nest/pull/2900) |
+| Enhance Precise Location Manipulation on Chapters Map | Medium | [#2914](https://github.com/OWASP/Nest/pull/2914) |
+| feat: added ICS file download support | Medium | [#2909](https://github.com/OWASP/Nest/pull/2909) |
+| Add a proper typescript types | Medium | [#2903](https://github.com/OWASP/Nest/issues/2903) |
 | imporove test covarage to 100 percent for EntityActions.tsx | Medium | [#2898](https://github.com/OWASP/Nest/pull/2898) |
-| add sortBy in contribute page | Medium | [#2897](https://github.com/OWASP/Nest/issues/2897) |
-| Hide map controls by default | Medium | [#2896](https://github.com/OWASP/Nest/issues/2896) |
-| Enhance Precise Location Manipulation on Chapters Map | Medium | [#2895](https://github.com/OWASP/Nest/issues/2895) |
 | Improve NestBot UX for mentions and unanswered messages | Medium | [#2893](https://github.com/OWASP/Nest/issues/2893) |
 | feat: add skeleton loaders for Organizations and Members Details pages (#2852) | Medium | [#2890](https://github.com/OWASP/Nest/pull/2890) |
 | Move community-related pages under /community path | Medium | [#2886](https://github.com/OWASP/Nest/issues/2886) |
