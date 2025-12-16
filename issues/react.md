@@ -78,25 +78,6 @@
 
 ---
 
-## 📌 Project: TravelGrid
-
-📝 **Description:** An all-in-one travel platform offering seamless booking for hotels, flights, and rentals, along with personalized trip planning and travel guides. The website aims to simplify travel experiences by combining convenience, affordability, and expert recommendations in one place.
-
-
-🔗 [View Project](https://github.com/Adarsh-Chaubey03/TravelGrid)
-
-💻 **Tech Stack:** MERN, React.js
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Claude Code GitHub Workflow | Medium | [#1675](https://github.com/Adarsh-Chaubey03/TravelGrid/issues/1675) |
-
----
-
 ## 📌 Project: JobSync - Inclusive Job Finder Platform
 
 📝 **Description:** JobSync is a job discovery platform designed for underprivileged individuals and daily wage workers. It simplifies access to job opportunities through a clean UI, multilingual support, and voice-enabled search. Contributors will help build core features like user authentication, a job search dashboard with scraping or API integration, and accessibility tools for low-literacy users. The goal is to create a user-friendly and inclusive job-seeking experience for those who need it most.
@@ -119,8 +100,6 @@
 | Add Pull Request (PR) Template | Medium | [#342](https://github.com/adityagarwal15/JobSync/issues/342) |
 | Contact section (“LET’S TALK”) alignment issue | Medium | [#340](https://github.com/adityagarwal15/JobSync/issues/340) |
 | Navbar UI Improvements | Medium | [#328](https://github.com/adityagarwal15/JobSync/issues/328) |
-| fix(security): add HTML sanitization middleware for user inputs (#317) | Medium | [#327](https://github.com/adityagarwal15/JobSync/pull/327) |
-| fix: mitigate parameter pollution risk using helmet & hpp (#318) | Medium | [#326](https://github.com/adityagarwal15/JobSync/pull/326) |
 | ci: add GitHub Actions pipeline for lint, build, and test | Medium | [#322](https://github.com/adityagarwal15/JobSync/pull/322) |
 | fix(ui): normalize hover & focus styles in global.css | Medium | [#319](https://github.com/adityagarwal15/JobSync/pull/319) |
 | 🐛 : Name & Role fields not accepting input | Medium | [#311](https://github.com/adityagarwal15/JobSync/issues/311) |
@@ -187,12 +166,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| ui fix | Medium | [#228](https://github.com/SrigadaAkshayKumar/stock/issues/228) |
-| Title Color | Medium | [#222](https://github.com/SrigadaAkshayKumar/stock/issues/222) |
 | Search functionality doesn't trigger on Enter key | Medium | [#216](https://github.com/SrigadaAkshayKumar/stock/issues/216) |
-| Add Stock Comparison Tool | Medium | [#208](https://github.com/SrigadaAkshayKumar/stock/issues/208) |
-| Redesign Login Page Background for Consistency & Improved UX | Medium | [#199](https://github.com/SrigadaAkshayKumar/stock/issues/199) |
-| Updated Stockdata.jsx and Predict.jsx with backend API URL | Medium | [#151](https://github.com/SrigadaAkshayKumar/stock/pull/151) |
 
 ---
 
@@ -234,6 +208,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: enhance footer logo resolution and text styling (#101) | Medium | [#137](https://github.com/amitkumardemo/EdgeCareer/pull/137) |
 | 🔒 Implement Comprehensive Input Validation and Sanitization | Medium | [#136](https://github.com/amitkumardemo/EdgeCareer/issues/136) |
 | ui enhancement | Medium | [#135](https://github.com/amitkumardemo/EdgeCareer/issues/135) |
 | Implement PDF export for generated resumes (#111) | Medium | [#134](https://github.com/amitkumardemo/EdgeCareer/pull/134) |
@@ -302,22 +277,24 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix running e2e backend | Easy | [#2710](https://github.com/OWASP/Nest/pull/2710) |
-| ci: add timeout-minutes to prevent zombie jobs consuming runner quota | Medium | [#2843](https://github.com/OWASP/Nest/issues/2843) |
-| test: Add tests for long title overflow handling in CalendarButton co… | Medium | [#2827](https://github.com/OWASP/Nest/pull/2827) |
-| Button on the ErrorDisplay Component Violates WCAG Contrast Guidelines | Medium | [#2826](https://github.com/OWASP/Nest/issues/2826) |
-| fix: incorrect Error constructor syntax in files | Medium | [#2824](https://github.com/OWASP/Nest/pull/2824) |
-| improved test for src/app/my/** | Medium | [#2817](https://github.com/OWASP/Nest/pull/2817) |
-| feat: add admin method docstrings | Medium | [#2802](https://github.com/OWASP/Nest/pull/2802) |
-| Bump python from 3.13.7-alpine to 3.14.1-alpine in /docs/docker | Medium | [#2787](https://github.com/OWASP/Nest/pull/2787) |
-| Bump python from 3.13.7-alpine to 3.14.1-alpine in /backend/docker | Medium | [#2786](https://github.com/OWASP/Nest/pull/2786) |
-| Optimize GitHub Workflows with Path Filtering or [FEATURE] Reduce Unnecessary CI/CD Runs | Medium | [#2776](https://github.com/OWASP/Nest/issues/2776) |
-| Use markdown-it for mentorship portal summaries | Medium | [#2762](https://github.com/OWASP/Nest/pull/2762) |
-| Add llms.txt file for Nest | Medium | [#2753](https://github.com/OWASP/Nest/issues/2753) |
-| Add reusable Contribution Heatmap to member page for design consistency | Medium | [#2705](https://github.com/OWASP/Nest/issues/2705) |
-| Mentorship Portal improvement ideas | Medium | [#2701](https://github.com/OWASP/Nest/issues/2701) |
-| feat: Add Contribution Heatmap to Chapter and Project Pages | Medium | [#2674](https://github.com/OWASP/Nest/pull/2674) |
-| NestBog AI Assistant improvement ideas | Medium | [#2663](https://github.com/OWASP/Nest/issues/2663) |
+| Update `mentorship_update_comments` Command to Skip Modules Without Labels | Easy | [#2860](https://github.com/OWASP/Nest/issues/2860) |
+| feat: add PostHog support integration | Easy | [#2851](https://github.com/OWASP/Nest/pull/2851) |
+| Fix(map): improve map overlay accessibility and add hover effects | Medium | [#2931](https://github.com/OWASP/Nest/pull/2931) |
+| Create Community Snapshot Videos Task | Medium | [#2924](https://github.com/OWASP/Nest/issues/2924) |
+| Enhance Precise Location Manipulation on Chapters Map | Medium | [#2914](https://github.com/OWASP/Nest/pull/2914) |
+| feat: add icalendar file download support | Medium | [#2909](https://github.com/OWASP/Nest/pull/2909) |
+| Add a proper typescript types | Medium | [#2903](https://github.com/OWASP/Nest/issues/2903) |
+| imporove test covarage to 100 percent for EntityActions.tsx | Medium | [#2898](https://github.com/OWASP/Nest/pull/2898) |
+| Improve NestBot UX for mentions and unanswered messages | Medium | [#2893](https://github.com/OWASP/Nest/issues/2893) |
+| feat: add skeleton loaders for Organizations and Members Details pages (#2852) | Medium | [#2890](https://github.com/OWASP/Nest/pull/2890) |
+| Move community-related pages under /community path | Medium | [#2886](https://github.com/OWASP/Nest/issues/2886) |
+| migrate to react-icons | Medium | [#2869](https://github.com/OWASP/Nest/pull/2869) |
+| Replace Loading Spinner with Skeleton UI Across Mentorship Portal | Medium | [#2862](https://github.com/OWASP/Nest/issues/2862) |
+| Hide Unpublished Programs and Modules From Public View | Medium | [#2859](https://github.com/OWASP/Nest/issues/2859) |
+| Add Module Removal for Program Admins and Editing for Module Mentors | Medium | [#2858](https://github.com/OWASP/Nest/issues/2858) |
+| Improve Accessibility with ARIA Labels | Medium | [#2846](https://github.com/OWASP/Nest/issues/2846) |
+| Add Return Type Hints to Model Manager Methods | Medium | [#2845](https://github.com/OWASP/Nest/issues/2845) |
+| Extend Module Assignment Functionality with GitHub API Integration | Hard | [#2861](https://github.com/OWASP/Nest/issues/2861) |
 
 ---
 
@@ -1287,6 +1264,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
+| Add Step-by-Step Explanation Mode Alongside Sorting Visualization | Medium | [#710](https://github.com/alienx5499/SortVision/issues/710) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
 | Show Random Numbers in Sorting Visualization | Medium | [#656](https://github.com/alienx5499/SortVision/issues/656) |
 | Add "Step-by-Step Mode" for Sorting Visualizations | Medium | [#655](https://github.com/alienx5499/SortVision/issues/655) |
@@ -1444,10 +1422,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Need Performance optimization | Medium | [#70](https://github.com/Sahilll94/Travel-Book/issues/70) |
 | Add Left & Right Padding/Margin in "Our Services" Section | Medium | [#61](https://github.com/Sahilll94/Travel-Book/issues/61) |
-| Adding Navbar | Medium | [#59](https://github.com/Sahilll94/Travel-Book/pull/59) |
 | Fixed (Story Creation Form Skips to Next Page on Small Screens) | Medium | [#56](https://github.com/Sahilll94/Travel-Book/pull/56) |
 | UI enhancement of home page | Medium | [#55](https://github.com/Sahilll94/Travel-Book/pull/55) |
 | Fix overlapping Back-to-Top and Plus buttons by adjusting bottom spacing | Medium | [#53](https://github.com/Sahilll94/Travel-Book/pull/53) |
+| Adding Framer Motion to hero section make site interactive | Medium | [#4](https://github.com/Sahilll94/Travel-Book/issues/4) |
 
 ---
 
@@ -1466,6 +1444,14 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve website layout and css for better user experience. | Easy | [#188](https://github.com/samarsajad/Hospital_Management_Website/issues/188) |
+| Enhancement: Added Framer Motion animations and interactive mouse poi… | Medium | [#200](https://github.com/samarsajad/Hospital_Management_Website/pull/200) |
+| Fix: Surgery booking form submission issue (#72) | Medium | [#199](https://github.com/samarsajad/Hospital_Management_Website/pull/199) |
+| feat: enhance UI of appointment, login pages and footer (#159) | Medium | [#198](https://github.com/samarsajad/Hospital_Management_Website/pull/198) |
+| fix: show NavBar on all routes except home (#171) | Medium | [#197](https://github.com/samarsajad/Hospital_Management_Website/pull/197) |
+| feat: improve website layout and CSS for better UX (#188) | Medium | [#196](https://github.com/samarsajad/Hospital_Management_Website/pull/196) |
+| feat: add skeleton loader for homepage images (#183) | Medium | [#195](https://github.com/samarsajad/Hospital_Management_Website/pull/195) |
+| implements a complete visual and interactive overhaul of the landing … | Medium | [#194](https://github.com/samarsajad/Hospital_Management_Website/pull/194) |
+| Refactor Navbar and add Specialties section #192 | Medium | [#193](https://github.com/samarsajad/Hospital_Management_Website/pull/193) |
 | Add DoctorProfilePage with doctor details and booking option | Medium | [#189](https://github.com/samarsajad/Hospital_Management_Website/pull/189) |
 | Fixing css | Medium | [#187](https://github.com/samarsajad/Hospital_Management_Website/issues/187) |
 | UI/UX Improvement: Footer Redesign | Medium | [#186](https://github.com/samarsajad/Hospital_Management_Website/issues/186) |
@@ -1475,10 +1461,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Insecure Password Reset Functionality | Medium | [#179](https://github.com/samarsajad/Hospital_Management_Website/issues/179) |
 | Make  Footer Visible on All Pages | Medium | [#176](https://github.com/samarsajad/Hospital_Management_Website/issues/176) |
 | UI enhancement | Medium | [#163](https://github.com/samarsajad/Hospital_Management_Website/issues/163) |
-| Rework homepage layout, about section and navbar for a modern look and improved UX | Medium | [#158](https://github.com/samarsajad/Hospital_Management_Website/pull/158) |
-| Added Scroll-To-Top Button | Medium | [#157](https://github.com/samarsajad/Hospital_Management_Website/pull/157) |
-| Routes Not Handled Properly – Login/Signup Pages Displayed Separately Without Layout | Medium | [#148](https://github.com/samarsajad/Hospital_Management_Website/issues/148) |
-| Google Translate Feature #Closes 140 | Medium | [#145](https://github.com/samarsajad/Hospital_Management_Website/pull/145) |
 
 ---
 
@@ -1671,7 +1653,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | about us page | Medium | [#27](https://github.com/SyedImtiyaz-1/Swapify/issues/27) |
-| Revamp the chats page | Medium | [#26](https://github.com/SyedImtiyaz-1/Swapify/issues/26) |
 | ⭐ Feature: Add “Saved Listings” Section | Medium | [#25](https://github.com/SyedImtiyaz-1/Swapify/issues/25) |
 | 🚩 Feature: Add “Report Listing” Option | Medium | [#24](https://github.com/SyedImtiyaz-1/Swapify/issues/24) |
 | 🔄 Feature: Add Sorting Options to Listings | Medium | [#23](https://github.com/SyedImtiyaz-1/Swapify/issues/23) |
@@ -1826,10 +1807,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Solved MNOR UI/UX CHANGES - 2 #280 | Medium | [#317](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/317) |
 | feat(header): declutter navbar, align “My Account”, and elevate UI | Medium | [#314](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/314) |
 | Add More Songs to Calming Corner for Enhanced User Experience | Medium | [#310](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/310) |
-| Revamp the navbar | Medium | [#309](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/309) |
 | No Search Icon in Blog section while searching for blogs | Medium | [#304](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/304) |
 | Fix: Login, Signup, Forgot Password UI fixed | Medium | [#303](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/303) |
 | Secure Google Sign-In Integration | Medium | [#267](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/267) |
+| 🔐 Add Google OAuth for Easy Signup and Signin | Medium | [#263](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/263) |
 
 ---
 
@@ -2772,6 +2753,7 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
+| feat: Implement backend for user creation - handle chat functionality and user authentication | Medium | [#144](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/144) |
 | feat(backend): add Flask authentication API and MongoDB integration | Medium | [#140](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/140) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
@@ -3006,9 +2988,7 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Prevent double-submit on Contact form and validate server errors | Easy | [#40](https://github.com/x0lg0n/Boutique-To-Box/issues/40) |
 | Tree-shake unused icons and optimize icon bundle | Easy | [#39](https://github.com/x0lg0n/Boutique-To-Box/issues/39) |
-| Add high-contrast theme toggle and test | Easy | [#37](https://github.com/x0lg0n/Boutique-To-Box/issues/37) |
 | security: add CSP meta with report-to endpoint and backend logging | Medium | [#52](https://github.com/x0lg0n/Boutique-To-Box/pull/52) |
 | 🎨 Improve About Page UI | Medium | [#46](https://github.com/x0lg0n/Boutique-To-Box/issues/46) |
 
