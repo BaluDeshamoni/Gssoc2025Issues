@@ -189,7 +189,6 @@
 | Add Dropdown for Top-N Recommended Products Selection | Medium | [#25](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/25) |
 | Export Recommendations to CSV | Medium | [#20](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/issues/20) |
 | Frontend using html css and js(js is commited) | Medium | [#11](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/11) |
-| Add the streamlitui and requirements.txt file | Medium | [#4](https://github.com/kasmya/AI-Cosmetic-Reccomendation-System/pull/4) |
 
 ---
 
