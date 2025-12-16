@@ -53,6 +53,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 12/15/2025 | Medium | [#727](https://github.com/abhisek2004/Dev-Elevate/issues/727) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -109,8 +110,6 @@ Accessibility features like dark mode,white.
 | Add Pull Request (PR) Template | Medium | [#342](https://github.com/adityagarwal15/JobSync/issues/342) |
 | Contact section (“LET’S TALK”) alignment issue | Medium | [#340](https://github.com/adityagarwal15/JobSync/issues/340) |
 | Navbar UI Improvements | Medium | [#328](https://github.com/adityagarwal15/JobSync/issues/328) |
-| fix(security): add HTML sanitization middleware for user inputs (#317) | Medium | [#327](https://github.com/adityagarwal15/JobSync/pull/327) |
-| fix: mitigate parameter pollution risk using helmet & hpp (#318) | Medium | [#326](https://github.com/adityagarwal15/JobSync/pull/326) |
 | ci: add GitHub Actions pipeline for lint, build, and test | Medium | [#322](https://github.com/adityagarwal15/JobSync/pull/322) |
 | fix(ui): normalize hover & focus styles in global.css | Medium | [#319](https://github.com/adityagarwal15/JobSync/pull/319) |
 | 🐛 : Name & Role fields not accepting input | Medium | [#311](https://github.com/adityagarwal15/JobSync/issues/311) |
