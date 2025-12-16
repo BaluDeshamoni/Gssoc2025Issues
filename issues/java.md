@@ -64,8 +64,6 @@
 | Add Pull Request (PR) Template | Medium | [#342](https://github.com/adityagarwal15/JobSync/issues/342) |
 | Contact section (“LET’S TALK”) alignment issue | Medium | [#340](https://github.com/adityagarwal15/JobSync/issues/340) |
 | Navbar UI Improvements | Medium | [#328](https://github.com/adityagarwal15/JobSync/issues/328) |
-| fix(security): add HTML sanitization middleware for user inputs (#317) | Medium | [#327](https://github.com/adityagarwal15/JobSync/pull/327) |
-| fix: mitigate parameter pollution risk using helmet & hpp (#318) | Medium | [#326](https://github.com/adityagarwal15/JobSync/pull/326) |
 | ci: add GitHub Actions pipeline for lint, build, and test | Medium | [#322](https://github.com/adityagarwal15/JobSync/pull/322) |
 | fix(ui): normalize hover & focus styles in global.css | Medium | [#319](https://github.com/adityagarwal15/JobSync/pull/319) |
 | 🐛 : Name & Role fields not accepting input | Medium | [#311](https://github.com/adityagarwal15/JobSync/issues/311) |
@@ -246,12 +244,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| ui fix | Medium | [#228](https://github.com/SrigadaAkshayKumar/stock/issues/228) |
-| Title Color | Medium | [#222](https://github.com/SrigadaAkshayKumar/stock/issues/222) |
 | Search functionality doesn't trigger on Enter key | Medium | [#216](https://github.com/SrigadaAkshayKumar/stock/issues/216) |
-| Add Stock Comparison Tool | Medium | [#208](https://github.com/SrigadaAkshayKumar/stock/issues/208) |
-| Redesign Login Page Background for Consistency & Improved UX | Medium | [#199](https://github.com/SrigadaAkshayKumar/stock/issues/199) |
-| Updated Stockdata.jsx and Predict.jsx with backend API URL | Medium | [#151](https://github.com/SrigadaAkshayKumar/stock/pull/151) |
 
 ---
 
@@ -339,6 +332,51 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
+
+---
+
+## 📌 Project: Travel_Website
+
+📝 **Description:** About
+🚀 Welcome🌈 , This repo is officially accepted for 🌟APERTRE 2025🌟 & 🌟CODEPEAK 2025🌟 This repo contains my project on Travel Website ✈️ using HTML,CSS . It contains the landing page of a travel tour company website. If you have any front end project on this or you can add new features in the project or in this repos.
+
+🔗 [View Project](https://github.com/apu52/Travel_Website)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Text Overflow in Description Section Breaks Layout and Readability | Medium | [#1887](https://github.com/apu52/Travel_Website/issues/1887) |
+| Modernize Event Discovery Page with Navbar, Theme Switch & Improved UI | Medium | [#1886](https://github.com/apu52/Travel_Website/issues/1886) |
+| Inconsistent UI design in the “Trending Tours” section | Medium | [#1878](https://github.com/apu52/Travel_Website/issues/1878) |
+| Images not displaying in trip cards | Medium | [#1877](https://github.com/apu52/Travel_Website/issues/1877) |
+| Booking dates are even accepting the wrong years like 2024, 2023 etc | Medium | [#1875](https://github.com/apu52/Travel_Website/issues/1875) |
+| alert page, pointer | Medium | [#1874](https://github.com/apu52/Travel_Website/issues/1874) |
+| Slidebar, Hover, Pictures, Overall UI | Medium | [#1873](https://github.com/apu52/Travel_Website/issues/1873) |
+| Authorization Bypass: Unauthenticated users can submit ratings/feedback. | Medium | [#1872](https://github.com/apu52/Travel_Website/issues/1872) |
+| Add Snake Cursor Effect | Medium | [#1871](https://github.com/apu52/Travel_Website/issues/1871) |
+| Implement a custom cursor for enhanced UI | Medium | [#1870](https://github.com/apu52/Travel_Website/issues/1870) |
+| Card Alignment's Improvement | Medium | [#1868](https://github.com/apu52/Travel_Website/issues/1868) |
+| UI/UX Improvement of footer inside the pricing section | Medium | [#1867](https://github.com/apu52/Travel_Website/issues/1867) |
+| UI Enhancement | Medium | [#1866](https://github.com/apu52/Travel_Website/issues/1866) |
+| Direct signup/signin not working | Medium | [#1865](https://github.com/apu52/Travel_Website/issues/1865) |
+| UI/UX & Feature Enhancements | Medium | [#1864](https://github.com/apu52/Travel_Website/issues/1864) |
+| Singup with google,facebook not working | Medium | [#1862](https://github.com/apu52/Travel_Website/issues/1862) |
+| Improve Navbar & Footer Responsiveness (Mobile Enhancement) | Medium | [#1861](https://github.com/apu52/Travel_Website/issues/1861) |
+| work on overall project | Medium | [#1860](https://github.com/apu52/Travel_Website/issues/1860) |
+| UX Improvement: Speed Up Page Navigation Animations | Medium | [#1859](https://github.com/apu52/Travel_Website/issues/1859) |
+| Add Flight Booking Page/Section | Medium | [#1858](https://github.com/apu52/Travel_Website/issues/1858) |
+| Add TravelChat for Real-Time User Communication | Medium | [#1857](https://github.com/apu52/Travel_Website/issues/1857) |
+| Image not visible | Medium | [#1856](https://github.com/apu52/Travel_Website/issues/1856) |
+| Adding hover effect in navbar buttons | Medium | [#1852](https://github.com/apu52/Travel_Website/issues/1852) |
+| Hamburger menu not working on Plan Trip page | Medium | [#1851](https://github.com/apu52/Travel_Website/issues/1851) |
+| Navbar button inconsistency and low visibility of nav links | Medium | [#1850](https://github.com/apu52/Travel_Website/issues/1850) |
+| Improve footer content spacing and ui | Medium | [#1849](https://github.com/apu52/Travel_Website/issues/1849) |
+| Improve the font and UI of navbar | Medium | [#1848](https://github.com/apu52/Travel_Website/issues/1848) |
 
 ---
 
@@ -787,7 +825,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Readme file is missing | Medium | [#31](https://github.com/EmailScript/EmailScript/issues/31) |
 | Enhance UI/UX and Functionality: Loading Indicator, Clear Button, Improved Results, Detailed Info, and History | Medium | [#30](https://github.com/EmailScript/EmailScript/issues/30) |
 | Readme File is missing | Medium | [#29](https://github.com/EmailScript/EmailScript/issues/29) |
 | Readme is missing | Medium | [#27](https://github.com/EmailScript/EmailScript/issues/27) |
@@ -1088,6 +1125,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Move contribution details to a separate CONTRIBUTE.md file | Easy | [#1241](https://github.com/recodehive/recode-website/issues/1241) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
 | chore: bump prettier from 3.6.2 to 3.7.3 | Easy | [#1238](https://github.com/recodehive/recode-website/pull/1238) |
 | chore: bump framer-motion from 12.23.24 to 12.23.25 | Medium | [#1237](https://github.com/recodehive/recode-website/pull/1237) |
@@ -2076,25 +2114,25 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump lucide-react from 0.344.0 to 0.560.0 | Medium | [#212](https://github.com/Ojas-Arora/SapneSeSafar/pull/212) |
+| Bump eslint from 9.12.0 to 9.39.2 | Medium | [#222](https://github.com/Ojas-Arora/SapneSeSafar/pull/222) |
+| Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.25 | Medium | [#221](https://github.com/Ojas-Arora/SapneSeSafar/pull/221) |
+| Bump autoprefixer from 10.4.20 to 10.4.23 | Medium | [#220](https://github.com/Ojas-Arora/SapneSeSafar/pull/220) |
+| Bump @types/papaparse from 5.3.16 to 5.5.2 | Medium | [#219](https://github.com/Ojas-Arora/SapneSeSafar/pull/219) |
+| Bump vite from 5.4.17 to 7.3.0 | Medium | [#218](https://github.com/Ojas-Arora/SapneSeSafar/pull/218) |
+| Bump recharts from 2.15.0 to 3.6.0 | Medium | [#217](https://github.com/Ojas-Arora/SapneSeSafar/pull/217) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.87.3 | Medium | [#216](https://github.com/Ojas-Arora/SapneSeSafar/pull/216) |
+| Bump lucide-react from 0.344.0 to 0.561.0 | Medium | [#215](https://github.com/Ojas-Arora/SapneSeSafar/pull/215) |
+| Bump react and @types/react | Medium | [#214](https://github.com/Ojas-Arora/SapneSeSafar/pull/214) |
+| Bump react-dom and @types/react-dom | Medium | [#213](https://github.com/Ojas-Arora/SapneSeSafar/pull/213) |
 | Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
-| Bump react and @types/react | Medium | [#210](https://github.com/Ojas-Arora/SapneSeSafar/pull/210) |
-| Bump react-dom and @types/react-dom | Medium | [#209](https://github.com/Ojas-Arora/SapneSeSafar/pull/209) |
 | Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
 | Bump framer-motion from 11.18.2 to 12.23.26 | Medium | [#206](https://github.com/Ojas-Arora/SapneSeSafar/pull/206) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.87.1 | Medium | [#205](https://github.com/Ojas-Arora/SapneSeSafar/pull/205) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.2 | Medium | [#204](https://github.com/Ojas-Arora/SapneSeSafar/pull/204) |
-| Bump vite from 5.4.17 to 7.2.7 | Medium | [#202](https://github.com/Ojas-Arora/SapneSeSafar/pull/202) |
 | Bump react-router-dom from 6.28.2 to 7.10.1 | Medium | [#199](https://github.com/Ojas-Arora/SapneSeSafar/pull/199) |
 | Bump zustand from 4.5.6 to 5.0.9 | Medium | [#193](https://github.com/Ojas-Arora/SapneSeSafar/pull/193) |
-| Bump @types/papaparse from 5.3.16 to 5.5.1 | Medium | [#192](https://github.com/Ojas-Arora/SapneSeSafar/pull/192) |
-| Bump recharts from 2.15.0 to 3.5.1 | Medium | [#191](https://github.com/Ojas-Arora/SapneSeSafar/pull/191) |
-| Bump autoprefixer from 10.4.20 to 10.4.22 | Medium | [#179](https://github.com/Ojas-Arora/SapneSeSafar/pull/179) |
-| Bump eslint from 9.12.0 to 9.39.1 | Medium | [#170](https://github.com/Ojas-Arora/SapneSeSafar/pull/170) |
 | Bump axios from 1.7.9 to 1.13.2 | Medium | [#167](https://github.com/Ojas-Arora/SapneSeSafar/pull/167) |
 | Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
-| Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.24 | Medium | [#145](https://github.com/Ojas-Arora/SapneSeSafar/pull/145) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
 | Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
 | Feat: Sharks Details | Medium | [#60](https://github.com/Ojas-Arora/SapneSeSafar/issues/60) |
