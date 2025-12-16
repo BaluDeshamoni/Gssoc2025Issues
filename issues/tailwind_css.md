@@ -100,8 +100,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📊 Weekly Project Summary - 12/13/2025 | Medium | [#725](https://github.com/abhisek2004/Dev-Elevate/issues/725) |
-| 📊 Weekly Project Summary - 12/12/2025 | Medium | [#724](https://github.com/abhisek2004/Dev-Elevate/issues/724) |
+| 📊 Weekly Project Summary - 12/15/2025 | Medium | [#727](https://github.com/abhisek2004/Dev-Elevate/issues/727) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -259,11 +258,12 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Update `mentorship_update_comments` Command to Skip Modules Without Labels | Easy | [#2860](https://github.com/OWASP/Nest/issues/2860) |
 | feat: add PostHog support integration | Easy | [#2851](https://github.com/OWASP/Nest/pull/2851) |
-| Update about page project timeline with the logo related item | Medium | [#2900](https://github.com/OWASP/Nest/pull/2900) |
+| Fix(map): improve map overlay accessibility and add hover effects | Medium | [#2931](https://github.com/OWASP/Nest/pull/2931) |
+| Create Community Snapshot Videos Task | Medium | [#2924](https://github.com/OWASP/Nest/issues/2924) |
+| Enhance Precise Location Manipulation on Chapters Map | Medium | [#2914](https://github.com/OWASP/Nest/pull/2914) |
+| feat: add icalendar file download support | Medium | [#2909](https://github.com/OWASP/Nest/pull/2909) |
+| Add a proper typescript types | Medium | [#2903](https://github.com/OWASP/Nest/issues/2903) |
 | imporove test covarage to 100 percent for EntityActions.tsx | Medium | [#2898](https://github.com/OWASP/Nest/pull/2898) |
-| add sortBy in contribute page | Medium | [#2897](https://github.com/OWASP/Nest/issues/2897) |
-| Hide map controls by default | Medium | [#2896](https://github.com/OWASP/Nest/issues/2896) |
-| Enhance Precise Location Manipulation on Chapters Map | Medium | [#2895](https://github.com/OWASP/Nest/issues/2895) |
 | Improve NestBot UX for mentions and unanswered messages | Medium | [#2893](https://github.com/OWASP/Nest/issues/2893) |
 | feat: add skeleton loaders for Organizations and Members Details pages (#2852) | Medium | [#2890](https://github.com/OWASP/Nest/pull/2890) |
 | Move community-related pages under /community path | Medium | [#2886](https://github.com/OWASP/Nest/issues/2886) |
@@ -1692,6 +1692,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix React Server Components CVE vulnerabilities | Medium | [#12](https://github.com/aykansal/EduType/pull/12) |
 | button hover effect | Medium | [#11](https://github.com/aykansal/EduType/issues/11) |
 | Add a "Back to Top" Button for Better Navigation | Medium | [#10](https://github.com/aykansal/EduType/issues/10) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#9](https://github.com/aykansal/EduType/issues/9) |
@@ -2109,6 +2110,7 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
+| feat: Implement backend for user creation - handle chat functionality and user authentication | Medium | [#144](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/144) |
 | feat(backend): add Flask authentication API and MongoDB integration | Medium | [#140](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/140) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
