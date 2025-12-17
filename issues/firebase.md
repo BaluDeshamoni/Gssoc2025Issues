@@ -291,7 +291,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Progress Widgets + Fix Layout Issues + New Showcase Page | Easy | [#235](https://github.com/SurajSG23/PrepBuddy/issues/235) |
-| Added Progress Tracking Widgets, Fixed UI Layout Issues, and Added Showcase Page | Medium | [#236](https://github.com/SurajSG23/PrepBuddy/pull/236) |
 | Improve README.md Structure and Visual Appeal | Medium | [#234](https://github.com/SurajSG23/PrepBuddy/issues/234) |
 | Enhance: Improve Visual Hierarchy and Content Detail in About Section | Medium | [#233](https://github.com/SurajSG23/PrepBuddy/issues/233) |
 | Fixed : Improve 'How It Works' Section UI/UX | Medium | [#232](https://github.com/SurajSG23/PrepBuddy/pull/232) |
