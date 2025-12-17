@@ -16,8 +16,10 @@
 |----------|----------------|---------|
 | Update `mentorship_update_comments` Command to Skip Modules Without Labels | Easy | [#2860](https://github.com/OWASP/Nest/issues/2860) |
 | feat: add PostHog support integration | Easy | [#2851](https://github.com/OWASP/Nest/pull/2851) |
+| using remove over removeChild | Medium | [#2939](https://github.com/OWASP/Nest/pull/2939) |
+| Extract nested ternary operations into independent statements | Medium | [#2938](https://github.com/OWASP/Nest/issues/2938) |
+| Move component definition out of the parent component and pass data as props in SkeletonBase component | Medium | [#2937](https://github.com/OWASP/Nest/issues/2937) |
 | Fix(map): improve map overlay accessibility and add hover effects | Medium | [#2931](https://github.com/OWASP/Nest/pull/2931) |
-| Create Community Snapshot Videos Task | Medium | [#2924](https://github.com/OWASP/Nest/issues/2924) |
 | Enhance Precise Location Manipulation on Chapters Map | Medium | [#2914](https://github.com/OWASP/Nest/pull/2914) |
 | feat: add icalendar file download support | Medium | [#2909](https://github.com/OWASP/Nest/pull/2909) |
 | Add a proper typescript types | Medium | [#2903](https://github.com/OWASP/Nest/issues/2903) |
@@ -29,8 +31,6 @@
 | Replace Loading Spinner with Skeleton UI Across Mentorship Portal | Medium | [#2862](https://github.com/OWASP/Nest/issues/2862) |
 | Hide Unpublished Programs and Modules From Public View | Medium | [#2859](https://github.com/OWASP/Nest/issues/2859) |
 | Add Module Removal for Program Admins and Editing for Module Mentors | Medium | [#2858](https://github.com/OWASP/Nest/issues/2858) |
-| Improve Accessibility with ARIA Labels | Medium | [#2846](https://github.com/OWASP/Nest/issues/2846) |
-| Add Return Type Hints to Model Manager Methods | Medium | [#2845](https://github.com/OWASP/Nest/issues/2845) |
 | Extend Module Assignment Functionality with GitHub API Integration | Hard | [#2861](https://github.com/OWASP/Nest/issues/2861) |
 
 ---
