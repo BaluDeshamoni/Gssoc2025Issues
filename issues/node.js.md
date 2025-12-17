@@ -53,6 +53,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 12/16/2025 | Medium | [#728](https://github.com/abhisek2004/Dev-Elevate/issues/728) |
 | 📊 Weekly Project Summary - 12/15/2025 | Medium | [#727](https://github.com/abhisek2004/Dev-Elevate/issues/727) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -255,7 +256,6 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | fixed the eye icons issue in lightmode | Easy | [#277](https://github.com/BhaktiMore18/Pouranik/pull/277) |
 | Add Claude Code GitHub Workflow | Medium | [#301](https://github.com/BhaktiMore18/Pouranik/issues/301) |
-| Added Forgot password | Medium | [#300](https://github.com/BhaktiMore18/Pouranik/pull/300) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
 | Forget password | Medium | [#275](https://github.com/BhaktiMore18/Pouranik/pull/275) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#268](https://github.com/BhaktiMore18/Pouranik/issues/268) |
@@ -1001,7 +1001,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Progress Widgets + Fix Layout Issues + New Showcase Page | Easy | [#235](https://github.com/SurajSG23/PrepBuddy/issues/235) |
-| Added Progress Tracking Widgets, Fixed UI Layout Issues, and Added Showcase Page | Medium | [#236](https://github.com/SurajSG23/PrepBuddy/pull/236) |
 | Improve README.md Structure and Visual Appeal | Medium | [#234](https://github.com/SurajSG23/PrepBuddy/issues/234) |
 | Enhance: Improve Visual Hierarchy and Content Detail in About Section | Medium | [#233](https://github.com/SurajSG23/PrepBuddy/issues/233) |
 | Fixed : Improve 'How It Works' Section UI/UX | Medium | [#232](https://github.com/SurajSG23/PrepBuddy/pull/232) |
