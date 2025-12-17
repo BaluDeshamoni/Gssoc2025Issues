@@ -64,8 +64,6 @@
 | Add Pull Request (PR) Template | Medium | [#342](https://github.com/adityagarwal15/JobSync/issues/342) |
 | Contact section (“LET’S TALK”) alignment issue | Medium | [#340](https://github.com/adityagarwal15/JobSync/issues/340) |
 | Navbar UI Improvements | Medium | [#328](https://github.com/adityagarwal15/JobSync/issues/328) |
-| fix(security): add HTML sanitization middleware for user inputs (#317) | Medium | [#327](https://github.com/adityagarwal15/JobSync/pull/327) |
-| fix: mitigate parameter pollution risk using helmet & hpp (#318) | Medium | [#326](https://github.com/adityagarwal15/JobSync/pull/326) |
 | ci: add GitHub Actions pipeline for lint, build, and test | Medium | [#322](https://github.com/adityagarwal15/JobSync/pull/322) |
 | fix(ui): normalize hover & focus styles in global.css | Medium | [#319](https://github.com/adityagarwal15/JobSync/pull/319) |
 | 🐛 : Name & Role fields not accepting input | Medium | [#311](https://github.com/adityagarwal15/JobSync/issues/311) |
@@ -465,6 +463,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Text Overflow in Description Section Breaks Layout and Readability | Medium | [#1887](https://github.com/apu52/Travel_Website/issues/1887) |
+| Modernize Event Discovery Page with Navbar, Theme Switch & Improved UI | Medium | [#1886](https://github.com/apu52/Travel_Website/issues/1886) |
 | Inconsistent UI design in the “Trending Tours” section | Medium | [#1878](https://github.com/apu52/Travel_Website/issues/1878) |
 | Images not displaying in trip cards | Medium | [#1877](https://github.com/apu52/Travel_Website/issues/1877) |
 | Booking dates are even accepting the wrong years like 2024, 2023 etc | Medium | [#1875](https://github.com/apu52/Travel_Website/issues/1875) |
@@ -490,8 +490,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Navbar button inconsistency and low visibility of nav links | Medium | [#1850](https://github.com/apu52/Travel_Website/issues/1850) |
 | Improve footer content spacing and ui | Medium | [#1849](https://github.com/apu52/Travel_Website/issues/1849) |
 | Improve the font and UI of navbar | Medium | [#1848](https://github.com/apu52/Travel_Website/issues/1848) |
-| No image loaded for Local Events and Festival | Medium | [#1846](https://github.com/apu52/Travel_Website/issues/1846) |
-| Update SECURITY.md file | Medium | [#1845](https://github.com/apu52/Travel_Website/issues/1845) |
 
 ---
 
@@ -1783,7 +1781,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Bug : missing footer in pricing plan.html | Medium | [#111](https://github.com/BDutta18/BodyCraft-Gym/issues/111) |
 | Adding Theme Toggle | Medium | [#110](https://github.com/BDutta18/BodyCraft-Gym/issues/110) |
 | feat: Interactive BMI Calculator + Persistent Dark Mode + Responsive Navbar | Medium | [#105](https://github.com/BDutta18/BodyCraft-Gym/pull/105) |
-| Fixed Member Review Image | Medium | [#104](https://github.com/BDutta18/BodyCraft-Gym/pull/104) |
 | Add Terms and Conditions, and BMI Calculator page | Medium | [#103](https://github.com/BDutta18/BodyCraft-Gym/issues/103) |
 | Add icons for email, phone and address | Medium | [#102](https://github.com/BDutta18/BodyCraft-Gym/issues/102) |
 | Dark headings on Privacy Policy Page | Medium | [#101](https://github.com/BDutta18/BodyCraft-Gym/issues/101) |
@@ -1796,6 +1793,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | bug in navbar | Medium | [#92](https://github.com/BDutta18/BodyCraft-Gym/issues/92) |
 | added favicon #51 | Medium | [#91](https://github.com/BDutta18/BodyCraft-Gym/pull/91) |
 | Image issue | Medium | [#90](https://github.com/BDutta18/BodyCraft-Gym/issues/90) |
+| There is no license in the code | Medium | [#89](https://github.com/BDutta18/BodyCraft-Gym/issues/89) |
 
 ---
 
@@ -2247,11 +2245,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Improve Footer Design & Usability | Medium | [#100](https://github.com/pramisi/Occasio/issues/100) |
 | Improve Featured Products section with scrollable carousel view | Medium | [#99](https://github.com/pramisi/Occasio/issues/99) |
 | Add section Our product | Medium | [#95](https://github.com/pramisi/Occasio/issues/95) |
-| Fixed overflow in x direction | Medium | [#93](https://github.com/pramisi/Occasio/pull/93) |
 | footer changes done | Medium | [#91](https://github.com/pramisi/Occasio/pull/91) |
 | privacy and t&c page created | Medium | [#90](https://github.com/pramisi/Occasio/pull/90) |
 | Featured Products Images Overflow and Misalignment | Medium | [#88](https://github.com/pramisi/Occasio/issues/88) |
 | Header improvement | Medium | [#82](https://github.com/pramisi/Occasio/pull/82) |
+| There is no license in the readme | Medium | [#81](https://github.com/pramisi/Occasio/issues/81) |
 
 ---
 
