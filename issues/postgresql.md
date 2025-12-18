@@ -369,8 +369,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added minimal WhatsApp reminder feature for #204 | Medium | [#210](https://github.com/vatsal-bhakodia/smriti-ai/pull/210) |
-| Add File Structure to README.md | Medium | [#209](https://github.com/vatsal-bhakodia/smriti-ai/issues/209) |
-| Feature Request: Add a Splash Screen for Enhanced User Experience | Medium | [#208](https://github.com/vatsal-bhakodia/smriti-ai/issues/208) |
 | Feature requested : Dynamic Testimonials section | Medium | [#195](https://github.com/vatsal-bhakodia/smriti-ai/pull/195) |
 
 ---
