@@ -80,6 +80,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix React Server Components CVE vulnerabilities | Medium | [#96](https://github.com/LarytheLord/Adventurers-Guild/pull/96) |
 | Fixed: Footer Section UI | Medium | [#93](https://github.com/LarytheLord/Adventurers-Guild/pull/93) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
