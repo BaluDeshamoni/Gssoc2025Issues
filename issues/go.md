@@ -22,8 +22,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📊 Weekly Project Summary - 12/16/2025 | Medium | [#728](https://github.com/abhisek2004/Dev-Elevate/issues/728) |
-| 📊 Weekly Project Summary - 12/15/2025 | Medium | [#727](https://github.com/abhisek2004/Dev-Elevate/issues/727) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -196,19 +194,22 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update `mentorship_update_comments` Command to Skip Modules Without Labels | Easy | [#2860](https://github.com/OWASP/Nest/issues/2860) |
-| feat: add PostHog support integration | Easy | [#2851](https://github.com/OWASP/Nest/pull/2851) |
-| using remove over removeChild | Medium | [#2939](https://github.com/OWASP/Nest/pull/2939) |
+| Revamping OWASP Project UI/UX from scratch | Medium | [#2956](https://github.com/OWASP/Nest/issues/2956) |
+| Remove the unused function parameter "update_fields". | Medium | [#2955](https://github.com/OWASP/Nest/issues/2955) |
+| Fix snapshot node entity leaders AttributeError | Medium | [#2954](https://github.com/OWASP/Nest/issues/2954) |
+| Extract this nested conditional expression into an independent statement. | Medium | [#2953](https://github.com/OWASP/Nest/issues/2953) |
+| useSearchPage.ts hook has the same code repeated. | Medium | [#2952](https://github.com/OWASP/Nest/issues/2952) |
+| Simplify regex to reduce complexity | Medium | [#2951](https://github.com/OWASP/Nest/pull/2951) |
+| fix: replace 'any' types with proper TypeScript types | Medium | [#2950](https://github.com/OWASP/Nest/pull/2950) |
+| Extend nest_update_badges.py to handle OWASP project leader badges | Medium | [#2949](https://github.com/OWASP/Nest/pull/2949) |
+| Add Community Snapshot Videos Command | Medium | [#2948](https://github.com/OWASP/Nest/pull/2948) |
+| Mobile menu icon size changes after page load | Medium | [#2946](https://github.com/OWASP/Nest/issues/2946) |
 | Extract nested ternary operations into independent statements | Medium | [#2938](https://github.com/OWASP/Nest/issues/2938) |
-| Move component definition out of the parent component and pass data as props in SkeletonBase component | Medium | [#2937](https://github.com/OWASP/Nest/issues/2937) |
-| Fix(map): improve map overlay accessibility and add hover effects | Medium | [#2931](https://github.com/OWASP/Nest/pull/2931) |
-| Enhance Precise Location Manipulation on Chapters Map | Medium | [#2914](https://github.com/OWASP/Nest/pull/2914) |
 | feat: add icalendar file download support | Medium | [#2909](https://github.com/OWASP/Nest/pull/2909) |
-| Add a proper typescript types | Medium | [#2903](https://github.com/OWASP/Nest/issues/2903) |
 | imporove test covarage to 100 percent for EntityActions.tsx | Medium | [#2898](https://github.com/OWASP/Nest/pull/2898) |
 | Improve NestBot UX for mentions and unanswered messages | Medium | [#2893](https://github.com/OWASP/Nest/issues/2893) |
 | feat: add skeleton loaders for Organizations and Members Details pages (#2852) | Medium | [#2890](https://github.com/OWASP/Nest/pull/2890) |
 | Move community-related pages under /community path | Medium | [#2886](https://github.com/OWASP/Nest/issues/2886) |
-| migrate to react-icons | Medium | [#2869](https://github.com/OWASP/Nest/pull/2869) |
 | Replace Loading Spinner with Skeleton UI Across Mentorship Portal | Medium | [#2862](https://github.com/OWASP/Nest/issues/2862) |
 | Hide Unpublished Programs and Modules From Public View | Medium | [#2859](https://github.com/OWASP/Nest/issues/2859) |
 | Add Module Removal for Program Admins and Editing for Module Mentors | Medium | [#2858](https://github.com/OWASP/Nest/issues/2858) |
@@ -1769,9 +1770,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.26 | Medium | [#225](https://github.com/Ojas-Arora/SapneSeSafar/pull/225) |
+| Bump react-router-dom from 6.28.2 to 7.11.0 | Medium | [#224](https://github.com/Ojas-Arora/SapneSeSafar/pull/224) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.88.0 | Medium | [#223](https://github.com/Ojas-Arora/SapneSeSafar/pull/223) |
 | Bump eslint from 9.12.0 to 9.39.2 | Medium | [#222](https://github.com/Ojas-Arora/SapneSeSafar/pull/222) |
-| Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.25 | Medium | [#221](https://github.com/Ojas-Arora/SapneSeSafar/pull/221) |
 | Bump autoprefixer from 10.4.20 to 10.4.23 | Medium | [#220](https://github.com/Ojas-Arora/SapneSeSafar/pull/220) |
 | Bump @types/papaparse from 5.3.16 to 5.5.2 | Medium | [#219](https://github.com/Ojas-Arora/SapneSeSafar/pull/219) |
 | Bump vite from 5.4.17 to 7.3.0 | Medium | [#218](https://github.com/Ojas-Arora/SapneSeSafar/pull/218) |
@@ -1783,7 +1785,6 @@ Fast Workflow Tools
 | Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
 | Bump framer-motion from 11.18.2 to 12.23.26 | Medium | [#206](https://github.com/Ojas-Arora/SapneSeSafar/pull/206) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.2 | Medium | [#204](https://github.com/Ojas-Arora/SapneSeSafar/pull/204) |
-| Bump react-router-dom from 6.28.2 to 7.10.1 | Medium | [#199](https://github.com/Ojas-Arora/SapneSeSafar/pull/199) |
 | Bump zustand from 4.5.6 to 5.0.9 | Medium | [#193](https://github.com/Ojas-Arora/SapneSeSafar/pull/193) |
 | Bump axios from 1.7.9 to 1.13.2 | Medium | [#167](https://github.com/Ojas-Arora/SapneSeSafar/pull/167) |
 | Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
