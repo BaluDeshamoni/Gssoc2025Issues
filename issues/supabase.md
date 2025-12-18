@@ -174,6 +174,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix React Server Components CVE vulnerabilities | Medium | [#96](https://github.com/LarytheLord/Adventurers-Guild/pull/96) |
 | Fixed: Footer Section UI | Medium | [#93](https://github.com/LarytheLord/Adventurers-Guild/pull/93) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
 | SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
@@ -213,9 +214,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.26 | Medium | [#225](https://github.com/Ojas-Arora/SapneSeSafar/pull/225) |
+| Bump react-router-dom from 6.28.2 to 7.11.0 | Medium | [#224](https://github.com/Ojas-Arora/SapneSeSafar/pull/224) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.88.0 | Medium | [#223](https://github.com/Ojas-Arora/SapneSeSafar/pull/223) |
 | Bump eslint from 9.12.0 to 9.39.2 | Medium | [#222](https://github.com/Ojas-Arora/SapneSeSafar/pull/222) |
-| Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.25 | Medium | [#221](https://github.com/Ojas-Arora/SapneSeSafar/pull/221) |
 | Bump autoprefixer from 10.4.20 to 10.4.23 | Medium | [#220](https://github.com/Ojas-Arora/SapneSeSafar/pull/220) |
 | Bump @types/papaparse from 5.3.16 to 5.5.2 | Medium | [#219](https://github.com/Ojas-Arora/SapneSeSafar/pull/219) |
 | Bump vite from 5.4.17 to 7.3.0 | Medium | [#218](https://github.com/Ojas-Arora/SapneSeSafar/pull/218) |
@@ -227,7 +229,6 @@
 | Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
 | Bump framer-motion from 11.18.2 to 12.23.26 | Medium | [#206](https://github.com/Ojas-Arora/SapneSeSafar/pull/206) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.2 | Medium | [#204](https://github.com/Ojas-Arora/SapneSeSafar/pull/204) |
-| Bump react-router-dom from 6.28.2 to 7.10.1 | Medium | [#199](https://github.com/Ojas-Arora/SapneSeSafar/pull/199) |
 | Bump zustand from 4.5.6 to 5.0.9 | Medium | [#193](https://github.com/Ojas-Arora/SapneSeSafar/pull/193) |
 | Bump axios from 1.7.9 to 1.13.2 | Medium | [#167](https://github.com/Ojas-Arora/SapneSeSafar/pull/167) |
 | Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
