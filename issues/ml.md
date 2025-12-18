@@ -1259,11 +1259,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | Move contribution details to a separate CONTRIBUTE.md file | Easy | [#1241](https://github.com/recodehive/recode-website/issues/1241) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump prettier from 3.6.2 to 3.7.3 | Easy | [#1238](https://github.com/recodehive/recode-website/pull/1238) |
-| chore: bump framer-motion from 12.23.24 to 12.23.25 | Medium | [#1237](https://github.com/recodehive/recode-website/pull/1237) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.48.1 | Medium | [#1236](https://github.com/recodehive/recode-website/pull/1236) |
-| chore: bump @vercel/analytics from 1.5.0 to 1.6.1 | Medium | [#1235](https://github.com/recodehive/recode-website/pull/1235) |
-| chore: bump @typescript-eslint/parser from 8.46.2 to 8.48.1 | Medium | [#1234](https://github.com/recodehive/recode-website/pull/1234) |
 
 ---
 
