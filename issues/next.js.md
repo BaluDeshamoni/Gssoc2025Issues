@@ -168,14 +168,14 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update `mentorship_update_comments` Command to Skip Modules Without Labels | Easy | [#2860](https://github.com/OWASP/Nest/issues/2860) |
-| Revamping OWASP Project UI/UX from scratch | Medium | [#2956](https://github.com/OWASP/Nest/issues/2956) |
+| Fix project grahpql node attribute error | Medium | [#2964](https://github.com/OWASP/Nest/issues/2964) |
+| Add Tags Display to Issue Cards on Contribute Page | Medium | [#2962](https://github.com/OWASP/Nest/issues/2962) |
 | Remove the unused function parameter "update_fields". | Medium | [#2955](https://github.com/OWASP/Nest/issues/2955) |
 | Fix snapshot node entity leaders AttributeError | Medium | [#2954](https://github.com/OWASP/Nest/issues/2954) |
 | Extract this nested conditional expression into an independent statement. | Medium | [#2953](https://github.com/OWASP/Nest/issues/2953) |
 | useSearchPage.ts hook has the same code repeated. | Medium | [#2952](https://github.com/OWASP/Nest/issues/2952) |
 | Simplify regex to reduce complexity | Medium | [#2951](https://github.com/OWASP/Nest/pull/2951) |
 | fix: replace 'any' types with proper TypeScript types | Medium | [#2950](https://github.com/OWASP/Nest/pull/2950) |
-| Extend nest_update_badges.py to handle OWASP project leader badges | Medium | [#2949](https://github.com/OWASP/Nest/pull/2949) |
 | Add Community Snapshot Videos Command | Medium | [#2948](https://github.com/OWASP/Nest/pull/2948) |
 | Mobile menu icon size changes after page load | Medium | [#2946](https://github.com/OWASP/Nest/issues/2946) |
 | Extract nested ternary operations into independent statements | Medium | [#2938](https://github.com/OWASP/Nest/issues/2938) |
@@ -185,8 +185,6 @@
 | feat: add skeleton loaders for Organizations and Members Details pages (#2852) | Medium | [#2890](https://github.com/OWASP/Nest/pull/2890) |
 | Move community-related pages under /community path | Medium | [#2886](https://github.com/OWASP/Nest/issues/2886) |
 | Replace Loading Spinner with Skeleton UI Across Mentorship Portal | Medium | [#2862](https://github.com/OWASP/Nest/issues/2862) |
-| Hide Unpublished Programs and Modules From Public View | Medium | [#2859](https://github.com/OWASP/Nest/issues/2859) |
-| Add Module Removal for Program Admins and Editing for Module Mentors | Medium | [#2858](https://github.com/OWASP/Nest/issues/2858) |
 | Extend Module Assignment Functionality with GitHub API Integration | Hard | [#2861](https://github.com/OWASP/Nest/issues/2861) |
 
 ---
@@ -517,6 +515,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Move contribution details to a separate CONTRIBUTE.md file | Easy | [#1241](https://github.com/recodehive/recode-website/issues/1241) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
+| chore: bump firebase from 9.23.0 to 12.7.0 | Medium | [#1247](https://github.com/recodehive/recode-website/pull/1247) |
+| chore: bump autoprefixer from 10.4.21 to 10.4.23 | Medium | [#1246](https://github.com/recodehive/recode-website/pull/1246) |
+| chore: bump @typescript-eslint/parser from 8.46.2 to 8.50.0 | Medium | [#1245](https://github.com/recodehive/recode-website/pull/1245) |
+| chore: bump react-dom and @types/react-dom | Medium | [#1244](https://github.com/recodehive/recode-website/pull/1244) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.50.0 | Medium | [#1242](https://github.com/recodehive/recode-website/pull/1242) |
 
 ---
 
@@ -619,6 +622,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix React Server Components CVE vulnerabilities | Medium | [#43](https://github.com/singodiyashubham87/bodhika/pull/43) |
 | Add Computer Networks to Learning Roadmaps | Medium | [#41](https://github.com/singodiyashubham87/bodhika/issues/41) |
 | Implement Dark/Light Mode Toggle | Medium | [#37](https://github.com/singodiyashubham87/bodhika/issues/37) |
 | Enhance Roadmap Section with Visual Layout, Progress Tracking & Interactive Elements | Medium | [#35](https://github.com/singodiyashubham87/bodhika/issues/35) |
