@@ -138,7 +138,6 @@
 | Add AOS scroll animations to enhance user experience | Medium | [#1044](https://github.com/opensource-society/notesvault/pull/1044) |
 | Fix download issue | Medium | [#1043](https://github.com/opensource-society/notesvault/pull/1043) |
 | Fix/dashboard auth 1038 + Fix: enforce server-side auth for protected pages & add secure auth + upload flows | Medium | [#1042](https://github.com/opensource-society/notesvault/pull/1042) |
-| [AOS Animation] <Integrating animations that make the website look more modern and attractive> | Medium | [#1041](https://github.com/opensource-society/notesvault/issues/1041) |
 
 ---
 
@@ -463,6 +462,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: images not displaying in trip cards | Medium | [#1888](https://github.com/apu52/Travel_Website/pull/1888) |
 | Text Overflow in Description Section Breaks Layout and Readability | Medium | [#1887](https://github.com/apu52/Travel_Website/issues/1887) |
 | Modernize Event Discovery Page with Navbar, Theme Switch & Improved UI | Medium | [#1886](https://github.com/apu52/Travel_Website/issues/1886) |
 | Inconsistent UI design in the “Trending Tours” section | Medium | [#1878](https://github.com/apu52/Travel_Website/issues/1878) |
@@ -489,7 +489,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Hamburger menu not working on Plan Trip page | Medium | [#1851](https://github.com/apu52/Travel_Website/issues/1851) |
 | Navbar button inconsistency and low visibility of nav links | Medium | [#1850](https://github.com/apu52/Travel_Website/issues/1850) |
 | Improve footer content spacing and ui | Medium | [#1849](https://github.com/apu52/Travel_Website/issues/1849) |
-| Improve the font and UI of navbar | Medium | [#1848](https://github.com/apu52/Travel_Website/issues/1848) |
 
 ---
 
@@ -1259,6 +1258,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | Move contribution details to a separate CONTRIBUTE.md file | Easy | [#1241](https://github.com/recodehive/recode-website/issues/1241) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
+| chore: bump firebase from 9.23.0 to 12.7.0 | Medium | [#1247](https://github.com/recodehive/recode-website/pull/1247) |
+| chore: bump autoprefixer from 10.4.21 to 10.4.23 | Medium | [#1246](https://github.com/recodehive/recode-website/pull/1246) |
+| chore: bump @typescript-eslint/parser from 8.46.2 to 8.50.0 | Medium | [#1245](https://github.com/recodehive/recode-website/pull/1245) |
+| chore: bump react-dom and @types/react-dom | Medium | [#1244](https://github.com/recodehive/recode-website/pull/1244) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.50.0 | Medium | [#1242](https://github.com/recodehive/recode-website/pull/1242) |
 
 ---
 
@@ -2647,7 +2651,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 |----------|----------------|---------|
 | Tree-shake unused icons and optimize icon bundle | Easy | [#39](https://github.com/x0lg0n/Boutique-To-Box/issues/39) |
 | security: add CSP meta with report-to endpoint and backend logging | Medium | [#52](https://github.com/x0lg0n/Boutique-To-Box/pull/52) |
-| 🎨 Improve About Page UI | Medium | [#46](https://github.com/x0lg0n/Boutique-To-Box/issues/46) |
 
 ---
 
