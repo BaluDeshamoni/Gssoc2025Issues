@@ -22,6 +22,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 12/20/2025 | Medium | [#732](https://github.com/abhisek2004/Dev-Elevate/issues/732) |
+| 📊 Weekly Project Summary - 12/19/2025 | Medium | [#731](https://github.com/abhisek2004/Dev-Elevate/issues/731) |
 | 📊 Weekly Project Summary - 12/18/2025 | Medium | [#730](https://github.com/abhisek2004/Dev-Elevate/issues/730) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -298,7 +300,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
-| Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
+| 🎨 Palette: Add password visibility toggle | Medium | [#212](https://github.com/Devasy23/splitwiser/pull/212) |
 | Restore EAS configuration files | Medium | [#210](https://github.com/Devasy23/splitwiser/pull/210) |
 | Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy23/splitwiser/pull/209) |
 | Mobile UI Refresh | Medium | [#208](https://github.com/Devasy23/splitwiser/pull/208) |
@@ -1362,8 +1364,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
-| feat: Implement backend for user creation - handle chat functionality and user authentication | Medium | [#144](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/144) |
-| feat(backend): add Flask authentication API and MongoDB integration | Medium | [#140](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/140) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 | FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
