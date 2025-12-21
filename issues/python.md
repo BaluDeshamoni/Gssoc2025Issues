@@ -210,27 +210,26 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update `mentorship_update_comments` Command to Skip Modules Without Labels | Easy | [#2860](https://github.com/OWASP/Nest/issues/2860) |
-| Revamping OWASP Project UI/UX from scratch | Medium | [#2956](https://github.com/OWASP/Nest/issues/2956) |
+| Implement Model Property Caching with cached_property | Medium | [#2990](https://github.com/OWASP/Nest/issues/2990) |
+| File path overflows card border on iPhone 12 Pro | Medium | [#2989](https://github.com/OWASP/Nest/issues/2989) |
+| Keyboard navigation support | Medium | [#2988](https://github.com/OWASP/Nest/pull/2988) |
+| Broken keyboard navigation / focus indicators | Medium | [#2987](https://github.com/OWASP/Nest/issues/2987) |
+| Add Semgrep to local and CI/CD checks | Medium | [#2984](https://github.com/OWASP/Nest/issues/2984) |
+| Prefer tag over ARIA role | Medium | [#2977](https://github.com/OWASP/Nest/pull/2977) |
+| Update loading screen to use the new OWASP Nest logo | Medium | [#2975](https://github.com/OWASP/Nest/issues/2975) |
+| Map should be hidden when chapter location is unknown | Medium | [#2973](https://github.com/OWASP/Nest/issues/2973) |
+| Fix breadcrumb overflow for long chapter names on small screens | Medium | [#2972](https://github.com/OWASP/Nest/pull/2972) |
+| Fix project grahpql node attribute error | Medium | [#2964](https://github.com/OWASP/Nest/issues/2964) |
+| Add Tags Display to Issue Cards on Contribute Page | Medium | [#2962](https://github.com/OWASP/Nest/issues/2962) |
 | Remove the unused function parameter "update_fields". | Medium | [#2955](https://github.com/OWASP/Nest/issues/2955) |
 | Fix snapshot node entity leaders AttributeError | Medium | [#2954](https://github.com/OWASP/Nest/issues/2954) |
 | Extract this nested conditional expression into an independent statement. | Medium | [#2953](https://github.com/OWASP/Nest/issues/2953) |
-| useSearchPage.ts hook has the same code repeated. | Medium | [#2952](https://github.com/OWASP/Nest/issues/2952) |
 | Simplify regex to reduce complexity | Medium | [#2951](https://github.com/OWASP/Nest/pull/2951) |
 | fix: replace 'any' types with proper TypeScript types | Medium | [#2950](https://github.com/OWASP/Nest/pull/2950) |
-| Extend nest_update_badges.py to handle OWASP project leader badges | Medium | [#2949](https://github.com/OWASP/Nest/pull/2949) |
 | Add Community Snapshot Videos Command | Medium | [#2948](https://github.com/OWASP/Nest/pull/2948) |
 | Mobile menu icon size changes after page load | Medium | [#2946](https://github.com/OWASP/Nest/issues/2946) |
 | Extract nested ternary operations into independent statements | Medium | [#2938](https://github.com/OWASP/Nest/issues/2938) |
 | feat: add icalendar file download support | Medium | [#2909](https://github.com/OWASP/Nest/pull/2909) |
-| imporove test covarage to 100 percent for EntityActions.tsx | Medium | [#2898](https://github.com/OWASP/Nest/pull/2898) |
-| Improve NestBot UX for mentions and unanswered messages | Medium | [#2893](https://github.com/OWASP/Nest/issues/2893) |
-| feat: add skeleton loaders for Organizations and Members Details pages (#2852) | Medium | [#2890](https://github.com/OWASP/Nest/pull/2890) |
-| Move community-related pages under /community path | Medium | [#2886](https://github.com/OWASP/Nest/issues/2886) |
-| Replace Loading Spinner with Skeleton UI Across Mentorship Portal | Medium | [#2862](https://github.com/OWASP/Nest/issues/2862) |
-| Hide Unpublished Programs and Modules From Public View | Medium | [#2859](https://github.com/OWASP/Nest/issues/2859) |
-| Add Module Removal for Program Admins and Editing for Module Mentors | Medium | [#2858](https://github.com/OWASP/Nest/issues/2858) |
-| Extend Module Assignment Functionality with GitHub API Integration | Hard | [#2861](https://github.com/OWASP/Nest/issues/2861) |
 
 ---
 
@@ -284,7 +283,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
-| Docs : Add Table of Contents in README | Easy | [#143](https://github.com/Devasy23/splitwiser/issues/143) |
+| 🎨 Palette: Add password visibility toggle | Medium | [#212](https://github.com/Devasy23/splitwiser/pull/212) |
 | Restore EAS configuration files | Medium | [#210](https://github.com/Devasy23/splitwiser/pull/210) |
 | Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy23/splitwiser/pull/209) |
 | Mobile UI Refresh | Medium | [#208](https://github.com/Devasy23/splitwiser/pull/208) |
@@ -1071,28 +1070,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 ---
 
-## 📌 Project: PyVerse
-
-📝 **Description:** PyVerse is an open-source collection of diverse Python projects, tools, and scripts, ranging from beginner to advanced, across various domains like machine learning, web development, and automation.
-
-🔗 [View Project](https://github.com/UTSAVS26/PyVerse)
-
-💻 **Tech Stack:** Python
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| 🔊 Issue: Add a Voice Assistant to Navigate PyVerse | Medium | [#1813](https://github.com/UTSAVS26/PyVerse/issues/1813) |
-| ]: Add Responsive Design and Dark Mode Toggle to Portfolio Website | Medium | [#1524](https://github.com/UTSAVS26/PyVerse/issues/1524) |
-| NLP Project autocorrect algorithm | Medium | [#1506](https://github.com/UTSAVS26/PyVerse/issues/1506) |
-| Added pyverse_tip CLI command to show random Python tips | Medium | [#1480](https://github.com/UTSAVS26/PyVerse/pull/1480) |
-| Currency Converter Improved | Medium | [#1418](https://github.com/UTSAVS26/PyVerse/pull/1418) |
-
----
-
 ## 📌 Project: Orthoplay - Spell. Guess. Learn
 
 📝 **Description:** Orthoplay is an interactive voice-based word learning game designed to make vocabulary building fun and engaging. The game challenges players with spoken words accompanied by descriptive hints in text. Players must guess the word by identifying the number of letters and gradually unveiling the correct spelling through intuitive, game-based mechanics.
@@ -1646,8 +1623,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add sidebar visibility dashboard | Medium | [#61](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/61) |
-| Add interactive dashboard for crop yield visualization | Medium | [#60](https://github.com/nupurmadaan04/AI-agriculture-yield-production/pull/60) |
 | Update Project Structure in README.md | Medium | [#53](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/53) |
 | Dynamic Crop-Based Yield Map on Streamlit | Medium | [#50](https://github.com/nupurmadaan04/AI-agriculture-yield-production/issues/50) |
 
@@ -1747,8 +1722,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
-| feat: Implement backend for user creation - handle chat functionality and user authentication | Medium | [#144](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/144) |
-| feat(backend): add Flask authentication API and MongoDB integration | Medium | [#140](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/140) |
 | FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 | FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
