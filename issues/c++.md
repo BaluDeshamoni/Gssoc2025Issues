@@ -52,10 +52,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Tracking Issue: Tests for Error and Logging Policies | Easy | [#120](https://github.com/SharonIV0x86/CinderPeak/issues/120) |
 | feat(adjlist): Implement impl_hasVertex(const VertexType &v) in AdjacencyList.hpp | Easy | [#116](https://github.com/SharonIV0x86/CinderPeak/issues/116) |
-| feat(vis): Improve visualization engine and interactive node dragging in SFML. | Easy | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
+| feat(algorithms): Added support for algorithms. | Medium | [#157](https://github.com/SharonIV0x86/CinderPeak/pull/157) |
 | Add CI for autocomment on PR / ISSUES | Medium | [#128](https://github.com/SharonIV0x86/CinderPeak/issues/128) |
+| Tracking Issue: Tests for Error and Logging Policies | Medium | [#120](https://github.com/SharonIV0x86/CinderPeak/issues/120) |
+| feat(vis): Improve visualization engine and interactive node dragging in SFML. | Medium | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
 
 ---
 
