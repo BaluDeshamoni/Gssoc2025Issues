@@ -53,6 +53,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 12/21/2025 | Medium | [#733](https://github.com/abhisek2004/Dev-Elevate/issues/733) |
 | 📊 Weekly Project Summary - 12/20/2025 | Medium | [#732](https://github.com/abhisek2004/Dev-Elevate/issues/732) |
 | 📊 Weekly Project Summary - 12/19/2025 | Medium | [#731](https://github.com/abhisek2004/Dev-Elevate/issues/731) |
 | 📊 Weekly Project Summary - 12/18/2025 | Medium | [#730](https://github.com/abhisek2004/Dev-Elevate/issues/730) |
@@ -325,12 +326,12 @@ Schools, offices, and wellness centers looking to green their spaces
 | Add a help button to guide the user to filter plants and also allow multiple category selection while applying filter. | Medium | [#157](https://github.com/chandannekya/Clean-Breath/issues/157) |
 | Proposal: Add Auto-Comment on Issue and PR Creation | Medium | [#156](https://github.com/chandannekya/Clean-Breath/issues/156) |
 | Add Templates for PR  and issues | Medium | [#155](https://github.com/chandannekya/Clean-Breath/issues/155) |
-| Fix: Correct home page route by redirecting "/" to "/home" | Medium | [#154](https://github.com/chandannekya/Clean-Breath/pull/154) |
 | Enhancement of UI of blog card with edit and delete button. | Medium | [#153](https://github.com/chandannekya/Clean-Breath/issues/153) |
 | Header & Navigation Redesign | Medium | [#152](https://github.com/chandannekya/Clean-Breath/issues/152) |
 | Animating the sidebar(mobile view) | Medium | [#151](https://github.com/chandannekya/Clean-Breath/issues/151) |
 | Need to improve backend | Medium | [#150](https://github.com/chandannekya/Clean-Breath/issues/150) |
 | Blog text not visible in dark mode | Medium | [#149](https://github.com/chandannekya/Clean-Breath/issues/149) |
+| /store and /plant routes doesn't exist | Medium | [#148](https://github.com/chandannekya/Clean-Breath/issues/148) |
 
 ---
 
@@ -1607,24 +1608,6 @@ Fast Workflow Tools
 | docs: add Code of Conduct | Medium | [#73](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/73) |
 | Add FAQ: How to get assigned to an issue in GSSoC | Medium | [#69](https://github.com/piyushpatelcodes/gssocFAQ-Bot/issues/69) |
 | added-faq-ui | Medium | [#30](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/30) |
-
----
-
-## 📌 Project: BreatheEasy
-
-📝 **Description:** BreatheEasy is an open-source project to help you monitor air quality in your area, understand pollutant levels, and get actionable health advice and improvement measures. It uses the World Air Quality Index (WAQI) API to fetch real-time AQI data and presents it in a clean, user-friendly dashboard.
-
-🔗 [View Project](https://github.com/prasoonk1204/BreatheEasy)
-
-💻 **Tech Stack:** React, Tailwind CSS, Charts.js, Node.js, Express
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add dynamic tab title and Social media handles in navbar & footer | Medium | [#51](https://github.com/prasoonk1204/BreatheEasy/issues/51) |
 
 ---
 
