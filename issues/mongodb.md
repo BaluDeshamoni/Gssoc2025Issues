@@ -22,6 +22,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 12/21/2025 | Medium | [#733](https://github.com/abhisek2004/Dev-Elevate/issues/733) |
 | 📊 Weekly Project Summary - 12/20/2025 | Medium | [#732](https://github.com/abhisek2004/Dev-Elevate/issues/732) |
 | 📊 Weekly Project Summary - 12/19/2025 | Medium | [#731](https://github.com/abhisek2004/Dev-Elevate/issues/731) |
 | 📊 Weekly Project Summary - 12/18/2025 | Medium | [#730](https://github.com/abhisek2004/Dev-Elevate/issues/730) |
@@ -273,12 +274,12 @@ Schools, offices, and wellness centers looking to green their spaces
 | Add a help button to guide the user to filter plants and also allow multiple category selection while applying filter. | Medium | [#157](https://github.com/chandannekya/Clean-Breath/issues/157) |
 | Proposal: Add Auto-Comment on Issue and PR Creation | Medium | [#156](https://github.com/chandannekya/Clean-Breath/issues/156) |
 | Add Templates for PR  and issues | Medium | [#155](https://github.com/chandannekya/Clean-Breath/issues/155) |
-| Fix: Correct home page route by redirecting "/" to "/home" | Medium | [#154](https://github.com/chandannekya/Clean-Breath/pull/154) |
 | Enhancement of UI of blog card with edit and delete button. | Medium | [#153](https://github.com/chandannekya/Clean-Breath/issues/153) |
 | Header & Navigation Redesign | Medium | [#152](https://github.com/chandannekya/Clean-Breath/issues/152) |
 | Animating the sidebar(mobile view) | Medium | [#151](https://github.com/chandannekya/Clean-Breath/issues/151) |
 | Need to improve backend | Medium | [#150](https://github.com/chandannekya/Clean-Breath/issues/150) |
 | Blog text not visible in dark mode | Medium | [#149](https://github.com/chandannekya/Clean-Breath/issues/149) |
+| /store and /plant routes doesn't exist | Medium | [#148](https://github.com/chandannekya/Clean-Breath/issues/148) |
 
 ---
 
@@ -300,6 +301,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
+| 🎨 Palette: Enhance Input Accessibility | Medium | [#213](https://github.com/Devasy23/splitwiser/pull/213) |
 | 🎨 Palette: Add password visibility toggle | Medium | [#212](https://github.com/Devasy23/splitwiser/pull/212) |
 | Restore EAS configuration files | Medium | [#210](https://github.com/Devasy23/splitwiser/pull/210) |
 | Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy23/splitwiser/pull/209) |
