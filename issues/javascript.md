@@ -2230,10 +2230,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement:- There must be a button for language translator | Medium | [#1514](https://github.com/Rakesh9100/Beautiify/issues/1514) |
-| Pointer Tail on/off toggle bar | Medium | [#1512](https://github.com/Rakesh9100/Beautiify/issues/1512) |
-| Add more theme color options | Medium | [#1506](https://github.com/Rakesh9100/Beautiify/pull/1506) |
-| Add more theme color options | Medium | [#1505](https://github.com/Rakesh9100/Beautiify/pull/1505) |
 | Add Checkboxes Category and several Components | Medium | [#1070](https://github.com/Rakesh9100/Beautiify/issues/1070) |
 
 ---
