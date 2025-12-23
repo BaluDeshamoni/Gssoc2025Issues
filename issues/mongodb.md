@@ -22,6 +22,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 12/22/2025 | Medium | [#734](https://github.com/abhisek2004/Dev-Elevate/issues/734) |
 | 📊 Weekly Project Summary - 12/21/2025 | Medium | [#733](https://github.com/abhisek2004/Dev-Elevate/issues/733) |
 | 📊 Weekly Project Summary - 12/20/2025 | Medium | [#732](https://github.com/abhisek2004/Dev-Elevate/issues/732) |
 | 📊 Weekly Project Summary - 12/19/2025 | Medium | [#731](https://github.com/abhisek2004/Dev-Elevate/issues/731) |
@@ -301,6 +302,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
+| 🎨 Palette: Enhance Input Accessibility | Medium | [#214](https://github.com/Devasy23/splitwiser/pull/214) |
 | 🎨 Palette: Enhance Input Accessibility | Medium | [#213](https://github.com/Devasy23/splitwiser/pull/213) |
 | 🎨 Palette: Add password visibility toggle | Medium | [#212](https://github.com/Devasy23/splitwiser/pull/212) |
 | Restore EAS configuration files | Medium | [#210](https://github.com/Devasy23/splitwiser/pull/210) |
@@ -314,7 +316,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy23/splitwiser/pull/151) |
 | API documentation | Medium | [#149](https://github.com/Devasy23/splitwiser/pull/149) |
 | Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy23/splitwiser/pull/148) |
-| Fix preview workflow for forks | Medium | [#146](https://github.com/Devasy23/splitwiser/pull/146) |
 
 ---
 
