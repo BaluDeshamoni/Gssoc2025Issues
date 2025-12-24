@@ -56,7 +56,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fixed the menu dropdown issue #351 | Medium | [#356](https://github.com/adityagarwal15/JobSync/pull/356) |
 | feat(faq): add accessible Support/ FAQ page with voice assistance | Medium | [#355](https://github.com/adityagarwal15/JobSync/pull/355) |
 | Fix : Close dropdown menu when clicking outside for improved UX | Medium | [#354](https://github.com/adityagarwal15/JobSync/pull/354) |
 | fix: dashboard tile highlight overlaps (#334) | Medium | [#349](https://github.com/adityagarwal15/JobSync/pull/349) |
@@ -261,7 +260,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Made basic changes in readme.md | Medium | [#1734](https://github.com/AnujShrivastava01/AnimateItNow/pull/1734) |
 | priyanshu-changes in name | Medium | [#1733](https://github.com/AnujShrivastava01/AnimateItNow/pull/1733) |
 | vansh gupta BTEOP24O1051 | Medium | [#1732](https://github.com/AnujShrivastava01/AnimateItNow/pull/1732) |
 | Theme and color change - Divyani Nema | Medium | [#1731](https://github.com/AnujShrivastava01/AnimateItNow/pull/1731) |
@@ -291,6 +289,7 @@
 | Added my new feature and fixed footer | Medium | [#1706](https://github.com/AnujShrivastava01/AnimateItNow/pull/1706) |
 | Enhancement: Refine dark mode theme & UI consistency for Feedback Page | Medium | [#1705](https://github.com/AnujShrivastava01/AnimateItNow/pull/1705) |
 | Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/AnujShrivastava01/AnimateItNow/issues/1704) |
+| contributor page enhancement | Medium | [#1703](https://github.com/AnujShrivastava01/AnimateItNow/issues/1703) |
 
 ---
 
@@ -316,7 +315,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#71](https://github.com/Menthub-GSSoC/Menthub/issues/71) |
 | Add GSSoC'25 Banner | Medium | [#70](https://github.com/Menthub-GSSoC/Menthub/issues/70) |
 | ⚙️: | Medium | [#69](https://github.com/Menthub-GSSoC/Menthub/issues/69) |
@@ -331,6 +329,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
+| Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
 
 ---
 
