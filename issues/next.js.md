@@ -167,8 +167,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor badges update job: modularize handlers, introduce base class, and add comprehensive tests | Medium | [#3019](https://github.com/OWASP/Nest/issues/3019) |
-| Hero UI forms | Medium | [#3017](https://github.com/OWASP/Nest/pull/3017) |
+| Use `new Array()` instead of `Array()`. | Medium | [#3031](https://github.com/OWASP/Nest/issues/3031) |
+| Refactor: fix redundant exception handling in owasp_sync_board_candidates.py | Medium | [#3029](https://github.com/OWASP/Nest/issues/3029) |
+| Add basic logging to v0 Project API endpoints for improved observability | Medium | [#3028](https://github.com/OWASP/Nest/issues/3028) |
+| feat: Implement Layer 2/3/4: ProjectService, Hybrid Retrieval, and LLM Engine | Medium | [#3027](https://github.com/OWASP/Nest/pull/3027) |
+| Refactor regex to use concise wildcard | Medium | [#3026](https://github.com/OWASP/Nest/pull/3026) |
+| Remove unused function parameter `update_fields` | Medium | [#3020](https://github.com/OWASP/Nest/issues/3020) |
 | Improved locked/unlocked map state in ChapterMap | Medium | [#3015](https://github.com/OWASP/Nest/pull/3015) |
 | feat:layer 2 and layer 3 integration | Medium | [#3009](https://github.com/OWASP/Nest/pull/3009) |
 | updated mentorship_update_comments.py to not sync unlabeled modules | Medium | [#3007](https://github.com/OWASP/Nest/pull/3007) |
@@ -182,10 +186,6 @@
 | Broken keyboard navigation / focus indicators | Medium | [#2987](https://github.com/OWASP/Nest/issues/2987) |
 | Prefer tag over ARIA role | Medium | [#2977](https://github.com/OWASP/Nest/pull/2977) |
 | Update loading screen to use the new OWASP Nest logo | Medium | [#2975](https://github.com/OWASP/Nest/issues/2975) |
-| Fix project grahpql node attribute error | Medium | [#2964](https://github.com/OWASP/Nest/issues/2964) |
-| Add Tags Display to Issue Cards on Contribute Page | Medium | [#2962](https://github.com/OWASP/Nest/issues/2962) |
-| Remove the unused function parameter "update_fields". | Medium | [#2955](https://github.com/OWASP/Nest/issues/2955) |
-| Fix snapshot node entity leaders AttributeError | Medium | [#2954](https://github.com/OWASP/Nest/issues/2954) |
 | Add module ordering functionality for mentorship modules | Hard | [#3016](https://github.com/OWASP/Nest/issues/3016) |
 
 ---
