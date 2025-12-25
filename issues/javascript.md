@@ -642,7 +642,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add Contributors Section in README | Medium | [#173](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/173) |
 | Add Pull Request (PR) Template | Medium | [#172](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/172) |
 | Add Issue Template for Bug, Feature, and Enhancement | Medium | [#171](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/171) |
-| Deployment not accessible: amour-editorial-website.vercel.app shows 404 | Medium | [#169](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/169) |
 | fix: #154 resolve blog page images not displaying | Medium | [#168](https://github.com/lolpanda2004/Amour-Editorial-Website/pull/168) |
 | Add backend validation, file upload, and Nodemailer for contact form | Medium | [#167](https://github.com/lolpanda2004/Amour-Editorial-Website/pull/167) |
 | Issue #129 Resolved – Services Module Expansion & UI Enhancements | Medium | [#158](https://github.com/lolpanda2004/Amour-Editorial-Website/pull/158) |
