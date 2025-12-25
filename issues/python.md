@@ -179,7 +179,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added success toast message using only HTML & CSS | Easy | [#26](https://github.com/Menthub-GSSoC/Menthub/pull/26) |
 | Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#71](https://github.com/Menthub-GSSoC/Menthub/issues/71) |
 | Add GSSoC'25 Banner | Medium | [#70](https://github.com/Menthub-GSSoC/Menthub/issues/70) |
 | ⚙️: | Medium | [#69](https://github.com/Menthub-GSSoC/Menthub/issues/69) |
@@ -194,6 +193,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
+| Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
 
 ---
 
@@ -211,6 +211,13 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Use `new Array()` instead of `Array()`. | Medium | [#3031](https://github.com/OWASP/Nest/issues/3031) |
+| Refactor: fix redundant exception handling in owasp_sync_board_candidates.py | Medium | [#3029](https://github.com/OWASP/Nest/issues/3029) |
+| Add basic logging to v0 Project API endpoints for improved observability | Medium | [#3028](https://github.com/OWASP/Nest/issues/3028) |
+| feat: Implement Layer 2/3/4: ProjectService, Hybrid Retrieval, and LLM Engine | Medium | [#3027](https://github.com/OWASP/Nest/pull/3027) |
+| Refactor regex to use concise wildcard | Medium | [#3026](https://github.com/OWASP/Nest/pull/3026) |
+| Remove unused function parameter `update_fields` | Medium | [#3020](https://github.com/OWASP/Nest/issues/3020) |
+| Improved locked/unlocked map state in ChapterMap | Medium | [#3015](https://github.com/OWASP/Nest/pull/3015) |
 | feat:layer 2 and layer 3 integration | Medium | [#3009](https://github.com/OWASP/Nest/pull/3009) |
 | updated mentorship_update_comments.py to not sync unlabeled modules | Medium | [#3007](https://github.com/OWASP/Nest/pull/3007) |
 | OWASP Nest Monitoring and Observability | Medium | [#3001](https://github.com/OWASP/Nest/issues/3001) |
@@ -221,18 +228,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Implement Model Property Caching with cached_property | Medium | [#2990](https://github.com/OWASP/Nest/issues/2990) |
 | File path overflows card border on iPhone 12 Pro | Medium | [#2989](https://github.com/OWASP/Nest/issues/2989) |
 | Broken keyboard navigation / focus indicators | Medium | [#2987](https://github.com/OWASP/Nest/issues/2987) |
-| Add Semgrep to local and CI/CD checks | Medium | [#2984](https://github.com/OWASP/Nest/issues/2984) |
 | Prefer tag over ARIA role | Medium | [#2977](https://github.com/OWASP/Nest/pull/2977) |
 | Update loading screen to use the new OWASP Nest logo | Medium | [#2975](https://github.com/OWASP/Nest/issues/2975) |
-| Fix project grahpql node attribute error | Medium | [#2964](https://github.com/OWASP/Nest/issues/2964) |
-| Add Tags Display to Issue Cards on Contribute Page | Medium | [#2962](https://github.com/OWASP/Nest/issues/2962) |
-| Remove the unused function parameter "update_fields". | Medium | [#2955](https://github.com/OWASP/Nest/issues/2955) |
-| Fix snapshot node entity leaders AttributeError | Medium | [#2954](https://github.com/OWASP/Nest/issues/2954) |
-| Extract this nested conditional expression into an independent statement. | Medium | [#2953](https://github.com/OWASP/Nest/issues/2953) |
-| Simplify regex to reduce complexity | Medium | [#2951](https://github.com/OWASP/Nest/pull/2951) |
-| fix: replace 'any' types with proper TypeScript types | Medium | [#2950](https://github.com/OWASP/Nest/pull/2950) |
-| Add Community Snapshot Videos Command | Medium | [#2948](https://github.com/OWASP/Nest/pull/2948) |
-| Extract nested ternary operations into independent statements | Medium | [#2938](https://github.com/OWASP/Nest/issues/2938) |
+| Add module ordering functionality for mentorship modules | Hard | [#3016](https://github.com/OWASP/Nest/issues/3016) |
 
 ---
 
@@ -286,9 +284,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
-| 🎨 Palette: Enhance Input Accessibility | Medium | [#214](https://github.com/Devasy23/splitwiser/pull/214) |
-| 🎨 Palette: Enhance Input Accessibility | Medium | [#213](https://github.com/Devasy23/splitwiser/pull/213) |
-| 🎨 Palette: Add password visibility toggle | Medium | [#212](https://github.com/Devasy23/splitwiser/pull/212) |
+| 🎨 Palette: Enhance Modal accessibility and keyboard support | Medium | [#216](https://github.com/Devasy23/splitwiser/pull/216) |
 | Restore EAS configuration files | Medium | [#210](https://github.com/Devasy23/splitwiser/pull/210) |
 | Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy23/splitwiser/pull/209) |
 | Mobile UI Refresh | Medium | [#208](https://github.com/Devasy23/splitwiser/pull/208) |
@@ -300,6 +296,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy23/splitwiser/pull/151) |
 | API documentation | Medium | [#149](https://github.com/Devasy23/splitwiser/pull/149) |
 | Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy23/splitwiser/pull/148) |
+| Fix preview workflow for forks | Medium | [#146](https://github.com/Devasy23/splitwiser/pull/146) |
 
 ---
 
