@@ -461,6 +461,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| The dark mode symbol on the contributing page is just a checkbox | Medium | [#1890](https://github.com/apu52/Travel_Website/issues/1890) |
 | Ui improve on feedback.html page | Medium | [#1889](https://github.com/apu52/Travel_Website/issues/1889) |
 | fix: images not displaying in trip cards | Medium | [#1888](https://github.com/apu52/Travel_Website/pull/1888) |
 | Text Overflow in Description Section Breaks Layout and Readability | Medium | [#1887](https://github.com/apu52/Travel_Website/issues/1887) |
@@ -487,7 +488,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Image not visible | Medium | [#1856](https://github.com/apu52/Travel_Website/issues/1856) |
 | Adding hover effect in navbar buttons | Medium | [#1852](https://github.com/apu52/Travel_Website/issues/1852) |
 | Hamburger menu not working on Plan Trip page | Medium | [#1851](https://github.com/apu52/Travel_Website/issues/1851) |
-| Navbar button inconsistency and low visibility of nav links | Medium | [#1850](https://github.com/apu52/Travel_Website/issues/1850) |
 
 ---
 
@@ -831,6 +831,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix unauthorized room creation vulnerability in Community Chat | Medium | [#444](https://github.com/omroy07/AgriTech/issues/444) |
 | Update README.md | Medium | [#443](https://github.com/omroy07/AgriTech/pull/443) |
 | Agritech | Medium | [#442](https://github.com/omroy07/AgriTech/pull/442) |
 | <short description>Proposal to Implement New Feature Enhancements for AgriTech | Medium | [#440](https://github.com/omroy07/AgriTech/issues/440) |
