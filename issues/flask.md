@@ -205,6 +205,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix unauthorized room creation vulnerability in Community Chat | Medium | [#444](https://github.com/omroy07/AgriTech/issues/444) |
 | Update README.md | Medium | [#443](https://github.com/omroy07/AgriTech/pull/443) |
 | Agritech | Medium | [#442](https://github.com/omroy07/AgriTech/pull/442) |
 | <short description>Proposal to Implement New Feature Enhancements for AgriTech | Medium | [#440](https://github.com/omroy07/AgriTech/issues/440) |
