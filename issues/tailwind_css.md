@@ -100,6 +100,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 12/26/2025 | Medium | [#738](https://github.com/abhisek2004/Dev-Elevate/issues/738) |
+| 📊 Weekly Project Summary - 12/25/2025 | Medium | [#737](https://github.com/abhisek2004/Dev-Elevate/issues/737) |
 | 📊 Weekly Project Summary - 12/24/2025 | Medium | [#736](https://github.com/abhisek2004/Dev-Elevate/issues/736) |
 | 📊 Weekly Project Summary - 12/23/2025 | Medium | [#735](https://github.com/abhisek2004/Dev-Elevate/issues/735) |
 | 📊 Weekly Project Summary - 12/22/2025 | Medium | [#734](https://github.com/abhisek2004/Dev-Elevate/issues/734) |
@@ -134,7 +136,6 @@ Accessibility features like dark mode,white.
 | issue create automate message added | Medium | [#91](https://github.com/AdityaRalhan/Aluma/pull/91) |
 | Adding issue template | Medium | [#90](https://github.com/AdityaRalhan/Aluma/issues/90) |
 | Improve README with setup instructions | Medium | [#89](https://github.com/AdityaRalhan/Aluma/issues/89) |
-| feat(UI): Add responsive header navigation with links | Medium | [#88](https://github.com/AdityaRalhan/Aluma/pull/88) |
 | Bug: Suggestions Logic & Validation Issues in Assessment Controller | Medium | [#87](https://github.com/AdityaRalhan/Aluma/issues/87) |
 | NLP Keyword/Topic Extraction for User Journals | Medium | [#86](https://github.com/AdityaRalhan/Aluma/issues/86) |
 | Add Social Login Options on Signup Page | Medium | [#85](https://github.com/AdityaRalhan/Aluma/issues/85) |
@@ -155,6 +156,7 @@ Accessibility features like dark mode,white.
 | Add GitHub Issue & PR Templates | Medium | [#58](https://github.com/AdityaRalhan/Aluma/issues/58) |
 | <# Add Footer> | Medium | [#57](https://github.com/AdityaRalhan/Aluma/issues/57) |
 | We can add talk to professionals feature | Medium | [#56](https://github.com/AdityaRalhan/Aluma/issues/56) |
+| no descripton in the about section | Medium | [#55](https://github.com/AdityaRalhan/Aluma/issues/55) |
 
 ---
 
@@ -263,12 +265,20 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Use `new Array()` instead of `Array()`. | Medium | [#3031](https://github.com/OWASP/Nest/issues/3031) |
+| Fix inverted isLoaded logic in  SearchBar  component | Medium | [#3051](https://github.com/OWASP/Nest/issues/3051) |
+| Unify issues view between module issues page and Mentee page | Medium | [#3050](https://github.com/OWASP/Nest/pull/3050) |
+| Intro | Medium | [#3045](https://github.com/OWASP/Nest/issues/3045) |
+| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3044](https://github.com/OWASP/Nest/pull/3044) |
+| Extend Existing /owasp Command | Medium | [#3043](https://github.com/OWASP/Nest/issues/3043) |
+| Refactor chapter map | Medium | [#3042](https://github.com/OWASP/Nest/pull/3042) |
+| Add redis cache to e2e tests | Medium | [#3041](https://github.com/OWASP/Nest/pull/3041) |
+| Refactor badges update job: modularize handlers, introduce base class, and add tests | Medium | [#3040](https://github.com/OWASP/Nest/pull/3040) |
+| Sonar S1192: Deduplicate "Ordering field" literal in Snapshot API | Medium | [#3039](https://github.com/OWASP/Nest/issues/3039) |
+| Remove unused function parameter `update_fields` from save method in test class | Medium | [#3036](https://github.com/OWASP/Nest/pull/3036) |
 | Refactor: fix redundant exception handling in owasp_sync_board_candidates.py | Medium | [#3029](https://github.com/OWASP/Nest/issues/3029) |
 | Add basic logging to v0 Project API endpoints for improved observability | Medium | [#3028](https://github.com/OWASP/Nest/issues/3028) |
 | feat: Implement Layer 2/3/4: ProjectService, Hybrid Retrieval, and LLM Engine | Medium | [#3027](https://github.com/OWASP/Nest/pull/3027) |
 | Refactor regex to use concise wildcard | Medium | [#3026](https://github.com/OWASP/Nest/pull/3026) |
-| Remove unused function parameter `update_fields` | Medium | [#3020](https://github.com/OWASP/Nest/issues/3020) |
 | Improved locked/unlocked map state in ChapterMap | Medium | [#3015](https://github.com/OWASP/Nest/pull/3015) |
 | feat:layer 2 and layer 3 integration | Medium | [#3009](https://github.com/OWASP/Nest/pull/3009) |
 | updated mentorship_update_comments.py to not sync unlabeled modules | Medium | [#3007](https://github.com/OWASP/Nest/pull/3007) |
@@ -276,12 +286,6 @@ Accessibility features like dark mode,white.
 | OWASP Board Activity Standardization and Data Programmatic Access | Medium | [#3000](https://github.com/OWASP/Nest/issues/3000) |
 | feat(router): Implement Layer 1 Intent Router (spaCy + Redis) | Medium | [#2999](https://github.com/OWASP/Nest/pull/2999) |
 | docs: Add detailed docstrings to property methods in Mixin classes | Medium | [#2998](https://github.com/OWASP/Nest/pull/2998) |
-| Improve discoverability of chapter website link on chapter pages | Medium | [#2995](https://github.com/OWASP/Nest/issues/2995) |
-| Implement Model Property Caching with cached_property | Medium | [#2990](https://github.com/OWASP/Nest/issues/2990) |
-| File path overflows card border on iPhone 12 Pro | Medium | [#2989](https://github.com/OWASP/Nest/issues/2989) |
-| Broken keyboard navigation / focus indicators | Medium | [#2987](https://github.com/OWASP/Nest/issues/2987) |
-| Prefer tag over ARIA role | Medium | [#2977](https://github.com/OWASP/Nest/pull/2977) |
-| Update loading screen to use the new OWASP Nest logo | Medium | [#2975](https://github.com/OWASP/Nest/issues/2975) |
 | Add module ordering functionality for mentorship modules | Hard | [#3016](https://github.com/OWASP/Nest/issues/3016) |
 
 ---
@@ -512,8 +516,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | ADD a navbar +scroll up top feature | Medium | [#106](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/106) |
 | Docs : Add Table of Contents in README | Medium | [#103](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/103) |
 | Pagination added to StudentsList | Medium | [#100](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/100) |
-| Homepage enhancements | Medium | [#97](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/97) |
-| UI Enhancements: Interactive Landing Page, Footer Redesign & GitHub Popup | Medium | [#92](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/92) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
 
 ---
@@ -1957,6 +1959,24 @@ Fast Workflow Tools
 
 ---
 
+## 📌 Project: BreatheEasy
+
+📝 **Description:** BreatheEasy is an open-source project to help you monitor air quality in your area, understand pollutant levels, and get actionable health advice and improvement measures. It uses the World Air Quality Index (WAQI) API to fetch real-time AQI data and presents it in a clean, user-friendly dashboard.
+
+🔗 [View Project](https://github.com/prasoonk1204/BreatheEasy)
+
+💻 **Tech Stack:** React, Tailwind CSS, Charts.js, Node.js, Express
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Redesign improvement measures page with progress tracking | Medium | [#58](https://github.com/prasoonk1204/BreatheEasy/pull/58) |
+
+---
+
 ## 📌 Project: AuraHire.ai
 
 📝 **Description:** A smart platform that helps users track job applications, improve their resumes with AI-powered analysis, and discover or post job opportunities  all in one place. It simplifies job hunting with actionable insights, real-time tracking, and intelligent resume feedback.
@@ -2337,8 +2357,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add new button | Medium | [#110](https://github.com/subhadeeproy3902/mvpblocks/pull/110) |
-| Feat/new components | Medium | [#109](https://github.com/subhadeeproy3902/mvpblocks/pull/109) |
 | add expandable cards | Medium | [#108](https://github.com/subhadeeproy3902/mvpblocks/pull/108) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
