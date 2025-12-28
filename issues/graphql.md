@@ -14,10 +14,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Assign and un-assign issue via GitHub API | Medium | [#3056](https://github.com/OWASP/Nest/pull/3056) |
+| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3054](https://github.com/OWASP/Nest/pull/3054) |
+| Fix Array constructor usage to satisfy Sonar rules | Medium | [#3053](https://github.com/OWASP/Nest/pull/3053) |
+| Board page showed infinite loading when no data existed for a given year | Medium | [#3052](https://github.com/OWASP/Nest/issues/3052) |
 | Fix inverted isLoaded logic in  SearchBar  component | Medium | [#3051](https://github.com/OWASP/Nest/issues/3051) |
 | Unify issues view between module issues page and Mentee page | Medium | [#3050](https://github.com/OWASP/Nest/pull/3050) |
-| Intro | Medium | [#3045](https://github.com/OWASP/Nest/issues/3045) |
-| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3044](https://github.com/OWASP/Nest/pull/3044) |
 | Extend Existing /owasp Command | Medium | [#3043](https://github.com/OWASP/Nest/issues/3043) |
 | Refactor chapter map | Medium | [#3042](https://github.com/OWASP/Nest/pull/3042) |
 | Add redis cache to e2e tests | Medium | [#3041](https://github.com/OWASP/Nest/pull/3041) |
@@ -34,8 +36,6 @@
 | OWASP Nest Monitoring and Observability | Medium | [#3001](https://github.com/OWASP/Nest/issues/3001) |
 | OWASP Board Activity Standardization and Data Programmatic Access | Medium | [#3000](https://github.com/OWASP/Nest/issues/3000) |
 | feat(router): Implement Layer 1 Intent Router (spaCy + Redis) | Medium | [#2999](https://github.com/OWASP/Nest/pull/2999) |
-| docs: Add detailed docstrings to property methods in Mixin classes | Medium | [#2998](https://github.com/OWASP/Nest/pull/2998) |
-| Add module ordering functionality for mentorship modules | Hard | [#3016](https://github.com/OWASP/Nest/issues/3016) |
 
 ---
 
