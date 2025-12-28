@@ -53,6 +53,9 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 12/27/2025 | Medium | [#739](https://github.com/abhisek2004/Dev-Elevate/issues/739) |
+| 📊 Weekly Project Summary - 12/26/2025 | Medium | [#738](https://github.com/abhisek2004/Dev-Elevate/issues/738) |
+| 📊 Weekly Project Summary - 12/25/2025 | Medium | [#737](https://github.com/abhisek2004/Dev-Elevate/issues/737) |
 | 📊 Weekly Project Summary - 12/24/2025 | Medium | [#736](https://github.com/abhisek2004/Dev-Elevate/issues/736) |
 | 📊 Weekly Project Summary - 12/23/2025 | Medium | [#735](https://github.com/abhisek2004/Dev-Elevate/issues/735) |
 | 📊 Weekly Project Summary - 12/22/2025 | Medium | [#734](https://github.com/abhisek2004/Dev-Elevate/issues/734) |
@@ -110,7 +113,6 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | feat(faq): add accessible Support/ FAQ page with voice assistance | Medium | [#355](https://github.com/adityagarwal15/JobSync/pull/355) |
 | Fix : Close dropdown menu when clicking outside for improved UX | Medium | [#354](https://github.com/adityagarwal15/JobSync/pull/354) |
-| fix: dashboard tile highlight overlaps (#334) | Medium | [#349](https://github.com/adityagarwal15/JobSync/pull/349) |
 | 🐛 : OTP Login Functionality is not working | Medium | [#347](https://github.com/adityagarwal15/JobSync/issues/347) |
 | Add Pull Request (PR) Template | Medium | [#342](https://github.com/adityagarwal15/JobSync/issues/342) |
 | Contact section (“LET’S TALK”) alignment issue | Medium | [#340](https://github.com/adityagarwal15/JobSync/issues/340) |
@@ -368,8 +370,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | ADD a navbar +scroll up top feature | Medium | [#106](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/106) |
 | Docs : Add Table of Contents in README | Medium | [#103](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/103) |
 | Pagination added to StudentsList | Medium | [#100](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/100) |
-| Homepage enhancements | Medium | [#97](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/97) |
-| UI Enhancements: Interactive Landing Page, Footer Redesign & GitHub Popup | Medium | [#92](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/92) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
 
 ---
@@ -529,7 +529,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added  profile fetch and edit. Updated Navbar, routes, and guards to reflect auth state. | Medium | [#215](https://github.com/GitMetricsLab/github_tracker/pull/215) |
 | Fix: ui improved | Medium | [#207](https://github.com/GitMetricsLab/github_tracker/pull/207) |
 | Add Authentication (Login/Signup) System | Medium | [#202](https://github.com/GitMetricsLab/github_tracker/issues/202) |
 | Fix: moved Github ID & Token to environmental variable | Medium | [#199](https://github.com/GitMetricsLab/github_tracker/pull/199) |
@@ -1512,6 +1511,24 @@ Fast Workflow Tools
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
+
+---
+
+## 📌 Project: GroqTales
+
+📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
+
+🔗 [View Project](https://github.com/Drago-03/GroqTales)
+
+💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Adding images in nift-marketplace page | Medium | [#147](https://github.com/Drago-03/GroqTales/issues/147) |
 
 ---
 
