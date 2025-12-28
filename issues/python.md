@@ -211,26 +211,28 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Use `new Array()` instead of `Array()`. | Medium | [#3031](https://github.com/OWASP/Nest/issues/3031) |
+| Assign and un-assign issue via GitHub API | Medium | [#3056](https://github.com/OWASP/Nest/pull/3056) |
+| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3054](https://github.com/OWASP/Nest/pull/3054) |
+| Fix Array constructor usage to satisfy Sonar rules | Medium | [#3053](https://github.com/OWASP/Nest/pull/3053) |
+| Board page showed infinite loading when no data existed for a given year | Medium | [#3052](https://github.com/OWASP/Nest/issues/3052) |
+| Fix inverted isLoaded logic in  SearchBar  component | Medium | [#3051](https://github.com/OWASP/Nest/issues/3051) |
+| Unify issues view between module issues page and Mentee page | Medium | [#3050](https://github.com/OWASP/Nest/pull/3050) |
+| Extend Existing /owasp Command | Medium | [#3043](https://github.com/OWASP/Nest/issues/3043) |
+| Refactor chapter map | Medium | [#3042](https://github.com/OWASP/Nest/pull/3042) |
+| Add redis cache to e2e tests | Medium | [#3041](https://github.com/OWASP/Nest/pull/3041) |
+| Refactor badges update job: modularize handlers, introduce base class, and add tests | Medium | [#3040](https://github.com/OWASP/Nest/pull/3040) |
+| Sonar S1192: Deduplicate "Ordering field" literal in Snapshot API | Medium | [#3039](https://github.com/OWASP/Nest/issues/3039) |
+| Remove unused function parameter `update_fields` from save method in test class | Medium | [#3036](https://github.com/OWASP/Nest/pull/3036) |
 | Refactor: fix redundant exception handling in owasp_sync_board_candidates.py | Medium | [#3029](https://github.com/OWASP/Nest/issues/3029) |
 | Add basic logging to v0 Project API endpoints for improved observability | Medium | [#3028](https://github.com/OWASP/Nest/issues/3028) |
 | feat: Implement Layer 2/3/4: ProjectService, Hybrid Retrieval, and LLM Engine | Medium | [#3027](https://github.com/OWASP/Nest/pull/3027) |
 | Refactor regex to use concise wildcard | Medium | [#3026](https://github.com/OWASP/Nest/pull/3026) |
-| Remove unused function parameter `update_fields` | Medium | [#3020](https://github.com/OWASP/Nest/issues/3020) |
 | Improved locked/unlocked map state in ChapterMap | Medium | [#3015](https://github.com/OWASP/Nest/pull/3015) |
 | feat:layer 2 and layer 3 integration | Medium | [#3009](https://github.com/OWASP/Nest/pull/3009) |
 | updated mentorship_update_comments.py to not sync unlabeled modules | Medium | [#3007](https://github.com/OWASP/Nest/pull/3007) |
 | OWASP Nest Monitoring and Observability | Medium | [#3001](https://github.com/OWASP/Nest/issues/3001) |
 | OWASP Board Activity Standardization and Data Programmatic Access | Medium | [#3000](https://github.com/OWASP/Nest/issues/3000) |
 | feat(router): Implement Layer 1 Intent Router (spaCy + Redis) | Medium | [#2999](https://github.com/OWASP/Nest/pull/2999) |
-| docs: Add detailed docstrings to property methods in Mixin classes | Medium | [#2998](https://github.com/OWASP/Nest/pull/2998) |
-| Improve discoverability of chapter website link on chapter pages | Medium | [#2995](https://github.com/OWASP/Nest/issues/2995) |
-| Implement Model Property Caching with cached_property | Medium | [#2990](https://github.com/OWASP/Nest/issues/2990) |
-| File path overflows card border on iPhone 12 Pro | Medium | [#2989](https://github.com/OWASP/Nest/issues/2989) |
-| Broken keyboard navigation / focus indicators | Medium | [#2987](https://github.com/OWASP/Nest/issues/2987) |
-| Prefer tag over ARIA role | Medium | [#2977](https://github.com/OWASP/Nest/pull/2977) |
-| Update loading screen to use the new OWASP Nest logo | Medium | [#2975](https://github.com/OWASP/Nest/issues/2975) |
-| Add module ordering functionality for mentorship modules | Hard | [#3016](https://github.com/OWASP/Nest/issues/3016) |
 
 ---
 
@@ -280,23 +282,24 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy23/splitwiser/issues/187) |
-| <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy23/splitwiser/issues/181) |
-| <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy23/splitwiser/issues/177) |
-| <title> | Easy | [#156](https://github.com/Devasy23/splitwiser/issues/156) |
-| 🎨 Palette: Enhance Modal accessibility and keyboard support | Medium | [#216](https://github.com/Devasy23/splitwiser/pull/216) |
-| Restore EAS configuration files | Medium | [#210](https://github.com/Devasy23/splitwiser/pull/210) |
-| Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy23/splitwiser/pull/209) |
-| Mobile UI Refresh | Medium | [#208](https://github.com/Devasy23/splitwiser/pull/208) |
-| Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy23/splitwiser/issues/207) |
-| Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy23/splitwiser/pull/205) |
-| chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy23/splitwiser/pull/202) |
-| pre-commit autoupdate | Medium | [#174](https://github.com/Devasy23/splitwiser/pull/174) |
-| Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy23/splitwiser/pull/157) |
-| Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy23/splitwiser/pull/151) |
-| API documentation | Medium | [#149](https://github.com/Devasy23/splitwiser/pull/149) |
-| Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy23/splitwiser/pull/148) |
-| Fix preview workflow for forks | Medium | [#146](https://github.com/Devasy23/splitwiser/pull/146) |
+| Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
+| <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
+| <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
+| <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| 🎨 Palette: Add loading state to Button | Medium | [#218](https://github.com/Devasy/splitwiser/pull/218) |
+| 🎨 Palette: Add loading state to Button component | Medium | [#217](https://github.com/Devasy/splitwiser/pull/217) |
+| 🎨 Palette: Enhance Modal accessibility and keyboard support | Medium | [#216](https://github.com/Devasy/splitwiser/pull/216) |
+| Restore EAS configuration files | Medium | [#210](https://github.com/Devasy/splitwiser/pull/210) |
+| Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy/splitwiser/pull/209) |
+| Mobile UI Refresh | Medium | [#208](https://github.com/Devasy/splitwiser/pull/208) |
+| Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy/splitwiser/issues/207) |
+| Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
+| chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
+| pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
+| Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
+| Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
+| API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
+| Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy/splitwiser/pull/148) |
 
 ---
 
@@ -548,6 +551,15 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix heading visibility issue in light mode on Smart Crop Monitoring page | Medium | [#453](https://github.com/omroy07/AgriTech/pull/453) |
+| <short description>Improve the service page dialog box | Medium | [#452](https://github.com/omroy07/AgriTech/issues/452) |
+| Smart Crop monitoring page on light mode should be enhaced | Medium | [#451](https://github.com/omroy07/AgriTech/issues/451) |
+| UI Enhancement: Footer Modernization and Glassmorphism | Medium | [#449](https://github.com/omroy07/AgriTech/issues/449) |
+| Marketplace Services Page on dark  mood | Medium | [#448](https://github.com/omroy07/AgriTech/issues/448) |
+| Marketplace Services page | Medium | [#447](https://github.com/omroy07/AgriTech/issues/447) |
+| for supply chain support page | Medium | [#446](https://github.com/omroy07/AgriTech/issues/446) |
+| 🐛 Bug Report  Pages Affected: 1. Mission page 2. Careers page | Medium | [#445](https://github.com/omroy07/AgriTech/issues/445) |
+| Fix unauthorized room creation vulnerability in Community Chat | Medium | [#444](https://github.com/omroy07/AgriTech/issues/444) |
 | Update README.md | Medium | [#443](https://github.com/omroy07/AgriTech/pull/443) |
 | Agritech | Medium | [#442](https://github.com/omroy07/AgriTech/pull/442) |
 | <short description>Proposal to Implement New Feature Enhancements for AgriTech | Medium | [#440](https://github.com/omroy07/AgriTech/issues/440) |
@@ -557,10 +569,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Regarding the gssoc Leaderboard | Medium | [#395](https://github.com/omroy07/AgriTech/issues/395) |
 | solved the footer section in home page | Medium | [#381](https://github.com/omroy07/AgriTech/pull/381) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
-| Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
-| Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
-| Unify Navigation Bar Across Pages | Medium | [#358](https://github.com/omroy07/AgriTech/issues/358) |
-| Change in Structuring and design of Feedback form | Medium | [#349](https://github.com/omroy07/AgriTech/issues/349) |
 
 ---
 
@@ -644,31 +652,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | added UI end-to-end tests for example prompts and output panel | Medium | [#98](https://github.com/ProTecGames/Karbon/pull/98) |
 | Feature | Medium | [#90](https://github.com/ProTecGames/Karbon/pull/90) |
 | JSON parsing in ai_engine.py | Medium | [#82](https://github.com/ProTecGames/Karbon/pull/82) |
-
----
-
-## 📌 Project: etsi-watchdog 
-
-📝 **Description:** etsi-watchdog is a Python library for drift detection, version comparison, and real-time monitoring of data streams. Designed for ML practitioners, data scientists, and AI engineers who need reliable data quality insights.
-
-🔗 [View Project](https://github.com/etsi-ai/etsi-watchdog)
-
-💻 **Tech Stack:** Python, Machine Learning
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Enhancement: Validate feature names and improve CLI error messages | Medium | [#46](https://github.com/etsi-ai/etsi-watchdog/issues/46) |
-| Fix login/signup flow and add favicon (issue #44) | Medium | [#45](https://github.com/etsi-ai/etsi-watchdog/pull/45) |
-| Glassmorphism Auth Pages + Dashboard Enhancements+ python code tester | Medium | [#44](https://github.com/etsi-ai/etsi-watchdog/issues/44) |
-| Added Website Style + More examples | Medium | [#43](https://github.com/etsi-ai/etsi-watchdog/pull/43) |
-| Feature/concept drift detection | Medium | [#42](https://github.com/etsi-ai/etsi-watchdog/pull/42) |
-| Add Gaussian Process drift detection (closes #25) | Medium | [#41](https://github.com/etsi-ai/etsi-watchdog/pull/41) |
-| Improvement in Documentation Website UI | Medium | [#37](https://github.com/etsi-ai/etsi-watchdog/issues/37) |
-| feat: Add tree-based drift detection module and tests | Medium | [#35](https://github.com/etsi-ai/etsi-watchdog/pull/35) |
 
 ---
 
@@ -797,33 +780,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 ---
 
-## 📌 Project: failprint
-
-📝 **Description:** MLOps focused diagnostic tool for automatic root cause analysis of ML Model performance failures.It an important step towards explainable AI.
-
-🔗 [View Project](https://github.com/etsi-ai/etsi-failprint)
-
-💻 **Tech Stack:** Python
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Dataset Schema Validation | Medium | [#52](https://github.com/etsi-ai/etsi-failprint/pull/52) |
-| Add Dataset Schema Validation Before Analysis | Medium | [#51](https://github.com/etsi-ai/etsi-failprint/issues/51) |
-| failprint.log committed inside the repository | Medium | [#50](https://github.com/etsi-ai/etsi-failprint/issues/50) |
-| Added Matplotlib Visualization of Feature Importance in model failure | Medium | [#48](https://github.com/etsi-ai/etsi-failprint/pull/48) |
-| improve Readme | Medium | [#43](https://github.com/etsi-ai/etsi-failprint/issues/43) |
-| No Context in Logs | Medium | [#40](https://github.com/etsi-ai/etsi-failprint/issues/40) |
-| Fix: Correct drift correlation logic in compute_drift_correlation | Medium | [#24](https://github.com/etsi-ai/etsi-failprint/pull/24) |
-| Add HTML report generation with charts and cluster stats to failprint.analyze() | Medium | [#15](https://github.com/etsi-ai/etsi-failprint/pull/15) |
-| Added Streamlit dashboard and updated report | Medium | [#5](https://github.com/etsi-ai/etsi-failprint/pull/5) |
-| Added interactive Streamlit dashboard for FailPrint UI analysis [GSSoC'25] | Medium | [#3](https://github.com/etsi-ai/etsi-failprint/pull/3) |
-
----
-
 ## 📌 Project: TalkHeal
 
 📝 **Description:** • A compassionate AI-based mental health assistant
@@ -912,6 +868,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature: Allow Users to Cancel or Modify Their Reservations | Medium | [#22](https://github.com/santhoshkumar1204/hotel-table-reservation-system/issues/22) |
 | feat: Add password hashing and security enhancements #18 | Medium | [#21](https://github.com/santhoshkumar1204/hotel-table-reservation-system/pull/21) |
 | Implement Sign Up & Login Validation | Medium | [#20](https://github.com/santhoshkumar1204/hotel-table-reservation-system/issues/20) |
 | Add a Responsive Home Screen GUI | Medium | [#19](https://github.com/santhoshkumar1204/hotel-table-reservation-system/issues/19) |
@@ -1554,6 +1511,24 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | add phi-4 model (14B parameter) | Medium | [#28](https://github.com/manideepBotsaa/streamlit_application/issues/28) |
+
+---
+
+## 📌 Project: GroqTales
+
+📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
+
+🔗 [View Project](https://github.com/Drago-03/GroqTales)
+
+💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Adding images in nift-marketplace page | Medium | [#147](https://github.com/Drago-03/GroqTales/issues/147) |
 
 ---
 
