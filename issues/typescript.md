@@ -69,6 +69,9 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 12/27/2025 | Medium | [#739](https://github.com/abhisek2004/Dev-Elevate/issues/739) |
+| 📊 Weekly Project Summary - 12/26/2025 | Medium | [#738](https://github.com/abhisek2004/Dev-Elevate/issues/738) |
+| 📊 Weekly Project Summary - 12/25/2025 | Medium | [#737](https://github.com/abhisek2004/Dev-Elevate/issues/737) |
 | 📊 Weekly Project Summary - 12/24/2025 | Medium | [#736](https://github.com/abhisek2004/Dev-Elevate/issues/736) |
 | 📊 Weekly Project Summary - 12/23/2025 | Medium | [#735](https://github.com/abhisek2004/Dev-Elevate/issues/735) |
 | 📊 Weekly Project Summary - 12/22/2025 | Medium | [#734](https://github.com/abhisek2004/Dev-Elevate/issues/734) |
@@ -99,26 +102,28 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Use `new Array()` instead of `Array()`. | Medium | [#3031](https://github.com/OWASP/Nest/issues/3031) |
+| Assign and un-assign issue via GitHub API | Medium | [#3056](https://github.com/OWASP/Nest/pull/3056) |
+| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3054](https://github.com/OWASP/Nest/pull/3054) |
+| Fix Array constructor usage to satisfy Sonar rules | Medium | [#3053](https://github.com/OWASP/Nest/pull/3053) |
+| Board page showed infinite loading when no data existed for a given year | Medium | [#3052](https://github.com/OWASP/Nest/issues/3052) |
+| Fix inverted isLoaded logic in  SearchBar  component | Medium | [#3051](https://github.com/OWASP/Nest/issues/3051) |
+| Unify issues view between module issues page and Mentee page | Medium | [#3050](https://github.com/OWASP/Nest/pull/3050) |
+| Extend Existing /owasp Command | Medium | [#3043](https://github.com/OWASP/Nest/issues/3043) |
+| Refactor chapter map | Medium | [#3042](https://github.com/OWASP/Nest/pull/3042) |
+| Add redis cache to e2e tests | Medium | [#3041](https://github.com/OWASP/Nest/pull/3041) |
+| Refactor badges update job: modularize handlers, introduce base class, and add tests | Medium | [#3040](https://github.com/OWASP/Nest/pull/3040) |
+| Sonar S1192: Deduplicate "Ordering field" literal in Snapshot API | Medium | [#3039](https://github.com/OWASP/Nest/issues/3039) |
+| Remove unused function parameter `update_fields` from save method in test class | Medium | [#3036](https://github.com/OWASP/Nest/pull/3036) |
 | Refactor: fix redundant exception handling in owasp_sync_board_candidates.py | Medium | [#3029](https://github.com/OWASP/Nest/issues/3029) |
 | Add basic logging to v0 Project API endpoints for improved observability | Medium | [#3028](https://github.com/OWASP/Nest/issues/3028) |
 | feat: Implement Layer 2/3/4: ProjectService, Hybrid Retrieval, and LLM Engine | Medium | [#3027](https://github.com/OWASP/Nest/pull/3027) |
 | Refactor regex to use concise wildcard | Medium | [#3026](https://github.com/OWASP/Nest/pull/3026) |
-| Remove unused function parameter `update_fields` | Medium | [#3020](https://github.com/OWASP/Nest/issues/3020) |
 | Improved locked/unlocked map state in ChapterMap | Medium | [#3015](https://github.com/OWASP/Nest/pull/3015) |
 | feat:layer 2 and layer 3 integration | Medium | [#3009](https://github.com/OWASP/Nest/pull/3009) |
 | updated mentorship_update_comments.py to not sync unlabeled modules | Medium | [#3007](https://github.com/OWASP/Nest/pull/3007) |
 | OWASP Nest Monitoring and Observability | Medium | [#3001](https://github.com/OWASP/Nest/issues/3001) |
 | OWASP Board Activity Standardization and Data Programmatic Access | Medium | [#3000](https://github.com/OWASP/Nest/issues/3000) |
 | feat(router): Implement Layer 1 Intent Router (spaCy + Redis) | Medium | [#2999](https://github.com/OWASP/Nest/pull/2999) |
-| docs: Add detailed docstrings to property methods in Mixin classes | Medium | [#2998](https://github.com/OWASP/Nest/pull/2998) |
-| Improve discoverability of chapter website link on chapter pages | Medium | [#2995](https://github.com/OWASP/Nest/issues/2995) |
-| Implement Model Property Caching with cached_property | Medium | [#2990](https://github.com/OWASP/Nest/issues/2990) |
-| File path overflows card border on iPhone 12 Pro | Medium | [#2989](https://github.com/OWASP/Nest/issues/2989) |
-| Broken keyboard navigation / focus indicators | Medium | [#2987](https://github.com/OWASP/Nest/issues/2987) |
-| Prefer tag over ARIA role | Medium | [#2977](https://github.com/OWASP/Nest/pull/2977) |
-| Update loading screen to use the new OWASP Nest logo | Medium | [#2975](https://github.com/OWASP/Nest/issues/2975) |
-| Add module ordering functionality for mentorship modules | Hard | [#3016](https://github.com/OWASP/Nest/issues/3016) |
 
 ---
 
@@ -706,9 +711,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added and updated necessary files | Medium | [#72](https://github.com/IntegerAlex/fingerprint-oss/pull/72) |
+| structured logging + ipv4 , ipv6 with backword compatible ip | Medium | [#73](https://github.com/IntegerAlex/fingerprint-oss/pull/73) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
-| feat : Added in config version == 'Test' | Medium | [#45](https://github.com/IntegerAlex/fingerprint-oss/pull/45) |
 | Stabilization in Hash generation | Hard | [#61](https://github.com/IntegerAlex/fingerprint-oss/pull/61) |
 
 ---
@@ -980,6 +984,24 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | Add Clear Setup and Contribution Instructions to README | Medium | [#13](https://github.com/kunal0297/Nexus_dawn/issues/13) |
 | Add a CONTRIBUTING.md file for better onboarding #8 | Medium | [#11](https://github.com/kunal0297/Nexus_dawn/pull/11) |
+
+---
+
+## 📌 Project: GroqTales
+
+📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
+
+🔗 [View Project](https://github.com/Drago-03/GroqTales)
+
+💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Adding images in nift-marketplace page | Medium | [#147](https://github.com/Drago-03/GroqTales/issues/147) |
 
 ---
 
@@ -1257,8 +1279,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add new button | Medium | [#110](https://github.com/subhadeeproy3902/mvpblocks/pull/110) |
-| Feat/new components | Medium | [#109](https://github.com/subhadeeproy3902/mvpblocks/pull/109) |
 | add expandable cards | Medium | [#108](https://github.com/subhadeeproy3902/mvpblocks/pull/108) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
