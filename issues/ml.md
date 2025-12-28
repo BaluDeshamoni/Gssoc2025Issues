@@ -58,7 +58,6 @@
 |----------|----------------|---------|
 | feat(faq): add accessible Support/ FAQ page with voice assistance | Medium | [#355](https://github.com/adityagarwal15/JobSync/pull/355) |
 | Fix : Close dropdown menu when clicking outside for improved UX | Medium | [#354](https://github.com/adityagarwal15/JobSync/pull/354) |
-| fix: dashboard tile highlight overlaps (#334) | Medium | [#349](https://github.com/adityagarwal15/JobSync/pull/349) |
 | 🐛 : OTP Login Functionality is not working | Medium | [#347](https://github.com/adityagarwal15/JobSync/issues/347) |
 | Add Pull Request (PR) Template | Medium | [#342](https://github.com/adityagarwal15/JobSync/issues/342) |
 | Contact section (“LET’S TALK”) alignment issue | Medium | [#340](https://github.com/adityagarwal15/JobSync/issues/340) |
@@ -461,13 +460,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| The dark mode symbol on the contributing page is just a checkbox | Medium | [#1890](https://github.com/apu52/Travel_Website/issues/1890) |
-| Ui improve on feedback.html page | Medium | [#1889](https://github.com/apu52/Travel_Website/issues/1889) |
-| fix: images not displaying in trip cards | Medium | [#1888](https://github.com/apu52/Travel_Website/pull/1888) |
-| Text Overflow in Description Section Breaks Layout and Readability | Medium | [#1887](https://github.com/apu52/Travel_Website/issues/1887) |
-| Modernize Event Discovery Page with Navbar, Theme Switch & Improved UI | Medium | [#1886](https://github.com/apu52/Travel_Website/issues/1886) |
-| Inconsistent UI design in the “Trending Tours” section | Medium | [#1878](https://github.com/apu52/Travel_Website/issues/1878) |
-| Images not displaying in trip cards | Medium | [#1877](https://github.com/apu52/Travel_Website/issues/1877) |
+| fix: images not displaying in trip cards | Medium | [#1893](https://github.com/apu52/Travel_Website/pull/1893) |
+| Packages page missing theme toggle, inconsistent nav/scrollbar & oversized carousel arrow hover | Medium | [#1892](https://github.com/apu52/Travel_Website/issues/1892) |
+| About page theme toggle not applied, tab spacing inconsistent & growth cards show pointer | Medium | [#1891](https://github.com/apu52/Travel_Website/issues/1891) |
 | Booking dates are even accepting the wrong years like 2024, 2023 etc | Medium | [#1875](https://github.com/apu52/Travel_Website/issues/1875) |
 | alert page, pointer | Medium | [#1874](https://github.com/apu52/Travel_Website/issues/1874) |
 | Slidebar, Hover, Pictures, Overall UI | Medium | [#1873](https://github.com/apu52/Travel_Website/issues/1873) |
@@ -486,8 +481,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Add Flight Booking Page/Section | Medium | [#1858](https://github.com/apu52/Travel_Website/issues/1858) |
 | Add TravelChat for Real-Time User Communication | Medium | [#1857](https://github.com/apu52/Travel_Website/issues/1857) |
 | Image not visible | Medium | [#1856](https://github.com/apu52/Travel_Website/issues/1856) |
-| Adding hover effect in navbar buttons | Medium | [#1852](https://github.com/apu52/Travel_Website/issues/1852) |
-| Hamburger menu not working on Plan Trip page | Medium | [#1851](https://github.com/apu52/Travel_Website/issues/1851) |
 
 ---
 
@@ -831,6 +824,14 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix heading visibility issue in light mode on Smart Crop Monitoring page | Medium | [#453](https://github.com/omroy07/AgriTech/pull/453) |
+| <short description>Improve the service page dialog box | Medium | [#452](https://github.com/omroy07/AgriTech/issues/452) |
+| Smart Crop monitoring page on light mode should be enhaced | Medium | [#451](https://github.com/omroy07/AgriTech/issues/451) |
+| UI Enhancement: Footer Modernization and Glassmorphism | Medium | [#449](https://github.com/omroy07/AgriTech/issues/449) |
+| Marketplace Services Page on dark  mood | Medium | [#448](https://github.com/omroy07/AgriTech/issues/448) |
+| Marketplace Services page | Medium | [#447](https://github.com/omroy07/AgriTech/issues/447) |
+| for supply chain support page | Medium | [#446](https://github.com/omroy07/AgriTech/issues/446) |
+| 🐛 Bug Report  Pages Affected: 1. Mission page 2. Careers page | Medium | [#445](https://github.com/omroy07/AgriTech/issues/445) |
 | Fix unauthorized room creation vulnerability in Community Chat | Medium | [#444](https://github.com/omroy07/AgriTech/issues/444) |
 | Update README.md | Medium | [#443](https://github.com/omroy07/AgriTech/pull/443) |
 | Agritech | Medium | [#442](https://github.com/omroy07/AgriTech/pull/442) |
@@ -841,10 +842,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Regarding the gssoc Leaderboard | Medium | [#395](https://github.com/omroy07/AgriTech/issues/395) |
 | solved the footer section in home page | Medium | [#381](https://github.com/omroy07/AgriTech/pull/381) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
-| Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
-| Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
-| Unify Navigation Bar Across Pages | Medium | [#358](https://github.com/omroy07/AgriTech/issues/358) |
-| Change in Structuring and design of Feedback form | Medium | [#349](https://github.com/omroy07/AgriTech/issues/349) |
 
 ---
 
@@ -1255,13 +1252,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Move contribution details to a separate CONTRIBUTE.md file | Easy | [#1241](https://github.com/recodehive/recode-website/issues/1241) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump firebase from 9.23.0 to 12.7.0 | Medium | [#1247](https://github.com/recodehive/recode-website/pull/1247) |
-| chore: bump autoprefixer from 10.4.21 to 10.4.23 | Medium | [#1246](https://github.com/recodehive/recode-website/pull/1246) |
-| chore: bump @typescript-eslint/parser from 8.46.2 to 8.50.0 | Medium | [#1245](https://github.com/recodehive/recode-website/pull/1245) |
-| chore: bump react-dom and @types/react-dom | Medium | [#1244](https://github.com/recodehive/recode-website/pull/1244) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.50.0 | Medium | [#1242](https://github.com/recodehive/recode-website/pull/1242) |
 
 ---
 
