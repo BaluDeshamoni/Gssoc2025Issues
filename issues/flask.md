@@ -205,6 +205,14 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix heading visibility issue in light mode on Smart Crop Monitoring page | Medium | [#453](https://github.com/omroy07/AgriTech/pull/453) |
+| <short description>Improve the service page dialog box | Medium | [#452](https://github.com/omroy07/AgriTech/issues/452) |
+| Smart Crop monitoring page on light mode should be enhaced | Medium | [#451](https://github.com/omroy07/AgriTech/issues/451) |
+| UI Enhancement: Footer Modernization and Glassmorphism | Medium | [#449](https://github.com/omroy07/AgriTech/issues/449) |
+| Marketplace Services Page on dark  mood | Medium | [#448](https://github.com/omroy07/AgriTech/issues/448) |
+| Marketplace Services page | Medium | [#447](https://github.com/omroy07/AgriTech/issues/447) |
+| for supply chain support page | Medium | [#446](https://github.com/omroy07/AgriTech/issues/446) |
+| 🐛 Bug Report  Pages Affected: 1. Mission page 2. Careers page | Medium | [#445](https://github.com/omroy07/AgriTech/issues/445) |
 | Fix unauthorized room creation vulnerability in Community Chat | Medium | [#444](https://github.com/omroy07/AgriTech/issues/444) |
 | Update README.md | Medium | [#443](https://github.com/omroy07/AgriTech/pull/443) |
 | Agritech | Medium | [#442](https://github.com/omroy07/AgriTech/pull/442) |
@@ -215,10 +223,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Regarding the gssoc Leaderboard | Medium | [#395](https://github.com/omroy07/AgriTech/issues/395) |
 | solved the footer section in home page | Medium | [#381](https://github.com/omroy07/AgriTech/pull/381) |
 | Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
-| Blog Image Not Displaying in "How to Grow Organic Tomatoes" Article | Medium | [#367](https://github.com/omroy07/AgriTech/issues/367) |
-| Redesign the main page mainly the service button nedd to change the place | Medium | [#363](https://github.com/omroy07/AgriTech/issues/363) |
-| Unify Navigation Bar Across Pages | Medium | [#358](https://github.com/omroy07/AgriTech/issues/358) |
-| Change in Structuring and design of Feedback form | Medium | [#349](https://github.com/omroy07/AgriTech/issues/349) |
 
 ---
 
