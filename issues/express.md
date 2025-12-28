@@ -53,6 +53,11 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 12/27/2025 | Medium | [#739](https://github.com/abhisek2004/Dev-Elevate/issues/739) |
+| 📊 Weekly Project Summary - 12/26/2025 | Medium | [#738](https://github.com/abhisek2004/Dev-Elevate/issues/738) |
+| 📊 Weekly Project Summary - 12/25/2025 | Medium | [#737](https://github.com/abhisek2004/Dev-Elevate/issues/737) |
+| 📊 Weekly Project Summary - 12/24/2025 | Medium | [#736](https://github.com/abhisek2004/Dev-Elevate/issues/736) |
+| 📊 Weekly Project Summary - 12/23/2025 | Medium | [#735](https://github.com/abhisek2004/Dev-Elevate/issues/735) |
 | 📊 Weekly Project Summary - 12/22/2025 | Medium | [#734](https://github.com/abhisek2004/Dev-Elevate/issues/734) |
 | 📊 Weekly Project Summary - 12/21/2025 | Medium | [#733](https://github.com/abhisek2004/Dev-Elevate/issues/733) |
 | 📊 Weekly Project Summary - 12/20/2025 | Medium | [#732](https://github.com/abhisek2004/Dev-Elevate/issues/732) |
@@ -81,10 +86,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fixed the menu dropdown issue #351 | Medium | [#356](https://github.com/adityagarwal15/JobSync/pull/356) |
 | feat(faq): add accessible Support/ FAQ page with voice assistance | Medium | [#355](https://github.com/adityagarwal15/JobSync/pull/355) |
 | Fix : Close dropdown menu when clicking outside for improved UX | Medium | [#354](https://github.com/adityagarwal15/JobSync/pull/354) |
-| fix: dashboard tile highlight overlaps (#334) | Medium | [#349](https://github.com/adityagarwal15/JobSync/pull/349) |
 | 🐛 : OTP Login Functionality is not working | Medium | [#347](https://github.com/adityagarwal15/JobSync/issues/347) |
 | Add Pull Request (PR) Template | Medium | [#342](https://github.com/adityagarwal15/JobSync/issues/342) |
 | Contact section (“LET’S TALK”) alignment issue | Medium | [#340](https://github.com/adityagarwal15/JobSync/issues/340) |
@@ -117,7 +120,6 @@ Accessibility features like dark mode,white.
 | issue create automate message added | Medium | [#91](https://github.com/AdityaRalhan/Aluma/pull/91) |
 | Adding issue template | Medium | [#90](https://github.com/AdityaRalhan/Aluma/issues/90) |
 | Improve README with setup instructions | Medium | [#89](https://github.com/AdityaRalhan/Aluma/issues/89) |
-| feat(UI): Add responsive header navigation with links | Medium | [#88](https://github.com/AdityaRalhan/Aluma/pull/88) |
 | Bug: Suggestions Logic & Validation Issues in Assessment Controller | Medium | [#87](https://github.com/AdityaRalhan/Aluma/issues/87) |
 | NLP Keyword/Topic Extraction for User Journals | Medium | [#86](https://github.com/AdityaRalhan/Aluma/issues/86) |
 | Add Social Login Options on Signup Page | Medium | [#85](https://github.com/AdityaRalhan/Aluma/issues/85) |
@@ -138,6 +140,7 @@ Accessibility features like dark mode,white.
 | Add GitHub Issue & PR Templates | Medium | [#58](https://github.com/AdityaRalhan/Aluma/issues/58) |
 | <# Add Footer> | Medium | [#57](https://github.com/AdityaRalhan/Aluma/issues/57) |
 | We can add talk to professionals feature | Medium | [#56](https://github.com/AdityaRalhan/Aluma/issues/56) |
+| no descripton in the about section | Medium | [#55](https://github.com/AdityaRalhan/Aluma/issues/55) |
 
 ---
 
@@ -339,8 +342,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | ADD a navbar +scroll up top feature | Medium | [#106](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/106) |
 | Docs : Add Table of Contents in README | Medium | [#103](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/103) |
 | Pagination added to StudentsList | Medium | [#100](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/100) |
-| Homepage enhancements | Medium | [#97](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/97) |
-| UI Enhancements: Interactive Landing Page, Footer Redesign & GitHub Popup | Medium | [#92](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/92) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
 
 ---
@@ -416,7 +417,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added  profile fetch and edit. Updated Navbar, routes, and guards to reflect auth state. | Medium | [#215](https://github.com/GitMetricsLab/github_tracker/pull/215) |
 | Fix: ui improved | Medium | [#207](https://github.com/GitMetricsLab/github_tracker/pull/207) |
 | Add Authentication (Login/Signup) System | Medium | [#202](https://github.com/GitMetricsLab/github_tracker/issues/202) |
 | Fix: moved Github ID & Token to environmental variable | Medium | [#199](https://github.com/GitMetricsLab/github_tracker/pull/199) |
