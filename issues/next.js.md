@@ -167,7 +167,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Use `new Array()` instead of `Array()`. | Easy | [#3031](https://github.com/OWASP/Nest/issues/3031) |
+| Assign and un-assign issue via GitHub API | Medium | [#3056](https://github.com/OWASP/Nest/pull/3056) |
+| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3054](https://github.com/OWASP/Nest/pull/3054) |
+| Fix Array constructor usage to satisfy Sonar rules | Medium | [#3053](https://github.com/OWASP/Nest/pull/3053) |
+| Board page showed infinite loading when no data existed for a given year | Medium | [#3052](https://github.com/OWASP/Nest/issues/3052) |
+| Fix inverted isLoaded logic in  SearchBar  component | Medium | [#3051](https://github.com/OWASP/Nest/issues/3051) |
+| Unify issues view between module issues page and Mentee page | Medium | [#3050](https://github.com/OWASP/Nest/pull/3050) |
+| Extend Existing /owasp Command | Medium | [#3043](https://github.com/OWASP/Nest/issues/3043) |
 | Refactor chapter map | Medium | [#3042](https://github.com/OWASP/Nest/pull/3042) |
 | Add redis cache to e2e tests | Medium | [#3041](https://github.com/OWASP/Nest/pull/3041) |
 | Refactor badges update job: modularize handlers, introduce base class, and add tests | Medium | [#3040](https://github.com/OWASP/Nest/pull/3040) |
@@ -183,12 +189,6 @@
 | OWASP Nest Monitoring and Observability | Medium | [#3001](https://github.com/OWASP/Nest/issues/3001) |
 | OWASP Board Activity Standardization and Data Programmatic Access | Medium | [#3000](https://github.com/OWASP/Nest/issues/3000) |
 | feat(router): Implement Layer 1 Intent Router (spaCy + Redis) | Medium | [#2999](https://github.com/OWASP/Nest/pull/2999) |
-| docs: Add detailed docstrings to property methods in Mixin classes | Medium | [#2998](https://github.com/OWASP/Nest/pull/2998) |
-| Improve discoverability of chapter website link on chapter pages | Medium | [#2995](https://github.com/OWASP/Nest/issues/2995) |
-| Implement Model Property Caching with cached_property | Medium | [#2990](https://github.com/OWASP/Nest/issues/2990) |
-| File path overflows card border on iPhone 12 Pro | Medium | [#2989](https://github.com/OWASP/Nest/issues/2989) |
-| Broken keyboard navigation / focus indicators | Medium | [#2987](https://github.com/OWASP/Nest/issues/2987) |
-| Add module ordering functionality for mentorship modules | Hard | [#3016](https://github.com/OWASP/Nest/issues/3016) |
 
 ---
 
@@ -515,13 +515,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Move contribution details to a separate CONTRIBUTE.md file | Easy | [#1241](https://github.com/recodehive/recode-website/issues/1241) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump firebase from 9.23.0 to 12.7.0 | Medium | [#1247](https://github.com/recodehive/recode-website/pull/1247) |
-| chore: bump autoprefixer from 10.4.21 to 10.4.23 | Medium | [#1246](https://github.com/recodehive/recode-website/pull/1246) |
-| chore: bump @typescript-eslint/parser from 8.46.2 to 8.50.0 | Medium | [#1245](https://github.com/recodehive/recode-website/pull/1245) |
-| chore: bump react-dom and @types/react-dom | Medium | [#1244](https://github.com/recodehive/recode-website/pull/1244) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.50.0 | Medium | [#1242](https://github.com/recodehive/recode-website/pull/1242) |
 
 ---
 
