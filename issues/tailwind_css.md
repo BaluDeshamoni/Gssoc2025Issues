@@ -100,6 +100,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📊 Weekly Project Summary - 12/27/2025 | Medium | [#739](https://github.com/abhisek2004/Dev-Elevate/issues/739) |
 | 📊 Weekly Project Summary - 12/26/2025 | Medium | [#738](https://github.com/abhisek2004/Dev-Elevate/issues/738) |
 | 📊 Weekly Project Summary - 12/25/2025 | Medium | [#737](https://github.com/abhisek2004/Dev-Elevate/issues/737) |
 | 📊 Weekly Project Summary - 12/24/2025 | Medium | [#736](https://github.com/abhisek2004/Dev-Elevate/issues/736) |
@@ -265,10 +266,12 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Assign and un-assign issue via GitHub API | Medium | [#3056](https://github.com/OWASP/Nest/pull/3056) |
+| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3054](https://github.com/OWASP/Nest/pull/3054) |
+| Fix Array constructor usage to satisfy Sonar rules | Medium | [#3053](https://github.com/OWASP/Nest/pull/3053) |
+| Board page showed infinite loading when no data existed for a given year | Medium | [#3052](https://github.com/OWASP/Nest/issues/3052) |
 | Fix inverted isLoaded logic in  SearchBar  component | Medium | [#3051](https://github.com/OWASP/Nest/issues/3051) |
 | Unify issues view between module issues page and Mentee page | Medium | [#3050](https://github.com/OWASP/Nest/pull/3050) |
-| Intro | Medium | [#3045](https://github.com/OWASP/Nest/issues/3045) |
-| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3044](https://github.com/OWASP/Nest/pull/3044) |
 | Extend Existing /owasp Command | Medium | [#3043](https://github.com/OWASP/Nest/issues/3043) |
 | Refactor chapter map | Medium | [#3042](https://github.com/OWASP/Nest/pull/3042) |
 | Add redis cache to e2e tests | Medium | [#3041](https://github.com/OWASP/Nest/pull/3041) |
@@ -285,8 +288,6 @@ Accessibility features like dark mode,white.
 | OWASP Nest Monitoring and Observability | Medium | [#3001](https://github.com/OWASP/Nest/issues/3001) |
 | OWASP Board Activity Standardization and Data Programmatic Access | Medium | [#3000](https://github.com/OWASP/Nest/issues/3000) |
 | feat(router): Implement Layer 1 Intent Router (spaCy + Redis) | Medium | [#2999](https://github.com/OWASP/Nest/pull/2999) |
-| docs: Add detailed docstrings to property methods in Mixin classes | Medium | [#2998](https://github.com/OWASP/Nest/pull/2998) |
-| Add module ordering functionality for mentorship modules | Hard | [#3016](https://github.com/OWASP/Nest/issues/3016) |
 
 ---
 
@@ -746,7 +747,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added  profile fetch and edit. Updated Navbar, routes, and guards to reflect auth state. | Medium | [#215](https://github.com/GitMetricsLab/github_tracker/pull/215) |
 | Fix: ui improved | Medium | [#207](https://github.com/GitMetricsLab/github_tracker/pull/207) |
 | Add Authentication (Login/Signup) System | Medium | [#202](https://github.com/GitMetricsLab/github_tracker/issues/202) |
 | Fix: moved Github ID & Token to environmental variable | Medium | [#199](https://github.com/GitMetricsLab/github_tracker/pull/199) |
@@ -1956,24 +1956,6 @@ Fast Workflow Tools
 | line remove(readme.md) | Medium | [#64](https://github.com/EasyGoDocs/easygodocs/pull/64) |
 | V1 oindil | Medium | [#60](https://github.com/EasyGoDocs/easygodocs/pull/60) |
 | Docs must be simpler. We provide simple solutions. | Medium | [#58](https://github.com/EasyGoDocs/easygodocs/issues/58) |
-
----
-
-## 📌 Project: BreatheEasy
-
-📝 **Description:** BreatheEasy is an open-source project to help you monitor air quality in your area, understand pollutant levels, and get actionable health advice and improvement measures. It uses the World Air Quality Index (WAQI) API to fetch real-time AQI data and presents it in a clean, user-friendly dashboard.
-
-🔗 [View Project](https://github.com/prasoonk1204/BreatheEasy)
-
-💻 **Tech Stack:** React, Tailwind CSS, Charts.js, Node.js, Express
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Redesign improvement measures page with progress tracking | Medium | [#58](https://github.com/prasoonk1204/BreatheEasy/pull/58) |
 
 ---
 
