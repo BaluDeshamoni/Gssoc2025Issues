@@ -53,18 +53,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📊 Weekly Project Summary - 12/29/2025 | Medium | [#741](https://github.com/abhisek2004/Dev-Elevate/issues/741) |
-| 📊 Weekly Project Summary - 12/28/2025 | Medium | [#740](https://github.com/abhisek2004/Dev-Elevate/issues/740) |
-| 📊 Weekly Project Summary - 12/27/2025 | Medium | [#739](https://github.com/abhisek2004/Dev-Elevate/issues/739) |
-| 📊 Weekly Project Summary - 12/26/2025 | Medium | [#738](https://github.com/abhisek2004/Dev-Elevate/issues/738) |
-| 📊 Weekly Project Summary - 12/25/2025 | Medium | [#737](https://github.com/abhisek2004/Dev-Elevate/issues/737) |
-| 📊 Weekly Project Summary - 12/24/2025 | Medium | [#736](https://github.com/abhisek2004/Dev-Elevate/issues/736) |
-| 📊 Weekly Project Summary - 12/23/2025 | Medium | [#735](https://github.com/abhisek2004/Dev-Elevate/issues/735) |
-| 📊 Weekly Project Summary - 12/22/2025 | Medium | [#734](https://github.com/abhisek2004/Dev-Elevate/issues/734) |
-| 📊 Weekly Project Summary - 12/21/2025 | Medium | [#733](https://github.com/abhisek2004/Dev-Elevate/issues/733) |
-| 📊 Weekly Project Summary - 12/20/2025 | Medium | [#732](https://github.com/abhisek2004/Dev-Elevate/issues/732) |
-| 📊 Weekly Project Summary - 12/19/2025 | Medium | [#731](https://github.com/abhisek2004/Dev-Elevate/issues/731) |
-| 📊 Weekly Project Summary - 12/18/2025 | Medium | [#730](https://github.com/abhisek2004/Dev-Elevate/issues/730) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -1300,24 +1288,6 @@ Fast Workflow Tools
 | correct Backend Bugs | Medium | [#12](https://github.com/Neha-Singh-j/YuktiBot/issues/12) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#6](https://github.com/Neha-Singh-j/YuktiBot/issues/6) |
 | implementation of contact page | Medium | [#3](https://github.com/Neha-Singh-j/YuktiBot/issues/3) |
-
----
-
-## 📌 Project: BreatheEasy
-
-📝 **Description:** BreatheEasy is an open-source project to help you monitor air quality in your area, understand pollutant levels, and get actionable health advice and improvement measures. It uses the World Air Quality Index (WAQI) API to fetch real-time AQI data and presents it in a clean, user-friendly dashboard.
-
-🔗 [View Project](https://github.com/prasoonk1204/BreatheEasy)
-
-💻 **Tech Stack:** React, Tailwind CSS, Charts.js, Node.js, Express
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add hovering effect in Precautions page | Medium | [#59](https://github.com/prasoonk1204/BreatheEasy/issues/59) |
 
 ---
 
