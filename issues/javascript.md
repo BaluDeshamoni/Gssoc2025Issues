@@ -274,7 +274,6 @@
 | blog to blogs by ishika prajapati | Medium | [#1720](https://github.com/AnujShrivastava01/AnimateItNow/pull/1720) |
 | Update chatbot-data.json | Medium | [#1719](https://github.com/AnujShrivastava01/AnimateItNow/pull/1719) |
 | update in index.css styles | Medium | [#1718](https://github.com/AnujShrivastava01/AnimateItNow/pull/1718) |
-| Minor Change in README.md | Medium | [#1717](https://github.com/AnujShrivastava01/AnimateItNow/pull/1717) |
 | replace text with hyper link in the footer | Medium | [#1716](https://github.com/AnujShrivastava01/AnimateItNow/pull/1716) |
 | readme change | Medium | [#1715](https://github.com/AnujShrivastava01/AnimateItNow/pull/1715) |
 | edit footer bottom | Medium | [#1714](https://github.com/AnujShrivastava01/AnimateItNow/pull/1714) |
@@ -289,6 +288,7 @@
 | Enhancement: Refine dark mode theme & UI consistency for Feedback Page | Medium | [#1705](https://github.com/AnujShrivastava01/AnimateItNow/pull/1705) |
 | Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/AnujShrivastava01/AnimateItNow/issues/1704) |
 | contributor page enhancement | Medium | [#1703](https://github.com/AnujShrivastava01/AnimateItNow/issues/1703) |
+| Contact Page UI/UX with Modern Interactions and Animations | Medium | [#1702](https://github.com/AnujShrivastava01/AnimateItNow/issues/1702) |
 
 ---
 
@@ -524,6 +524,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Deploying the bot | Medium | [#82](https://github.com/harshendram/Advanced-Discord-Bot/issues/82) |
 | Add Login Page for User Authentication | Medium | [#80](https://github.com/harshendram/Advanced-Discord-Bot/issues/80) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
 | Overhauling AI section | Hard | [#47](https://github.com/harshendram/Advanced-Discord-Bot/issues/47) |
