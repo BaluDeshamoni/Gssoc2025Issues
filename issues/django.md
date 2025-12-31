@@ -15,23 +15,25 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | docs: Add documentation for GET /api/v0/projects/ endpoint | Easy | [#3067](https://github.com/OWASP/Nest/pull/3067) |
+| Remove unnecessary zero-fraction literals | Medium | [#3113](https://github.com/OWASP/Nest/pull/3113) |
+| Refactor docker files / test images | Medium | [#3112](https://github.com/OWASP/Nest/pull/3112) |
+| Fix: Timezone discrepancies in Program/Module dates and Module date inheritance | Medium | [#3111](https://github.com/OWASP/Nest/issues/3111) |
+| fix(board): render error state instead of infinite loader when data is null | Medium | [#3107](https://github.com/OWASP/Nest/pull/3107) |
+| fix: Standardize compliance badge shape to match health score circle | Medium | [#3106](https://github.com/OWASP/Nest/pull/3106) |
+| Add the last update and update volume names | Medium | [#3102](https://github.com/OWASP/Nest/pull/3102) |
+| Add module ordering | Medium | [#3101](https://github.com/OWASP/Nest/pull/3101) |
+| Refactored nested ternary expressions | Medium | [#3096](https://github.com/OWASP/Nest/pull/3096) |
+| Simplify this regular expression to reduce its complexity | Medium | [#3095](https://github.com/OWASP/Nest/issues/3095) |
+| Prevent crash from invalid theme class during initialization | Medium | [#3089](https://github.com/OWASP/Nest/pull/3089) |
 | Prefer top-level await instead of async IIFE (Sonar S7785) | Medium | [#3087](https://github.com/OWASP/Nest/issues/3087) |
-| Add keyboard navigation support to various components | Medium | [#3086](https://github.com/OWASP/Nest/pull/3086) |
-| fix(board): render error state instead of infinite loader when data  is null | Medium | [#3084](https://github.com/OWASP/Nest/pull/3084) |
 | Fix: Show module as a section when there is only 1 module | Medium | [#3083](https://github.com/OWASP/Nest/issues/3083) |
-| Local dev crash: InvalidCharacterError caused by non-CSS-safe theme value | Medium | [#3082](https://github.com/OWASP/Nest/issues/3082) |
 | Limit visible Roadmap and Project Timeline items on About page | Medium | [#3080](https://github.com/OWASP/Nest/pull/3080) |
 | refactor(api): fix sonar S1192 in snapshot endpoint | Medium | [#3076](https://github.com/OWASP/Nest/pull/3076) |
 | Assign and un-assign issue via GitHub API | Medium | [#3056](https://github.com/OWASP/Nest/pull/3056) |
 | Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3054](https://github.com/OWASP/Nest/pull/3054) |
 | Refactor chapter map | Medium | [#3042](https://github.com/OWASP/Nest/pull/3042) |
-| Add redis cache to e2e tests | Medium | [#3041](https://github.com/OWASP/Nest/pull/3041) |
+| Add redis cache to e2e and fuzz tests | Medium | [#3041](https://github.com/OWASP/Nest/pull/3041) |
 | Refactor badges update job: modularize handlers, introduce base class, and add tests | Medium | [#3040](https://github.com/OWASP/Nest/pull/3040) |
-| Remove unused function parameter `update_fields` from save method in test class | Medium | [#3036](https://github.com/OWASP/Nest/pull/3036) |
-| Add basic logging to v0 Project API endpoints for improved observability | Medium | [#3028](https://github.com/OWASP/Nest/issues/3028) |
-| Improve ChapterMap UX: Locking, Interactions, and Screen Layout | Medium | [#3012](https://github.com/OWASP/Nest/issues/3012) |
-| OWASP Nest Monitoring and Observability | Medium | [#3001](https://github.com/OWASP/Nest/issues/3001) |
-| OWASP Board Activity Standardization and Data Programmatic Access | Medium | [#3000](https://github.com/OWASP/Nest/issues/3000) |
 
 ---
 
