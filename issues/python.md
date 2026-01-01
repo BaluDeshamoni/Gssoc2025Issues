@@ -211,24 +211,30 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: Add documentation for GET /api/v0/projects/ endpoint | Easy | [#3067](https://github.com/OWASP/Nest/pull/3067) |
+| Fix 404 flash on About page | Medium | [#3124](https://github.com/OWASP/Nest/pull/3124) |
+| Validate empty or whitespace-only queries before LLM generation | Medium | [#3123](https://github.com/OWASP/Nest/issues/3123) |
+| Migrate Fuzz tests tool to Schemathesis and add REST Fuzz tests | Medium | [#3122](https://github.com/OWASP/Nest/pull/3122) |
+| Add timeout (and optional retry) handling for OpenAI embeddings call | Medium | [#3121](https://github.com/OWASP/Nest/issues/3121) |
+| Simplify overly complex regular expression in common model | Medium | [#3120](https://github.com/OWASP/Nest/issues/3120) |
+| Star Button Does Not Reflect Repository Starred State | Medium | [#3119](https://github.com/OWASP/Nest/issues/3119) |
+| ci: move permissions to job level | Medium | [#3118](https://github.com/OWASP/Nest/pull/3118) |
+| Hide Unpublished Programs and Modules From Public View | Medium | [#3117](https://github.com/OWASP/Nest/pull/3117) |
+| Refactor events_test.py to reduce cognitive complexity (Sonar S3776) | Medium | [#3115](https://github.com/OWASP/Nest/issues/3115) |
+| Include original question in /ai command response for better context | Medium | [#3114](https://github.com/OWASP/Nest/issues/3114) |
+| Remove unnecessary zero-fraction literals | Medium | [#3113](https://github.com/OWASP/Nest/pull/3113) |
+| Refactor docker files / test images | Medium | [#3112](https://github.com/OWASP/Nest/pull/3112) |
+| Fix: Timezone discrepancies in Program/Module dates and Module date inheritance | Medium | [#3111](https://github.com/OWASP/Nest/issues/3111) |
+| fix(board): render error state instead of infinite loader when data is null | Medium | [#3107](https://github.com/OWASP/Nest/pull/3107) |
+| fix: Standardize compliance badge shape to match health score circle | Medium | [#3106](https://github.com/OWASP/Nest/pull/3106) |
+| Update volume names | Medium | [#3102](https://github.com/OWASP/Nest/pull/3102) |
+| Add module ordering | Medium | [#3101](https://github.com/OWASP/Nest/pull/3101) |
+| Refactored nested ternary expressions | Medium | [#3096](https://github.com/OWASP/Nest/pull/3096) |
+| Simplify this regular expression to reduce its complexity | Medium | [#3095](https://github.com/OWASP/Nest/issues/3095) |
+| Prevent crash from invalid theme class during initialization | Medium | [#3089](https://github.com/OWASP/Nest/pull/3089) |
 | Prefer top-level await instead of async IIFE (Sonar S7785) | Medium | [#3087](https://github.com/OWASP/Nest/issues/3087) |
-| Add keyboard navigation support to various components | Medium | [#3086](https://github.com/OWASP/Nest/pull/3086) |
-| fix(board): render error state instead of infinite loader when data  is null | Medium | [#3084](https://github.com/OWASP/Nest/pull/3084) |
 | Fix: Show module as a section when there is only 1 module | Medium | [#3083](https://github.com/OWASP/Nest/issues/3083) |
-| Local dev crash: InvalidCharacterError caused by non-CSS-safe theme value | Medium | [#3082](https://github.com/OWASP/Nest/issues/3082) |
 | Limit visible Roadmap and Project Timeline items on About page | Medium | [#3080](https://github.com/OWASP/Nest/pull/3080) |
 | refactor(api): fix sonar S1192 in snapshot endpoint | Medium | [#3076](https://github.com/OWASP/Nest/pull/3076) |
-| Assign and un-assign issue via GitHub API | Medium | [#3056](https://github.com/OWASP/Nest/pull/3056) |
-| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3054](https://github.com/OWASP/Nest/pull/3054) |
-| Refactor chapter map | Medium | [#3042](https://github.com/OWASP/Nest/pull/3042) |
-| Add redis cache to e2e tests | Medium | [#3041](https://github.com/OWASP/Nest/pull/3041) |
-| Refactor badges update job: modularize handlers, introduce base class, and add tests | Medium | [#3040](https://github.com/OWASP/Nest/pull/3040) |
-| Remove unused function parameter `update_fields` from save method in test class | Medium | [#3036](https://github.com/OWASP/Nest/pull/3036) |
-| Add basic logging to v0 Project API endpoints for improved observability | Medium | [#3028](https://github.com/OWASP/Nest/issues/3028) |
-| Improve ChapterMap UX: Locking, Interactions, and Screen Layout | Medium | [#3012](https://github.com/OWASP/Nest/issues/3012) |
-| OWASP Nest Monitoring and Observability | Medium | [#3001](https://github.com/OWASP/Nest/issues/3001) |
-| OWASP Board Activity Standardization and Data Programmatic Access | Medium | [#3000](https://github.com/OWASP/Nest/issues/3000) |
 
 ---
 
@@ -282,6 +288,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| 🎨 Palette: Auth Loading States & Accessible Labels | Medium | [#222](https://github.com/Devasy/splitwiser/pull/222) |
+| feat: standardize button loading state | Medium | [#221](https://github.com/Devasy/splitwiser/pull/221) |
 | 🎨 Palette: Add accessible labels to Auth form | Medium | [#220](https://github.com/Devasy/splitwiser/pull/220) |
 | 🎨 Palette: Add loading state to Auth buttons | Medium | [#219](https://github.com/Devasy/splitwiser/pull/219) |
 | 🎨 Palette: Add loading state to Button | Medium | [#218](https://github.com/Devasy/splitwiser/pull/218) |
@@ -295,8 +303,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
-| Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
-| API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
 
 ---
 
@@ -548,6 +554,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Dark mode persistence across pages | Medium | [#455](https://github.com/omroy07/AgriTech/pull/455) |
 | Fix the codebase structure | Medium | [#454](https://github.com/omroy07/AgriTech/issues/454) |
 | Fix heading visibility issue in light mode on Smart Crop Monitoring page | Medium | [#453](https://github.com/omroy07/AgriTech/pull/453) |
 | <short description>Improve the service page dialog box | Medium | [#452](https://github.com/omroy07/AgriTech/issues/452) |
@@ -1203,7 +1210,21 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI: Improve mobile responsiveness and modernize tabs | Medium | [#74](https://github.com/Xenonesis/code-guardian-report/pull/74) |
+| chore(deps): bump next from 15.5.9 to 16.1.1 | Medium | [#89](https://github.com/Xenonesis/code-guardian-report/pull/89) |
+| chore(deps): bump eslint-config-next from 15.5.9 to 16.1.1 | Medium | [#88](https://github.com/Xenonesis/code-guardian-report/pull/88) |
+| chore(deps): bump @types/node from 24.10.1 to 25.0.3 | Medium | [#87](https://github.com/Xenonesis/code-guardian-report/pull/87) |
+| chore(deps): bump the dev-dependencies group with 5 updates | Medium | [#86](https://github.com/Xenonesis/code-guardian-report/pull/86) |
+| chore(deps): bump the production-dependencies group with 15 updates | Medium | [#85](https://github.com/Xenonesis/code-guardian-report/pull/85) |
+| chore(deps): bump eslint from 8.57.1 to 9.39.2 in /functions | Medium | [#84](https://github.com/Xenonesis/code-guardian-report/pull/84) |
+| chore(deps): bump firebase-functions from 7.0.0 to 7.0.2 in /functions | Medium | [#83](https://github.com/Xenonesis/code-guardian-report/pull/83) |
+| chore(deps): bump @types/node from 18.19.130 to 25.0.3 in /functions | Medium | [#82](https://github.com/Xenonesis/code-guardian-report/pull/82) |
+| chore(deps): bump @typescript-eslint/parser from 5.62.0 to 8.51.0 in /functions | Medium | [#81](https://github.com/Xenonesis/code-guardian-report/pull/81) |
+| chore(deps): bump @typescript-eslint/eslint-plugin from 5.62.0 to 8.51.0 in /functions | Medium | [#80](https://github.com/Xenonesis/code-guardian-report/pull/80) |
+| ci(deps): bump github/codeql-action from 3 to 4 | Medium | [#79](https://github.com/Xenonesis/code-guardian-report/pull/79) |
+| ci(deps): bump actions/checkout from 4 to 6 | Medium | [#78](https://github.com/Xenonesis/code-guardian-report/pull/78) |
+| ci(deps): bump codecov/codecov-action from 4 to 5 | Medium | [#77](https://github.com/Xenonesis/code-guardian-report/pull/77) |
+| ci(deps): bump actions/github-script from 7 to 8 | Medium | [#76](https://github.com/Xenonesis/code-guardian-report/pull/76) |
+| ci(deps): bump actions/upload-artifact from 4 to 6 | Medium | [#75](https://github.com/Xenonesis/code-guardian-report/pull/75) |
 | Create extension support for different IDEs | Medium | [#71](https://github.com/Xenonesis/code-guardian-report/pull/71) |
 | Add "Back to Top" button in README | Medium | [#61](https://github.com/Xenonesis/code-guardian-report/issues/61) |
 | Feature Request: Add search bar | Medium | [#60](https://github.com/Xenonesis/code-guardian-report/issues/60) |
@@ -1212,10 +1233,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Sign-in/Sign-up with GitHub fails with `auth/unauthorized-domain` error | Medium | [#48](https://github.com/Xenonesis/code-guardian-report/issues/48) |
 | Mobile reponsive | Medium | [#46](https://github.com/Xenonesis/code-guardian-report/pull/46) |
 | fix: added inline styles and visible content for responsive layout | Medium | [#40](https://github.com/Xenonesis/code-guardian-report/pull/40) |
-| Feat: #14 Implement live code diff viewer with local data source | Medium | [#33](https://github.com/Xenonesis/code-guardian-report/pull/33) |
-| Add more info support | Medium | [#25](https://github.com/Xenonesis/code-guardian-report/issues/25) |
-| add special support of C/C++/C# projects | Hard | [#7](https://github.com/Xenonesis/code-guardian-report/issues/7) |
-| Add more open source Dependencies | Hard | [#5](https://github.com/Xenonesis/code-guardian-report/issues/5) |
 
 ---
 
@@ -1525,7 +1542,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding images in nift-marketplace page | Medium | [#147](https://github.com/Drago-03/GroqTales/issues/147) |
+| Adding images in nift-marketplace page | Medium | [#147](https://github.com/IndieHub25/GroqTales/issues/147) |
 
 ---
 
