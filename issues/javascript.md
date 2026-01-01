@@ -347,6 +347,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Improve spacing between stat cards on homepage UI | Medium | [#1897](https://github.com/apu52/Travel_Website/pull/1897) |
+| fix: feedback form UI improve | Medium | [#1896](https://github.com/apu52/Travel_Website/pull/1896) |
 | fix: resolve scroll hijacking at carousel section | Medium | [#1895](https://github.com/apu52/Travel_Website/pull/1895) |
 | Updated the text content overflow on blog content | Medium | [#1894](https://github.com/apu52/Travel_Website/pull/1894) |
 | fix: images not displaying in trip cards | Medium | [#1893](https://github.com/apu52/Travel_Website/pull/1893) |
@@ -366,8 +368,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Singup with google,facebook not working | Medium | [#1862](https://github.com/apu52/Travel_Website/issues/1862) |
 | Improve Navbar & Footer Responsiveness (Mobile Enhancement) | Medium | [#1861](https://github.com/apu52/Travel_Website/issues/1861) |
 | work on overall project | Medium | [#1860](https://github.com/apu52/Travel_Website/issues/1860) |
-| UX Improvement: Speed Up Page Navigation Animations | Medium | [#1859](https://github.com/apu52/Travel_Website/issues/1859) |
-| Add Flight Booking Page/Section | Medium | [#1858](https://github.com/apu52/Travel_Website/issues/1858) |
 
 ---
 
@@ -746,6 +746,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Dark mode persistence across pages | Medium | [#455](https://github.com/omroy07/AgriTech/pull/455) |
 | Fix the codebase structure | Medium | [#454](https://github.com/omroy07/AgriTech/issues/454) |
 | Fix heading visibility issue in light mode on Smart Crop Monitoring page | Medium | [#453](https://github.com/omroy07/AgriTech/pull/453) |
 | <short description>Improve the service page dialog box | Medium | [#452](https://github.com/omroy07/AgriTech/issues/452) |
@@ -1973,7 +1974,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding images in nift-marketplace page | Medium | [#147](https://github.com/Drago-03/GroqTales/issues/147) |
+| Adding images in nift-marketplace page | Medium | [#147](https://github.com/IndieHub25/GroqTales/issues/147) |
 
 ---
 
