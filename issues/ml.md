@@ -387,7 +387,6 @@ User Profile: BMI calculator and fitness analytics.
 | blog to blogs by ishika prajapati | Medium | [#1720](https://github.com/AnujShrivastava01/AnimateItNow/pull/1720) |
 | Update chatbot-data.json | Medium | [#1719](https://github.com/AnujShrivastava01/AnimateItNow/pull/1719) |
 | update in index.css styles | Medium | [#1718](https://github.com/AnujShrivastava01/AnimateItNow/pull/1718) |
-| Minor Change in README.md | Medium | [#1717](https://github.com/AnujShrivastava01/AnimateItNow/pull/1717) |
 | replace text with hyper link in the footer | Medium | [#1716](https://github.com/AnujShrivastava01/AnimateItNow/pull/1716) |
 | readme change | Medium | [#1715](https://github.com/AnujShrivastava01/AnimateItNow/pull/1715) |
 | edit footer bottom | Medium | [#1714](https://github.com/AnujShrivastava01/AnimateItNow/pull/1714) |
@@ -402,6 +401,7 @@ User Profile: BMI calculator and fitness analytics.
 | Enhancement: Refine dark mode theme & UI consistency for Feedback Page | Medium | [#1705](https://github.com/AnujShrivastava01/AnimateItNow/pull/1705) |
 | Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/AnujShrivastava01/AnimateItNow/issues/1704) |
 | contributor page enhancement | Medium | [#1703](https://github.com/AnujShrivastava01/AnimateItNow/issues/1703) |
+| Contact Page UI/UX with Modern Interactions and Animations | Medium | [#1702](https://github.com/AnujShrivastava01/AnimateItNow/issues/1702) |
 
 ---
 
@@ -460,6 +460,10 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Improve spacing between stat cards on homepage UI | Medium | [#1897](https://github.com/apu52/Travel_Website/pull/1897) |
+| fix: feedback form UI improve | Medium | [#1896](https://github.com/apu52/Travel_Website/pull/1896) |
+| fix: resolve scroll hijacking at carousel section | Medium | [#1895](https://github.com/apu52/Travel_Website/pull/1895) |
+| Updated the text content overflow on blog content | Medium | [#1894](https://github.com/apu52/Travel_Website/pull/1894) |
 | fix: images not displaying in trip cards | Medium | [#1893](https://github.com/apu52/Travel_Website/pull/1893) |
 | Packages page missing theme toggle, inconsistent nav/scrollbar & oversized carousel arrow hover | Medium | [#1892](https://github.com/apu52/Travel_Website/issues/1892) |
 | About page theme toggle not applied, tab spacing inconsistent & growth cards show pointer | Medium | [#1891](https://github.com/apu52/Travel_Website/issues/1891) |
@@ -477,10 +481,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Singup with google,facebook not working | Medium | [#1862](https://github.com/apu52/Travel_Website/issues/1862) |
 | Improve Navbar & Footer Responsiveness (Mobile Enhancement) | Medium | [#1861](https://github.com/apu52/Travel_Website/issues/1861) |
 | work on overall project | Medium | [#1860](https://github.com/apu52/Travel_Website/issues/1860) |
-| UX Improvement: Speed Up Page Navigation Animations | Medium | [#1859](https://github.com/apu52/Travel_Website/issues/1859) |
-| Add Flight Booking Page/Section | Medium | [#1858](https://github.com/apu52/Travel_Website/issues/1858) |
-| Add TravelChat for Real-Time User Communication | Medium | [#1857](https://github.com/apu52/Travel_Website/issues/1857) |
-| Image not visible | Medium | [#1856](https://github.com/apu52/Travel_Website/issues/1856) |
 
 ---
 
@@ -824,6 +824,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Dark mode persistence across pages | Medium | [#455](https://github.com/omroy07/AgriTech/pull/455) |
+| Fix the codebase structure | Medium | [#454](https://github.com/omroy07/AgriTech/issues/454) |
 | Fix heading visibility issue in light mode on Smart Crop Monitoring page | Medium | [#453](https://github.com/omroy07/AgriTech/pull/453) |
 | <short description>Improve the service page dialog box | Medium | [#452](https://github.com/omroy07/AgriTech/issues/452) |
 | Smart Crop monitoring page on light mode should be enhaced | Medium | [#451](https://github.com/omroy07/AgriTech/issues/451) |
@@ -841,7 +843,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Add Contact Section in README.md | Medium | [#413](https://github.com/omroy07/AgriTech/issues/413) |
 | Regarding the gssoc Leaderboard | Medium | [#395](https://github.com/omroy07/AgriTech/issues/395) |
 | solved the footer section in home page | Medium | [#381](https://github.com/omroy07/AgriTech/pull/381) |
-| Page scrolling issue on mobile view | Medium | [#368](https://github.com/omroy07/AgriTech/issues/368) |
 
 ---
 
@@ -1252,7 +1253,12 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump prettier from 3.6.2 to 3.7.4 | Easy | [#1248](https://github.com/recodehive/recode-website/pull/1248) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
+| chore: bump @typescript-eslint/parser from 8.46.2 to 8.51.0 | Medium | [#1252](https://github.com/recodehive/recode-website/pull/1252) |
+| chore: bump lucide-react from 0.503.0 to 0.562.0 | Medium | [#1251](https://github.com/recodehive/recode-website/pull/1251) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.51.0 | Medium | [#1250](https://github.com/recodehive/recode-website/pull/1250) |
+| chore: bump framer-motion from 12.23.24 to 12.23.26 | Medium | [#1249](https://github.com/recodehive/recode-website/pull/1249) |
 
 ---
 
@@ -1341,6 +1347,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+|  | Medium | [#254](https://github.com/souvikpramanikgit/LearnHub/issues/254) |
 | chatbot | Medium | [#253](https://github.com/souvikpramanikgit/LearnHub/issues/253) |
 | screen shot of issused bugs | Medium | [#252](https://github.com/souvikpramanikgit/LearnHub/issues/252) |
 | Improve Landing Page Performance by Optimizing Background Image (LCP Enhancement) | Medium | [#251](https://github.com/souvikpramanikgit/LearnHub/issues/251) |
@@ -1650,6 +1657,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Animated Header Text and Visual Enhancements | Medium | [#583](https://github.com/Creators-Space/Creators-Space/pull/583) |
 | Redesign of Contact us page | Medium | [#582](https://github.com/Creators-Space/Creators-Space/pull/582) |
 | Redesign of Resource Sharing hub | Medium | [#581](https://github.com/Creators-Space/Creators-Space/pull/581) |
 | Added timer in the quizzes | Medium | [#580](https://github.com/Creators-Space/Creators-Space/pull/580) |
@@ -1679,7 +1687,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Search functionality implemented for faq | Medium | [#554](https://github.com/Creators-Space/Creators-Space/pull/554) |
 | social media app links working in projects page | Medium | [#553](https://github.com/Creators-Space/Creators-Space/pull/553) |
 | sign in button not visible | Medium | [#552](https://github.com/Creators-Space/Creators-Space/issues/552) |
-| Fix issue: Poor visibility of text in the About Us Page | Medium | [#551](https://github.com/Creators-Space/Creators-Space/pull/551) |
 
 ---
 
