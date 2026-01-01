@@ -69,16 +69,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📊 Weekly Project Summary - 12/27/2025 | Medium | [#739](https://github.com/abhisek2004/Dev-Elevate/issues/739) |
-| 📊 Weekly Project Summary - 12/26/2025 | Medium | [#738](https://github.com/abhisek2004/Dev-Elevate/issues/738) |
-| 📊 Weekly Project Summary - 12/25/2025 | Medium | [#737](https://github.com/abhisek2004/Dev-Elevate/issues/737) |
-| 📊 Weekly Project Summary - 12/24/2025 | Medium | [#736](https://github.com/abhisek2004/Dev-Elevate/issues/736) |
-| 📊 Weekly Project Summary - 12/23/2025 | Medium | [#735](https://github.com/abhisek2004/Dev-Elevate/issues/735) |
-| 📊 Weekly Project Summary - 12/22/2025 | Medium | [#734](https://github.com/abhisek2004/Dev-Elevate/issues/734) |
-| 📊 Weekly Project Summary - 12/21/2025 | Medium | [#733](https://github.com/abhisek2004/Dev-Elevate/issues/733) |
-| 📊 Weekly Project Summary - 12/20/2025 | Medium | [#732](https://github.com/abhisek2004/Dev-Elevate/issues/732) |
-| 📊 Weekly Project Summary - 12/19/2025 | Medium | [#731](https://github.com/abhisek2004/Dev-Elevate/issues/731) |
-| 📊 Weekly Project Summary - 12/18/2025 | Medium | [#730](https://github.com/abhisek2004/Dev-Elevate/issues/730) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -102,28 +92,30 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Assign and un-assign issue via GitHub API | Medium | [#3056](https://github.com/OWASP/Nest/pull/3056) |
-| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3054](https://github.com/OWASP/Nest/pull/3054) |
-| Fix Array constructor usage to satisfy Sonar rules | Medium | [#3053](https://github.com/OWASP/Nest/pull/3053) |
-| Board page showed infinite loading when no data existed for a given year | Medium | [#3052](https://github.com/OWASP/Nest/issues/3052) |
-| Fix inverted isLoaded logic in  SearchBar  component | Medium | [#3051](https://github.com/OWASP/Nest/issues/3051) |
-| Unify issues view between module issues page and Mentee page | Medium | [#3050](https://github.com/OWASP/Nest/pull/3050) |
-| Extend Existing /owasp Command | Medium | [#3043](https://github.com/OWASP/Nest/issues/3043) |
-| Refactor chapter map | Medium | [#3042](https://github.com/OWASP/Nest/pull/3042) |
-| Add redis cache to e2e tests | Medium | [#3041](https://github.com/OWASP/Nest/pull/3041) |
-| Refactor badges update job: modularize handlers, introduce base class, and add tests | Medium | [#3040](https://github.com/OWASP/Nest/pull/3040) |
-| Sonar S1192: Deduplicate "Ordering field" literal in Snapshot API | Medium | [#3039](https://github.com/OWASP/Nest/issues/3039) |
-| Remove unused function parameter `update_fields` from save method in test class | Medium | [#3036](https://github.com/OWASP/Nest/pull/3036) |
-| Refactor: fix redundant exception handling in owasp_sync_board_candidates.py | Medium | [#3029](https://github.com/OWASP/Nest/issues/3029) |
-| Add basic logging to v0 Project API endpoints for improved observability | Medium | [#3028](https://github.com/OWASP/Nest/issues/3028) |
-| feat: Implement Layer 2/3/4: ProjectService, Hybrid Retrieval, and LLM Engine | Medium | [#3027](https://github.com/OWASP/Nest/pull/3027) |
-| Refactor regex to use concise wildcard | Medium | [#3026](https://github.com/OWASP/Nest/pull/3026) |
-| Improved locked/unlocked map state in ChapterMap | Medium | [#3015](https://github.com/OWASP/Nest/pull/3015) |
-| feat:layer 2 and layer 3 integration | Medium | [#3009](https://github.com/OWASP/Nest/pull/3009) |
-| updated mentorship_update_comments.py to not sync unlabeled modules | Medium | [#3007](https://github.com/OWASP/Nest/pull/3007) |
-| OWASP Nest Monitoring and Observability | Medium | [#3001](https://github.com/OWASP/Nest/issues/3001) |
-| OWASP Board Activity Standardization and Data Programmatic Access | Medium | [#3000](https://github.com/OWASP/Nest/issues/3000) |
-| feat(router): Implement Layer 1 Intent Router (spaCy + Redis) | Medium | [#2999](https://github.com/OWASP/Nest/pull/2999) |
+| Fix 404 flash on About page | Medium | [#3124](https://github.com/OWASP/Nest/pull/3124) |
+| Validate empty or whitespace-only queries before LLM generation | Medium | [#3123](https://github.com/OWASP/Nest/issues/3123) |
+| Migrate Fuzz tests tool to Schemathesis and add REST Fuzz tests | Medium | [#3122](https://github.com/OWASP/Nest/pull/3122) |
+| Add timeout (and optional retry) handling for OpenAI embeddings call | Medium | [#3121](https://github.com/OWASP/Nest/issues/3121) |
+| Simplify overly complex regular expression in common model | Medium | [#3120](https://github.com/OWASP/Nest/issues/3120) |
+| Star Button Does Not Reflect Repository Starred State | Medium | [#3119](https://github.com/OWASP/Nest/issues/3119) |
+| ci: move permissions to job level | Medium | [#3118](https://github.com/OWASP/Nest/pull/3118) |
+| Hide Unpublished Programs and Modules From Public View | Medium | [#3117](https://github.com/OWASP/Nest/pull/3117) |
+| Refactor events_test.py to reduce cognitive complexity (Sonar S3776) | Medium | [#3115](https://github.com/OWASP/Nest/issues/3115) |
+| Include original question in /ai command response for better context | Medium | [#3114](https://github.com/OWASP/Nest/issues/3114) |
+| Remove unnecessary zero-fraction literals | Medium | [#3113](https://github.com/OWASP/Nest/pull/3113) |
+| Refactor docker files / test images | Medium | [#3112](https://github.com/OWASP/Nest/pull/3112) |
+| Fix: Timezone discrepancies in Program/Module dates and Module date inheritance | Medium | [#3111](https://github.com/OWASP/Nest/issues/3111) |
+| fix(board): render error state instead of infinite loader when data is null | Medium | [#3107](https://github.com/OWASP/Nest/pull/3107) |
+| fix: Standardize compliance badge shape to match health score circle | Medium | [#3106](https://github.com/OWASP/Nest/pull/3106) |
+| Update volume names | Medium | [#3102](https://github.com/OWASP/Nest/pull/3102) |
+| Add module ordering | Medium | [#3101](https://github.com/OWASP/Nest/pull/3101) |
+| Refactored nested ternary expressions | Medium | [#3096](https://github.com/OWASP/Nest/pull/3096) |
+| Simplify this regular expression to reduce its complexity | Medium | [#3095](https://github.com/OWASP/Nest/issues/3095) |
+| Prevent crash from invalid theme class during initialization | Medium | [#3089](https://github.com/OWASP/Nest/pull/3089) |
+| Prefer top-level await instead of async IIFE (Sonar S7785) | Medium | [#3087](https://github.com/OWASP/Nest/issues/3087) |
+| Fix: Show module as a section when there is only 1 module | Medium | [#3083](https://github.com/OWASP/Nest/issues/3083) |
+| Limit visible Roadmap and Project Timeline items on About page | Medium | [#3080](https://github.com/OWASP/Nest/pull/3080) |
+| refactor(api): fix sonar S1192 in snapshot endpoint | Medium | [#3076](https://github.com/OWASP/Nest/pull/3076) |
 
 ---
 
@@ -189,6 +181,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Deploying the bot | Medium | [#82](https://github.com/harshendram/Advanced-Discord-Bot/issues/82) |
 | Add Login Page for User Authentication | Medium | [#80](https://github.com/harshendram/Advanced-Discord-Bot/issues/80) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
 | Overhauling AI section | Hard | [#47](https://github.com/harshendram/Advanced-Discord-Bot/issues/47) |
@@ -518,6 +511,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| <title>Adding closing button in login page | Medium | [#72](https://github.com/karmveershubham/CodeStreak/issues/72) |
 | Bump winston from 3.17.0 to 3.19.0 | Medium | [#71](https://github.com/karmveershubham/CodeStreak/pull/71) |
 | Login Page Improvements | Medium | [#69](https://github.com/karmveershubham/CodeStreak/issues/69) |
 | <title> AI chatbot for answering Platform related queries | Medium | [#68](https://github.com/karmveershubham/CodeStreak/issues/68) |
@@ -554,6 +548,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+|  | Medium | [#254](https://github.com/souvikpramanikgit/LearnHub/issues/254) |
 | chatbot | Medium | [#253](https://github.com/souvikpramanikgit/LearnHub/issues/253) |
 | screen shot of issused bugs | Medium | [#252](https://github.com/souvikpramanikgit/LearnHub/issues/252) |
 | Improve Landing Page Performance by Optimizing Background Image (LCP Enhancement) | Medium | [#251](https://github.com/souvikpramanikgit/LearnHub/issues/251) |
@@ -1001,7 +996,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding images in nift-marketplace page | Medium | [#147](https://github.com/Drago-03/GroqTales/issues/147) |
+| Adding images in nift-marketplace page | Medium | [#147](https://github.com/IndieHub25/GroqTales/issues/147) |
 
 ---
 
