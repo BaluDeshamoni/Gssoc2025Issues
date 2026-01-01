@@ -22,18 +22,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📊 Weekly Project Summary - 12/29/2025 | Medium | [#741](https://github.com/abhisek2004/Dev-Elevate/issues/741) |
-| 📊 Weekly Project Summary - 12/28/2025 | Medium | [#740](https://github.com/abhisek2004/Dev-Elevate/issues/740) |
-| 📊 Weekly Project Summary - 12/27/2025 | Medium | [#739](https://github.com/abhisek2004/Dev-Elevate/issues/739) |
-| 📊 Weekly Project Summary - 12/26/2025 | Medium | [#738](https://github.com/abhisek2004/Dev-Elevate/issues/738) |
-| 📊 Weekly Project Summary - 12/25/2025 | Medium | [#737](https://github.com/abhisek2004/Dev-Elevate/issues/737) |
-| 📊 Weekly Project Summary - 12/24/2025 | Medium | [#736](https://github.com/abhisek2004/Dev-Elevate/issues/736) |
-| 📊 Weekly Project Summary - 12/23/2025 | Medium | [#735](https://github.com/abhisek2004/Dev-Elevate/issues/735) |
-| 📊 Weekly Project Summary - 12/22/2025 | Medium | [#734](https://github.com/abhisek2004/Dev-Elevate/issues/734) |
-| 📊 Weekly Project Summary - 12/21/2025 | Medium | [#733](https://github.com/abhisek2004/Dev-Elevate/issues/733) |
-| 📊 Weekly Project Summary - 12/20/2025 | Medium | [#732](https://github.com/abhisek2004/Dev-Elevate/issues/732) |
-| 📊 Weekly Project Summary - 12/19/2025 | Medium | [#731](https://github.com/abhisek2004/Dev-Elevate/issues/731) |
-| 📊 Weekly Project Summary - 12/18/2025 | Medium | [#730](https://github.com/abhisek2004/Dev-Elevate/issues/730) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -204,24 +192,30 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: Add documentation for GET /api/v0/projects/ endpoint | Easy | [#3067](https://github.com/OWASP/Nest/pull/3067) |
+| Fix 404 flash on About page | Medium | [#3124](https://github.com/OWASP/Nest/pull/3124) |
+| Validate empty or whitespace-only queries before LLM generation | Medium | [#3123](https://github.com/OWASP/Nest/issues/3123) |
+| Migrate Fuzz tests tool to Schemathesis and add REST Fuzz tests | Medium | [#3122](https://github.com/OWASP/Nest/pull/3122) |
+| Add timeout (and optional retry) handling for OpenAI embeddings call | Medium | [#3121](https://github.com/OWASP/Nest/issues/3121) |
+| Simplify overly complex regular expression in common model | Medium | [#3120](https://github.com/OWASP/Nest/issues/3120) |
+| Star Button Does Not Reflect Repository Starred State | Medium | [#3119](https://github.com/OWASP/Nest/issues/3119) |
+| ci: move permissions to job level | Medium | [#3118](https://github.com/OWASP/Nest/pull/3118) |
+| Hide Unpublished Programs and Modules From Public View | Medium | [#3117](https://github.com/OWASP/Nest/pull/3117) |
+| Refactor events_test.py to reduce cognitive complexity (Sonar S3776) | Medium | [#3115](https://github.com/OWASP/Nest/issues/3115) |
+| Include original question in /ai command response for better context | Medium | [#3114](https://github.com/OWASP/Nest/issues/3114) |
+| Remove unnecessary zero-fraction literals | Medium | [#3113](https://github.com/OWASP/Nest/pull/3113) |
+| Refactor docker files / test images | Medium | [#3112](https://github.com/OWASP/Nest/pull/3112) |
+| Fix: Timezone discrepancies in Program/Module dates and Module date inheritance | Medium | [#3111](https://github.com/OWASP/Nest/issues/3111) |
+| fix(board): render error state instead of infinite loader when data is null | Medium | [#3107](https://github.com/OWASP/Nest/pull/3107) |
+| fix: Standardize compliance badge shape to match health score circle | Medium | [#3106](https://github.com/OWASP/Nest/pull/3106) |
+| Update volume names | Medium | [#3102](https://github.com/OWASP/Nest/pull/3102) |
+| Add module ordering | Medium | [#3101](https://github.com/OWASP/Nest/pull/3101) |
+| Refactored nested ternary expressions | Medium | [#3096](https://github.com/OWASP/Nest/pull/3096) |
+| Simplify this regular expression to reduce its complexity | Medium | [#3095](https://github.com/OWASP/Nest/issues/3095) |
+| Prevent crash from invalid theme class during initialization | Medium | [#3089](https://github.com/OWASP/Nest/pull/3089) |
 | Prefer top-level await instead of async IIFE (Sonar S7785) | Medium | [#3087](https://github.com/OWASP/Nest/issues/3087) |
-| Add keyboard navigation support to various components | Medium | [#3086](https://github.com/OWASP/Nest/pull/3086) |
-| fix(board): render error state instead of infinite loader when data  is null | Medium | [#3084](https://github.com/OWASP/Nest/pull/3084) |
 | Fix: Show module as a section when there is only 1 module | Medium | [#3083](https://github.com/OWASP/Nest/issues/3083) |
-| Local dev crash: InvalidCharacterError caused by non-CSS-safe theme value | Medium | [#3082](https://github.com/OWASP/Nest/issues/3082) |
 | Limit visible Roadmap and Project Timeline items on About page | Medium | [#3080](https://github.com/OWASP/Nest/pull/3080) |
 | refactor(api): fix sonar S1192 in snapshot endpoint | Medium | [#3076](https://github.com/OWASP/Nest/pull/3076) |
-| Assign and un-assign issue via GitHub API | Medium | [#3056](https://github.com/OWASP/Nest/pull/3056) |
-| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3054](https://github.com/OWASP/Nest/pull/3054) |
-| Refactor chapter map | Medium | [#3042](https://github.com/OWASP/Nest/pull/3042) |
-| Add redis cache to e2e tests | Medium | [#3041](https://github.com/OWASP/Nest/pull/3041) |
-| Refactor badges update job: modularize handlers, introduce base class, and add tests | Medium | [#3040](https://github.com/OWASP/Nest/pull/3040) |
-| Remove unused function parameter `update_fields` from save method in test class | Medium | [#3036](https://github.com/OWASP/Nest/pull/3036) |
-| Add basic logging to v0 Project API endpoints for improved observability | Medium | [#3028](https://github.com/OWASP/Nest/issues/3028) |
-| Improve ChapterMap UX: Locking, Interactions, and Screen Layout | Medium | [#3012](https://github.com/OWASP/Nest/issues/3012) |
-| OWASP Nest Monitoring and Observability | Medium | [#3001](https://github.com/OWASP/Nest/issues/3001) |
-| OWASP Board Activity Standardization and Data Programmatic Access | Medium | [#3000](https://github.com/OWASP/Nest/issues/3000) |
 
 ---
 
@@ -273,6 +267,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 |----------|----------------|---------|
 | Migrate Notification components to MUI Alert/List | Easy | [#1283](https://github.com/Code-A2Z/code-a2z/issues/1283) |
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Feat Frontend Req: Add Footer For Code-A2Z | Medium | [#1331](https://github.com/Code-A2Z/code-a2z/issues/1331) |
 | feat(notes): Implement private project-specific notes (#249) | Medium | [#1328](https://github.com/Code-A2Z/code-a2z/pull/1328) |
 | Feature/private notes backend | Medium | [#1327](https://github.com/Code-A2Z/code-a2z/pull/1327) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
@@ -283,7 +278,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
 | 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
-| 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
 
 ---
 
@@ -424,6 +418,8 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| 🎨 Palette: Auth Loading States & Accessible Labels | Medium | [#222](https://github.com/Devasy/splitwiser/pull/222) |
+| feat: standardize button loading state | Medium | [#221](https://github.com/Devasy/splitwiser/pull/221) |
 | 🎨 Palette: Add accessible labels to Auth form | Medium | [#220](https://github.com/Devasy/splitwiser/pull/220) |
 | 🎨 Palette: Add loading state to Auth buttons | Medium | [#219](https://github.com/Devasy/splitwiser/pull/219) |
 | 🎨 Palette: Add loading state to Button | Medium | [#218](https://github.com/Devasy/splitwiser/pull/218) |
@@ -437,8 +433,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
-| Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
-| API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
 
 ---
 
@@ -493,6 +487,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Deploying the bot | Medium | [#82](https://github.com/harshendram/Advanced-Discord-Bot/issues/82) |
 | Add Login Page for User Authentication | Medium | [#80](https://github.com/harshendram/Advanced-Discord-Bot/issues/80) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
 | Overhauling AI section | Hard | [#47](https://github.com/harshendram/Advanced-Discord-Bot/issues/47) |
@@ -897,7 +892,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Fixed (Story Creation Form Skips to Next Page on Small Screens) | Medium | [#56](https://github.com/Sahilll94/Travel-Book/pull/56) |
 | UI enhancement of home page | Medium | [#55](https://github.com/Sahilll94/Travel-Book/pull/55) |
 | Fix overlapping Back-to-Top and Plus buttons by adjusting bottom spacing | Medium | [#53](https://github.com/Sahilll94/Travel-Book/pull/53) |
-| Adding Framer Motion to hero section make site interactive | Medium | [#4](https://github.com/Sahilll94/Travel-Book/issues/4) |
 
 ---
 
@@ -1733,7 +1727,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding images in nift-marketplace page | Medium | [#147](https://github.com/Drago-03/GroqTales/issues/147) |
+| Adding images in nift-marketplace page | Medium | [#147](https://github.com/IndieHub25/GroqTales/issues/147) |
 
 ---
 
