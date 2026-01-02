@@ -460,6 +460,12 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Convert Homepage Hero Section into Carousel | Medium | [#1903](https://github.com/apu52/Travel_Website/issues/1903) |
+| Explore Top Destinations images are not sliding | Medium | [#1902](https://github.com/apu52/Travel_Website/issues/1902) |
+| fix: theme toggle on membership page | Medium | [#1901](https://github.com/apu52/Travel_Website/pull/1901) |
+| UI of watch our stories page is broken with content coming on top of video player " | Medium | [#1900](https://github.com/apu52/Travel_Website/issues/1900) |
+| UI/UX Redesign for E-book Gallery | Medium | [#1899](https://github.com/apu52/Travel_Website/issues/1899) |
+| Update the UI of Top Deals Page Cards | Medium | [#1898](https://github.com/apu52/Travel_Website/issues/1898) |
 | feat: Improve spacing between stat cards on homepage UI | Medium | [#1897](https://github.com/apu52/Travel_Website/pull/1897) |
 | fix: feedback form UI improve | Medium | [#1896](https://github.com/apu52/Travel_Website/pull/1896) |
 | fix: resolve scroll hijacking at carousel section | Medium | [#1895](https://github.com/apu52/Travel_Website/pull/1895) |
@@ -476,11 +482,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Card Alignment's Improvement | Medium | [#1868](https://github.com/apu52/Travel_Website/issues/1868) |
 | UI/UX Improvement of footer inside the pricing section | Medium | [#1867](https://github.com/apu52/Travel_Website/issues/1867) |
 | UI Enhancement | Medium | [#1866](https://github.com/apu52/Travel_Website/issues/1866) |
-| Direct signup/signin not working | Medium | [#1865](https://github.com/apu52/Travel_Website/issues/1865) |
-| UI/UX & Feature Enhancements | Medium | [#1864](https://github.com/apu52/Travel_Website/issues/1864) |
-| Singup with google,facebook not working | Medium | [#1862](https://github.com/apu52/Travel_Website/issues/1862) |
-| Improve Navbar & Footer Responsiveness (Mobile Enhancement) | Medium | [#1861](https://github.com/apu52/Travel_Website/issues/1861) |
-| work on overall project | Medium | [#1860](https://github.com/apu52/Travel_Website/issues/1860) |
 
 ---
 
@@ -824,25 +825,29 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Readme.md | Easy | [#469](https://github.com/omroy07/AgriTech/issues/469) |
+| Bug: Chat header text has poor visibility/contrast SWOC | Easy | [#466](https://github.com/omroy07/AgriTech/issues/466) |
+| <short description> Improve the positioning of elements in cards in Blog section | Medium | [#478](https://github.com/omroy07/AgriTech/issues/478) |
+| Content: Update copyright year to 2026 across all pages | Medium | [#477](https://github.com/omroy07/AgriTech/issues/477) |
+| UI: Remove footer link hover animation and update Instagram URL | Medium | [#476](https://github.com/omroy07/AgriTech/issues/476) |
+| UI: Fix About page footer consistency and add search bar | Medium | [#475](https://github.com/omroy07/AgriTech/issues/475) |
+| Content: Missing blog posts for Farming Tips, Market Trends, and Business categories | Medium | [#474](https://github.com/omroy07/AgriTech/issues/474) |
+| Enhancement: Missing 'Back to Home' navigation on Blog page | Medium | [#473](https://github.com/omroy07/AgriTech/issues/473) |
+| Bug: Search bar is too narrow on desktop/laptop screens | Medium | [#472](https://github.com/omroy07/AgriTech/issues/472) |
+| Fix: Improved visibility of Chat header text | Medium | [#471](https://github.com/omroy07/AgriTech/pull/471) |
+| media icon | Medium | [#470](https://github.com/omroy07/AgriTech/pull/470) |
+| Bug: Footer email link redirects to homepage instead of opening email client | Medium | [#467](https://github.com/omroy07/AgriTech/issues/467) |
+| Add favicon | Medium | [#462](https://github.com/omroy07/AgriTech/issues/462) |
+| "Read more "button should be aligned properly | Medium | [#461](https://github.com/omroy07/AgriTech/issues/461) |
+| Enhancing the website by implementing dashboard in mobile version | Medium | [#460](https://github.com/omroy07/AgriTech/issues/460) |
+| Standardize Project File Structure | Medium | [#459](https://github.com/omroy07/AgriTech/issues/459) |
 | Fix: Dark mode persistence across pages | Medium | [#455](https://github.com/omroy07/AgriTech/pull/455) |
 | Fix the codebase structure | Medium | [#454](https://github.com/omroy07/AgriTech/issues/454) |
 | Fix heading visibility issue in light mode on Smart Crop Monitoring page | Medium | [#453](https://github.com/omroy07/AgriTech/pull/453) |
 | <short description>Improve the service page dialog box | Medium | [#452](https://github.com/omroy07/AgriTech/issues/452) |
-| Smart Crop monitoring page on light mode should be enhaced | Medium | [#451](https://github.com/omroy07/AgriTech/issues/451) |
-| UI Enhancement: Footer Modernization and Glassmorphism | Medium | [#449](https://github.com/omroy07/AgriTech/issues/449) |
-| Marketplace Services Page on dark  mood | Medium | [#448](https://github.com/omroy07/AgriTech/issues/448) |
 | Marketplace Services page | Medium | [#447](https://github.com/omroy07/AgriTech/issues/447) |
 | for supply chain support page | Medium | [#446](https://github.com/omroy07/AgriTech/issues/446) |
-| 🐛 Bug Report  Pages Affected: 1. Mission page 2. Careers page | Medium | [#445](https://github.com/omroy07/AgriTech/issues/445) |
-| Fix unauthorized room creation vulnerability in Community Chat | Medium | [#444](https://github.com/omroy07/AgriTech/issues/444) |
 | Update README.md | Medium | [#443](https://github.com/omroy07/AgriTech/pull/443) |
-| Agritech | Medium | [#442](https://github.com/omroy07/AgriTech/pull/442) |
-| <short description>Proposal to Implement New Feature Enhancements for AgriTech | Medium | [#440](https://github.com/omroy07/AgriTech/issues/440) |
-| Add License Information | Medium | [#415](https://github.com/omroy07/AgriTech/issues/415) |
-| Add GSSoC Banner to README | Medium | [#414](https://github.com/omroy07/AgriTech/issues/414) |
-| Add Contact Section in README.md | Medium | [#413](https://github.com/omroy07/AgriTech/issues/413) |
-| Regarding the gssoc Leaderboard | Medium | [#395](https://github.com/omroy07/AgriTech/issues/395) |
-| solved the footer section in home page | Medium | [#381](https://github.com/omroy07/AgriTech/pull/381) |
 
 ---
 
@@ -1166,6 +1171,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add user onboarding and usage guidance on homepage | Medium | [#625](https://github.com/eccentriccoder01/TalkHeal/issues/625) |
+| Add scroll to top button | Medium | [#624](https://github.com/eccentriccoder01/TalkHeal/issues/624) |
 | Enhanced the NewsletterSignup component with comprehensive improvements to user experience, functionality, and engagement features. | Medium | [#622](https://github.com/eccentriccoder01/TalkHeal/issues/622) |
 
 ---
