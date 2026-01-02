@@ -275,30 +275,24 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix 404 flash on About page | Medium | [#3124](https://github.com/OWASP/Nest/pull/3124) |
-| Validate empty or whitespace-only queries before LLM generation | Medium | [#3123](https://github.com/OWASP/Nest/issues/3123) |
+| docs: Add documentation for GET /api/v0/projects/ endpoint | Easy | [#3067](https://github.com/OWASP/Nest/pull/3067) |
+| Move GitHub Actions read permission from workflow level to job level | Medium | [#3134](https://github.com/OWASP/Nest/issues/3134) |
+| Fix ChapterMap locked state with explicit unlock | Medium | [#3130](https://github.com/OWASP/Nest/pull/3130) |
 | Migrate Fuzz tests tool to Schemathesis and add REST Fuzz tests | Medium | [#3122](https://github.com/OWASP/Nest/pull/3122) |
-| Add timeout (and optional retry) handling for OpenAI embeddings call | Medium | [#3121](https://github.com/OWASP/Nest/issues/3121) |
-| Simplify overly complex regular expression in common model | Medium | [#3120](https://github.com/OWASP/Nest/issues/3120) |
 | Star Button Does Not Reflect Repository Starred State | Medium | [#3119](https://github.com/OWASP/Nest/issues/3119) |
 | ci: move permissions to job level | Medium | [#3118](https://github.com/OWASP/Nest/pull/3118) |
 | Hide Unpublished Programs and Modules From Public View | Medium | [#3117](https://github.com/OWASP/Nest/pull/3117) |
-| Refactor events_test.py to reduce cognitive complexity (Sonar S3776) | Medium | [#3115](https://github.com/OWASP/Nest/issues/3115) |
-| Include original question in /ai command response for better context | Medium | [#3114](https://github.com/OWASP/Nest/issues/3114) |
-| Remove unnecessary zero-fraction literals | Medium | [#3113](https://github.com/OWASP/Nest/pull/3113) |
 | Refactor docker files / test images | Medium | [#3112](https://github.com/OWASP/Nest/pull/3112) |
 | Fix: Timezone discrepancies in Program/Module dates and Module date inheritance | Medium | [#3111](https://github.com/OWASP/Nest/issues/3111) |
-| fix(board): render error state instead of infinite loader when data is null | Medium | [#3107](https://github.com/OWASP/Nest/pull/3107) |
-| fix: Standardize compliance badge shape to match health score circle | Medium | [#3106](https://github.com/OWASP/Nest/pull/3106) |
 | Update volume names | Medium | [#3102](https://github.com/OWASP/Nest/pull/3102) |
 | Add module ordering | Medium | [#3101](https://github.com/OWASP/Nest/pull/3101) |
-| Refactored nested ternary expressions | Medium | [#3096](https://github.com/OWASP/Nest/pull/3096) |
-| Simplify this regular expression to reduce its complexity | Medium | [#3095](https://github.com/OWASP/Nest/issues/3095) |
 | Prevent crash from invalid theme class during initialization | Medium | [#3089](https://github.com/OWASP/Nest/pull/3089) |
-| Prefer top-level await instead of async IIFE (Sonar S7785) | Medium | [#3087](https://github.com/OWASP/Nest/issues/3087) |
 | Fix: Show module as a section when there is only 1 module | Medium | [#3083](https://github.com/OWASP/Nest/issues/3083) |
 | Limit visible Roadmap and Project Timeline items on About page | Medium | [#3080](https://github.com/OWASP/Nest/pull/3080) |
-| refactor(api): fix sonar S1192 in snapshot endpoint | Medium | [#3076](https://github.com/OWASP/Nest/pull/3076) |
+| Assign and un-assign issue via GitHub API | Medium | [#3056](https://github.com/OWASP/Nest/pull/3056) |
+| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3054](https://github.com/OWASP/Nest/pull/3054) |
+| Refactor chapter map | Medium | [#3042](https://github.com/OWASP/Nest/pull/3042) |
+| Refactor badges update job: modularize handlers, introduce base class, and add tests | Medium | [#3040](https://github.com/OWASP/Nest/pull/3040) |
 
 ---
 
@@ -317,7 +311,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Notification components to MUI Alert/List | Easy | [#1283](https://github.com/Code-A2Z/code-a2z/issues/1283) |
-| 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
+| AI-Powered Personalized Learning Path Recommendation System | Medium | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
 | Feat Frontend Req: Add Footer For Code-A2Z | Medium | [#1331](https://github.com/Code-A2Z/code-a2z/issues/1331) |
 | feat(notes): Implement private project-specific notes (#249) | Medium | [#1328](https://github.com/Code-A2Z/code-a2z/pull/1328) |
 | Feature/private notes backend | Medium | [#1327](https://github.com/Code-A2Z/code-a2z/pull/1327) |
@@ -328,7 +323,6 @@
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
-| 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
 
 ---
 
@@ -612,8 +606,8 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| feat(auth): add explicit labels to auth forms | Medium | [#223](https://github.com/Devasy/splitwiser/pull/223) |
 | 🎨 Palette: Auth Loading States & Accessible Labels | Medium | [#222](https://github.com/Devasy/splitwiser/pull/222) |
-| feat: standardize button loading state | Medium | [#221](https://github.com/Devasy/splitwiser/pull/221) |
 | 🎨 Palette: Add accessible labels to Auth form | Medium | [#220](https://github.com/Devasy/splitwiser/pull/220) |
 | 🎨 Palette: Add loading state to Auth buttons | Medium | [#219](https://github.com/Devasy/splitwiser/pull/219) |
 | 🎨 Palette: Add loading state to Button | Medium | [#218](https://github.com/Devasy/splitwiser/pull/218) |
@@ -1160,9 +1154,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve buttons of the webite | Easy | [#619](https://github.com/NishantRana07/HrRoadways/issues/619) |
+| Fake bookings + footer overlap + image flicker | Medium | [#688](https://github.com/NishantRana07/HrRoadways/issues/688) |
 | Hey | Medium | [#685](https://github.com/NishantRana07/HrRoadways/issues/685) |
-| Fixed Issue #533: User Friendly Dashboard | Medium | [#570](https://github.com/NishantRana07/HrRoadways/pull/570) |
-| Feature/ Chatbot Assistant Integration | Medium | [#552](https://github.com/NishantRana07/HrRoadways/pull/552) |
 
 ---
 
@@ -2409,24 +2402,6 @@ Fast Workflow Tools
 
 ---
 
-## 📌 Project: GroqTales
-
-📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
-
-🔗 [View Project](https://github.com/Drago-03/GroqTales)
-
-💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Adding images in nift-marketplace page | Medium | [#147](https://github.com/IndieHub25/GroqTales/issues/147) |
-
----
-
 ## 📌 Project: Project Management System
 
 📝 **Description:** Advanced Project Management System is a real-time, collaborative platform to manage projects, tasks, and teams efficiently.
@@ -2485,9 +2460,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix mobile responsiveness issues on /dashboard/improvement | Medium | [#68](https://github.com/prasoonk1204/BreatheEasy/pull/68) |
+| Add i8n language for Bahasa Indonesia (Indonesian) & Improvement for About Us Page | Medium | [#66](https://github.com/prasoonk1204/BreatheEasy/pull/66) |
 | Set up backend environment configuration for API keys and implement security best practices (3/3) | Medium | [#63](https://github.com/prasoonk1204/BreatheEasy/issues/63) |
 | Proxy map tile requests through backend and migrate WAQI overlay layer (2/3) | Medium | [#62](https://github.com/prasoonk1204/BreatheEasy/issues/62) |
-| Migrate AQI API calls from frontend to backend (1/3) | Medium | [#61](https://github.com/prasoonk1204/BreatheEasy/issues/61) |
 
 ---
 
