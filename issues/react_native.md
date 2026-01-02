@@ -18,8 +18,8 @@
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| feat(auth): add explicit labels to auth forms | Medium | [#223](https://github.com/Devasy/splitwiser/pull/223) |
 | 🎨 Palette: Auth Loading States & Accessible Labels | Medium | [#222](https://github.com/Devasy/splitwiser/pull/222) |
-| feat: standardize button loading state | Medium | [#221](https://github.com/Devasy/splitwiser/pull/221) |
 | 🎨 Palette: Add accessible labels to Auth form | Medium | [#220](https://github.com/Devasy/splitwiser/pull/220) |
 | 🎨 Palette: Add loading state to Auth buttons | Medium | [#219](https://github.com/Devasy/splitwiser/pull/219) |
 | 🎨 Palette: Add loading state to Button | Medium | [#218](https://github.com/Devasy/splitwiser/pull/218) |
