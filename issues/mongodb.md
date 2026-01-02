@@ -22,6 +22,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump the npm_and_yarn group across 2 directories with 1 update | Medium | [#743](https://github.com/abhisek2004/Dev-Elevate/pull/743) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -143,7 +144,8 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Notification components to MUI Alert/List | Easy | [#1283](https://github.com/Code-A2Z/code-a2z/issues/1283) |
-| 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
+| AI-Powered Personalized Learning Path Recommendation System | Medium | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
 | Feat Frontend Req: Add Footer For Code-A2Z | Medium | [#1331](https://github.com/Code-A2Z/code-a2z/issues/1331) |
 | feat(notes): Implement private project-specific notes (#249) | Medium | [#1328](https://github.com/Code-A2Z/code-a2z/pull/1328) |
 | Feature/private notes backend | Medium | [#1327](https://github.com/Code-A2Z/code-a2z/pull/1327) |
@@ -154,7 +156,6 @@ Accessibility features like dark mode,white.
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
-| 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
 
 ---
 
@@ -295,8 +296,8 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| feat(auth): add explicit labels to auth forms | Medium | [#223](https://github.com/Devasy/splitwiser/pull/223) |
 | 🎨 Palette: Auth Loading States & Accessible Labels | Medium | [#222](https://github.com/Devasy/splitwiser/pull/222) |
-| feat: standardize button loading state | Medium | [#221](https://github.com/Devasy/splitwiser/pull/221) |
 | 🎨 Palette: Add accessible labels to Auth form | Medium | [#220](https://github.com/Devasy/splitwiser/pull/220) |
 | 🎨 Palette: Add loading state to Auth buttons | Medium | [#219](https://github.com/Devasy/splitwiser/pull/219) |
 | 🎨 Palette: Add loading state to Button | Medium | [#218](https://github.com/Devasy/splitwiser/pull/218) |
@@ -489,9 +490,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve buttons of the webite | Easy | [#619](https://github.com/NishantRana07/HrRoadways/issues/619) |
+| Fake bookings + footer overlap + image flicker | Medium | [#688](https://github.com/NishantRana07/HrRoadways/issues/688) |
 | Hey | Medium | [#685](https://github.com/NishantRana07/HrRoadways/issues/685) |
-| Fixed Issue #533: User Friendly Dashboard | Medium | [#570](https://github.com/NishantRana07/HrRoadways/pull/570) |
-| Feature/ Chatbot Assistant Integration | Medium | [#552](https://github.com/NishantRana07/HrRoadways/pull/552) |
 
 ---
 
@@ -1167,24 +1167,6 @@ Fast Workflow Tools
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
-
----
-
-## 📌 Project: GroqTales
-
-📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
-
-🔗 [View Project](https://github.com/Drago-03/GroqTales)
-
-💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Adding images in nift-marketplace page | Medium | [#147](https://github.com/IndieHub25/GroqTales/issues/147) |
 
 ---
 
