@@ -106,21 +106,3 @@
 
 ---
 
-## 📌 Project: Sachiva
-
-📝 **Description:** Sachiva is a frontend-focused project that lets you work on a real-world business website using HTML, CSS, JavaScript & Bootstrap. Perfect for beginners and intermediate devs to practice responsive design, clean layouts, and modern UI development!
-
-🔗 [View Project](https://github.com/sumitrathor1/sachiva)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap 5.3
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Update README.md | Medium | [#1](https://github.com/sumitrathor1/sachiva/pull/1) |
-
----
-
