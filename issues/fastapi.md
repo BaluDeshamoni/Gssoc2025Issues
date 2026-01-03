@@ -44,7 +44,7 @@
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
-| <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| ux: Add illustrated EmptyState to Groups and Friends pages | Medium | [#226](https://github.com/Devasy/splitwiser/pull/226) |
 | feat(auth): add explicit labels to auth forms | Medium | [#223](https://github.com/Devasy/splitwiser/pull/223) |
 | 🎨 Palette: Auth Loading States & Accessible Labels | Medium | [#222](https://github.com/Devasy/splitwiser/pull/222) |
 | 🎨 Palette: Add accessible labels to Auth form | Medium | [#220](https://github.com/Devasy/splitwiser/pull/220) |
