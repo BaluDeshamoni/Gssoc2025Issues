@@ -212,23 +212,24 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | docs: Add documentation for GET /api/v0/projects/ endpoint | Easy | [#3067](https://github.com/OWASP/Nest/pull/3067) |
-| Move GitHub Actions read permission from workflow level to job level | Medium | [#3134](https://github.com/OWASP/Nest/issues/3134) |
+| Improve Module Card: Show mentors/mentee avatars & change grid to 3 columns | Medium | [#3156](https://github.com/OWASP/Nest/issues/3156) |
+| Navigation links open in a new tab | Medium | [#3153](https://github.com/OWASP/Nest/issues/3153) |
+| Button text touches outline on focus | Medium | [#3150](https://github.com/OWASP/Nest/issues/3150) |
+| Refactor: Use a constant for the repeated "Module not found." error message | Medium | [#3146](https://github.com/OWASP/Nest/issues/3146) |
+| Refactor get_leaders regex to reduce cognitive complexity | Medium | [#3140](https://github.com/OWASP/Nest/pull/3140) |
+| Remove Unused react typed Props | Medium | [#3139](https://github.com/OWASP/Nest/issues/3139) |
 | Fix ChapterMap locked state with explicit unlock | Medium | [#3130](https://github.com/OWASP/Nest/pull/3130) |
 | Migrate Fuzz tests tool to Schemathesis and add REST Fuzz tests | Medium | [#3122](https://github.com/OWASP/Nest/pull/3122) |
-| Star Button Does Not Reflect Repository Starred State | Medium | [#3119](https://github.com/OWASP/Nest/issues/3119) |
-| ci: move permissions to job level | Medium | [#3118](https://github.com/OWASP/Nest/pull/3118) |
 | Hide Unpublished Programs and Modules From Public View | Medium | [#3117](https://github.com/OWASP/Nest/pull/3117) |
 | Refactor docker files / test images | Medium | [#3112](https://github.com/OWASP/Nest/pull/3112) |
 | Fix: Timezone discrepancies in Program/Module dates and Module date inheritance | Medium | [#3111](https://github.com/OWASP/Nest/issues/3111) |
-| Update volume names | Medium | [#3102](https://github.com/OWASP/Nest/pull/3102) |
 | Add module ordering | Medium | [#3101](https://github.com/OWASP/Nest/pull/3101) |
 | Prevent crash from invalid theme class during initialization | Medium | [#3089](https://github.com/OWASP/Nest/pull/3089) |
+| Prefer top-level await instead of async IIFE (Sonar S7785) | Medium | [#3087](https://github.com/OWASP/Nest/issues/3087) |
 | Fix: Show module as a section when there is only 1 module | Medium | [#3083](https://github.com/OWASP/Nest/issues/3083) |
 | Limit visible Roadmap and Project Timeline items on About page | Medium | [#3080](https://github.com/OWASP/Nest/pull/3080) |
 | Assign and un-assign issue via GitHub API | Medium | [#3056](https://github.com/OWASP/Nest/pull/3056) |
 | Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3054](https://github.com/OWASP/Nest/pull/3054) |
-| Refactor chapter map | Medium | [#3042](https://github.com/OWASP/Nest/pull/3042) |
-| Refactor badges update job: modularize handlers, introduce base class, and add tests | Medium | [#3040](https://github.com/OWASP/Nest/pull/3040) |
 
 ---
 
@@ -281,7 +282,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
-| <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| ux: Add illustrated EmptyState to Groups and Friends pages | Medium | [#226](https://github.com/Devasy/splitwiser/pull/226) |
 | feat(auth): add explicit labels to auth forms | Medium | [#223](https://github.com/Devasy/splitwiser/pull/223) |
 | 🎨 Palette: Auth Loading States & Accessible Labels | Medium | [#222](https://github.com/Devasy/splitwiser/pull/222) |
 | 🎨 Palette: Add accessible labels to Auth form | Medium | [#220](https://github.com/Devasy/splitwiser/pull/220) |
@@ -548,29 +549,29 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Readme.md | Easy | [#469](https://github.com/omroy07/AgriTech/issues/469) |
-| Bug: Chat header text has poor visibility/contrast SWOC | Easy | [#466](https://github.com/omroy07/AgriTech/issues/466) |
-| <short description> Improve the positioning of elements in cards in Blog section | Medium | [#478](https://github.com/omroy07/AgriTech/issues/478) |
-| Content: Update copyright year to 2026 across all pages | Medium | [#477](https://github.com/omroy07/AgriTech/issues/477) |
-| UI: Remove footer link hover animation and update Instagram URL | Medium | [#476](https://github.com/omroy07/AgriTech/issues/476) |
-| UI: Fix About page footer consistency and add search bar | Medium | [#475](https://github.com/omroy07/AgriTech/issues/475) |
-| Content: Missing blog posts for Farming Tips, Market Trends, and Business categories | Medium | [#474](https://github.com/omroy07/AgriTech/issues/474) |
-| Enhancement: Missing 'Back to Home' navigation on Blog page | Medium | [#473](https://github.com/omroy07/AgriTech/issues/473) |
-| Bug: Search bar is too narrow on desktop/laptop screens | Medium | [#472](https://github.com/omroy07/AgriTech/issues/472) |
-| Fix: Improved visibility of Chat header text | Medium | [#471](https://github.com/omroy07/AgriTech/pull/471) |
-| media icon | Medium | [#470](https://github.com/omroy07/AgriTech/pull/470) |
-| Bug: Footer email link redirects to homepage instead of opening email client | Medium | [#467](https://github.com/omroy07/AgriTech/issues/467) |
-| Add favicon | Medium | [#462](https://github.com/omroy07/AgriTech/issues/462) |
-| "Read more "button should be aligned properly | Medium | [#461](https://github.com/omroy07/AgriTech/issues/461) |
-| Enhancing the website by implementing dashboard in mobile version | Medium | [#460](https://github.com/omroy07/AgriTech/issues/460) |
-| Standardize Project File Structure | Medium | [#459](https://github.com/omroy07/AgriTech/issues/459) |
-| Fix: Dark mode persistence across pages | Medium | [#455](https://github.com/omroy07/AgriTech/pull/455) |
-| Fix the codebase structure | Medium | [#454](https://github.com/omroy07/AgriTech/issues/454) |
-| Fix heading visibility issue in light mode on Smart Crop Monitoring page | Medium | [#453](https://github.com/omroy07/AgriTech/pull/453) |
-| <short description>Improve the service page dialog box | Medium | [#452](https://github.com/omroy07/AgriTech/issues/452) |
-| Marketplace Services page | Medium | [#447](https://github.com/omroy07/AgriTech/issues/447) |
-| for supply chain support page | Medium | [#446](https://github.com/omroy07/AgriTech/issues/446) |
-| Update README.md | Medium | [#443](https://github.com/omroy07/AgriTech/pull/443) |
+| update the font color and other element color | Medium | [#511](https://github.com/omroy07/AgriTech/issues/511) |
+| Enhance Dashboard Setting Range Element UI | Medium | [#510](https://github.com/omroy07/AgriTech/issues/510) |
+| Add “Back” navigation on Financial Support & Insurance page | Medium | [#509](https://github.com/omroy07/AgriTech/issues/509) |
+| Implementation of Dark Mode for Improved User Accessibility | Medium | [#508](https://github.com/omroy07/AgriTech/issues/508) |
+| Add ‘View Favourites’ section to Marketplace page | Medium | [#507](https://github.com/omroy07/AgriTech/issues/507) |
+| Fix: Expanded search bar width for desktop view | Medium | [#506](https://github.com/omroy07/AgriTech/pull/506) |
+| fix(ui): update instagram link and remove footer stroke animation | Medium | [#505](https://github.com/omroy07/AgriTech/pull/505) |
+| Fix: Aligned About page UI (Footer & Navbar) with rest of site | Medium | [#504](https://github.com/omroy07/AgriTech/pull/504) |
+| feat: add hybrid pagination with load more to marketplace | Medium | [#503](https://github.com/omroy07/AgriTech/pull/503) |
+| fix(ui): align search icon inside container using flexbox | Medium | [#502](https://github.com/omroy07/AgriTech/pull/502) |
+| Feat: Populated missing blog categories with sample data | Medium | [#501](https://github.com/omroy07/AgriTech/pull/501) |
+| Create an AI Chatbot to suggest the best financial support scheme for the farmers. | Medium | [#500](https://github.com/omroy07/AgriTech/issues/500) |
+| Feat: Added 'Back to Home' navigation button to Blog | Medium | [#499](https://github.com/omroy07/AgriTech/pull/499) |
+| AI chatbot is not responding properly | Medium | [#498](https://github.com/omroy07/AgriTech/issues/498) |
+| Implement Live Search Suggestions and Fuzzy Matching | Medium | [#497](https://github.com/omroy07/AgriTech/issues/497) |
+| Chat input layout misaligned and send button not visually responsive | Medium | [#496](https://github.com/omroy07/AgriTech/issues/496) |
+| Enhance README and Contributor guidance. | Medium | [#495](https://github.com/omroy07/AgriTech/pull/495) |
+| Issue Number: #438 Navbar modifications | Medium | [#493](https://github.com/omroy07/AgriTech/pull/493) |
+| Reset input fields after successful form submission | Medium | [#486](https://github.com/omroy07/AgriTech/issues/486) |
+| Footer logo is not clickable to redirect to the home page | Medium | [#484](https://github.com/omroy07/AgriTech/issues/484) |
+| The current authentication form lacks essential client-side validation, which can lead to poor user experience and invalid submissions. | Medium | [#483](https://github.com/omroy07/AgriTech/issues/483) |
+| Socials to footer | Medium | [#481](https://github.com/omroy07/AgriTech/issues/481) |
+| Marketplace Services - Add Pagination or "Load More" Functionality | Medium | [#480](https://github.com/omroy07/AgriTech/issues/480) |
 
 ---
 
@@ -1528,6 +1529,26 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 ---
 
+## 📌 Project: GroqTales
+
+📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
+
+🔗 [View Project](https://github.com/Drago-03/GroqTales)
+
+💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Dark Mode Toggle for Improved Accessibility and User Experience | Medium | [#152](https://github.com/IndieHub25/GroqTales/issues/152) |
+| Mobile Navbar Issues: Hamburger Menu Missing and Header Content Not Fully Visible | Medium | [#151](https://github.com/IndieHub25/GroqTales/issues/151) |
+| 🐞 UI Visibility Issues: Scroll-to-Top Button & Create Story Page Background | Medium | [#150](https://github.com/IndieHub25/GroqTales/issues/150) |
+
+---
+
 ## 📌 Project: Weather app
 
 📝 **Description:** Create a weather app just using HTML,CSS,JS
@@ -1693,10 +1714,13 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
-| FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
+| OTHER: Add confirmation modal before clearing chat history | Medium | [#148](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/148) |
+| OTHER: Auto-save prompt drafts locally | Medium | [#147](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/147) |
+| docs: add beginner contribution roadmap | Medium | [#146](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/146) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 | FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
+| FEATURE: Dynamic Testimonial Section | Hard | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Add copy and edit functionality to chats | Hard | [#93](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/93) |
 | FEATURE: Create Page for Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
 
