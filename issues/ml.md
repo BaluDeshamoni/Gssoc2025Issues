@@ -460,6 +460,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Footer layout needs improvement on Guide page | Medium | [#1904](https://github.com/apu52/Travel_Website/issues/1904) |
 | Convert Homepage Hero Section into Carousel | Medium | [#1903](https://github.com/apu52/Travel_Website/issues/1903) |
 | Explore Top Destinations images are not sliding | Medium | [#1902](https://github.com/apu52/Travel_Website/issues/1902) |
 | fix: theme toggle on membership page | Medium | [#1901](https://github.com/apu52/Travel_Website/pull/1901) |
@@ -481,7 +482,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Implement a custom cursor for enhanced UI | Medium | [#1870](https://github.com/apu52/Travel_Website/issues/1870) |
 | Card Alignment's Improvement | Medium | [#1868](https://github.com/apu52/Travel_Website/issues/1868) |
 | UI/UX Improvement of footer inside the pricing section | Medium | [#1867](https://github.com/apu52/Travel_Website/issues/1867) |
-| UI Enhancement | Medium | [#1866](https://github.com/apu52/Travel_Website/issues/1866) |
 
 ---
 
@@ -825,29 +825,29 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Readme.md | Easy | [#469](https://github.com/omroy07/AgriTech/issues/469) |
-| Bug: Chat header text has poor visibility/contrast SWOC | Easy | [#466](https://github.com/omroy07/AgriTech/issues/466) |
-| <short description> Improve the positioning of elements in cards in Blog section | Medium | [#478](https://github.com/omroy07/AgriTech/issues/478) |
-| Content: Update copyright year to 2026 across all pages | Medium | [#477](https://github.com/omroy07/AgriTech/issues/477) |
-| UI: Remove footer link hover animation and update Instagram URL | Medium | [#476](https://github.com/omroy07/AgriTech/issues/476) |
-| UI: Fix About page footer consistency and add search bar | Medium | [#475](https://github.com/omroy07/AgriTech/issues/475) |
-| Content: Missing blog posts for Farming Tips, Market Trends, and Business categories | Medium | [#474](https://github.com/omroy07/AgriTech/issues/474) |
-| Enhancement: Missing 'Back to Home' navigation on Blog page | Medium | [#473](https://github.com/omroy07/AgriTech/issues/473) |
-| Bug: Search bar is too narrow on desktop/laptop screens | Medium | [#472](https://github.com/omroy07/AgriTech/issues/472) |
-| Fix: Improved visibility of Chat header text | Medium | [#471](https://github.com/omroy07/AgriTech/pull/471) |
-| media icon | Medium | [#470](https://github.com/omroy07/AgriTech/pull/470) |
-| Bug: Footer email link redirects to homepage instead of opening email client | Medium | [#467](https://github.com/omroy07/AgriTech/issues/467) |
-| Add favicon | Medium | [#462](https://github.com/omroy07/AgriTech/issues/462) |
-| "Read more "button should be aligned properly | Medium | [#461](https://github.com/omroy07/AgriTech/issues/461) |
-| Enhancing the website by implementing dashboard in mobile version | Medium | [#460](https://github.com/omroy07/AgriTech/issues/460) |
-| Standardize Project File Structure | Medium | [#459](https://github.com/omroy07/AgriTech/issues/459) |
-| Fix: Dark mode persistence across pages | Medium | [#455](https://github.com/omroy07/AgriTech/pull/455) |
-| Fix the codebase structure | Medium | [#454](https://github.com/omroy07/AgriTech/issues/454) |
-| Fix heading visibility issue in light mode on Smart Crop Monitoring page | Medium | [#453](https://github.com/omroy07/AgriTech/pull/453) |
-| <short description>Improve the service page dialog box | Medium | [#452](https://github.com/omroy07/AgriTech/issues/452) |
-| Marketplace Services page | Medium | [#447](https://github.com/omroy07/AgriTech/issues/447) |
-| for supply chain support page | Medium | [#446](https://github.com/omroy07/AgriTech/issues/446) |
-| Update README.md | Medium | [#443](https://github.com/omroy07/AgriTech/pull/443) |
+| update the font color and other element color | Medium | [#511](https://github.com/omroy07/AgriTech/issues/511) |
+| Enhance Dashboard Setting Range Element UI | Medium | [#510](https://github.com/omroy07/AgriTech/issues/510) |
+| Add “Back” navigation on Financial Support & Insurance page | Medium | [#509](https://github.com/omroy07/AgriTech/issues/509) |
+| Implementation of Dark Mode for Improved User Accessibility | Medium | [#508](https://github.com/omroy07/AgriTech/issues/508) |
+| Add ‘View Favourites’ section to Marketplace page | Medium | [#507](https://github.com/omroy07/AgriTech/issues/507) |
+| Fix: Expanded search bar width for desktop view | Medium | [#506](https://github.com/omroy07/AgriTech/pull/506) |
+| fix(ui): update instagram link and remove footer stroke animation | Medium | [#505](https://github.com/omroy07/AgriTech/pull/505) |
+| Fix: Aligned About page UI (Footer & Navbar) with rest of site | Medium | [#504](https://github.com/omroy07/AgriTech/pull/504) |
+| feat: add hybrid pagination with load more to marketplace | Medium | [#503](https://github.com/omroy07/AgriTech/pull/503) |
+| fix(ui): align search icon inside container using flexbox | Medium | [#502](https://github.com/omroy07/AgriTech/pull/502) |
+| Feat: Populated missing blog categories with sample data | Medium | [#501](https://github.com/omroy07/AgriTech/pull/501) |
+| Create an AI Chatbot to suggest the best financial support scheme for the farmers. | Medium | [#500](https://github.com/omroy07/AgriTech/issues/500) |
+| Feat: Added 'Back to Home' navigation button to Blog | Medium | [#499](https://github.com/omroy07/AgriTech/pull/499) |
+| AI chatbot is not responding properly | Medium | [#498](https://github.com/omroy07/AgriTech/issues/498) |
+| Implement Live Search Suggestions and Fuzzy Matching | Medium | [#497](https://github.com/omroy07/AgriTech/issues/497) |
+| Chat input layout misaligned and send button not visually responsive | Medium | [#496](https://github.com/omroy07/AgriTech/issues/496) |
+| Enhance README and Contributor guidance. | Medium | [#495](https://github.com/omroy07/AgriTech/pull/495) |
+| Issue Number: #438 Navbar modifications | Medium | [#493](https://github.com/omroy07/AgriTech/pull/493) |
+| Reset input fields after successful form submission | Medium | [#486](https://github.com/omroy07/AgriTech/issues/486) |
+| Footer logo is not clickable to redirect to the home page | Medium | [#484](https://github.com/omroy07/AgriTech/issues/484) |
+| The current authentication form lacks essential client-side validation, which can lead to poor user experience and invalid submissions. | Medium | [#483](https://github.com/omroy07/AgriTech/issues/483) |
+| Socials to footer | Medium | [#481](https://github.com/omroy07/AgriTech/issues/481) |
+| Marketplace Services - Add Pagination or "Load More" Functionality | Medium | [#480](https://github.com/omroy07/AgriTech/issues/480) |
 
 ---
 
@@ -2239,7 +2239,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Added live kink | Medium | [#122](https://github.com/pramisi/Occasio/pull/122) |
 | Complete FAQ section with 6 interactive items | Medium | [#116](https://github.com/pramisi/Occasio/pull/116) |
 | Inconsistent webpage layout – contents not correctly aligned | Medium | [#112](https://github.com/pramisi/Occasio/issues/112) |
-| added button class="shop-btn" | Medium | [#110](https://github.com/pramisi/Occasio/pull/110) |
 | Issue: Product Page Layout & Styling Problems | Medium | [#108](https://github.com/pramisi/Occasio/issues/108) |
 | Navigation Bar Contrast & Visibility Problem, Size is also very small | Medium | [#107](https://github.com/pramisi/Occasio/issues/107) |
 | Updated README: improved instructions/typo fixes | Medium | [#105](https://github.com/pramisi/Occasio/pull/105) |
@@ -2650,7 +2649,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Tree-shake unused icons and optimize icon bundle | Easy | [#39](https://github.com/x0lg0n/Boutique-To-Box/issues/39) |
-| security: add CSP meta with report-to endpoint and backend logging | Medium | [#52](https://github.com/x0lg0n/Boutique-To-Box/pull/52) |
 
 ---
 
@@ -2784,24 +2782,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | Added AI-powered FAQ Chatbot | Medium | [#290](https://github.com/sachiva1/sachiva/pull/290) |
 | Add Login/Signup UI with enhanced styles and functionality | Medium | [#289](https://github.com/sachiva1/sachiva/pull/289) |
 | Updated footer | Medium | [#288](https://github.com/sachiva1/sachiva/pull/288) |
-
----
-
-## 📌 Project: Sachiva
-
-📝 **Description:** Sachiva is a frontend-focused project that lets you work on a real-world business website using HTML, CSS, JavaScript & Bootstrap. Perfect for beginners and intermediate devs to practice responsive design, clean layouts, and modern UI development!
-
-🔗 [View Project](https://github.com/sumitrathor1/sachiva)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap 5.3
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Update README.md | Medium | [#1](https://github.com/sumitrathor1/sachiva/pull/1) |
 
 ---
 
