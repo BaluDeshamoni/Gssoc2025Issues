@@ -913,7 +913,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | ♿ Accessibility Enhancement: Semantic HTML, ARIA Attributes & Keyboard Navigation | Medium | [#68](https://github.com/vishalmaurya850/Product-Ledger/issues/68) |
 | Missing of Footer in "Privacy Policy", "Terms of Service", "Cookie Policy" Pages | Medium | [#65](https://github.com/vishalmaurya850/Product-Ledger/issues/65) |
 | Simple Dashboard Data Visualizations | Medium | [#64](https://github.com/vishalmaurya850/Product-Ledger/pull/64) |
-| Fix: Auto-close hamburger menu after navigation | Medium | [#62](https://github.com/vishalmaurya850/Product-Ledger/pull/62) |
 | Add Dockerfile and .dockerignore for containerization setup | Medium | [#61](https://github.com/vishalmaurya850/Product-Ledger/pull/61) |
 | Profile Section Not Opening After Login | Medium | [#60](https://github.com/vishalmaurya850/Product-Ledger/issues/60) |
 | Create Implement Real-Time Inventory Tracking with Stock Alert | Medium | [#58](https://github.com/vishalmaurya850/Product-Ledger/pull/58) |
@@ -1264,10 +1263,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix mobile responsiveness issues on /dashboard/improvement | Medium | [#68](https://github.com/prasoonk1204/BreatheEasy/pull/68) |
-| Add i8n language for Bahasa Indonesia (Indonesian) & Improvement for About Us Page | Medium | [#66](https://github.com/prasoonk1204/BreatheEasy/pull/66) |
-| Set up backend environment configuration for API keys and implement security best practices (3/3) | Medium | [#63](https://github.com/prasoonk1204/BreatheEasy/issues/63) |
-| Proxy map tile requests through backend and migrate WAQI overlay layer (2/3) | Medium | [#62](https://github.com/prasoonk1204/BreatheEasy/issues/62) |
+| Set up backend environment configuration for API keys and implement security best practices (3/3) | Hard | [#63](https://github.com/prasoonk1204/BreatheEasy/issues/63) |
+| Proxy map tile requests through backend and migrate WAQI overlay layer (2/3) | Hard | [#62](https://github.com/prasoonk1204/BreatheEasy/issues/62) |
 
 ---
 
@@ -1606,7 +1603,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Tree-shake unused icons and optimize icon bundle | Easy | [#39](https://github.com/x0lg0n/Boutique-To-Box/issues/39) |
-| security: add CSP meta with report-to endpoint and backend logging | Medium | [#52](https://github.com/x0lg0n/Boutique-To-Box/pull/52) |
 
 ---
 
