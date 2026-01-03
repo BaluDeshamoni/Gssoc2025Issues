@@ -205,29 +205,29 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Readme.md | Easy | [#469](https://github.com/omroy07/AgriTech/issues/469) |
-| Bug: Chat header text has poor visibility/contrast SWOC | Easy | [#466](https://github.com/omroy07/AgriTech/issues/466) |
-| <short description> Improve the positioning of elements in cards in Blog section | Medium | [#478](https://github.com/omroy07/AgriTech/issues/478) |
-| Content: Update copyright year to 2026 across all pages | Medium | [#477](https://github.com/omroy07/AgriTech/issues/477) |
-| UI: Remove footer link hover animation and update Instagram URL | Medium | [#476](https://github.com/omroy07/AgriTech/issues/476) |
-| UI: Fix About page footer consistency and add search bar | Medium | [#475](https://github.com/omroy07/AgriTech/issues/475) |
-| Content: Missing blog posts for Farming Tips, Market Trends, and Business categories | Medium | [#474](https://github.com/omroy07/AgriTech/issues/474) |
-| Enhancement: Missing 'Back to Home' navigation on Blog page | Medium | [#473](https://github.com/omroy07/AgriTech/issues/473) |
-| Bug: Search bar is too narrow on desktop/laptop screens | Medium | [#472](https://github.com/omroy07/AgriTech/issues/472) |
-| Fix: Improved visibility of Chat header text | Medium | [#471](https://github.com/omroy07/AgriTech/pull/471) |
-| media icon | Medium | [#470](https://github.com/omroy07/AgriTech/pull/470) |
-| Bug: Footer email link redirects to homepage instead of opening email client | Medium | [#467](https://github.com/omroy07/AgriTech/issues/467) |
-| Add favicon | Medium | [#462](https://github.com/omroy07/AgriTech/issues/462) |
-| "Read more "button should be aligned properly | Medium | [#461](https://github.com/omroy07/AgriTech/issues/461) |
-| Enhancing the website by implementing dashboard in mobile version | Medium | [#460](https://github.com/omroy07/AgriTech/issues/460) |
-| Standardize Project File Structure | Medium | [#459](https://github.com/omroy07/AgriTech/issues/459) |
-| Fix: Dark mode persistence across pages | Medium | [#455](https://github.com/omroy07/AgriTech/pull/455) |
-| Fix the codebase structure | Medium | [#454](https://github.com/omroy07/AgriTech/issues/454) |
-| Fix heading visibility issue in light mode on Smart Crop Monitoring page | Medium | [#453](https://github.com/omroy07/AgriTech/pull/453) |
-| <short description>Improve the service page dialog box | Medium | [#452](https://github.com/omroy07/AgriTech/issues/452) |
-| Marketplace Services page | Medium | [#447](https://github.com/omroy07/AgriTech/issues/447) |
-| for supply chain support page | Medium | [#446](https://github.com/omroy07/AgriTech/issues/446) |
-| Update README.md | Medium | [#443](https://github.com/omroy07/AgriTech/pull/443) |
+| update the font color and other element color | Medium | [#511](https://github.com/omroy07/AgriTech/issues/511) |
+| Enhance Dashboard Setting Range Element UI | Medium | [#510](https://github.com/omroy07/AgriTech/issues/510) |
+| Add “Back” navigation on Financial Support & Insurance page | Medium | [#509](https://github.com/omroy07/AgriTech/issues/509) |
+| Implementation of Dark Mode for Improved User Accessibility | Medium | [#508](https://github.com/omroy07/AgriTech/issues/508) |
+| Add ‘View Favourites’ section to Marketplace page | Medium | [#507](https://github.com/omroy07/AgriTech/issues/507) |
+| Fix: Expanded search bar width for desktop view | Medium | [#506](https://github.com/omroy07/AgriTech/pull/506) |
+| fix(ui): update instagram link and remove footer stroke animation | Medium | [#505](https://github.com/omroy07/AgriTech/pull/505) |
+| Fix: Aligned About page UI (Footer & Navbar) with rest of site | Medium | [#504](https://github.com/omroy07/AgriTech/pull/504) |
+| feat: add hybrid pagination with load more to marketplace | Medium | [#503](https://github.com/omroy07/AgriTech/pull/503) |
+| fix(ui): align search icon inside container using flexbox | Medium | [#502](https://github.com/omroy07/AgriTech/pull/502) |
+| Feat: Populated missing blog categories with sample data | Medium | [#501](https://github.com/omroy07/AgriTech/pull/501) |
+| Create an AI Chatbot to suggest the best financial support scheme for the farmers. | Medium | [#500](https://github.com/omroy07/AgriTech/issues/500) |
+| Feat: Added 'Back to Home' navigation button to Blog | Medium | [#499](https://github.com/omroy07/AgriTech/pull/499) |
+| AI chatbot is not responding properly | Medium | [#498](https://github.com/omroy07/AgriTech/issues/498) |
+| Implement Live Search Suggestions and Fuzzy Matching | Medium | [#497](https://github.com/omroy07/AgriTech/issues/497) |
+| Chat input layout misaligned and send button not visually responsive | Medium | [#496](https://github.com/omroy07/AgriTech/issues/496) |
+| Enhance README and Contributor guidance. | Medium | [#495](https://github.com/omroy07/AgriTech/pull/495) |
+| Issue Number: #438 Navbar modifications | Medium | [#493](https://github.com/omroy07/AgriTech/pull/493) |
+| Reset input fields after successful form submission | Medium | [#486](https://github.com/omroy07/AgriTech/issues/486) |
+| Footer logo is not clickable to redirect to the home page | Medium | [#484](https://github.com/omroy07/AgriTech/issues/484) |
+| The current authentication form lacks essential client-side validation, which can lead to poor user experience and invalid submissions. | Medium | [#483](https://github.com/omroy07/AgriTech/issues/483) |
+| Socials to footer | Medium | [#481](https://github.com/omroy07/AgriTech/issues/481) |
+| Marketplace Services - Add Pagination or "Load More" Functionality | Medium | [#480](https://github.com/omroy07/AgriTech/issues/480) |
 
 ---
 
@@ -392,10 +392,13 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
-| FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
+| OTHER: Add confirmation modal before clearing chat history | Medium | [#148](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/148) |
+| OTHER: Auto-save prompt drafts locally | Medium | [#147](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/147) |
+| docs: add beginner contribution roadmap | Medium | [#146](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/146) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 | FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
 | FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
+| FEATURE: Dynamic Testimonial Section | Hard | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Add copy and edit functionality to chats | Hard | [#93](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/93) |
 | FEATURE: Create Page for Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
 
