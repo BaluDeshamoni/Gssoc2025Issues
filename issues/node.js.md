@@ -53,7 +53,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump the npm_and_yarn group across 2 directories with 1 update | Medium | [#743](https://github.com/abhisek2004/Dev-Elevate/pull/743) |
+| Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -173,10 +173,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Migrate Notification components to MUI Alert/List | Easy | [#1283](https://github.com/Code-A2Z/code-a2z/issues/1283) |
+| Comprehensive README Overhaul for SWoC'26 Onboarding | Medium | [#1334](https://github.com/Code-A2Z/code-a2z/issues/1334) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
-| AI-Powered Personalized Learning Path Recommendation System | Medium | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
-| Feat Frontend Req: Add Footer For Code-A2Z | Medium | [#1331](https://github.com/Code-A2Z/code-a2z/issues/1331) |
 | feat(notes): Implement private project-specific notes (#249) | Medium | [#1328](https://github.com/Code-A2Z/code-a2z/pull/1328) |
 | Feature/private notes backend | Medium | [#1327](https://github.com/Code-A2Z/code-a2z/pull/1327) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
@@ -779,6 +777,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Fixed (Story Creation Form Skips to Next Page on Small Screens) | Medium | [#56](https://github.com/Sahilll94/Travel-Book/pull/56) |
 | UI enhancement of home page | Medium | [#55](https://github.com/Sahilll94/Travel-Book/pull/55) |
 | Fix overlapping Back-to-Top and Plus buttons by adjusting bottom spacing | Medium | [#53](https://github.com/Sahilll94/Travel-Book/pull/53) |
+| Adding Framer Motion to hero section make site interactive | Medium | [#4](https://github.com/Sahilll94/Travel-Book/issues/4) |
 
 ---
 
@@ -1463,6 +1462,27 @@ Fast Workflow Tools
 
 ---
 
+## 📌 Project: GroqTales
+
+📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
+
+🔗 [View Project](https://github.com/Drago-03/GroqTales)
+
+💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add preview of the website | Medium | [#154](https://github.com/IndieHub25/GroqTales/issues/154) |
+| Smart Contract Update: Corrected burn function removed Unnecessary imports madethe contract more gas efficient and also added reentrancy guard, added hardhat | Medium | [#153](https://github.com/IndieHub25/GroqTales/pull/153) |
+| Add Dark Mode Toggle for Improved Accessibility and User Experience | Medium | [#152](https://github.com/IndieHub25/GroqTales/issues/152) |
+| Mobile Navbar Issues: Hamburger Menu Missing and Header Content Not Fully Visible | Medium | [#151](https://github.com/IndieHub25/GroqTales/issues/151) |
+
+---
+
 ## 📌 Project: Project Management System
 
 📝 **Description:** Advanced Project Management System is a real-time, collaborative platform to manage projects, tasks, and teams efficiently.
@@ -1575,10 +1595,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix mobile responsiveness issues on /dashboard/improvement | Medium | [#68](https://github.com/prasoonk1204/BreatheEasy/pull/68) |
-| Add i8n language for Bahasa Indonesia (Indonesian) & Improvement for About Us Page | Medium | [#66](https://github.com/prasoonk1204/BreatheEasy/pull/66) |
-| Set up backend environment configuration for API keys and implement security best practices (3/3) | Medium | [#63](https://github.com/prasoonk1204/BreatheEasy/issues/63) |
-| Proxy map tile requests through backend and migrate WAQI overlay layer (2/3) | Medium | [#62](https://github.com/prasoonk1204/BreatheEasy/issues/62) |
+| feat: auto-rotating card slider in contributor section. | Medium | [#76](https://github.com/prasoonk1204/BreatheEasy/pull/76) |
+| Add CONTRIBUTING.md to improve contributor onboarding | Medium | [#75](https://github.com/prasoonk1204/BreatheEasy/issues/75) |
+| Language selector modal remains open when user changes route | Medium | [#74](https://github.com/prasoonk1204/BreatheEasy/issues/74) |
+| Set up backend environment configuration for API keys and implement security best practices (3/3) | Hard | [#63](https://github.com/prasoonk1204/BreatheEasy/issues/63) |
+| Proxy map tile requests through backend and migrate WAQI overlay layer (2/3) | Hard | [#62](https://github.com/prasoonk1204/BreatheEasy/issues/62) |
 
 ---
 
@@ -1726,7 +1747,6 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | Add Feedback Form to DevTinder | Medium | [#36](https://github.com/coder-writes/devTinder-frontend-main/issues/36) |
 | Adding a static navbar containing all the features + making all navigation route fixed | Medium | [#35](https://github.com/coder-writes/devTinder-frontend-main/issues/35) |
-| Integrate FAQBot into Main Application | Medium | [#34](https://github.com/coder-writes/devTinder-frontend-main/pull/34) |
 | added pages for forgot password, reset password and updated login page | Medium | [#33](https://github.com/coder-writes/devTinder-frontend-main/pull/33) |
 | Added Contact Page with Functional Email Form Using EmailJS | Medium | [#32](https://github.com/coder-writes/devTinder-frontend-main/pull/32) |
 | Feature Request: Implement “Project Ideas Hub” Section | Medium | [#27](https://github.com/coder-writes/devTinder-frontend-main/issues/27) |
@@ -1956,7 +1976,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Tree-shake unused icons and optimize icon bundle | Easy | [#39](https://github.com/x0lg0n/Boutique-To-Box/issues/39) |
-| security: add CSP meta with report-to endpoint and backend logging | Medium | [#52](https://github.com/x0lg0n/Boutique-To-Box/pull/52) |
 
 ---
 
