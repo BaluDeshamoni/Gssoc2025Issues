@@ -347,6 +347,14 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added Blog_review section | Medium | [#1912](https://github.com/apu52/Travel_Website/pull/1912) |
+| Search Results Page Does Not Restore Scroll Position After Navigation | Medium | [#1911](https://github.com/apu52/Travel_Website/issues/1911) |
+| Improve Keyboard Navigation and Focus States | Medium | [#1910](https://github.com/apu52/Travel_Website/issues/1910) |
+| Trip Search Results Reset Unexpectedly When Browser Tab Visibility Changes | Medium | [#1909](https://github.com/apu52/Travel_Website/issues/1909) |
+| Add Interactive “First-Time Visitor Welcome Experience” | Medium | [#1908](https://github.com/apu52/Travel_Website/issues/1908) |
+| Scroll-Based Storytelling Animations to Enhance User Engagement | Medium | [#1907](https://github.com/apu52/Travel_Website/issues/1907) |
+| Lack of visual loading feedback when performing search actions | Medium | [#1906](https://github.com/apu52/Travel_Website/issues/1906) |
+| feat: Enhanced color contrasts and animations in trip cards | Medium | [#1905](https://github.com/apu52/Travel_Website/pull/1905) |
 | Footer layout needs improvement on Guide page | Medium | [#1904](https://github.com/apu52/Travel_Website/issues/1904) |
 | Convert Homepage Hero Section into Carousel | Medium | [#1903](https://github.com/apu52/Travel_Website/issues/1903) |
 | Explore Top Destinations images are not sliding | Medium | [#1902](https://github.com/apu52/Travel_Website/issues/1902) |
@@ -361,14 +369,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | fix: images not displaying in trip cards | Medium | [#1893](https://github.com/apu52/Travel_Website/pull/1893) |
 | Packages page missing theme toggle, inconsistent nav/scrollbar & oversized carousel arrow hover | Medium | [#1892](https://github.com/apu52/Travel_Website/issues/1892) |
 | About page theme toggle not applied, tab spacing inconsistent & growth cards show pointer | Medium | [#1891](https://github.com/apu52/Travel_Website/issues/1891) |
-| Booking dates are even accepting the wrong years like 2024, 2023 etc | Medium | [#1875](https://github.com/apu52/Travel_Website/issues/1875) |
-| alert page, pointer | Medium | [#1874](https://github.com/apu52/Travel_Website/issues/1874) |
-| Slidebar, Hover, Pictures, Overall UI | Medium | [#1873](https://github.com/apu52/Travel_Website/issues/1873) |
-| Authorization Bypass: Unauthenticated users can submit ratings/feedback. | Medium | [#1872](https://github.com/apu52/Travel_Website/issues/1872) |
-| Add Snake Cursor Effect | Medium | [#1871](https://github.com/apu52/Travel_Website/issues/1871) |
-| Implement a custom cursor for enhanced UI | Medium | [#1870](https://github.com/apu52/Travel_Website/issues/1870) |
-| Card Alignment's Improvement | Medium | [#1868](https://github.com/apu52/Travel_Website/issues/1868) |
-| UI/UX Improvement of footer inside the pricing section | Medium | [#1867](https://github.com/apu52/Travel_Website/issues/1867) |
 
 ---
 
@@ -458,9 +458,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor Codebase: Clean up Technical Debt and Standardize Styling | Medium | [#96](https://github.com/Dipanita45/HEALCONNECT/issues/96) |
-| Backend setup documentation and environment configuration missing | Medium | [#95](https://github.com/Dipanita45/HEALCONNECT/issues/95) |
-| Add hover effects on buttons | Medium | [#94](https://github.com/Dipanita45/HEALCONNECT/issues/94) |
+| Add Custom 404 Error Page | Medium | [#100](https://github.com/Dipanita45/HEALCONNECT/issues/100) |
+| Missing Password Strength Validation in Signup Form | Medium | [#99](https://github.com/Dipanita45/HEALCONNECT/issues/99) |
+| Add environment example and backend setup documentation | Medium | [#98](https://github.com/Dipanita45/HEALCONNECT/pull/98) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
 
 ---
@@ -750,29 +750,32 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add back navigation button to Financial Support page | Medium | [#538](https://github.com/omroy07/AgriTech/pull/538) |
+| feat: implement real-time weather advisor and farming alerts #516 | Medium | [#537](https://github.com/omroy07/AgriTech/pull/537) |
+| Add scoped dark mode with accessibility and persistence to Supply Chain page | Medium | [#536](https://github.com/omroy07/AgriTech/pull/536) |
+| Add Offline Support and Graceful Network Failure Handling | Medium | [#535](https://github.com/omroy07/AgriTech/issues/535) |
+| Feature: Integrated Dark Mode for Supply Chain Page | Medium | [#534](https://github.com/omroy07/AgriTech/pull/534) |
+| Navbar on FAQ Page Is Not Consistent With Home Page Navbar | Medium | [#533](https://github.com/omroy07/AgriTech/issues/533) |
+| Update README.md | Medium | [#532](https://github.com/omroy07/AgriTech/pull/532) |
+| FAQ Page Footer Is Inconsistent With Home Page Footer | Medium | [#531](https://github.com/omroy07/AgriTech/issues/531) |
+| Issue Number: #418 - add forgot password link to login page | Medium | [#530](https://github.com/omroy07/AgriTech/pull/530) |
+| UI inconsistency in “Why It Matters” section – align layout with “Our Platform Benefits” | Medium | [#529](https://github.com/omroy07/AgriTech/issues/529) |
+| Feature/supply chain support page | Medium | [#528](https://github.com/omroy07/AgriTech/pull/528) |
+| Theme toggle button inconsistent across pages | Medium | [#527](https://github.com/omroy07/AgriTech/issues/527) |
+| Calendar Button Color Is Too Light | Medium | [#526](https://github.com/omroy07/AgriTech/issues/526) |
+| Unwanted Black Box Appears on Search Input Focus | Medium | [#525](https://github.com/omroy07/AgriTech/issues/525) |
+| Navigation bar button order inconsistent across pages | Medium | [#524](https://github.com/omroy07/AgriTech/issues/524) |
+| Navbar Position Should Be Fixed for Better Accessibility | Medium | [#523](https://github.com/omroy07/AgriTech/issues/523) |
+| Feature/footer enhancement | Medium | [#522](https://github.com/omroy07/AgriTech/pull/522) |
+| Enhance marketplace UI and functionality | Medium | [#521](https://github.com/omroy07/AgriTech/pull/521) |
+| UI Bug: Inconsistent alignment of “Read More” buttons in cards. | Medium | [#520](https://github.com/omroy07/AgriTech/issues/520) |
+| Enhanced mobile version using hamburger menu bar | Medium | [#518](https://github.com/omroy07/AgriTech/pull/518) |
+| Navbar is not fixed on scroll on homepage | Medium | [#517](https://github.com/omroy07/AgriTech/issues/517) |
+| Smart crop monitoring page enhanced in light mode | Medium | [#515](https://github.com/omroy07/AgriTech/pull/515) |
+| Footer is inconsistent and missing across multiple pages of the website | Medium | [#514](https://github.com/omroy07/AgriTech/issues/514) |
+| Aligned the read more button | Medium | [#513](https://github.com/omroy07/AgriTech/pull/513) |
+| Security: Fix unauthorized room creation in Socket.IO | Medium | [#512](https://github.com/omroy07/AgriTech/pull/512) |
 | update the font color and other element color | Medium | [#511](https://github.com/omroy07/AgriTech/issues/511) |
-| Enhance Dashboard Setting Range Element UI | Medium | [#510](https://github.com/omroy07/AgriTech/issues/510) |
-| Add “Back” navigation on Financial Support & Insurance page | Medium | [#509](https://github.com/omroy07/AgriTech/issues/509) |
-| Implementation of Dark Mode for Improved User Accessibility | Medium | [#508](https://github.com/omroy07/AgriTech/issues/508) |
-| Add ‘View Favourites’ section to Marketplace page | Medium | [#507](https://github.com/omroy07/AgriTech/issues/507) |
-| Fix: Expanded search bar width for desktop view | Medium | [#506](https://github.com/omroy07/AgriTech/pull/506) |
-| fix(ui): update instagram link and remove footer stroke animation | Medium | [#505](https://github.com/omroy07/AgriTech/pull/505) |
-| Fix: Aligned About page UI (Footer & Navbar) with rest of site | Medium | [#504](https://github.com/omroy07/AgriTech/pull/504) |
-| feat: add hybrid pagination with load more to marketplace | Medium | [#503](https://github.com/omroy07/AgriTech/pull/503) |
-| fix(ui): align search icon inside container using flexbox | Medium | [#502](https://github.com/omroy07/AgriTech/pull/502) |
-| Feat: Populated missing blog categories with sample data | Medium | [#501](https://github.com/omroy07/AgriTech/pull/501) |
-| Create an AI Chatbot to suggest the best financial support scheme for the farmers. | Medium | [#500](https://github.com/omroy07/AgriTech/issues/500) |
-| Feat: Added 'Back to Home' navigation button to Blog | Medium | [#499](https://github.com/omroy07/AgriTech/pull/499) |
-| AI chatbot is not responding properly | Medium | [#498](https://github.com/omroy07/AgriTech/issues/498) |
-| Implement Live Search Suggestions and Fuzzy Matching | Medium | [#497](https://github.com/omroy07/AgriTech/issues/497) |
-| Chat input layout misaligned and send button not visually responsive | Medium | [#496](https://github.com/omroy07/AgriTech/issues/496) |
-| Enhance README and Contributor guidance. | Medium | [#495](https://github.com/omroy07/AgriTech/pull/495) |
-| Issue Number: #438 Navbar modifications | Medium | [#493](https://github.com/omroy07/AgriTech/pull/493) |
-| Reset input fields after successful form submission | Medium | [#486](https://github.com/omroy07/AgriTech/issues/486) |
-| Footer logo is not clickable to redirect to the home page | Medium | [#484](https://github.com/omroy07/AgriTech/issues/484) |
-| The current authentication form lacks essential client-side validation, which can lead to poor user experience and invalid submissions. | Medium | [#483](https://github.com/omroy07/AgriTech/issues/483) |
-| Socials to footer | Medium | [#481](https://github.com/omroy07/AgriTech/issues/481) |
-| Marketplace Services - Add Pagination or "Load More" Functionality | Medium | [#480](https://github.com/omroy07/AgriTech/issues/480) |
 
 ---
 
@@ -1200,7 +1203,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-|  | Medium | [#254](https://github.com/souvikpramanikgit/LearnHub/issues/254) |
 | chatbot | Medium | [#253](https://github.com/souvikpramanikgit/LearnHub/issues/253) |
 | screen shot of issused bugs | Medium | [#252](https://github.com/souvikpramanikgit/LearnHub/issues/252) |
 | Improve Landing Page Performance by Optimizing Background Image (LCP Enhancement) | Medium | [#251](https://github.com/souvikpramanikgit/LearnHub/issues/251) |
@@ -1558,7 +1560,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| structured logging + ipv4 , ipv6 with backword compatible ip | Medium | [#73](https://github.com/IntegerAlex/fingerprint-oss/pull/73) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
 | Stabilization in Hash generation | Hard | [#61](https://github.com/IntegerAlex/fingerprint-oss/pull/61) |
 
@@ -2057,9 +2058,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add preview of the website | Medium | [#154](https://github.com/IndieHub25/GroqTales/issues/154) |
+| Smart Contract Update: Corrected burn function removed Unnecessary imports madethe contract more gas efficient and also added reentrancy guard, added hardhat | Medium | [#153](https://github.com/IndieHub25/GroqTales/pull/153) |
 | Add Dark Mode Toggle for Improved Accessibility and User Experience | Medium | [#152](https://github.com/IndieHub25/GroqTales/issues/152) |
 | Mobile Navbar Issues: Hamburger Menu Missing and Header Content Not Fully Visible | Medium | [#151](https://github.com/IndieHub25/GroqTales/issues/151) |
-| 🐞 UI Visibility Issues: Scroll-to-Top Button & Create Story Page Background | Medium | [#150](https://github.com/IndieHub25/GroqTales/issues/150) |
 
 ---
 
@@ -2350,7 +2352,6 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | Add Feedback Form to DevTinder | Medium | [#36](https://github.com/coder-writes/devTinder-frontend-main/issues/36) |
 | Adding a static navbar containing all the features + making all navigation route fixed | Medium | [#35](https://github.com/coder-writes/devTinder-frontend-main/issues/35) |
-| Integrate FAQBot into Main Application | Medium | [#34](https://github.com/coder-writes/devTinder-frontend-main/pull/34) |
 | added pages for forgot password, reset password and updated login page | Medium | [#33](https://github.com/coder-writes/devTinder-frontend-main/pull/33) |
 | Added Contact Page with Functional Email Form Using EmailJS | Medium | [#32](https://github.com/coder-writes/devTinder-frontend-main/pull/32) |
 | Feature Request: Implement “Project Ideas Hub” Section | Medium | [#27](https://github.com/coder-writes/devTinder-frontend-main/issues/27) |
