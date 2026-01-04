@@ -100,7 +100,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump the npm_and_yarn group across 2 directories with 1 update | Medium | [#743](https://github.com/abhisek2004/Dev-Elevate/pull/743) |
+| Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -257,24 +257,28 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: Add documentation for GET /api/v0/projects/ endpoint | Easy | [#3067](https://github.com/OWASP/Nest/pull/3067) |
-| Move GitHub Actions read permission from workflow level to job level | Medium | [#3134](https://github.com/OWASP/Nest/issues/3134) |
+| Remove unnecessary identity check in slack question detector test | Medium | [#3168](https://github.com/OWASP/Nest/issues/3168) |
+| Update deprecated Jest fake timer usage in frontend unit tests | Medium | [#3167](https://github.com/OWASP/Nest/issues/3167) |
+| Minor vulnerability: create_api_key mutation fails for naive datetime inputs | Medium | [#3165](https://github.com/OWASP/Nest/issues/3165) |
+| refactor(tests): remove unnecessary non-null assertion in ChapterMap overlay tests | Medium | [#3164](https://github.com/OWASP/Nest/issues/3164) |
+| feat: add accessibility tests support | Medium | [#3162](https://github.com/OWASP/Nest/pull/3162) |
+| Refactor Slack entity handlers to eliminate ~350 lines of duplicate code | Medium | [#3161](https://github.com/OWASP/Nest/issues/3161) |
+| Simplify regex in Pagination test by using character class instead of alternation | Medium | [#3160](https://github.com/OWASP/Nest/issues/3160) |
+| Add tag display to issue cards on contribute page | Medium | [#3158](https://github.com/OWASP/Nest/pull/3158) |
+| Improve Module Card: Show mentors/mentee avatars & change grid to 3 columns | Medium | [#3156](https://github.com/OWASP/Nest/issues/3156) |
+| Navigation links open in a new tab | Medium | [#3153](https://github.com/OWASP/Nest/issues/3153) |
+| Button text touches outline on focus | Medium | [#3150](https://github.com/OWASP/Nest/issues/3150) |
+| Refactor: Use a constant for the repeated "Module not found." error message | Medium | [#3146](https://github.com/OWASP/Nest/issues/3146) |
+| Refactor get_leaders regex to reduce cognitive complexity | Medium | [#3140](https://github.com/OWASP/Nest/pull/3140) |
+| Remove Unused react typed Props | Medium | [#3139](https://github.com/OWASP/Nest/issues/3139) |
 | Fix ChapterMap locked state with explicit unlock | Medium | [#3130](https://github.com/OWASP/Nest/pull/3130) |
 | Migrate Fuzz tests tool to Schemathesis and add REST Fuzz tests | Medium | [#3122](https://github.com/OWASP/Nest/pull/3122) |
-| Star Button Does Not Reflect Repository Starred State | Medium | [#3119](https://github.com/OWASP/Nest/issues/3119) |
-| ci: move permissions to job level | Medium | [#3118](https://github.com/OWASP/Nest/pull/3118) |
 | Hide Unpublished Programs and Modules From Public View | Medium | [#3117](https://github.com/OWASP/Nest/pull/3117) |
 | Refactor docker files / test images | Medium | [#3112](https://github.com/OWASP/Nest/pull/3112) |
 | Fix: Timezone discrepancies in Program/Module dates and Module date inheritance | Medium | [#3111](https://github.com/OWASP/Nest/issues/3111) |
-| Update volume names | Medium | [#3102](https://github.com/OWASP/Nest/pull/3102) |
 | Add module ordering | Medium | [#3101](https://github.com/OWASP/Nest/pull/3101) |
 | Prevent crash from invalid theme class during initialization | Medium | [#3089](https://github.com/OWASP/Nest/pull/3089) |
-| Fix: Show module as a section when there is only 1 module | Medium | [#3083](https://github.com/OWASP/Nest/issues/3083) |
-| Limit visible Roadmap and Project Timeline items on About page | Medium | [#3080](https://github.com/OWASP/Nest/pull/3080) |
-| Assign and un-assign issue via GitHub API | Medium | [#3056](https://github.com/OWASP/Nest/pull/3056) |
-| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3054](https://github.com/OWASP/Nest/pull/3054) |
-| Refactor chapter map | Medium | [#3042](https://github.com/OWASP/Nest/pull/3042) |
-| Refactor badges update job: modularize handlers, introduce base class, and add tests | Medium | [#3040](https://github.com/OWASP/Nest/pull/3040) |
+| Prefer top-level await instead of async IIFE (Sonar S7785) | Medium | [#3087](https://github.com/OWASP/Nest/issues/3087) |
 
 ---
 
@@ -292,10 +296,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Migrate Notification components to MUI Alert/List | Easy | [#1283](https://github.com/Code-A2Z/code-a2z/issues/1283) |
+| Comprehensive README Overhaul for SWoC'26 Onboarding | Medium | [#1334](https://github.com/Code-A2Z/code-a2z/issues/1334) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
-| AI-Powered Personalized Learning Path Recommendation System | Medium | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
-| Feat Frontend Req: Add Footer For Code-A2Z | Medium | [#1331](https://github.com/Code-A2Z/code-a2z/issues/1331) |
 | feat(notes): Implement private project-specific notes (#249) | Medium | [#1328](https://github.com/Code-A2Z/code-a2z/pull/1328) |
 | Feature/private notes backend | Medium | [#1327](https://github.com/Code-A2Z/code-a2z/pull/1327) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
@@ -522,8 +524,9 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Backend setup documentation and environment configuration missing | Medium | [#95](https://github.com/Dipanita45/HEALCONNECT/issues/95) |
-| Add hover effects on buttons | Medium | [#94](https://github.com/Dipanita45/HEALCONNECT/issues/94) |
+| Add Custom 404 Error Page | Medium | [#100](https://github.com/Dipanita45/HEALCONNECT/issues/100) |
+| Missing Password Strength Validation in Signup Form | Medium | [#99](https://github.com/Dipanita45/HEALCONNECT/issues/99) |
+| Add environment example and backend setup documentation | Medium | [#98](https://github.com/Dipanita45/HEALCONNECT/pull/98) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
 
 ---
@@ -1414,7 +1417,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adding social media links | Medium | [#85](https://github.com/vishalmaurya850/Product-Ledger/issues/85) |
 | Added Scroll to top button | Medium | [#84](https://github.com/vishalmaurya850/Product-Ledger/pull/84) |
 | about us page | Medium | [#83](https://github.com/vishalmaurya850/Product-Ledger/issues/83) |
 | Enhancement | Medium | [#82](https://github.com/vishalmaurya850/Product-Ledger/issues/82) |
@@ -1431,7 +1433,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | ♿ Accessibility Enhancement: Semantic HTML, ARIA Attributes & Keyboard Navigation | Medium | [#68](https://github.com/vishalmaurya850/Product-Ledger/issues/68) |
 | Missing of Footer in "Privacy Policy", "Terms of Service", "Cookie Policy" Pages | Medium | [#65](https://github.com/vishalmaurya850/Product-Ledger/issues/65) |
 | Simple Dashboard Data Visualizations | Medium | [#64](https://github.com/vishalmaurya850/Product-Ledger/pull/64) |
-| Fix: Auto-close hamburger menu after navigation | Medium | [#62](https://github.com/vishalmaurya850/Product-Ledger/pull/62) |
 | Add Dockerfile and .dockerignore for containerization setup | Medium | [#61](https://github.com/vishalmaurya850/Product-Ledger/pull/61) |
 | Profile Section Not Opening After Login | Medium | [#60](https://github.com/vishalmaurya850/Product-Ledger/issues/60) |
 | Create Implement Real-Time Inventory Tracking with Stock Alert | Medium | [#58](https://github.com/vishalmaurya850/Product-Ledger/pull/58) |
@@ -1922,10 +1923,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix mobile responsiveness issues on /dashboard/improvement | Medium | [#68](https://github.com/prasoonk1204/BreatheEasy/pull/68) |
-| Add i8n language for Bahasa Indonesia (Indonesian) & Improvement for About Us Page | Medium | [#66](https://github.com/prasoonk1204/BreatheEasy/pull/66) |
-| Set up backend environment configuration for API keys and implement security best practices (3/3) | Medium | [#63](https://github.com/prasoonk1204/BreatheEasy/issues/63) |
-| Proxy map tile requests through backend and migrate WAQI overlay layer (2/3) | Medium | [#62](https://github.com/prasoonk1204/BreatheEasy/issues/62) |
+| feat: auto-rotating card slider in contributor section. | Medium | [#76](https://github.com/prasoonk1204/BreatheEasy/pull/76) |
+| Add CONTRIBUTING.md to improve contributor onboarding | Medium | [#75](https://github.com/prasoonk1204/BreatheEasy/issues/75) |
+| Language selector modal remains open when user changes route | Medium | [#74](https://github.com/prasoonk1204/BreatheEasy/issues/74) |
+| Set up backend environment configuration for API keys and implement security best practices (3/3) | Hard | [#63](https://github.com/prasoonk1204/BreatheEasy/issues/63) |
+| Proxy map tile requests through backend and migrate WAQI overlay layer (2/3) | Hard | [#62](https://github.com/prasoonk1204/BreatheEasy/issues/62) |
 
 ---
 
@@ -1965,7 +1967,6 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | Add Feedback Form to DevTinder | Medium | [#36](https://github.com/coder-writes/devTinder-frontend-main/issues/36) |
 | Adding a static navbar containing all the features + making all navigation route fixed | Medium | [#35](https://github.com/coder-writes/devTinder-frontend-main/issues/35) |
-| Integrate FAQBot into Main Application | Medium | [#34](https://github.com/coder-writes/devTinder-frontend-main/pull/34) |
 | added pages for forgot password, reset password and updated login page | Medium | [#33](https://github.com/coder-writes/devTinder-frontend-main/pull/33) |
 | Added Contact Page with Functional Email Form Using EmailJS | Medium | [#32](https://github.com/coder-writes/devTinder-frontend-main/pull/32) |
 | Feature Request: Implement “Project Ideas Hub” Section | Medium | [#27](https://github.com/coder-writes/devTinder-frontend-main/issues/27) |
@@ -2070,11 +2071,14 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
-| FEATURE: Dynamic Testimonial Section | Medium | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
+| Issue Fixed – UI Animations & Interactivity Improved  #145 | Medium | [#155](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/155) |
+| Add flast_bcrypt and jwt | Medium | [#154](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/154) |
+| Feat: Implemented prompt limit in a single chat session | Medium | [#153](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/153) |
+| OTHER: Add beginner contribution roadmap to CONTRIBUTING.md | Medium | [#151](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/151) |
+| added user authentication, reviews, and guest message limits | Medium | [#150](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/150) |
+| OTHER: Add confirmation modal before clearing chat history | Medium | [#148](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/148) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 | FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
-| FEATURE : Limiting number of prompts In One Chat Session | Medium | [#43](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/43) |
-| FEATURE: Add copy and edit functionality to chats | Hard | [#93](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/93) |
 | FEATURE: Create Page for Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
 
 ---
