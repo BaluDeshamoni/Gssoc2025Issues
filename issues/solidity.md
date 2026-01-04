@@ -46,9 +46,10 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add preview of the website | Medium | [#154](https://github.com/IndieHub25/GroqTales/issues/154) |
+| Smart Contract Update: Corrected burn function removed Unnecessary imports madethe contract more gas efficient and also added reentrancy guard, added hardhat | Medium | [#153](https://github.com/IndieHub25/GroqTales/pull/153) |
 | Add Dark Mode Toggle for Improved Accessibility and User Experience | Medium | [#152](https://github.com/IndieHub25/GroqTales/issues/152) |
 | Mobile Navbar Issues: Hamburger Menu Missing and Header Content Not Fully Visible | Medium | [#151](https://github.com/IndieHub25/GroqTales/issues/151) |
-| 🐞 UI Visibility Issues: Scroll-to-Top Button & Create Story Page Background | Medium | [#150](https://github.com/IndieHub25/GroqTales/issues/150) |
 
 ---
 
