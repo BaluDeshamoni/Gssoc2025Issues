@@ -14,9 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor Codebase: Clean up Technical Debt and Standardize Styling | Medium | [#96](https://github.com/Dipanita45/HEALCONNECT/issues/96) |
-| Backend setup documentation and environment configuration missing | Medium | [#95](https://github.com/Dipanita45/HEALCONNECT/issues/95) |
-| Add hover effects on buttons | Medium | [#94](https://github.com/Dipanita45/HEALCONNECT/issues/94) |
+| Add Custom 404 Error Page | Medium | [#100](https://github.com/Dipanita45/HEALCONNECT/issues/100) |
+| Missing Password Strength Validation in Signup Form | Medium | [#99](https://github.com/Dipanita45/HEALCONNECT/issues/99) |
+| Add environment example and backend setup documentation | Medium | [#98](https://github.com/Dipanita45/HEALCONNECT/pull/98) |
 | Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
 
 ---
