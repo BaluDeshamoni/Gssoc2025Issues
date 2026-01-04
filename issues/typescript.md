@@ -69,7 +69,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump the npm_and_yarn group across 2 directories with 1 update | Medium | [#743](https://github.com/abhisek2004/Dev-Elevate/pull/743) |
+| Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -93,7 +93,14 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: Add documentation for GET /api/v0/projects/ endpoint | Easy | [#3067](https://github.com/OWASP/Nest/pull/3067) |
+| Remove unnecessary identity check in slack question detector test | Medium | [#3168](https://github.com/OWASP/Nest/issues/3168) |
+| Update deprecated Jest fake timer usage in frontend unit tests | Medium | [#3167](https://github.com/OWASP/Nest/issues/3167) |
+| Minor vulnerability: create_api_key mutation fails for naive datetime inputs | Medium | [#3165](https://github.com/OWASP/Nest/issues/3165) |
+| refactor(tests): remove unnecessary non-null assertion in ChapterMap overlay tests | Medium | [#3164](https://github.com/OWASP/Nest/issues/3164) |
+| feat: add accessibility tests support | Medium | [#3162](https://github.com/OWASP/Nest/pull/3162) |
+| Refactor Slack entity handlers to eliminate ~350 lines of duplicate code | Medium | [#3161](https://github.com/OWASP/Nest/issues/3161) |
+| Simplify regex in Pagination test by using character class instead of alternation | Medium | [#3160](https://github.com/OWASP/Nest/issues/3160) |
+| Add tag display to issue cards on contribute page | Medium | [#3158](https://github.com/OWASP/Nest/pull/3158) |
 | Improve Module Card: Show mentors/mentee avatars & change grid to 3 columns | Medium | [#3156](https://github.com/OWASP/Nest/issues/3156) |
 | Navigation links open in a new tab | Medium | [#3153](https://github.com/OWASP/Nest/issues/3153) |
 | Button text touches outline on focus | Medium | [#3150](https://github.com/OWASP/Nest/issues/3150) |
@@ -108,10 +115,6 @@ Accessibility features like dark mode,white.
 | Add module ordering | Medium | [#3101](https://github.com/OWASP/Nest/pull/3101) |
 | Prevent crash from invalid theme class during initialization | Medium | [#3089](https://github.com/OWASP/Nest/pull/3089) |
 | Prefer top-level await instead of async IIFE (Sonar S7785) | Medium | [#3087](https://github.com/OWASP/Nest/issues/3087) |
-| Fix: Show module as a section when there is only 1 module | Medium | [#3083](https://github.com/OWASP/Nest/issues/3083) |
-| Limit visible Roadmap and Project Timeline items on About page | Medium | [#3080](https://github.com/OWASP/Nest/pull/3080) |
-| Assign and un-assign issue via GitHub API | Medium | [#3056](https://github.com/OWASP/Nest/pull/3056) |
-| Enable Module Deletion for Admins and Editing for Module Mentors | Medium | [#3054](https://github.com/OWASP/Nest/pull/3054) |
 
 ---
 
@@ -544,7 +547,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-|  | Medium | [#254](https://github.com/souvikpramanikgit/LearnHub/issues/254) |
 | chatbot | Medium | [#253](https://github.com/souvikpramanikgit/LearnHub/issues/253) |
 | screen shot of issused bugs | Medium | [#252](https://github.com/souvikpramanikgit/LearnHub/issues/252) |
 | Improve Landing Page Performance by Optimizing Background Image (LCP Enhancement) | Medium | [#251](https://github.com/souvikpramanikgit/LearnHub/issues/251) |
@@ -702,7 +704,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| structured logging + ipv4 , ipv6 with backword compatible ip | Medium | [#73](https://github.com/IntegerAlex/fingerprint-oss/pull/73) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
 | Stabilization in Hash generation | Hard | [#61](https://github.com/IntegerAlex/fingerprint-oss/pull/61) |
 
@@ -992,9 +993,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add preview of the website | Medium | [#154](https://github.com/IndieHub25/GroqTales/issues/154) |
+| Smart Contract Update: Corrected burn function removed Unnecessary imports madethe contract more gas efficient and also added reentrancy guard, added hardhat | Medium | [#153](https://github.com/IndieHub25/GroqTales/pull/153) |
 | Add Dark Mode Toggle for Improved Accessibility and User Experience | Medium | [#152](https://github.com/IndieHub25/GroqTales/issues/152) |
 | Mobile Navbar Issues: Hamburger Menu Missing and Header Content Not Fully Visible | Medium | [#151](https://github.com/IndieHub25/GroqTales/issues/151) |
-| 🐞 UI Visibility Issues: Scroll-to-Top Button & Create Story Page Background | Medium | [#150](https://github.com/IndieHub25/GroqTales/issues/150) |
 
 ---
 
