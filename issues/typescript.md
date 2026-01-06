@@ -69,6 +69,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump jspdf from 3.0.3 to 4.0.0 in /DevElevate/Client in the npm_and_yarn group across 1 directory | Medium | [#745](https://github.com/abhisek2004/Dev-Elevate/pull/745) |
 | Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -93,9 +94,22 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Remove unnecessary identity check in slack question detector test | Medium | [#3168](https://github.com/OWASP/Nest/issues/3168) |
-| Update deprecated Jest fake timer usage in frontend unit tests | Medium | [#3167](https://github.com/OWASP/Nest/issues/3167) |
-| Minor vulnerability: create_api_key mutation fails for naive datetime inputs | Medium | [#3165](https://github.com/OWASP/Nest/issues/3165) |
+| refactor: simplify leader name parsing | Medium | [#3212](https://github.com/OWASP/Nest/pull/3212) |
+| Define explicit top-level permissions for GitHub Actions workflows | Medium | [#3211](https://github.com/OWASP/Nest/pull/3211) |
+| Board Candidate Data Model & Verification Schema (related to #2500) | Medium | [#3209](https://github.com/OWASP/Nest/issues/3209) |
+| refactor: use loading property from useQuery instead of useState | Medium | [#3208](https://github.com/OWASP/Nest/pull/3208) |
+| Remove unused globals configuration from Jest config | Medium | [#3207](https://github.com/OWASP/Nest/issues/3207) |
+| fix:remove unused react props | Medium | [#3204](https://github.com/OWASP/Nest/pull/3204) |
+| Frontend unit test fails due to Jest timeout in CreateModulePage | Medium | [#3201](https://github.com/OWASP/Nest/issues/3201) |
+| Fix zap scan | Medium | [#3198](https://github.com/OWASP/Nest/pull/3198) |
+| Update program admins relation | Medium | [#3185](https://github.com/OWASP/Nest/pull/3185) |
+| Search field auto-focus affects mobile experience | Medium | [#3182](https://github.com/OWASP/Nest/issues/3182) |
+| Inconsistent background on 404 error page | Medium | [#3181](https://github.com/OWASP/Nest/issues/3181) |
+| Inconsistent breadcrumb behavior | Medium | [#3180](https://github.com/OWASP/Nest/issues/3180) |
+| Test mentorship backend | Medium | [#3179](https://github.com/OWASP/Nest/pull/3179) |
+| Improve focus outline and accessibility for button | Medium | [#3178](https://github.com/OWASP/Nest/pull/3178) |
+| Add Language Filter to Projects Page | Medium | [#3177](https://github.com/OWASP/Nest/issues/3177) |
+| Minor vulnerability: create_api_key mutation fails for naive datetime input | Medium | [#3175](https://github.com/OWASP/Nest/issues/3175) |
 | refactor(tests): remove unnecessary non-null assertion in ChapterMap overlay tests | Medium | [#3164](https://github.com/OWASP/Nest/issues/3164) |
 | feat: add accessibility tests support | Medium | [#3162](https://github.com/OWASP/Nest/pull/3162) |
 | Refactor Slack entity handlers to eliminate ~350 lines of duplicate code | Medium | [#3161](https://github.com/OWASP/Nest/issues/3161) |
@@ -103,18 +117,6 @@ Accessibility features like dark mode,white.
 | Add tag display to issue cards on contribute page | Medium | [#3158](https://github.com/OWASP/Nest/pull/3158) |
 | Improve Module Card: Show mentors/mentee avatars & change grid to 3 columns | Medium | [#3156](https://github.com/OWASP/Nest/issues/3156) |
 | Navigation links open in a new tab | Medium | [#3153](https://github.com/OWASP/Nest/issues/3153) |
-| Button text touches outline on focus | Medium | [#3150](https://github.com/OWASP/Nest/issues/3150) |
-| Refactor: Use a constant for the repeated "Module not found." error message | Medium | [#3146](https://github.com/OWASP/Nest/issues/3146) |
-| Refactor get_leaders regex to reduce cognitive complexity | Medium | [#3140](https://github.com/OWASP/Nest/pull/3140) |
-| Remove Unused react typed Props | Medium | [#3139](https://github.com/OWASP/Nest/issues/3139) |
-| Fix ChapterMap locked state with explicit unlock | Medium | [#3130](https://github.com/OWASP/Nest/pull/3130) |
-| Migrate Fuzz tests tool to Schemathesis and add REST Fuzz tests | Medium | [#3122](https://github.com/OWASP/Nest/pull/3122) |
-| Hide Unpublished Programs and Modules From Public View | Medium | [#3117](https://github.com/OWASP/Nest/pull/3117) |
-| Refactor docker files / test images | Medium | [#3112](https://github.com/OWASP/Nest/pull/3112) |
-| Fix: Timezone discrepancies in Program/Module dates and Module date inheritance | Medium | [#3111](https://github.com/OWASP/Nest/issues/3111) |
-| Add module ordering | Medium | [#3101](https://github.com/OWASP/Nest/pull/3101) |
-| Prevent crash from invalid theme class during initialization | Medium | [#3089](https://github.com/OWASP/Nest/pull/3089) |
-| Prefer top-level await instead of async IIFE (Sonar S7785) | Medium | [#3087](https://github.com/OWASP/Nest/issues/3087) |
 
 ---
 
@@ -993,9 +995,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add preview of the website | Medium | [#154](https://github.com/IndieHub25/GroqTales/issues/154) |
-| Smart Contract Update: Corrected burn function removed Unnecessary imports madethe contract more gas efficient and also added reentrancy guard, added hardhat | Medium | [#153](https://github.com/IndieHub25/GroqTales/pull/153) |
-| Add Dark Mode Toggle for Improved Accessibility and User Experience | Medium | [#152](https://github.com/IndieHub25/GroqTales/issues/152) |
+| Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
+| Added Deploy, Test scripts for NFT contract | Medium | [#162](https://github.com/IndieHub25/GroqTales/pull/162) |
+| Bug: Create Story Modal Transparency and Z-Index Overlap | Medium | [#157](https://github.com/IndieHub25/GroqTales/issues/157) |
 | Mobile Navbar Issues: Hamburger Menu Missing and Header Content Not Fully Visible | Medium | [#151](https://github.com/IndieHub25/GroqTales/issues/151) |
 
 ---
