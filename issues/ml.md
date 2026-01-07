@@ -327,6 +327,7 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| commited | Medium | [#80](https://github.com/Ansikka/KrishiMitra.py/pull/80) |
 | Fixed Chat History Issue | Medium | [#79](https://github.com/Ansikka/KrishiMitra.py/issues/79) |
 | fixed the chat history issue | Medium | [#78](https://github.com/Ansikka/KrishiMitra.py/pull/78) |
 | Add summary dashboard with cards for Weather, Crop Advisory, and Prices | Medium | [#76](https://github.com/Ansikka/KrishiMitra.py/issues/76) |
@@ -354,7 +355,6 @@ User Profile: BMI calculator and fitness analytics.
 | Chatbot With multi-language support with voice inputs and outputs | Medium | [#42](https://github.com/Ansikka/KrishiMitra.py/issues/42) |
 | Feature: Integrated Chatbot with Weather and Translation APIs | Medium | [#41](https://github.com/Ansikka/KrishiMitra.py/pull/41) |
 | Enhance Weather Alerts Section to Support More States and Custom City Input | Medium | [#40](https://github.com/Ansikka/KrishiMitra.py/issues/40) |
-| There is no license file in the code | Medium | [#39](https://github.com/Ansikka/KrishiMitra.py/issues/39) |
 
 ---
 
@@ -460,6 +460,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Replace "Login/SignUp" and "View" Buttons with Icons for a Modern UI | Medium | [#1915](https://github.com/apu52/Travel_Website/issues/1915) |
+| Images displayed with incorrect aspect ratio | Medium | [#1914](https://github.com/apu52/Travel_Website/issues/1914) |
+| Accessibility: <li> elements not wrapped in <ul> or <ol> | Medium | [#1913](https://github.com/apu52/Travel_Website/issues/1913) |
 | Added Blog_review section | Medium | [#1912](https://github.com/apu52/Travel_Website/pull/1912) |
 | Search Results Page Does Not Restore Scroll Position After Navigation | Medium | [#1911](https://github.com/apu52/Travel_Website/issues/1911) |
 | Improve Keyboard Navigation and Focus States | Medium | [#1910](https://github.com/apu52/Travel_Website/issues/1910) |
@@ -825,32 +828,26 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add back navigation button to Financial Support page | Medium | [#538](https://github.com/omroy07/AgriTech/pull/538) |
-| feat: implement real-time weather advisor and farming alerts #516 | Medium | [#537](https://github.com/omroy07/AgriTech/pull/537) |
-| Add scoped dark mode with accessibility and persistence to Supply Chain page | Medium | [#536](https://github.com/omroy07/AgriTech/pull/536) |
-| Add Offline Support and Graceful Network Failure Handling | Medium | [#535](https://github.com/omroy07/AgriTech/issues/535) |
-| Feature: Integrated Dark Mode for Supply Chain Page | Medium | [#534](https://github.com/omroy07/AgriTech/pull/534) |
-| Navbar on FAQ Page Is Not Consistent With Home Page Navbar | Medium | [#533](https://github.com/omroy07/AgriTech/issues/533) |
-| Update README.md | Medium | [#532](https://github.com/omroy07/AgriTech/pull/532) |
-| FAQ Page Footer Is Inconsistent With Home Page Footer | Medium | [#531](https://github.com/omroy07/AgriTech/issues/531) |
-| Issue Number: #418 - add forgot password link to login page | Medium | [#530](https://github.com/omroy07/AgriTech/pull/530) |
-| UI inconsistency in “Why It Matters” section – align layout with “Our Platform Benefits” | Medium | [#529](https://github.com/omroy07/AgriTech/issues/529) |
-| Feature/supply chain support page | Medium | [#528](https://github.com/omroy07/AgriTech/pull/528) |
-| Theme toggle button inconsistent across pages | Medium | [#527](https://github.com/omroy07/AgriTech/issues/527) |
-| Calendar Button Color Is Too Light | Medium | [#526](https://github.com/omroy07/AgriTech/issues/526) |
-| Unwanted Black Box Appears on Search Input Focus | Medium | [#525](https://github.com/omroy07/AgriTech/issues/525) |
-| Navigation bar button order inconsistent across pages | Medium | [#524](https://github.com/omroy07/AgriTech/issues/524) |
-| Navbar Position Should Be Fixed for Better Accessibility | Medium | [#523](https://github.com/omroy07/AgriTech/issues/523) |
-| Feature/footer enhancement | Medium | [#522](https://github.com/omroy07/AgriTech/pull/522) |
-| Enhance marketplace UI and functionality | Medium | [#521](https://github.com/omroy07/AgriTech/pull/521) |
-| UI Bug: Inconsistent alignment of “Read More” buttons in cards. | Medium | [#520](https://github.com/omroy07/AgriTech/issues/520) |
-| Enhanced mobile version using hamburger menu bar | Medium | [#518](https://github.com/omroy07/AgriTech/pull/518) |
-| Navbar is not fixed on scroll on homepage | Medium | [#517](https://github.com/omroy07/AgriTech/issues/517) |
-| Smart crop monitoring page enhanced in light mode | Medium | [#515](https://github.com/omroy07/AgriTech/pull/515) |
-| Footer is inconsistent and missing across multiple pages of the website | Medium | [#514](https://github.com/omroy07/AgriTech/issues/514) |
-| Aligned the read more button | Medium | [#513](https://github.com/omroy07/AgriTech/pull/513) |
-| Security: Fix unauthorized room creation in Socket.IO | Medium | [#512](https://github.com/omroy07/AgriTech/pull/512) |
-| update the font color and other element color | Medium | [#511](https://github.com/omroy07/AgriTech/issues/511) |
+| Market place back to home button fixed | Easy | [#626](https://github.com/omroy07/AgriTech/pull/626) |
+| Fix blog search functionality and add empty state message | Easy | [#623](https://github.com/omroy07/AgriTech/pull/623) |
+| Improve commodity price trend cards UI | Easy | [#618](https://github.com/omroy07/AgriTech/pull/618) |
+| Redesign Farmer Forum page UI | Easy | [#611](https://github.com/omroy07/AgriTech/issues/611) |
+| Fix navbar wrapping and cut-off on homepage | Easy | [#604](https://github.com/omroy07/AgriTech/pull/604) |
+| Dark Mode Toggle Not Working on Marketplace Page | Medium | [#642](https://github.com/omroy07/AgriTech/issues/642) |
+| Fix: Resolve invisible Navbar font in dark-mode | Medium | [#641](https://github.com/omroy07/AgriTech/pull/641) |
+| UI Bug: Search bar and Register option alignment is not proper | Medium | [#640](https://github.com/omroy07/AgriTech/issues/640) |
+| Fix : Resolve 404 errors by correcting JS and CSS asset references. | Medium | [#639](https://github.com/omroy07/AgriTech/pull/639) |
+| [UI/UX] Improve Category Card Contrast and Reduce Vertical Spacing | Medium | [#638](https://github.com/omroy07/AgriTech/issues/638) |
+| Fix/about us nav layout | Medium | [#636](https://github.com/omroy07/AgriTech/pull/636) |
+| Adding Hamburger Icon | Medium | [#632](https://github.com/omroy07/AgriTech/issues/632) |
+| Application not responsive | Medium | [#631](https://github.com/omroy07/AgriTech/issues/631) |
+| fix: navbar breakable content ui | Medium | [#624](https://github.com/omroy07/AgriTech/pull/624) |
+| feat: add comprehensive agricultural utilities, weather service, and … | Medium | [#622](https://github.com/omroy07/AgriTech/pull/622) |
+| Feature: Farmer Dashboard - Add and List Products using LocalStorage | Medium | [#607](https://github.com/omroy07/AgriTech/issues/607) |
+| UI/UX: Layout misalignment and missing 'Back to Home' navigation on Organic Farming page | Medium | [#606](https://github.com/omroy07/AgriTech/issues/606) |
+| Feature: Missing 'Nature Guide' or Natural Remedies for detected diseases | Medium | [#605](https://github.com/omroy07/AgriTech/issues/605) |
+| Functionality: Crop Recommendation analysis yields no output/dummy data | Medium | [#603](https://github.com/omroy07/AgriTech/issues/603) |
+| UI/Navigation: Missing 'Back to Home' & Footer is missing or improperly styled on Crop Recommendation page | Medium | [#602](https://github.com/omroy07/AgriTech/issues/602) |
 
 ---
 
@@ -1151,7 +1148,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | DAY 59 - Introducing CLICKBAIT (The memory game) | Medium | [#789](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/789) |
 | Fix: Resolve inconsistent alignment in header search bar and button | Medium | [#787](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/787) |
 | Add Expense Tracker Project | Medium | [#785](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/785) |
-| Added Ludo game implementation with audio and visual assets (Closes Issue #479) | Medium | [#784](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/784) |
+| Suggestion: Introduce Day 33 – Maze Runner | Medium | [#783](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/783) |
 
 ---
 
@@ -1174,8 +1171,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve visibility of wellness game cards | Medium | [#628](https://github.com/eccentriccoder01/TalkHeal/issues/628) |
-| Improving readability of text in the main page | Medium | [#627](https://github.com/eccentriccoder01/TalkHeal/issues/627) |
+| Fix low color contrast to meet WCAG accessibility standards | Medium | [#634](https://github.com/eccentriccoder01/TalkHeal/issues/634) |
+| Use context managers for all SQLite database connections | Medium | [#632](https://github.com/eccentriccoder01/TalkHeal/issues/632) |
 
 ---
 
@@ -2327,7 +2324,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | add back to top button | Medium | [#84](https://github.com/rajdeep13-coder/Resume-Generator/pull/84) |
 | GSSoC '25   Fix layout overflow, enhance responsiveness with media queries, and update footer/buttons. | Medium | [#72](https://github.com/rajdeep13-coder/Resume-Generator/pull/72) |
 | Fixed input overflowing out of container + toggle button position | Medium | [#65](https://github.com/rajdeep13-coder/Resume-Generator/pull/65) |
-| nseeka | Medium | [#64](https://github.com/rajdeep13-coder/Resume-Generator/pull/64) |
 
 ---
 
@@ -2720,7 +2716,6 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | CSS | Medium | [#650](https://github.com/SumitGorai01/TechieBlog/issues/650) |
-| Add 'Home' Option to the Header Navigation | Medium | [#649](https://github.com/SumitGorai01/TechieBlog/issues/649) |
 | Enhancement in Feedback Page | Medium | [#648](https://github.com/SumitGorai01/TechieBlog/issues/648) |
 | Fixing Contact Us icons | Medium | [#647](https://github.com/SumitGorai01/TechieBlog/issues/647) |
 | Navbar Visibility on Signup and Signin Pages | Medium | [#646](https://github.com/SumitGorai01/TechieBlog/issues/646) |
@@ -2732,6 +2727,7 @@ Full Stack Automation: Design †’ 3D Preview †’ Manufacturing (Printful A
 | Add more Workshop Cards | Medium | [#581](https://github.com/SumitGorai01/TechieBlog/issues/581) |
 | Add more Articles in Web Development Domain | Medium | [#579](https://github.com/SumitGorai01/TechieBlog/issues/579) |
 | UI Issue: Community Stats Section Overflows on Medium Screens (768px) | Medium | [#577](https://github.com/SumitGorai01/TechieBlog/issues/577) |
+| Enhancement in UI of Contact us Page | Medium | [#573](https://github.com/SumitGorai01/TechieBlog/issues/573) |
 
 ---
 
