@@ -126,6 +126,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| commited | Medium | [#80](https://github.com/Ansikka/KrishiMitra.py/pull/80) |
 | Fixed Chat History Issue | Medium | [#79](https://github.com/Ansikka/KrishiMitra.py/issues/79) |
 | fixed the chat history issue | Medium | [#78](https://github.com/Ansikka/KrishiMitra.py/pull/78) |
 | Add summary dashboard with cards for Weather, Crop Advisory, and Prices | Medium | [#76](https://github.com/Ansikka/KrishiMitra.py/issues/76) |
@@ -153,7 +154,6 @@
 | Chatbot With multi-language support with voice inputs and outputs | Medium | [#42](https://github.com/Ansikka/KrishiMitra.py/issues/42) |
 | Feature: Integrated Chatbot with Weather and Translation APIs | Medium | [#41](https://github.com/Ansikka/KrishiMitra.py/pull/41) |
 | Enhance Weather Alerts Section to Support More States and Custom City Input | Medium | [#40](https://github.com/Ansikka/KrishiMitra.py/issues/40) |
-| There is no license file in the code | Medium | [#39](https://github.com/Ansikka/KrishiMitra.py/issues/39) |
 
 ---
 
@@ -211,28 +211,27 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Remove unnecessary identity check in slack question detector test | Medium | [#3168](https://github.com/OWASP/Nest/issues/3168) |
-| Update deprecated Jest fake timer usage in frontend unit tests | Medium | [#3167](https://github.com/OWASP/Nest/issues/3167) |
-| Minor vulnerability: create_api_key mutation fails for naive datetime inputs | Medium | [#3165](https://github.com/OWASP/Nest/issues/3165) |
+| Clarify State vs state naming in Issue mixin | Medium | [#3228](https://github.com/OWASP/Nest/issues/3228) |
+| Fix sonar unnecessary assertion | Medium | [#3226](https://github.com/OWASP/Nest/pull/3226) |
+| Update sync process to sync all relevant contributions for the last 365 days. | Medium | [#3219](https://github.com/OWASP/Nest/pull/3219) |
+| refactor: simplify leader name parsing | Medium | [#3212](https://github.com/OWASP/Nest/pull/3212) |
+| Board Candidate Data Model & Verification Schema (related to #2500) | Medium | [#3209](https://github.com/OWASP/Nest/issues/3209) |
+| refactor: use loading property from useQuery instead of useState | Medium | [#3208](https://github.com/OWASP/Nest/pull/3208) |
+| Remove unused globals configuration from Jest config | Medium | [#3207](https://github.com/OWASP/Nest/issues/3207) |
+| fix:remove unused react props | Medium | [#3204](https://github.com/OWASP/Nest/pull/3204) |
+| Frontend unit test fails due to Jest timeout in CreateModulePage | Medium | [#3201](https://github.com/OWASP/Nest/issues/3201) |
+| Update program admins relation | Medium | [#3185](https://github.com/OWASP/Nest/pull/3185) |
+| Search field auto-focus affects mobile experience | Medium | [#3182](https://github.com/OWASP/Nest/issues/3182) |
+| Inconsistent background on 404 error page | Medium | [#3181](https://github.com/OWASP/Nest/issues/3181) |
+| Inconsistent breadcrumb behavior | Medium | [#3180](https://github.com/OWASP/Nest/issues/3180) |
+| Test mentorship backend | Medium | [#3179](https://github.com/OWASP/Nest/pull/3179) |
+| Improve focus outline and accessibility for button | Medium | [#3178](https://github.com/OWASP/Nest/pull/3178) |
+| Add Language Filter to Projects Page | Medium | [#3177](https://github.com/OWASP/Nest/issues/3177) |
+| Minor vulnerability: create_api_key mutation fails for naive datetime input | Medium | [#3175](https://github.com/OWASP/Nest/issues/3175) |
 | refactor(tests): remove unnecessary non-null assertion in ChapterMap overlay tests | Medium | [#3164](https://github.com/OWASP/Nest/issues/3164) |
 | feat: add accessibility tests support | Medium | [#3162](https://github.com/OWASP/Nest/pull/3162) |
 | Refactor Slack entity handlers to eliminate ~350 lines of duplicate code | Medium | [#3161](https://github.com/OWASP/Nest/issues/3161) |
 | Simplify regex in Pagination test by using character class instead of alternation | Medium | [#3160](https://github.com/OWASP/Nest/issues/3160) |
-| Add tag display to issue cards on contribute page | Medium | [#3158](https://github.com/OWASP/Nest/pull/3158) |
-| Improve Module Card: Show mentors/mentee avatars & change grid to 3 columns | Medium | [#3156](https://github.com/OWASP/Nest/issues/3156) |
-| Navigation links open in a new tab | Medium | [#3153](https://github.com/OWASP/Nest/issues/3153) |
-| Button text touches outline on focus | Medium | [#3150](https://github.com/OWASP/Nest/issues/3150) |
-| Refactor: Use a constant for the repeated "Module not found." error message | Medium | [#3146](https://github.com/OWASP/Nest/issues/3146) |
-| Refactor get_leaders regex to reduce cognitive complexity | Medium | [#3140](https://github.com/OWASP/Nest/pull/3140) |
-| Remove Unused react typed Props | Medium | [#3139](https://github.com/OWASP/Nest/issues/3139) |
-| Fix ChapterMap locked state with explicit unlock | Medium | [#3130](https://github.com/OWASP/Nest/pull/3130) |
-| Migrate Fuzz tests tool to Schemathesis and add REST Fuzz tests | Medium | [#3122](https://github.com/OWASP/Nest/pull/3122) |
-| Hide Unpublished Programs and Modules From Public View | Medium | [#3117](https://github.com/OWASP/Nest/pull/3117) |
-| Refactor docker files / test images | Medium | [#3112](https://github.com/OWASP/Nest/pull/3112) |
-| Fix: Timezone discrepancies in Program/Module dates and Module date inheritance | Medium | [#3111](https://github.com/OWASP/Nest/issues/3111) |
-| Add module ordering | Medium | [#3101](https://github.com/OWASP/Nest/pull/3101) |
-| Prevent crash from invalid theme class during initialization | Medium | [#3089](https://github.com/OWASP/Nest/pull/3089) |
-| Prefer top-level await instead of async IIFE (Sonar S7785) | Medium | [#3087](https://github.com/OWASP/Nest/issues/3087) |
 
 ---
 
@@ -285,7 +284,9 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
-| <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| enhance: Add Toast notification system | Medium | [#230](https://github.com/Devasy/splitwiser/pull/230) |
+| Add Toast Notification System | Medium | [#229](https://github.com/Devasy/splitwiser/pull/229) |
+| Add global Toast notification system | Medium | [#228](https://github.com/Devasy/splitwiser/pull/228) |
 | Add Toast Notification System | Medium | [#227](https://github.com/Devasy/splitwiser/pull/227) |
 | 🎨 Palette: Add accessible labels to Auth form | Medium | [#220](https://github.com/Devasy/splitwiser/pull/220) |
 | 🎨 Palette: Add loading state to Auth buttons | Medium | [#219](https://github.com/Devasy/splitwiser/pull/219) |
@@ -299,8 +300,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
-| Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
-| Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
 
 ---
 
@@ -552,32 +551,26 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add back navigation button to Financial Support page | Medium | [#538](https://github.com/omroy07/AgriTech/pull/538) |
-| feat: implement real-time weather advisor and farming alerts #516 | Medium | [#537](https://github.com/omroy07/AgriTech/pull/537) |
-| Add scoped dark mode with accessibility and persistence to Supply Chain page | Medium | [#536](https://github.com/omroy07/AgriTech/pull/536) |
-| Add Offline Support and Graceful Network Failure Handling | Medium | [#535](https://github.com/omroy07/AgriTech/issues/535) |
-| Feature: Integrated Dark Mode for Supply Chain Page | Medium | [#534](https://github.com/omroy07/AgriTech/pull/534) |
-| Navbar on FAQ Page Is Not Consistent With Home Page Navbar | Medium | [#533](https://github.com/omroy07/AgriTech/issues/533) |
-| Update README.md | Medium | [#532](https://github.com/omroy07/AgriTech/pull/532) |
-| FAQ Page Footer Is Inconsistent With Home Page Footer | Medium | [#531](https://github.com/omroy07/AgriTech/issues/531) |
-| Issue Number: #418 - add forgot password link to login page | Medium | [#530](https://github.com/omroy07/AgriTech/pull/530) |
-| UI inconsistency in “Why It Matters” section – align layout with “Our Platform Benefits” | Medium | [#529](https://github.com/omroy07/AgriTech/issues/529) |
-| Feature/supply chain support page | Medium | [#528](https://github.com/omroy07/AgriTech/pull/528) |
-| Theme toggle button inconsistent across pages | Medium | [#527](https://github.com/omroy07/AgriTech/issues/527) |
-| Calendar Button Color Is Too Light | Medium | [#526](https://github.com/omroy07/AgriTech/issues/526) |
-| Unwanted Black Box Appears on Search Input Focus | Medium | [#525](https://github.com/omroy07/AgriTech/issues/525) |
-| Navigation bar button order inconsistent across pages | Medium | [#524](https://github.com/omroy07/AgriTech/issues/524) |
-| Navbar Position Should Be Fixed for Better Accessibility | Medium | [#523](https://github.com/omroy07/AgriTech/issues/523) |
-| Feature/footer enhancement | Medium | [#522](https://github.com/omroy07/AgriTech/pull/522) |
-| Enhance marketplace UI and functionality | Medium | [#521](https://github.com/omroy07/AgriTech/pull/521) |
-| UI Bug: Inconsistent alignment of “Read More” buttons in cards. | Medium | [#520](https://github.com/omroy07/AgriTech/issues/520) |
-| Enhanced mobile version using hamburger menu bar | Medium | [#518](https://github.com/omroy07/AgriTech/pull/518) |
-| Navbar is not fixed on scroll on homepage | Medium | [#517](https://github.com/omroy07/AgriTech/issues/517) |
-| Smart crop monitoring page enhanced in light mode | Medium | [#515](https://github.com/omroy07/AgriTech/pull/515) |
-| Footer is inconsistent and missing across multiple pages of the website | Medium | [#514](https://github.com/omroy07/AgriTech/issues/514) |
-| Aligned the read more button | Medium | [#513](https://github.com/omroy07/AgriTech/pull/513) |
-| Security: Fix unauthorized room creation in Socket.IO | Medium | [#512](https://github.com/omroy07/AgriTech/pull/512) |
-| update the font color and other element color | Medium | [#511](https://github.com/omroy07/AgriTech/issues/511) |
+| Market place back to home button fixed | Easy | [#626](https://github.com/omroy07/AgriTech/pull/626) |
+| Fix blog search functionality and add empty state message | Easy | [#623](https://github.com/omroy07/AgriTech/pull/623) |
+| Improve commodity price trend cards UI | Easy | [#618](https://github.com/omroy07/AgriTech/pull/618) |
+| Redesign Farmer Forum page UI | Easy | [#611](https://github.com/omroy07/AgriTech/issues/611) |
+| Fix navbar wrapping and cut-off on homepage | Easy | [#604](https://github.com/omroy07/AgriTech/pull/604) |
+| Dark Mode Toggle Not Working on Marketplace Page | Medium | [#642](https://github.com/omroy07/AgriTech/issues/642) |
+| Fix: Resolve invisible Navbar font in dark-mode | Medium | [#641](https://github.com/omroy07/AgriTech/pull/641) |
+| UI Bug: Search bar and Register option alignment is not proper | Medium | [#640](https://github.com/omroy07/AgriTech/issues/640) |
+| Fix : Resolve 404 errors by correcting JS and CSS asset references. | Medium | [#639](https://github.com/omroy07/AgriTech/pull/639) |
+| [UI/UX] Improve Category Card Contrast and Reduce Vertical Spacing | Medium | [#638](https://github.com/omroy07/AgriTech/issues/638) |
+| Fix/about us nav layout | Medium | [#636](https://github.com/omroy07/AgriTech/pull/636) |
+| Adding Hamburger Icon | Medium | [#632](https://github.com/omroy07/AgriTech/issues/632) |
+| Application not responsive | Medium | [#631](https://github.com/omroy07/AgriTech/issues/631) |
+| fix: navbar breakable content ui | Medium | [#624](https://github.com/omroy07/AgriTech/pull/624) |
+| feat: add comprehensive agricultural utilities, weather service, and … | Medium | [#622](https://github.com/omroy07/AgriTech/pull/622) |
+| Feature: Farmer Dashboard - Add and List Products using LocalStorage | Medium | [#607](https://github.com/omroy07/AgriTech/issues/607) |
+| UI/UX: Layout misalignment and missing 'Back to Home' navigation on Organic Farming page | Medium | [#606](https://github.com/omroy07/AgriTech/issues/606) |
+| Feature: Missing 'Nature Guide' or Natural Remedies for detected diseases | Medium | [#605](https://github.com/omroy07/AgriTech/issues/605) |
+| Functionality: Crop Recommendation analysis yields no output/dummy data | Medium | [#603](https://github.com/omroy07/AgriTech/issues/603) |
+| UI/Navigation: Missing 'Back to Home' & Footer is missing or improperly styled on Crop Recommendation page | Medium | [#602](https://github.com/omroy07/AgriTech/issues/602) |
 
 ---
 
@@ -808,8 +801,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve visibility of wellness game cards | Medium | [#628](https://github.com/eccentriccoder01/TalkHeal/issues/628) |
-| Improving readability of text in the main page | Medium | [#627](https://github.com/eccentriccoder01/TalkHeal/issues/627) |
+| Fix low color contrast to meet WCAG accessibility standards | Medium | [#634](https://github.com/eccentriccoder01/TalkHeal/issues/634) |
+| Use context managers for all SQLite database connections | Medium | [#632](https://github.com/eccentriccoder01/TalkHeal/issues/632) |
 
 ---
 
@@ -1216,11 +1209,11 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump the production-dependencies group across 1 directory with 17 updates | Medium | [#90](https://github.com/Xenonesis/code-guardian-report/pull/90) |
 | chore(deps): bump next from 15.5.9 to 16.1.1 | Medium | [#89](https://github.com/Xenonesis/code-guardian-report/pull/89) |
 | chore(deps): bump eslint-config-next from 15.5.9 to 16.1.1 | Medium | [#88](https://github.com/Xenonesis/code-guardian-report/pull/88) |
 | chore(deps): bump @types/node from 24.10.1 to 25.0.3 | Medium | [#87](https://github.com/Xenonesis/code-guardian-report/pull/87) |
 | chore(deps): bump the dev-dependencies group with 5 updates | Medium | [#86](https://github.com/Xenonesis/code-guardian-report/pull/86) |
-| chore(deps): bump the production-dependencies group with 15 updates | Medium | [#85](https://github.com/Xenonesis/code-guardian-report/pull/85) |
 | chore(deps): bump eslint from 8.57.1 to 9.39.2 in /functions | Medium | [#84](https://github.com/Xenonesis/code-guardian-report/pull/84) |
 | chore(deps): bump firebase-functions from 7.0.0 to 7.0.2 in /functions | Medium | [#83](https://github.com/Xenonesis/code-guardian-report/pull/83) |
 | chore(deps): bump @types/node from 18.19.130 to 25.0.3 in /functions | Medium | [#82](https://github.com/Xenonesis/code-guardian-report/pull/82) |
@@ -1548,10 +1541,12 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add preview of the website | Medium | [#154](https://github.com/IndieHub25/GroqTales/issues/154) |
-| Smart Contract Update: Corrected burn function removed Unnecessary imports madethe contract more gas efficient and also added reentrancy guard, added hardhat | Medium | [#153](https://github.com/IndieHub25/GroqTales/pull/153) |
-| Add Dark Mode Toggle for Improved Accessibility and User Experience | Medium | [#152](https://github.com/IndieHub25/GroqTales/issues/152) |
+| BIG : Database Connection Retries and Health Check Endpoint | Medium | [#166](https://github.com/IndieHub25/GroqTales/issues/166) |
+| feat :Added Dark Mode Toggle for Improved Accessibility and User Experience | Medium | [#165](https://github.com/IndieHub25/GroqTales/pull/165) |
+| Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
+| Bug: Create Story Modal Transparency and Z-Index Overlap | Medium | [#157](https://github.com/IndieHub25/GroqTales/issues/157) |
 | Mobile Navbar Issues: Hamburger Menu Missing and Header Content Not Fully Visible | Medium | [#151](https://github.com/IndieHub25/GroqTales/issues/151) |
+| BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
 ---
 
@@ -1719,16 +1714,12 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
-| Issue Fixed – UI Animations & Interactivity Improved  #145 | Medium | [#155](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/155) |
-| Add flast_bcrypt and jwt | Medium | [#154](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/154) |
-| Feat: Implemented prompt limit in a single chat session | Medium | [#153](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/153) |
-| OTHER: Add beginner contribution roadmap to CONTRIBUTING.md | Medium | [#151](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/151) |
-| added user authentication, reviews, and guest message limits | Medium | [#150](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/150) |
-| OTHER: Add confirmation modal before clearing chat history | Medium | [#148](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/148) |
+| Change Sign up form Date of Birth format, along with Updating the Calendar UI | Medium | [#163](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/163) |
+| feat: add footer links | Medium | [#160](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/160) |
+| FEATURE: Add ability to use local Ollama models | Medium | [#156](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/156) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 | FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
-| FEATURE: Create Page for Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
+| FEATURE: Create Page for User Profile Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
 
 ---
 
