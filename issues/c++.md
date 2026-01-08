@@ -14,10 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Custom 404 Error Page | Medium | [#100](https://github.com/Dipanita45/HEALCONNECT/issues/100) |
-| Missing Password Strength Validation in Signup Form | Medium | [#99](https://github.com/Dipanita45/HEALCONNECT/issues/99) |
-| Add environment example and backend setup documentation | Medium | [#98](https://github.com/Dipanita45/HEALCONNECT/pull/98) |
-| Added dark mode toggle with Tailwind support | Medium | [#21](https://github.com/Dipanita45/HEALCONNECT/pull/21) |
+| Fix Dark Mode Text Contrast for Better Readability | Medium | [#118](https://github.com/Dipanita45/HEALCONNECT/pull/118) |
+| added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
 
