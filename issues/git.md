@@ -312,7 +312,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Adding an issue template. | Medium | [#19](https://github.com/Amna-Hassan04/Cat-Sanctuary/issues/19) |
 | Deploy Cat Sanctuary game online for easy access | Medium | [#18](https://github.com/Amna-Hassan04/Cat-Sanctuary/issues/18) |
 | Add "Back to Top" button in README | Medium | [#17](https://github.com/Amna-Hassan04/Cat-Sanctuary/issues/17) |
-| Update README.md | Medium | [#16](https://github.com/Amna-Hassan04/Cat-Sanctuary/pull/16) |
 | Game issues GSSOC | Medium | [#5](https://github.com/Amna-Hassan04/Cat-Sanctuary/issues/5) |
 
 ---
