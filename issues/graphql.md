@@ -14,27 +14,26 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Optimize Costs for Staging Deployment | Easy | [#3238](https://github.com/OWASP/Nest/pull/3238) |
+| refactor: remove redundant type assertions in frontend | Medium | [#3258](https://github.com/OWASP/Nest/pull/3258) |
+| Add per-application and inter-dependency model graphs to CI/CD | Medium | [#3257](https://github.com/OWASP/Nest/pull/3257) |
+| Redis connection handling lacks retry / health checks | Medium | [#3256](https://github.com/OWASP/Nest/issues/3256) |
+| Replace String.replace with String.replaceAll in breadcrumb.ts | Medium | [#3253](https://github.com/OWASP/Nest/issues/3253) |
+| Automate posting on socials for latest community snapshot releases | Medium | [#3252](https://github.com/OWASP/Nest/issues/3252) |
+| API cache decorator mishandles method, auth, and streaming cases | Medium | [#3249](https://github.com/OWASP/Nest/issues/3249) |
+| fix(ci): correct ZAP baseline report filename to avoid upload failure | Medium | [#3246](https://github.com/OWASP/Nest/pull/3246) |
+| Display Related Milestones on Public Program View | Medium | [#3245](https://github.com/OWASP/Nest/issues/3245) |
+| Remove unused React prop `closeDelay` (Sonar rule typescript:S6767) | Medium | [#3244](https://github.com/OWASP/Nest/issues/3244) |
+| Remove redundant return statement (Sonar rule typescript:S3626) | Medium | [#3243](https://github.com/OWASP/Nest/issues/3243) |
+| Update sync process to last 365 days | Medium | [#3242](https://github.com/OWASP/Nest/pull/3242) |
+| Subtask: Snapshot Email Notification (MVP) | Medium | [#3241](https://github.com/OWASP/Nest/issues/3241) |
+| Tests: Scope jest.useFakeTimers usage in frontend unit tests | Medium | [#3240](https://github.com/OWASP/Nest/issues/3240) |
+| Replace generic Error with TypeError in formatDate | Medium | [#3235](https://github.com/OWASP/Nest/issues/3235) |
+| Address empty methods in ```ResizeObserver``` mock in ```jest.setup.ts``` | Medium | [#3233](https://github.com/OWASP/Nest/issues/3233) |
+| Update data sync to include all contributions within last 365 days | Medium | [#3232](https://github.com/OWASP/Nest/pull/3232) |
+| Replace bare except with specific exception handling in backend/apps/slack/models/event.py | Medium | [#3229](https://github.com/OWASP/Nest/issues/3229) |
 | Clarify State vs state naming in Issue mixin | Medium | [#3228](https://github.com/OWASP/Nest/issues/3228) |
-| Fix sonar unnecessary assertion | Medium | [#3226](https://github.com/OWASP/Nest/pull/3226) |
 | Update sync process to sync all relevant contributions for the last 365 days. | Medium | [#3219](https://github.com/OWASP/Nest/pull/3219) |
-| refactor: simplify leader name parsing | Medium | [#3212](https://github.com/OWASP/Nest/pull/3212) |
-| Board Candidate Data Model & Verification Schema (related to #2500) | Medium | [#3209](https://github.com/OWASP/Nest/issues/3209) |
-| refactor: use loading property from useQuery instead of useState | Medium | [#3208](https://github.com/OWASP/Nest/pull/3208) |
-| Remove unused globals configuration from Jest config | Medium | [#3207](https://github.com/OWASP/Nest/issues/3207) |
-| fix:remove unused react props | Medium | [#3204](https://github.com/OWASP/Nest/pull/3204) |
-| Frontend unit test fails due to Jest timeout in CreateModulePage | Medium | [#3201](https://github.com/OWASP/Nest/issues/3201) |
-| Update program admins relation | Medium | [#3185](https://github.com/OWASP/Nest/pull/3185) |
-| Search field auto-focus affects mobile experience | Medium | [#3182](https://github.com/OWASP/Nest/issues/3182) |
-| Inconsistent background on 404 error page | Medium | [#3181](https://github.com/OWASP/Nest/issues/3181) |
-| Inconsistent breadcrumb behavior | Medium | [#3180](https://github.com/OWASP/Nest/issues/3180) |
-| Test mentorship backend | Medium | [#3179](https://github.com/OWASP/Nest/pull/3179) |
-| Improve focus outline and accessibility for button | Medium | [#3178](https://github.com/OWASP/Nest/pull/3178) |
-| Add Language Filter to Projects Page | Medium | [#3177](https://github.com/OWASP/Nest/issues/3177) |
-| Minor vulnerability: create_api_key mutation fails for naive datetime input | Medium | [#3175](https://github.com/OWASP/Nest/issues/3175) |
-| refactor(tests): remove unnecessary non-null assertion in ChapterMap overlay tests | Medium | [#3164](https://github.com/OWASP/Nest/issues/3164) |
-| feat: add accessibility tests support | Medium | [#3162](https://github.com/OWASP/Nest/pull/3162) |
-| Refactor Slack entity handlers to eliminate ~350 lines of duplicate code | Medium | [#3161](https://github.com/OWASP/Nest/issues/3161) |
-| Simplify regex in Pagination test by using character class instead of alternation | Medium | [#3160](https://github.com/OWASP/Nest/issues/3160) |
 
 ---
 
