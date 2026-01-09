@@ -205,26 +205,29 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Market place back to home button fixed | Easy | [#626](https://github.com/omroy07/AgriTech/pull/626) |
-| Fix blog search functionality and add empty state message | Easy | [#623](https://github.com/omroy07/AgriTech/pull/623) |
-| Improve commodity price trend cards UI | Easy | [#618](https://github.com/omroy07/AgriTech/pull/618) |
-| Redesign Farmer Forum page UI | Easy | [#611](https://github.com/omroy07/AgriTech/issues/611) |
-| Fix navbar wrapping and cut-off on homepage | Easy | [#604](https://github.com/omroy07/AgriTech/pull/604) |
-| Dark Mode Toggle Not Working on Marketplace Page | Medium | [#642](https://github.com/omroy07/AgriTech/issues/642) |
-| Fix: Resolve invisible Navbar font in dark-mode | Medium | [#641](https://github.com/omroy07/AgriTech/pull/641) |
-| UI Bug: Search bar and Register option alignment is not proper | Medium | [#640](https://github.com/omroy07/AgriTech/issues/640) |
-| Fix : Resolve 404 errors by correcting JS and CSS asset references. | Medium | [#639](https://github.com/omroy07/AgriTech/pull/639) |
-| [UI/UX] Improve Category Card Contrast and Reduce Vertical Spacing | Medium | [#638](https://github.com/omroy07/AgriTech/issues/638) |
-| Fix/about us nav layout | Medium | [#636](https://github.com/omroy07/AgriTech/pull/636) |
-| Adding Hamburger Icon | Medium | [#632](https://github.com/omroy07/AgriTech/issues/632) |
-| Application not responsive | Medium | [#631](https://github.com/omroy07/AgriTech/issues/631) |
-| fix: navbar breakable content ui | Medium | [#624](https://github.com/omroy07/AgriTech/pull/624) |
-| feat: add comprehensive agricultural utilities, weather service, and … | Medium | [#622](https://github.com/omroy07/AgriTech/pull/622) |
-| Feature: Farmer Dashboard - Add and List Products using LocalStorage | Medium | [#607](https://github.com/omroy07/AgriTech/issues/607) |
-| UI/UX: Layout misalignment and missing 'Back to Home' navigation on Organic Farming page | Medium | [#606](https://github.com/omroy07/AgriTech/issues/606) |
-| Feature: Missing 'Nature Guide' or Natural Remedies for detected diseases | Medium | [#605](https://github.com/omroy07/AgriTech/issues/605) |
-| Functionality: Crop Recommendation analysis yields no output/dummy data | Medium | [#603](https://github.com/omroy07/AgriTech/issues/603) |
-| UI/Navigation: Missing 'Back to Home' & Footer is missing or improperly styled on Crop Recommendation page | Medium | [#602](https://github.com/omroy07/AgriTech/issues/602) |
+| Search bar is non-functional on About Us page | Medium | [#693](https://github.com/omroy07/AgriTech/issues/693) |
+| Backend crashes when Gemini API returns an empty response | Medium | [#692](https://github.com/omroy07/AgriTech/issues/692) |
+| Login and Register buttons cut off on navbar | Medium | [#691](https://github.com/omroy07/AgriTech/issues/691) |
+| Oversized Fixed Navbar & Poor Content Visibility on Disease Page | Medium | [#690](https://github.com/omroy07/AgriTech/issues/690) |
+| Weather Page Missing Navigation & Chatbot Widget Icon | Medium | [#689](https://github.com/omroy07/AgriTech/issues/689) |
+| Dashboard Layout Breaks on Mobile Devices | Medium | [#688](https://github.com/omroy07/AgriTech/issues/688) |
+| UI and layout inconsistencies across authentication pages | Medium | [#687](https://github.com/omroy07/AgriTech/issues/687) |
+| Contact Page Lacks Navigation & Dark Mode Visibility Problems | Medium | [#686](https://github.com/omroy07/AgriTech/issues/686) |
+| Fix overlapping elements and responsiveness issues on homepage | Medium | [#685](https://github.com/omroy07/AgriTech/pull/685) |
+| Enhancement of Readme.md | Medium | [#682](https://github.com/omroy07/AgriTech/issues/682) |
+| feat: make footer year dynamic | Medium | [#679](https://github.com/omroy07/AgriTech/pull/679) |
+| Improve scheme cards UI layout and spacing | Medium | [#678](https://github.com/omroy07/AgriTech/pull/678) |
+| Fix feedback page navbar and Back to Home UX | Medium | [#676](https://github.com/omroy07/AgriTech/pull/676) |
+| Fix Theme Toggle Button on Marketplace Page | Medium | [#675](https://github.com/omroy07/AgriTech/pull/675) |
+| Fix CTA text contrast in Smart Crop Monitoring page | Medium | [#674](https://github.com/omroy07/AgriTech/pull/674) |
+| Refine footer spacing and help button contrast on feedback page | Medium | [#673](https://github.com/omroy07/AgriTech/pull/673) |
+| Fix overlapping category cards on Marketplace page | Medium | [#672](https://github.com/omroy07/AgriTech/pull/672) |
+| Fix settings panel styles in light mode | Medium | [#671](https://github.com/omroy07/AgriTech/pull/671) |
+| Fix layout & visual inconsistencies on Sustainable Farming page | Medium | [#670](https://github.com/omroy07/AgriTech/pull/670) |
+| Improper alignment in about us | Medium | [#669](https://github.com/omroy07/AgriTech/issues/669) |
+| Fix Settings Panel UI for Light Mode crop page | Medium | [#668](https://github.com/omroy07/AgriTech/pull/668) |
+| fix(ui): Improve Category Card Accessibility and Layout | Medium | [#667](https://github.com/omroy07/AgriTech/pull/667) |
+| Add cart button and hook into cart widget | Medium | [#665](https://github.com/omroy07/AgriTech/pull/665) |
 
 ---
 
@@ -388,7 +391,16 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Change Sign up form Date of Birth format, along with Updating the Calendar UI | Medium | [#163](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/163) |
+| Implement Comprehensive File Upload Validation and Security Checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
+| Enhance UX with Error Handling and Loading States in Chat Component | Medium | [#185](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/185) |
+| Added password validation and show password feature in signin and sig… | Medium | [#184](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/184) |
+| Website Redesign | Medium | [#183](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/183) |
+| fix: #180 UI changes in signUp form(DarkMode) & reduced height of Year dropdown | Medium | [#181](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/181) |
+| Indicator and valid Cached Response | Medium | [#173](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/173) |
+| Key Board Shortcuts | Medium | [#172](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/172) |
+| Type Validation of Size | Medium | [#171](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/171) |
+| Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
+| Chat Message Timestamps with Relative Time | Medium | [#169](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/169) |
 | feat: add footer links | Medium | [#160](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/160) |
 | FEATURE: Add ability to use local Ollama models | Medium | [#156](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/156) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
