@@ -258,27 +258,26 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Optimize Costs for Staging Deployment | Easy | [#3238](https://github.com/OWASP/Nest/pull/3238) |
+| refactor: remove redundant type assertions in frontend | Medium | [#3258](https://github.com/OWASP/Nest/pull/3258) |
+| Add per-application and inter-dependency model graphs to CI/CD | Medium | [#3257](https://github.com/OWASP/Nest/pull/3257) |
+| Redis connection handling lacks retry / health checks | Medium | [#3256](https://github.com/OWASP/Nest/issues/3256) |
+| Replace String.replace with String.replaceAll in breadcrumb.ts | Medium | [#3253](https://github.com/OWASP/Nest/issues/3253) |
+| Automate posting on socials for latest community snapshot releases | Medium | [#3252](https://github.com/OWASP/Nest/issues/3252) |
+| API cache decorator mishandles method, auth, and streaming cases | Medium | [#3249](https://github.com/OWASP/Nest/issues/3249) |
+| fix(ci): correct ZAP baseline report filename to avoid upload failure | Medium | [#3246](https://github.com/OWASP/Nest/pull/3246) |
+| Display Related Milestones on Public Program View | Medium | [#3245](https://github.com/OWASP/Nest/issues/3245) |
+| Remove unused React prop `closeDelay` (Sonar rule typescript:S6767) | Medium | [#3244](https://github.com/OWASP/Nest/issues/3244) |
+| Remove redundant return statement (Sonar rule typescript:S3626) | Medium | [#3243](https://github.com/OWASP/Nest/issues/3243) |
+| Update sync process to last 365 days | Medium | [#3242](https://github.com/OWASP/Nest/pull/3242) |
+| Subtask: Snapshot Email Notification (MVP) | Medium | [#3241](https://github.com/OWASP/Nest/issues/3241) |
+| Tests: Scope jest.useFakeTimers usage in frontend unit tests | Medium | [#3240](https://github.com/OWASP/Nest/issues/3240) |
+| Replace generic Error with TypeError in formatDate | Medium | [#3235](https://github.com/OWASP/Nest/issues/3235) |
+| Address empty methods in ```ResizeObserver``` mock in ```jest.setup.ts``` | Medium | [#3233](https://github.com/OWASP/Nest/issues/3233) |
+| Update data sync to include all contributions within last 365 days | Medium | [#3232](https://github.com/OWASP/Nest/pull/3232) |
+| Replace bare except with specific exception handling in backend/apps/slack/models/event.py | Medium | [#3229](https://github.com/OWASP/Nest/issues/3229) |
 | Clarify State vs state naming in Issue mixin | Medium | [#3228](https://github.com/OWASP/Nest/issues/3228) |
-| Fix sonar unnecessary assertion | Medium | [#3226](https://github.com/OWASP/Nest/pull/3226) |
 | Update sync process to sync all relevant contributions for the last 365 days. | Medium | [#3219](https://github.com/OWASP/Nest/pull/3219) |
-| refactor: simplify leader name parsing | Medium | [#3212](https://github.com/OWASP/Nest/pull/3212) |
-| Board Candidate Data Model & Verification Schema (related to #2500) | Medium | [#3209](https://github.com/OWASP/Nest/issues/3209) |
-| refactor: use loading property from useQuery instead of useState | Medium | [#3208](https://github.com/OWASP/Nest/pull/3208) |
-| Remove unused globals configuration from Jest config | Medium | [#3207](https://github.com/OWASP/Nest/issues/3207) |
-| fix:remove unused react props | Medium | [#3204](https://github.com/OWASP/Nest/pull/3204) |
-| Frontend unit test fails due to Jest timeout in CreateModulePage | Medium | [#3201](https://github.com/OWASP/Nest/issues/3201) |
-| Update program admins relation | Medium | [#3185](https://github.com/OWASP/Nest/pull/3185) |
-| Search field auto-focus affects mobile experience | Medium | [#3182](https://github.com/OWASP/Nest/issues/3182) |
-| Inconsistent background on 404 error page | Medium | [#3181](https://github.com/OWASP/Nest/issues/3181) |
-| Inconsistent breadcrumb behavior | Medium | [#3180](https://github.com/OWASP/Nest/issues/3180) |
-| Test mentorship backend | Medium | [#3179](https://github.com/OWASP/Nest/pull/3179) |
-| Improve focus outline and accessibility for button | Medium | [#3178](https://github.com/OWASP/Nest/pull/3178) |
-| Add Language Filter to Projects Page | Medium | [#3177](https://github.com/OWASP/Nest/issues/3177) |
-| Minor vulnerability: create_api_key mutation fails for naive datetime input | Medium | [#3175](https://github.com/OWASP/Nest/issues/3175) |
-| refactor(tests): remove unnecessary non-null assertion in ChapterMap overlay tests | Medium | [#3164](https://github.com/OWASP/Nest/issues/3164) |
-| feat: add accessibility tests support | Medium | [#3162](https://github.com/OWASP/Nest/pull/3162) |
-| Refactor Slack entity handlers to eliminate ~350 lines of duplicate code | Medium | [#3161](https://github.com/OWASP/Nest/issues/3161) |
-| Simplify regex in Pagination test by using character class instead of alternation | Medium | [#3160](https://github.com/OWASP/Nest/issues/3160) |
 
 ---
 
@@ -330,17 +329,15 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 |----------|----------------|---------|
 | 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Add AI recommendation feature using GitHub username input | Medium | [#1344](https://github.com/Code-A2Z/code-a2z/pull/1344) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
-| feat(notes): Implement private project-specific notes (#249) | Medium | [#1328](https://github.com/Code-A2Z/code-a2z/pull/1328) |
-| Feature/private notes backend | Medium | [#1327](https://github.com/Code-A2Z/code-a2z/pull/1327) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
 | Backend: Implement Private Project Notes with Role-Based Access Control | Medium | [#1325](https://github.com/Code-A2Z/code-a2z/issues/1325) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
-| 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/Code-A2Z/code-a2z/issues/1178) |
 | Add a Feedback Form to Collect User Suggestions | Medium | [#1170](https://github.com/Code-A2Z/code-a2z/issues/1170) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
@@ -570,6 +567,8 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Real-Time Emergency Alerts for Critical Patient Vitals | Medium | [#119](https://github.com/Dipanita45/HEALCONNECT/issues/119) |
+| Fix Dark Mode Text Contrast for Better Readability | Medium | [#118](https://github.com/Dipanita45/HEALCONNECT/pull/118) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -2134,10 +2133,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor ImprovementMeasures Component for Better Readability & Maintainability | Medium | [#89](https://github.com/prasoonk1204/BreatheEasy/issues/89) |
-| Introduce authentication flow and protect dashboard routes | Medium | [#88](https://github.com/prasoonk1204/BreatheEasy/issues/88) |
-| Landing page Redesign | Medium | [#82](https://github.com/prasoonk1204/BreatheEasy/issues/82) |
-| Redesign of Footer | Medium | [#79](https://github.com/prasoonk1204/BreatheEasy/issues/79) |
+| Add hovering effect in Precautions page | Easy | [#59](https://github.com/prasoonk1204/BreatheEasy/issues/59) |
+| docs: add CONTRIBUTING.md and link it in README | Medium | [#94](https://github.com/prasoonk1204/BreatheEasy/pull/94) |
 | Fix #59: add hover + glitter effect on Precautions | Medium | [#77](https://github.com/prasoonk1204/BreatheEasy/pull/77) |
 
 ---
@@ -2301,7 +2298,16 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Change Sign up form Date of Birth format, along with Updating the Calendar UI | Medium | [#163](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/163) |
+| Implement Comprehensive File Upload Validation and Security Checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
+| Enhance UX with Error Handling and Loading States in Chat Component | Medium | [#185](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/185) |
+| Added password validation and show password feature in signin and sig… | Medium | [#184](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/184) |
+| Website Redesign | Medium | [#183](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/183) |
+| fix: #180 UI changes in signUp form(DarkMode) & reduced height of Year dropdown | Medium | [#181](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/181) |
+| Indicator and valid Cached Response | Medium | [#173](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/173) |
+| Key Board Shortcuts | Medium | [#172](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/172) |
+| Type Validation of Size | Medium | [#171](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/171) |
+| Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
+| Chat Message Timestamps with Relative Time | Medium | [#169](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/169) |
 | feat: add footer links | Medium | [#160](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/160) |
 | FEATURE: Add ability to use local Ollama models | Medium | [#156](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/156) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
@@ -2589,7 +2595,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add expandable cards | Medium | [#108](https://github.com/subhadeeproy3902/mvpblocks/pull/108) |
+| Add glass gradient hero section | Medium | [#116](https://github.com/subhadeeproy3902/mvpblocks/pull/116) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
