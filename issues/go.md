@@ -22,6 +22,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump jspdf from 3.0.3 to 4.0.0 in /DevElevate/Client in the npm_and_yarn group across 1 directory | Medium | [#745](https://github.com/abhisek2004/Dev-Elevate/pull/745) |
 | Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -193,28 +194,26 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Remove unnecessary identity check in slack question detector test | Medium | [#3168](https://github.com/OWASP/Nest/issues/3168) |
-| Update deprecated Jest fake timer usage in frontend unit tests | Medium | [#3167](https://github.com/OWASP/Nest/issues/3167) |
-| Minor vulnerability: create_api_key mutation fails for naive datetime inputs | Medium | [#3165](https://github.com/OWASP/Nest/issues/3165) |
-| refactor(tests): remove unnecessary non-null assertion in ChapterMap overlay tests | Medium | [#3164](https://github.com/OWASP/Nest/issues/3164) |
-| feat: add accessibility tests support | Medium | [#3162](https://github.com/OWASP/Nest/pull/3162) |
-| Refactor Slack entity handlers to eliminate ~350 lines of duplicate code | Medium | [#3161](https://github.com/OWASP/Nest/issues/3161) |
-| Simplify regex in Pagination test by using character class instead of alternation | Medium | [#3160](https://github.com/OWASP/Nest/issues/3160) |
-| Add tag display to issue cards on contribute page | Medium | [#3158](https://github.com/OWASP/Nest/pull/3158) |
-| Improve Module Card: Show mentors/mentee avatars & change grid to 3 columns | Medium | [#3156](https://github.com/OWASP/Nest/issues/3156) |
-| Navigation links open in a new tab | Medium | [#3153](https://github.com/OWASP/Nest/issues/3153) |
-| Button text touches outline on focus | Medium | [#3150](https://github.com/OWASP/Nest/issues/3150) |
-| Refactor: Use a constant for the repeated "Module not found." error message | Medium | [#3146](https://github.com/OWASP/Nest/issues/3146) |
-| Refactor get_leaders regex to reduce cognitive complexity | Medium | [#3140](https://github.com/OWASP/Nest/pull/3140) |
-| Remove Unused react typed Props | Medium | [#3139](https://github.com/OWASP/Nest/issues/3139) |
-| Fix ChapterMap locked state with explicit unlock | Medium | [#3130](https://github.com/OWASP/Nest/pull/3130) |
-| Migrate Fuzz tests tool to Schemathesis and add REST Fuzz tests | Medium | [#3122](https://github.com/OWASP/Nest/pull/3122) |
-| Hide Unpublished Programs and Modules From Public View | Medium | [#3117](https://github.com/OWASP/Nest/pull/3117) |
-| Refactor docker files / test images | Medium | [#3112](https://github.com/OWASP/Nest/pull/3112) |
-| Fix: Timezone discrepancies in Program/Module dates and Module date inheritance | Medium | [#3111](https://github.com/OWASP/Nest/issues/3111) |
-| Add module ordering | Medium | [#3101](https://github.com/OWASP/Nest/pull/3101) |
-| Prevent crash from invalid theme class during initialization | Medium | [#3089](https://github.com/OWASP/Nest/pull/3089) |
-| Prefer top-level await instead of async IIFE (Sonar S7785) | Medium | [#3087](https://github.com/OWASP/Nest/issues/3087) |
+| Optimize Costs for Staging Deployment | Easy | [#3238](https://github.com/OWASP/Nest/pull/3238) |
+| refactor: remove redundant type assertions in frontend | Medium | [#3258](https://github.com/OWASP/Nest/pull/3258) |
+| Add per-application and inter-dependency model graphs to CI/CD | Medium | [#3257](https://github.com/OWASP/Nest/pull/3257) |
+| Redis connection handling lacks retry / health checks | Medium | [#3256](https://github.com/OWASP/Nest/issues/3256) |
+| Replace String.replace with String.replaceAll in breadcrumb.ts | Medium | [#3253](https://github.com/OWASP/Nest/issues/3253) |
+| Automate posting on socials for latest community snapshot releases | Medium | [#3252](https://github.com/OWASP/Nest/issues/3252) |
+| API cache decorator mishandles method, auth, and streaming cases | Medium | [#3249](https://github.com/OWASP/Nest/issues/3249) |
+| fix(ci): correct ZAP baseline report filename to avoid upload failure | Medium | [#3246](https://github.com/OWASP/Nest/pull/3246) |
+| Display Related Milestones on Public Program View | Medium | [#3245](https://github.com/OWASP/Nest/issues/3245) |
+| Remove unused React prop `closeDelay` (Sonar rule typescript:S6767) | Medium | [#3244](https://github.com/OWASP/Nest/issues/3244) |
+| Remove redundant return statement (Sonar rule typescript:S3626) | Medium | [#3243](https://github.com/OWASP/Nest/issues/3243) |
+| Update sync process to last 365 days | Medium | [#3242](https://github.com/OWASP/Nest/pull/3242) |
+| Subtask: Snapshot Email Notification (MVP) | Medium | [#3241](https://github.com/OWASP/Nest/issues/3241) |
+| Tests: Scope jest.useFakeTimers usage in frontend unit tests | Medium | [#3240](https://github.com/OWASP/Nest/issues/3240) |
+| Replace generic Error with TypeError in formatDate | Medium | [#3235](https://github.com/OWASP/Nest/issues/3235) |
+| Address empty methods in ```ResizeObserver``` mock in ```jest.setup.ts``` | Medium | [#3233](https://github.com/OWASP/Nest/issues/3233) |
+| Update data sync to include all contributions within last 365 days | Medium | [#3232](https://github.com/OWASP/Nest/pull/3232) |
+| Replace bare except with specific exception handling in backend/apps/slack/models/event.py | Medium | [#3229](https://github.com/OWASP/Nest/issues/3229) |
+| Clarify State vs state naming in Issue mixin | Medium | [#3228](https://github.com/OWASP/Nest/issues/3228) |
+| Update sync process to sync all relevant contributions for the last 365 days. | Medium | [#3219](https://github.com/OWASP/Nest/pull/3219) |
 
 ---
 
@@ -264,17 +263,29 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Comprehensive README Overhaul for SWoC'26 Onboarding | Medium | [#1334](https://github.com/Code-A2Z/code-a2z/issues/1334) |
+| 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
+| 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Add AI recommendation feature using GitHub username input | Medium | [#1344](https://github.com/Code-A2Z/code-a2z/pull/1344) |
+| Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
-| feat(notes): Implement private project-specific notes (#249) | Medium | [#1328](https://github.com/Code-A2Z/code-a2z/pull/1328) |
-| Feature/private notes backend | Medium | [#1327](https://github.com/Code-A2Z/code-a2z/pull/1327) |
+| Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
+| Backend: Implement Private Project Notes with Role-Based Access Control | Medium | [#1325](https://github.com/Code-A2Z/code-a2z/issues/1325) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
+| Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
+| AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
+| Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
+| Add a Feedback Form to Collect User Suggestions | Medium | [#1170](https://github.com/Code-A2Z/code-a2z/issues/1170) |
+| Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
+| 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
+| 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
+| 📃: Kanban projects management system on users dashboard | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
+| 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 
 ---
 
@@ -415,11 +426,8 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
-| Add Toast Notification System | Medium | [#227](https://github.com/Devasy/splitwiser/pull/227) |
-| 🎨 Palette: Add accessible labels to Auth form | Medium | [#220](https://github.com/Devasy/splitwiser/pull/220) |
-| 🎨 Palette: Add loading state to Auth buttons | Medium | [#219](https://github.com/Devasy/splitwiser/pull/219) |
-| 🎨 Palette: Add loading state to Button | Medium | [#218](https://github.com/Devasy/splitwiser/pull/218) |
-| 🎨 Palette: Add loading state to Button component | Medium | [#217](https://github.com/Devasy/splitwiser/pull/217) |
+| Add pull-to-refresh with haptics to mobile list screens | Medium | [#233](https://github.com/Devasy/splitwiser/pull/233) |
+| Add inline form validation to Web Auth | Medium | [#232](https://github.com/Devasy/splitwiser/pull/232) |
 | 🎨 Palette: Enhance Modal accessibility and keyboard support | Medium | [#216](https://github.com/Devasy/splitwiser/pull/216) |
 | Restore EAS configuration files | Medium | [#210](https://github.com/Devasy/splitwiser/pull/210) |
 | Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy/splitwiser/pull/209) |
@@ -430,6 +438,8 @@ Schools, offices, and wellness centers looking to green their spaces
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
+| API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
+| Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy/splitwiser/pull/148) |
 
 ---
 
@@ -784,7 +794,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Hey | Medium | [#685](https://github.com/NishantRana07/HrRoadways/issues/685) |
+| Remove unnecessary files | Medium | [#704](https://github.com/NishantRana07/HrRoadways/issues/704) |
 
 ---
 
@@ -1559,6 +1569,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| <short-title> add logout option with login and change the css of login page | Medium | [#307](https://github.com/dipexplorer/LegalHuB/issues/307) |
 | 🚨 Contributor Guidelines & Etiquette | Medium | [#293](https://github.com/dipexplorer/LegalHuB/issues/293) |
 | Enhance Notification Page with Auto-Delete and User-Controlled Deletion | Medium | [#233](https://github.com/dipexplorer/LegalHuB/issues/233) |
 | Add Contributor Spotlight & Top Contributors Section and Animate Contributor Cards  for contributor page | Medium | [#227](https://github.com/dipexplorer/LegalHuB/issues/227) |
@@ -1722,10 +1733,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add preview of the website | Medium | [#154](https://github.com/IndieHub25/GroqTales/issues/154) |
-| Smart Contract Update: Corrected burn function removed Unnecessary imports madethe contract more gas efficient and also added reentrancy guard, added hardhat | Medium | [#153](https://github.com/IndieHub25/GroqTales/pull/153) |
-| Add Dark Mode Toggle for Improved Accessibility and User Experience | Medium | [#152](https://github.com/IndieHub25/GroqTales/issues/152) |
-| Mobile Navbar Issues: Hamburger Menu Missing and Header Content Not Fully Visible | Medium | [#151](https://github.com/IndieHub25/GroqTales/issues/151) |
+| Backed models for nft, users and others and proper routes and database and blockchain integration | Medium | [#170](https://github.com/IndieHub25/GroqTales/issues/170) |
+| Added NFT Marketplace contract | Medium | [#169](https://github.com/IndieHub25/GroqTales/pull/169) |
+| fix: fixed Mobile Navbar Issues and implemented hamburger menu | Medium | [#168](https://github.com/IndieHub25/GroqTales/pull/168) |
+| BIG : Database Connection Retries and Health Check Endpoint | Medium | [#166](https://github.com/IndieHub25/GroqTales/issues/166) |
+| Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
+| Bug: Create Story Modal Transparency and Z-Index Overlap | Medium | [#157](https://github.com/IndieHub25/GroqTales/issues/157) |
+| BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
 ---
 
@@ -1787,27 +1801,27 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump framer-motion from 11.18.2 to 12.24.12 | Medium | [#235](https://github.com/Ojas-Arora/SapneSeSafar/pull/235) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.90.1 | Medium | [#234](https://github.com/Ojas-Arora/SapneSeSafar/pull/234) |
+| Bump react-router-dom from 6.28.2 to 7.12.0 | Medium | [#233](https://github.com/Ojas-Arora/SapneSeSafar/pull/233) |
+| Bump @libsql/client from 0.5.6 to 0.17.0 | Medium | [#232](https://github.com/Ojas-Arora/SapneSeSafar/pull/232) |
+| Bump vite from 5.4.17 to 7.3.1 | Medium | [#231](https://github.com/Ojas-Arora/SapneSeSafar/pull/231) |
 | Bump lucide-react from 0.344.0 to 0.562.0 | Medium | [#227](https://github.com/Ojas-Arora/SapneSeSafar/pull/227) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.89.0 | Medium | [#226](https://github.com/Ojas-Arora/SapneSeSafar/pull/226) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.26 | Medium | [#225](https://github.com/Ojas-Arora/SapneSeSafar/pull/225) |
-| Bump react-router-dom from 6.28.2 to 7.11.0 | Medium | [#224](https://github.com/Ojas-Arora/SapneSeSafar/pull/224) |
 | Bump eslint from 9.12.0 to 9.39.2 | Medium | [#222](https://github.com/Ojas-Arora/SapneSeSafar/pull/222) |
 | Bump autoprefixer from 10.4.20 to 10.4.23 | Medium | [#220](https://github.com/Ojas-Arora/SapneSeSafar/pull/220) |
 | Bump @types/papaparse from 5.3.16 to 5.5.2 | Medium | [#219](https://github.com/Ojas-Arora/SapneSeSafar/pull/219) |
-| Bump vite from 5.4.17 to 7.3.0 | Medium | [#218](https://github.com/Ojas-Arora/SapneSeSafar/pull/218) |
 | Bump recharts from 2.15.0 to 3.6.0 | Medium | [#217](https://github.com/Ojas-Arora/SapneSeSafar/pull/217) |
 | Bump react and @types/react | Medium | [#214](https://github.com/Ojas-Arora/SapneSeSafar/pull/214) |
 | Bump react-dom and @types/react-dom | Medium | [#213](https://github.com/Ojas-Arora/SapneSeSafar/pull/213) |
 | Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
 | Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
-| Bump framer-motion from 11.18.2 to 12.23.26 | Medium | [#206](https://github.com/Ojas-Arora/SapneSeSafar/pull/206) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.2 | Medium | [#204](https://github.com/Ojas-Arora/SapneSeSafar/pull/204) |
 | Bump zustand from 4.5.6 to 5.0.9 | Medium | [#193](https://github.com/Ojas-Arora/SapneSeSafar/pull/193) |
 | Bump axios from 1.7.9 to 1.13.2 | Medium | [#167](https://github.com/Ojas-Arora/SapneSeSafar/pull/167) |
 | Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
-| Bump @libsql/client from 0.5.6 to 0.15.15 | Medium | [#98](https://github.com/Ojas-Arora/SapneSeSafar/pull/98) |
 | Feat: Sharks Details | Medium | [#60](https://github.com/Ojas-Arora/SapneSeSafar/issues/60) |
 | Feat: Connecting All Sharks CSV file with all Features | Medium | [#59](https://github.com/Ojas-Arora/SapneSeSafar/issues/59) |
 | Bump react, react-dom and @types/react | Medium | [#14](https://github.com/Ojas-Arora/SapneSeSafar/pull/14) |
@@ -1979,16 +1993,21 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Add links | Easy | [#60](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/60) |
-| Issue Fixed – UI Animations & Interactivity Improved  #145 | Medium | [#155](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/155) |
-| Add flast_bcrypt and jwt | Medium | [#154](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/154) |
-| Feat: Implemented prompt limit in a single chat session | Medium | [#153](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/153) |
-| OTHER: Add beginner contribution roadmap to CONTRIBUTING.md | Medium | [#151](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/151) |
-| added user authentication, reviews, and guest message limits | Medium | [#150](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/150) |
-| OTHER: Add confirmation modal before clearing chat history | Medium | [#148](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/148) |
+| Implement Comprehensive File Upload Validation and Security Checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
+| Enhance UX with Error Handling and Loading States in Chat Component | Medium | [#185](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/185) |
+| Added password validation and show password feature in signin and sig… | Medium | [#184](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/184) |
+| Website Redesign | Medium | [#183](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/183) |
+| fix: #180 UI changes in signUp form(DarkMode) & reduced height of Year dropdown | Medium | [#181](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/181) |
+| Indicator and valid Cached Response | Medium | [#173](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/173) |
+| Key Board Shortcuts | Medium | [#172](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/172) |
+| Type Validation of Size | Medium | [#171](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/171) |
+| Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
+| Chat Message Timestamps with Relative Time | Medium | [#169](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/169) |
+| feat: add footer links | Medium | [#160](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/160) |
+| FEATURE: Add ability to use local Ollama models | Medium | [#156](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/156) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 | FEATURE: Create Pricing Page | Medium | [#79](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/79) |
-| FEATURE: Create Page for Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
+| FEATURE: Create Page for User Profile Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
 
 ---
 
