@@ -152,17 +152,15 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Add AI recommendation feature using GitHub username input | Medium | [#1344](https://github.com/Code-A2Z/code-a2z/pull/1344) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
-| feat(notes): Implement private project-specific notes (#249) | Medium | [#1328](https://github.com/Code-A2Z/code-a2z/pull/1328) |
-| Feature/private notes backend | Medium | [#1327](https://github.com/Code-A2Z/code-a2z/pull/1327) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
 | Backend: Implement Private Project Notes with Role-Based Access Control | Medium | [#1325](https://github.com/Code-A2Z/code-a2z/issues/1325) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
-| 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/Code-A2Z/code-a2z/issues/1178) |
 | Add a Feedback Form to Collect User Suggestions | Medium | [#1170](https://github.com/Code-A2Z/code-a2z/issues/1170) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
@@ -1277,10 +1275,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor ImprovementMeasures Component for Better Readability & Maintainability | Medium | [#89](https://github.com/prasoonk1204/BreatheEasy/issues/89) |
-| Introduce authentication flow and protect dashboard routes | Medium | [#88](https://github.com/prasoonk1204/BreatheEasy/issues/88) |
-| Landing page Redesign | Medium | [#82](https://github.com/prasoonk1204/BreatheEasy/issues/82) |
-| Redesign of Footer | Medium | [#79](https://github.com/prasoonk1204/BreatheEasy/issues/79) |
+| Add hovering effect in Precautions page | Easy | [#59](https://github.com/prasoonk1204/BreatheEasy/issues/59) |
+| docs: add CONTRIBUTING.md and link it in README | Medium | [#94](https://github.com/prasoonk1204/BreatheEasy/pull/94) |
 | Fix #59: add hover + glitter effect on Precautions | Medium | [#77](https://github.com/prasoonk1204/BreatheEasy/pull/77) |
 
 ---
