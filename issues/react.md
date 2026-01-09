@@ -276,6 +276,14 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Optimize Costs for Staging Deployment | Easy | [#3238](https://github.com/OWASP/Nest/pull/3238) |
+| refactor: remove redundant type assertions in frontend | Medium | [#3258](https://github.com/OWASP/Nest/pull/3258) |
+| Add per-application and inter-dependency model graphs to CI/CD | Medium | [#3257](https://github.com/OWASP/Nest/pull/3257) |
+| Redis connection handling lacks retry / health checks | Medium | [#3256](https://github.com/OWASP/Nest/issues/3256) |
+| Replace String.replace with String.replaceAll in breadcrumb.ts | Medium | [#3253](https://github.com/OWASP/Nest/issues/3253) |
+| Automate posting on socials for latest community snapshot releases | Medium | [#3252](https://github.com/OWASP/Nest/issues/3252) |
+| API cache decorator mishandles method, auth, and streaming cases | Medium | [#3249](https://github.com/OWASP/Nest/issues/3249) |
+| fix(ci): correct ZAP baseline report filename to avoid upload failure | Medium | [#3246](https://github.com/OWASP/Nest/pull/3246) |
+| Display Related Milestones on Public Program View | Medium | [#3245](https://github.com/OWASP/Nest/issues/3245) |
 | Remove unused React prop `closeDelay` (Sonar rule typescript:S6767) | Medium | [#3244](https://github.com/OWASP/Nest/issues/3244) |
 | Remove redundant return statement (Sonar rule typescript:S3626) | Medium | [#3243](https://github.com/OWASP/Nest/issues/3243) |
 | Update sync process to last 365 days | Medium | [#3242](https://github.com/OWASP/Nest/pull/3242) |
@@ -286,15 +294,7 @@
 | Update data sync to include all contributions within last 365 days | Medium | [#3232](https://github.com/OWASP/Nest/pull/3232) |
 | Replace bare except with specific exception handling in backend/apps/slack/models/event.py | Medium | [#3229](https://github.com/OWASP/Nest/issues/3229) |
 | Clarify State vs state naming in Issue mixin | Medium | [#3228](https://github.com/OWASP/Nest/issues/3228) |
-| Fix sonar unnecessary assertion | Medium | [#3226](https://github.com/OWASP/Nest/pull/3226) |
 | Update sync process to sync all relevant contributions for the last 365 days. | Medium | [#3219](https://github.com/OWASP/Nest/pull/3219) |
-| refactor: simplify leader name parsing | Medium | [#3212](https://github.com/OWASP/Nest/pull/3212) |
-| Board Candidate Data Model & Verification Schema (related to #2500) | Medium | [#3209](https://github.com/OWASP/Nest/issues/3209) |
-| refactor: use loading property from useQuery instead of useState | Medium | [#3208](https://github.com/OWASP/Nest/pull/3208) |
-| Remove unused globals configuration from Jest config | Medium | [#3207](https://github.com/OWASP/Nest/issues/3207) |
-| fix:remove unused react props | Medium | [#3204](https://github.com/OWASP/Nest/pull/3204) |
-| Frontend unit test fails due to Jest timeout in CreateModulePage | Medium | [#3201](https://github.com/OWASP/Nest/issues/3201) |
-| Update program admins relation | Medium | [#3185](https://github.com/OWASP/Nest/pull/3185) |
 
 ---
 
@@ -314,6 +314,7 @@
 |----------|----------------|---------|
 | 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Add AI recommendation feature using GitHub username input | Medium | [#1344](https://github.com/Code-A2Z/code-a2z/pull/1344) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
@@ -616,15 +617,9 @@ Schools, offices, and wellness centers looking to green their spaces
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
-| Implement Toast Notification System | Medium | [#231](https://github.com/Devasy/splitwiser/pull/231) |
-| enhance: Add Toast notification system | Medium | [#230](https://github.com/Devasy/splitwiser/pull/230) |
-| Add Toast Notification System | Medium | [#229](https://github.com/Devasy/splitwiser/pull/229) |
-| Add global Toast notification system | Medium | [#228](https://github.com/Devasy/splitwiser/pull/228) |
-| Add Toast Notification System | Medium | [#227](https://github.com/Devasy/splitwiser/pull/227) |
-| 🎨 Palette: Add accessible labels to Auth form | Medium | [#220](https://github.com/Devasy/splitwiser/pull/220) |
-| 🎨 Palette: Add loading state to Auth buttons | Medium | [#219](https://github.com/Devasy/splitwiser/pull/219) |
-| 🎨 Palette: Add loading state to Button | Medium | [#218](https://github.com/Devasy/splitwiser/pull/218) |
-| 🎨 Palette: Add loading state to Button component | Medium | [#217](https://github.com/Devasy/splitwiser/pull/217) |
+| <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| Add pull-to-refresh with haptics to mobile list screens | Medium | [#233](https://github.com/Devasy/splitwiser/pull/233) |
+| Add inline form validation to Web Auth | Medium | [#232](https://github.com/Devasy/splitwiser/pull/232) |
 | 🎨 Palette: Enhance Modal accessibility and keyboard support | Medium | [#216](https://github.com/Devasy/splitwiser/pull/216) |
 | Restore EAS configuration files | Medium | [#210](https://github.com/Devasy/splitwiser/pull/210) |
 | Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy/splitwiser/pull/209) |
@@ -633,6 +628,10 @@ Schools, offices, and wellness centers looking to green their spaces
 | Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
+| Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
+| Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
+| API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
+| Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy/splitwiser/pull/148) |
 
 ---
 
@@ -1166,8 +1165,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Remove unnecessary files | Medium | [#704](https://github.com/NishantRana07/HrRoadways/issues/704) |
-| Login button text does not look professional | Medium | [#703](https://github.com/NishantRana07/HrRoadways/issues/703) |
-| Feature/no results found 695 | Medium | [#702](https://github.com/NishantRana07/HrRoadways/pull/702) |
 
 ---
 
@@ -2429,11 +2426,12 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Backed models for nft, users and others and proper routes and database and blockchain integration | Medium | [#170](https://github.com/IndieHub25/GroqTales/issues/170) |
+| Added NFT Marketplace contract | Medium | [#169](https://github.com/IndieHub25/GroqTales/pull/169) |
+| fix: fixed Mobile Navbar Issues and implemented hamburger menu | Medium | [#168](https://github.com/IndieHub25/GroqTales/pull/168) |
 | BIG : Database Connection Retries and Health Check Endpoint | Medium | [#166](https://github.com/IndieHub25/GroqTales/issues/166) |
-| feat :Added Dark Mode Toggle for Improved Accessibility and User Experience | Medium | [#165](https://github.com/IndieHub25/GroqTales/pull/165) |
 | Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
 | Bug: Create Story Modal Transparency and Z-Index Overlap | Medium | [#157](https://github.com/IndieHub25/GroqTales/issues/157) |
-| Mobile Navbar Issues: Hamburger Menu Missing and Header Content Not Fully Visible | Medium | [#151](https://github.com/IndieHub25/GroqTales/issues/151) |
 | BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
 ---
@@ -2496,6 +2494,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add hovering effect in Precautions page | Easy | [#59](https://github.com/prasoonk1204/BreatheEasy/issues/59) |
+| docs: add CONTRIBUTING.md and link it in README | Medium | [#94](https://github.com/prasoonk1204/BreatheEasy/pull/94) |
 | Fix #59: add hover + glitter effect on Precautions | Medium | [#77](https://github.com/prasoonk1204/BreatheEasy/pull/77) |
 
 ---
@@ -2747,6 +2747,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Comprehensive File Upload Validation and Security Checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
+| Enhance UX with Error Handling and Loading States in Chat Component | Medium | [#185](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/185) |
+| Added password validation and show password feature in signin and sig… | Medium | [#184](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/184) |
+| Website Redesign | Medium | [#183](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/183) |
+| fix: #180 UI changes in signUp form(DarkMode) & reduced height of Year dropdown | Medium | [#181](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/181) |
 | Indicator and valid Cached Response | Medium | [#173](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/173) |
 | Key Board Shortcuts | Medium | [#172](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/172) |
 | Type Validation of Size | Medium | [#171](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/171) |
