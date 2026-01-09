@@ -43,17 +43,29 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Comprehensive README Overhaul for SWoC'26 Onboarding | Medium | [#1334](https://github.com/Code-A2Z/code-a2z/issues/1334) |
+| 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
+| 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Add AI recommendation feature using GitHub username input | Medium | [#1344](https://github.com/Code-A2Z/code-a2z/pull/1344) |
+| Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
-| feat(notes): Implement private project-specific notes (#249) | Medium | [#1328](https://github.com/Code-A2Z/code-a2z/pull/1328) |
-| Feature/private notes backend | Medium | [#1327](https://github.com/Code-A2Z/code-a2z/pull/1327) |
+| Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
+| Backend: Implement Private Project Notes with Role-Based Access Control | Medium | [#1325](https://github.com/Code-A2Z/code-a2z/issues/1325) |
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
+| Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
+| AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
+| Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
+| Add a Feedback Form to Collect User Suggestions | Medium | [#1170](https://github.com/Code-A2Z/code-a2z/issues/1170) |
+| Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
+| 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
+| 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
+| 📃: Kanban projects management system on users dashboard | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
+| 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 
 ---
 
@@ -126,6 +138,7 @@
 |----------|----------------|---------|
 | NEW HOME PAGE | Easy | [#146](https://github.com/WallGodds/WallGodds-Web/issues/146) |
 | WallGodds IMPRESSION (macOS Preview) | Easy | [#139](https://github.com/WallGodds/WallGodds-Web/issues/139) |
+| NEW FOOTER | Easy | [#136](https://github.com/WallGodds/WallGodds-Web/issues/136) |
 | PROFILE PAGE | Easy | [#130](https://github.com/WallGodds/WallGodds-Web/issues/130) |
 | UPLOAD PAGE FOR MOBILE WALLPAPERS | Easy | [#128](https://github.com/WallGodds/WallGodds-Web/issues/128) |
 | UPLOAD PAGE FOR TABLET WALLPAPERS | Easy | [#127](https://github.com/WallGodds/WallGodds-Web/issues/127) |
