@@ -1490,13 +1490,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Backed models for nft, users and others and proper routes and database and blockchain integration | Medium | [#170](https://github.com/IndieHub25/GroqTales/issues/170) |
-| Added NFT Marketplace contract | Medium | [#169](https://github.com/IndieHub25/GroqTales/pull/169) |
-| fix: fixed Mobile Navbar Issues and implemented hamburger menu | Medium | [#168](https://github.com/IndieHub25/GroqTales/pull/168) |
 | BIG : Database Connection Retries and Health Check Endpoint | Medium | [#166](https://github.com/IndieHub25/GroqTales/issues/166) |
 | Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
-| Bug: Create Story Modal Transparency and Z-Index Overlap | Medium | [#157](https://github.com/IndieHub25/GroqTales/issues/157) |
-| BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
 ---
 
@@ -1598,6 +1593,24 @@ Fast Workflow Tools
 
 ---
 
+## 📌 Project: Zenjira - AI-Powered Jira Automation Platform
+
+📝 **Description:** Zenjira is a smart web app that connects with Jira to automate tasks, plan sprints, and simplify project tracking. It uses AI to help teams work faster by reducing manual work, balancing workloads, and giving clear, real-time insights all in one clean, easy-to-use dashboard.
+
+🔗 [View Project](https://github.com/Promptzy/Zenjira)
+
+💻 **Tech Stack:** Next.js, Tailwind CSS, ShadCN UI, Material UI, Redux Toolkit, React Query, Node.js, Express, Django, DRF, REST, GraphQL, Apollo, Atlassian OAuth2, JWT, BullMQ, Celery, Redis, PostgreSQL, OpenAI GPT4, LangChain, Hugging Face Transformers, n8n, Jira REST API, GitHub, GitLab, Bitbucket, Slack, Microsoft Teams, GitHub Actions, CircleCI, Jenkins, Docker, Kubernetes, EKS, GKE, Docker Swarm, Nginx, Traefik, Prometheus, Grafana, Sentry, ELK Stack, Jest, PyTest, Cypress, Playwright, Figma, Notion, Confluence, Swagger, OpenAPI, Mixpanel, Google Analytics
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Hi Vaibhav | Medium | [#137](https://github.com/AxeAi/Nexara/issues/137) |
+
+---
+
 ## 📌 Project: BreatheEasy
 
 📝 **Description:** BreatheEasy is an open-source project to help you monitor air quality in your area, understand pollutant levels, and get actionable health advice and improvement measures. It uses the World Air Quality Index (WAQI) API to fetch real-time AQI data and presents it in a clean, user-friendly dashboard.
@@ -1612,9 +1625,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add hovering effect in Precautions page | Easy | [#59](https://github.com/prasoonk1204/BreatheEasy/issues/59) |
+| enhance improvement measure file code | Medium | [#95](https://github.com/prasoonk1204/BreatheEasy/pull/95) |
 | docs: add CONTRIBUTING.md and link it in README | Medium | [#94](https://github.com/prasoonk1204/BreatheEasy/pull/94) |
-| Fix #59: add hover + glitter effect on Precautions | Medium | [#77](https://github.com/prasoonk1204/BreatheEasy/pull/77) |
 
 ---
 
