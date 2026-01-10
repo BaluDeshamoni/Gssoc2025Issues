@@ -310,6 +310,24 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
+## 📌 Project: Zenjira - AI-Powered Jira Automation Platform
+
+📝 **Description:** Zenjira is a smart web app that connects with Jira to automate tasks, plan sprints, and simplify project tracking. It uses AI to help teams work faster by reducing manual work, balancing workloads, and giving clear, real-time insights all in one clean, easy-to-use dashboard.
+
+🔗 [View Project](https://github.com/Promptzy/Zenjira)
+
+💻 **Tech Stack:** Next.js, Tailwind CSS, ShadCN UI, Material UI, Redux Toolkit, React Query, Node.js, Express, Django, DRF, REST, GraphQL, Apollo, Atlassian OAuth2, JWT, BullMQ, Celery, Redis, PostgreSQL, OpenAI GPT4, LangChain, Hugging Face Transformers, n8n, Jira REST API, GitHub, GitLab, Bitbucket, Slack, Microsoft Teams, GitHub Actions, CircleCI, Jenkins, Docker, Kubernetes, EKS, GKE, Docker Swarm, Nginx, Traefik, Prometheus, Grafana, Sentry, ELK Stack, Jest, PyTest, Cypress, Playwright, Figma, Notion, Confluence, Swagger, OpenAPI, Mixpanel, Google Analytics
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Hi Vaibhav | Medium | [#137](https://github.com/AxeAi/Nexara/issues/137) |
+
+---
+
 ## 📌 Project: Eventra - Full Stack Event Management System
 
 📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
