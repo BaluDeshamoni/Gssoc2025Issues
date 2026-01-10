@@ -14,14 +14,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Optimize Costs for Staging Deployment | Easy | [#3238](https://github.com/OWASP/Nest/pull/3238) |
-| refactor: remove redundant type assertions in frontend | Medium | [#3258](https://github.com/OWASP/Nest/pull/3258) |
+| Hidden parts of the navbar on the screens of medium screens | Medium | [#3272](https://github.com/OWASP/Nest/issues/3272) |
+| Subtask: Subscription data model and APIs | Medium | [#3271](https://github.com/OWASP/Nest/issues/3271) |
+| CI: Cache Trivy vulnerability database for repo and filesystem scans | Medium | [#3268](https://github.com/OWASP/Nest/issues/3268) |
+| Resolve TODO: Remove image block handling in slack/utils.py | Medium | [#3264](https://github.com/OWASP/Nest/issues/3264) |
+| Fix hide empty heatmap | Medium | [#3263](https://github.com/OWASP/Nest/pull/3263) |
 | Add per-application and inter-dependency model graphs to CI/CD | Medium | [#3257](https://github.com/OWASP/Nest/pull/3257) |
 | Redis connection handling lacks retry / health checks | Medium | [#3256](https://github.com/OWASP/Nest/issues/3256) |
-| Replace String.replace with String.replaceAll in breadcrumb.ts | Medium | [#3253](https://github.com/OWASP/Nest/issues/3253) |
 | Automate posting on socials for latest community snapshot releases | Medium | [#3252](https://github.com/OWASP/Nest/issues/3252) |
 | API cache decorator mishandles method, auth, and streaming cases | Medium | [#3249](https://github.com/OWASP/Nest/issues/3249) |
-| fix(ci): correct ZAP baseline report filename to avoid upload failure | Medium | [#3246](https://github.com/OWASP/Nest/pull/3246) |
 | Display Related Milestones on Public Program View | Medium | [#3245](https://github.com/OWASP/Nest/issues/3245) |
 | Remove unused React prop `closeDelay` (Sonar rule typescript:S6767) | Medium | [#3244](https://github.com/OWASP/Nest/issues/3244) |
 | Remove redundant return statement (Sonar rule typescript:S3626) | Medium | [#3243](https://github.com/OWASP/Nest/issues/3243) |
@@ -222,6 +223,24 @@
 | feat: implement secure environment variable configuration | Medium | [#180](https://github.com/ygowthamr/WhitePaper/pull/180) |
 | ADD PRIVACY POLICY PAGE | Medium | [#178](https://github.com/ygowthamr/WhitePaper/issues/178) |
 | to add a toggle button | Medium | [#177](https://github.com/ygowthamr/WhitePaper/issues/177) |
+
+---
+
+## 📌 Project: Zenjira - AI-Powered Jira Automation Platform
+
+📝 **Description:** Zenjira is a smart web app that connects with Jira to automate tasks, plan sprints, and simplify project tracking. It uses AI to help teams work faster by reducing manual work, balancing workloads, and giving clear, real-time insights all in one clean, easy-to-use dashboard.
+
+🔗 [View Project](https://github.com/Promptzy/Zenjira)
+
+💻 **Tech Stack:** Next.js, Tailwind CSS, ShadCN UI, Material UI, Redux Toolkit, React Query, Node.js, Express, Django, DRF, REST, GraphQL, Apollo, Atlassian OAuth2, JWT, BullMQ, Celery, Redis, PostgreSQL, OpenAI GPT4, LangChain, Hugging Face Transformers, n8n, Jira REST API, GitHub, GitLab, Bitbucket, Slack, Microsoft Teams, GitHub Actions, CircleCI, Jenkins, Docker, Kubernetes, EKS, GKE, Docker Swarm, Nginx, Traefik, Prometheus, Grafana, Sentry, ELK Stack, Jest, PyTest, Cypress, Playwright, Figma, Notion, Confluence, Swagger, OpenAPI, Mixpanel, Google Analytics
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Hi Vaibhav | Medium | [#137](https://github.com/AxeAi/Nexara/issues/137) |
 
 ---
 
