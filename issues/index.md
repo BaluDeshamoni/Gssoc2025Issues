@@ -20,6 +20,7 @@
 - [Java Projects](java.md)
 - [Javascript Projects](javascript.md)
 - [Kotlin Projects](kotlin.md)
+- [Kubernetes Projects](kubernetes.md)
 - [Langchain Projects](langchain.md)
 - [Ml Projects](ml.md)
 - [Mongodb Projects](mongodb.md)
