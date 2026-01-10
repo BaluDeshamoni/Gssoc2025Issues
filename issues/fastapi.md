@@ -45,6 +45,7 @@
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| Enhance Auth page with inline form validation | Medium | [#234](https://github.com/Devasy/splitwiser/pull/234) |
 | Add pull-to-refresh with haptics to mobile list screens | Medium | [#233](https://github.com/Devasy/splitwiser/pull/233) |
 | Add inline form validation to Web Auth | Medium | [#232](https://github.com/Devasy/splitwiser/pull/232) |
 | 🎨 Palette: Enhance Modal accessibility and keyboard support | Medium | [#216](https://github.com/Devasy/splitwiser/pull/216) |
