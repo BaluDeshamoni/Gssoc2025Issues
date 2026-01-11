@@ -133,6 +133,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix typo in README | Medium | [#1045](https://github.com/opensource-society/notesvault/pull/1045) |
 | Fix download issue | Medium | [#1043](https://github.com/opensource-society/notesvault/pull/1043) |
 
 ---
@@ -463,8 +464,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Real-Time Emergency Alerts for Critical Patient Vitals | Medium | [#119](https://github.com/Dipanita45/HEALCONNECT/issues/119) |
-| Fix Dark Mode Text Contrast for Better Readability | Medium | [#118](https://github.com/Dipanita45/HEALCONNECT/pull/118) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -754,29 +753,12 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Search bar is non-functional on About Us page | Medium | [#693](https://github.com/omroy07/AgriTech/issues/693) |
-| Backend crashes when Gemini API returns an empty response | Medium | [#692](https://github.com/omroy07/AgriTech/issues/692) |
-| Login and Register buttons cut off on navbar | Medium | [#691](https://github.com/omroy07/AgriTech/issues/691) |
-| Oversized Fixed Navbar & Poor Content Visibility on Disease Page | Medium | [#690](https://github.com/omroy07/AgriTech/issues/690) |
-| Weather Page Missing Navigation & Chatbot Widget Icon | Medium | [#689](https://github.com/omroy07/AgriTech/issues/689) |
-| Dashboard Layout Breaks on Mobile Devices | Medium | [#688](https://github.com/omroy07/AgriTech/issues/688) |
-| UI and layout inconsistencies across authentication pages | Medium | [#687](https://github.com/omroy07/AgriTech/issues/687) |
-| Contact Page Lacks Navigation & Dark Mode Visibility Problems | Medium | [#686](https://github.com/omroy07/AgriTech/issues/686) |
-| Fix overlapping elements and responsiveness issues on homepage | Medium | [#685](https://github.com/omroy07/AgriTech/pull/685) |
+| feat: add loading indicator during disease prediction analysis | Easy | [#729](https://github.com/omroy07/AgriTech/pull/729) |
+| fix: update footer copyright to dynamic year (2026) | Easy | [#723](https://github.com/omroy07/AgriTech/pull/723) |
+| fix: improve text contrast and accessibility on sustainable farming page | Easy | [#721](https://github.com/omroy07/AgriTech/pull/721) |
+| 📄 Issue: README Consistency, Structure & Technical Accuracy Improvements (SWoC 2026) | Medium | [#730](https://github.com/omroy07/AgriTech/issues/730) |
+| Back to top icon | Medium | [#706](https://github.com/omroy07/AgriTech/issues/706) |
 | Enhancement of Readme.md | Medium | [#682](https://github.com/omroy07/AgriTech/issues/682) |
-| feat: make footer year dynamic | Medium | [#679](https://github.com/omroy07/AgriTech/pull/679) |
-| Improve scheme cards UI layout and spacing | Medium | [#678](https://github.com/omroy07/AgriTech/pull/678) |
-| Fix feedback page navbar and Back to Home UX | Medium | [#676](https://github.com/omroy07/AgriTech/pull/676) |
-| Fix Theme Toggle Button on Marketplace Page | Medium | [#675](https://github.com/omroy07/AgriTech/pull/675) |
-| Fix CTA text contrast in Smart Crop Monitoring page | Medium | [#674](https://github.com/omroy07/AgriTech/pull/674) |
-| Refine footer spacing and help button contrast on feedback page | Medium | [#673](https://github.com/omroy07/AgriTech/pull/673) |
-| Fix overlapping category cards on Marketplace page | Medium | [#672](https://github.com/omroy07/AgriTech/pull/672) |
-| Fix settings panel styles in light mode | Medium | [#671](https://github.com/omroy07/AgriTech/pull/671) |
-| Fix layout & visual inconsistencies on Sustainable Farming page | Medium | [#670](https://github.com/omroy07/AgriTech/pull/670) |
-| Improper alignment in about us | Medium | [#669](https://github.com/omroy07/AgriTech/issues/669) |
-| Fix Settings Panel UI for Light Mode crop page | Medium | [#668](https://github.com/omroy07/AgriTech/pull/668) |
-| fix(ui): Improve Category Card Accessibility and Layout | Medium | [#667](https://github.com/omroy07/AgriTech/pull/667) |
-| Add cart button and hook into cart widget | Medium | [#665](https://github.com/omroy07/AgriTech/pull/665) |
 
 ---
 
@@ -2059,13 +2041,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Backed models for nft, users and others and proper routes and database and blockchain integration | Medium | [#170](https://github.com/IndieHub25/GroqTales/issues/170) |
-| Added NFT Marketplace contract | Medium | [#169](https://github.com/IndieHub25/GroqTales/pull/169) |
-| fix: fixed Mobile Navbar Issues and implemented hamburger menu | Medium | [#168](https://github.com/IndieHub25/GroqTales/pull/168) |
+| Feature/mongodb resilient connection health check | Medium | [#172](https://github.com/IndieHub25/GroqTales/pull/172) |
 | BIG : Database Connection Retries and Health Check Endpoint | Medium | [#166](https://github.com/IndieHub25/GroqTales/issues/166) |
 | Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
-| Bug: Create Story Modal Transparency and Z-Index Overlap | Medium | [#157](https://github.com/IndieHub25/GroqTales/issues/157) |
-| BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
 ---
 
@@ -2143,7 +2121,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.24.12 | Medium | [#235](https://github.com/Ojas-Arora/SapneSeSafar/pull/235) |
+| Bump framer-motion from 11.18.2 to 12.25.0 | Medium | [#236](https://github.com/Ojas-Arora/SapneSeSafar/pull/236) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.90.1 | Medium | [#234](https://github.com/Ojas-Arora/SapneSeSafar/pull/234) |
 | Bump react-router-dom from 6.28.2 to 7.12.0 | Medium | [#233](https://github.com/Ojas-Arora/SapneSeSafar/pull/233) |
 | Bump @libsql/client from 0.5.6 to 0.17.0 | Medium | [#232](https://github.com/Ojas-Arora/SapneSeSafar/pull/232) |
