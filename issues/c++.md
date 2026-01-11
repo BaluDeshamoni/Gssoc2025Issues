@@ -14,8 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Real-Time Emergency Alerts for Critical Patient Vitals | Medium | [#119](https://github.com/Dipanita45/HEALCONNECT/issues/119) |
-| Fix Dark Mode Text Contrast for Better Readability | Medium | [#118](https://github.com/Dipanita45/HEALCONNECT/pull/118) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
