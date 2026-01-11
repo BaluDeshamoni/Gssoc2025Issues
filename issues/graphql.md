@@ -14,26 +14,26 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Optimize Costs for Staging Deployment | Easy | [#3238](https://github.com/OWASP/Nest/pull/3238) |
-| refactor: remove redundant type assertions in frontend | Medium | [#3258](https://github.com/OWASP/Nest/pull/3258) |
+| Fix brittle OWASP event date parsing and add regression tests | Medium | [#3295](https://github.com/OWASP/Nest/pull/3295) |
+| Redundant CI Actions continue running after new commits are pushed | Medium | [#3293](https://github.com/OWASP/Nest/issues/3293) |
+| CI security: Trivy image scan failures do not block staging/production deployments | Medium | [#3292](https://github.com/OWASP/Nest/issues/3292) |
+| ci: fix ignored timeout-minutes and add job-level timeouts | Medium | [#3291](https://github.com/OWASP/Nest/pull/3291) |
+| refactor: resolve implicit any errors and improve fe type safety | Medium | [#3289](https://github.com/OWASP/Nest/pull/3289) |
+| Fix inconsistent background and vertical scroll on 404 page | Medium | [#3287](https://github.com/OWASP/Nest/pull/3287) |
+| Suppress non-actionable ZAP baseline warnings for Next.js SPA | Medium | [#3284](https://github.com/OWASP/Nest/pull/3284) |
+| add comprehensive filtering to project list page | Medium | [#3281](https://github.com/OWASP/Nest/issues/3281) |
+| Hidden parts of the navbar on the screens of medium screens | Medium | [#3272](https://github.com/OWASP/Nest/issues/3272) |
+| Subtask: Subscription data model and APIs | Medium | [#3271](https://github.com/OWASP/Nest/issues/3271) |
+| Resolve TODO: Remove image block handling in slack/utils.py | Medium | [#3264](https://github.com/OWASP/Nest/issues/3264) |
 | Add per-application and inter-dependency model graphs to CI/CD | Medium | [#3257](https://github.com/OWASP/Nest/pull/3257) |
 | Redis connection handling lacks retry / health checks | Medium | [#3256](https://github.com/OWASP/Nest/issues/3256) |
-| Replace String.replace with String.replaceAll in breadcrumb.ts | Medium | [#3253](https://github.com/OWASP/Nest/issues/3253) |
 | Automate posting on socials for latest community snapshot releases | Medium | [#3252](https://github.com/OWASP/Nest/issues/3252) |
 | API cache decorator mishandles method, auth, and streaming cases | Medium | [#3249](https://github.com/OWASP/Nest/issues/3249) |
-| fix(ci): correct ZAP baseline report filename to avoid upload failure | Medium | [#3246](https://github.com/OWASP/Nest/pull/3246) |
 | Display Related Milestones on Public Program View | Medium | [#3245](https://github.com/OWASP/Nest/issues/3245) |
 | Remove unused React prop `closeDelay` (Sonar rule typescript:S6767) | Medium | [#3244](https://github.com/OWASP/Nest/issues/3244) |
 | Remove redundant return statement (Sonar rule typescript:S3626) | Medium | [#3243](https://github.com/OWASP/Nest/issues/3243) |
 | Update sync process to last 365 days | Medium | [#3242](https://github.com/OWASP/Nest/pull/3242) |
 | Subtask: Snapshot Email Notification (MVP) | Medium | [#3241](https://github.com/OWASP/Nest/issues/3241) |
-| Tests: Scope jest.useFakeTimers usage in frontend unit tests | Medium | [#3240](https://github.com/OWASP/Nest/issues/3240) |
-| Replace generic Error with TypeError in formatDate | Medium | [#3235](https://github.com/OWASP/Nest/issues/3235) |
-| Address empty methods in ```ResizeObserver``` mock in ```jest.setup.ts``` | Medium | [#3233](https://github.com/OWASP/Nest/issues/3233) |
-| Update data sync to include all contributions within last 365 days | Medium | [#3232](https://github.com/OWASP/Nest/pull/3232) |
-| Replace bare except with specific exception handling in backend/apps/slack/models/event.py | Medium | [#3229](https://github.com/OWASP/Nest/issues/3229) |
-| Clarify State vs state naming in Issue mixin | Medium | [#3228](https://github.com/OWASP/Nest/issues/3228) |
-| Update sync process to sync all relevant contributions for the last 365 days. | Medium | [#3219](https://github.com/OWASP/Nest/pull/3219) |
 
 ---
 
