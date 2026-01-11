@@ -176,7 +176,6 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
-| Add AI recommendation feature using GitHub username input | Medium | [#1344](https://github.com/Code-A2Z/code-a2z/pull/1344) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
@@ -1490,6 +1489,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/mongodb resilient connection health check | Medium | [#172](https://github.com/IndieHub25/GroqTales/pull/172) |
 | BIG : Database Connection Retries and Health Check Endpoint | Medium | [#166](https://github.com/IndieHub25/GroqTales/issues/166) |
 | Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
 
@@ -1593,24 +1593,6 @@ Fast Workflow Tools
 
 ---
 
-## 📌 Project: Zenjira - AI-Powered Jira Automation Platform
-
-📝 **Description:** Zenjira is a smart web app that connects with Jira to automate tasks, plan sprints, and simplify project tracking. It uses AI to help teams work faster by reducing manual work, balancing workloads, and giving clear, real-time insights all in one clean, easy-to-use dashboard.
-
-🔗 [View Project](https://github.com/Promptzy/Zenjira)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, ShadCN UI, Material UI, Redux Toolkit, React Query, Node.js, Express, Django, DRF, REST, GraphQL, Apollo, Atlassian OAuth2, JWT, BullMQ, Celery, Redis, PostgreSQL, OpenAI GPT4, LangChain, Hugging Face Transformers, n8n, Jira REST API, GitHub, GitLab, Bitbucket, Slack, Microsoft Teams, GitHub Actions, CircleCI, Jenkins, Docker, Kubernetes, EKS, GKE, Docker Swarm, Nginx, Traefik, Prometheus, Grafana, Sentry, ELK Stack, Jest, PyTest, Cypress, Playwright, Figma, Notion, Confluence, Swagger, OpenAPI, Mixpanel, Google Analytics
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Hi Vaibhav | Medium | [#137](https://github.com/AxeAi/Nexara/issues/137) |
-
----
-
 ## 📌 Project: BreatheEasy
 
 📝 **Description:** BreatheEasy is an open-source project to help you monitor air quality in your area, understand pollutant levels, and get actionable health advice and improvement measures. It uses the World Air Quality Index (WAQI) API to fetch real-time AQI data and presents it in a clean, user-friendly dashboard.
@@ -1626,7 +1608,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | enhance improvement measure file code | Medium | [#95](https://github.com/prasoonk1204/BreatheEasy/pull/95) |
-| docs: add CONTRIBUTING.md and link it in README | Medium | [#94](https://github.com/prasoonk1204/BreatheEasy/pull/94) |
 
 ---
 
