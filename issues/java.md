@@ -619,6 +619,24 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
+## 📌 Project: DreamJobs-Job Portal 
+
+📝 **Description:** this project aims to bridge the gap between job seekers and employers 
+
+🔗 [View Project](https://github.com/Khushi-Nigam/jobportal)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Django
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Adding Up to top button | Medium | [#285](https://github.com/Khushi-Nigam/jobportal/issues/285) |
+
+---
+
 ## 📌 Project: Amour Editorial Website
 
 📝 **Description:** A website for amour editorial which focuses on helping students go abroad with their documentations such as personalized SOP, LOR and scholarship essays to get their admission. As well as one on one counselling to help them achieve their study abroad dreams!
@@ -685,6 +703,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding More coffee recipes | Medium | [#587](https://github.com/Mujtabaa07/coffeeShop/issues/587) |
 | Implement OpenCV Order Receipt Scanner | Medium | [#586](https://github.com/Mujtabaa07/coffeeShop/pull/586) |
 | Fix: Add Password Visibility Toggle and Update Regex to Allow | Medium | [#585](https://github.com/Mujtabaa07/coffeeShop/pull/585) |
 | feat: added dark/light theme toggle | Medium | [#584](https://github.com/Mujtabaa07/coffeeShop/pull/584) |
@@ -709,7 +728,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Move social media icons to bottom of footer | Medium | [#549](https://github.com/Mujtabaa07/coffeeShop/issues/549) |
 | (ui): make 'Edit Profile' button functional and navigable | Medium | [#537](https://github.com/Mujtabaa07/coffeeShop/issues/537) |
 | ENHANCE : the top and the cup icon enhance | Medium | [#535](https://github.com/Mujtabaa07/coffeeShop/pull/535) |
-| animation color | Medium | [#534](https://github.com/Mujtabaa07/coffeeShop/pull/534) |
 
 ---
 
@@ -753,12 +771,21 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add loading indicator during disease prediction analysis | Easy | [#729](https://github.com/omroy07/AgriTech/pull/729) |
-| fix: update footer copyright to dynamic year (2026) | Easy | [#723](https://github.com/omroy07/AgriTech/pull/723) |
-| fix: improve text contrast and accessibility on sustainable farming page | Easy | [#721](https://github.com/omroy07/AgriTech/pull/721) |
-| 📄 Issue: README Consistency, Structure & Technical Accuracy Improvements (SWoC 2026) | Medium | [#730](https://github.com/omroy07/AgriTech/issues/730) |
-| Back to top icon | Medium | [#706](https://github.com/omroy07/AgriTech/issues/706) |
-| Enhancement of Readme.md | Medium | [#682](https://github.com/omroy07/AgriTech/issues/682) |
+| <short description>Want to add license.md | Easy | [#756](https://github.com/omroy07/AgriTech/issues/756) |
+| <short description>Add Licence .md | Easy | [#735](https://github.com/omroy07/AgriTech/issues/735) |
+| Fix dark mode toggle and  alignment without affecting schemes logic | Medium | [#763](https://github.com/omroy07/AgriTech/pull/763) |
+| fix: add back button to registration page | Medium | [#762](https://github.com/omroy07/AgriTech/pull/762) |
+| feat: design back button for scheme directory page | Medium | [#761](https://github.com/omroy07/AgriTech/pull/761) |
+| feat: added dark mode with premium color palette and contrast | Medium | [#760](https://github.com/omroy07/AgriTech/pull/760) |
+| Feat/supply chain hover animation | Medium | [#759](https://github.com/omroy07/AgriTech/pull/759) |
+| feat: redesign services mega menu with 11 categorized services | Medium | [#758](https://github.com/omroy07/AgriTech/pull/758) |
+| Chat with us logo not visible on weather app interface | Medium | [#757](https://github.com/omroy07/AgriTech/issues/757) |
+| feat: implement animated count-up effect for Our Impact statistics | Medium | [#755](https://github.com/omroy07/AgriTech/pull/755) |
+| fix issue #711 - Fix UI alignment and color inconsistencies on About page | Medium | [#754](https://github.com/omroy07/AgriTech/pull/754) |
+| Add “Back to Home” navigation on Login page | Medium | [#750](https://github.com/omroy07/AgriTech/issues/750) |
+| Close icon not functioning in home page | Medium | [#739](https://github.com/omroy07/AgriTech/issues/739) |
+| Enhance the "Platform benefits section" | Medium | [#734](https://github.com/omroy07/AgriTech/issues/734) |
+| Enhanced blog page UI | Medium | [#731](https://github.com/omroy07/AgriTech/pull/731) |
 
 ---
 
@@ -2041,9 +2068,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Accessibility: WCAG AA, Keyboard Navigation, ARIA, Focus Management | Easy | [#174](https://github.com/IndieHub25/GroqTales/issues/174) |
 | Feature/mongodb resilient connection health check | Medium | [#172](https://github.com/IndieHub25/GroqTales/pull/172) |
-| BIG : Database Connection Retries and Health Check Endpoint | Medium | [#166](https://github.com/IndieHub25/GroqTales/issues/166) |
 | Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
+| [Feature] Comic Backend Structure: Models, Pages, Assets, Publish Saga, Accessibility | Hard | [#175](https://github.com/IndieHub25/GroqTales/issues/175) |
 
 ---
 
