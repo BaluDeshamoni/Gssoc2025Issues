@@ -346,6 +346,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| style: enhance button hover and focus interaction | Medium | [#1920](https://github.com/apu52/Travel_Website/pull/1920) |
 | Add Navbar | Medium | [#1919](https://github.com/apu52/Travel_Website/issues/1919) |
 | Login does not work even after successful registration | Medium | [#1918](https://github.com/apu52/Travel_Website/issues/1918) |
 | 404 Error on Services link in Top Deals section | Medium | [#1917](https://github.com/apu52/Travel_Website/issues/1917) |
@@ -771,21 +772,32 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| <short description>Want to add license.md | Easy | [#756](https://github.com/omroy07/AgriTech/issues/756) |
-| <short description>Add Licence .md | Easy | [#735](https://github.com/omroy07/AgriTech/issues/735) |
-| Fix dark mode toggle and  alignment without affecting schemes logic | Medium | [#763](https://github.com/omroy07/AgriTech/pull/763) |
-| fix: add back button to registration page | Medium | [#762](https://github.com/omroy07/AgriTech/pull/762) |
-| feat: design back button for scheme directory page | Medium | [#761](https://github.com/omroy07/AgriTech/pull/761) |
-| feat: added dark mode with premium color palette and contrast | Medium | [#760](https://github.com/omroy07/AgriTech/pull/760) |
-| Feat/supply chain hover animation | Medium | [#759](https://github.com/omroy07/AgriTech/pull/759) |
-| feat: redesign services mega menu with 11 categorized services | Medium | [#758](https://github.com/omroy07/AgriTech/pull/758) |
-| Chat with us logo not visible on weather app interface | Medium | [#757](https://github.com/omroy07/AgriTech/issues/757) |
-| feat: implement animated count-up effect for Our Impact statistics | Medium | [#755](https://github.com/omroy07/AgriTech/pull/755) |
-| fix issue #711 - Fix UI alignment and color inconsistencies on About page | Medium | [#754](https://github.com/omroy07/AgriTech/pull/754) |
-| Add “Back to Home” navigation on Login page | Medium | [#750](https://github.com/omroy07/AgriTech/issues/750) |
-| Close icon not functioning in home page | Medium | [#739](https://github.com/omroy07/AgriTech/issues/739) |
-| Enhance the "Platform benefits section" | Medium | [#734](https://github.com/omroy07/AgriTech/issues/734) |
-| Enhanced blog page UI | Medium | [#731](https://github.com/omroy07/AgriTech/pull/731) |
+| Navigation menu items missing / broken layout in desktop view in disease detector | Medium | [#817](https://github.com/omroy07/AgriTech/issues/817) |
+| Schemes option missing in mobile navigation menu | Medium | [#816](https://github.com/omroy07/AgriTech/issues/816) |
+| Modernize "Govt Schemes & Subsidy Tracker" for a Premium FinTech Aesthetic | Medium | [#815](https://github.com/omroy07/AgriTech/issues/815) |
+| Add Bouncy Hover Animation to "Find Eligible Schemes" Button | Medium | [#814](https://github.com/omroy07/AgriTech/issues/814) |
+| Add Dark Mode toggle to Govt Schemes & Subsidy Tracker page. | Medium | [#813](https://github.com/omroy07/AgriTech/issues/813) |
+| "Back to Home" button incorrectly aligned to the right in AgriBot header | Medium | [#812](https://github.com/omroy07/AgriTech/issues/812) |
+| Outdated Copyright Year in Footer | Medium | [#811](https://github.com/omroy07/AgriTech/issues/811) |
+| Implement Robust Client-Side and Server-Side Form Validation for Data Integrity and Security | Medium | [#810](https://github.com/omroy07/AgriTech/issues/810) |
+| Double Light button present | Medium | [#809](https://github.com/omroy07/AgriTech/issues/809) |
+| Handled invalid inputs consistently in backened API's | Medium | [#808](https://github.com/omroy07/AgriTech/pull/808) |
+| Improve README clarity, consistency, and onboarding | Medium | [#807](https://github.com/omroy07/AgriTech/pull/807) |
+| Improve the section | Medium | [#806](https://github.com/omroy07/AgriTech/pull/806) |
+| feat: improve accessibility with WCAG 2.1 AA compliance | Medium | [#805](https://github.com/omroy07/AgriTech/pull/805) |
+| Smart Loan Guide section stays fixed while scrolling | Medium | [#803](https://github.com/omroy07/AgriTech/issues/803) |
+| improve Dark mode feature | Medium | [#802](https://github.com/omroy07/AgriTech/issues/802) |
+| Align navbar buttons on a single line | Medium | [#801](https://github.com/omroy07/AgriTech/issues/801) |
+| Fix UI:  navbar alignment and styling issues on About page | Medium | [#800](https://github.com/omroy07/AgriTech/pull/800) |
+| Add accessible scroll-to-top button with FAB spacing | Medium | [#799](https://github.com/omroy07/AgriTech/pull/799) |
+| Redesign Farmer Connection header to match AgriTech navbar | Medium | [#798](https://github.com/omroy07/AgriTech/pull/798) |
+| Twitter bird icon outdated – should be replaced with X logo | Medium | [#797](https://github.com/omroy07/AgriTech/issues/797) |
+| Blog modal UI misalignment: Close and like icons positioning issue | Medium | [#796](https://github.com/omroy07/AgriTech/issues/796) |
+| fix(dark-mode): resolve marketplace dark mode styling issues | Medium | [#795](https://github.com/omroy07/AgriTech/pull/795) |
+| Solved issue #712 - Blog page UI issue solved | Medium | [#794](https://github.com/omroy07/AgriTech/pull/794) |
+| Improving the UI of about page. | Medium | [#793](https://github.com/omroy07/AgriTech/issues/793) |
+| Calendar Button Color Is Too Light #526 | Medium | [#792](https://github.com/omroy07/AgriTech/pull/792) |
+| feat: implement theme-adaptive hero heading and animated tech background | Medium | [#791](https://github.com/omroy07/AgriTech/pull/791) |
 
 ---
 
@@ -2068,8 +2080,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Accessibility: WCAG AA, Keyboard Navigation, ARIA, Focus Management | Easy | [#174](https://github.com/IndieHub25/GroqTales/issues/174) |
-| Feature/mongodb resilient connection health check | Medium | [#172](https://github.com/IndieHub25/GroqTales/pull/172) |
+| Story routes addition in the backend server | Medium | [#180](https://github.com/IndieHub25/GroqTales/issues/180) |
+| Fix system theme | Medium | [#179](https://github.com/IndieHub25/GroqTales/pull/179) |
+| feat: Improved accessibility with ARIA labels and focus states | Medium | [#177](https://github.com/IndieHub25/GroqTales/pull/177) |
 | Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
 | [Feature] Comic Backend Structure: Models, Pages, Assets, Publish Saga, Accessibility | Hard | [#175](https://github.com/IndieHub25/GroqTales/issues/175) |
 
@@ -2149,7 +2162,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.25.0 | Medium | [#236](https://github.com/Ojas-Arora/SapneSeSafar/pull/236) |
+| Bump framer-motion from 11.18.2 to 12.26.1 | Medium | [#238](https://github.com/Ojas-Arora/SapneSeSafar/pull/238) |
+| Bump zustand from 4.5.6 to 5.0.10 | Medium | [#237](https://github.com/Ojas-Arora/SapneSeSafar/pull/237) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.90.1 | Medium | [#234](https://github.com/Ojas-Arora/SapneSeSafar/pull/234) |
 | Bump react-router-dom from 6.28.2 to 7.12.0 | Medium | [#233](https://github.com/Ojas-Arora/SapneSeSafar/pull/233) |
 | Bump @libsql/client from 0.5.6 to 0.17.0 | Medium | [#232](https://github.com/Ojas-Arora/SapneSeSafar/pull/232) |
@@ -2165,7 +2179,6 @@ Fast Workflow Tools
 | Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
 | Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.2 | Medium | [#204](https://github.com/Ojas-Arora/SapneSeSafar/pull/204) |
-| Bump zustand from 4.5.6 to 5.0.9 | Medium | [#193](https://github.com/Ojas-Arora/SapneSeSafar/pull/193) |
 | Bump axios from 1.7.9 to 1.13.2 | Medium | [#167](https://github.com/Ojas-Arora/SapneSeSafar/pull/167) |
 | Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
