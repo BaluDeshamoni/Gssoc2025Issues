@@ -144,6 +144,7 @@
 | UPLOAD PAGE FOR DESKTOP WALLPAPERS | Easy | [#126](https://github.com/WallGodds/WallGodds-Web/issues/126) |
 | ABOUT US IN MOBILE VERSION | Easy | [#88](https://github.com/WallGodds/WallGodds-Web/issues/88) |
 | 🌱 Fix the Responsiveness of the Gallery Page | Easy | [#87](https://github.com/WallGodds/WallGodds-Web/issues/87) |
+| 🚨 IMPORTANT NOTE – PLEASE READ 🚨 | Medium | [#153](https://github.com/WallGodds/WallGodds-Web/issues/153) |
 | Implement Feedback Page for user suggestions and bug reports [Accepted and waiting for design] | Medium | [#123](https://github.com/WallGodds/WallGodds-Web/issues/123) |
 | DALL-E Integration for AI Image Generation [Accepted & Waiting for Backend Integration] | Medium | [#111](https://github.com/WallGodds/WallGodds-Web/issues/111) |
 
@@ -253,6 +254,7 @@
 | [UPLOAD PAGE] EDIT WALLPAPER POPUP | Easy | [#52](https://github.com/WallGodds/WallGodds-App/issues/52) |
 | [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/WallGodds/WallGodds-App/issues/47) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/WallGodds/WallGodds-App/issues/1) |
+| 🚨 IMPORTANT NOTE – PLEASE READ 🚨 | Medium | [#54](https://github.com/WallGodds/WallGodds-App/issues/54) |
 
 ---
 
