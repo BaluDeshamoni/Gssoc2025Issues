@@ -234,26 +234,31 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fixed responsiveness | Medium | [#3323](https://github.com/OWASP/Nest/pull/3323) |
+| Fix ChapterMap locking behavior and wide screen layout issues | Medium | [#3322](https://github.com/OWASP/Nest/pull/3322) |
+| Duplicate contributor list components in frontend | Medium | [#3321](https://github.com/OWASP/Nest/issues/3321) |
+| Inconsistent behavior of from_github() across backend models | Medium | [#3320](https://github.com/OWASP/Nest/issues/3320) |
+| Reduce duplicated form logic between ModuleForm and ProgramForm | Medium | [#3319](https://github.com/OWASP/Nest/issues/3319) |
+| fix(frontend): remove invalid turbopack config key | Medium | [#3318](https://github.com/OWASP/Nest/pull/3318) |
+| fix: hide contribution section when total is zero | Medium | [#3317](https://github.com/OWASP/Nest/pull/3317) |
+| Simplify heatmap data checks for contributions and communications | Medium | [#3315](https://github.com/OWASP/Nest/pull/3315) |
+| Hide Contribution activity when no contributions exist | Medium | [#3314](https://github.com/OWASP/Nest/pull/3314) |
+| Migrate Project recent_milestones property to M2M relation field | Medium | [#3313](https://github.com/OWASP/Nest/issues/3313) |
+| Migrate Project published_releases property to M2M relation field | Medium | [#3312](https://github.com/OWASP/Nest/issues/3312) |
+| Migrate Project pull_requests property to M2M relation field | Medium | [#3311](https://github.com/OWASP/Nest/issues/3311) |
+| Migrate Project issues property to M2M relation field | Medium | [#3310](https://github.com/OWASP/Nest/issues/3310) |
+| Fix/remove redundant non null assertions | Medium | [#3306](https://github.com/OWASP/Nest/pull/3306) |
+| fix(frontend): remove unused closeDelay prop (typescript:S6767) | Medium | [#3305](https://github.com/OWASP/Nest/pull/3305) |
+| Implement Subscription and Notification Models | Medium | [#3304](https://github.com/OWASP/Nest/issues/3304) |
+| Hide contribution section when no contributions exist | Medium | [#3303](https://github.com/OWASP/Nest/pull/3303) |
+| Refactor Resolver  Function naming | Medium | [#3299](https://github.com/OWASP/Nest/issues/3299) |
+| Add reusable Contribution Heatmap to member page for design consistency | Medium | [#3298](https://github.com/OWASP/Nest/pull/3298) |
+| Improve Module Card: Show mentors/mentee avatars & change grid to 3 columns | Medium | [#3296](https://github.com/OWASP/Nest/pull/3296) |
 | Fix brittle OWASP event date parsing and add regression tests | Medium | [#3295](https://github.com/OWASP/Nest/pull/3295) |
-| Redundant CI Actions continue running after new commits are pushed | Medium | [#3293](https://github.com/OWASP/Nest/issues/3293) |
-| CI security: Trivy image scan failures do not block staging/production deployments | Medium | [#3292](https://github.com/OWASP/Nest/issues/3292) |
 | ci: fix ignored timeout-minutes and add job-level timeouts | Medium | [#3291](https://github.com/OWASP/Nest/pull/3291) |
 | refactor: resolve implicit any errors and improve fe type safety | Medium | [#3289](https://github.com/OWASP/Nest/pull/3289) |
-| Fix inconsistent background and vertical scroll on 404 page | Medium | [#3287](https://github.com/OWASP/Nest/pull/3287) |
 | Suppress non-actionable ZAP baseline warnings for Next.js SPA | Medium | [#3284](https://github.com/OWASP/Nest/pull/3284) |
 | add comprehensive filtering to project list page | Medium | [#3281](https://github.com/OWASP/Nest/issues/3281) |
-| Hidden parts of the navbar on the screens of medium screens | Medium | [#3272](https://github.com/OWASP/Nest/issues/3272) |
-| Subtask: Subscription data model and APIs | Medium | [#3271](https://github.com/OWASP/Nest/issues/3271) |
-| Resolve TODO: Remove image block handling in slack/utils.py | Medium | [#3264](https://github.com/OWASP/Nest/issues/3264) |
-| Add per-application and inter-dependency model graphs to CI/CD | Medium | [#3257](https://github.com/OWASP/Nest/pull/3257) |
-| Redis connection handling lacks retry / health checks | Medium | [#3256](https://github.com/OWASP/Nest/issues/3256) |
-| Automate posting on socials for latest community snapshot releases | Medium | [#3252](https://github.com/OWASP/Nest/issues/3252) |
-| API cache decorator mishandles method, auth, and streaming cases | Medium | [#3249](https://github.com/OWASP/Nest/issues/3249) |
-| Display Related Milestones on Public Program View | Medium | [#3245](https://github.com/OWASP/Nest/issues/3245) |
-| Remove unused React prop `closeDelay` (Sonar rule typescript:S6767) | Medium | [#3244](https://github.com/OWASP/Nest/issues/3244) |
-| Remove redundant return statement (Sonar rule typescript:S3626) | Medium | [#3243](https://github.com/OWASP/Nest/issues/3243) |
-| Update sync process to last 365 days | Medium | [#3242](https://github.com/OWASP/Nest/pull/3242) |
-| Subtask: Snapshot Email Notification (MVP) | Medium | [#3241](https://github.com/OWASP/Nest/issues/3241) |
 
 ---
 
@@ -752,6 +757,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding More coffee recipes | Medium | [#587](https://github.com/Mujtabaa07/coffeeShop/issues/587) |
 | Implement OpenCV Order Receipt Scanner | Medium | [#586](https://github.com/Mujtabaa07/coffeeShop/pull/586) |
 | Fix: Add Password Visibility Toggle and Update Regex to Allow | Medium | [#585](https://github.com/Mujtabaa07/coffeeShop/pull/585) |
 | feat: added dark/light theme toggle | Medium | [#584](https://github.com/Mujtabaa07/coffeeShop/pull/584) |
@@ -776,7 +782,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | Move social media icons to bottom of footer | Medium | [#549](https://github.com/Mujtabaa07/coffeeShop/issues/549) |
 | (ui): make 'Edit Profile' button functional and navigable | Medium | [#537](https://github.com/Mujtabaa07/coffeeShop/issues/537) |
 | ENHANCE : the top and the cup icon enhance | Medium | [#535](https://github.com/Mujtabaa07/coffeeShop/pull/535) |
-| animation color | Medium | [#534](https://github.com/Mujtabaa07/coffeeShop/pull/534) |
 
 ---
 
@@ -1906,6 +1911,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature: Data Export to CSV / PDF | Medium | [#102](https://github.com/prasoonk1204/BreatheEasy/issues/102) |
 | enhance improvement measure file code | Medium | [#95](https://github.com/prasoonk1204/BreatheEasy/pull/95) |
 
 ---
@@ -2049,20 +2055,15 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: User Setting Frontend | Medium | [#206](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/206) |
+| feat: User Settings Backend | Medium | [#205](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/205) |
 | User Settings Frontend Page | Medium | [#198](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/198) |
 | User Settings Page Backend | Medium | [#197](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/197) |
-| feat: implement comprehensive file upload validation and security checks | Medium | [#192](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/192) |
-| feat: Add error handling and loading states to chat component | Medium | [#191](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/191) |
-| Add GitHub Workflow for Pull Request and Issue Automated Message Bot | Medium | [#190](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/190) |
-| FEATURE:  Enhance About Us Page | Medium | [#189](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/189) |
-| feat: Enhanced error handling for API failures | Medium | [#187](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/187) |
-| Indicator and valid Cached Response | Medium | [#173](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/173) |
+| FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 | Key Board Shortcuts | Medium | [#172](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/172) |
-| Type Validation of Size | Medium | [#171](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/171) |
 | Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
-| Chat Message Timestamps with Relative Time | Medium | [#169](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/169) |
-| FEATURE: Add ability to use local Ollama models | Medium | [#156](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/156) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
+| FEATURE: Dynamic Testimonial Section | Hard | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 | FEATURE: Create Page for User Profile Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
 
 ---
