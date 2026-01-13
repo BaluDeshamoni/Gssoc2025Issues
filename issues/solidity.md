@@ -46,9 +46,11 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/mongodb resilient connection health check | Medium | [#172](https://github.com/IndieHub25/GroqTales/pull/172) |
-| BIG : Database Connection Retries and Health Check Endpoint | Medium | [#166](https://github.com/IndieHub25/GroqTales/issues/166) |
+| Story routes addition in the backend server | Medium | [#180](https://github.com/IndieHub25/GroqTales/issues/180) |
+| Fix system theme | Medium | [#179](https://github.com/IndieHub25/GroqTales/pull/179) |
+| feat: Improved accessibility with ARIA labels and focus states | Medium | [#177](https://github.com/IndieHub25/GroqTales/pull/177) |
 | Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
+| [Feature] Comic Backend Structure: Models, Pages, Assets, Publish Saga, Accessibility | Hard | [#175](https://github.com/IndieHub25/GroqTales/issues/175) |
 
 ---
 
