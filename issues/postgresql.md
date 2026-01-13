@@ -117,10 +117,11 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix/scrollability of resume template editing div | Medium | [#391](https://github.com/Muneerali199/DocMagic/pull/391) |
+| Fix/cover letter generator produces no output; improved visual formatting and pdf consistency for letters | Medium | [#390](https://github.com/Muneerali199/DocMagic/pull/390) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 58 updates | Medium | [#376](https://github.com/Muneerali199/DocMagic/pull/376) |
 | Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/DocMagic/pull/363) |
 | Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/DocMagic/pull/362) |
-| Cover Letter Generator Produces No Output | Medium | [#351](https://github.com/Muneerali199/DocMagic/issues/351) |
 | Add project structure documentation | Medium | [#347](https://github.com/Muneerali199/DocMagic/issues/347) |
 | contact form implementation | Medium | [#345](https://github.com/Muneerali199/DocMagic/pull/345) |
 | Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/DocMagic/issues/331) |
@@ -131,7 +132,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/DocMagic/pull/320) |
 | fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
 | feat: prevent authenticated users from accessing auth routes | Medium | [#302](https://github.com/Muneerali199/DocMagic/pull/302) |
-| Create #1_issue-fixed | Medium | [#298](https://github.com/Muneerali199/DocMagic/pull/298) |
 
 ---
 
@@ -307,24 +307,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Add Contributing.md | Medium | [#4](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/4) |
 | update README.md | Medium | [#3](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/3) |
 | Enhance chatbot with query logging, result caching, and user authentication | Medium | [#2](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/2) |
-
----
-
-## 📌 Project: Zenjira - AI-Powered Jira Automation Platform
-
-📝 **Description:** Zenjira is a smart web app that connects with Jira to automate tasks, plan sprints, and simplify project tracking. It uses AI to help teams work faster by reducing manual work, balancing workloads, and giving clear, real-time insights all in one clean, easy-to-use dashboard.
-
-🔗 [View Project](https://github.com/Promptzy/Zenjira)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, ShadCN UI, Material UI, Redux Toolkit, React Query, Node.js, Express, Django, DRF, REST, GraphQL, Apollo, Atlassian OAuth2, JWT, BullMQ, Celery, Redis, PostgreSQL, OpenAI GPT4, LangChain, Hugging Face Transformers, n8n, Jira REST API, GitHub, GitLab, Bitbucket, Slack, Microsoft Teams, GitHub Actions, CircleCI, Jenkins, Docker, Kubernetes, EKS, GKE, Docker Swarm, Nginx, Traefik, Prometheus, Grafana, Sentry, ELK Stack, Jest, PyTest, Cypress, Playwright, Figma, Notion, Confluence, Swagger, OpenAPI, Mixpanel, Google Analytics
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Hi Vaibhav | Medium | [#137](https://github.com/AxeAi/Nexara/issues/137) |
 
 ---
 
