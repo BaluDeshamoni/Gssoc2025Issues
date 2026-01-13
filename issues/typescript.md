@@ -94,26 +94,31 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fixed responsiveness | Medium | [#3323](https://github.com/OWASP/Nest/pull/3323) |
+| Fix ChapterMap locking behavior and wide screen layout issues | Medium | [#3322](https://github.com/OWASP/Nest/pull/3322) |
+| Duplicate contributor list components in frontend | Medium | [#3321](https://github.com/OWASP/Nest/issues/3321) |
+| Inconsistent behavior of from_github() across backend models | Medium | [#3320](https://github.com/OWASP/Nest/issues/3320) |
+| Reduce duplicated form logic between ModuleForm and ProgramForm | Medium | [#3319](https://github.com/OWASP/Nest/issues/3319) |
+| fix(frontend): remove invalid turbopack config key | Medium | [#3318](https://github.com/OWASP/Nest/pull/3318) |
+| fix: hide contribution section when total is zero | Medium | [#3317](https://github.com/OWASP/Nest/pull/3317) |
+| Simplify heatmap data checks for contributions and communications | Medium | [#3315](https://github.com/OWASP/Nest/pull/3315) |
+| Hide Contribution activity when no contributions exist | Medium | [#3314](https://github.com/OWASP/Nest/pull/3314) |
+| Migrate Project recent_milestones property to M2M relation field | Medium | [#3313](https://github.com/OWASP/Nest/issues/3313) |
+| Migrate Project published_releases property to M2M relation field | Medium | [#3312](https://github.com/OWASP/Nest/issues/3312) |
+| Migrate Project pull_requests property to M2M relation field | Medium | [#3311](https://github.com/OWASP/Nest/issues/3311) |
+| Migrate Project issues property to M2M relation field | Medium | [#3310](https://github.com/OWASP/Nest/issues/3310) |
+| Fix/remove redundant non null assertions | Medium | [#3306](https://github.com/OWASP/Nest/pull/3306) |
+| fix(frontend): remove unused closeDelay prop (typescript:S6767) | Medium | [#3305](https://github.com/OWASP/Nest/pull/3305) |
+| Implement Subscription and Notification Models | Medium | [#3304](https://github.com/OWASP/Nest/issues/3304) |
+| Hide contribution section when no contributions exist | Medium | [#3303](https://github.com/OWASP/Nest/pull/3303) |
+| Refactor Resolver  Function naming | Medium | [#3299](https://github.com/OWASP/Nest/issues/3299) |
+| Add reusable Contribution Heatmap to member page for design consistency | Medium | [#3298](https://github.com/OWASP/Nest/pull/3298) |
+| Improve Module Card: Show mentors/mentee avatars & change grid to 3 columns | Medium | [#3296](https://github.com/OWASP/Nest/pull/3296) |
 | Fix brittle OWASP event date parsing and add regression tests | Medium | [#3295](https://github.com/OWASP/Nest/pull/3295) |
-| Redundant CI Actions continue running after new commits are pushed | Medium | [#3293](https://github.com/OWASP/Nest/issues/3293) |
-| CI security: Trivy image scan failures do not block staging/production deployments | Medium | [#3292](https://github.com/OWASP/Nest/issues/3292) |
 | ci: fix ignored timeout-minutes and add job-level timeouts | Medium | [#3291](https://github.com/OWASP/Nest/pull/3291) |
 | refactor: resolve implicit any errors and improve fe type safety | Medium | [#3289](https://github.com/OWASP/Nest/pull/3289) |
-| Fix inconsistent background and vertical scroll on 404 page | Medium | [#3287](https://github.com/OWASP/Nest/pull/3287) |
 | Suppress non-actionable ZAP baseline warnings for Next.js SPA | Medium | [#3284](https://github.com/OWASP/Nest/pull/3284) |
 | add comprehensive filtering to project list page | Medium | [#3281](https://github.com/OWASP/Nest/issues/3281) |
-| Hidden parts of the navbar on the screens of medium screens | Medium | [#3272](https://github.com/OWASP/Nest/issues/3272) |
-| Subtask: Subscription data model and APIs | Medium | [#3271](https://github.com/OWASP/Nest/issues/3271) |
-| Resolve TODO: Remove image block handling in slack/utils.py | Medium | [#3264](https://github.com/OWASP/Nest/issues/3264) |
-| Add per-application and inter-dependency model graphs to CI/CD | Medium | [#3257](https://github.com/OWASP/Nest/pull/3257) |
-| Redis connection handling lacks retry / health checks | Medium | [#3256](https://github.com/OWASP/Nest/issues/3256) |
-| Automate posting on socials for latest community snapshot releases | Medium | [#3252](https://github.com/OWASP/Nest/issues/3252) |
-| API cache decorator mishandles method, auth, and streaming cases | Medium | [#3249](https://github.com/OWASP/Nest/issues/3249) |
-| Display Related Milestones on Public Program View | Medium | [#3245](https://github.com/OWASP/Nest/issues/3245) |
-| Remove unused React prop `closeDelay` (Sonar rule typescript:S6767) | Medium | [#3244](https://github.com/OWASP/Nest/issues/3244) |
-| Remove redundant return statement (Sonar rule typescript:S3626) | Medium | [#3243](https://github.com/OWASP/Nest/issues/3243) |
-| Update sync process to last 365 days | Medium | [#3242](https://github.com/OWASP/Nest/pull/3242) |
-| Subtask: Snapshot Email Notification (MVP) | Medium | [#3241](https://github.com/OWASP/Nest/issues/3241) |
 
 ---
 
@@ -992,9 +997,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/mongodb resilient connection health check | Medium | [#172](https://github.com/IndieHub25/GroqTales/pull/172) |
-| BIG : Database Connection Retries and Health Check Endpoint | Medium | [#166](https://github.com/IndieHub25/GroqTales/issues/166) |
+| Story routes addition in the backend server | Medium | [#180](https://github.com/IndieHub25/GroqTales/issues/180) |
+| Fix system theme | Medium | [#179](https://github.com/IndieHub25/GroqTales/pull/179) |
+| feat: Improved accessibility with ARIA labels and focus states | Medium | [#177](https://github.com/IndieHub25/GroqTales/pull/177) |
 | Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
+| [Feature] Comic Backend Structure: Models, Pages, Assets, Publish Saga, Accessibility | Hard | [#175](https://github.com/IndieHub25/GroqTales/issues/175) |
 
 ---
 
@@ -1078,7 +1085,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.25.0 | Medium | [#236](https://github.com/Ojas-Arora/SapneSeSafar/pull/236) |
+| Bump framer-motion from 11.18.2 to 12.26.1 | Medium | [#238](https://github.com/Ojas-Arora/SapneSeSafar/pull/238) |
+| Bump zustand from 4.5.6 to 5.0.10 | Medium | [#237](https://github.com/Ojas-Arora/SapneSeSafar/pull/237) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.90.1 | Medium | [#234](https://github.com/Ojas-Arora/SapneSeSafar/pull/234) |
 | Bump react-router-dom from 6.28.2 to 7.12.0 | Medium | [#233](https://github.com/Ojas-Arora/SapneSeSafar/pull/233) |
 | Bump @libsql/client from 0.5.6 to 0.17.0 | Medium | [#232](https://github.com/Ojas-Arora/SapneSeSafar/pull/232) |
@@ -1094,7 +1102,6 @@ Fast Workflow Tools
 | Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
 | Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.2 | Medium | [#204](https://github.com/Ojas-Arora/SapneSeSafar/pull/204) |
-| Bump zustand from 4.5.6 to 5.0.9 | Medium | [#193](https://github.com/Ojas-Arora/SapneSeSafar/pull/193) |
 | Bump axios from 1.7.9 to 1.13.2 | Medium | [#167](https://github.com/Ojas-Arora/SapneSeSafar/pull/167) |
 | Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
