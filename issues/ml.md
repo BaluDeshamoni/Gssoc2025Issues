@@ -133,6 +133,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix typo in README | Medium | [#1045](https://github.com/opensource-society/notesvault/pull/1045) |
 | Fix download issue | Medium | [#1043](https://github.com/opensource-society/notesvault/pull/1043) |
 
 ---
@@ -458,6 +459,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Footer improvement needed on book now page under packages | Medium | [#1922](https://github.com/apu52/Travel_Website/issues/1922) |
+| UI Enhancement | Medium | [#1921](https://github.com/apu52/Travel_Website/issues/1921) |
+| style: enhance button hover and focus interaction | Medium | [#1920](https://github.com/apu52/Travel_Website/pull/1920) |
 | Add Navbar | Medium | [#1919](https://github.com/apu52/Travel_Website/issues/1919) |
 | Login does not work even after successful registration | Medium | [#1918](https://github.com/apu52/Travel_Website/issues/1918) |
 | 404 Error on Services link in Top Deals section | Medium | [#1917](https://github.com/apu52/Travel_Website/issues/1917) |
@@ -485,8 +489,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | fix: resolve scroll hijacking at carousel section | Medium | [#1895](https://github.com/apu52/Travel_Website/pull/1895) |
 | Updated the text content overflow on blog content | Medium | [#1894](https://github.com/apu52/Travel_Website/pull/1894) |
 | fix: images not displaying in trip cards | Medium | [#1893](https://github.com/apu52/Travel_Website/pull/1893) |
-| Packages page missing theme toggle, inconsistent nav/scrollbar & oversized carousel arrow hover | Medium | [#1892](https://github.com/apu52/Travel_Website/issues/1892) |
-| About page theme toggle not applied, tab spacing inconsistent & growth cards show pointer | Medium | [#1891](https://github.com/apu52/Travel_Website/issues/1891) |
 
 ---
 
@@ -722,6 +724,24 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
+## 📌 Project: DreamJobs-Job Portal 
+
+📝 **Description:** this project aims to bridge the gap between job seekers and employers 
+
+🔗 [View Project](https://github.com/Khushi-Nigam/jobportal)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Django
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Adding Up to top button | Medium | [#285](https://github.com/Khushi-Nigam/jobportal/issues/285) |
+
+---
+
 ## 📌 Project: Amour Editorial Website
 
 📝 **Description:** A website for amour editorial which focuses on helping students go abroad with their documentations such as personalized SOP, LOR and scholarship essays to get their admission. As well as one on one counselling to help them achieve their study abroad dreams!
@@ -788,6 +808,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding More coffee recipes | Medium | [#587](https://github.com/Mujtabaa07/coffeeShop/issues/587) |
 | Implement OpenCV Order Receipt Scanner | Medium | [#586](https://github.com/Mujtabaa07/coffeeShop/pull/586) |
 | Fix: Add Password Visibility Toggle and Update Regex to Allow | Medium | [#585](https://github.com/Mujtabaa07/coffeeShop/pull/585) |
 | feat: added dark/light theme toggle | Medium | [#584](https://github.com/Mujtabaa07/coffeeShop/pull/584) |
@@ -812,7 +833,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Move social media icons to bottom of footer | Medium | [#549](https://github.com/Mujtabaa07/coffeeShop/issues/549) |
 | (ui): make 'Edit Profile' button functional and navigable | Medium | [#537](https://github.com/Mujtabaa07/coffeeShop/issues/537) |
 | ENHANCE : the top and the cup icon enhance | Medium | [#535](https://github.com/Mujtabaa07/coffeeShop/pull/535) |
-| animation color | Medium | [#534](https://github.com/Mujtabaa07/coffeeShop/pull/534) |
 
 ---
 
@@ -830,29 +850,24 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Search bar is non-functional on About Us page | Medium | [#693](https://github.com/omroy07/AgriTech/issues/693) |
-| Backend crashes when Gemini API returns an empty response | Medium | [#692](https://github.com/omroy07/AgriTech/issues/692) |
-| Login and Register buttons cut off on navbar | Medium | [#691](https://github.com/omroy07/AgriTech/issues/691) |
-| Oversized Fixed Navbar & Poor Content Visibility on Disease Page | Medium | [#690](https://github.com/omroy07/AgriTech/issues/690) |
-| Weather Page Missing Navigation & Chatbot Widget Icon | Medium | [#689](https://github.com/omroy07/AgriTech/issues/689) |
-| Dashboard Layout Breaks on Mobile Devices | Medium | [#688](https://github.com/omroy07/AgriTech/issues/688) |
-| UI and layout inconsistencies across authentication pages | Medium | [#687](https://github.com/omroy07/AgriTech/issues/687) |
-| Contact Page Lacks Navigation & Dark Mode Visibility Problems | Medium | [#686](https://github.com/omroy07/AgriTech/issues/686) |
-| Fix overlapping elements and responsiveness issues on homepage | Medium | [#685](https://github.com/omroy07/AgriTech/pull/685) |
-| Enhancement of Readme.md | Medium | [#682](https://github.com/omroy07/AgriTech/issues/682) |
-| feat: make footer year dynamic | Medium | [#679](https://github.com/omroy07/AgriTech/pull/679) |
-| Improve scheme cards UI layout and spacing | Medium | [#678](https://github.com/omroy07/AgriTech/pull/678) |
-| Fix feedback page navbar and Back to Home UX | Medium | [#676](https://github.com/omroy07/AgriTech/pull/676) |
-| Fix Theme Toggle Button on Marketplace Page | Medium | [#675](https://github.com/omroy07/AgriTech/pull/675) |
-| Fix CTA text contrast in Smart Crop Monitoring page | Medium | [#674](https://github.com/omroy07/AgriTech/pull/674) |
-| Refine footer spacing and help button contrast on feedback page | Medium | [#673](https://github.com/omroy07/AgriTech/pull/673) |
-| Fix overlapping category cards on Marketplace page | Medium | [#672](https://github.com/omroy07/AgriTech/pull/672) |
-| Fix settings panel styles in light mode | Medium | [#671](https://github.com/omroy07/AgriTech/pull/671) |
-| Fix layout & visual inconsistencies on Sustainable Farming page | Medium | [#670](https://github.com/omroy07/AgriTech/pull/670) |
-| Improper alignment in about us | Medium | [#669](https://github.com/omroy07/AgriTech/issues/669) |
-| Fix Settings Panel UI for Light Mode crop page | Medium | [#668](https://github.com/omroy07/AgriTech/pull/668) |
-| fix(ui): Improve Category Card Accessibility and Layout | Medium | [#667](https://github.com/omroy07/AgriTech/pull/667) |
-| Add cart button and hook into cart widget | Medium | [#665](https://github.com/omroy07/AgriTech/pull/665) |
+| Improve README.md: Add Table Of Content, Production Note, API Key Guide, Issue Reporting, License, FAQ | Easy | [#849](https://github.com/omroy07/AgriTech/issues/849) |
+| Feat/subsidy tracker interactive upgrades | Easy | [#833](https://github.com/omroy07/AgriTech/pull/833) |
+| Feat/scheme dark mode toggle | Easy | [#832](https://github.com/omroy07/AgriTech/pull/832) |
+| Fixed Disease detector page | Easy | [#829](https://github.com/omroy07/AgriTech/pull/829) |
+| Fix: replace Twitter icon with X logo | Easy | [#826](https://github.com/omroy07/AgriTech/pull/826) |
+| Language selector behaviour for smart loan guide has been clarified #744 | Medium | [#858](https://github.com/omroy07/AgriTech/pull/858) |
+| Footer on Finance Support page looks empty and lacks structure | Medium | [#857](https://github.com/omroy07/AgriTech/issues/857) |
+| Redundant navigation buttons and inconsistent header layout on Subsidy Tracker page | Medium | [#856](https://github.com/omroy07/AgriTech/issues/856) |
+| Missing navigation links between index.html and other pages (main.html, diseases.html, yield.html, etc.) | Medium | [#855](https://github.com/omroy07/AgriTech/issues/855) |
+| Twitter icon enhancement at footer | Medium | [#854](https://github.com/omroy07/AgriTech/pull/854) |
+| Fix: mobile menu cross button | Medium | [#853](https://github.com/omroy07/AgriTech/pull/853) |
+| not exists cross (❌) or back button at login page | Medium | [#852](https://github.com/omroy07/AgriTech/issues/852) |
+| docs: improve README with TOC, API key guide, FAQ and license(#849) | Medium | [#851](https://github.com/omroy07/AgriTech/pull/851) |
+| Fix: User gets logged out when navigating between pages | Medium | [#850](https://github.com/omroy07/AgriTech/pull/850) |
+| Fix genai import error by using google-generativeai package | Medium | [#848](https://github.com/omroy07/AgriTech/pull/848) |
+| ImportError: cannot import name 'genai' from 'google' while running app.py | Medium | [#847](https://github.com/omroy07/AgriTech/issues/847) |
+| Dark mode toggle shows alert but does not apply dark theme | Medium | [#846](https://github.com/omroy07/AgriTech/issues/846) |
+| Cart panel does not open on click and item count increases unexpectedly on cart click | Medium | [#845](https://github.com/omroy07/AgriTech/issues/845) |
 
 ---
 
@@ -1176,6 +1191,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create security.md file | Easy | [#637](https://github.com/eccentriccoder01/TalkHeal/issues/637) |
 | Typo in the word "Exercise" on the website | Easy | [#636](https://github.com/eccentriccoder01/TalkHeal/issues/636) |
 | Fix low color contrast to meet WCAG accessibility standards | Medium | [#634](https://github.com/eccentriccoder01/TalkHeal/issues/634) |
 | Use context managers for all SQLite database connections | Medium | [#632](https://github.com/eccentriccoder01/TalkHeal/issues/632) |
@@ -1270,7 +1286,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | chore: bump @typescript-eslint/parser from 8.46.2 to 8.51.0 | Medium | [#1252](https://github.com/recodehive/recode-website/pull/1252) |
 | chore: bump lucide-react from 0.503.0 to 0.562.0 | Medium | [#1251](https://github.com/recodehive/recode-website/pull/1251) |
 | chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.51.0 | Medium | [#1250](https://github.com/recodehive/recode-website/pull/1250) |
-| chore: bump framer-motion from 12.23.24 to 12.23.26 | Medium | [#1249](https://github.com/recodehive/recode-website/pull/1249) |
 
 ---
 
