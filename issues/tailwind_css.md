@@ -234,15 +234,19 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement command to detect non-compliant project levels and update score calculation | Medium | [#3340](https://github.com/OWASP/Nest/pull/3340) |
+| Fix SonarQube warning: signal handler defined as instance method without self | Medium | [#3338](https://github.com/OWASP/Nest/issues/3338) |
+| Sonar S1186: Empty ResizeObserver methods should be justified or implemented | Medium | [#3337](https://github.com/OWASP/Nest/issues/3337) |
+| Sonar S6035: Replace single-character regex alternation with character class | Medium | [#3336](https://github.com/OWASP/Nest/issues/3336) |
+| Update sync process to last 365 days | Medium | [#3335](https://github.com/OWASP/Nest/pull/3335) |
+| Add tests and checks for `cache` and `database` module | Medium | [#3333](https://github.com/OWASP/Nest/pull/3333) |
+| fix: adjust navbar breakpoints to lg to prevent overflow #3272 | Medium | [#3324](https://github.com/OWASP/Nest/pull/3324) |
 | fixed responsiveness | Medium | [#3323](https://github.com/OWASP/Nest/pull/3323) |
 | Fix ChapterMap locking behavior and wide screen layout issues | Medium | [#3322](https://github.com/OWASP/Nest/pull/3322) |
 | Duplicate contributor list components in frontend | Medium | [#3321](https://github.com/OWASP/Nest/issues/3321) |
 | Inconsistent behavior of from_github() across backend models | Medium | [#3320](https://github.com/OWASP/Nest/issues/3320) |
 | Reduce duplicated form logic between ModuleForm and ProgramForm | Medium | [#3319](https://github.com/OWASP/Nest/issues/3319) |
 | fix(frontend): remove invalid turbopack config key | Medium | [#3318](https://github.com/OWASP/Nest/pull/3318) |
-| fix: hide contribution section when total is zero | Medium | [#3317](https://github.com/OWASP/Nest/pull/3317) |
-| Simplify heatmap data checks for contributions and communications | Medium | [#3315](https://github.com/OWASP/Nest/pull/3315) |
-| Hide Contribution activity when no contributions exist | Medium | [#3314](https://github.com/OWASP/Nest/pull/3314) |
 | Migrate Project recent_milestones property to M2M relation field | Medium | [#3313](https://github.com/OWASP/Nest/issues/3313) |
 | Migrate Project published_releases property to M2M relation field | Medium | [#3312](https://github.com/OWASP/Nest/issues/3312) |
 | Migrate Project pull_requests property to M2M relation field | Medium | [#3311](https://github.com/OWASP/Nest/issues/3311) |
@@ -250,15 +254,11 @@ Accessibility features like dark mode,white.
 | Fix/remove redundant non null assertions | Medium | [#3306](https://github.com/OWASP/Nest/pull/3306) |
 | fix(frontend): remove unused closeDelay prop (typescript:S6767) | Medium | [#3305](https://github.com/OWASP/Nest/pull/3305) |
 | Implement Subscription and Notification Models | Medium | [#3304](https://github.com/OWASP/Nest/issues/3304) |
-| Hide contribution section when no contributions exist | Medium | [#3303](https://github.com/OWASP/Nest/pull/3303) |
 | Refactor Resolver  Function naming | Medium | [#3299](https://github.com/OWASP/Nest/issues/3299) |
 | Add reusable Contribution Heatmap to member page for design consistency | Medium | [#3298](https://github.com/OWASP/Nest/pull/3298) |
 | Improve Module Card: Show mentors/mentee avatars & change grid to 3 columns | Medium | [#3296](https://github.com/OWASP/Nest/pull/3296) |
-| Fix brittle OWASP event date parsing and add regression tests | Medium | [#3295](https://github.com/OWASP/Nest/pull/3295) |
-| ci: fix ignored timeout-minutes and add job-level timeouts | Medium | [#3291](https://github.com/OWASP/Nest/pull/3291) |
-| refactor: resolve implicit any errors and improve fe type safety | Medium | [#3289](https://github.com/OWASP/Nest/pull/3289) |
-| Suppress non-actionable ZAP baseline warnings for Next.js SPA | Medium | [#3284](https://github.com/OWASP/Nest/pull/3284) |
 | add comprehensive filtering to project list page | Medium | [#3281](https://github.com/OWASP/Nest/issues/3281) |
+| CI reliability: Fix ignored timeout-minutes and add job-level timeouts to high-risk workflows | Medium | [#3279](https://github.com/OWASP/Nest/issues/3279) |
 
 ---
 
@@ -1706,6 +1706,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix React Server Components CVE vulnerabilities | Medium | [#8](https://github.com/Ayushhgupta39/natively-ui/pull/8) |
 | Move to Top Button Added | Medium | [#7](https://github.com/Ayushhgupta39/natively-ui/pull/7) |
 | Dark and Light Theme Toggle Button with Functionality | Medium | [#5](https://github.com/Ayushhgupta39/natively-ui/issues/5) |
 
@@ -1911,7 +1912,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Data Export to CSV / PDF | Medium | [#102](https://github.com/prasoonk1204/BreatheEasy/issues/102) |
+| Landing page redesign | Medium | [#104](https://github.com/prasoonk1204/BreatheEasy/pull/104) |
 | enhance improvement measure file code | Medium | [#95](https://github.com/prasoonk1204/BreatheEasy/pull/95) |
 
 ---
@@ -2055,16 +2056,15 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: User Setting Frontend | Medium | [#206](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/206) |
-| feat: User Settings Backend | Medium | [#205](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/205) |
-| User Settings Frontend Page | Medium | [#198](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/198) |
-| User Settings Page Backend | Medium | [#197](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/197) |
+| OTHER: Remove unused mobile menu state logic from HomePage | Medium | [#218](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/218) |
+| FEATURE:  Automated Unassignment of Inactive Contributors | Medium | [#216](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/216) |
+| Automate PR labeling and author assignment ,issue-link reminders using GitHub Actions | Medium | [#215](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/215) |
+| feat: Model Info | Medium | [#213](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/213) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
-| Key Board Shortcuts | Medium | [#172](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/172) |
-| Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
+| FEATURE: Key Board Shortcuts | Medium | [#172](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/172) |
+| FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
 | FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 | FEATURE: Dynamic Testimonial Section | Hard | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
-| FEATURE: Create Page for User Profile Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
 
 ---
 
