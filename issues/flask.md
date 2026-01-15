@@ -205,24 +205,26 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve README.md: Add Table Of Content, Production Note, API Key Guide, Issue Reporting, License, FAQ | Easy | [#849](https://github.com/omroy07/AgriTech/issues/849) |
-| Feat/subsidy tracker interactive upgrades | Easy | [#833](https://github.com/omroy07/AgriTech/pull/833) |
-| Feat/scheme dark mode toggle | Easy | [#832](https://github.com/omroy07/AgriTech/pull/832) |
-| Fixed Disease detector page | Easy | [#829](https://github.com/omroy07/AgriTech/pull/829) |
-| Fix: replace Twitter icon with X logo | Easy | [#826](https://github.com/omroy07/AgriTech/pull/826) |
-| Language selector behaviour for smart loan guide has been clarified #744 | Medium | [#858](https://github.com/omroy07/AgriTech/pull/858) |
-| Footer on Finance Support page looks empty and lacks structure | Medium | [#857](https://github.com/omroy07/AgriTech/issues/857) |
-| Redundant navigation buttons and inconsistent header layout on Subsidy Tracker page | Medium | [#856](https://github.com/omroy07/AgriTech/issues/856) |
-| Missing navigation links between index.html and other pages (main.html, diseases.html, yield.html, etc.) | Medium | [#855](https://github.com/omroy07/AgriTech/issues/855) |
+| Fix: Consolidate Favorites page into a single source of truth | Easy | [#863](https://github.com/omroy07/AgriTech/pull/863) |
+| Add Masthead Page to Showcase Project Overview, Team, and Contributors | Medium | [#896](https://github.com/omroy07/AgriTech/issues/896) |
+| Add Sitemap Page for Better Project Navigation and Contributor Onboarding | Medium | [#895](https://github.com/omroy07/AgriTech/issues/895) |
+| UI & Functionality Issues on Plant Disease Detection Page | Medium | [#894](https://github.com/omroy07/AgriTech/issues/894) |
+| Footer Layout Issue: Crop Calendar Page Footer Is Inconsistent | Medium | [#893](https://github.com/omroy07/AgriTech/issues/893) |
+| UI/UX Enhancement: Careers Page Needs Modern Styling & Interactions | Medium | [#892](https://github.com/omroy07/AgriTech/issues/892) |
+| Fix blog tabs functionality and clean up UI inconsistencies | Medium | [#891](https://github.com/omroy07/AgriTech/pull/891) |
+| Improve Footer Layout and Add Icons for Better Visual Consistency | Medium | [#890](https://github.com/omroy07/AgriTech/pull/890) |
+| Duplicate navigation bar displayed on About page with incorrect spacing | Medium | [#889](https://github.com/omroy07/AgriTech/issues/889) |
+| Fix About Page Search, Improve Dark Mode Logic, and Update Footer Visibility | Medium | [#888](https://github.com/omroy07/AgriTech/pull/888) |
+| Fix crop recommendation results rendering after form submission | Medium | [#887](https://github.com/omroy07/AgriTech/pull/887) |
+| UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#886](https://github.com/omroy07/AgriTech/issues/886) |
+| UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#885](https://github.com/omroy07/AgriTech/issues/885) |
+| Fix About Page Navbar, Hamburger, and Theme Toggle Issues | Medium | [#877](https://github.com/omroy07/AgriTech/pull/877) |
+| Implement deterministic auto-resheduling for farming roadmap | Medium | [#876](https://github.com/omroy07/AgriTech/pull/876) |
+| Navbar UI breaks - duplicated header and stacked menu items | Medium | [#874](https://github.com/omroy07/AgriTech/issues/874) |
+| Refactor footer markup to remove duplication and improve structural hierarchy | Medium | [#871](https://github.com/omroy07/AgriTech/pull/871) |
+| Enhancement: Add keyboard navigation & ARIA labels to Favorites | Medium | [#870](https://github.com/omroy07/AgriTech/pull/870) |
+| Redesign navbar for better usability and consistency | Medium | [#865](https://github.com/omroy07/AgriTech/issues/865) |
 | Twitter icon enhancement at footer | Medium | [#854](https://github.com/omroy07/AgriTech/pull/854) |
-| Fix: mobile menu cross button | Medium | [#853](https://github.com/omroy07/AgriTech/pull/853) |
-| not exists cross (❌) or back button at login page | Medium | [#852](https://github.com/omroy07/AgriTech/issues/852) |
-| docs: improve README with TOC, API key guide, FAQ and license(#849) | Medium | [#851](https://github.com/omroy07/AgriTech/pull/851) |
-| Fix: User gets logged out when navigating between pages | Medium | [#850](https://github.com/omroy07/AgriTech/pull/850) |
-| Fix genai import error by using google-generativeai package | Medium | [#848](https://github.com/omroy07/AgriTech/pull/848) |
-| ImportError: cannot import name 'genai' from 'google' while running app.py | Medium | [#847](https://github.com/omroy07/AgriTech/issues/847) |
-| Dark mode toggle shows alert but does not apply dark theme | Medium | [#846](https://github.com/omroy07/AgriTech/issues/846) |
-| Cart panel does not open on click and item count increases unexpectedly on cart click | Medium | [#845](https://github.com/omroy07/AgriTech/issues/845) |
 
 ---
 
@@ -386,14 +388,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| FEATURE: Add Contact Us Page | Medium | [#221](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/221) |
+| FEATURE: Sign In and Sign Out Button | Medium | [#220](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/220) |
 | OTHER: Remove unused mobile menu state logic from HomePage | Medium | [#218](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/218) |
-| FEATURE:  Automated Unassignment of Inactive Contributors | Medium | [#216](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/216) |
-| Automate PR labeling and author assignment ,issue-link reminders using GitHub Actions | Medium | [#215](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/215) |
-| feat: Model Info | Medium | [#213](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/213) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
-| FEATURE: Key Board Shortcuts | Medium | [#172](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/172) |
 | FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
-| FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 | FEATURE: Dynamic Testimonial Section | Hard | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 
 ---
