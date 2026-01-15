@@ -234,12 +234,20 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| refactor: enhance type safety across core frontend components | Medium | [#3359](https://github.com/OWASP/Nest/pull/3359) |
+| Add docstrings to model mixin methods | Medium | [#3358](https://github.com/OWASP/Nest/issues/3358) |
+| fix(frontend): remove aria-hidden from focusable canvas element | Medium | [#3357](https://github.com/OWASP/Nest/pull/3357) |
+| Detect OWASP project level non-compliance and adjust health scores | Medium | [#3354](https://github.com/OWASP/Nest/pull/3354) |
+| Simplify regex to reduce Sonar complexity while preserving behavior | Medium | [#3349](https://github.com/OWASP/Nest/pull/3349) |
+| Fix Stale Data Persistence in Mentorship Portal (Cache Invalidation) | Medium | [#3348](https://github.com/OWASP/Nest/issues/3348) |
+| feat(frontend): add PostHog analytics for staging and production | Medium | [#3344](https://github.com/OWASP/Nest/pull/3344) |
+| Limit visible Roadmap & Timeline items on About page | Medium | [#3343](https://github.com/OWASP/Nest/pull/3343) |
+| Refactor: Simplify regex to reduce its complexity | Medium | [#3342](https://github.com/OWASP/Nest/issues/3342) |
 | Implement command to detect non-compliant project levels and update score calculation | Medium | [#3340](https://github.com/OWASP/Nest/pull/3340) |
 | Fix SonarQube warning: signal handler defined as instance method without self | Medium | [#3338](https://github.com/OWASP/Nest/issues/3338) |
 | Sonar S1186: Empty ResizeObserver methods should be justified or implemented | Medium | [#3337](https://github.com/OWASP/Nest/issues/3337) |
 | Sonar S6035: Replace single-character regex alternation with character class | Medium | [#3336](https://github.com/OWASP/Nest/issues/3336) |
 | Update sync process to last 365 days | Medium | [#3335](https://github.com/OWASP/Nest/pull/3335) |
-| Add tests and checks for `cache` and `database` module | Medium | [#3333](https://github.com/OWASP/Nest/pull/3333) |
 | fix: adjust navbar breakpoints to lg to prevent overflow #3272 | Medium | [#3324](https://github.com/OWASP/Nest/pull/3324) |
 | fixed responsiveness | Medium | [#3323](https://github.com/OWASP/Nest/pull/3323) |
 | Fix ChapterMap locking behavior and wide screen layout issues | Medium | [#3322](https://github.com/OWASP/Nest/pull/3322) |
@@ -254,11 +262,6 @@ Accessibility features like dark mode,white.
 | Fix/remove redundant non null assertions | Medium | [#3306](https://github.com/OWASP/Nest/pull/3306) |
 | fix(frontend): remove unused closeDelay prop (typescript:S6767) | Medium | [#3305](https://github.com/OWASP/Nest/pull/3305) |
 | Implement Subscription and Notification Models | Medium | [#3304](https://github.com/OWASP/Nest/issues/3304) |
-| Refactor Resolver  Function naming | Medium | [#3299](https://github.com/OWASP/Nest/issues/3299) |
-| Add reusable Contribution Heatmap to member page for design consistency | Medium | [#3298](https://github.com/OWASP/Nest/pull/3298) |
-| Improve Module Card: Show mentors/mentee avatars & change grid to 3 columns | Medium | [#3296](https://github.com/OWASP/Nest/pull/3296) |
-| add comprehensive filtering to project list page | Medium | [#3281](https://github.com/OWASP/Nest/issues/3281) |
-| CI reliability: Fix ignored timeout-minutes and add job-level timeouts to high-risk workflows | Medium | [#3279](https://github.com/OWASP/Nest/issues/3279) |
 
 ---
 
@@ -290,7 +293,6 @@ Accessibility features like dark mode,white.
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
-| 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
@@ -1912,7 +1914,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Landing page redesign | Medium | [#104](https://github.com/prasoonk1204/BreatheEasy/pull/104) |
+| Add AQI export to CSV/PDF | Medium | [#109](https://github.com/prasoonk1204/BreatheEasy/pull/109) |
 | enhance improvement measure file code | Medium | [#95](https://github.com/prasoonk1204/BreatheEasy/pull/95) |
 
 ---
@@ -2056,14 +2058,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| FEATURE: Add Contact Us Page | Medium | [#221](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/221) |
+| FEATURE: Sign In and Sign Out Button | Medium | [#220](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/220) |
 | OTHER: Remove unused mobile menu state logic from HomePage | Medium | [#218](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/218) |
-| FEATURE:  Automated Unassignment of Inactive Contributors | Medium | [#216](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/216) |
-| Automate PR labeling and author assignment ,issue-link reminders using GitHub Actions | Medium | [#215](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/215) |
-| feat: Model Info | Medium | [#213](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/213) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
-| FEATURE: Key Board Shortcuts | Medium | [#172](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/172) |
 | FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
-| FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
 | FEATURE: Dynamic Testimonial Section | Hard | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 
 ---
@@ -2112,7 +2111,9 @@ Fast Workflow Tools
 | Event Analytics Dashboard (Organizer View) | Easy | [#799](https://github.com/SandeepVashishtha/Eventra/issues/799) |
 | Feature Enhancement: Add Chatbot to Eventra Platform | Easy | [#702](https://github.com/SandeepVashishtha/Eventra/issues/702) |
 | Contact Form Validation: Name, Message and Subject Fields Accept Insufficient (Single-Character) and Non-Descriptive Inputs | Easy | [#681](https://github.com/SandeepVashishtha/Eventra/issues/681) |
+| Filter section is inconsistent in dark mode; some text not visible | Medium | [#599](https://github.com/SandeepVashishtha/Eventra/issues/599) |
 | emoji not aligned | Medium | [#542](https://github.com/SandeepVashishtha/Eventra/issues/542) |
+| Enhance UI of “Create your first event” section | Medium | [#410](https://github.com/SandeepVashishtha/Eventra/issues/410) |
 
 ---
 
