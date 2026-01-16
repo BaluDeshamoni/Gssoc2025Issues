@@ -205,26 +205,29 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Consolidate Favorites page into a single source of truth | Easy | [#863](https://github.com/omroy07/AgriTech/pull/863) |
-| Add Masthead Page to Showcase Project Overview, Team, and Contributors | Medium | [#896](https://github.com/omroy07/AgriTech/issues/896) |
+| Fix/contact dropdown theme | Easy | [#902](https://github.com/omroy07/AgriTech/pull/902) |
+| Fixed read more modal not opening for last 2 posts | Medium | [#912](https://github.com/omroy07/AgriTech/pull/912) |
+| Fix: Theme toggle not working due to JavaScript runtime error | Medium | [#911](https://github.com/omroy07/AgriTech/pull/911) |
+| Added User Blog Posting Feature to AgriTech Blog Section | Medium | [#910](https://github.com/omroy07/AgriTech/pull/910) |
+| Smart Field Analytics: Precision Agriculture Dashboard with GIS & NDVI | Medium | [#909](https://github.com/omroy07/AgriTech/issues/909) |
+| Fix: Improve card and text visibility in dark mode on Marketplace page | Medium | [#908](https://github.com/omroy07/AgriTech/pull/908) |
+| Fix: Theme Toggle Consistency Across Pages | Medium | [#907](https://github.com/omroy07/AgriTech/pull/907) |
+| <short description>Fix the footer | Medium | [#906](https://github.com/omroy07/AgriTech/issues/906) |
+| Services Drop Down Menu does not work | Medium | [#905](https://github.com/omroy07/AgriTech/issues/905) |
+| Social media buttons do not redirect to their respective pages. | Medium | [#904](https://github.com/omroy07/AgriTech/issues/904) |
+| About Page Navbar, Hamburger, and Theme Toggle Issues | Medium | [#899](https://github.com/omroy07/AgriTech/issues/899) |
+| BUG: Home page theme toggle not working | Medium | [#898](https://github.com/omroy07/AgriTech/issues/898) |
 | Add Sitemap Page for Better Project Navigation and Contributor Onboarding | Medium | [#895](https://github.com/omroy07/AgriTech/issues/895) |
 | UI & Functionality Issues on Plant Disease Detection Page | Medium | [#894](https://github.com/omroy07/AgriTech/issues/894) |
 | Footer Layout Issue: Crop Calendar Page Footer Is Inconsistent | Medium | [#893](https://github.com/omroy07/AgriTech/issues/893) |
 | UI/UX Enhancement: Careers Page Needs Modern Styling & Interactions | Medium | [#892](https://github.com/omroy07/AgriTech/issues/892) |
-| Fix blog tabs functionality and clean up UI inconsistencies | Medium | [#891](https://github.com/omroy07/AgriTech/pull/891) |
-| Improve Footer Layout and Add Icons for Better Visual Consistency | Medium | [#890](https://github.com/omroy07/AgriTech/pull/890) |
 | Duplicate navigation bar displayed on About page with incorrect spacing | Medium | [#889](https://github.com/omroy07/AgriTech/issues/889) |
-| Fix About Page Search, Improve Dark Mode Logic, and Update Footer Visibility | Medium | [#888](https://github.com/omroy07/AgriTech/pull/888) |
-| Fix crop recommendation results rendering after form submission | Medium | [#887](https://github.com/omroy07/AgriTech/pull/887) |
 | UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#886](https://github.com/omroy07/AgriTech/issues/886) |
 | UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#885](https://github.com/omroy07/AgriTech/issues/885) |
 | Fix About Page Navbar, Hamburger, and Theme Toggle Issues | Medium | [#877](https://github.com/omroy07/AgriTech/pull/877) |
-| Implement deterministic auto-resheduling for farming roadmap | Medium | [#876](https://github.com/omroy07/AgriTech/pull/876) |
 | Navbar UI breaks - duplicated header and stacked menu items | Medium | [#874](https://github.com/omroy07/AgriTech/issues/874) |
-| Refactor footer markup to remove duplication and improve structural hierarchy | Medium | [#871](https://github.com/omroy07/AgriTech/pull/871) |
 | Enhancement: Add keyboard navigation & ARIA labels to Favorites | Medium | [#870](https://github.com/omroy07/AgriTech/pull/870) |
 | Redesign navbar for better usability and consistency | Medium | [#865](https://github.com/omroy07/AgriTech/issues/865) |
-| Twitter icon enhancement at footer | Medium | [#854](https://github.com/omroy07/AgriTech/pull/854) |
 
 ---
 
@@ -388,36 +391,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| FEATURE: Add Career page | Medium | [#223](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/223) |
+| feat: add keyboard shortcuts for common actions | Medium | [#222](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/222) |
 | FEATURE: Add Contact Us Page | Medium | [#221](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/221) |
-| FEATURE: Sign In and Sign Out Button | Medium | [#220](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/220) |
 | OTHER: Remove unused mobile menu state logic from HomePage | Medium | [#218](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/218) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 | FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
 | FEATURE: Dynamic Testimonial Section | Hard | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
-
----
-
-## 📌 Project: Factshare
-
-📝 **Description:** Engineered an AI-powered fact-checking platform that achieved 92% accuracy in misinformation detection using
- 
- Gemini APIs for claim analysis and image text extraction. Integrated Google Fact Check API for real-time news validation
- 
- and a version-controlled credibility tracking system. Enhanced engagement with a chatbot delivering live, verifiable news links.
- 
- Enabled a 30% boost in verification participation through a community-driven voting system.
-
-🔗 [View Project](https://github.com/Saathviga9605/Factshare)
-
-💻 **Tech Stack:** React, Flask, MongoDB, Gemini API, Google Search Fact Check API
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Registration Form UI Overflow Bug + Improvements | Medium | [#6](https://github.com/Saathviga9605/FactShare/pull/6) |
 
 ---
 
