@@ -45,6 +45,7 @@
 |----------|----------------|---------|
 | 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| feat: Add GitHub workflow for auto-closing duplicate issues | Medium | [#1349](https://github.com/Code-A2Z/code-a2z/pull/1349) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
@@ -57,7 +58,6 @@
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
-| 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
@@ -144,6 +144,7 @@
 | UPLOAD PAGE FOR DESKTOP WALLPAPERS | Easy | [#126](https://github.com/WallGodds/WallGodds-Web/issues/126) |
 | ABOUT US IN MOBILE VERSION | Easy | [#88](https://github.com/WallGodds/WallGodds-Web/issues/88) |
 | 🌱 Fix the Responsiveness of the Gallery Page | Easy | [#87](https://github.com/WallGodds/WallGodds-Web/issues/87) |
+| Bug Report: Ui bug in gallery page | Medium | [#154](https://github.com/WallGodds/WallGodds-Web/issues/154) |
 | 🚨 IMPORTANT NOTE – PLEASE READ 🚨 | Medium | [#153](https://github.com/WallGodds/WallGodds-Web/issues/153) |
 | Implement Feedback Page for user suggestions and bug reports [Accepted and waiting for design] | Medium | [#123](https://github.com/WallGodds/WallGodds-Web/issues/123) |
 | DALL-E Integration for AI Image Generation [Accepted & Waiting for Backend Integration] | Medium | [#111](https://github.com/WallGodds/WallGodds-Web/issues/111) |
@@ -420,22 +421,22 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a workflow to remove Assigned member based on label | Easy | [#95](https://github.com/Loop-Hive/ScheduleX/issues/95) |
-| Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
-| Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
-| Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
-| fix: prevent duplicate subject creation when Save is tapped rapidly(#106) | Medium | [#152](https://github.com/Loop-Hive/ScheduleX/pull/152) |
-| Improve sidebar UI | Medium | [#151](https://github.com/Loop-Hive/ScheduleX/pull/151) |
-| Fix dropdown overflow | Medium | [#149](https://github.com/Loop-Hive/ScheduleX/pull/149) |
-| made UI changes in the settings page | Medium | [#148](https://github.com/Loop-Hive/ScheduleX/pull/148) |
-| Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/Loop-Hive/ScheduleX/pull/147) |
-| Create Docker Setup for the App | Medium | [#124](https://github.com/Loop-Hive/ScheduleX/issues/124) |
-| Tab Memorization | Medium | [#108](https://github.com/Loop-Hive/ScheduleX/issues/108) |
-| Everyday Select Option to Add Multiple Slots | Medium | [#107](https://github.com/Loop-Hive/ScheduleX/issues/107) |
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/Loop-Hive/ScheduleX/issues/98) |
-| Expo setup and Documentation | Medium | [#96](https://github.com/Loop-Hive/ScheduleX/issues/96) |
-| Export tasks as pdf | Medium | [#10](https://github.com/Loop-Hive/ScheduleX/issues/10) |
-| Cloud sync through Google Drive | Hard | [#14](https://github.com/Loop-Hive/ScheduleX/issues/14) |
+| Add a workflow to remove Assigned member based on label | Easy | [#95](https://github.com/OpenVibes/RollcallAi/issues/95) |
+| Shorten the paragraph for PR template | Easy | [#91](https://github.com/OpenVibes/RollcallAi/issues/91) |
+| Fix welcome workflow | Easy | [#90](https://github.com/OpenVibes/RollcallAi/issues/90) |
+| Account and Settings Page | Easy | [#7](https://github.com/OpenVibes/RollcallAi/issues/7) |
+| fix: prevent duplicate subject creation when Save is tapped rapidly(#106) | Medium | [#152](https://github.com/OpenVibes/RollcallAi/pull/152) |
+| Improve sidebar UI | Medium | [#151](https://github.com/OpenVibes/RollcallAi/pull/151) |
+| Fix dropdown overflow | Medium | [#149](https://github.com/OpenVibes/RollcallAi/pull/149) |
+| made UI changes in the settings page | Medium | [#148](https://github.com/OpenVibes/RollcallAi/pull/148) |
+| Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/OpenVibes/RollcallAi/pull/147) |
+| Create Docker Setup for the App | Medium | [#124](https://github.com/OpenVibes/RollcallAi/issues/124) |
+| Tab Memorization | Medium | [#108](https://github.com/OpenVibes/RollcallAi/issues/108) |
+| Everyday Select Option to Add Multiple Slots | Medium | [#107](https://github.com/OpenVibes/RollcallAi/issues/107) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/OpenVibes/RollcallAi/issues/98) |
+| Expo setup and Documentation | Medium | [#96](https://github.com/OpenVibes/RollcallAi/issues/96) |
+| Export tasks as pdf | Medium | [#10](https://github.com/OpenVibes/RollcallAi/issues/10) |
+| Cloud sync through Google Drive | Hard | [#14](https://github.com/OpenVibes/RollcallAi/issues/14) |
 
 ---
 
