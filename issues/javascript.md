@@ -346,6 +346,12 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Website Takes Too Long to Load / Performance Delay on Initial Load | Medium | [#1926](https://github.com/apu52/Travel_Website/issues/1926) |
+| Hero Section UI Overlap and Text Alignment Issues on Homepage | Medium | [#1925](https://github.com/apu52/Travel_Website/issues/1925) |
+| Add new UI sections (Testimonials / FAQ / Newsletter / Destination Details) | Medium | [#1924](https://github.com/apu52/Travel_Website/issues/1924) |
+| Add scroll to top button & i18n languages | Medium | [#1923](https://github.com/apu52/Travel_Website/issues/1923) |
+| Footer improvement needed on book now page under packages | Medium | [#1922](https://github.com/apu52/Travel_Website/issues/1922) |
+| UI Enhancement | Medium | [#1921](https://github.com/apu52/Travel_Website/issues/1921) |
 | style: enhance button hover and focus interaction | Medium | [#1920](https://github.com/apu52/Travel_Website/pull/1920) |
 | Add Navbar | Medium | [#1919](https://github.com/apu52/Travel_Website/issues/1919) |
 | Login does not work even after successful registration | Medium | [#1918](https://github.com/apu52/Travel_Website/issues/1918) |
@@ -370,12 +376,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | UI/UX Redesign for E-book Gallery | Medium | [#1899](https://github.com/apu52/Travel_Website/issues/1899) |
 | Update the UI of Top Deals Page Cards | Medium | [#1898](https://github.com/apu52/Travel_Website/issues/1898) |
 | feat: Improve spacing between stat cards on homepage UI | Medium | [#1897](https://github.com/apu52/Travel_Website/pull/1897) |
-| fix: feedback form UI improve | Medium | [#1896](https://github.com/apu52/Travel_Website/pull/1896) |
-| fix: resolve scroll hijacking at carousel section | Medium | [#1895](https://github.com/apu52/Travel_Website/pull/1895) |
-| Updated the text content overflow on blog content | Medium | [#1894](https://github.com/apu52/Travel_Website/pull/1894) |
-| fix: images not displaying in trip cards | Medium | [#1893](https://github.com/apu52/Travel_Website/pull/1893) |
-| Packages page missing theme toggle, inconsistent nav/scrollbar & oversized carousel arrow hover | Medium | [#1892](https://github.com/apu52/Travel_Website/issues/1892) |
-| About page theme toggle not applied, tab spacing inconsistent & growth cards show pointer | Medium | [#1891](https://github.com/apu52/Travel_Website/issues/1891) |
 
 ---
 
@@ -465,6 +465,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| README Enhancement: Add Firebase Setup & Deployment Instructions | Medium | [#124](https://github.com/Dipanita45/HEALCONNECT/issues/124) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -772,32 +773,29 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Navigation menu items missing / broken layout in desktop view in disease detector | Medium | [#817](https://github.com/omroy07/AgriTech/issues/817) |
-| Schemes option missing in mobile navigation menu | Medium | [#816](https://github.com/omroy07/AgriTech/issues/816) |
-| Modernize "Govt Schemes & Subsidy Tracker" for a Premium FinTech Aesthetic | Medium | [#815](https://github.com/omroy07/AgriTech/issues/815) |
-| Add Bouncy Hover Animation to "Find Eligible Schemes" Button | Medium | [#814](https://github.com/omroy07/AgriTech/issues/814) |
-| Add Dark Mode toggle to Govt Schemes & Subsidy Tracker page. | Medium | [#813](https://github.com/omroy07/AgriTech/issues/813) |
-| "Back to Home" button incorrectly aligned to the right in AgriBot header | Medium | [#812](https://github.com/omroy07/AgriTech/issues/812) |
-| Outdated Copyright Year in Footer | Medium | [#811](https://github.com/omroy07/AgriTech/issues/811) |
-| Implement Robust Client-Side and Server-Side Form Validation for Data Integrity and Security | Medium | [#810](https://github.com/omroy07/AgriTech/issues/810) |
-| Double Light button present | Medium | [#809](https://github.com/omroy07/AgriTech/issues/809) |
-| Handled invalid inputs consistently in backened API's | Medium | [#808](https://github.com/omroy07/AgriTech/pull/808) |
-| Improve README clarity, consistency, and onboarding | Medium | [#807](https://github.com/omroy07/AgriTech/pull/807) |
-| Improve the section | Medium | [#806](https://github.com/omroy07/AgriTech/pull/806) |
-| feat: improve accessibility with WCAG 2.1 AA compliance | Medium | [#805](https://github.com/omroy07/AgriTech/pull/805) |
-| Smart Loan Guide section stays fixed while scrolling | Medium | [#803](https://github.com/omroy07/AgriTech/issues/803) |
-| improve Dark mode feature | Medium | [#802](https://github.com/omroy07/AgriTech/issues/802) |
-| Align navbar buttons on a single line | Medium | [#801](https://github.com/omroy07/AgriTech/issues/801) |
-| Fix UI:  navbar alignment and styling issues on About page | Medium | [#800](https://github.com/omroy07/AgriTech/pull/800) |
-| Add accessible scroll-to-top button with FAB spacing | Medium | [#799](https://github.com/omroy07/AgriTech/pull/799) |
-| Redesign Farmer Connection header to match AgriTech navbar | Medium | [#798](https://github.com/omroy07/AgriTech/pull/798) |
-| Twitter bird icon outdated – should be replaced with X logo | Medium | [#797](https://github.com/omroy07/AgriTech/issues/797) |
-| Blog modal UI misalignment: Close and like icons positioning issue | Medium | [#796](https://github.com/omroy07/AgriTech/issues/796) |
-| fix(dark-mode): resolve marketplace dark mode styling issues | Medium | [#795](https://github.com/omroy07/AgriTech/pull/795) |
-| Solved issue #712 - Blog page UI issue solved | Medium | [#794](https://github.com/omroy07/AgriTech/pull/794) |
-| Improving the UI of about page. | Medium | [#793](https://github.com/omroy07/AgriTech/issues/793) |
-| Calendar Button Color Is Too Light #526 | Medium | [#792](https://github.com/omroy07/AgriTech/pull/792) |
-| feat: implement theme-adaptive hero heading and animated tech background | Medium | [#791](https://github.com/omroy07/AgriTech/pull/791) |
+| Fix/contact dropdown theme | Easy | [#902](https://github.com/omroy07/AgriTech/pull/902) |
+| Fixed read more modal not opening for last 2 posts | Medium | [#912](https://github.com/omroy07/AgriTech/pull/912) |
+| Fix: Theme toggle not working due to JavaScript runtime error | Medium | [#911](https://github.com/omroy07/AgriTech/pull/911) |
+| Added User Blog Posting Feature to AgriTech Blog Section | Medium | [#910](https://github.com/omroy07/AgriTech/pull/910) |
+| Smart Field Analytics: Precision Agriculture Dashboard with GIS & NDVI | Medium | [#909](https://github.com/omroy07/AgriTech/issues/909) |
+| Fix: Improve card and text visibility in dark mode on Marketplace page | Medium | [#908](https://github.com/omroy07/AgriTech/pull/908) |
+| Fix: Theme Toggle Consistency Across Pages | Medium | [#907](https://github.com/omroy07/AgriTech/pull/907) |
+| <short description>Fix the footer | Medium | [#906](https://github.com/omroy07/AgriTech/issues/906) |
+| Services Drop Down Menu does not work | Medium | [#905](https://github.com/omroy07/AgriTech/issues/905) |
+| Social media buttons do not redirect to their respective pages. | Medium | [#904](https://github.com/omroy07/AgriTech/issues/904) |
+| About Page Navbar, Hamburger, and Theme Toggle Issues | Medium | [#899](https://github.com/omroy07/AgriTech/issues/899) |
+| BUG: Home page theme toggle not working | Medium | [#898](https://github.com/omroy07/AgriTech/issues/898) |
+| Add Sitemap Page for Better Project Navigation and Contributor Onboarding | Medium | [#895](https://github.com/omroy07/AgriTech/issues/895) |
+| UI & Functionality Issues on Plant Disease Detection Page | Medium | [#894](https://github.com/omroy07/AgriTech/issues/894) |
+| Footer Layout Issue: Crop Calendar Page Footer Is Inconsistent | Medium | [#893](https://github.com/omroy07/AgriTech/issues/893) |
+| UI/UX Enhancement: Careers Page Needs Modern Styling & Interactions | Medium | [#892](https://github.com/omroy07/AgriTech/issues/892) |
+| Duplicate navigation bar displayed on About page with incorrect spacing | Medium | [#889](https://github.com/omroy07/AgriTech/issues/889) |
+| UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#886](https://github.com/omroy07/AgriTech/issues/886) |
+| UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#885](https://github.com/omroy07/AgriTech/issues/885) |
+| Fix About Page Navbar, Hamburger, and Theme Toggle Issues | Medium | [#877](https://github.com/omroy07/AgriTech/pull/877) |
+| Navbar UI breaks - duplicated header and stacked menu items | Medium | [#874](https://github.com/omroy07/AgriTech/issues/874) |
+| Enhancement: Add keyboard navigation & ARIA labels to Favorites | Medium | [#870](https://github.com/omroy07/AgriTech/pull/870) |
+| Redesign navbar for better usability and consistency | Medium | [#865](https://github.com/omroy07/AgriTech/issues/865) |
 
 ---
 
@@ -1157,10 +1155,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |----------|----------------|---------|
 | chore: bump prettier from 3.6.2 to 3.7.4 | Easy | [#1248](https://github.com/recodehive/recode-website/pull/1248) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump @typescript-eslint/parser from 8.46.2 to 8.51.0 | Medium | [#1252](https://github.com/recodehive/recode-website/pull/1252) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.53.0 | Medium | [#1259](https://github.com/recodehive/recode-website/pull/1259) |
+| chore: bump @typescript-eslint/parser from 8.46.2 to 8.53.0 | Medium | [#1258](https://github.com/recodehive/recode-website/pull/1258) |
+| chore: bump react and @types/react | Medium | [#1257](https://github.com/recodehive/recode-website/pull/1257) |
 | chore: bump lucide-react from 0.503.0 to 0.562.0 | Medium | [#1251](https://github.com/recodehive/recode-website/pull/1251) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.51.0 | Medium | [#1250](https://github.com/recodehive/recode-website/pull/1250) |
-| chore: bump framer-motion from 12.23.24 to 12.23.26 | Medium | [#1249](https://github.com/recodehive/recode-website/pull/1249) |
 
 ---
 
@@ -2005,11 +2003,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Story routes addition in the backend server | Medium | [#180](https://github.com/IndieHub25/GroqTales/issues/180) |
-| Fix system theme | Medium | [#179](https://github.com/IndieHub25/GroqTales/pull/179) |
-| feat: Improved accessibility with ARIA labels and focus states | Medium | [#177](https://github.com/IndieHub25/GroqTales/pull/177) |
-| Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
-| [Feature] Comic Backend Structure: Models, Pages, Assets, Publish Saga, Accessibility | Hard | [#175](https://github.com/IndieHub25/GroqTales/issues/175) |
+| Updating Story Routes | Medium | [#181](https://github.com/IndieHub25/GroqTales/pull/181) |
 
 ---
 
@@ -2087,7 +2081,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.26.1 | Medium | [#238](https://github.com/Ojas-Arora/SapneSeSafar/pull/238) |
+| Bump framer-motion from 11.18.2 to 12.26.2 | Medium | [#239](https://github.com/Ojas-Arora/SapneSeSafar/pull/239) |
 | Bump zustand from 4.5.6 to 5.0.10 | Medium | [#237](https://github.com/Ojas-Arora/SapneSeSafar/pull/237) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.90.1 | Medium | [#234](https://github.com/Ojas-Arora/SapneSeSafar/pull/234) |
 | Bump react-router-dom from 6.28.2 to 7.12.0 | Medium | [#233](https://github.com/Ojas-Arora/SapneSeSafar/pull/233) |
