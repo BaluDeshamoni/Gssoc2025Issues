@@ -211,14 +211,19 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| refactor: enhance type safety across core frontend components | Medium | [#3359](https://github.com/OWASP/Nest/pull/3359) |
+| Use Lambda SnapStart and optimize Zappa package | Easy | [#3381](https://github.com/OWASP/Nest/pull/3381) |
+| Disable module date selection outside program duration | Medium | [#3382](https://github.com/OWASP/Nest/issues/3382) |
+| Show related PRs on public module view page | Medium | [#3380](https://github.com/OWASP/Nest/issues/3380) |
+| Oversized page titles on mobile push critical content below the fold | Medium | [#3374](https://github.com/OWASP/Nest/issues/3374) |
+| Tablet view (~768px) still uses single-column layout on list pages | Medium | [#3372](https://github.com/OWASP/Nest/issues/3372) |
+| Enforce number type for date formatter utilities | Medium | [#3371](https://github.com/OWASP/Nest/issues/3371) |
+| Issues list is not responsive on small screens | Medium | [#3367](https://github.com/OWASP/Nest/issues/3367) |
+| Redundant tooltip on View on GitHub and empty Labels section shows no message | Medium | [#3366](https://github.com/OWASP/Nest/issues/3366) |
+| Show Deadline Status on Issues List & Add Deadline Filters in Mentorship Module | Medium | [#3365](https://github.com/OWASP/Nest/issues/3365) |
 | Add docstrings to model mixin methods | Medium | [#3358](https://github.com/OWASP/Nest/issues/3358) |
-| fix(frontend): remove aria-hidden from focusable canvas element | Medium | [#3357](https://github.com/OWASP/Nest/pull/3357) |
 | Detect OWASP project level non-compliance and adjust health scores | Medium | [#3354](https://github.com/OWASP/Nest/pull/3354) |
 | Simplify regex to reduce Sonar complexity while preserving behavior | Medium | [#3349](https://github.com/OWASP/Nest/pull/3349) |
-| Fix Stale Data Persistence in Mentorship Portal (Cache Invalidation) | Medium | [#3348](https://github.com/OWASP/Nest/issues/3348) |
 | feat(frontend): add PostHog analytics for staging and production | Medium | [#3344](https://github.com/OWASP/Nest/pull/3344) |
-| Limit visible Roadmap & Timeline items on About page | Medium | [#3343](https://github.com/OWASP/Nest/pull/3343) |
 | Refactor: Simplify regex to reduce its complexity | Medium | [#3342](https://github.com/OWASP/Nest/issues/3342) |
 | Implement command to detect non-compliant project levels and update score calculation | Medium | [#3340](https://github.com/OWASP/Nest/pull/3340) |
 | Fix SonarQube warning: signal handler defined as instance method without self | Medium | [#3338](https://github.com/OWASP/Nest/issues/3338) |
@@ -230,15 +235,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Fix ChapterMap locking behavior and wide screen layout issues | Medium | [#3322](https://github.com/OWASP/Nest/pull/3322) |
 | Duplicate contributor list components in frontend | Medium | [#3321](https://github.com/OWASP/Nest/issues/3321) |
 | Inconsistent behavior of from_github() across backend models | Medium | [#3320](https://github.com/OWASP/Nest/issues/3320) |
-| Reduce duplicated form logic between ModuleForm and ProgramForm | Medium | [#3319](https://github.com/OWASP/Nest/issues/3319) |
-| fix(frontend): remove invalid turbopack config key | Medium | [#3318](https://github.com/OWASP/Nest/pull/3318) |
-| Migrate Project recent_milestones property to M2M relation field | Medium | [#3313](https://github.com/OWASP/Nest/issues/3313) |
-| Migrate Project published_releases property to M2M relation field | Medium | [#3312](https://github.com/OWASP/Nest/issues/3312) |
-| Migrate Project pull_requests property to M2M relation field | Medium | [#3311](https://github.com/OWASP/Nest/issues/3311) |
-| Migrate Project issues property to M2M relation field | Medium | [#3310](https://github.com/OWASP/Nest/issues/3310) |
-| Fix/remove redundant non null assertions | Medium | [#3306](https://github.com/OWASP/Nest/pull/3306) |
-| fix(frontend): remove unused closeDelay prop (typescript:S6767) | Medium | [#3305](https://github.com/OWASP/Nest/pull/3305) |
-| Implement Subscription and Notification Models | Medium | [#3304](https://github.com/OWASP/Nest/issues/3304) |
 
 ---
 
@@ -291,7 +287,10 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
-| <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| Add Error Boundary to Web App | Medium | [#248](https://github.com/Devasy/splitwiser/pull/248) |
+| enhance: Add error boundary with retry mechanism | Medium | [#247](https://github.com/Devasy/splitwiser/pull/247) |
+| Add Global Error Boundary with Retry Mechanism | Medium | [#246](https://github.com/Devasy/splitwiser/pull/246) |
+| enhance: Add global error boundary with retry and theme support | Medium | [#245](https://github.com/Devasy/splitwiser/pull/245) |
 | Add global Error Boundary with dual-theme support | Medium | [#244](https://github.com/Devasy/splitwiser/pull/244) |
 | Add Global Error Boundary with Retry Mechanism | Medium | [#243](https://github.com/Devasy/splitwiser/pull/243) |
 | Add Global Error Boundary with dual-theme support | Medium | [#242](https://github.com/Devasy/splitwiser/pull/242) |
@@ -305,8 +304,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
-| Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
-| Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
 
 ---
 
@@ -414,7 +411,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Pending issues | Medium | [#42](https://github.com/kanikaa-3018/contest_onlinejudge/issues/42) |
 | added the toggle button for light and dark theme change | Medium | [#41](https://github.com/kanikaa-3018/contest_onlinejudge/pull/41) |
 | Peer Room Chat + Collaboration | Medium | [#40](https://github.com/kanikaa-3018/contest_onlinejudge/issues/40) |
-| fix: Dark/Light Mode Toggle Implementation | Medium | [#39](https://github.com/kanikaa-3018/contest_onlinejudge/pull/39) |
 | improvement needed in dashboard section | Medium | [#38](https://github.com/kanikaa-3018/contest_onlinejudge/issues/38) |
 | Hovering & Button Text Visibility Bug in Peer Rooms Cards | Medium | [#37](https://github.com/kanikaa-3018/contest_onlinejudge/issues/37) |
 | Enhance Login & Register UI with Social Login, Password UX, and Modern Design | Medium | [#36](https://github.com/kanikaa-3018/contest_onlinejudge/issues/36) |
@@ -576,26 +572,33 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Consolidate Favorites page into a single source of truth | Easy | [#863](https://github.com/omroy07/AgriTech/pull/863) |
-| Add Masthead Page to Showcase Project Overview, Team, and Contributors | Medium | [#896](https://github.com/omroy07/AgriTech/issues/896) |
-| Add Sitemap Page for Better Project Navigation and Contributor Onboarding | Medium | [#895](https://github.com/omroy07/AgriTech/issues/895) |
-| UI & Functionality Issues on Plant Disease Detection Page | Medium | [#894](https://github.com/omroy07/AgriTech/issues/894) |
-| Footer Layout Issue: Crop Calendar Page Footer Is Inconsistent | Medium | [#893](https://github.com/omroy07/AgriTech/issues/893) |
-| UI/UX Enhancement: Careers Page Needs Modern Styling & Interactions | Medium | [#892](https://github.com/omroy07/AgriTech/issues/892) |
-| Fix blog tabs functionality and clean up UI inconsistencies | Medium | [#891](https://github.com/omroy07/AgriTech/pull/891) |
-| Improve Footer Layout and Add Icons for Better Visual Consistency | Medium | [#890](https://github.com/omroy07/AgriTech/pull/890) |
-| Duplicate navigation bar displayed on About page with incorrect spacing | Medium | [#889](https://github.com/omroy07/AgriTech/issues/889) |
-| Fix About Page Search, Improve Dark Mode Logic, and Update Footer Visibility | Medium | [#888](https://github.com/omroy07/AgriTech/pull/888) |
-| Fix crop recommendation results rendering after form submission | Medium | [#887](https://github.com/omroy07/AgriTech/pull/887) |
-| UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#886](https://github.com/omroy07/AgriTech/issues/886) |
-| UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#885](https://github.com/omroy07/AgriTech/issues/885) |
-| Fix About Page Navbar, Hamburger, and Theme Toggle Issues | Medium | [#877](https://github.com/omroy07/AgriTech/pull/877) |
-| Implement deterministic auto-resheduling for farming roadmap | Medium | [#876](https://github.com/omroy07/AgriTech/pull/876) |
-| Navbar UI breaks - duplicated header and stacked menu items | Medium | [#874](https://github.com/omroy07/AgriTech/issues/874) |
-| Refactor footer markup to remove duplication and improve structural hierarchy | Medium | [#871](https://github.com/omroy07/AgriTech/pull/871) |
-| Enhancement: Add keyboard navigation & ARIA labels to Favorites | Medium | [#870](https://github.com/omroy07/AgriTech/pull/870) |
-| Redesign navbar for better usability and consistency | Medium | [#865](https://github.com/omroy07/AgriTech/issues/865) |
-| Twitter icon enhancement at footer | Medium | [#854](https://github.com/omroy07/AgriTech/pull/854) |
+| Done Back home & Footer perfact | Easy | [#918](https://github.com/omroy07/AgriTech/pull/918) |
+| feat: add empty-state UI for blogs, marketplace, and predictions | Easy | [#917](https://github.com/omroy07/AgriTech/pull/917) |
+| feat: redesign navbar with improved layout and theme toggle fix | Easy | [#914](https://github.com/omroy07/AgriTech/pull/914) |
+| Added User Blog Posting Feature to AgriTech Blog Section | Easy | [#910](https://github.com/omroy07/AgriTech/pull/910) |
+| Navbar broken on Schemes page & Dark Mode toggle not working which was previously working | Medium | [#948](https://github.com/omroy07/AgriTech/issues/948) |
+| Refactor Input Validation using Marshmallow Schemas | Medium | [#947](https://github.com/omroy07/AgriTech/issues/947) |
+| Replace Print Statements with Structured Logging System | Medium | [#946](https://github.com/omroy07/AgriTech/issues/946) |
+| Implement Rate Limiting to Protect AI Endpoints | Medium | [#945](https://github.com/omroy07/AgriTech/issues/945) |
+| Fix UI: Add missing footer and redesign price tracker layout | Medium | [#944](https://github.com/omroy07/AgriTech/pull/944) |
+| Remove committed .bak backup files from repository | Medium | [#943](https://github.com/omroy07/AgriTech/issues/943) |
+| Duplicate folders and implementations for Crop & Disease Prediction causing project structure confusion | Medium | [#942](https://github.com/omroy07/AgriTech/issues/942) |
+| Feat: Add Country-Wise Filter to Crop Calendar | Medium | [#941](https://github.com/omroy07/AgriTech/pull/941) |
+| Refactor Navbar & Footer UI for Consistent Layout and Theme Support | Medium | [#940](https://github.com/omroy07/AgriTech/pull/940) |
+| Fix: Crop Recommendation analysis yields no output (dummy data implementation) | Medium | [#939](https://github.com/omroy07/AgriTech/pull/939) |
+| feat: redesign plantation page with tab-based navigation | Medium | [#938](https://github.com/omroy07/AgriTech/pull/938) |
+| add mit license to the project | Medium | [#937](https://github.com/omroy07/AgriTech/pull/937) |
+| Footer Setup Done of Gov | Medium | [#936](https://github.com/omroy07/AgriTech/pull/936) |
+| Inconsistent UI/UX across the pages and propose page-wise standardization | Medium | [#935](https://github.com/omroy07/AgriTech/issues/935) |
+| Automate labelling and closure of issues | Medium | [#934](https://github.com/omroy07/AgriTech/pull/934) |
+| Fix the “Back to Home” Button on AgriBot Chat Page | Medium | [#933](https://github.com/omroy07/AgriTech/issues/933) |
+| fix: synchronize theme toggle and implement premium adaptive navigation on Contact page | Medium | [#932](https://github.com/omroy07/AgriTech/pull/932) |
+| Replace API Error with Rule-Based Fallback Response in AgriBot Chat | Medium | [#931](https://github.com/omroy07/AgriTech/issues/931) |
+| Fix Footer Year Showing Hardcoded Value | Medium | [#930](https://github.com/omroy07/AgriTech/issues/930) |
+| Fix: Added missing scheme data for 5 states | Medium | [#929](https://github.com/omroy07/AgriTech/pull/929) |
+| Disease Predictor page layout is broken (Navbar, Logo, and Main Content not working properly) | Medium | [#928](https://github.com/omroy07/AgriTech/issues/928) |
+| Now the UI & UX of Organic Page is Done | Medium | [#927](https://github.com/omroy07/AgriTech/pull/927) |
+| Center align content in “Our Platform Benefits” section on Landing Page | Medium | [#926](https://github.com/omroy07/AgriTech/issues/926) |
 
 ---
 
@@ -828,6 +831,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 |----------|----------------|---------|
 | Create security.md file | Easy | [#637](https://github.com/eccentriccoder01/TalkHeal/issues/637) |
 | Typo in the word "Exercise" on the website | Easy | [#636](https://github.com/eccentriccoder01/TalkHeal/issues/636) |
+| Add Mermaid.js system architecture and data flow diagrams | Medium | [#641](https://github.com/eccentriccoder01/TalkHeal/issues/641) |
 | Cursor trail that matches theme | Medium | [#640](https://github.com/eccentriccoder01/TalkHeal/issues/640) |
 | Add i18n support | Medium | [#639](https://github.com/eccentriccoder01/TalkHeal/issues/639) |
 |  | Medium | [#638](https://github.com/eccentriccoder01/TalkHeal/issues/638) |
@@ -1571,7 +1575,12 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
+| Modern, professional UI revamp for Profile page | Easy | [#190](https://github.com/IndieHub25/GroqTales/issues/190) |
+| Fix wallet login flow and protect Create button behind authentication | Medium | [#186](https://github.com/IndieHub25/GroqTales/pull/186) |
+| Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
+| Implement real account settings with backend‑connected profile and email/Google authentication | Hard | [#188](https://github.com/IndieHub25/GroqTales/issues/188) |
+| Implement real-time user profile view instead of static example profile | Hard | [#187](https://github.com/IndieHub25/GroqTales/issues/187) |
+| BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
 ---
 
@@ -1739,8 +1748,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Add Contact Us Page | Medium | [#221](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/221) |
-| FEATURE: Sign In and Sign Out Button | Medium | [#220](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/220) |
+| feat: Sign In/Out | Medium | [#224](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/224) |
+| FEATURE: Add Career page | Medium | [#223](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/223) |
+| feat: add keyboard shortcuts for common actions | Medium | [#222](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/222) |
 | OTHER: Remove unused mobile menu state logic from HomePage | Medium | [#218](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/218) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 | FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
