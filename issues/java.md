@@ -346,6 +346,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Website Takes Too Long to Load / Performance Delay on Initial Load | Medium | [#1926](https://github.com/apu52/Travel_Website/issues/1926) |
+| Hero Section UI Overlap and Text Alignment Issues on Homepage | Medium | [#1925](https://github.com/apu52/Travel_Website/issues/1925) |
 | Add new UI sections (Testimonials / FAQ / Newsletter / Destination Details) | Medium | [#1924](https://github.com/apu52/Travel_Website/issues/1924) |
 | Add scroll to top button & i18n languages | Medium | [#1923](https://github.com/apu52/Travel_Website/issues/1923) |
 | Footer improvement needed on book now page under packages | Medium | [#1922](https://github.com/apu52/Travel_Website/issues/1922) |
@@ -374,8 +376,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | UI/UX Redesign for E-book Gallery | Medium | [#1899](https://github.com/apu52/Travel_Website/issues/1899) |
 | Update the UI of Top Deals Page Cards | Medium | [#1898](https://github.com/apu52/Travel_Website/issues/1898) |
 | feat: Improve spacing between stat cards on homepage UI | Medium | [#1897](https://github.com/apu52/Travel_Website/pull/1897) |
-| fix: feedback form UI improve | Medium | [#1896](https://github.com/apu52/Travel_Website/pull/1896) |
-| fix: resolve scroll hijacking at carousel section | Medium | [#1895](https://github.com/apu52/Travel_Website/pull/1895) |
 
 ---
 
@@ -465,6 +465,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance README structure and resolve backend documentation conflicts | Medium | [#129](https://github.com/Dipanita45/HEALCONNECT/issues/129) |
+| Add standardized Pull Request template for SWOC '26 | Medium | [#128](https://github.com/Dipanita45/HEALCONNECT/issues/128) |
+| Scroll to top button | Medium | [#127](https://github.com/Dipanita45/HEALCONNECT/pull/127) |
+| README Enhancement: Add Firebase Setup & Deployment Instructions | Medium | [#124](https://github.com/Dipanita45/HEALCONNECT/issues/124) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -605,7 +609,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Pending issues | Medium | [#42](https://github.com/kanikaa-3018/contest_onlinejudge/issues/42) |
 | added the toggle button for light and dark theme change | Medium | [#41](https://github.com/kanikaa-3018/contest_onlinejudge/pull/41) |
 | Peer Room Chat + Collaboration | Medium | [#40](https://github.com/kanikaa-3018/contest_onlinejudge/issues/40) |
-| fix: Dark/Light Mode Toggle Implementation | Medium | [#39](https://github.com/kanikaa-3018/contest_onlinejudge/pull/39) |
 | improvement needed in dashboard section | Medium | [#38](https://github.com/kanikaa-3018/contest_onlinejudge/issues/38) |
 | Hovering & Button Text Visibility Bug in Peer Rooms Cards | Medium | [#37](https://github.com/kanikaa-3018/contest_onlinejudge/issues/37) |
 | Enhance Login & Register UI with Social Login, Password UX, and Modern Design | Medium | [#36](https://github.com/kanikaa-3018/contest_onlinejudge/issues/36) |
@@ -772,26 +775,33 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Consolidate Favorites page into a single source of truth | Easy | [#863](https://github.com/omroy07/AgriTech/pull/863) |
-| Add Masthead Page to Showcase Project Overview, Team, and Contributors | Medium | [#896](https://github.com/omroy07/AgriTech/issues/896) |
-| Add Sitemap Page for Better Project Navigation and Contributor Onboarding | Medium | [#895](https://github.com/omroy07/AgriTech/issues/895) |
-| UI & Functionality Issues on Plant Disease Detection Page | Medium | [#894](https://github.com/omroy07/AgriTech/issues/894) |
-| Footer Layout Issue: Crop Calendar Page Footer Is Inconsistent | Medium | [#893](https://github.com/omroy07/AgriTech/issues/893) |
-| UI/UX Enhancement: Careers Page Needs Modern Styling & Interactions | Medium | [#892](https://github.com/omroy07/AgriTech/issues/892) |
-| Fix blog tabs functionality and clean up UI inconsistencies | Medium | [#891](https://github.com/omroy07/AgriTech/pull/891) |
-| Improve Footer Layout and Add Icons for Better Visual Consistency | Medium | [#890](https://github.com/omroy07/AgriTech/pull/890) |
-| Duplicate navigation bar displayed on About page with incorrect spacing | Medium | [#889](https://github.com/omroy07/AgriTech/issues/889) |
-| Fix About Page Search, Improve Dark Mode Logic, and Update Footer Visibility | Medium | [#888](https://github.com/omroy07/AgriTech/pull/888) |
-| Fix crop recommendation results rendering after form submission | Medium | [#887](https://github.com/omroy07/AgriTech/pull/887) |
-| UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#886](https://github.com/omroy07/AgriTech/issues/886) |
-| UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#885](https://github.com/omroy07/AgriTech/issues/885) |
-| Fix About Page Navbar, Hamburger, and Theme Toggle Issues | Medium | [#877](https://github.com/omroy07/AgriTech/pull/877) |
-| Implement deterministic auto-resheduling for farming roadmap | Medium | [#876](https://github.com/omroy07/AgriTech/pull/876) |
-| Navbar UI breaks - duplicated header and stacked menu items | Medium | [#874](https://github.com/omroy07/AgriTech/issues/874) |
-| Refactor footer markup to remove duplication and improve structural hierarchy | Medium | [#871](https://github.com/omroy07/AgriTech/pull/871) |
-| Enhancement: Add keyboard navigation & ARIA labels to Favorites | Medium | [#870](https://github.com/omroy07/AgriTech/pull/870) |
-| Redesign navbar for better usability and consistency | Medium | [#865](https://github.com/omroy07/AgriTech/issues/865) |
-| Twitter icon enhancement at footer | Medium | [#854](https://github.com/omroy07/AgriTech/pull/854) |
+| Done Back home & Footer perfact | Easy | [#918](https://github.com/omroy07/AgriTech/pull/918) |
+| feat: add empty-state UI for blogs, marketplace, and predictions | Easy | [#917](https://github.com/omroy07/AgriTech/pull/917) |
+| feat: redesign navbar with improved layout and theme toggle fix | Easy | [#914](https://github.com/omroy07/AgriTech/pull/914) |
+| Added User Blog Posting Feature to AgriTech Blog Section | Easy | [#910](https://github.com/omroy07/AgriTech/pull/910) |
+| Navbar broken on Schemes page & Dark Mode toggle not working which was previously working | Medium | [#948](https://github.com/omroy07/AgriTech/issues/948) |
+| Refactor Input Validation using Marshmallow Schemas | Medium | [#947](https://github.com/omroy07/AgriTech/issues/947) |
+| Replace Print Statements with Structured Logging System | Medium | [#946](https://github.com/omroy07/AgriTech/issues/946) |
+| Implement Rate Limiting to Protect AI Endpoints | Medium | [#945](https://github.com/omroy07/AgriTech/issues/945) |
+| Fix UI: Add missing footer and redesign price tracker layout | Medium | [#944](https://github.com/omroy07/AgriTech/pull/944) |
+| Remove committed .bak backup files from repository | Medium | [#943](https://github.com/omroy07/AgriTech/issues/943) |
+| Duplicate folders and implementations for Crop & Disease Prediction causing project structure confusion | Medium | [#942](https://github.com/omroy07/AgriTech/issues/942) |
+| Feat: Add Country-Wise Filter to Crop Calendar | Medium | [#941](https://github.com/omroy07/AgriTech/pull/941) |
+| Refactor Navbar & Footer UI for Consistent Layout and Theme Support | Medium | [#940](https://github.com/omroy07/AgriTech/pull/940) |
+| Fix: Crop Recommendation analysis yields no output (dummy data implementation) | Medium | [#939](https://github.com/omroy07/AgriTech/pull/939) |
+| feat: redesign plantation page with tab-based navigation | Medium | [#938](https://github.com/omroy07/AgriTech/pull/938) |
+| add mit license to the project | Medium | [#937](https://github.com/omroy07/AgriTech/pull/937) |
+| Footer Setup Done of Gov | Medium | [#936](https://github.com/omroy07/AgriTech/pull/936) |
+| Inconsistent UI/UX across the pages and propose page-wise standardization | Medium | [#935](https://github.com/omroy07/AgriTech/issues/935) |
+| Automate labelling and closure of issues | Medium | [#934](https://github.com/omroy07/AgriTech/pull/934) |
+| Fix the “Back to Home” Button on AgriBot Chat Page | Medium | [#933](https://github.com/omroy07/AgriTech/issues/933) |
+| fix: synchronize theme toggle and implement premium adaptive navigation on Contact page | Medium | [#932](https://github.com/omroy07/AgriTech/pull/932) |
+| Replace API Error with Rule-Based Fallback Response in AgriBot Chat | Medium | [#931](https://github.com/omroy07/AgriTech/issues/931) |
+| Fix Footer Year Showing Hardcoded Value | Medium | [#930](https://github.com/omroy07/AgriTech/issues/930) |
+| Fix: Added missing scheme data for 5 states | Medium | [#929](https://github.com/omroy07/AgriTech/pull/929) |
+| Disease Predictor page layout is broken (Navbar, Logo, and Main Content not working properly) | Medium | [#928](https://github.com/omroy07/AgriTech/issues/928) |
+| Now the UI & UX of Organic Page is Done | Medium | [#927](https://github.com/omroy07/AgriTech/pull/927) |
+| Center align content in “Our Platform Benefits” section on Landing Page | Medium | [#926](https://github.com/omroy07/AgriTech/issues/926) |
 
 ---
 
@@ -2074,7 +2084,12 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
+| Modern, professional UI revamp for Profile page | Easy | [#190](https://github.com/IndieHub25/GroqTales/issues/190) |
+| Fix wallet login flow and protect Create button behind authentication | Medium | [#186](https://github.com/IndieHub25/GroqTales/pull/186) |
+| Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
+| Implement real account settings with backend‑connected profile and email/Google authentication | Hard | [#188](https://github.com/IndieHub25/GroqTales/issues/188) |
+| Implement real-time user profile view instead of static example profile | Hard | [#187](https://github.com/IndieHub25/GroqTales/issues/187) |
+| BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
 ---
 
