@@ -138,52 +138,6 @@
 
 ---
 
-## 📌 Project: quiz app 
-
-📝 **Description:** a quiz app made using html, css and javascript 
-
-🔗 [View Project](https://github.com/Jadhav124Akshada/SkinSense.git)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Claude Code GitHub Workflow | Medium | [#81](https://github.com/Jadhav124Akshada/SkinSense/issues/81) |
-| Added style to upload page | Medium | [#80](https://github.com/Jadhav124Akshada/SkinSense/pull/80) |
-| Updated index.html page and give light/dark theme effect | Medium | [#79](https://github.com/Jadhav124Akshada/SkinSense/pull/79) |
-| Improve Project Documentation and Community Standards | Medium | [#78](https://github.com/Jadhav124Akshada/SkinSense/issues/78) |
-| ## 🪄 Issue: Improve UI | Medium | [#77](https://github.com/Jadhav124Akshada/SkinSense/issues/77) |
-| upload image to empty image path | Medium | [#76](https://github.com/Jadhav124Akshada/SkinSense/pull/76) |
-| Fixed the image preview | Medium | [#75](https://github.com/Jadhav124Akshada/SkinSense/pull/75) |
-| Feature: Add Dark Mode Toggle for Better UX | Medium | [#74](https://github.com/Jadhav124Akshada/SkinSense/issues/74) |
-| Updated style.css | Medium | [#73](https://github.com/Jadhav124Akshada/SkinSense/pull/73) |
-| Updated login.html | Medium | [#72](https://github.com/Jadhav124Akshada/SkinSense/pull/72) |
-| Update index.html | Medium | [#71](https://github.com/Jadhav124Akshada/SkinSense/pull/71) |
-| updated Ui design | Medium | [#70](https://github.com/Jadhav124Akshada/SkinSense/pull/70) |
-| Improvement :appointment page | Medium | [#69](https://github.com/Jadhav124Akshada/SkinSense/issues/69) |
-| make a contributor too | Medium | [#67](https://github.com/Jadhav124Akshada/SkinSense/pull/67) |
-| created background.png | Medium | [#66](https://github.com/Jadhav124Akshada/SkinSense/pull/66) |
-| Contributed on  style.css | Medium | [#65](https://github.com/Jadhav124Akshada/SkinSense/pull/65) |
-| Integrate chatbot popup for patient interaction | Medium | [#63](https://github.com/Jadhav124Akshada/SkinSense/issues/63) |
-| Index page | Medium | [#62](https://github.com/Jadhav124Akshada/SkinSense/pull/62) |
-| Request to contribute to upload.html | Medium | [#61](https://github.com/Jadhav124Akshada/SkinSense/pull/61) |
-| Background Colour Change & Border color change | Medium | [#60](https://github.com/Jadhav124Akshada/SkinSense/pull/60) |
-| Customized quiz app with new questions, styles, and branding | Medium | [#59](https://github.com/Jadhav124Akshada/SkinSense/pull/59) |
-| Add a CONTRIBUTING.md file | Medium | [#57](https://github.com/Jadhav124Akshada/SkinSense/issues/57) |
-| Add Code of Conduct.md file | Medium | [#56](https://github.com/Jadhav124Akshada/SkinSense/issues/56) |
-| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#55](https://github.com/Jadhav124Akshada/SkinSense/issues/55) |
-| Enhanced UI/UX design of appointment booking form | Medium | [#54](https://github.com/Jadhav124Akshada/SkinSense/pull/54) |
-| Validation Missing on "Create Account" Form Fields | Medium | [#51](https://github.com/Jadhav124Akshada/SkinSense/issues/51) |
-| Add image preview feature before uploading | Medium | [#50](https://github.com/Jadhav124Akshada/SkinSense/issues/50) |
-| I can handle the full frontend tuning and possibly integrating the login system with google firebase(with the owners perms) | Medium | [#49](https://github.com/Jadhav124Akshada/SkinSense/issues/49) |
-| creating a AI  model for prediction of the skin disease | Medium | [#48](https://github.com/Jadhav124Akshada/SkinSense/issues/48) |
-
----
-
 ## 📌 Project: exciting_pong-game
 
 📝 **Description:** An classic Pong game built with HTML, CSS, and JavaScript, featuring AI, difficulty levels, and sound effects.
@@ -465,10 +419,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance README structure and resolve backend documentation conflicts | Medium | [#129](https://github.com/Dipanita45/HEALCONNECT/issues/129) |
-| Add standardized Pull Request template for SWOC '26 | Medium | [#128](https://github.com/Dipanita45/HEALCONNECT/issues/128) |
-| Scroll to top button | Medium | [#127](https://github.com/Dipanita45/HEALCONNECT/pull/127) |
-| README Enhancement: Add Firebase Setup & Deployment Instructions | Medium | [#124](https://github.com/Dipanita45/HEALCONNECT/issues/124) |
+| Update pull_request_template.md | Medium | [#139](https://github.com/Dipanita45/HEALCONNECT/pull/139) |
+| Fix FAQ and Contact us page paths | Medium | [#130](https://github.com/Dipanita45/HEALCONNECT/pull/130) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -707,6 +659,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add clickable preview box for the location in the footer | Medium | [#588](https://github.com/Mujtabaa07/coffeeShop/issues/588) |
 | Adding More coffee recipes | Medium | [#587](https://github.com/Mujtabaa07/coffeeShop/issues/587) |
 | Implement OpenCV Order Receipt Scanner | Medium | [#586](https://github.com/Mujtabaa07/coffeeShop/pull/586) |
 | Fix: Add Password Visibility Toggle and Update Regex to Allow | Medium | [#585](https://github.com/Mujtabaa07/coffeeShop/pull/585) |
@@ -731,7 +684,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | <search functionality not working on shop page> | Medium | [#550](https://github.com/Mujtabaa07/coffeeShop/issues/550) |
 | Move social media icons to bottom of footer | Medium | [#549](https://github.com/Mujtabaa07/coffeeShop/issues/549) |
 | (ui): make 'Edit Profile' button functional and navigable | Medium | [#537](https://github.com/Mujtabaa07/coffeeShop/issues/537) |
-| ENHANCE : the top and the cup icon enhance | Medium | [#535](https://github.com/Mujtabaa07/coffeeShop/pull/535) |
 
 ---
 
@@ -775,33 +727,36 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Done Back home & Footer perfact | Easy | [#918](https://github.com/omroy07/AgriTech/pull/918) |
-| feat: add empty-state UI for blogs, marketplace, and predictions | Easy | [#917](https://github.com/omroy07/AgriTech/pull/917) |
-| feat: redesign navbar with improved layout and theme toggle fix | Easy | [#914](https://github.com/omroy07/AgriTech/pull/914) |
-| Added User Blog Posting Feature to AgriTech Blog Section | Easy | [#910](https://github.com/omroy07/AgriTech/pull/910) |
-| Navbar broken on Schemes page & Dark Mode toggle not working which was previously working | Medium | [#948](https://github.com/omroy07/AgriTech/issues/948) |
-| Refactor Input Validation using Marshmallow Schemas | Medium | [#947](https://github.com/omroy07/AgriTech/issues/947) |
-| Replace Print Statements with Structured Logging System | Medium | [#946](https://github.com/omroy07/AgriTech/issues/946) |
-| Implement Rate Limiting to Protect AI Endpoints | Medium | [#945](https://github.com/omroy07/AgriTech/issues/945) |
-| Fix UI: Add missing footer and redesign price tracker layout | Medium | [#944](https://github.com/omroy07/AgriTech/pull/944) |
-| Remove committed .bak backup files from repository | Medium | [#943](https://github.com/omroy07/AgriTech/issues/943) |
-| Duplicate folders and implementations for Crop & Disease Prediction causing project structure confusion | Medium | [#942](https://github.com/omroy07/AgriTech/issues/942) |
-| Feat: Add Country-Wise Filter to Crop Calendar | Medium | [#941](https://github.com/omroy07/AgriTech/pull/941) |
-| Refactor Navbar & Footer UI for Consistent Layout and Theme Support | Medium | [#940](https://github.com/omroy07/AgriTech/pull/940) |
-| Fix: Crop Recommendation analysis yields no output (dummy data implementation) | Medium | [#939](https://github.com/omroy07/AgriTech/pull/939) |
-| feat: redesign plantation page with tab-based navigation | Medium | [#938](https://github.com/omroy07/AgriTech/pull/938) |
-| add mit license to the project | Medium | [#937](https://github.com/omroy07/AgriTech/pull/937) |
-| Footer Setup Done of Gov | Medium | [#936](https://github.com/omroy07/AgriTech/pull/936) |
-| Inconsistent UI/UX across the pages and propose page-wise standardization | Medium | [#935](https://github.com/omroy07/AgriTech/issues/935) |
-| Automate labelling and closure of issues | Medium | [#934](https://github.com/omroy07/AgriTech/pull/934) |
-| Fix the “Back to Home” Button on AgriBot Chat Page | Medium | [#933](https://github.com/omroy07/AgriTech/issues/933) |
-| fix: synchronize theme toggle and implement premium adaptive navigation on Contact page | Medium | [#932](https://github.com/omroy07/AgriTech/pull/932) |
-| Replace API Error with Rule-Based Fallback Response in AgriBot Chat | Medium | [#931](https://github.com/omroy07/AgriTech/issues/931) |
-| Fix Footer Year Showing Hardcoded Value | Medium | [#930](https://github.com/omroy07/AgriTech/issues/930) |
-| Fix: Added missing scheme data for 5 states | Medium | [#929](https://github.com/omroy07/AgriTech/pull/929) |
-| Disease Predictor page layout is broken (Navbar, Logo, and Main Content not working properly) | Medium | [#928](https://github.com/omroy07/AgriTech/issues/928) |
-| Now the UI & UX of Organic Page is Done | Medium | [#927](https://github.com/omroy07/AgriTech/pull/927) |
-| Center align content in “Our Platform Benefits” section on Landing Page | Medium | [#926](https://github.com/omroy07/AgriTech/issues/926) |
+| Implement Comprehensive Backend Test Suite with Pytest | Medium | [#1004](https://github.com/omroy07/AgriTech/issues/1004) |
+| Implement Async Task Queue with Celery and Redis | Medium | [#1003](https://github.com/omroy07/AgriTech/issues/1003) |
+| API fetch error in the ChatBot | Medium | [#1002](https://github.com/omroy07/AgriTech/issues/1002) |
+| Add offline support and graceful network failure handling | Medium | [#1001](https://github.com/omroy07/AgriTech/pull/1001) |
+| UI Bug: About Us page text readability and layout issues | Medium | [#1000](https://github.com/omroy07/AgriTech/issues/1000) |
+| Bug: Scheme Eligibility page not functioning (no response on submit) | Medium | [#999](https://github.com/omroy07/AgriTech/issues/999) |
+| feat: containerize application with Docker | Medium | [#998](https://github.com/omroy07/AgriTech/pull/998) |
+| feat: implement class-based configuration management | Medium | [#997](https://github.com/omroy07/AgriTech/pull/997) |
+| Sync weather page .bak file with current codebase | Medium | [#996](https://github.com/omroy07/AgriTech/issues/996) |
+| Sync Terms and Condition page .bak file with current codebase | Medium | [#995](https://github.com/omroy07/AgriTech/issues/995) |
+| Sync sustainable farming page .bak file with current codebase | Medium | [#994](https://github.com/omroy07/AgriTech/issues/994) |
+| Sync supply chain page .bak file with current codebase | Medium | [#993](https://github.com/omroy07/AgriTech/issues/993) |
+| Sync register page .bak file with current codebase | Medium | [#992](https://github.com/omroy07/AgriTech/issues/992) |
+| Sync plantation page .bak file with current codebase | Medium | [#991](https://github.com/omroy07/AgriTech/issues/991) |
+| Sync Organic page .bak file with current codebase | Medium | [#990](https://github.com/omroy07/AgriTech/issues/990) |
+| Sync marketplace page .bak file with current codebase | Medium | [#989](https://github.com/omroy07/AgriTech/issues/989) |
+| Sync main page .bak file with current codebase | Medium | [#988](https://github.com/omroy07/AgriTech/issues/988) |
+| Sync login page .bak file with current codebase | Medium | [#987](https://github.com/omroy07/AgriTech/issues/987) |
+| Sync index .bak file with current codebase | Medium | [#986](https://github.com/omroy07/AgriTech/issues/986) |
+| Sync Financial Support .bak file with current codebase | Medium | [#985](https://github.com/omroy07/AgriTech/issues/985) |
+| Rest All Bak File Updated | Medium | [#984](https://github.com/omroy07/AgriTech/pull/984) |
+| Financial support File Updated | Medium | [#983](https://github.com/omroy07/AgriTech/pull/983) |
+| Index Bak File Updated | Medium | [#982](https://github.com/omroy07/AgriTech/pull/982) |
+| Login Page bak Updated | Medium | [#981](https://github.com/omroy07/AgriTech/pull/981) |
+| Main Html bak File Updated | Medium | [#980](https://github.com/omroy07/AgriTech/pull/980) |
+| Marketplace Bak Updated | Medium | [#979](https://github.com/omroy07/AgriTech/pull/979) |
+| Updated bak file of organic html | Medium | [#978](https://github.com/omroy07/AgriTech/pull/978) |
+| Updated The Bak File Of Plantaion | Medium | [#977](https://github.com/omroy07/AgriTech/pull/977) |
+| Updated Bak File Of Register Page | Medium | [#976](https://github.com/omroy07/AgriTech/pull/976) |
+| Supply Chain bak File Update | Medium | [#975](https://github.com/omroy07/AgriTech/pull/975) |
 
 ---
 
@@ -1163,7 +1118,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
 | chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.53.0 | Medium | [#1259](https://github.com/recodehive/recode-website/pull/1259) |
 | chore: bump @typescript-eslint/parser from 8.46.2 to 8.53.0 | Medium | [#1258](https://github.com/recodehive/recode-website/pull/1258) |
-| chore: bump react and @types/react | Medium | [#1257](https://github.com/recodehive/recode-website/pull/1257) |
 | chore: bump lucide-react from 0.503.0 to 0.562.0 | Medium | [#1251](https://github.com/recodehive/recode-website/pull/1251) |
 
 ---
@@ -1656,6 +1610,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add scroll to top functionality across all pages | Medium | [#584](https://github.com/Creators-Space/Creators-Space/issues/584) |
 | Animated Header Text and Visual Enhancements | Medium | [#583](https://github.com/Creators-Space/Creators-Space/pull/583) |
 | Redesign of Contact us page | Medium | [#582](https://github.com/Creators-Space/Creators-Space/pull/582) |
 | Redesign of Resource Sharing hub | Medium | [#581](https://github.com/Creators-Space/Creators-Space/pull/581) |
@@ -1685,7 +1640,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Dark mode for FAQ section | Medium | [#556](https://github.com/Creators-Space/Creators-Space/issues/556) |
 | Search functionality implemented for faq | Medium | [#554](https://github.com/Creators-Space/Creators-Space/pull/554) |
 | social media app links working in projects page | Medium | [#553](https://github.com/Creators-Space/Creators-Space/pull/553) |
-| sign in button not visible | Medium | [#552](https://github.com/Creators-Space/Creators-Space/issues/552) |
 
 ---
 
@@ -2084,8 +2038,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Modern, professional UI revamp for Profile page | Easy | [#190](https://github.com/IndieHub25/GroqTales/issues/190) |
-| Fix wallet login flow and protect Create button behind authentication | Medium | [#186](https://github.com/IndieHub25/GroqTales/pull/186) |
+| Project Governance & Documentation Overhaul for SWOC '26 | Easy | [#192](https://github.com/IndieHub25/GroqTales/pull/192) |
+| Add containerized local development workflow using Docker & Docker Compose | Medium | [#195](https://github.com/IndieHub25/GroqTales/issues/195) |
+| Add JWT Authentication & Authorization to Backend | Medium | [#194](https://github.com/IndieHub25/GroqTales/issues/194) |
+| Updating User Routes and Schema | Medium | [#193](https://github.com/IndieHub25/GroqTales/pull/193) |
 | Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
 | Implement real account settings with backend‑connected profile and email/Google authentication | Hard | [#188](https://github.com/IndieHub25/GroqTales/issues/188) |
 | Implement real-time user profile view instead of static example profile | Hard | [#187](https://github.com/IndieHub25/GroqTales/issues/187) |
