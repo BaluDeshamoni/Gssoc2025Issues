@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Removing locals files from .env file | Medium | [#290](https://github.com/iaadillatif/techxninjas-client/pull/290) |
 | Add Claude Code GitHub Workflow | Medium | [#289](https://github.com/iaadillatif/techxninjas-client/issues/289) |
 | fix: notification panel logic, placement, and Supabase redirect handling | Medium | [#287](https://github.com/iaadillatif/techxninjas-client/pull/287) |
 | Feature Request: Add a Gamified Leaderboard to Ignite Daily Engagement & Community | Medium | [#285](https://github.com/iaadillatif/techxninjas-client/issues/285) |
@@ -43,7 +44,6 @@
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
 | course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
-| Template | Medium | [#253](https://github.com/iaadillatif/techxninjas-client/pull/253) |
 
 ---
 
@@ -153,6 +153,25 @@ Accessibility features like dark mode,white.
 
 ---
 
+## 📌 Project: aitoolbox.software
+
+📝 **Description:** AIToolbox is an open-source platform offering a suite of daily-use AI tools in one place, including email writing, GPT chatbot, image and logo generation, YouTube transcription, and more. It's designed for simplicity, productivity, and easy access without switching between multiple apps.
+
+🔗 [View Project](https://github.com/huamanraj/aitoolbox.software)
+
+💻 **Tech Stack:** Next.js, Tailwind CSS, React.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| generating a better logo using ai and use that | Easy | [#124](https://github.com/huamanraj/aitoolbox.software/issues/124) |
+| Improve the performance in mobile | Medium | [#123](https://github.com/huamanraj/aitoolbox.software/issues/123) |
+
+---
+
 ## 📌 Project: InfantCareCompass
 
 📝 **Description:** InfantCareCompass is a dedicated platform designed to simplify childcare management for modern parents. Balancing the joys and challenges of parenting, this application empowers users to efficiently track their child’s healthcare needs, particularly focusing on vaccination schedules, educational resources, and more.
@@ -234,30 +253,26 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Use Lambda SnapStart and optimize Zappa package | Easy | [#3381](https://github.com/OWASP/Nest/pull/3381) |
-| Disable module date selection outside program duration | Medium | [#3382](https://github.com/OWASP/Nest/issues/3382) |
+| docs: improve list projects OpenAPI examples | Easy | [#3397](https://github.com/OWASP/Nest/pull/3397) |
+| Implement e2e backend instance and fuzz testing for both GraphQL and REST endpoints | Easy | [#3386](https://github.com/OWASP/Nest/pull/3386) |
+| chore(ci): add semgrep security scanning to pre-commit and CI | Medium | [#3395](https://github.com/OWASP/Nest/pull/3395) |
+| Document API Error Codes and Responses | Medium | [#3394](https://github.com/OWASP/Nest/issues/3394) |
+| Expose Rate Limit Metadata via Response Headers | Medium | [#3393](https://github.com/OWASP/Nest/issues/3393) |
+| Add management command to detect non-compliant project levels and apply score penalty | Medium | [#3388](https://github.com/OWASP/Nest/pull/3388) |
+| fix: add GraphQL cache invalidation for programs and modules | Medium | [#3387](https://github.com/OWASP/Nest/pull/3387) |
+| Add Rate Limiting and Query Depth Protection to GraphQL Endpoint | Medium | [#3385](https://github.com/OWASP/Nest/issues/3385) |
 | Show related PRs on public module view page | Medium | [#3380](https://github.com/OWASP/Nest/issues/3380) |
 | Oversized page titles on mobile push critical content below the fold | Medium | [#3374](https://github.com/OWASP/Nest/issues/3374) |
 | Tablet view (~768px) still uses single-column layout on list pages | Medium | [#3372](https://github.com/OWASP/Nest/issues/3372) |
 | Enforce number type for date formatter utilities | Medium | [#3371](https://github.com/OWASP/Nest/issues/3371) |
-| Issues list is not responsive on small screens | Medium | [#3367](https://github.com/OWASP/Nest/issues/3367) |
 | Redundant tooltip on View on GitHub and empty Labels section shows no message | Medium | [#3366](https://github.com/OWASP/Nest/issues/3366) |
 | Show Deadline Status on Issues List & Add Deadline Filters in Mentorship Module | Medium | [#3365](https://github.com/OWASP/Nest/issues/3365) |
 | Add docstrings to model mixin methods | Medium | [#3358](https://github.com/OWASP/Nest/issues/3358) |
 | Detect OWASP project level non-compliance and adjust health scores | Medium | [#3354](https://github.com/OWASP/Nest/pull/3354) |
-| Simplify regex to reduce Sonar complexity while preserving behavior | Medium | [#3349](https://github.com/OWASP/Nest/pull/3349) |
 | feat(frontend): add PostHog analytics for staging and production | Medium | [#3344](https://github.com/OWASP/Nest/pull/3344) |
-| Refactor: Simplify regex to reduce its complexity | Medium | [#3342](https://github.com/OWASP/Nest/issues/3342) |
 | Implement command to detect non-compliant project levels and update score calculation | Medium | [#3340](https://github.com/OWASP/Nest/pull/3340) |
 | Fix SonarQube warning: signal handler defined as instance method without self | Medium | [#3338](https://github.com/OWASP/Nest/issues/3338) |
-| Sonar S1186: Empty ResizeObserver methods should be justified or implemented | Medium | [#3337](https://github.com/OWASP/Nest/issues/3337) |
-| Sonar S6035: Replace single-character regex alternation with character class | Medium | [#3336](https://github.com/OWASP/Nest/issues/3336) |
 | Update sync process to last 365 days | Medium | [#3335](https://github.com/OWASP/Nest/pull/3335) |
-| fix: adjust navbar breakpoints to lg to prevent overflow #3272 | Medium | [#3324](https://github.com/OWASP/Nest/pull/3324) |
-| fixed responsiveness | Medium | [#3323](https://github.com/OWASP/Nest/pull/3323) |
-| Fix ChapterMap locking behavior and wide screen layout issues | Medium | [#3322](https://github.com/OWASP/Nest/pull/3322) |
-| Duplicate contributor list components in frontend | Medium | [#3321](https://github.com/OWASP/Nest/issues/3321) |
-| Inconsistent behavior of from_github() across backend models | Medium | [#3320](https://github.com/OWASP/Nest/issues/3320) |
 
 ---
 
@@ -309,7 +324,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 |----------|----------------|---------|
 | 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
-| feat: Add GitHub workflow for auto-closing duplicate issues | Medium | [#1349](https://github.com/Code-A2Z/code-a2z/pull/1349) |
+| Fix pagination logic and extract PAGE_SIZE constant | Medium | [#1351](https://github.com/Code-A2Z/code-a2z/pull/1351) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
@@ -545,10 +560,8 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance README structure and resolve backend documentation conflicts | Medium | [#129](https://github.com/Dipanita45/HEALCONNECT/issues/129) |
-| Add standardized Pull Request template for SWOC '26 | Medium | [#128](https://github.com/Dipanita45/HEALCONNECT/issues/128) |
-| Scroll to top button | Medium | [#127](https://github.com/Dipanita45/HEALCONNECT/pull/127) |
-| README Enhancement: Add Firebase Setup & Deployment Instructions | Medium | [#124](https://github.com/Dipanita45/HEALCONNECT/issues/124) |
+| Update pull_request_template.md | Medium | [#139](https://github.com/Dipanita45/HEALCONNECT/pull/139) |
+| Fix FAQ and Contact us page paths | Medium | [#130](https://github.com/Dipanita45/HEALCONNECT/pull/130) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -837,6 +850,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add clickable preview box for the location in the footer | Medium | [#588](https://github.com/Mujtabaa07/coffeeShop/issues/588) |
 | Adding More coffee recipes | Medium | [#587](https://github.com/Mujtabaa07/coffeeShop/issues/587) |
 | Implement OpenCV Order Receipt Scanner | Medium | [#586](https://github.com/Mujtabaa07/coffeeShop/pull/586) |
 | Fix: Add Password Visibility Toggle and Update Regex to Allow | Medium | [#585](https://github.com/Mujtabaa07/coffeeShop/pull/585) |
@@ -861,7 +875,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | <search functionality not working on shop page> | Medium | [#550](https://github.com/Mujtabaa07/coffeeShop/issues/550) |
 | Move social media icons to bottom of footer | Medium | [#549](https://github.com/Mujtabaa07/coffeeShop/issues/549) |
 | (ui): make 'Edit Profile' button functional and navigable | Medium | [#537](https://github.com/Mujtabaa07/coffeeShop/issues/537) |
-| ENHANCE : the top and the cup icon enhance | Medium | [#535](https://github.com/Mujtabaa07/coffeeShop/pull/535) |
 
 ---
 
@@ -2110,6 +2123,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add containerized local development workflow using Docker & Docker Compose | Medium | [#112](https://github.com/prasoonk1204/BreatheEasy/issues/112) |
 | Add AQI export to CSV/PDF | Medium | [#109](https://github.com/prasoonk1204/BreatheEasy/pull/109) |
 | enhance improvement measure file code | Medium | [#95](https://github.com/prasoonk1204/BreatheEasy/pull/95) |
 
@@ -2274,9 +2288,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Sign In/Out | Medium | [#224](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/224) |
-| FEATURE: Add Career page | Medium | [#223](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/223) |
-| feat: add keyboard shortcuts for common actions | Medium | [#222](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/222) |
 | OTHER: Remove unused mobile menu state logic from HomePage | Medium | [#218](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/218) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 | FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
