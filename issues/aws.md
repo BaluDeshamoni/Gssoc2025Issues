@@ -51,7 +51,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Updated chat box height to 90% for better visibility | Medium | [#74](https://github.com/Sahilll94/Travel-Book/pull/74) |
 | Automatically fetching the location based on the user input. | Medium | [#73](https://github.com/Sahilll94/Travel-Book/issues/73) |
 | Need Performance optimization | Medium | [#70](https://github.com/Sahilll94/Travel-Book/issues/70) |
 | Add Left & Right Padding/Margin in "Our Services" Section | Medium | [#61](https://github.com/Sahilll94/Travel-Book/issues/61) |
