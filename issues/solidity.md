@@ -46,11 +46,11 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Story routes addition in the backend server | Medium | [#180](https://github.com/IndieHub25/GroqTales/issues/180) |
-| Fix system theme | Medium | [#179](https://github.com/IndieHub25/GroqTales/pull/179) |
-| feat: Improved accessibility with ARIA labels and focus states | Medium | [#177](https://github.com/IndieHub25/GroqTales/pull/177) |
-| Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
-| [Feature] Comic Backend Structure: Models, Pages, Assets, Publish Saga, Accessibility | Hard | [#175](https://github.com/IndieHub25/GroqTales/issues/175) |
+| Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
+| Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
+| Implement real account settings with backend‑connected profile and email/Google authentication | Hard | [#188](https://github.com/IndieHub25/GroqTales/issues/188) |
+| Implement real-time user profile view instead of static example profile | Hard | [#187](https://github.com/IndieHub25/GroqTales/issues/187) |
+| BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
 ---
 
