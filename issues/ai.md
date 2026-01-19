@@ -254,12 +254,20 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | docs: improve list projects OpenAPI examples | Easy | [#3397](https://github.com/OWASP/Nest/pull/3397) |
-| Implement e2e backend instance and fuzz testing for both GraphQL and REST endpoints | Easy | [#3386](https://github.com/OWASP/Nest/pull/3386) |
+| Fix issues list responsiveness on small screens | Medium | [#3413](https://github.com/OWASP/Nest/pull/3413) |
+| Fix Project Metrics dashboard responsiveness on small screens | Medium | [#3412](https://github.com/OWASP/Nest/pull/3412) |
+| Move component definitions out of parent components to avoid unnecessary re-renders | Medium | [#3411](https://github.com/OWASP/Nest/issues/3411) |
+| Do not use array index as React key in frontend components | Medium | [#3410](https://github.com/OWASP/Nest/issues/3410) |
+| refactor: extract shared ContributorsList component | Medium | [#3408](https://github.com/OWASP/Nest/pull/3408) |
+| chore: enhance frontend code quality and enable strict mode | Medium | [#3407](https://github.com/OWASP/Nest/issues/3407) |
+| feat: implement enforced Semgrep scanning with clean baseline (#2984) | Medium | [#3406](https://github.com/OWASP/Nest/pull/3406) |
+| fix: show module as a section when there is only 1 module | Medium | [#3402](https://github.com/OWASP/Nest/pull/3402) |
+| Mentors can see modules they are not assigned to within a programme | Medium | [#3401](https://github.com/OWASP/Nest/issues/3401) |
+| use top-level await instead of async IIFE in graphql-codegen.ts | Medium | [#3398](https://github.com/OWASP/Nest/pull/3398) |
 | chore(ci): add semgrep security scanning to pre-commit and CI | Medium | [#3395](https://github.com/OWASP/Nest/pull/3395) |
 | Document API Error Codes and Responses | Medium | [#3394](https://github.com/OWASP/Nest/issues/3394) |
 | Expose Rate Limit Metadata via Response Headers | Medium | [#3393](https://github.com/OWASP/Nest/issues/3393) |
 | Add management command to detect non-compliant project levels and apply score penalty | Medium | [#3388](https://github.com/OWASP/Nest/pull/3388) |
-| fix: add GraphQL cache invalidation for programs and modules | Medium | [#3387](https://github.com/OWASP/Nest/pull/3387) |
 | Add Rate Limiting and Query Depth Protection to GraphQL Endpoint | Medium | [#3385](https://github.com/OWASP/Nest/issues/3385) |
 | Show related PRs on public module view page | Medium | [#3380](https://github.com/OWASP/Nest/issues/3380) |
 | Oversized page titles on mobile push critical content below the fold | Medium | [#3374](https://github.com/OWASP/Nest/issues/3374) |
@@ -268,11 +276,6 @@ Accessibility features like dark mode,white.
 | Redundant tooltip on View on GitHub and empty Labels section shows no message | Medium | [#3366](https://github.com/OWASP/Nest/issues/3366) |
 | Show Deadline Status on Issues List & Add Deadline Filters in Mentorship Module | Medium | [#3365](https://github.com/OWASP/Nest/issues/3365) |
 | Add docstrings to model mixin methods | Medium | [#3358](https://github.com/OWASP/Nest/issues/3358) |
-| Detect OWASP project level non-compliance and adjust health scores | Medium | [#3354](https://github.com/OWASP/Nest/pull/3354) |
-| feat(frontend): add PostHog analytics for staging and production | Medium | [#3344](https://github.com/OWASP/Nest/pull/3344) |
-| Implement command to detect non-compliant project levels and update score calculation | Medium | [#3340](https://github.com/OWASP/Nest/pull/3340) |
-| Fix SonarQube warning: signal handler defined as instance method without self | Medium | [#3338](https://github.com/OWASP/Nest/issues/3338) |
-| Update sync process to last 365 days | Medium | [#3335](https://github.com/OWASP/Nest/pull/3335) |
 
 ---
 
@@ -324,7 +327,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 |----------|----------------|---------|
 | 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
-| Fix pagination logic and extract PAGE_SIZE constant | Medium | [#1351](https://github.com/Code-A2Z/code-a2z/pull/1351) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
@@ -333,7 +335,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
-| Add a Feedback Form to Collect User Suggestions | Medium | [#1170](https://github.com/Code-A2Z/code-a2z/issues/1170) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
@@ -560,8 +561,6 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update pull_request_template.md | Medium | [#139](https://github.com/Dipanita45/HEALCONNECT/pull/139) |
-| Fix FAQ and Contact us page paths | Medium | [#130](https://github.com/Dipanita45/HEALCONNECT/pull/130) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -1673,20 +1672,20 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a workflow to remove Assigned member based on label | Easy | [#95](https://github.com/OpenVibes/RollcallAi/issues/95) |
-| Shorten the paragraph for PR template | Easy | [#91](https://github.com/OpenVibes/RollcallAi/issues/91) |
-| Fix welcome workflow | Easy | [#90](https://github.com/OpenVibes/RollcallAi/issues/90) |
-| Account and Settings Page | Easy | [#7](https://github.com/OpenVibes/RollcallAi/issues/7) |
-| fix: prevent duplicate subject creation when Save is tapped rapidly(#106) | Medium | [#152](https://github.com/OpenVibes/RollcallAi/pull/152) |
-| made UI changes in the settings page | Medium | [#148](https://github.com/OpenVibes/RollcallAi/pull/148) |
-| Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/OpenVibes/RollcallAi/pull/147) |
-| Create Docker Setup for the App | Medium | [#124](https://github.com/OpenVibes/RollcallAi/issues/124) |
-| Tab Memorization | Medium | [#108](https://github.com/OpenVibes/RollcallAi/issues/108) |
-| Everyday Select Option to Add Multiple Slots | Medium | [#107](https://github.com/OpenVibes/RollcallAi/issues/107) |
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/OpenVibes/RollcallAi/issues/98) |
-| Expo setup and Documentation | Medium | [#96](https://github.com/OpenVibes/RollcallAi/issues/96) |
-| Export tasks as pdf | Medium | [#10](https://github.com/OpenVibes/RollcallAi/issues/10) |
-| Cloud sync through Google Drive | Hard | [#14](https://github.com/OpenVibes/RollcallAi/issues/14) |
+| Add a workflow to remove Assigned member based on label | Easy | [#95](https://github.com/OpenVibes/ScheduleX/issues/95) |
+| Shorten the paragraph for PR template | Easy | [#91](https://github.com/OpenVibes/ScheduleX/issues/91) |
+| Fix welcome workflow | Easy | [#90](https://github.com/OpenVibes/ScheduleX/issues/90) |
+| Account and Settings Page | Easy | [#7](https://github.com/OpenVibes/ScheduleX/issues/7) |
+| fix: prevent duplicate subject creation when Save is tapped rapidly(#106) | Medium | [#152](https://github.com/OpenVibes/ScheduleX/pull/152) |
+| made UI changes in the settings page | Medium | [#148](https://github.com/OpenVibes/ScheduleX/pull/148) |
+| Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/OpenVibes/ScheduleX/pull/147) |
+| Create Docker Setup for the App | Medium | [#124](https://github.com/OpenVibes/ScheduleX/issues/124) |
+| Tab Memorization | Medium | [#108](https://github.com/OpenVibes/ScheduleX/issues/108) |
+| Everyday Select Option to Add Multiple Slots | Medium | [#107](https://github.com/OpenVibes/ScheduleX/issues/107) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/OpenVibes/ScheduleX/issues/98) |
+| Expo setup and Documentation | Medium | [#96](https://github.com/OpenVibes/ScheduleX/issues/96) |
+| Export tasks as pdf | Medium | [#10](https://github.com/OpenVibes/ScheduleX/issues/10) |
+| Cloud sync through Google Drive | Hard | [#14](https://github.com/OpenVibes/ScheduleX/issues/14) |
 
 ---
 
@@ -1840,7 +1839,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix React Server Components CVE vulnerabilities | Medium | [#12](https://github.com/aykansal/EduType/pull/12) |
-| button hover effect | Medium | [#11](https://github.com/aykansal/EduType/issues/11) |
 | Add a "Back to Top" Button for Better Navigation | Medium | [#10](https://github.com/aykansal/EduType/issues/10) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#9](https://github.com/aykansal/EduType/issues/9) |
 | 🚫 License Missing from Repository | Medium | [#8](https://github.com/aykansal/EduType/issues/8) |
@@ -2043,6 +2041,7 @@ Fast Workflow Tools
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
+| CTA Section Styling Does Not Match Site Theme | Medium | [#14](https://github.com/lovelymahor/StudyMatePlus/issues/14) |
 
 ---
 
@@ -2123,6 +2122,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement backend proxy for map tiles and WAQI overlay with caching & rate limiting | Medium | [#113](https://github.com/prasoonk1204/BreatheEasy/pull/113) |
 | Add containerized local development workflow using Docker & Docker Compose | Medium | [#112](https://github.com/prasoonk1204/BreatheEasy/issues/112) |
 | Add AQI export to CSV/PDF | Medium | [#109](https://github.com/prasoonk1204/BreatheEasy/pull/109) |
 | enhance improvement measure file code | Medium | [#95](https://github.com/prasoonk1204/BreatheEasy/pull/95) |
@@ -2288,10 +2288,12 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Review | Medium | [#230](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/230) |
+| 'Stop' button stuck in Production (Proposed solution for #219) | Medium | [#229](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/229) |
+| 'Email' link in footer redirects to homepage instead of opening mail client | Medium | [#228](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/228) |
 | OTHER: Remove unused mobile menu state logic from HomePage | Medium | [#218](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/218) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 | FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
-| FEATURE: Dynamic Testimonial Section | Hard | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 
 ---
 
