@@ -45,7 +45,6 @@
 |----------|----------------|---------|
 | 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
-| feat: Add GitHub workflow for auto-closing duplicate issues | Medium | [#1349](https://github.com/Code-A2Z/code-a2z/pull/1349) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
@@ -54,7 +53,6 @@
 | Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
-| Add a Feedback Form to Collect User Suggestions | Medium | [#1170](https://github.com/Code-A2Z/code-a2z/issues/1170) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
@@ -88,7 +86,6 @@
 | added responsive-dropdown menu when user not loged in | Medium | [#127](https://github.com/Bavanetha27/Refixly/pull/127) |
 | "Powerful Features" Section Not Adopting Light Mode Theme | Medium | [#126](https://github.com/Bavanetha27/Refixly/issues/126) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
-| UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
 
@@ -144,6 +141,7 @@
 | UPLOAD PAGE FOR DESKTOP WALLPAPERS | Easy | [#126](https://github.com/WallGodds/WallGodds-Web/issues/126) |
 | ABOUT US IN MOBILE VERSION | Easy | [#88](https://github.com/WallGodds/WallGodds-Web/issues/88) |
 | 🌱 Fix the Responsiveness of the Gallery Page | Easy | [#87](https://github.com/WallGodds/WallGodds-Web/issues/87) |
+| User Registration | Medium | [#155](https://github.com/WallGodds/WallGodds-Web/issues/155) |
 | Bug Report: Ui bug in gallery page | Medium | [#154](https://github.com/WallGodds/WallGodds-Web/issues/154) |
 | 🚨 IMPORTANT NOTE – PLEASE READ 🚨 | Medium | [#153](https://github.com/WallGodds/WallGodds-Web/issues/153) |
 | Implement Feedback Page for user suggestions and bug reports [Accepted and waiting for design] | Medium | [#123](https://github.com/WallGodds/WallGodds-Web/issues/123) |
@@ -255,6 +253,8 @@
 | [UPLOAD PAGE] EDIT WALLPAPER POPUP | Easy | [#52](https://github.com/WallGodds/WallGodds-App/issues/52) |
 | [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/WallGodds/WallGodds-App/issues/47) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/WallGodds/WallGodds-App/issues/1) |
+| Gallery Page Loads Wallpapers Slowly | Medium | [#57](https://github.com/WallGodds/WallGodds-App/issues/57) |
+| Upload Page Missing – Showing “Under Construction” & No Live Wallpaper Support | Medium | [#56](https://github.com/WallGodds/WallGodds-App/issues/56) |
 | 🚨 IMPORTANT NOTE – PLEASE READ 🚨 | Medium | [#54](https://github.com/WallGodds/WallGodds-App/issues/54) |
 
 ---
@@ -421,22 +421,20 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a workflow to remove Assigned member based on label | Easy | [#95](https://github.com/OpenVibes/RollcallAi/issues/95) |
-| Shorten the paragraph for PR template | Easy | [#91](https://github.com/OpenVibes/RollcallAi/issues/91) |
-| Fix welcome workflow | Easy | [#90](https://github.com/OpenVibes/RollcallAi/issues/90) |
-| Account and Settings Page | Easy | [#7](https://github.com/OpenVibes/RollcallAi/issues/7) |
-| fix: prevent duplicate subject creation when Save is tapped rapidly(#106) | Medium | [#152](https://github.com/OpenVibes/RollcallAi/pull/152) |
-| Improve sidebar UI | Medium | [#151](https://github.com/OpenVibes/RollcallAi/pull/151) |
-| Fix dropdown overflow | Medium | [#149](https://github.com/OpenVibes/RollcallAi/pull/149) |
-| made UI changes in the settings page | Medium | [#148](https://github.com/OpenVibes/RollcallAi/pull/148) |
-| Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/OpenVibes/RollcallAi/pull/147) |
-| Create Docker Setup for the App | Medium | [#124](https://github.com/OpenVibes/RollcallAi/issues/124) |
-| Tab Memorization | Medium | [#108](https://github.com/OpenVibes/RollcallAi/issues/108) |
-| Everyday Select Option to Add Multiple Slots | Medium | [#107](https://github.com/OpenVibes/RollcallAi/issues/107) |
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/OpenVibes/RollcallAi/issues/98) |
-| Expo setup and Documentation | Medium | [#96](https://github.com/OpenVibes/RollcallAi/issues/96) |
-| Export tasks as pdf | Medium | [#10](https://github.com/OpenVibes/RollcallAi/issues/10) |
-| Cloud sync through Google Drive | Hard | [#14](https://github.com/OpenVibes/RollcallAi/issues/14) |
+| Add a workflow to remove Assigned member based on label | Easy | [#95](https://github.com/OpenVibes/ScheduleX/issues/95) |
+| Shorten the paragraph for PR template | Easy | [#91](https://github.com/OpenVibes/ScheduleX/issues/91) |
+| Fix welcome workflow | Easy | [#90](https://github.com/OpenVibes/ScheduleX/issues/90) |
+| Account and Settings Page | Easy | [#7](https://github.com/OpenVibes/ScheduleX/issues/7) |
+| fix: prevent duplicate subject creation when Save is tapped rapidly(#106) | Medium | [#152](https://github.com/OpenVibes/ScheduleX/pull/152) |
+| made UI changes in the settings page | Medium | [#148](https://github.com/OpenVibes/ScheduleX/pull/148) |
+| Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/OpenVibes/ScheduleX/pull/147) |
+| Create Docker Setup for the App | Medium | [#124](https://github.com/OpenVibes/ScheduleX/issues/124) |
+| Tab Memorization | Medium | [#108](https://github.com/OpenVibes/ScheduleX/issues/108) |
+| Everyday Select Option to Add Multiple Slots | Medium | [#107](https://github.com/OpenVibes/ScheduleX/issues/107) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/OpenVibes/ScheduleX/issues/98) |
+| Expo setup and Documentation | Medium | [#96](https://github.com/OpenVibes/ScheduleX/issues/96) |
+| Export tasks as pdf | Medium | [#10](https://github.com/OpenVibes/ScheduleX/issues/10) |
+| Cloud sync through Google Drive | Hard | [#14](https://github.com/OpenVibes/ScheduleX/issues/14) |
 
 ---
 
@@ -515,6 +513,7 @@
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
+| CTA Section Styling Does Not Match Site Theme | Medium | [#14](https://github.com/lovelymahor/StudyMatePlus/issues/14) |
 
 ---
 
