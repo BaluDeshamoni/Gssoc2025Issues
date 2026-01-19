@@ -61,7 +61,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhancement: Add Repository Templates for Better Open Source Workflow | Easy | [#5](https://github.com/thedevyashsaini/rusticle/issues/5) |
-| Add build verification GitHub Action | Medium | [#22](https://github.com/thedevyashsaini/rusticle/pull/22) |
 | Documentation : Updating README.md File for Better Project Documentation | Medium | [#21](https://github.com/thedevyashsaini/rusticle/issues/21) |
 | Enhancement: Implement Variable Scoping and Block Scope | Medium | [#7](https://github.com/thedevyashsaini/rusticle/issues/7) |
 | Enhancement: Implement Closures and Lexical Scoping | Hard | [#11](https://github.com/thedevyashsaini/rusticle/issues/11) |
