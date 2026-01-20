@@ -214,7 +214,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.26.2 | Medium | [#239](https://github.com/Ojas-Arora/SapneSeSafar/pull/239) |
+| Bump framer-motion from 11.18.2 to 12.27.1 | Medium | [#240](https://github.com/Ojas-Arora/SapneSeSafar/pull/240) |
 | Bump zustand from 4.5.6 to 5.0.10 | Medium | [#237](https://github.com/Ojas-Arora/SapneSeSafar/pull/237) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.90.1 | Medium | [#234](https://github.com/Ojas-Arora/SapneSeSafar/pull/234) |
 | Bump react-router-dom from 6.28.2 to 7.12.0 | Medium | [#233](https://github.com/Ojas-Arora/SapneSeSafar/pull/233) |
