@@ -154,11 +154,9 @@ Accessibility features like dark mode,white.
 | Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
-| Add a Feedback Form to Collect User Suggestions | Medium | [#1170](https://github.com/Code-A2Z/code-a2z/issues/1170) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
-| 🧑‍💻: Add GitHub Workflow for Auto-Closing Similar Issue Requests | Medium | [#1011](https://github.com/Code-A2Z/code-a2z/issues/1011) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
@@ -189,7 +187,6 @@ Accessibility features like dark mode,white.
 | added responsive-dropdown menu when user not loged in | Medium | [#127](https://github.com/Bavanetha27/Refixly/pull/127) |
 | "Powerful Features" Section Not Adopting Light Mode Theme | Medium | [#126](https://github.com/Bavanetha27/Refixly/issues/126) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
-| UI: Improved landing page design | Medium | [#103](https://github.com/Bavanetha27/Refixly/pull/103) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
 | Oauth | Medium | [#4](https://github.com/Bavanetha27/Refixly/issues/4) |
 
@@ -304,8 +301,19 @@ Schools, offices, and wellness centers looking to green their spaces
 |----------|----------------|---------|
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
-| <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
-| <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| Add Global Error Boundary with Retry Support | Medium | [#253](https://github.com/Devasy/splitwiser/pull/253) |
+| Add Global Error Boundary with Retry Mechanism | Medium | [#252](https://github.com/Devasy/splitwiser/pull/252) |
+| ux: Add global error boundary with dual-theme support | Medium | [#251](https://github.com/Devasy/splitwiser/pull/251) |
+| enhance: Add global error boundary with retry mechanism | Medium | [#250](https://github.com/Devasy/splitwiser/pull/250) |
+| ux: Add ErrorBoundary with retry for API failures | Medium | [#249](https://github.com/Devasy/splitwiser/pull/249) |
+| Add Error Boundary to Web App | Medium | [#248](https://github.com/Devasy/splitwiser/pull/248) |
+| enhance: Add error boundary with retry mechanism | Medium | [#247](https://github.com/Devasy/splitwiser/pull/247) |
+| Add Global Error Boundary with Retry Mechanism | Medium | [#246](https://github.com/Devasy/splitwiser/pull/246) |
+| enhance: Add global error boundary with retry and theme support | Medium | [#245](https://github.com/Devasy/splitwiser/pull/245) |
+| Add global Error Boundary with dual-theme support | Medium | [#244](https://github.com/Devasy/splitwiser/pull/244) |
+| Add Global Error Boundary with Retry Mechanism | Medium | [#243](https://github.com/Devasy/splitwiser/pull/243) |
+| Add Global Error Boundary with dual-theme support | Medium | [#242](https://github.com/Devasy/splitwiser/pull/242) |
+| enhance: Add error boundary with retry mechanism | Medium | [#241](https://github.com/Devasy/splitwiser/pull/241) |
 | Add Global Error Boundary to Web App | Medium | [#240](https://github.com/Devasy/splitwiser/pull/240) |
 | Implement Splitwise import functionality | Medium | [#239](https://github.com/Devasy/splitwiser/pull/239) |
 | Enhance: Add Error Boundary with Retry | Medium | [#238](https://github.com/Devasy/splitwiser/pull/238) |
@@ -314,12 +322,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy/splitwiser/issues/207) |
 | Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
-| pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
-| Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
-| Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
-| API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
-| Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy/splitwiser/pull/148) |
-| Fix preview workflow for forks | Medium | [#146](https://github.com/Devasy/splitwiser/pull/146) |
 
 ---
 
@@ -498,7 +500,9 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: remove unnecessary backup/test/duplicate files | Medium | [#706](https://github.com/NishantRana07/HrRoadways/pull/706) |
+| Make the documentation better | Easy | [#708](https://github.com/NishantRana07/HrRoadways/issues/708) |
+| feat: Add Offline Mode (PWA) for Bus Schedules | Medium | [#709](https://github.com/NishantRana07/HrRoadways/issues/709) |
+| Improve text clarity and grammar in Royal Haryana Tourism section | Medium | [#707](https://github.com/NishantRana07/HrRoadways/issues/707) |
 
 ---
 
@@ -595,11 +599,9 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Automatically fetching the location based on the user input. | Medium | [#73](https://github.com/Sahilll94/Travel-Book/issues/73) |
 | Need Performance optimization | Medium | [#70](https://github.com/Sahilll94/Travel-Book/issues/70) |
 | Add Left & Right Padding/Margin in "Our Services" Section | Medium | [#61](https://github.com/Sahilll94/Travel-Book/issues/61) |
-| Fixed (Story Creation Form Skips to Next Page on Small Screens) | Medium | [#56](https://github.com/Sahilll94/Travel-Book/pull/56) |
-| UI enhancement of home page | Medium | [#55](https://github.com/Sahilll94/Travel-Book/pull/55) |
-| Fix overlapping Back-to-Top and Plus buttons by adjusting bottom spacing | Medium | [#53](https://github.com/Sahilll94/Travel-Book/pull/53) |
 | Adding Framer Motion to hero section make site interactive | Medium | [#4](https://github.com/Sahilll94/Travel-Book/issues/4) |
 
 ---
@@ -878,7 +880,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Add user profile updates section | Medium | [#104](https://github.com/CoderUzumaki/PrepEdge-AI/issues/104) |
 | Add a /health health check endpoint | Medium | [#103](https://github.com/CoderUzumaki/PrepEdge-AI/issues/103) |
 | Enhance Interview Setup Page with Multi-Step Form and Resume Upload | Medium | [#101](https://github.com/CoderUzumaki/PrepEdge-AI/pull/101) |
-| fix: scroll to top | Medium | [#100](https://github.com/CoderUzumaki/PrepEdge-AI/pull/100) |
 | Add spacing before dropdown arrow in "Number of Questions" input | Medium | [#98](https://github.com/CoderUzumaki/PrepEdge-AI/issues/98) |
 | Feature: Add Daily Interview Question Widget on Dashboard | Medium | [#97](https://github.com/CoderUzumaki/PrepEdge-AI/issues/97) |
 | Add a Peer Discussion / Forum Page | Medium | [#96](https://github.com/CoderUzumaki/PrepEdge-AI/issues/96) |
@@ -1176,6 +1177,7 @@ Fast Workflow Tools
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
+| CTA Section Styling Does Not Match Site Theme | Medium | [#14](https://github.com/lovelymahor/StudyMatePlus/issues/14) |
 
 ---
 
@@ -1193,11 +1195,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Story routes addition in the backend server | Medium | [#180](https://github.com/IndieHub25/GroqTales/issues/180) |
-| Fix system theme | Medium | [#179](https://github.com/IndieHub25/GroqTales/pull/179) |
-| feat: Improved accessibility with ARIA labels and focus states | Medium | [#177](https://github.com/IndieHub25/GroqTales/pull/177) |
-| Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
-| [Feature] Comic Backend Structure: Models, Pages, Assets, Publish Saga, Accessibility | Hard | [#175](https://github.com/IndieHub25/GroqTales/issues/175) |
+| Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
+| Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
+| Implement real account settings with backend‑connected profile and email/Google authentication | Hard | [#188](https://github.com/IndieHub25/GroqTales/issues/188) |
+| Implement real-time user profile view instead of static example profile | Hard | [#187](https://github.com/IndieHub25/GroqTales/issues/187) |
+| BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
 ---
 
@@ -1388,40 +1390,16 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: User Setting Frontend | Medium | [#206](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/206) |
-| feat: User Settings Backend | Medium | [#205](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/205) |
-| User Settings Frontend Page | Medium | [#198](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/198) |
-| User Settings Page Backend | Medium | [#197](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/197) |
+| BUG: UI Inconsistencies in About Page | Medium | [#235](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/235) |
+| feat: Add conversation-level privacy controls | Medium | [#234](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/234) |
+| BUG: About page shows placeholder team member names and profiles | Medium | [#233](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/233) |
+| BUG: "Contact Us" link in About section is not working | Medium | [#232](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/232) |
+| feat: Review | Medium | [#230](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/230) |
+| 'Stop' button stuck in Production (Proposed solution for #219) | Medium | [#229](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/229) |
+| 'Email' link in footer redirects to homepage instead of opening mail client | Medium | [#228](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/228) |
+| OTHER: Remove unused mobile menu state logic from HomePage | Medium | [#218](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/218) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
-| Key Board Shortcuts | Medium | [#172](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/172) |
-| Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
-| FEATURE: Create Model info Page | Medium | [#82](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/82) |
-| FEATURE: Dynamic Testimonial Section | Hard | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
-| FEATURE: Create Page for User Profile Settings | Hard | [#81](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/81) |
-
----
-
-## 📌 Project: Factshare
-
-📝 **Description:** Engineered an AI-powered fact-checking platform that achieved 92% accuracy in misinformation detection using
- 
- Gemini APIs for claim analysis and image text extraction. Integrated Google Fact Check API for real-time news validation
- 
- and a version-controlled credibility tracking system. Enhanced engagement with a chatbot delivering live, verifiable news links.
- 
- Enabled a 30% boost in verification participation through a community-driven voting system.
-
-🔗 [View Project](https://github.com/Saathviga9605/Factshare)
-
-💻 **Tech Stack:** React, Flask, MongoDB, Gemini API, Google Search Fact Check API
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Registration Form UI Overflow Bug + Improvements | Medium | [#6](https://github.com/Saathviga9605/FactShare/pull/6) |
+| FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
 
 ---
 
