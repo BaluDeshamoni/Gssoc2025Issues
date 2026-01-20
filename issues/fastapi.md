@@ -43,7 +43,10 @@
 |----------|----------------|---------|
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
-| <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
+| Add Global Error Boundary with Retry Support | Medium | [#253](https://github.com/Devasy/splitwiser/pull/253) |
+| Add Global Error Boundary with Retry Mechanism | Medium | [#252](https://github.com/Devasy/splitwiser/pull/252) |
+| ux: Add global error boundary with dual-theme support | Medium | [#251](https://github.com/Devasy/splitwiser/pull/251) |
+| enhance: Add global error boundary with retry mechanism | Medium | [#250](https://github.com/Devasy/splitwiser/pull/250) |
 | ux: Add ErrorBoundary with retry for API failures | Medium | [#249](https://github.com/Devasy/splitwiser/pull/249) |
 | Add Error Boundary to Web App | Medium | [#248](https://github.com/Devasy/splitwiser/pull/248) |
 | enhance: Add error boundary with retry mechanism | Medium | [#247](https://github.com/Devasy/splitwiser/pull/247) |
@@ -61,7 +64,6 @@
 | Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy/splitwiser/issues/207) |
 | Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
-| pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
 
 ---
 
