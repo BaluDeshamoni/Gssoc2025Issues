@@ -141,6 +141,8 @@
 | UPLOAD PAGE FOR DESKTOP WALLPAPERS | Easy | [#126](https://github.com/WallGodds/WallGodds-Web/issues/126) |
 | ABOUT US IN MOBILE VERSION | Easy | [#88](https://github.com/WallGodds/WallGodds-Web/issues/88) |
 | 🌱 Fix the Responsiveness of the Gallery Page | Easy | [#87](https://github.com/WallGodds/WallGodds-Web/issues/87) |
+| 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#8](https://github.com/WallGodds/WallGodds-Web/issues/8) |
+| Search UI exists but search functionality is not implemented | Medium | [#156](https://github.com/WallGodds/WallGodds-Web/issues/156) |
 | User Registration | Medium | [#155](https://github.com/WallGodds/WallGodds-Web/issues/155) |
 | Bug Report: Ui bug in gallery page | Medium | [#154](https://github.com/WallGodds/WallGodds-Web/issues/154) |
 | 🚨 IMPORTANT NOTE – PLEASE READ 🚨 | Medium | [#153](https://github.com/WallGodds/WallGodds-Web/issues/153) |
@@ -253,8 +255,6 @@
 | [UPLOAD PAGE] EDIT WALLPAPER POPUP | Easy | [#52](https://github.com/WallGodds/WallGodds-App/issues/52) |
 | [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/WallGodds/WallGodds-App/issues/47) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/WallGodds/WallGodds-App/issues/1) |
-| Gallery Page Loads Wallpapers Slowly | Medium | [#57](https://github.com/WallGodds/WallGodds-App/issues/57) |
-| Upload Page Missing – Showing “Under Construction” & No Live Wallpaper Support | Medium | [#56](https://github.com/WallGodds/WallGodds-App/issues/56) |
 | 🚨 IMPORTANT NOTE – PLEASE READ 🚨 | Medium | [#54](https://github.com/WallGodds/WallGodds-App/issues/54) |
 
 ---
@@ -382,7 +382,6 @@
 | favicon implementation | Medium | [#82](https://github.com/Skrache/crisisboard/issues/82) |
 | Add "Back to Top" button in README | Medium | [#72](https://github.com/Skrache/crisisboard/issues/72) |
 | Need About us Section | Medium | [#63](https://github.com/Skrache/crisisboard/issues/63) |
-| Added search and filter feature | Medium | [#48](https://github.com/Skrache/crisisboard/pull/48) |
 | Add Password Strength Checker to User Input Form | Medium | [#34](https://github.com/Skrache/crisisboard/issues/34) |
 | Implement Firebase Authentication for College Email-Based Login/Signup | Medium | [#17](https://github.com/Skrache/crisisboard/issues/17) |
 | README file update | Medium | [#16](https://github.com/Skrache/crisisboard/issues/16) |
