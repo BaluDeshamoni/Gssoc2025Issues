@@ -14,6 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed Text visibility issue on appointments page | Medium | [#145](https://github.com/Dipanita45/HEALCONNECT/pull/145) |
+| Added Footer to all pages | Medium | [#144](https://github.com/Dipanita45/HEALCONNECT/pull/144) |
+| Added logout button with hover effects | Medium | [#143](https://github.com/Dipanita45/HEALCONNECT/pull/143) |
+| fixed home icon being hidden | Medium | [#142](https://github.com/Dipanita45/HEALCONNECT/pull/142) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -52,9 +56,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(adjlist): Implement impl_hasVertex(const VertexType &v) in AdjacencyList.hpp | Easy | [#116](https://github.com/SharonIV0x86/CinderPeak/issues/116) |
+| Tracking Issue: Refactoring of Hybrid CSR Storage Format | Medium | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
 | feat(algorithms): Added support for algorithms. | Medium | [#157](https://github.com/SharonIV0x86/CinderPeak/pull/157) |
-| Add CI for autocomment on PR / ISSUES | Medium | [#128](https://github.com/SharonIV0x86/CinderPeak/issues/128) |
 | Tracking Issue: Tests for Error and Logging Policies | Medium | [#120](https://github.com/SharonIV0x86/CinderPeak/issues/120) |
 | feat(vis): Improve visualization engine and interactive node dragging in SFML. | Medium | [#19](https://github.com/SharonIV0x86/CinderPeak/issues/19) |
 
