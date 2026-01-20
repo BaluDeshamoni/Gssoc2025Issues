@@ -138,52 +138,6 @@
 
 ---
 
-## 📌 Project: quiz app 
-
-📝 **Description:** a quiz app made using html, css and javascript 
-
-🔗 [View Project](https://github.com/Jadhav124Akshada/SkinSense.git)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Claude Code GitHub Workflow | Medium | [#81](https://github.com/Jadhav124Akshada/SkinSense/issues/81) |
-| Added style to upload page | Medium | [#80](https://github.com/Jadhav124Akshada/SkinSense/pull/80) |
-| Updated index.html page and give light/dark theme effect | Medium | [#79](https://github.com/Jadhav124Akshada/SkinSense/pull/79) |
-| Improve Project Documentation and Community Standards | Medium | [#78](https://github.com/Jadhav124Akshada/SkinSense/issues/78) |
-| ## 🪄 Issue: Improve UI | Medium | [#77](https://github.com/Jadhav124Akshada/SkinSense/issues/77) |
-| upload image to empty image path | Medium | [#76](https://github.com/Jadhav124Akshada/SkinSense/pull/76) |
-| Fixed the image preview | Medium | [#75](https://github.com/Jadhav124Akshada/SkinSense/pull/75) |
-| Feature: Add Dark Mode Toggle for Better UX | Medium | [#74](https://github.com/Jadhav124Akshada/SkinSense/issues/74) |
-| Updated style.css | Medium | [#73](https://github.com/Jadhav124Akshada/SkinSense/pull/73) |
-| Updated login.html | Medium | [#72](https://github.com/Jadhav124Akshada/SkinSense/pull/72) |
-| Update index.html | Medium | [#71](https://github.com/Jadhav124Akshada/SkinSense/pull/71) |
-| updated Ui design | Medium | [#70](https://github.com/Jadhav124Akshada/SkinSense/pull/70) |
-| Improvement :appointment page | Medium | [#69](https://github.com/Jadhav124Akshada/SkinSense/issues/69) |
-| make a contributor too | Medium | [#67](https://github.com/Jadhav124Akshada/SkinSense/pull/67) |
-| created background.png | Medium | [#66](https://github.com/Jadhav124Akshada/SkinSense/pull/66) |
-| Contributed on  style.css | Medium | [#65](https://github.com/Jadhav124Akshada/SkinSense/pull/65) |
-| Integrate chatbot popup for patient interaction | Medium | [#63](https://github.com/Jadhav124Akshada/SkinSense/issues/63) |
-| Index page | Medium | [#62](https://github.com/Jadhav124Akshada/SkinSense/pull/62) |
-| Request to contribute to upload.html | Medium | [#61](https://github.com/Jadhav124Akshada/SkinSense/pull/61) |
-| Background Colour Change & Border color change | Medium | [#60](https://github.com/Jadhav124Akshada/SkinSense/pull/60) |
-| Customized quiz app with new questions, styles, and branding | Medium | [#59](https://github.com/Jadhav124Akshada/SkinSense/pull/59) |
-| Add a CONTRIBUTING.md file | Medium | [#57](https://github.com/Jadhav124Akshada/SkinSense/issues/57) |
-| Add Code of Conduct.md file | Medium | [#56](https://github.com/Jadhav124Akshada/SkinSense/issues/56) |
-| Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#55](https://github.com/Jadhav124Akshada/SkinSense/issues/55) |
-| Enhanced UI/UX design of appointment booking form | Medium | [#54](https://github.com/Jadhav124Akshada/SkinSense/pull/54) |
-| Validation Missing on "Create Account" Form Fields | Medium | [#51](https://github.com/Jadhav124Akshada/SkinSense/issues/51) |
-| Add image preview feature before uploading | Medium | [#50](https://github.com/Jadhav124Akshada/SkinSense/issues/50) |
-| I can handle the full frontend tuning and possibly integrating the login system with google firebase(with the owners perms) | Medium | [#49](https://github.com/Jadhav124Akshada/SkinSense/issues/49) |
-| creating a AI  model for prediction of the skin disease | Medium | [#48](https://github.com/Jadhav124Akshada/SkinSense/issues/48) |
-
----
-
 ## 📌 Project: exciting_pong-game
 
 📝 **Description:** An classic Pong game built with HTML, CSS, and JavaScript, featuring AI, difficulty levels, and sound effects.
@@ -465,7 +419,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| README Enhancement: Add Firebase Setup & Deployment Instructions | Medium | [#124](https://github.com/Dipanita45/HEALCONNECT/issues/124) |
+| Fixed Text visibility issue on appointments page | Medium | [#145](https://github.com/Dipanita45/HEALCONNECT/pull/145) |
+| Added Footer to all pages | Medium | [#144](https://github.com/Dipanita45/HEALCONNECT/pull/144) |
+| Added logout button with hover effects | Medium | [#143](https://github.com/Dipanita45/HEALCONNECT/pull/143) |
+| fixed home icon being hidden | Medium | [#142](https://github.com/Dipanita45/HEALCONNECT/pull/142) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -606,7 +563,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Pending issues | Medium | [#42](https://github.com/kanikaa-3018/contest_onlinejudge/issues/42) |
 | added the toggle button for light and dark theme change | Medium | [#41](https://github.com/kanikaa-3018/contest_onlinejudge/pull/41) |
 | Peer Room Chat + Collaboration | Medium | [#40](https://github.com/kanikaa-3018/contest_onlinejudge/issues/40) |
-| fix: Dark/Light Mode Toggle Implementation | Medium | [#39](https://github.com/kanikaa-3018/contest_onlinejudge/pull/39) |
 | improvement needed in dashboard section | Medium | [#38](https://github.com/kanikaa-3018/contest_onlinejudge/issues/38) |
 | Hovering & Button Text Visibility Bug in Peer Rooms Cards | Medium | [#37](https://github.com/kanikaa-3018/contest_onlinejudge/issues/37) |
 | Enhance Login & Register UI with Social Login, Password UX, and Modern Design | Medium | [#36](https://github.com/kanikaa-3018/contest_onlinejudge/issues/36) |
@@ -705,6 +661,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add clickable preview box for the location in the footer | Medium | [#588](https://github.com/Mujtabaa07/coffeeShop/issues/588) |
 | Adding More coffee recipes | Medium | [#587](https://github.com/Mujtabaa07/coffeeShop/issues/587) |
 | Implement OpenCV Order Receipt Scanner | Medium | [#586](https://github.com/Mujtabaa07/coffeeShop/pull/586) |
 | Fix: Add Password Visibility Toggle and Update Regex to Allow | Medium | [#585](https://github.com/Mujtabaa07/coffeeShop/pull/585) |
@@ -729,7 +686,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | <search functionality not working on shop page> | Medium | [#550](https://github.com/Mujtabaa07/coffeeShop/issues/550) |
 | Move social media icons to bottom of footer | Medium | [#549](https://github.com/Mujtabaa07/coffeeShop/issues/549) |
 | (ui): make 'Edit Profile' button functional and navigable | Medium | [#537](https://github.com/Mujtabaa07/coffeeShop/issues/537) |
-| ENHANCE : the top and the cup icon enhance | Medium | [#535](https://github.com/Mujtabaa07/coffeeShop/pull/535) |
 
 ---
 
@@ -773,29 +729,33 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix/contact dropdown theme | Easy | [#902](https://github.com/omroy07/AgriTech/pull/902) |
-| Fixed read more modal not opening for last 2 posts | Medium | [#912](https://github.com/omroy07/AgriTech/pull/912) |
-| Fix: Theme toggle not working due to JavaScript runtime error | Medium | [#911](https://github.com/omroy07/AgriTech/pull/911) |
-| Added User Blog Posting Feature to AgriTech Blog Section | Medium | [#910](https://github.com/omroy07/AgriTech/pull/910) |
-| Smart Field Analytics: Precision Agriculture Dashboard with GIS & NDVI | Medium | [#909](https://github.com/omroy07/AgriTech/issues/909) |
-| Fix: Improve card and text visibility in dark mode on Marketplace page | Medium | [#908](https://github.com/omroy07/AgriTech/pull/908) |
-| Fix: Theme Toggle Consistency Across Pages | Medium | [#907](https://github.com/omroy07/AgriTech/pull/907) |
-| <short description>Fix the footer | Medium | [#906](https://github.com/omroy07/AgriTech/issues/906) |
-| Services Drop Down Menu does not work | Medium | [#905](https://github.com/omroy07/AgriTech/issues/905) |
-| Social media buttons do not redirect to their respective pages. | Medium | [#904](https://github.com/omroy07/AgriTech/issues/904) |
-| About Page Navbar, Hamburger, and Theme Toggle Issues | Medium | [#899](https://github.com/omroy07/AgriTech/issues/899) |
-| BUG: Home page theme toggle not working | Medium | [#898](https://github.com/omroy07/AgriTech/issues/898) |
-| Add Sitemap Page for Better Project Navigation and Contributor Onboarding | Medium | [#895](https://github.com/omroy07/AgriTech/issues/895) |
-| UI & Functionality Issues on Plant Disease Detection Page | Medium | [#894](https://github.com/omroy07/AgriTech/issues/894) |
-| Footer Layout Issue: Crop Calendar Page Footer Is Inconsistent | Medium | [#893](https://github.com/omroy07/AgriTech/issues/893) |
-| UI/UX Enhancement: Careers Page Needs Modern Styling & Interactions | Medium | [#892](https://github.com/omroy07/AgriTech/issues/892) |
-| Duplicate navigation bar displayed on About page with incorrect spacing | Medium | [#889](https://github.com/omroy07/AgriTech/issues/889) |
-| UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#886](https://github.com/omroy07/AgriTech/issues/886) |
-| UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#885](https://github.com/omroy07/AgriTech/issues/885) |
-| Fix About Page Navbar, Hamburger, and Theme Toggle Issues | Medium | [#877](https://github.com/omroy07/AgriTech/pull/877) |
-| Navbar UI breaks - duplicated header and stacked menu items | Medium | [#874](https://github.com/omroy07/AgriTech/issues/874) |
-| Enhancement: Add keyboard navigation & ARIA labels to Favorites | Medium | [#870](https://github.com/omroy07/AgriTech/pull/870) |
-| Redesign navbar for better usability and consistency | Medium | [#865](https://github.com/omroy07/AgriTech/issues/865) |
+| Supply Chain Support page layout broken / content not styled properly | Easy | [#1009](https://github.com/omroy07/AgriTech/issues/1009) |
+| Dark and Light mode toggle icons overlap on About page | Medium | [#1032](https://github.com/omroy07/AgriTech/issues/1032) |
+| [Bug] Update Outdated Year on FAQ Page Footer | Medium | [#1031](https://github.com/omroy07/AgriTech/issues/1031) |
+| Update year on Terms & Services page | Medium | [#1030](https://github.com/omroy07/AgriTech/pull/1030) |
+| Fix Back to Home button to preserve theme and scroll position in Agribot | Medium | [#1029](https://github.com/omroy07/AgriTech/pull/1029) |
+| Implement Health Check and Monitoring Endpoints | Medium | [#1027](https://github.com/omroy07/AgriTech/issues/1027) |
+| Implement API Versioning with Flask Blueprints | Medium | [#1026](https://github.com/omroy07/AgriTech/issues/1026) |
+| Implement WebSocket Real-Time Notifications for Task Updates | Medium | [#1025](https://github.com/omroy07/AgriTech/issues/1025) |
+| feat: implement async task queue with Celery and Redis | Medium | [#1024](https://github.com/omroy07/AgriTech/pull/1024) |
+| feat: implement comprehensive backend test suite with pytest | Medium | [#1023](https://github.com/omroy07/AgriTech/pull/1023) |
+| fix: add footer component to labour scheduling page | Medium | [#1022](https://github.com/omroy07/AgriTech/pull/1022) |
+| Redesign Navigation Bar  - Shopkeeper Listing | Medium | [#1021](https://github.com/omroy07/AgriTech/pull/1021) |
+| fix: the supply chain page broken layout | Medium | [#1020](https://github.com/omroy07/AgriTech/pull/1020) |
+| Feature/interactive blog modal close | Medium | [#1019](https://github.com/omroy07/AgriTech/pull/1019) |
+| feat: enhance navbar styling | Medium | [#1018](https://github.com/omroy07/AgriTech/pull/1018) |
+| fix: resolve critical contrast failure in System Alerts section. | Medium | [#1017](https://github.com/omroy07/AgriTech/pull/1017) |
+| Fix project structure by removing duplicate folders and files for Crop & Disease Prediction | Medium | [#1016](https://github.com/omroy07/AgriTech/pull/1016) |
+| feat: implement interactive pop-out hover effects for Supply Chain dashboard | Medium | [#1015](https://github.com/omroy07/AgriTech/pull/1015) |
+| fix: resolve poor text visibility on Sustainability Tips cards | Medium | [#1014](https://github.com/omroy07/AgriTech/pull/1014) |
+| feat: implement hide-on-scroll navigation and improve text visibility in sustainable-farming | Medium | [#1013](https://github.com/omroy07/AgriTech/pull/1013) |
+| Add Home Page Navbar to Blog Page Instead of “Back to Home” Button | Medium | [#1010](https://github.com/omroy07/AgriTech/issues/1010) |
+| Add search popup feature showing matched product cards and 'no result… | Medium | [#1005](https://github.com/omroy07/AgriTech/pull/1005) |
+| Implement Async Task Queue with Celery and Redis | Medium | [#1003](https://github.com/omroy07/AgriTech/issues/1003) |
+| API fetch error in the ChatBot | Medium | [#1002](https://github.com/omroy07/AgriTech/issues/1002) |
+| Add offline support and graceful network failure handling | Medium | [#1001](https://github.com/omroy07/AgriTech/pull/1001) |
+| UI Bug: About Us page text readability and layout issues | Medium | [#1000](https://github.com/omroy07/AgriTech/issues/1000) |
+| Bug: Scheme Eligibility page not functioning (no response on submit) | Medium | [#999](https://github.com/omroy07/AgriTech/issues/999) |
 
 ---
 
@@ -1153,12 +1113,13 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump prettier from 3.6.2 to 3.7.4 | Easy | [#1248](https://github.com/recodehive/recode-website/pull/1248) |
+| 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.53.0 | Medium | [#1259](https://github.com/recodehive/recode-website/pull/1259) |
-| chore: bump @typescript-eslint/parser from 8.46.2 to 8.53.0 | Medium | [#1258](https://github.com/recodehive/recode-website/pull/1258) |
-| chore: bump react and @types/react | Medium | [#1257](https://github.com/recodehive/recode-website/pull/1257) |
-| chore: bump lucide-react from 0.503.0 to 0.562.0 | Medium | [#1251](https://github.com/recodehive/recode-website/pull/1251) |
+| chore: bump firebase from 9.23.0 to 12.8.0 | Medium | [#1265](https://github.com/recodehive/recode-website/pull/1265) |
+| chore: bump react and @types/react | Medium | [#1264](https://github.com/recodehive/recode-website/pull/1264) |
+| chore: bump react-slot-counter from 3.3.1 to 3.3.2 | Medium | [#1263](https://github.com/recodehive/recode-website/pull/1263) |
+| chore: bump eslint from 9.38.0 to 9.39.2 | Medium | [#1262](https://github.com/recodehive/recode-website/pull/1262) |
+| chore: bump tailwindcss from 4.1.14 to 4.1.18 | Medium | [#1261](https://github.com/recodehive/recode-website/pull/1261) |
 
 ---
 
@@ -1477,7 +1438,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | favicon implementation | Medium | [#82](https://github.com/Skrache/crisisboard/issues/82) |
 | Add "Back to Top" button in README | Medium | [#72](https://github.com/Skrache/crisisboard/issues/72) |
 | Need About us Section | Medium | [#63](https://github.com/Skrache/crisisboard/issues/63) |
-| Added search and filter feature | Medium | [#48](https://github.com/Skrache/crisisboard/pull/48) |
 | Add Password Strength Checker to User Input Form | Medium | [#34](https://github.com/Skrache/crisisboard/issues/34) |
 | Implement Firebase Authentication for College Email-Based Login/Signup | Medium | [#17](https://github.com/Skrache/crisisboard/issues/17) |
 | README file update | Medium | [#16](https://github.com/Skrache/crisisboard/issues/16) |
@@ -1595,6 +1555,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add scroll to top functionality across all pages | Medium | [#584](https://github.com/Creators-Space/Creators-Space/issues/584) |
 | Animated Header Text and Visual Enhancements | Medium | [#583](https://github.com/Creators-Space/Creators-Space/pull/583) |
 | Redesign of Contact us page | Medium | [#582](https://github.com/Creators-Space/Creators-Space/pull/582) |
 | Redesign of Resource Sharing hub | Medium | [#581](https://github.com/Creators-Space/Creators-Space/pull/581) |
@@ -1624,7 +1585,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Dark mode for FAQ section | Medium | [#556](https://github.com/Creators-Space/Creators-Space/issues/556) |
 | Search functionality implemented for faq | Medium | [#554](https://github.com/Creators-Space/Creators-Space/pull/554) |
 | social media app links working in projects page | Medium | [#553](https://github.com/Creators-Space/Creators-Space/pull/553) |
-| sign in button not visible | Medium | [#552](https://github.com/Creators-Space/Creators-Space/issues/552) |
 
 ---
 
@@ -1946,6 +1906,7 @@ Fast Workflow Tools
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
+| CTA Section Styling Does Not Match Site Theme | Medium | [#14](https://github.com/lovelymahor/StudyMatePlus/issues/14) |
 
 ---
 
@@ -2003,7 +1964,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updating Story Routes | Medium | [#181](https://github.com/IndieHub25/GroqTales/pull/181) |
+| Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
+| Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
+| Implement real account settings with backend‑connected profile and email/Google authentication | Hard | [#188](https://github.com/IndieHub25/GroqTales/issues/188) |
+| Implement real-time user profile view instead of static example profile | Hard | [#187](https://github.com/IndieHub25/GroqTales/issues/187) |
+| BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
 ---
 
@@ -2081,7 +2046,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.26.2 | Medium | [#239](https://github.com/Ojas-Arora/SapneSeSafar/pull/239) |
+| Bump framer-motion from 11.18.2 to 12.27.1 | Medium | [#240](https://github.com/Ojas-Arora/SapneSeSafar/pull/240) |
 | Bump zustand from 4.5.6 to 5.0.10 | Medium | [#237](https://github.com/Ojas-Arora/SapneSeSafar/pull/237) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.90.1 | Medium | [#234](https://github.com/Ojas-Arora/SapneSeSafar/pull/234) |
 | Bump react-router-dom from 6.28.2 to 7.12.0 | Medium | [#233](https://github.com/Ojas-Arora/SapneSeSafar/pull/233) |
