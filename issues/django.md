@@ -14,31 +14,27 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fixed responsiveness | Medium | [#3323](https://github.com/OWASP/Nest/pull/3323) |
-| Fix ChapterMap locking behavior and wide screen layout issues | Medium | [#3322](https://github.com/OWASP/Nest/pull/3322) |
-| Duplicate contributor list components in frontend | Medium | [#3321](https://github.com/OWASP/Nest/issues/3321) |
-| Inconsistent behavior of from_github() across backend models | Medium | [#3320](https://github.com/OWASP/Nest/issues/3320) |
-| Reduce duplicated form logic between ModuleForm and ProgramForm | Medium | [#3319](https://github.com/OWASP/Nest/issues/3319) |
-| fix(frontend): remove invalid turbopack config key | Medium | [#3318](https://github.com/OWASP/Nest/pull/3318) |
-| fix: hide contribution section when total is zero | Medium | [#3317](https://github.com/OWASP/Nest/pull/3317) |
-| Simplify heatmap data checks for contributions and communications | Medium | [#3315](https://github.com/OWASP/Nest/pull/3315) |
-| Hide Contribution activity when no contributions exist | Medium | [#3314](https://github.com/OWASP/Nest/pull/3314) |
-| Migrate Project recent_milestones property to M2M relation field | Medium | [#3313](https://github.com/OWASP/Nest/issues/3313) |
-| Migrate Project published_releases property to M2M relation field | Medium | [#3312](https://github.com/OWASP/Nest/issues/3312) |
-| Migrate Project pull_requests property to M2M relation field | Medium | [#3311](https://github.com/OWASP/Nest/issues/3311) |
-| Migrate Project issues property to M2M relation field | Medium | [#3310](https://github.com/OWASP/Nest/issues/3310) |
-| Fix/remove redundant non null assertions | Medium | [#3306](https://github.com/OWASP/Nest/pull/3306) |
-| fix(frontend): remove unused closeDelay prop (typescript:S6767) | Medium | [#3305](https://github.com/OWASP/Nest/pull/3305) |
-| Implement Subscription and Notification Models | Medium | [#3304](https://github.com/OWASP/Nest/issues/3304) |
-| Hide contribution section when no contributions exist | Medium | [#3303](https://github.com/OWASP/Nest/pull/3303) |
-| Refactor Resolver  Function naming | Medium | [#3299](https://github.com/OWASP/Nest/issues/3299) |
-| Add reusable Contribution Heatmap to member page for design consistency | Medium | [#3298](https://github.com/OWASP/Nest/pull/3298) |
-| Improve Module Card: Show mentors/mentee avatars & change grid to 3 columns | Medium | [#3296](https://github.com/OWASP/Nest/pull/3296) |
-| Fix brittle OWASP event date parsing and add regression tests | Medium | [#3295](https://github.com/OWASP/Nest/pull/3295) |
-| ci: fix ignored timeout-minutes and add job-level timeouts | Medium | [#3291](https://github.com/OWASP/Nest/pull/3291) |
-| refactor: resolve implicit any errors and improve fe type safety | Medium | [#3289](https://github.com/OWASP/Nest/pull/3289) |
-| Suppress non-actionable ZAP baseline warnings for Next.js SPA | Medium | [#3284](https://github.com/OWASP/Nest/pull/3284) |
-| add comprehensive filtering to project list page | Medium | [#3281](https://github.com/OWASP/Nest/issues/3281) |
+| docs: improve list projects OpenAPI examples | Easy | [#3397](https://github.com/OWASP/Nest/pull/3397) |
+| Add no-index-key eslint rule | Medium | [#3429](https://github.com/OWASP/Nest/pull/3429) |
+| Add structured query filtering to Project REST API | Medium | [#3428](https://github.com/OWASP/Nest/pull/3428) |
+| SonarQube: Merge consecutive RUN instructions in dockerfile. | Medium | [#3427](https://github.com/OWASP/Nest/issues/3427) |
+| feat: expose rate limit metadata via response headers | Medium | [#3425](https://github.com/OWASP/Nest/pull/3425) |
+| Disable module date selection outside program duration | Medium | [#3424](https://github.com/OWASP/Nest/pull/3424) |
+| Make issue labels on Contribute page interactive and selectable (consistent with rest of the project) | Medium | [#3422](https://github.com/OWASP/Nest/issues/3422) |
+| feat: add accessibility tests for pages | Medium | [#3420](https://github.com/OWASP/Nest/pull/3420) |
+| Solve recentProjects query negative indexing | Medium | [#3414](https://github.com/OWASP/Nest/issues/3414) |
+| Move component definitions out of parent components to avoid unnecessary re-renders | Medium | [#3411](https://github.com/OWASP/Nest/issues/3411) |
+| Do not use array index as React key in frontend components | Medium | [#3410](https://github.com/OWASP/Nest/issues/3410) |
+| refactor: extract shared ContributorsList component | Medium | [#3408](https://github.com/OWASP/Nest/pull/3408) |
+| feat: implement enforced Semgrep scanning with clean baseline (#2984) | Medium | [#3406](https://github.com/OWASP/Nest/pull/3406) |
+| fix: show module as a section when there is only 1 module | Medium | [#3402](https://github.com/OWASP/Nest/pull/3402) |
+| Mentors can see modules they are not assigned to within a programme | Medium | [#3401](https://github.com/OWASP/Nest/issues/3401) |
+| chore(ci): add semgrep security scanning to pre-commit and CI | Medium | [#3395](https://github.com/OWASP/Nest/pull/3395) |
+| Document API Error Codes and Responses | Medium | [#3394](https://github.com/OWASP/Nest/issues/3394) |
+| Add management command to detect non-compliant project levels and apply score penalty | Medium | [#3388](https://github.com/OWASP/Nest/pull/3388) |
+| Add Rate Limiting and Query Depth Protection to GraphQL Endpoint | Medium | [#3385](https://github.com/OWASP/Nest/issues/3385) |
+| Show related PRs on public module view page | Medium | [#3380](https://github.com/OWASP/Nest/issues/3380) |
+| Oversized page titles on mobile push critical content below the fold | Medium | [#3374](https://github.com/OWASP/Nest/issues/3374) |
 
 ---
 
@@ -106,7 +102,6 @@
 | Missing of gitignore file | Medium | [#58](https://github.com/kaushav07/VisionMate/issues/58) |
 | Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
-| feat(logging): integrate scan_logger across application (Closes #41) | Medium | [#49](https://github.com/kaushav07/VisionMate/pull/49) |
 | updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
 | fixed the text-to-speech (TTS) audio playback compatibility issue | Medium | [#31](https://github.com/kaushav07/VisionMate/pull/31) |
 | Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
@@ -116,6 +111,7 @@
 | Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
 | Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
 | Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
+| Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
 
 ---
 
