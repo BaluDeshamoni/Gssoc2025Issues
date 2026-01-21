@@ -14,10 +14,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix project health metrics list filtering | Easy | [#3436](https://github.com/OWASP/Nest/issues/3436) |
 | docs: improve list projects OpenAPI examples | Easy | [#3397](https://github.com/OWASP/Nest/pull/3397) |
+| Fix: Overlapping search requests and redundant network calls on /contribute page | Medium | [#3439](https://github.com/OWASP/Nest/issues/3439) |
+| fix(a11y): use native button in MetricsScoreCircle | Medium | [#3437](https://github.com/OWASP/Nest/pull/3437) |
 | Add no-index-key eslint rule | Medium | [#3429](https://github.com/OWASP/Nest/pull/3429) |
 | Add structured query filtering to Project REST API | Medium | [#3428](https://github.com/OWASP/Nest/pull/3428) |
-| SonarQube: Merge consecutive RUN instructions in dockerfile. | Medium | [#3427](https://github.com/OWASP/Nest/issues/3427) |
 | feat: expose rate limit metadata via response headers | Medium | [#3425](https://github.com/OWASP/Nest/pull/3425) |
 | Disable module date selection outside program duration | Medium | [#3424](https://github.com/OWASP/Nest/pull/3424) |
 | Make issue labels on Contribute page interactive and selectable (consistent with rest of the project) | Medium | [#3422](https://github.com/OWASP/Nest/issues/3422) |
@@ -33,8 +35,6 @@
 | Document API Error Codes and Responses | Medium | [#3394](https://github.com/OWASP/Nest/issues/3394) |
 | Add management command to detect non-compliant project levels and apply score penalty | Medium | [#3388](https://github.com/OWASP/Nest/pull/3388) |
 | Add Rate Limiting and Query Depth Protection to GraphQL Endpoint | Medium | [#3385](https://github.com/OWASP/Nest/issues/3385) |
-| Show related PRs on public module view page | Medium | [#3380](https://github.com/OWASP/Nest/issues/3380) |
-| Oversized page titles on mobile push critical content below the fold | Medium | [#3374](https://github.com/OWASP/Nest/issues/3374) |
 
 ---
 
