@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Removing locals files from .env file | Medium | [#290](https://github.com/iaadillatif/techxninjas-client/pull/290) |
 | Add Claude Code GitHub Workflow | Medium | [#289](https://github.com/iaadillatif/techxninjas-client/issues/289) |
 | fix: notification panel logic, placement, and Supabase redirect handling | Medium | [#287](https://github.com/iaadillatif/techxninjas-client/pull/287) |
 | Feature Request: Add a Gamified Leaderboard to Ignite Daily Engagement & Community | Medium | [#285](https://github.com/iaadillatif/techxninjas-client/issues/285) |
@@ -43,7 +44,6 @@
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
 | course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
-| Template | Medium | [#253](https://github.com/iaadillatif/techxninjas-client/pull/253) |
 
 ---
 
@@ -153,6 +153,25 @@ Accessibility features like dark mode,white.
 
 ---
 
+## 📌 Project: aitoolbox.software
+
+📝 **Description:** AIToolbox is an open-source platform offering a suite of daily-use AI tools in one place, including email writing, GPT chatbot, image and logo generation, YouTube transcription, and more. It's designed for simplicity, productivity, and easy access without switching between multiple apps.
+
+🔗 [View Project](https://github.com/huamanraj/aitoolbox.software)
+
+💻 **Tech Stack:** Next.js, Tailwind CSS, React.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| generating a better logo using ai and use that | Easy | [#124](https://github.com/huamanraj/aitoolbox.software/issues/124) |
+| Improve the performance in mobile | Medium | [#123](https://github.com/huamanraj/aitoolbox.software/issues/123) |
+
+---
+
 ## 📌 Project: InfantCareCompass
 
 📝 **Description:** InfantCareCompass is a dedicated platform designed to simplify childcare management for modern parents. Balancing the joys and challenges of parenting, this application empowers users to efficiently track their child’s healthcare needs, particularly focusing on vaccination schedules, educational resources, and more.
@@ -234,30 +253,27 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Use Lambda SnapStart and optimize Zappa package | Easy | [#3381](https://github.com/OWASP/Nest/pull/3381) |
-| Disable module date selection outside program duration | Medium | [#3382](https://github.com/OWASP/Nest/issues/3382) |
-| Show related PRs on public module view page | Medium | [#3380](https://github.com/OWASP/Nest/issues/3380) |
-| Oversized page titles on mobile push critical content below the fold | Medium | [#3374](https://github.com/OWASP/Nest/issues/3374) |
-| Tablet view (~768px) still uses single-column layout on list pages | Medium | [#3372](https://github.com/OWASP/Nest/issues/3372) |
-| Enforce number type for date formatter utilities | Medium | [#3371](https://github.com/OWASP/Nest/issues/3371) |
-| Issues list is not responsive on small screens | Medium | [#3367](https://github.com/OWASP/Nest/issues/3367) |
-| Redundant tooltip on View on GitHub and empty Labels section shows no message | Medium | [#3366](https://github.com/OWASP/Nest/issues/3366) |
-| Show Deadline Status on Issues List & Add Deadline Filters in Mentorship Module | Medium | [#3365](https://github.com/OWASP/Nest/issues/3365) |
-| Add docstrings to model mixin methods | Medium | [#3358](https://github.com/OWASP/Nest/issues/3358) |
-| Detect OWASP project level non-compliance and adjust health scores | Medium | [#3354](https://github.com/OWASP/Nest/pull/3354) |
-| Simplify regex to reduce Sonar complexity while preserving behavior | Medium | [#3349](https://github.com/OWASP/Nest/pull/3349) |
-| feat(frontend): add PostHog analytics for staging and production | Medium | [#3344](https://github.com/OWASP/Nest/pull/3344) |
-| Refactor: Simplify regex to reduce its complexity | Medium | [#3342](https://github.com/OWASP/Nest/issues/3342) |
-| Implement command to detect non-compliant project levels and update score calculation | Medium | [#3340](https://github.com/OWASP/Nest/pull/3340) |
-| Fix SonarQube warning: signal handler defined as instance method without self | Medium | [#3338](https://github.com/OWASP/Nest/issues/3338) |
-| Sonar S1186: Empty ResizeObserver methods should be justified or implemented | Medium | [#3337](https://github.com/OWASP/Nest/issues/3337) |
-| Sonar S6035: Replace single-character regex alternation with character class | Medium | [#3336](https://github.com/OWASP/Nest/issues/3336) |
-| Update sync process to last 365 days | Medium | [#3335](https://github.com/OWASP/Nest/pull/3335) |
-| fix: adjust navbar breakpoints to lg to prevent overflow #3272 | Medium | [#3324](https://github.com/OWASP/Nest/pull/3324) |
-| fixed responsiveness | Medium | [#3323](https://github.com/OWASP/Nest/pull/3323) |
-| Fix ChapterMap locking behavior and wide screen layout issues | Medium | [#3322](https://github.com/OWASP/Nest/pull/3322) |
-| Duplicate contributor list components in frontend | Medium | [#3321](https://github.com/OWASP/Nest/issues/3321) |
-| Inconsistent behavior of from_github() across backend models | Medium | [#3320](https://github.com/OWASP/Nest/issues/3320) |
+| Fix project health metrics list filtering | Easy | [#3436](https://github.com/OWASP/Nest/issues/3436) |
+| docs: improve list projects OpenAPI examples | Easy | [#3397](https://github.com/OWASP/Nest/pull/3397) |
+| Fix: Overlapping search requests and redundant network calls on /contribute page | Medium | [#3439](https://github.com/OWASP/Nest/issues/3439) |
+| fix(a11y): use native button in MetricsScoreCircle | Medium | [#3437](https://github.com/OWASP/Nest/pull/3437) |
+| Add no-index-key eslint rule | Medium | [#3429](https://github.com/OWASP/Nest/pull/3429) |
+| Add structured query filtering to Project REST API | Medium | [#3428](https://github.com/OWASP/Nest/pull/3428) |
+| feat: expose rate limit metadata via response headers | Medium | [#3425](https://github.com/OWASP/Nest/pull/3425) |
+| Disable module date selection outside program duration | Medium | [#3424](https://github.com/OWASP/Nest/pull/3424) |
+| Make issue labels on Contribute page interactive and selectable (consistent with rest of the project) | Medium | [#3422](https://github.com/OWASP/Nest/issues/3422) |
+| feat: add accessibility tests for pages | Medium | [#3420](https://github.com/OWASP/Nest/pull/3420) |
+| Solve recentProjects query negative indexing | Medium | [#3414](https://github.com/OWASP/Nest/issues/3414) |
+| Move component definitions out of parent components to avoid unnecessary re-renders | Medium | [#3411](https://github.com/OWASP/Nest/issues/3411) |
+| Do not use array index as React key in frontend components | Medium | [#3410](https://github.com/OWASP/Nest/issues/3410) |
+| refactor: extract shared ContributorsList component | Medium | [#3408](https://github.com/OWASP/Nest/pull/3408) |
+| feat: implement enforced Semgrep scanning with clean baseline (#2984) | Medium | [#3406](https://github.com/OWASP/Nest/pull/3406) |
+| fix: show module as a section when there is only 1 module | Medium | [#3402](https://github.com/OWASP/Nest/pull/3402) |
+| Mentors can see modules they are not assigned to within a programme | Medium | [#3401](https://github.com/OWASP/Nest/issues/3401) |
+| chore(ci): add semgrep security scanning to pre-commit and CI | Medium | [#3395](https://github.com/OWASP/Nest/pull/3395) |
+| Document API Error Codes and Responses | Medium | [#3394](https://github.com/OWASP/Nest/issues/3394) |
+| Add management command to detect non-compliant project levels and apply score penalty | Medium | [#3388](https://github.com/OWASP/Nest/pull/3388) |
+| Add Rate Limiting and Query Depth Protection to GraphQL Endpoint | Medium | [#3385](https://github.com/OWASP/Nest/issues/3385) |
 
 ---
 
@@ -275,9 +291,11 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📃: Notes app | Easy | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
-| feat: Add GitHub workflow for auto-closing duplicate issues | Medium | [#1349](https://github.com/Code-A2Z/code-a2z/pull/1349) |
+| feat: Implement Feedback System & Navbar Integration | Medium | [#1361](https://github.com/Code-A2Z/code-a2z/pull/1361) |
+| fixed-like-issue | Medium | [#1359](https://github.com/Code-A2Z/code-a2z/pull/1359) |
+| Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
+| Logout button on Home screen not working | Medium | [#1357](https://github.com/Code-A2Z/code-a2z/issues/1357) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
@@ -285,18 +303,18 @@ Accessibility features like dark mode,white.
 | Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
-| Real-time Dashboard Features:ADD | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
-| Add a Feedback Form to Collect User Suggestions | Medium | [#1170](https://github.com/Code-A2Z/code-a2z/issues/1170) |
+| Real-time Dashboard Feature | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
+| 📃: Notes app | Medium | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
 | 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
 | 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
 | 📃: Kanban projects management system on users dashboard | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
-| 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
+| AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
 
 ---
 
@@ -513,10 +531,9 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance README structure and resolve backend documentation conflicts | Medium | [#129](https://github.com/Dipanita45/HEALCONNECT/issues/129) |
-| Add standardized Pull Request template for SWOC '26 | Medium | [#128](https://github.com/Dipanita45/HEALCONNECT/issues/128) |
-| Scroll to top button | Medium | [#127](https://github.com/Dipanita45/HEALCONNECT/pull/127) |
-| README Enhancement: Add Firebase Setup & Deployment Instructions | Medium | [#124](https://github.com/Dipanita45/HEALCONNECT/issues/124) |
+| improved the ui | Medium | [#147](https://github.com/Dipanita45/HEALCONNECT/pull/147) |
+| Unify tech stack to Firebase and add hardware flashing guide | Medium | [#146](https://github.com/Dipanita45/HEALCONNECT/pull/146) |
+| Fixed Text visibility issue on appointments page | Medium | [#145](https://github.com/Dipanita45/HEALCONNECT/pull/145) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -697,6 +714,9 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create Custom 404 Error Page for Better Navigation | Medium | [#30](https://github.com/mehak-ui/Student-Portal/issues/30) |
+| Implement Loading States for Better User Experience | Medium | [#29](https://github.com/mehak-ui/Student-Portal/issues/29) |
+| Add Client-Side Validation for Login and Registration Forms | Medium | [#28](https://github.com/mehak-ui/Student-Portal/issues/28) |
 | welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#27](https://github.com/mehak-ui/Student-Portal/issues/27) |
 | frontend enhancement | Medium | [#26](https://github.com/mehak-ui/Student-Portal/issues/26) |
 | foter added | Medium | [#25](https://github.com/mehak-ui/Student-Portal/pull/25) |
@@ -758,6 +778,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add clickable preview box for the location in the footer | Medium | [#588](https://github.com/Mujtabaa07/coffeeShop/issues/588) |
 | Adding More coffee recipes | Medium | [#587](https://github.com/Mujtabaa07/coffeeShop/issues/587) |
 | Implement OpenCV Order Receipt Scanner | Medium | [#586](https://github.com/Mujtabaa07/coffeeShop/pull/586) |
 | Fix: Add Password Visibility Toggle and Update Regex to Allow | Medium | [#585](https://github.com/Mujtabaa07/coffeeShop/pull/585) |
@@ -782,7 +803,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | <search functionality not working on shop page> | Medium | [#550](https://github.com/Mujtabaa07/coffeeShop/issues/550) |
 | Move social media icons to bottom of footer | Medium | [#549](https://github.com/Mujtabaa07/coffeeShop/issues/549) |
 | (ui): make 'Edit Profile' button functional and navigable | Medium | [#537](https://github.com/Mujtabaa07/coffeeShop/issues/537) |
-| ENHANCE : the top and the cup icon enhance | Medium | [#535](https://github.com/Mujtabaa07/coffeeShop/pull/535) |
 
 ---
 
@@ -1682,7 +1702,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix React Server Components CVE vulnerabilities | Medium | [#12](https://github.com/aykansal/EduType/pull/12) |
-| button hover effect | Medium | [#11](https://github.com/aykansal/EduType/issues/11) |
 | Add a "Back to Top" Button for Better Navigation | Medium | [#10](https://github.com/aykansal/EduType/issues/10) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#9](https://github.com/aykansal/EduType/issues/9) |
 | 🚫 License Missing from Repository | Medium | [#8](https://github.com/aykansal/EduType/issues/8) |
@@ -1832,6 +1851,7 @@ Fast Workflow Tools
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
+| CTA Section Styling Does Not Match Site Theme | Medium | [#14](https://github.com/lovelymahor/StudyMatePlus/issues/14) |
 
 ---
 
@@ -1912,6 +1932,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Implement backend proxy for map tiles and WAQI overlay with caching & rate limiting | Medium | [#113](https://github.com/prasoonk1204/BreatheEasy/pull/113) |
+| Add containerized local development workflow using Docker & Docker Compose | Medium | [#112](https://github.com/prasoonk1204/BreatheEasy/issues/112) |
 | Add AQI export to CSV/PDF | Medium | [#109](https://github.com/prasoonk1204/BreatheEasy/pull/109) |
 | enhance improvement measure file code | Medium | [#95](https://github.com/prasoonk1204/BreatheEasy/pull/95) |
 
@@ -2056,13 +2078,16 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Sign In/Out | Medium | [#224](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/224) |
-| FEATURE: Add Career page | Medium | [#223](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/223) |
-| feat: add keyboard shortcuts for common actions | Medium | [#222](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/222) |
+| BUG: UI Inconsistencies in About Page | Medium | [#235](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/235) |
+| feat: Add conversation-level privacy controls | Medium | [#234](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/234) |
+| BUG: About page shows placeholder team member names and profiles | Medium | [#233](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/233) |
+| BUG: "Contact Us" link in About section is not working | Medium | [#232](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/232) |
+| feat: Review | Medium | [#230](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/230) |
+| 'Stop' button stuck in Production (Proposed solution for #219) | Medium | [#229](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/229) |
+| 'Email' link in footer redirects to homepage instead of opening mail client | Medium | [#228](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/228) |
 | OTHER: Remove unused mobile menu state logic from HomePage | Medium | [#218](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/218) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 | FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
-| FEATURE: Dynamic Testimonial Section | Hard | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 
 ---
 
@@ -2246,11 +2271,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| build(deps): bump glob from 10.4.5 to 13.0.0 | Medium | [#103](https://github.com/dscnitrourkela/project-huckleberry/pull/103) |
 | build(deps): bump qs from 6.14.0 to 6.14.1 | Medium | [#101](https://github.com/dscnitrourkela/project-huckleberry/pull/101) |
 | build(deps): bump next from 15.3.1 to 15.4.9 | Medium | [#100](https://github.com/dscnitrourkela/project-huckleberry/pull/100) |
 | build(deps): bump @modelcontextprotocol/sdk from 1.11.0 to 1.24.0 | Medium | [#98](https://github.com/dscnitrourkela/project-huckleberry/pull/98) |
 | build(deps): bump express from 5.1.0 to 5.2.1 | Medium | [#97](https://github.com/dscnitrourkela/project-huckleberry/pull/97) |
-| build(deps): bump glob from 10.4.5 to 10.5.0 | Medium | [#96](https://github.com/dscnitrourkela/project-huckleberry/pull/96) |
 | build(deps): bump js-yaml from 4.1.0 to 4.1.1 | Medium | [#95](https://github.com/dscnitrourkela/project-huckleberry/pull/95) |
 | build(deps): bump next-auth from 5.0.0-beta.27 to 5.0.0-beta.30 | Medium | [#94](https://github.com/dscnitrourkela/project-huckleberry/pull/94) |
 | build(deps): bump axios from 1.9.0 to 1.12.0 | Medium | [#93](https://github.com/dscnitrourkela/project-huckleberry/pull/93) |
