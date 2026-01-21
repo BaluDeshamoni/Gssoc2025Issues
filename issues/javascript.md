@@ -419,10 +419,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| improved the ui | Medium | [#147](https://github.com/Dipanita45/HEALCONNECT/pull/147) |
+| Unify tech stack to Firebase and add hardware flashing guide | Medium | [#146](https://github.com/Dipanita45/HEALCONNECT/pull/146) |
 | Fixed Text visibility issue on appointments page | Medium | [#145](https://github.com/Dipanita45/HEALCONNECT/pull/145) |
-| Added Footer to all pages | Medium | [#144](https://github.com/Dipanita45/HEALCONNECT/pull/144) |
-| Added logout button with hover effects | Medium | [#143](https://github.com/Dipanita45/HEALCONNECT/pull/143) |
-| fixed home icon being hidden | Medium | [#142](https://github.com/Dipanita45/HEALCONNECT/pull/142) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -729,33 +728,27 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Supply Chain Support page layout broken / content not styled properly | Easy | [#1009](https://github.com/omroy07/AgriTech/issues/1009) |
-| Dark and Light mode toggle icons overlap on About page | Medium | [#1032](https://github.com/omroy07/AgriTech/issues/1032) |
-| [Bug] Update Outdated Year on FAQ Page Footer | Medium | [#1031](https://github.com/omroy07/AgriTech/issues/1031) |
-| Update year on Terms & Services page | Medium | [#1030](https://github.com/omroy07/AgriTech/pull/1030) |
-| Fix Back to Home button to preserve theme and scroll position in Agribot | Medium | [#1029](https://github.com/omroy07/AgriTech/pull/1029) |
-| Implement Health Check and Monitoring Endpoints | Medium | [#1027](https://github.com/omroy07/AgriTech/issues/1027) |
-| Implement API Versioning with Flask Blueprints | Medium | [#1026](https://github.com/omroy07/AgriTech/issues/1026) |
-| Implement WebSocket Real-Time Notifications for Task Updates | Medium | [#1025](https://github.com/omroy07/AgriTech/issues/1025) |
-| feat: implement async task queue with Celery and Redis | Medium | [#1024](https://github.com/omroy07/AgriTech/pull/1024) |
-| feat: implement comprehensive backend test suite with pytest | Medium | [#1023](https://github.com/omroy07/AgriTech/pull/1023) |
-| fix: add footer component to labour scheduling page | Medium | [#1022](https://github.com/omroy07/AgriTech/pull/1022) |
-| Redesign Navigation Bar  - Shopkeeper Listing | Medium | [#1021](https://github.com/omroy07/AgriTech/pull/1021) |
-| fix: the supply chain page broken layout | Medium | [#1020](https://github.com/omroy07/AgriTech/pull/1020) |
-| Feature/interactive blog modal close | Medium | [#1019](https://github.com/omroy07/AgriTech/pull/1019) |
-| feat: enhance navbar styling | Medium | [#1018](https://github.com/omroy07/AgriTech/pull/1018) |
-| fix: resolve critical contrast failure in System Alerts section. | Medium | [#1017](https://github.com/omroy07/AgriTech/pull/1017) |
-| Fix project structure by removing duplicate folders and files for Crop & Disease Prediction | Medium | [#1016](https://github.com/omroy07/AgriTech/pull/1016) |
-| feat: implement interactive pop-out hover effects for Supply Chain dashboard | Medium | [#1015](https://github.com/omroy07/AgriTech/pull/1015) |
-| fix: resolve poor text visibility on Sustainability Tips cards | Medium | [#1014](https://github.com/omroy07/AgriTech/pull/1014) |
-| feat: implement hide-on-scroll navigation and improve text visibility in sustainable-farming | Medium | [#1013](https://github.com/omroy07/AgriTech/pull/1013) |
+| Creating a seperate page for the equipment section. | Easy | [#1046](https://github.com/omroy07/AgriTech/issues/1046) |
+| Add Role-Based Authentication (Farmer / Expert / Admin) using Firebase | Medium | [#1057](https://github.com/omroy07/AgriTech/issues/1057) |
+| Prediction Result Comparison (Current vs Previous) | Medium | [#1056](https://github.com/omroy07/AgriTech/issues/1056) |
+| Add “Recent Predictions History” using LocalStorage | Medium | [#1055](https://github.com/omroy07/AgriTech/issues/1055) |
+| Add Input Validation + Error Messages | Medium | [#1054](https://github.com/omroy07/AgriTech/issues/1054) |
+| Improve blog card UI: remove border and add hover uplift effect | Medium | [#1053](https://github.com/omroy07/AgriTech/pull/1053) |
+| Show Loading Spinner While Prediction is Running | Medium | [#1052](https://github.com/omroy07/AgriTech/issues/1052) |
+| Add “Clear / Reset Form” Button on All AI Pages | Medium | [#1051](https://github.com/omroy07/AgriTech/issues/1051) |
+| Add “Download Result as PDF” for Predictions | Medium | [#1050](https://github.com/omroy07/AgriTech/issues/1050) |
+| Replace API error with rule-based fallback response in AgriBot chat | Medium | [#1049](https://github.com/omroy07/AgriTech/pull/1049) |
+| feat: implement i18n infrastructure and partial home page translation | Medium | [#1048](https://github.com/omroy07/AgriTech/pull/1048) |
+| We can create a page for the farmers to sell their products directly to the customers. | Medium | [#1047](https://github.com/omroy07/AgriTech/issues/1047) |
+| Enhance community forum UI with author-based deletion, SweetAlert2 po… | Medium | [#1042](https://github.com/omroy07/AgriTech/pull/1042) |
+| Implement Async PDF Report Generation and Email Delivery Engine | Medium | [#1041](https://github.com/omroy07/AgriTech/issues/1041) |
+| Integrate SQLAlchemy and Flask-Migrate for Data Persistence | Medium | [#1040](https://github.com/omroy07/AgriTech/issues/1040) |
+| Implement JWT Authentication with Refresh Tokens and Role-Based Access Control | Medium | [#1039](https://github.com/omroy07/AgriTech/issues/1039) |
+| feat: implement health check and monitoring endpoints | Medium | [#1038](https://github.com/omroy07/AgriTech/pull/1038) |
+| feat: implement API versioning with Flask Blueprints | Medium | [#1037](https://github.com/omroy07/AgriTech/pull/1037) |
+| feat: implement WebSocket real-time notifications for task updates | Medium | [#1036](https://github.com/omroy07/AgriTech/pull/1036) |
+| The dark/light mode toggle icon and text were overlapping in the About page,  causing a UI alignment issue. This fix uses proper flexbox layout with explicit  icon sizing and gap property to prevent overlap. | Medium | [#1035](https://github.com/omroy07/AgriTech/pull/1035) |
 | Add Home Page Navbar to Blog Page Instead of “Back to Home” Button | Medium | [#1010](https://github.com/omroy07/AgriTech/issues/1010) |
-| Add search popup feature showing matched product cards and 'no result… | Medium | [#1005](https://github.com/omroy07/AgriTech/pull/1005) |
-| Implement Async Task Queue with Celery and Redis | Medium | [#1003](https://github.com/omroy07/AgriTech/issues/1003) |
-| API fetch error in the ChatBot | Medium | [#1002](https://github.com/omroy07/AgriTech/issues/1002) |
-| Add offline support and graceful network failure handling | Medium | [#1001](https://github.com/omroy07/AgriTech/pull/1001) |
-| UI Bug: About Us page text readability and layout issues | Medium | [#1000](https://github.com/omroy07/AgriTech/issues/1000) |
-| Bug: Scheme Eligibility page not functioning (no response on submit) | Medium | [#999](https://github.com/omroy07/AgriTech/issues/999) |
 
 ---
 
@@ -1161,12 +1154,12 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Kindly add a Readme.md | Medium | [#62](https://github.com/SOURAVtec/Facility-publication-management-/issues/62) |
 | Host Project on Vercel and Add Live Preview Link in README | Medium | [#61](https://github.com/SOURAVtec/Facility-publication-management-/issues/61) |
 | Enhance footer in alumni_home.html | Medium | [#60](https://github.com/SOURAVtec/Facility-publication-management-/issues/60) |
-| Footer Enhanced | Medium | [#59](https://github.com/SOURAVtec/Facility-publication-management-/pull/59) |
 | Enhance Footer Section with Social Media Icons, Navigation Links, and Design Improvements | Medium | [#58](https://github.com/SOURAVtec/Facility-publication-management-/issues/58) |
 | Fix: Signup page added (fixes #2) | Medium | [#57](https://github.com/SOURAVtec/Facility-publication-management-/pull/57) |
 | Feature: Add Feedback Form and Alumni events page | Medium | [#56](https://github.com/SOURAVtec/Facility-publication-management-/issues/56) |
 | Add license file to the project | Medium | [#54](https://github.com/SOURAVtec/Facility-publication-management-/issues/54) |
 | Add MIT License to the Project | Medium | [#53](https://github.com/SOURAVtec/Facility-publication-management-/pull/53) |
+| Enhance event page layout and Feedback page with interactive card based design | Medium | [#52](https://github.com/SOURAVtec/Facility-publication-management-/pull/52) |
 
 ---
 
@@ -1964,6 +1957,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(profile): redesign profile page UI with stats, tabs, and activity | Medium | [#204](https://github.com/IndieHub25/GroqTales/pull/204) |
+| Fix: Improve Footer UI Layout and Responsiveness | Medium | [#203](https://github.com/IndieHub25/GroqTales/pull/203) |
 | Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
 | Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
 | Implement real account settings with backend‑connected profile and email/Google authentication | Hard | [#188](https://github.com/IndieHub25/GroqTales/issues/188) |
@@ -2046,9 +2041,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.27.1 | Medium | [#240](https://github.com/Ojas-Arora/SapneSeSafar/pull/240) |
+| Bump framer-motion from 11.18.2 to 12.27.5 | Medium | [#242](https://github.com/Ojas-Arora/SapneSeSafar/pull/242) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.91.0 | Medium | [#241](https://github.com/Ojas-Arora/SapneSeSafar/pull/241) |
 | Bump zustand from 4.5.6 to 5.0.10 | Medium | [#237](https://github.com/Ojas-Arora/SapneSeSafar/pull/237) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.90.1 | Medium | [#234](https://github.com/Ojas-Arora/SapneSeSafar/pull/234) |
 | Bump react-router-dom from 6.28.2 to 7.12.0 | Medium | [#233](https://github.com/Ojas-Arora/SapneSeSafar/pull/233) |
 | Bump @libsql/client from 0.5.6 to 0.17.0 | Medium | [#232](https://github.com/Ojas-Arora/SapneSeSafar/pull/232) |
 | Bump vite from 5.4.17 to 7.3.1 | Medium | [#231](https://github.com/Ojas-Arora/SapneSeSafar/pull/231) |
@@ -2364,12 +2359,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Currency Dropdowns and Full Currency List | Medium | [#389](https://github.com/code-well0/trip-planner/pull/389) |
-| Issue 284 : Solved | Medium | [#361](https://github.com/code-well0/trip-planner/pull/361) |
-| feat: Add hover effects and UI enhancements for buttons, cards, and navbar | Medium | [#326](https://github.com/code-well0/trip-planner/pull/326) |
-| Fixes toast notification and readmore | Medium | [#323](https://github.com/code-well0/trip-planner/pull/323) |
-| feat: add dynamic page titles for ux and seo | Medium | [#313](https://github.com/code-well0/trip-planner/pull/313) |
-| Accessibility Fixes: Added alt text, ARIA labels, and visible focus s… | Medium | [#302](https://github.com/code-well0/trip-planner/pull/302) |
+| Fix Toast Notification After Login / Signup | Easy | [#391](https://github.com/code-well0/trip-planner/issues/391) |
+| Fix toast issue: consolidate ToastContainer in App.js | Medium | [#392](https://github.com/code-well0/trip-planner/pull/392) |
+| Add “Places Visited” with Reviews & Interest Tracking | Hard | [#390](https://github.com/code-well0/trip-planner/issues/390) |
 
 ---
 
