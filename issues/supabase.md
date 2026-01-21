@@ -85,6 +85,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added editable section  in the form editor | Medium | [#393](https://github.com/Muneerali199/DocMagic/pull/393) |
 | Not having Certificates and projects editable section in the template | Medium | [#392](https://github.com/Muneerali199/DocMagic/issues/392) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 58 updates | Medium | [#376](https://github.com/Muneerali199/DocMagic/pull/376) |
 | Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/DocMagic/pull/363) |
@@ -214,9 +215,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.27.1 | Medium | [#240](https://github.com/Ojas-Arora/SapneSeSafar/pull/240) |
+| Bump framer-motion from 11.18.2 to 12.27.5 | Medium | [#242](https://github.com/Ojas-Arora/SapneSeSafar/pull/242) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.91.0 | Medium | [#241](https://github.com/Ojas-Arora/SapneSeSafar/pull/241) |
 | Bump zustand from 4.5.6 to 5.0.10 | Medium | [#237](https://github.com/Ojas-Arora/SapneSeSafar/pull/237) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.90.1 | Medium | [#234](https://github.com/Ojas-Arora/SapneSeSafar/pull/234) |
 | Bump react-router-dom from 6.28.2 to 7.12.0 | Medium | [#233](https://github.com/Ojas-Arora/SapneSeSafar/pull/233) |
 | Bump @libsql/client from 0.5.6 to 0.17.0 | Medium | [#232](https://github.com/Ojas-Arora/SapneSeSafar/pull/232) |
 | Bump vite from 5.4.17 to 7.3.1 | Medium | [#231](https://github.com/Ojas-Arora/SapneSeSafar/pull/231) |
