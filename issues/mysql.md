@@ -137,6 +137,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 💊 Implement Prescription Management Module | Medium | [#62](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/62) |
 | Add a section "system architecture" in  readme | Medium | [#61](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/61) |
 
 ---
