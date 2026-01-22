@@ -15,24 +15,30 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
-| <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
-| <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
-| <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
+| Confirmation Dialog System | Medium | [#256](https://github.com/Devasy/splitwiser/pull/256) |
+| Add Error Boundary with retry support | Medium | [#255](https://github.com/Devasy/splitwiser/pull/255) |
+| Add Global Error Boundary with Retry | Medium | [#254](https://github.com/Devasy/splitwiser/pull/254) |
+| Add Global Error Boundary with Retry Support | Medium | [#253](https://github.com/Devasy/splitwiser/pull/253) |
+| Add Global Error Boundary with Retry Mechanism | Medium | [#252](https://github.com/Devasy/splitwiser/pull/252) |
+| ux: Add global error boundary with dual-theme support | Medium | [#251](https://github.com/Devasy/splitwiser/pull/251) |
+| enhance: Add global error boundary with retry mechanism | Medium | [#250](https://github.com/Devasy/splitwiser/pull/250) |
+| ux: Add ErrorBoundary with retry for API failures | Medium | [#249](https://github.com/Devasy/splitwiser/pull/249) |
+| Add Error Boundary to Web App | Medium | [#248](https://github.com/Devasy/splitwiser/pull/248) |
+| enhance: Add error boundary with retry mechanism | Medium | [#247](https://github.com/Devasy/splitwiser/pull/247) |
+| Add Global Error Boundary with Retry Mechanism | Medium | [#246](https://github.com/Devasy/splitwiser/pull/246) |
+| enhance: Add global error boundary with retry and theme support | Medium | [#245](https://github.com/Devasy/splitwiser/pull/245) |
+| Add global Error Boundary with dual-theme support | Medium | [#244](https://github.com/Devasy/splitwiser/pull/244) |
+| Add Global Error Boundary with Retry Mechanism | Medium | [#243](https://github.com/Devasy/splitwiser/pull/243) |
 | Add Global Error Boundary with dual-theme support | Medium | [#242](https://github.com/Devasy/splitwiser/pull/242) |
 | enhance: Add error boundary with retry mechanism | Medium | [#241](https://github.com/Devasy/splitwiser/pull/241) |
 | Add Global Error Boundary to Web App | Medium | [#240](https://github.com/Devasy/splitwiser/pull/240) |
 | Implement Splitwise import functionality | Medium | [#239](https://github.com/Devasy/splitwiser/pull/239) |
-| Enhance: Add Error Boundary with Retry | Medium | [#238](https://github.com/Devasy/splitwiser/pull/238) |
 | Restore EAS configuration files | Medium | [#210](https://github.com/Devasy/splitwiser/pull/210) |
 | Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy/splitwiser/pull/209) |
 | Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy/splitwiser/issues/207) |
 | Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
-| pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
-| Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
-| Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
-| API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
-| Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy/splitwiser/pull/148) |
 
 ---
 
@@ -118,22 +124,20 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a workflow to remove Assigned member based on label | Easy | [#95](https://github.com/Loop-Hive/ScheduleX/issues/95) |
-| Shorten the paragraph for PR template | Easy | [#91](https://github.com/Loop-Hive/ScheduleX/issues/91) |
-| Fix welcome workflow | Easy | [#90](https://github.com/Loop-Hive/ScheduleX/issues/90) |
-| Account and Settings Page | Easy | [#7](https://github.com/Loop-Hive/ScheduleX/issues/7) |
-| fix: prevent duplicate subject creation when Save is tapped rapidly(#106) | Medium | [#152](https://github.com/Loop-Hive/ScheduleX/pull/152) |
-| Improve sidebar UI | Medium | [#151](https://github.com/Loop-Hive/ScheduleX/pull/151) |
-| Fix dropdown overflow | Medium | [#149](https://github.com/Loop-Hive/ScheduleX/pull/149) |
-| made UI changes in the settings page | Medium | [#148](https://github.com/Loop-Hive/ScheduleX/pull/148) |
-| Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/Loop-Hive/ScheduleX/pull/147) |
-| Create Docker Setup for the App | Medium | [#124](https://github.com/Loop-Hive/ScheduleX/issues/124) |
-| Tab Memorization | Medium | [#108](https://github.com/Loop-Hive/ScheduleX/issues/108) |
-| Everyday Select Option to Add Multiple Slots | Medium | [#107](https://github.com/Loop-Hive/ScheduleX/issues/107) |
-| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/Loop-Hive/ScheduleX/issues/98) |
-| Expo setup and Documentation | Medium | [#96](https://github.com/Loop-Hive/ScheduleX/issues/96) |
-| Export tasks as pdf | Medium | [#10](https://github.com/Loop-Hive/ScheduleX/issues/10) |
-| Cloud sync through Google Drive | Hard | [#14](https://github.com/Loop-Hive/ScheduleX/issues/14) |
+| Add a workflow to remove Assigned member based on label | Easy | [#95](https://github.com/OpenVibes/ScheduleX/issues/95) |
+| Shorten the paragraph for PR template | Easy | [#91](https://github.com/OpenVibes/ScheduleX/issues/91) |
+| Fix welcome workflow | Easy | [#90](https://github.com/OpenVibes/ScheduleX/issues/90) |
+| Account and Settings Page | Easy | [#7](https://github.com/OpenVibes/ScheduleX/issues/7) |
+| fix: prevent duplicate subject creation when Save is tapped rapidly(#106) | Medium | [#152](https://github.com/OpenVibes/ScheduleX/pull/152) |
+| made UI changes in the settings page | Medium | [#148](https://github.com/OpenVibes/ScheduleX/pull/148) |
+| Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/OpenVibes/ScheduleX/pull/147) |
+| Create Docker Setup for the App | Medium | [#124](https://github.com/OpenVibes/ScheduleX/issues/124) |
+| Tab Memorization | Medium | [#108](https://github.com/OpenVibes/ScheduleX/issues/108) |
+| Everyday Select Option to Add Multiple Slots | Medium | [#107](https://github.com/OpenVibes/ScheduleX/issues/107) |
+| Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#98](https://github.com/OpenVibes/ScheduleX/issues/98) |
+| Expo setup and Documentation | Medium | [#96](https://github.com/OpenVibes/ScheduleX/issues/96) |
+| Export tasks as pdf | Medium | [#10](https://github.com/OpenVibes/ScheduleX/issues/10) |
+| Cloud sync through Google Drive | Hard | [#14](https://github.com/OpenVibes/ScheduleX/issues/14) |
 
 ---
 
