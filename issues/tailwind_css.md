@@ -100,7 +100,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump jspdf from 3.0.3 to 4.0.0 in /DevElevate/Client in the npm_and_yarn group across 1 directory | Medium | [#745](https://github.com/abhisek2004/Dev-Elevate/pull/745) |
 | Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -253,27 +252,27 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix project health metrics list filtering | Easy | [#3436](https://github.com/OWASP/Nest/issues/3436) |
 | docs: improve list projects OpenAPI examples | Easy | [#3397](https://github.com/OWASP/Nest/pull/3397) |
+| Standardize filter and sort components for consistency and reusability | Medium | [#3450](https://github.com/OWASP/Nest/issues/3450) |
+| Silent exception handling hides errors and complicates debugging | Medium | [#3449](https://github.com/OWASP/Nest/issues/3449) |
+| Standardize pagination component for consistency and reusability | Medium | [#3448](https://github.com/OWASP/Nest/issues/3448) |
+| Replace @lru_cache with TTL-based caching for external and dynamic data | Medium | [#3447](https://github.com/OWASP/Nest/issues/3447) |
+| Make Project Health Dashboard responsive | Medium | [#3445](https://github.com/OWASP/Nest/issues/3445) |
+| feat: display related milestones on public program page | Medium | [#3441](https://github.com/OWASP/Nest/pull/3441) |
 | Fix: Overlapping search requests and redundant network calls on /contribute page | Medium | [#3439](https://github.com/OWASP/Nest/issues/3439) |
 | fix(a11y): use native button in MetricsScoreCircle | Medium | [#3437](https://github.com/OWASP/Nest/pull/3437) |
-| Add no-index-key eslint rule | Medium | [#3429](https://github.com/OWASP/Nest/pull/3429) |
 | Add structured query filtering to Project REST API | Medium | [#3428](https://github.com/OWASP/Nest/pull/3428) |
 | feat: expose rate limit metadata via response headers | Medium | [#3425](https://github.com/OWASP/Nest/pull/3425) |
 | Disable module date selection outside program duration | Medium | [#3424](https://github.com/OWASP/Nest/pull/3424) |
 | Make issue labels on Contribute page interactive and selectable (consistent with rest of the project) | Medium | [#3422](https://github.com/OWASP/Nest/issues/3422) |
 | feat: add accessibility tests for pages | Medium | [#3420](https://github.com/OWASP/Nest/pull/3420) |
-| Solve recentProjects query negative indexing | Medium | [#3414](https://github.com/OWASP/Nest/issues/3414) |
 | Move component definitions out of parent components to avoid unnecessary re-renders | Medium | [#3411](https://github.com/OWASP/Nest/issues/3411) |
-| Do not use array index as React key in frontend components | Medium | [#3410](https://github.com/OWASP/Nest/issues/3410) |
-| refactor: extract shared ContributorsList component | Medium | [#3408](https://github.com/OWASP/Nest/pull/3408) |
 | feat: implement enforced Semgrep scanning with clean baseline (#2984) | Medium | [#3406](https://github.com/OWASP/Nest/pull/3406) |
 | fix: show module as a section when there is only 1 module | Medium | [#3402](https://github.com/OWASP/Nest/pull/3402) |
 | Mentors can see modules they are not assigned to within a programme | Medium | [#3401](https://github.com/OWASP/Nest/issues/3401) |
 | chore(ci): add semgrep security scanning to pre-commit and CI | Medium | [#3395](https://github.com/OWASP/Nest/pull/3395) |
 | Document API Error Codes and Responses | Medium | [#3394](https://github.com/OWASP/Nest/issues/3394) |
 | Add management command to detect non-compliant project levels and apply score penalty | Medium | [#3388](https://github.com/OWASP/Nest/pull/3388) |
-| Add Rate Limiting and Query Depth Protection to GraphQL Endpoint | Medium | [#3385](https://github.com/OWASP/Nest/issues/3385) |
 
 ---
 
@@ -292,10 +291,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
-| feat: Implement Feedback System & Navbar Integration | Medium | [#1361](https://github.com/Code-A2Z/code-a2z/pull/1361) |
-| fixed-like-issue | Medium | [#1359](https://github.com/Code-A2Z/code-a2z/pull/1359) |
 | Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
-| Logout button on Home screen not working | Medium | [#1357](https://github.com/Code-A2Z/code-a2z/issues/1357) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
@@ -314,6 +310,7 @@ Accessibility features like dark mode,white.
 | 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
 | 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
 | 📃: Kanban projects management system on users dashboard | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
+| 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
 
 ---
@@ -514,6 +511,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | Docs : Add Table of Contents in README | Medium | [#103](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/103) |
 | Pagination added to StudentsList | Medium | [#100](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/100) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
+| Enhance footer with centered sections, aligned icons, custom hover ef… | Medium | [#70](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/70) |
 
 ---
 
@@ -531,9 +529,9 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Base | Medium | [#151](https://github.com/Dipanita45/HEALCONNECT/pull/151) |
+| Light theme added and fixed lot of issues related to it | Medium | [#150](https://github.com/Dipanita45/HEALCONNECT/pull/150) |
 | improved the ui | Medium | [#147](https://github.com/Dipanita45/HEALCONNECT/pull/147) |
-| Unify tech stack to Firebase and add hardware flashing guide | Medium | [#146](https://github.com/Dipanita45/HEALCONNECT/pull/146) |
-| Fixed Text visibility issue on appointments page | Medium | [#145](https://github.com/Dipanita45/HEALCONNECT/pull/145) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -1932,7 +1930,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Implement backend proxy for map tiles and WAQI overlay with caching & rate limiting | Medium | [#113](https://github.com/prasoonk1204/BreatheEasy/pull/113) |
+| Secure map tiles using backend proxy with caching and rate limiting | Medium | [#114](https://github.com/prasoonk1204/BreatheEasy/pull/114) |
 | Add containerized local development workflow using Docker & Docker Compose | Medium | [#112](https://github.com/prasoonk1204/BreatheEasy/issues/112) |
 | Add AQI export to CSV/PDF | Medium | [#109](https://github.com/prasoonk1204/BreatheEasy/pull/109) |
 | enhance improvement measure file code | Medium | [#95](https://github.com/prasoonk1204/BreatheEasy/pull/95) |
@@ -2078,6 +2076,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| CONTRIBUTING.md | Medium | [#237](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/237) |
 | BUG: UI Inconsistencies in About Page | Medium | [#235](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/235) |
 | feat: Add conversation-level privacy controls | Medium | [#234](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/234) |
 | BUG: About page shows placeholder team member names and profiles | Medium | [#233](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/233) |
@@ -2271,6 +2270,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| build(deps): bump lodash from 4.17.21 to 4.17.23 | Medium | [#105](https://github.com/dscnitrourkela/project-huckleberry/pull/105) |
 | build(deps): bump glob from 10.4.5 to 13.0.0 | Medium | [#103](https://github.com/dscnitrourkela/project-huckleberry/pull/103) |
 | build(deps): bump qs from 6.14.0 to 6.14.1 | Medium | [#101](https://github.com/dscnitrourkela/project-huckleberry/pull/101) |
 | build(deps): bump next from 15.3.1 to 15.4.9 | Medium | [#100](https://github.com/dscnitrourkela/project-huckleberry/pull/100) |
@@ -2330,7 +2330,6 @@ Fast Workflow Tools
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
 | Add Contact Page | Medium | [#4](https://github.com/subhadeeproy3902/mvpblocks/issues/4) |
-| Add Text Animations | Medium | [#3](https://github.com/subhadeeproy3902/mvpblocks/issues/3) |
 
 ---
 
