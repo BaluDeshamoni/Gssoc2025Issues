@@ -783,7 +783,9 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated mobile UI | Medium | [#79](https://github.com/Sahilll94/Travel-Book/pull/79) |
+| Performance | Medium | [#86](https://github.com/Sahilll94/Travel-Book/pull/86) |
+| fix: update Twitter icon to X in footer | Medium | [#85](https://github.com/Sahilll94/Travel-Book/pull/85) |
+| Fix tooltip visibility issue in AI chatbot | Medium | [#83](https://github.com/Sahilll94/Travel-Book/pull/83) |
 | Automatically fetching the location based on the user input. | Medium | [#73](https://github.com/Sahilll94/Travel-Book/issues/73) |
 | Add Left & Right Padding/Margin in "Our Services" Section | Medium | [#61](https://github.com/Sahilll94/Travel-Book/issues/61) |
 
@@ -1182,6 +1184,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Rename `nanoservice-ts` → `blok` (core framework + HTTP trigger) | Medium | [#210](https://github.com/deskree-inc/blok/issues/210) |
 | 🧱 Expand Blok Documentation with End-to-End Modular Workflow Example | Medium | [#209](https://github.com/deskree-inc/blok/issues/209) |
 | some non-functional improvements | Medium | [#208](https://github.com/deskree-inc/blok/pull/208) |
 | Update README badge links | Medium | [#204](https://github.com/deskree-inc/blok/pull/204) |
@@ -1202,7 +1205,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Terraform aws guide | Medium | [#134](https://github.com/deskree-inc/blok/pull/134) |
 | Implement Metrics Collection in Python3 Runtime (Prometheus Export) | Medium | [#133](https://github.com/deskree-inc/blok/pull/133) |
 | Added a  dedicated section on creating workflows | Medium | [#131](https://github.com/deskree-inc/blok/pull/131) |
-| Add Configurable Observability Backend to nanoservice-ts (Prometheus/InfluxDB) | Medium | [#126](https://github.com/deskree-inc/blok/issues/126) |
 
 ---
 
@@ -1486,18 +1488,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| <title>Enhancement in toggle, create and login button | Medium | [#211](https://github.com/IndieHub25/GroqTales/issues/211) |
-| Addition of signup and login routes in the backend | Medium | [#210](https://github.com/IndieHub25/GroqTales/issues/210) |
-| Added JWT brearer auth and Authorization | Medium | [#209](https://github.com/IndieHub25/GroqTales/pull/209) |
-| fix: social media icons are visible when hovered on them | Medium | [#208](https://github.com/IndieHub25/GroqTales/pull/208) |
+| feat: implement story commenting system (#206) | Medium | [#213](https://github.com/IndieHub25/GroqTales/pull/213) |
 | Creator Dashboard Analytics | Medium | [#207](https://github.com/IndieHub25/GroqTales/issues/207) |
 | Story Commenting System | Medium | [#206](https://github.com/IndieHub25/GroqTales/issues/206) |
-| User Profile Editing | Medium | [#205](https://github.com/IndieHub25/GroqTales/issues/205) |
 | feat(profile): redesign profile page UI with stats, tabs, and activity | Medium | [#204](https://github.com/IndieHub25/GroqTales/pull/204) |
 | Fix: Improve Footer UI Layout and Responsiveness | Medium | [#203](https://github.com/IndieHub25/GroqTales/pull/203) |
 | Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
 | Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
-| Implement real account settings with backend‑connected profile and email/Google authentication | Hard | [#188](https://github.com/IndieHub25/GroqTales/issues/188) |
 | Implement real-time user profile view instead of static example profile | Hard | [#187](https://github.com/IndieHub25/GroqTales/issues/187) |
 | BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
