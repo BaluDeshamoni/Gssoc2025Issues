@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Removing locals files from .env file | Medium | [#290](https://github.com/iaadillatif/techxninjas-client/pull/290) |
 | Add Claude Code GitHub Workflow | Medium | [#289](https://github.com/iaadillatif/techxninjas-client/issues/289) |
 | fix: notification panel logic, placement, and Supabase redirect handling | Medium | [#287](https://github.com/iaadillatif/techxninjas-client/pull/287) |
 | Feature Request: Add a Gamified Leaderboard to Ignite Daily Engagement & Community | Medium | [#285](https://github.com/iaadillatif/techxninjas-client/issues/285) |
@@ -43,7 +44,6 @@
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
 | course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
-| Template | Medium | [#253](https://github.com/iaadillatif/techxninjas-client/pull/253) |
 
 ---
 
@@ -86,6 +86,24 @@
 | <# Add Footer> | Medium | [#57](https://github.com/AdityaRalhan/Aluma/issues/57) |
 | We can add talk to professionals feature | Medium | [#56](https://github.com/AdityaRalhan/Aluma/issues/56) |
 | no descripton in the about section | Medium | [#55](https://github.com/AdityaRalhan/Aluma/issues/55) |
+
+---
+
+## 📌 Project: aitoolbox.software
+
+📝 **Description:** AIToolbox is an open-source platform offering a suite of daily-use AI tools in one place, including email writing, GPT chatbot, image and logo generation, YouTube transcription, and more. It's designed for simplicity, productivity, and easy access without switching between multiple apps.
+
+🔗 [View Project](https://github.com/huamanraj/aitoolbox.software)
+
+💻 **Tech Stack:** Next.js, Tailwind CSS, React.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| generating a better logo using ai and use that | Easy | [#124](https://github.com/huamanraj/aitoolbox.software/issues/124) |
 
 ---
 
@@ -143,34 +161,30 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| refactor: enhance type safety across core frontend components | Medium | [#3359](https://github.com/OWASP/Nest/pull/3359) |
-| Add docstrings to model mixin methods | Medium | [#3358](https://github.com/OWASP/Nest/issues/3358) |
-| fix(frontend): remove aria-hidden from focusable canvas element | Medium | [#3357](https://github.com/OWASP/Nest/pull/3357) |
-| Detect OWASP project level non-compliance and adjust health scores | Medium | [#3354](https://github.com/OWASP/Nest/pull/3354) |
-| Simplify regex to reduce Sonar complexity while preserving behavior | Medium | [#3349](https://github.com/OWASP/Nest/pull/3349) |
-| Fix Stale Data Persistence in Mentorship Portal (Cache Invalidation) | Medium | [#3348](https://github.com/OWASP/Nest/issues/3348) |
-| feat(frontend): add PostHog analytics for staging and production | Medium | [#3344](https://github.com/OWASP/Nest/pull/3344) |
-| Limit visible Roadmap & Timeline items on About page | Medium | [#3343](https://github.com/OWASP/Nest/pull/3343) |
-| Refactor: Simplify regex to reduce its complexity | Medium | [#3342](https://github.com/OWASP/Nest/issues/3342) |
-| Implement command to detect non-compliant project levels and update score calculation | Medium | [#3340](https://github.com/OWASP/Nest/pull/3340) |
-| Fix SonarQube warning: signal handler defined as instance method without self | Medium | [#3338](https://github.com/OWASP/Nest/issues/3338) |
-| Sonar S1186: Empty ResizeObserver methods should be justified or implemented | Medium | [#3337](https://github.com/OWASP/Nest/issues/3337) |
-| Sonar S6035: Replace single-character regex alternation with character class | Medium | [#3336](https://github.com/OWASP/Nest/issues/3336) |
-| Update sync process to last 365 days | Medium | [#3335](https://github.com/OWASP/Nest/pull/3335) |
-| fix: adjust navbar breakpoints to lg to prevent overflow #3272 | Medium | [#3324](https://github.com/OWASP/Nest/pull/3324) |
-| fixed responsiveness | Medium | [#3323](https://github.com/OWASP/Nest/pull/3323) |
-| Fix ChapterMap locking behavior and wide screen layout issues | Medium | [#3322](https://github.com/OWASP/Nest/pull/3322) |
-| Duplicate contributor list components in frontend | Medium | [#3321](https://github.com/OWASP/Nest/issues/3321) |
-| Inconsistent behavior of from_github() across backend models | Medium | [#3320](https://github.com/OWASP/Nest/issues/3320) |
-| Reduce duplicated form logic between ModuleForm and ProgramForm | Medium | [#3319](https://github.com/OWASP/Nest/issues/3319) |
-| fix(frontend): remove invalid turbopack config key | Medium | [#3318](https://github.com/OWASP/Nest/pull/3318) |
-| Migrate Project recent_milestones property to M2M relation field | Medium | [#3313](https://github.com/OWASP/Nest/issues/3313) |
-| Migrate Project published_releases property to M2M relation field | Medium | [#3312](https://github.com/OWASP/Nest/issues/3312) |
-| Migrate Project pull_requests property to M2M relation field | Medium | [#3311](https://github.com/OWASP/Nest/issues/3311) |
-| Migrate Project issues property to M2M relation field | Medium | [#3310](https://github.com/OWASP/Nest/issues/3310) |
-| Fix/remove redundant non null assertions | Medium | [#3306](https://github.com/OWASP/Nest/pull/3306) |
-| fix(frontend): remove unused closeDelay prop (typescript:S6767) | Medium | [#3305](https://github.com/OWASP/Nest/pull/3305) |
-| Implement Subscription and Notification Models | Medium | [#3304](https://github.com/OWASP/Nest/issues/3304) |
+| Add CI/CD for staging deployment | Easy | [#3466](https://github.com/OWASP/Nest/pull/3466) |
+| Bug: Filter by Project level causes invalid value error on metrics page | Medium | [#3487](https://github.com/OWASP/Nest/issues/3487) |
+| Refactor programs page to use optional chaining (S6582) | Medium | [#3486](https://github.com/OWASP/Nest/pull/3486) |
+| fix: prefer optional chaining over logical AND guards (S6582) | Medium | [#3485](https://github.com/OWASP/Nest/pull/3485) |
+| Unauthorized access to Projects Dashboard shows 404 instead of Access Denied | Medium | [#3483](https://github.com/OWASP/Nest/issues/3483) |
+| Unauthorized users can access mentorship program page via direct URL | Medium | [#3482](https://github.com/OWASP/Nest/issues/3482) |
+| Mentors can see Create Program button | Medium | [#3481](https://github.com/OWASP/Nest/issues/3481) |
+| Footer layout breaks between 647px and 764px screen width | Medium | [#3480](https://github.com/OWASP/Nest/issues/3480) |
+| Fix negative indexing in recentProjects and recentMilestones | Medium | [#3478](https://github.com/OWASP/Nest/pull/3478) |
+| Inconsistent validation of GraphQL limit parameters across resolvers | Medium | [#3476](https://github.com/OWASP/Nest/issues/3476) |
+| Fix negative indexing and ReadTimeOut errors | Medium | [#3474](https://github.com/OWASP/Nest/pull/3474) |
+| Added Semgrep for CI and local checks | Medium | [#3470](https://github.com/OWASP/Nest/pull/3470) |
+| perf: optimize project pull requests by replacing property with M2M filed | Medium | [#3469](https://github.com/OWASP/Nest/pull/3469) |
+| Fix negative indexing in RepositoryNode.recent_milestones | Medium | [#3457](https://github.com/OWASP/Nest/pull/3457) |
+| Migrate Project issues property to M2M relation | Medium | [#3454](https://github.com/OWASP/Nest/pull/3454) |
+| Standardize filter and sort components for consistency and reusability | Medium | [#3450](https://github.com/OWASP/Nest/issues/3450) |
+| Silent exception handling hides errors and complicates debugging | Medium | [#3449](https://github.com/OWASP/Nest/issues/3449) |
+| Standardize pagination component for consistency and reusability | Medium | [#3448](https://github.com/OWASP/Nest/issues/3448) |
+| Replace @lru_cache with TTL-based caching for external and dynamic data | Medium | [#3447](https://github.com/OWASP/Nest/issues/3447) |
+| feat: display related milestones on public program page | Medium | [#3441](https://github.com/OWASP/Nest/pull/3441) |
+| Fix: Overlapping search requests and redundant network calls on /contribute page | Medium | [#3439](https://github.com/OWASP/Nest/issues/3439) |
+| fix(a11y): use native button in MetricsScoreCircle | Medium | [#3437](https://github.com/OWASP/Nest/pull/3437) |
+| Add structured query filtering to Project REST API | Medium | [#3428](https://github.com/OWASP/Nest/pull/3428) |
+| feat: expose rate limit metadata via response headers | Medium | [#3425](https://github.com/OWASP/Nest/pull/3425) |
 
 ---
 
@@ -210,6 +224,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Real-Time Emergency Alerts for Critical Patient Vitals #119 | Medium | [#156](https://github.com/Dipanita45/HEALCONNECT/pull/156) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -371,10 +386,11 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added editable skills section in resume | Medium | [#393](https://github.com/Muneerali199/DocMagic/pull/393) |
+| Not having Certificates and projects editable section in the template | Medium | [#392](https://github.com/Muneerali199/DocMagic/issues/392) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 58 updates | Medium | [#376](https://github.com/Muneerali199/DocMagic/pull/376) |
 | Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/DocMagic/pull/363) |
 | Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/DocMagic/pull/362) |
-| Add project structure documentation | Medium | [#347](https://github.com/Muneerali199/DocMagic/issues/347) |
 | contact form implementation | Medium | [#345](https://github.com/Muneerali199/DocMagic/pull/345) |
 | Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/DocMagic/issues/331) |
 | feat: Add ImportProfile component and update page.tsx (Fixes #23) | Medium | [#330](https://github.com/Muneerali199/DocMagic/pull/330) |
@@ -386,6 +402,8 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | feat: prevent authenticated users from accessing auth routes | Medium | [#302](https://github.com/Muneerali199/DocMagic/pull/302) |
 | Create #1_issue-fixed | Medium | [#298](https://github.com/Muneerali199/DocMagic/pull/298) |
 | chore(deps): bump react-day-picker from 8.10.1 to 9.8.1 | Medium | [#288](https://github.com/Muneerali199/DocMagic/pull/288) |
+| chore(deps): bump sonner from 1.7.4 to 2.0.7 | Medium | [#287](https://github.com/Muneerali199/DocMagic/pull/287) |
+| Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
 
 ---
 
@@ -497,12 +515,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump prettier from 3.6.2 to 3.7.4 | Easy | [#1248](https://github.com/recodehive/recode-website/pull/1248) |
+| 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.53.0 | Medium | [#1259](https://github.com/recodehive/recode-website/pull/1259) |
-| chore: bump @typescript-eslint/parser from 8.46.2 to 8.53.0 | Medium | [#1258](https://github.com/recodehive/recode-website/pull/1258) |
-| chore: bump react and @types/react | Medium | [#1257](https://github.com/recodehive/recode-website/pull/1257) |
-| chore: bump lucide-react from 0.503.0 to 0.562.0 | Medium | [#1251](https://github.com/recodehive/recode-website/pull/1251) |
+| chore: bump firebase from 9.23.0 to 12.8.0 | Medium | [#1265](https://github.com/recodehive/recode-website/pull/1265) |
+| chore: bump react and @types/react | Medium | [#1264](https://github.com/recodehive/recode-website/pull/1264) |
+| chore: bump react-slot-counter from 3.3.1 to 3.3.2 | Medium | [#1263](https://github.com/recodehive/recode-website/pull/1263) |
+| chore: bump eslint from 9.38.0 to 9.39.2 | Medium | [#1262](https://github.com/recodehive/recode-website/pull/1262) |
+| chore: bump tailwindcss from 4.1.14 to 4.1.18 | Medium | [#1261](https://github.com/recodehive/recode-website/pull/1261) |
 
 ---
 
@@ -670,46 +689,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Make Category and Distance Filter Buttons Responsive | Medium | [#6](https://github.com/SyedImtiyaz-1/Swapify/issues/6) |
 | Improve Product Card UI | Medium | [#5](https://github.com/SyedImtiyaz-1/Swapify/issues/5) |
 | Bug:  button glow effect | Medium | [#3](https://github.com/SyedImtiyaz-1/Swapify/issues/3) |
-
----
-
-## 📌 Project: Product Ledger
-
-📝 **Description:** Its a Ledger Application for Reatilers to manage their services.
-
-🔗 [View Project](https://github.com/vishalmaurya850/Product-Ledger)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, Express.js
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added Scroll to top button | Medium | [#84](https://github.com/vishalmaurya850/Product-Ledger/pull/84) |
-| about us page | Medium | [#83](https://github.com/vishalmaurya850/Product-Ledger/issues/83) |
-| Enhancement | Medium | [#82](https://github.com/vishalmaurya850/Product-Ledger/issues/82) |
-| Feature : FAQ Page Implementation | Medium | [#81](https://github.com/vishalmaurya850/Product-Ledger/issues/81) |
-| Feature : Contact Us Page Implementation | Medium | [#80](https://github.com/vishalmaurya850/Product-Ledger/issues/80) |
-| Feature : About Us Page Implementation | Medium | [#79](https://github.com/vishalmaurya850/Product-Ledger/issues/79) |
-| Home and Footer sections Not in perfect alignment | Medium | [#78](https://github.com/vishalmaurya850/Product-Ledger/issues/78) |
-| Added scroll to top button | Medium | [#77](https://github.com/vishalmaurya850/Product-Ledger/pull/77) |
-| Add CONTRIBUTING.md file | Medium | [#76](https://github.com/vishalmaurya850/Product-Ledger/issues/76) |
-| Smooth Scroll Timing Adjustment | Medium | [#75](https://github.com/vishalmaurya850/Product-Ledger/pull/75) |
-| Responsive UI for Landing Page on Mobiles | Medium | [#74](https://github.com/vishalmaurya850/Product-Ledger/pull/74) |
-| Landing Page Not Mobile-Friendly | Medium | [#73](https://github.com/vishalmaurya850/Product-Ledger/issues/73) |
-| 📧 Email Integration - Automated notifications and password reset | Medium | [#69](https://github.com/vishalmaurya850/Product-Ledger/issues/69) |
-| ♿ Accessibility Enhancement: Semantic HTML, ARIA Attributes & Keyboard Navigation | Medium | [#68](https://github.com/vishalmaurya850/Product-Ledger/issues/68) |
-| Missing of Footer in "Privacy Policy", "Terms of Service", "Cookie Policy" Pages | Medium | [#65](https://github.com/vishalmaurya850/Product-Ledger/issues/65) |
-| Simple Dashboard Data Visualizations | Medium | [#64](https://github.com/vishalmaurya850/Product-Ledger/pull/64) |
-| Add Dockerfile and .dockerignore for containerization setup | Medium | [#61](https://github.com/vishalmaurya850/Product-Ledger/pull/61) |
-| Profile Section Not Opening After Login | Medium | [#60](https://github.com/vishalmaurya850/Product-Ledger/issues/60) |
-| Create Implement Real-Time Inventory Tracking with Stock Alert | Medium | [#58](https://github.com/vishalmaurya850/Product-Ledger/pull/58) |
-| Completed Assigned tasks | Medium | [#56](https://github.com/vishalmaurya850/Product-Ledger/pull/56) |
-| Fix: Smooth scroll effect in home page | Medium | [#55](https://github.com/vishalmaurya850/Product-Ledger/pull/55) |
-| Add contributing md | Medium | [#54](https://github.com/vishalmaurya850/Product-Ledger/pull/54) |
-| migrate installation guide from npm to pnpm with comprehensive setup … | Medium | [#53](https://github.com/vishalmaurya850/Product-Ledger/pull/53) |
 
 ---
 
@@ -933,7 +912,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix React Server Components CVE vulnerabilities | Medium | [#12](https://github.com/aykansal/EduType/pull/12) |
-| button hover effect | Medium | [#11](https://github.com/aykansal/EduType/issues/11) |
 | Add a "Back to Top" Button for Better Navigation | Medium | [#10](https://github.com/aykansal/EduType/issues/10) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#9](https://github.com/aykansal/EduType/issues/9) |
 | 🚫 License Missing from Repository | Medium | [#8](https://github.com/aykansal/EduType/issues/8) |
@@ -1042,7 +1020,15 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix UI alignment and overlap issues in My Account menu | Medium | [#163](https://github.com/IndieHub25/GroqTales/pull/163) |
+| feat: implement story commenting system (#206) | Medium | [#213](https://github.com/IndieHub25/GroqTales/pull/213) |
+| Creator Dashboard Analytics | Medium | [#207](https://github.com/IndieHub25/GroqTales/issues/207) |
+| Story Commenting System | Medium | [#206](https://github.com/IndieHub25/GroqTales/issues/206) |
+| feat(profile): redesign profile page UI with stats, tabs, and activity | Medium | [#204](https://github.com/IndieHub25/GroqTales/pull/204) |
+| Fix: Improve Footer UI Layout and Responsiveness | Medium | [#203](https://github.com/IndieHub25/GroqTales/pull/203) |
+| Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
+| Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
+| Implement real-time user profile view instead of static example profile | Hard | [#187](https://github.com/IndieHub25/GroqTales/issues/187) |
+| BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
 ---
 
@@ -1120,12 +1106,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Add Contact Us Page | Medium | [#221](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/221) |
-| FEATURE: Sign In and Sign Out Button | Medium | [#220](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/220) |
-| OTHER: Remove unused mobile menu state logic from HomePage | Medium | [#218](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/218) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 | FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
-| FEATURE: Dynamic Testimonial Section | Hard | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 
 ---
 
@@ -1292,11 +1274,12 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| build(deps): bump lodash from 4.17.21 to 4.17.23 | Medium | [#105](https://github.com/dscnitrourkela/project-huckleberry/pull/105) |
+| build(deps): bump glob from 10.4.5 to 13.0.0 | Medium | [#103](https://github.com/dscnitrourkela/project-huckleberry/pull/103) |
 | build(deps): bump qs from 6.14.0 to 6.14.1 | Medium | [#101](https://github.com/dscnitrourkela/project-huckleberry/pull/101) |
 | build(deps): bump next from 15.3.1 to 15.4.9 | Medium | [#100](https://github.com/dscnitrourkela/project-huckleberry/pull/100) |
 | build(deps): bump @modelcontextprotocol/sdk from 1.11.0 to 1.24.0 | Medium | [#98](https://github.com/dscnitrourkela/project-huckleberry/pull/98) |
 | build(deps): bump express from 5.1.0 to 5.2.1 | Medium | [#97](https://github.com/dscnitrourkela/project-huckleberry/pull/97) |
-| build(deps): bump glob from 10.4.5 to 10.5.0 | Medium | [#96](https://github.com/dscnitrourkela/project-huckleberry/pull/96) |
 | build(deps): bump js-yaml from 4.1.0 to 4.1.1 | Medium | [#95](https://github.com/dscnitrourkela/project-huckleberry/pull/95) |
 | build(deps): bump next-auth from 5.0.0-beta.27 to 5.0.0-beta.30 | Medium | [#94](https://github.com/dscnitrourkela/project-huckleberry/pull/94) |
 | build(deps): bump axios from 1.9.0 to 1.12.0 | Medium | [#93](https://github.com/dscnitrourkela/project-huckleberry/pull/93) |
@@ -1321,32 +1304,14 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add 10 new text animation components with 30+ variants | Medium | [#119](https://github.com/subhadeeproy3902/mvpblocks/pull/119) |
+| Add Login & Signup Page | Medium | [#118](https://github.com/subhadeeproy3902/mvpblocks/issues/118) |
 | Add glass gradient hero section | Medium | [#116](https://github.com/subhadeeproy3902/mvpblocks/pull/116) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
 | Add Contact Page | Medium | [#4](https://github.com/subhadeeproy3902/mvpblocks/issues/4) |
-| Add Text Animations | Medium | [#3](https://github.com/subhadeeproy3902/mvpblocks/issues/3) |
-
----
-
-## 📌 Project: Smriti AI
-
-📝 **Description:** Smriti AI is an intelligent, all-in-one learning assistant that helps you organize, understand, and retain everything you study from notes and youtube videos.
-
-🔗 [View Project](https://github.com/vatsal-bhakodia/smriti-ai)
-
-💻 **Tech Stack:** Next.js, Prisma, PostgreSQL, Clerk Auth
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added minimal WhatsApp reminder feature for #204 | Medium | [#210](https://github.com/vatsal-bhakodia/smriti-ai/pull/210) |
-| Feature requested : Dynamic Testimonials section | Medium | [#195](https://github.com/vatsal-bhakodia/smriti-ai/pull/195) |
 
 ---
 
