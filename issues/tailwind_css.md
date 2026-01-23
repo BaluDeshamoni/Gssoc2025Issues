@@ -167,7 +167,6 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | generating a better logo using ai and use that | Easy | [#124](https://github.com/huamanraj/aitoolbox.software/issues/124) |
-| Improve the performance in mobile | Medium | [#123](https://github.com/huamanraj/aitoolbox.software/issues/123) |
 
 ---
 
@@ -252,27 +251,30 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: improve list projects OpenAPI examples | Easy | [#3397](https://github.com/OWASP/Nest/pull/3397) |
+| Add CI/CD for staging deployment | Easy | [#3466](https://github.com/OWASP/Nest/pull/3466) |
+| Bug: Filter by Project level causes invalid value error on metrics page | Medium | [#3487](https://github.com/OWASP/Nest/issues/3487) |
+| Refactor programs page to use optional chaining (S6582) | Medium | [#3486](https://github.com/OWASP/Nest/pull/3486) |
+| fix: prefer optional chaining over logical AND guards (S6582) | Medium | [#3485](https://github.com/OWASP/Nest/pull/3485) |
+| Unauthorized access to Projects Dashboard shows 404 instead of Access Denied | Medium | [#3483](https://github.com/OWASP/Nest/issues/3483) |
+| Unauthorized users can access mentorship program page via direct URL | Medium | [#3482](https://github.com/OWASP/Nest/issues/3482) |
+| Mentors can see Create Program button | Medium | [#3481](https://github.com/OWASP/Nest/issues/3481) |
+| Footer layout breaks between 647px and 764px screen width | Medium | [#3480](https://github.com/OWASP/Nest/issues/3480) |
+| Fix negative indexing in recentProjects and recentMilestones | Medium | [#3478](https://github.com/OWASP/Nest/pull/3478) |
+| Inconsistent validation of GraphQL limit parameters across resolvers | Medium | [#3476](https://github.com/OWASP/Nest/issues/3476) |
+| Fix negative indexing and ReadTimeOut errors | Medium | [#3474](https://github.com/OWASP/Nest/pull/3474) |
+| Added Semgrep for CI and local checks | Medium | [#3470](https://github.com/OWASP/Nest/pull/3470) |
+| perf: optimize project pull requests by replacing property with M2M filed | Medium | [#3469](https://github.com/OWASP/Nest/pull/3469) |
+| Fix negative indexing in RepositoryNode.recent_milestones | Medium | [#3457](https://github.com/OWASP/Nest/pull/3457) |
+| Migrate Project issues property to M2M relation | Medium | [#3454](https://github.com/OWASP/Nest/pull/3454) |
 | Standardize filter and sort components for consistency and reusability | Medium | [#3450](https://github.com/OWASP/Nest/issues/3450) |
 | Silent exception handling hides errors and complicates debugging | Medium | [#3449](https://github.com/OWASP/Nest/issues/3449) |
 | Standardize pagination component for consistency and reusability | Medium | [#3448](https://github.com/OWASP/Nest/issues/3448) |
 | Replace @lru_cache with TTL-based caching for external and dynamic data | Medium | [#3447](https://github.com/OWASP/Nest/issues/3447) |
-| Make Project Health Dashboard responsive | Medium | [#3445](https://github.com/OWASP/Nest/issues/3445) |
 | feat: display related milestones on public program page | Medium | [#3441](https://github.com/OWASP/Nest/pull/3441) |
 | Fix: Overlapping search requests and redundant network calls on /contribute page | Medium | [#3439](https://github.com/OWASP/Nest/issues/3439) |
 | fix(a11y): use native button in MetricsScoreCircle | Medium | [#3437](https://github.com/OWASP/Nest/pull/3437) |
 | Add structured query filtering to Project REST API | Medium | [#3428](https://github.com/OWASP/Nest/pull/3428) |
 | feat: expose rate limit metadata via response headers | Medium | [#3425](https://github.com/OWASP/Nest/pull/3425) |
-| Disable module date selection outside program duration | Medium | [#3424](https://github.com/OWASP/Nest/pull/3424) |
-| Make issue labels on Contribute page interactive and selectable (consistent with rest of the project) | Medium | [#3422](https://github.com/OWASP/Nest/issues/3422) |
-| feat: add accessibility tests for pages | Medium | [#3420](https://github.com/OWASP/Nest/pull/3420) |
-| Move component definitions out of parent components to avoid unnecessary re-renders | Medium | [#3411](https://github.com/OWASP/Nest/issues/3411) |
-| feat: implement enforced Semgrep scanning with clean baseline (#2984) | Medium | [#3406](https://github.com/OWASP/Nest/pull/3406) |
-| fix: show module as a section when there is only 1 module | Medium | [#3402](https://github.com/OWASP/Nest/pull/3402) |
-| Mentors can see modules they are not assigned to within a programme | Medium | [#3401](https://github.com/OWASP/Nest/issues/3401) |
-| chore(ci): add semgrep security scanning to pre-commit and CI | Medium | [#3395](https://github.com/OWASP/Nest/pull/3395) |
-| Document API Error Codes and Responses | Medium | [#3394](https://github.com/OWASP/Nest/issues/3394) |
-| Add management command to detect non-compliant project levels and apply score penalty | Medium | [#3388](https://github.com/OWASP/Nest/pull/3388) |
 
 ---
 
@@ -529,9 +531,7 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Base | Medium | [#151](https://github.com/Dipanita45/HEALCONNECT/pull/151) |
-| Light theme added and fixed lot of issues related to it | Medium | [#150](https://github.com/Dipanita45/HEALCONNECT/pull/150) |
-| improved the ui | Medium | [#147](https://github.com/Dipanita45/HEALCONNECT/pull/147) |
+| Add Real-Time Emergency Alerts for Critical Patient Vitals #119 | Medium | [#156](https://github.com/Dipanita45/HEALCONNECT/pull/156) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -1410,46 +1410,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
-## 📌 Project: Product Ledger
-
-📝 **Description:** Its a Ledger Application for Reatilers to manage their services.
-
-🔗 [View Project](https://github.com/vishalmaurya850/Product-Ledger)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, Express.js
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added Scroll to top button | Medium | [#84](https://github.com/vishalmaurya850/Product-Ledger/pull/84) |
-| about us page | Medium | [#83](https://github.com/vishalmaurya850/Product-Ledger/issues/83) |
-| Enhancement | Medium | [#82](https://github.com/vishalmaurya850/Product-Ledger/issues/82) |
-| Feature : FAQ Page Implementation | Medium | [#81](https://github.com/vishalmaurya850/Product-Ledger/issues/81) |
-| Feature : Contact Us Page Implementation | Medium | [#80](https://github.com/vishalmaurya850/Product-Ledger/issues/80) |
-| Feature : About Us Page Implementation | Medium | [#79](https://github.com/vishalmaurya850/Product-Ledger/issues/79) |
-| Home and Footer sections Not in perfect alignment | Medium | [#78](https://github.com/vishalmaurya850/Product-Ledger/issues/78) |
-| Added scroll to top button | Medium | [#77](https://github.com/vishalmaurya850/Product-Ledger/pull/77) |
-| Add CONTRIBUTING.md file | Medium | [#76](https://github.com/vishalmaurya850/Product-Ledger/issues/76) |
-| Smooth Scroll Timing Adjustment | Medium | [#75](https://github.com/vishalmaurya850/Product-Ledger/pull/75) |
-| Responsive UI for Landing Page on Mobiles | Medium | [#74](https://github.com/vishalmaurya850/Product-Ledger/pull/74) |
-| Landing Page Not Mobile-Friendly | Medium | [#73](https://github.com/vishalmaurya850/Product-Ledger/issues/73) |
-| 📧 Email Integration - Automated notifications and password reset | Medium | [#69](https://github.com/vishalmaurya850/Product-Ledger/issues/69) |
-| ♿ Accessibility Enhancement: Semantic HTML, ARIA Attributes & Keyboard Navigation | Medium | [#68](https://github.com/vishalmaurya850/Product-Ledger/issues/68) |
-| Missing of Footer in "Privacy Policy", "Terms of Service", "Cookie Policy" Pages | Medium | [#65](https://github.com/vishalmaurya850/Product-Ledger/issues/65) |
-| Simple Dashboard Data Visualizations | Medium | [#64](https://github.com/vishalmaurya850/Product-Ledger/pull/64) |
-| Add Dockerfile and .dockerignore for containerization setup | Medium | [#61](https://github.com/vishalmaurya850/Product-Ledger/pull/61) |
-| Profile Section Not Opening After Login | Medium | [#60](https://github.com/vishalmaurya850/Product-Ledger/issues/60) |
-| Create Implement Real-Time Inventory Tracking with Stock Alert | Medium | [#58](https://github.com/vishalmaurya850/Product-Ledger/pull/58) |
-| Completed Assigned tasks | Medium | [#56](https://github.com/vishalmaurya850/Product-Ledger/pull/56) |
-| Fix: Smooth scroll effect in home page | Medium | [#55](https://github.com/vishalmaurya850/Product-Ledger/pull/55) |
-| Add contributing md | Medium | [#54](https://github.com/vishalmaurya850/Product-Ledger/pull/54) |
-| migrate installation guide from npm to pnpm with comprehensive setup … | Medium | [#53](https://github.com/vishalmaurya850/Product-Ledger/pull/53) |
-
----
-
 ## 📌 Project: SentiLog AI
 
 📝 **Description:** SentiLog AI is an open-source platform that helps users track their personal emotions through mood journaling while simultaneously analyzing global news sentiment to reveal how external events might influence their inner world. Combining the power of machine learning and a modern MERN stack architecture, SentiLog offers intelligent insights by visualizing the emotional tone of daily journal entries alongside real-time sentiment analysis of news articles and tweets. Users can explore patterns, compare their moods with global trends, and gain a deeper understanding of the connection between internal feelings and external narratives. Built for accessibility, scalability, and community collaboration, SentiLog AI is a unique intersection of emotion, analytics, and technology — empowering individuals to stay emotionally aware in an ever-changing world.
@@ -2076,15 +2036,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| CONTRIBUTING.md | Medium | [#237](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/237) |
-| BUG: UI Inconsistencies in About Page | Medium | [#235](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/235) |
-| feat: Add conversation-level privacy controls | Medium | [#234](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/234) |
-| BUG: About page shows placeholder team member names and profiles | Medium | [#233](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/233) |
-| BUG: "Contact Us" link in About section is not working | Medium | [#232](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/232) |
-| feat: Review | Medium | [#230](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/230) |
-| 'Stop' button stuck in Production (Proposed solution for #219) | Medium | [#229](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/229) |
-| 'Email' link in footer redirects to homepage instead of opening mail client | Medium | [#228](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/228) |
-| OTHER: Remove unused mobile menu state logic from HomePage | Medium | [#218](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/218) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 | FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
 
@@ -2324,6 +2275,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add 10 new text animation components with 30+ variants | Medium | [#119](https://github.com/subhadeeproy3902/mvpblocks/pull/119) |
+| Add Login & Signup Page | Medium | [#118](https://github.com/subhadeeproy3902/mvpblocks/issues/118) |
 | Add glass gradient hero section | Medium | [#116](https://github.com/subhadeeproy3902/mvpblocks/pull/116) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
