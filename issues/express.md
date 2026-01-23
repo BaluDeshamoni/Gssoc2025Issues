@@ -632,7 +632,9 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Updated mobile UI | Medium | [#79](https://github.com/Sahilll94/Travel-Book/pull/79) |
+| Performance | Medium | [#86](https://github.com/Sahilll94/Travel-Book/pull/86) |
+| fix: update Twitter icon to X in footer | Medium | [#85](https://github.com/Sahilll94/Travel-Book/pull/85) |
+| Fix tooltip visibility issue in AI chatbot | Medium | [#83](https://github.com/Sahilll94/Travel-Book/pull/83) |
 | Automatically fetching the location based on the user input. | Medium | [#73](https://github.com/Sahilll94/Travel-Book/issues/73) |
 | Add Left & Right Padding/Margin in "Our Services" Section | Medium | [#61](https://github.com/Sahilll94/Travel-Book/issues/61) |
 
@@ -886,46 +888,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Fix: Login, Signup, Forgot Password UI fixed | Medium | [#303](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/303) |
 | Secure Google Sign-In Integration | Medium | [#267](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/267) |
 | 🔐 Add Google OAuth for Easy Signup and Signin | Medium | [#263](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/263) |
-
----
-
-## 📌 Project: Product Ledger
-
-📝 **Description:** Its a Ledger Application for Reatilers to manage their services.
-
-🔗 [View Project](https://github.com/vishalmaurya850/Product-Ledger)
-
-💻 **Tech Stack:** Next.js, Tailwind CSS, Express.js
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added Scroll to top button | Medium | [#84](https://github.com/vishalmaurya850/Product-Ledger/pull/84) |
-| about us page | Medium | [#83](https://github.com/vishalmaurya850/Product-Ledger/issues/83) |
-| Enhancement | Medium | [#82](https://github.com/vishalmaurya850/Product-Ledger/issues/82) |
-| Feature : FAQ Page Implementation | Medium | [#81](https://github.com/vishalmaurya850/Product-Ledger/issues/81) |
-| Feature : Contact Us Page Implementation | Medium | [#80](https://github.com/vishalmaurya850/Product-Ledger/issues/80) |
-| Feature : About Us Page Implementation | Medium | [#79](https://github.com/vishalmaurya850/Product-Ledger/issues/79) |
-| Home and Footer sections Not in perfect alignment | Medium | [#78](https://github.com/vishalmaurya850/Product-Ledger/issues/78) |
-| Added scroll to top button | Medium | [#77](https://github.com/vishalmaurya850/Product-Ledger/pull/77) |
-| Add CONTRIBUTING.md file | Medium | [#76](https://github.com/vishalmaurya850/Product-Ledger/issues/76) |
-| Smooth Scroll Timing Adjustment | Medium | [#75](https://github.com/vishalmaurya850/Product-Ledger/pull/75) |
-| Responsive UI for Landing Page on Mobiles | Medium | [#74](https://github.com/vishalmaurya850/Product-Ledger/pull/74) |
-| Landing Page Not Mobile-Friendly | Medium | [#73](https://github.com/vishalmaurya850/Product-Ledger/issues/73) |
-| 📧 Email Integration - Automated notifications and password reset | Medium | [#69](https://github.com/vishalmaurya850/Product-Ledger/issues/69) |
-| ♿ Accessibility Enhancement: Semantic HTML, ARIA Attributes & Keyboard Navigation | Medium | [#68](https://github.com/vishalmaurya850/Product-Ledger/issues/68) |
-| Missing of Footer in "Privacy Policy", "Terms of Service", "Cookie Policy" Pages | Medium | [#65](https://github.com/vishalmaurya850/Product-Ledger/issues/65) |
-| Simple Dashboard Data Visualizations | Medium | [#64](https://github.com/vishalmaurya850/Product-Ledger/pull/64) |
-| Add Dockerfile and .dockerignore for containerization setup | Medium | [#61](https://github.com/vishalmaurya850/Product-Ledger/pull/61) |
-| Profile Section Not Opening After Login | Medium | [#60](https://github.com/vishalmaurya850/Product-Ledger/issues/60) |
-| Create Implement Real-Time Inventory Tracking with Stock Alert | Medium | [#58](https://github.com/vishalmaurya850/Product-Ledger/pull/58) |
-| Completed Assigned tasks | Medium | [#56](https://github.com/vishalmaurya850/Product-Ledger/pull/56) |
-| Fix: Smooth scroll effect in home page | Medium | [#55](https://github.com/vishalmaurya850/Product-Ledger/pull/55) |
-| Add contributing md | Medium | [#54](https://github.com/vishalmaurya850/Product-Ledger/pull/54) |
-| migrate installation guide from npm to pnpm with comprehensive setup … | Medium | [#53](https://github.com/vishalmaurya850/Product-Ledger/pull/53) |
 
 ---
 
