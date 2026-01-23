@@ -21,7 +21,6 @@
 | Missing of gitignore file | Medium | [#58](https://github.com/kaushav07/VisionMate/issues/58) |
 | Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
-| feat(logging): integrate scan_logger across application (Closes #41) | Medium | [#49](https://github.com/kaushav07/VisionMate/pull/49) |
 | updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
 | fixed the text-to-speech (TTS) audio playback compatibility issue | Medium | [#31](https://github.com/kaushav07/VisionMate/pull/31) |
 | Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
@@ -31,6 +30,7 @@
 | Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
 | Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
 | Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
+| Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
 
 ---
 
@@ -117,7 +117,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement advanced undo/redo system with visual history timeline | Medium | [#140](https://github.com/may-tas/TextEditingApp/pull/140) |
+| Implement Advanced Undo/Redo with Visual History Timeline #113 | Medium | [#170](https://github.com/may-tas/TextEditingApp/pull/170) |
 
 ---
 
