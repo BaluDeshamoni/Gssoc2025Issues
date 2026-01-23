@@ -93,27 +93,30 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: improve list projects OpenAPI examples | Easy | [#3397](https://github.com/OWASP/Nest/pull/3397) |
+| Add CI/CD for staging deployment | Easy | [#3466](https://github.com/OWASP/Nest/pull/3466) |
+| Bug: Filter by Project level causes invalid value error on metrics page | Medium | [#3487](https://github.com/OWASP/Nest/issues/3487) |
+| Refactor programs page to use optional chaining (S6582) | Medium | [#3486](https://github.com/OWASP/Nest/pull/3486) |
+| fix: prefer optional chaining over logical AND guards (S6582) | Medium | [#3485](https://github.com/OWASP/Nest/pull/3485) |
+| Unauthorized access to Projects Dashboard shows 404 instead of Access Denied | Medium | [#3483](https://github.com/OWASP/Nest/issues/3483) |
+| Unauthorized users can access mentorship program page via direct URL | Medium | [#3482](https://github.com/OWASP/Nest/issues/3482) |
+| Mentors can see Create Program button | Medium | [#3481](https://github.com/OWASP/Nest/issues/3481) |
+| Footer layout breaks between 647px and 764px screen width | Medium | [#3480](https://github.com/OWASP/Nest/issues/3480) |
+| Fix negative indexing in recentProjects and recentMilestones | Medium | [#3478](https://github.com/OWASP/Nest/pull/3478) |
+| Inconsistent validation of GraphQL limit parameters across resolvers | Medium | [#3476](https://github.com/OWASP/Nest/issues/3476) |
+| Fix negative indexing and ReadTimeOut errors | Medium | [#3474](https://github.com/OWASP/Nest/pull/3474) |
+| Added Semgrep for CI and local checks | Medium | [#3470](https://github.com/OWASP/Nest/pull/3470) |
+| perf: optimize project pull requests by replacing property with M2M filed | Medium | [#3469](https://github.com/OWASP/Nest/pull/3469) |
+| Fix negative indexing in RepositoryNode.recent_milestones | Medium | [#3457](https://github.com/OWASP/Nest/pull/3457) |
+| Migrate Project issues property to M2M relation | Medium | [#3454](https://github.com/OWASP/Nest/pull/3454) |
 | Standardize filter and sort components for consistency and reusability | Medium | [#3450](https://github.com/OWASP/Nest/issues/3450) |
 | Silent exception handling hides errors and complicates debugging | Medium | [#3449](https://github.com/OWASP/Nest/issues/3449) |
 | Standardize pagination component for consistency and reusability | Medium | [#3448](https://github.com/OWASP/Nest/issues/3448) |
 | Replace @lru_cache with TTL-based caching for external and dynamic data | Medium | [#3447](https://github.com/OWASP/Nest/issues/3447) |
-| Make Project Health Dashboard responsive | Medium | [#3445](https://github.com/OWASP/Nest/issues/3445) |
 | feat: display related milestones on public program page | Medium | [#3441](https://github.com/OWASP/Nest/pull/3441) |
 | Fix: Overlapping search requests and redundant network calls on /contribute page | Medium | [#3439](https://github.com/OWASP/Nest/issues/3439) |
 | fix(a11y): use native button in MetricsScoreCircle | Medium | [#3437](https://github.com/OWASP/Nest/pull/3437) |
 | Add structured query filtering to Project REST API | Medium | [#3428](https://github.com/OWASP/Nest/pull/3428) |
 | feat: expose rate limit metadata via response headers | Medium | [#3425](https://github.com/OWASP/Nest/pull/3425) |
-| Disable module date selection outside program duration | Medium | [#3424](https://github.com/OWASP/Nest/pull/3424) |
-| Make issue labels on Contribute page interactive and selectable (consistent with rest of the project) | Medium | [#3422](https://github.com/OWASP/Nest/issues/3422) |
-| feat: add accessibility tests for pages | Medium | [#3420](https://github.com/OWASP/Nest/pull/3420) |
-| Move component definitions out of parent components to avoid unnecessary re-renders | Medium | [#3411](https://github.com/OWASP/Nest/issues/3411) |
-| feat: implement enforced Semgrep scanning with clean baseline (#2984) | Medium | [#3406](https://github.com/OWASP/Nest/pull/3406) |
-| fix: show module as a section when there is only 1 module | Medium | [#3402](https://github.com/OWASP/Nest/pull/3402) |
-| Mentors can see modules they are not assigned to within a programme | Medium | [#3401](https://github.com/OWASP/Nest/issues/3401) |
-| chore(ci): add semgrep security scanning to pre-commit and CI | Medium | [#3395](https://github.com/OWASP/Nest/pull/3395) |
-| Document API Error Codes and Responses | Medium | [#3394](https://github.com/OWASP/Nest/issues/3394) |
-| Add management command to detect non-compliant project levels and apply score penalty | Medium | [#3388](https://github.com/OWASP/Nest/pull/3388) |
 
 ---
 
@@ -725,6 +728,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Rename `nanoservice-ts` → `blok` (core framework + HTTP trigger) | Medium | [#210](https://github.com/deskree-inc/blok/issues/210) |
 | 🧱 Expand Blok Documentation with End-to-End Modular Workflow Example | Medium | [#209](https://github.com/deskree-inc/blok/issues/209) |
 | some non-functional improvements | Medium | [#208](https://github.com/deskree-inc/blok/pull/208) |
 | Update README badge links | Medium | [#204](https://github.com/deskree-inc/blok/pull/204) |
@@ -745,7 +749,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Terraform aws guide | Medium | [#134](https://github.com/deskree-inc/blok/pull/134) |
 | Implement Metrics Collection in Python3 Runtime (Prometheus Export) | Medium | [#133](https://github.com/deskree-inc/blok/pull/133) |
 | Added a  dedicated section on creating workflows | Medium | [#131](https://github.com/deskree-inc/blok/pull/131) |
-| Add Configurable Observability Backend to nanoservice-ts (Prometheus/InfluxDB) | Medium | [#126](https://github.com/deskree-inc/blok/issues/126) |
 
 ---
 
@@ -993,18 +996,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| <title>Enhancement in toggle, create and login button | Medium | [#211](https://github.com/IndieHub25/GroqTales/issues/211) |
-| Addition of signup and login routes in the backend | Medium | [#210](https://github.com/IndieHub25/GroqTales/issues/210) |
-| Added JWT brearer auth and Authorization | Medium | [#209](https://github.com/IndieHub25/GroqTales/pull/209) |
-| fix: social media icons are visible when hovered on them | Medium | [#208](https://github.com/IndieHub25/GroqTales/pull/208) |
+| feat: implement story commenting system (#206) | Medium | [#213](https://github.com/IndieHub25/GroqTales/pull/213) |
 | Creator Dashboard Analytics | Medium | [#207](https://github.com/IndieHub25/GroqTales/issues/207) |
 | Story Commenting System | Medium | [#206](https://github.com/IndieHub25/GroqTales/issues/206) |
-| User Profile Editing | Medium | [#205](https://github.com/IndieHub25/GroqTales/issues/205) |
 | feat(profile): redesign profile page UI with stats, tabs, and activity | Medium | [#204](https://github.com/IndieHub25/GroqTales/pull/204) |
 | Fix: Improve Footer UI Layout and Responsiveness | Medium | [#203](https://github.com/IndieHub25/GroqTales/pull/203) |
 | Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
 | Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
-| Implement real account settings with backend‑connected profile and email/Google authentication | Hard | [#188](https://github.com/IndieHub25/GroqTales/issues/188) |
 | Implement real-time user profile view instead of static example profile | Hard | [#187](https://github.com/IndieHub25/GroqTales/issues/187) |
 | BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
@@ -1090,7 +1088,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.28.1 | Medium | [#243](https://github.com/Ojas-Arora/SapneSeSafar/pull/243) |
+| Bump framer-motion from 11.18.2 to 12.29.0 | Medium | [#245](https://github.com/Ojas-Arora/SapneSeSafar/pull/245) |
+| Bump recharts from 2.15.0 to 3.7.0 | Medium | [#244](https://github.com/Ojas-Arora/SapneSeSafar/pull/244) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.91.0 | Medium | [#241](https://github.com/Ojas-Arora/SapneSeSafar/pull/241) |
 | Bump zustand from 4.5.6 to 5.0.10 | Medium | [#237](https://github.com/Ojas-Arora/SapneSeSafar/pull/237) |
 | Bump react-router-dom from 6.28.2 to 7.12.0 | Medium | [#233](https://github.com/Ojas-Arora/SapneSeSafar/pull/233) |
@@ -1101,7 +1100,6 @@ Fast Workflow Tools
 | Bump eslint from 9.12.0 to 9.39.2 | Medium | [#222](https://github.com/Ojas-Arora/SapneSeSafar/pull/222) |
 | Bump autoprefixer from 10.4.20 to 10.4.23 | Medium | [#220](https://github.com/Ojas-Arora/SapneSeSafar/pull/220) |
 | Bump @types/papaparse from 5.3.16 to 5.5.2 | Medium | [#219](https://github.com/Ojas-Arora/SapneSeSafar/pull/219) |
-| Bump recharts from 2.15.0 to 3.6.0 | Medium | [#217](https://github.com/Ojas-Arora/SapneSeSafar/pull/217) |
 | Bump react and @types/react | Medium | [#214](https://github.com/Ojas-Arora/SapneSeSafar/pull/214) |
 | Bump react-dom and @types/react-dom | Medium | [#213](https://github.com/Ojas-Arora/SapneSeSafar/pull/213) |
 | Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
@@ -1284,6 +1282,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add 10 new text animation components with 30+ variants | Medium | [#119](https://github.com/subhadeeproy3902/mvpblocks/pull/119) |
+| Add Login & Signup Page | Medium | [#118](https://github.com/subhadeeproy3902/mvpblocks/issues/118) |
 | Add glass gradient hero section | Medium | [#116](https://github.com/subhadeeproy3902/mvpblocks/pull/116) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
