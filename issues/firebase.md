@@ -62,7 +62,7 @@
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
 | 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
 | 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
-| 📃: Kanban projects management system on users dashboard | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
+| 📃: Kanban notes management system | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
 | 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
 
