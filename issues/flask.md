@@ -136,7 +136,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Missing of gitignore file | Medium | [#58](https://github.com/kaushav07/VisionMate/issues/58) |
 | Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
-| feat(logging): integrate scan_logger across application (Closes #41) | Medium | [#49](https://github.com/kaushav07/VisionMate/pull/49) |
 | updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
 | fixed the text-to-speech (TTS) audio playback compatibility issue | Medium | [#31](https://github.com/kaushav07/VisionMate/pull/31) |
 | Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
@@ -146,6 +145,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Implementation of a Scan History Logger in the memory storage. | Medium | [#10](https://github.com/kaushav07/VisionMate/issues/10) |
 | Connecting the Interface with MySQL.. | Medium | [#9](https://github.com/kaushav07/VisionMate/issues/9) |
 | Add Object Detection as a Backup (Offline Mode) | Medium | [#5](https://github.com/kaushav07/VisionMate/issues/5) |
+| Missing .gitignore | Medium | [#3](https://github.com/kaushav07/VisionMate/issues/3) |
 
 ---
 
@@ -205,29 +205,26 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix/contact dropdown theme | Easy | [#902](https://github.com/omroy07/AgriTech/pull/902) |
-| Fixed read more modal not opening for last 2 posts | Medium | [#912](https://github.com/omroy07/AgriTech/pull/912) |
-| Fix: Theme toggle not working due to JavaScript runtime error | Medium | [#911](https://github.com/omroy07/AgriTech/pull/911) |
-| Added User Blog Posting Feature to AgriTech Blog Section | Medium | [#910](https://github.com/omroy07/AgriTech/pull/910) |
-| Smart Field Analytics: Precision Agriculture Dashboard with GIS & NDVI | Medium | [#909](https://github.com/omroy07/AgriTech/issues/909) |
-| Fix: Improve card and text visibility in dark mode on Marketplace page | Medium | [#908](https://github.com/omroy07/AgriTech/pull/908) |
-| Fix: Theme Toggle Consistency Across Pages | Medium | [#907](https://github.com/omroy07/AgriTech/pull/907) |
-| <short description>Fix the footer | Medium | [#906](https://github.com/omroy07/AgriTech/issues/906) |
-| Services Drop Down Menu does not work | Medium | [#905](https://github.com/omroy07/AgriTech/issues/905) |
-| Social media buttons do not redirect to their respective pages. | Medium | [#904](https://github.com/omroy07/AgriTech/issues/904) |
-| About Page Navbar, Hamburger, and Theme Toggle Issues | Medium | [#899](https://github.com/omroy07/AgriTech/issues/899) |
-| BUG: Home page theme toggle not working | Medium | [#898](https://github.com/omroy07/AgriTech/issues/898) |
-| Add Sitemap Page for Better Project Navigation and Contributor Onboarding | Medium | [#895](https://github.com/omroy07/AgriTech/issues/895) |
-| UI & Functionality Issues on Plant Disease Detection Page | Medium | [#894](https://github.com/omroy07/AgriTech/issues/894) |
-| Footer Layout Issue: Crop Calendar Page Footer Is Inconsistent | Medium | [#893](https://github.com/omroy07/AgriTech/issues/893) |
-| UI/UX Enhancement: Careers Page Needs Modern Styling & Interactions | Medium | [#892](https://github.com/omroy07/AgriTech/issues/892) |
-| Duplicate navigation bar displayed on About page with incorrect spacing | Medium | [#889](https://github.com/omroy07/AgriTech/issues/889) |
-| UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#886](https://github.com/omroy07/AgriTech/issues/886) |
-| UI/Responsive Issue on About Us Page – Navigation Menu Layout Breaks | Medium | [#885](https://github.com/omroy07/AgriTech/issues/885) |
-| Fix About Page Navbar, Hamburger, and Theme Toggle Issues | Medium | [#877](https://github.com/omroy07/AgriTech/pull/877) |
-| Navbar UI breaks - duplicated header and stacked menu items | Medium | [#874](https://github.com/omroy07/AgriTech/issues/874) |
-| Enhancement: Add keyboard navigation & ARIA labels to Favorites | Medium | [#870](https://github.com/omroy07/AgriTech/pull/870) |
-| Redesign navbar for better usability and consistency | Medium | [#865](https://github.com/omroy07/AgriTech/issues/865) |
+| Dependency Management Issue | Medium | [#1098](https://github.com/omroy07/AgriTech/issues/1098) |
+| Code Organization Issue - Duplicate/Scattered Code | Medium | [#1097](https://github.com/omroy07/AgriTech/issues/1097) |
+| Architecture Issue - Multiple Conflicting Servers | Medium | [#1096](https://github.com/omroy07/AgriTech/issues/1096) |
+| feat: implement email verification and password reset flow | Medium | [#1095](https://github.com/omroy07/AgriTech/pull/1095) |
+| feat: implement file upload service with cloud storage integration | Medium | [#1094](https://github.com/omroy07/AgriTech/pull/1094) |
+| feat: implement real-time notification system with WebSocket | Medium | [#1093](https://github.com/omroy07/AgriTech/pull/1093) |
+| Add Footer Section to Community Page | Medium | [#1092](https://github.com/omroy07/AgriTech/issues/1092) |
+| Navbar UI Broken on main page | Medium | [#1084](https://github.com/omroy07/AgriTech/issues/1084) |
+| feat: Implement JWT Authentication with Refresh Tokens and RBAC (#1039) | Medium | [#1080](https://github.com/omroy07/AgriTech/pull/1080) |
+| feat: Integrate SQLAlchemy and Flask-Migrate for data persistence | Medium | [#1079](https://github.com/omroy07/AgriTech/pull/1079) |
+| Improve Disease Detection Result Visualization | Medium | [#1075](https://github.com/omroy07/AgriTech/issues/1075) |
+| Add Weather Awareness & Advisory Banner | Medium | [#1074](https://github.com/omroy07/AgriTech/issues/1074) |
+| Add “Why This Crop?” Explanation Cards | Medium | [#1073](https://github.com/omroy07/AgriTech/issues/1073) |
+| Add Local Language Toggle for Better Farmer Accessibility | Medium | [#1072](https://github.com/omroy07/AgriTech/issues/1072) |
+| Fix: Prevent text overlap on image and card hover effects | Medium | [#1070](https://github.com/omroy07/AgriTech/pull/1070) |
+| Terms and Conditions Page Does Not Exist | Medium | [#1069](https://github.com/omroy07/AgriTech/issues/1069) |
+| Privacy Policy Page Not Present | Medium | [#1068](https://github.com/omroy07/AgriTech/issues/1068) |
+| Fix Unwanted Placeholder Text and Header Inconsistency on Blog Page | Medium | [#1067](https://github.com/omroy07/AgriTech/issues/1067) |
+| Introduce unified domain data schemas for AgriTech platform | Medium | [#1064](https://github.com/omroy07/AgriTech/issues/1064) |
+| Fix year crop planner | Medium | [#1063](https://github.com/omroy07/AgriTech/pull/1063) |
 
 ---
 
@@ -391,13 +388,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Add Career page | Medium | [#223](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/223) |
-| feat: add keyboard shortcuts for common actions | Medium | [#222](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/222) |
-| FEATURE: Add Contact Us Page | Medium | [#221](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/221) |
-| OTHER: Remove unused mobile menu state logic from HomePage | Medium | [#218](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/218) |
+| File Upload Security & Error Handling | Medium | [#240](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/240) |
+| Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
+| JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 | FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
-| FEATURE: Dynamic Testimonial Section | Hard | [#109](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/109) |
 
 ---
 
