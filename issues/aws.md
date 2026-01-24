@@ -51,6 +51,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Adding Environment variables summary | Easy | [#92](https://github.com/Sahilll94/Travel-Book/issues/92) |
+| Create `src/utils` Directory for Common Helper Functions | Easy | [#91](https://github.com/Sahilll94/Travel-Book/issues/91) |
+| Refactor API Calls into a Centralized `src/services` Directory | Easy | [#90](https://github.com/Sahilll94/Travel-Book/issues/90) |
 | Performance | Medium | [#86](https://github.com/Sahilll94/Travel-Book/pull/86) |
 | fix: update Twitter icon to X in footer | Medium | [#85](https://github.com/Sahilll94/Travel-Book/pull/85) |
 | Fix tooltip visibility issue in AI chatbot | Medium | [#83](https://github.com/Sahilll94/Travel-Book/pull/83) |
