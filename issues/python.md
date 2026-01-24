@@ -212,9 +212,10 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add CI/CD for staging deployment | Easy | [#3466](https://github.com/OWASP/Nest/pull/3466) |
+| Blocking synchronous OpenAI calls inside Event.save() cause request latency and failures | Medium | [#3502](https://github.com/OWASP/Nest/issues/3502) |
+| Fix Sonar S6582: Prefer optional chaining when rendering issues list | Medium | [#3500](https://github.com/OWASP/Nest/issues/3500) |
+| Perf/optimize project milestones | Medium | [#3492](https://github.com/OWASP/Nest/pull/3492) |
 | Bug: Filter by Project level causes invalid value error on metrics page | Medium | [#3487](https://github.com/OWASP/Nest/issues/3487) |
-| Refactor programs page to use optional chaining (S6582) | Medium | [#3486](https://github.com/OWASP/Nest/pull/3486) |
-| fix: prefer optional chaining over logical AND guards (S6582) | Medium | [#3485](https://github.com/OWASP/Nest/pull/3485) |
 | Unauthorized access to Projects Dashboard shows 404 instead of Access Denied | Medium | [#3483](https://github.com/OWASP/Nest/issues/3483) |
 | Unauthorized users can access mentorship program page via direct URL | Medium | [#3482](https://github.com/OWASP/Nest/issues/3482) |
 | Mentors can see Create Program button | Medium | [#3481](https://github.com/OWASP/Nest/issues/3481) |
@@ -222,7 +223,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Fix negative indexing in recentProjects and recentMilestones | Medium | [#3478](https://github.com/OWASP/Nest/pull/3478) |
 | Inconsistent validation of GraphQL limit parameters across resolvers | Medium | [#3476](https://github.com/OWASP/Nest/issues/3476) |
 | Fix negative indexing and ReadTimeOut errors | Medium | [#3474](https://github.com/OWASP/Nest/pull/3474) |
-| Added Semgrep for CI and local checks | Medium | [#3470](https://github.com/OWASP/Nest/pull/3470) |
 | perf: optimize project pull requests by replacing property with M2M filed | Medium | [#3469](https://github.com/OWASP/Nest/pull/3469) |
 | Fix negative indexing in RepositoryNode.recent_milestones | Medium | [#3457](https://github.com/OWASP/Nest/pull/3457) |
 | Migrate Project issues property to M2M relation | Medium | [#3454](https://github.com/OWASP/Nest/pull/3454) |
@@ -230,11 +230,10 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Silent exception handling hides errors and complicates debugging | Medium | [#3449](https://github.com/OWASP/Nest/issues/3449) |
 | Standardize pagination component for consistency and reusability | Medium | [#3448](https://github.com/OWASP/Nest/issues/3448) |
 | Replace @lru_cache with TTL-based caching for external and dynamic data | Medium | [#3447](https://github.com/OWASP/Nest/issues/3447) |
-| feat: display related milestones on public program page | Medium | [#3441](https://github.com/OWASP/Nest/pull/3441) |
 | Fix: Overlapping search requests and redundant network calls on /contribute page | Medium | [#3439](https://github.com/OWASP/Nest/issues/3439) |
-| fix(a11y): use native button in MetricsScoreCircle | Medium | [#3437](https://github.com/OWASP/Nest/pull/3437) |
 | Add structured query filtering to Project REST API | Medium | [#3428](https://github.com/OWASP/Nest/pull/3428) |
 | feat: expose rate limit metadata via response headers | Medium | [#3425](https://github.com/OWASP/Nest/pull/3425) |
+| Make issue labels on Contribute page interactive and selectable (consistent with rest of the project) | Medium | [#3422](https://github.com/OWASP/Nest/issues/3422) |
 
 ---
 
@@ -284,6 +283,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Confirmation Dialog System | Medium | [#260](https://github.com/Devasy/splitwiser/pull/260) |
 | Replace window.confirm with custom ConfirmDialog | Medium | [#259](https://github.com/Devasy/splitwiser/pull/259) |
 | enhance: Add global confirmation dialog system | Medium | [#258](https://github.com/Devasy/splitwiser/pull/258) |
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
@@ -578,13 +578,16 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Dependency Management Issue | Medium | [#1098](https://github.com/omroy07/AgriTech/issues/1098) |
+| Code Organization Issue - Duplicate/Scattered Code | Medium | [#1097](https://github.com/omroy07/AgriTech/issues/1097) |
+| Architecture Issue - Multiple Conflicting Servers | Medium | [#1096](https://github.com/omroy07/AgriTech/issues/1096) |
+| feat: implement email verification and password reset flow | Medium | [#1095](https://github.com/omroy07/AgriTech/pull/1095) |
+| feat: implement file upload service with cloud storage integration | Medium | [#1094](https://github.com/omroy07/AgriTech/pull/1094) |
+| feat: implement real-time notification system with WebSocket | Medium | [#1093](https://github.com/omroy07/AgriTech/pull/1093) |
+| Add Footer Section to Community Page | Medium | [#1092](https://github.com/omroy07/AgriTech/issues/1092) |
 | Navbar UI Broken on main page | Medium | [#1084](https://github.com/omroy07/AgriTech/issues/1084) |
-| Real-time Notification System with WebSocket and Email/SMS | Medium | [#1083](https://github.com/omroy07/AgriTech/issues/1083) |
-| File Upload Service with Cloud Storage Integration | Medium | [#1082](https://github.com/omroy07/AgriTech/issues/1082) |
-| Email Verification and Password Reset Flow | Medium | [#1081](https://github.com/omroy07/AgriTech/issues/1081) |
 | feat: Implement JWT Authentication with Refresh Tokens and RBAC (#1039) | Medium | [#1080](https://github.com/omroy07/AgriTech/pull/1080) |
 | feat: Integrate SQLAlchemy and Flask-Migrate for data persistence | Medium | [#1079](https://github.com/omroy07/AgriTech/pull/1079) |
-| feat: Implement async PDF report generation and email delivery engine | Medium | [#1078](https://github.com/omroy07/AgriTech/pull/1078) |
 | Improve Disease Detection Result Visualization | Medium | [#1075](https://github.com/omroy07/AgriTech/issues/1075) |
 | Add Weather Awareness & Advisory Banner | Medium | [#1074](https://github.com/omroy07/AgriTech/issues/1074) |
 | Add “Why This Crop?” Explanation Cards | Medium | [#1073](https://github.com/omroy07/AgriTech/issues/1073) |
@@ -593,16 +596,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Terms and Conditions Page Does Not Exist | Medium | [#1069](https://github.com/omroy07/AgriTech/issues/1069) |
 | Privacy Policy Page Not Present | Medium | [#1068](https://github.com/omroy07/AgriTech/issues/1068) |
 | Fix Unwanted Placeholder Text and Header Inconsistency on Blog Page | Medium | [#1067](https://github.com/omroy07/AgriTech/issues/1067) |
-| Changed the uiux of about page keeping index page as its baseline | Medium | [#1066](https://github.com/omroy07/AgriTech/pull/1066) |
 | Introduce unified domain data schemas for AgriTech platform | Medium | [#1064](https://github.com/omroy07/AgriTech/issues/1064) |
 | Fix year crop planner | Medium | [#1063](https://github.com/omroy07/AgriTech/pull/1063) |
-| Fix dark mode toggle in crop recommendation page | Medium | [#1062](https://github.com/omroy07/AgriTech/pull/1062) |
-| changing position of header section | Medium | [#1061](https://github.com/omroy07/AgriTech/issues/1061) |
-| Light/Dark mode toggle and “Back to Home” button not working in Scheme section | Medium | [#1059](https://github.com/omroy07/AgriTech/issues/1059) |
-| Add Role-Based Authentication (Farmer / Expert / Admin) using Firebase | Medium | [#1057](https://github.com/omroy07/AgriTech/issues/1057) |
-| Prediction Result Comparison (Current vs Previous) | Medium | [#1056](https://github.com/omroy07/AgriTech/issues/1056) |
-| Add “Recent Predictions History” using LocalStorage | Medium | [#1055](https://github.com/omroy07/AgriTech/issues/1055) |
-| Add Input Validation + Error Messages | Medium | [#1054](https://github.com/omroy07/AgriTech/issues/1054) |
 
 ---
 
@@ -969,6 +964,10 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add temporal mood analytics engine and enhanced Streamlit dashboard | Medium | [#89](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/89) |
+| Add Temporal Mood Tracking and Energy Analytics Dashboard | Medium | [#88](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/88) |
+| Update README with structured Table of Contents | Medium | [#87](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/87) |
+| feat: Add Spotify and YouTube Music API integration | Medium | [#86](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/86) |
 | Enhance Footer UI for Better Visual Hierarchy and Consistency | Medium | [#85](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/85) |
 | local_music_mood_player: Add local music player with mood detection integration | Medium | [#78](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/78) |
 | Adding Spotify songs | Medium | [#77](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/77) |
@@ -989,10 +988,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Contribution to UI | Medium | [#62](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/62) |
 | Feature Request: UI Enhancement for making the page more appealing and user friendly | Medium | [#61](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/61) |
 | added ml based yt recommendation system for yt songs | Medium | [#56](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/56) |
-| Added ONNX-based Emotion Detector in new_models (Python 3.13 compatible) | Medium | [#55](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/55) |
-| Refactored app structure, added helpers and model training script | Medium | [#54](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/54) |
 | feat(playlists): add emotion-based playlist creation functionality | Hard | [#60](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/60) |
-| Added print statement to log when video streaming starts | Hard | [#50](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/50) |
 
 ---
 
@@ -1577,14 +1573,12 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: implement story commenting system (#206) | Medium | [#213](https://github.com/IndieHub25/GroqTales/pull/213) |
+| Login auto-connects account and Create button fails for unauthenticated users | Easy | [#176](https://github.com/IndieHub25/GroqTales/issues/176) |
+| nav menu transparent background color | Medium | [#216](https://github.com/IndieHub25/GroqTales/issues/216) |
 | Creator Dashboard Analytics | Medium | [#207](https://github.com/IndieHub25/GroqTales/issues/207) |
 | Story Commenting System | Medium | [#206](https://github.com/IndieHub25/GroqTales/issues/206) |
-| feat(profile): redesign profile page UI with stats, tabs, and activity | Medium | [#204](https://github.com/IndieHub25/GroqTales/pull/204) |
-| Fix: Improve Footer UI Layout and Responsiveness | Medium | [#203](https://github.com/IndieHub25/GroqTales/pull/203) |
 | Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
 | Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
-| Implement real-time user profile view instead of static example profile | Hard | [#187](https://github.com/IndieHub25/GroqTales/issues/187) |
 | BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
 ---
@@ -1753,6 +1747,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| File Upload Security & Error Handling | Medium | [#240](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/240) |
+| Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
+| JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 | FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
 
