@@ -300,6 +300,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| The Navbar not displayed and copyright year is missing in Cultural Experience page | Medium | [#1927](https://github.com/apu52/Travel_Website/issues/1927) |
 | Website Takes Too Long to Load / Performance Delay on Initial Load | Medium | [#1926](https://github.com/apu52/Travel_Website/issues/1926) |
 | Hero Section UI Overlap and Text Alignment Issues on Homepage | Medium | [#1925](https://github.com/apu52/Travel_Website/issues/1925) |
 | Add new UI sections (Testimonials / FAQ / Newsletter / Destination Details) | Medium | [#1924](https://github.com/apu52/Travel_Website/issues/1924) |
@@ -329,7 +330,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | UI of watch our stories page is broken with content coming on top of video player " | Medium | [#1900](https://github.com/apu52/Travel_Website/issues/1900) |
 | UI/UX Redesign for E-book Gallery | Medium | [#1899](https://github.com/apu52/Travel_Website/issues/1899) |
 | Update the UI of Top Deals Page Cards | Medium | [#1898](https://github.com/apu52/Travel_Website/issues/1898) |
-| feat: Improve spacing between stat cards on homepage UI | Medium | [#1897](https://github.com/apu52/Travel_Website/pull/1897) |
 
 ---
 
@@ -419,9 +419,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Base | Medium | [#151](https://github.com/Dipanita45/HEALCONNECT/pull/151) |
-| Light theme added and fixed lot of issues related to it | Medium | [#150](https://github.com/Dipanita45/HEALCONNECT/pull/150) |
-| improved the ui | Medium | [#147](https://github.com/Dipanita45/HEALCONNECT/pull/147) |
+| Added responsiveness on smaller viewports and screens | Medium | [#163](https://github.com/Dipanita45/HEALCONNECT/pull/163) |
+| Add Real-Time Emergency Alerts for Critical Patient Vitals #119 | Medium | [#156](https://github.com/Dipanita45/HEALCONNECT/pull/156) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -728,26 +727,26 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Dependency Management Issue | Medium | [#1098](https://github.com/omroy07/AgriTech/issues/1098) |
+| Code Organization Issue - Duplicate/Scattered Code | Medium | [#1097](https://github.com/omroy07/AgriTech/issues/1097) |
+| Architecture Issue - Multiple Conflicting Servers | Medium | [#1096](https://github.com/omroy07/AgriTech/issues/1096) |
+| feat: implement email verification and password reset flow | Medium | [#1095](https://github.com/omroy07/AgriTech/pull/1095) |
+| feat: implement file upload service with cloud storage integration | Medium | [#1094](https://github.com/omroy07/AgriTech/pull/1094) |
+| feat: implement real-time notification system with WebSocket | Medium | [#1093](https://github.com/omroy07/AgriTech/pull/1093) |
+| Add Footer Section to Community Page | Medium | [#1092](https://github.com/omroy07/AgriTech/issues/1092) |
+| Navbar UI Broken on main page | Medium | [#1084](https://github.com/omroy07/AgriTech/issues/1084) |
+| feat: Implement JWT Authentication with Refresh Tokens and RBAC (#1039) | Medium | [#1080](https://github.com/omroy07/AgriTech/pull/1080) |
+| feat: Integrate SQLAlchemy and Flask-Migrate for data persistence | Medium | [#1079](https://github.com/omroy07/AgriTech/pull/1079) |
+| Improve Disease Detection Result Visualization | Medium | [#1075](https://github.com/omroy07/AgriTech/issues/1075) |
+| Add Weather Awareness & Advisory Banner | Medium | [#1074](https://github.com/omroy07/AgriTech/issues/1074) |
+| Add “Why This Crop?” Explanation Cards | Medium | [#1073](https://github.com/omroy07/AgriTech/issues/1073) |
+| Add Local Language Toggle for Better Farmer Accessibility | Medium | [#1072](https://github.com/omroy07/AgriTech/issues/1072) |
 | Fix: Prevent text overlap on image and card hover effects | Medium | [#1070](https://github.com/omroy07/AgriTech/pull/1070) |
 | Terms and Conditions Page Does Not Exist | Medium | [#1069](https://github.com/omroy07/AgriTech/issues/1069) |
 | Privacy Policy Page Not Present | Medium | [#1068](https://github.com/omroy07/AgriTech/issues/1068) |
 | Fix Unwanted Placeholder Text and Header Inconsistency on Blog Page | Medium | [#1067](https://github.com/omroy07/AgriTech/issues/1067) |
-| Changed the uiux of about page keeping index page as its baseline | Medium | [#1066](https://github.com/omroy07/AgriTech/pull/1066) |
-| Navbar not properly aligned | Medium | [#1065](https://github.com/omroy07/AgriTech/issues/1065) |
 | Introduce unified domain data schemas for AgriTech platform | Medium | [#1064](https://github.com/omroy07/AgriTech/issues/1064) |
 | Fix year crop planner | Medium | [#1063](https://github.com/omroy07/AgriTech/pull/1063) |
-| Fix dark mode toggle in crop recommendation page | Medium | [#1062](https://github.com/omroy07/AgriTech/pull/1062) |
-| changing position of header section | Medium | [#1061](https://github.com/omroy07/AgriTech/issues/1061) |
-| Light/Dark mode toggle and “Back to Home” button not working in Scheme section | Medium | [#1059](https://github.com/omroy07/AgriTech/issues/1059) |
-| Add Role-Based Authentication (Farmer / Expert / Admin) using Firebase | Medium | [#1057](https://github.com/omroy07/AgriTech/issues/1057) |
-| Prediction Result Comparison (Current vs Previous) | Medium | [#1056](https://github.com/omroy07/AgriTech/issues/1056) |
-| Add “Recent Predictions History” using LocalStorage | Medium | [#1055](https://github.com/omroy07/AgriTech/issues/1055) |
-| Add Input Validation + Error Messages | Medium | [#1054](https://github.com/omroy07/AgriTech/issues/1054) |
-| We can create a page for the farmers to sell their products directly to the customers. | Medium | [#1047](https://github.com/omroy07/AgriTech/issues/1047) |
-| Implement Async PDF Report Generation and Email Delivery Engine | Medium | [#1041](https://github.com/omroy07/AgriTech/issues/1041) |
-| Integrate SQLAlchemy and Flask-Migrate for Data Persistence | Medium | [#1040](https://github.com/omroy07/AgriTech/issues/1040) |
-| Implement JWT Authentication with Refresh Tokens and Role-Based Access Control | Medium | [#1039](https://github.com/omroy07/AgriTech/issues/1039) |
-| feat: implement WebSocket real-time notifications for task updates | Medium | [#1036](https://github.com/omroy07/AgriTech/pull/1036) |
 
 ---
 
@@ -1705,6 +1704,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add smart appointment slot suggestion feature | Medium | [#66](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/66) |
+| fix: resolve concurrency issue in appointment booking (double-booking fix) | Medium | [#65](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/65) |
+| Implement role-based access control (Admin, Doctor, Patient) for API endpoints | Medium | [#64](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/64) |
+| FEATURE: Real-Time Appointment Notifications & Reminders System | Medium | [#63](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/63) |
 | 💊 Implement Prescription Management Module | Medium | [#62](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/62) |
 | Add a section "system architecture" in  readme | Medium | [#61](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/61) |
 
@@ -2030,19 +2033,12 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| <title>Enhancement in toggle, create and login button | Medium | [#211](https://github.com/IndieHub25/GroqTales/issues/211) |
-| Addition of signup and login routes in the backend | Medium | [#210](https://github.com/IndieHub25/GroqTales/issues/210) |
-| Added JWT brearer auth and Authorization | Medium | [#209](https://github.com/IndieHub25/GroqTales/pull/209) |
-| fix: social media icons are visible when hovered on them | Medium | [#208](https://github.com/IndieHub25/GroqTales/pull/208) |
+| Login auto-connects account and Create button fails for unauthenticated users | Easy | [#176](https://github.com/IndieHub25/GroqTales/issues/176) |
+| nav menu transparent background color | Medium | [#216](https://github.com/IndieHub25/GroqTales/issues/216) |
 | Creator Dashboard Analytics | Medium | [#207](https://github.com/IndieHub25/GroqTales/issues/207) |
 | Story Commenting System | Medium | [#206](https://github.com/IndieHub25/GroqTales/issues/206) |
-| User Profile Editing | Medium | [#205](https://github.com/IndieHub25/GroqTales/issues/205) |
-| feat(profile): redesign profile page UI with stats, tabs, and activity | Medium | [#204](https://github.com/IndieHub25/GroqTales/pull/204) |
-| Fix: Improve Footer UI Layout and Responsiveness | Medium | [#203](https://github.com/IndieHub25/GroqTales/pull/203) |
 | Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
 | Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
-| Implement real account settings with backend‑connected profile and email/Google authentication | Hard | [#188](https://github.com/IndieHub25/GroqTales/issues/188) |
-| Implement real-time user profile view instead of static example profile | Hard | [#187](https://github.com/IndieHub25/GroqTales/issues/187) |
 | BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
 
 ---
@@ -2121,18 +2117,18 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.28.1 | Medium | [#243](https://github.com/Ojas-Arora/SapneSeSafar/pull/243) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.91.0 | Medium | [#241](https://github.com/Ojas-Arora/SapneSeSafar/pull/241) |
+| Bump react-router-dom from 6.28.2 to 7.13.0 | Medium | [#248](https://github.com/Ojas-Arora/SapneSeSafar/pull/248) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.91.1 | Medium | [#247](https://github.com/Ojas-Arora/SapneSeSafar/pull/247) |
+| Bump lucide-react from 0.344.0 to 0.563.0 | Medium | [#246](https://github.com/Ojas-Arora/SapneSeSafar/pull/246) |
+| Bump framer-motion from 11.18.2 to 12.29.0 | Medium | [#245](https://github.com/Ojas-Arora/SapneSeSafar/pull/245) |
+| Bump recharts from 2.15.0 to 3.7.0 | Medium | [#244](https://github.com/Ojas-Arora/SapneSeSafar/pull/244) |
 | Bump zustand from 4.5.6 to 5.0.10 | Medium | [#237](https://github.com/Ojas-Arora/SapneSeSafar/pull/237) |
-| Bump react-router-dom from 6.28.2 to 7.12.0 | Medium | [#233](https://github.com/Ojas-Arora/SapneSeSafar/pull/233) |
 | Bump @libsql/client from 0.5.6 to 0.17.0 | Medium | [#232](https://github.com/Ojas-Arora/SapneSeSafar/pull/232) |
 | Bump vite from 5.4.17 to 7.3.1 | Medium | [#231](https://github.com/Ojas-Arora/SapneSeSafar/pull/231) |
-| Bump lucide-react from 0.344.0 to 0.562.0 | Medium | [#227](https://github.com/Ojas-Arora/SapneSeSafar/pull/227) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.26 | Medium | [#225](https://github.com/Ojas-Arora/SapneSeSafar/pull/225) |
 | Bump eslint from 9.12.0 to 9.39.2 | Medium | [#222](https://github.com/Ojas-Arora/SapneSeSafar/pull/222) |
 | Bump autoprefixer from 10.4.20 to 10.4.23 | Medium | [#220](https://github.com/Ojas-Arora/SapneSeSafar/pull/220) |
 | Bump @types/papaparse from 5.3.16 to 5.5.2 | Medium | [#219](https://github.com/Ojas-Arora/SapneSeSafar/pull/219) |
-| Bump recharts from 2.15.0 to 3.6.0 | Medium | [#217](https://github.com/Ojas-Arora/SapneSeSafar/pull/217) |
 | Bump react and @types/react | Medium | [#214](https://github.com/Ojas-Arora/SapneSeSafar/pull/214) |
 | Bump react-dom and @types/react-dom | Medium | [#213](https://github.com/Ojas-Arora/SapneSeSafar/pull/213) |
 | Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
@@ -2525,6 +2521,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI Issue | Medium | [#393](https://github.com/code-well0/trip-planner/issues/393) |
 | Fix toast issue: consolidate ToastContainer in App.js | Medium | [#392](https://github.com/code-well0/trip-planner/pull/392) |
 
 ---
