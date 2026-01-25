@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancement: Add Loading Screen While Emotion Detection Model is Processing | Medium | [#90](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/90) |
 | Add temporal mood analytics engine and enhanced Streamlit dashboard | Medium | [#89](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/89) |
 | Add Temporal Mood Tracking and Energy Analytics Dashboard | Medium | [#88](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/88) |
 | Update README with structured Table of Contents | Medium | [#87](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/87) |
@@ -37,7 +38,6 @@
 | to add little video or image upload to get song recommendation | Medium | [#63](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/63) |
 | Contribution to UI | Medium | [#62](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/62) |
 | Feature Request: UI Enhancement for making the page more appealing and user friendly | Medium | [#61](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/61) |
-| added ml based yt recommendation system for yt songs | Medium | [#56](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/56) |
 | feat(playlists): add emotion-based playlist creation functionality | Hard | [#60](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/60) |
 
 ---
