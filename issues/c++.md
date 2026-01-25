@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added responsiveness on smaller viewports and screens | Medium | [#163](https://github.com/Dipanita45/HEALCONNECT/pull/163) |
 | Add Real-Time Emergency Alerts for Critical Patient Vitals #119 | Medium | [#156](https://github.com/Dipanita45/HEALCONNECT/pull/156) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
@@ -56,9 +55,7 @@
 |----------|----------------|---------|
 | refactor(hybrid-storage): Add ``[[nodiscard]]`` and noexcept Attributes | Easy | [#166](https://github.com/SharonIV0x86/CinderPeak/issues/166) |
 | refactor(hybrid-storage): Optimize Vertex Lookups - Replace count() + operator[] with find() | Easy | [#165](https://github.com/SharonIV0x86/CinderPeak/issues/165) |
-| refactor(hybrid-storage): Use vertex indices in CSR/COO (store size_t indices instead of VertexType | Easy | [#164](https://github.com/SharonIV0x86/CinderPeak/issues/164) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
-| feat(visualization): add toDot export method for graph visualization | Medium | [#176](https://github.com/SharonIV0x86/CinderPeak/pull/176) |
 
 ---
 
