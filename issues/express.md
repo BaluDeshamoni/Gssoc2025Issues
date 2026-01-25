@@ -150,6 +150,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Missing back button to navigate out of project detail page | Medium | [#1369](https://github.com/Code-A2Z/code-a2z/issues/1369) |
 | Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
@@ -161,14 +162,13 @@ Accessibility features like dark mode,white.
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
-| Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Notes app | Medium | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
 | 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
 | 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
-| 📃: Kanban projects management system on users dashboard | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
+| 📃: Kanban notes management system | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
 | 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
 
@@ -390,8 +390,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fixed : Improve CONTRIBUTING.md UI & Formatting | Medium | [#883](https://github.com/HarshS16/Civix/pull/883) |
-| Add project structure section to README | Medium | [#882](https://github.com/HarshS16/Civix/pull/882) |
 | Adding stunning landing page | Medium | [#878](https://github.com/HarshS16/Civix/issues/878) |
 | Improve Navbar UI/UX | Medium | [#875](https://github.com/HarshS16/Civix/issues/875) |
 | Incomplete gradient on the newsletter subscribe button | Medium | [#874](https://github.com/HarshS16/Civix/issues/874) |
@@ -399,7 +397,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | Inconsistent hover effect on social media icons in dark mode | Medium | [#872](https://github.com/HarshS16/Civix/issues/872) |
 | Update Twitter Icon to Latest X Logo | Medium | [#868](https://github.com/HarshS16/Civix/issues/868) |
 | Registration: Missing "Confirm Password" Field | Medium | [#867](https://github.com/HarshS16/Civix/issues/867) |
-| fix: add dark and light mode persistence for logo components | Medium | [#561](https://github.com/HarshS16/Civix/pull/561) |
 
 ---
 
@@ -632,8 +629,11 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Unrealistic / Distracting Image Hover Effect | Easy | [#93](https://github.com/Sahilll94/Travel-Book/issues/93) |
+| Create `src/utils` Directory for Common Helper Functions | Easy | [#91](https://github.com/Sahilll94/Travel-Book/issues/91) |
+| Corrected unordered list with list items | Medium | [#100](https://github.com/Sahilll94/Travel-Book/pull/100) |
+| A new improved UI for this project | Medium | [#97](https://github.com/Sahilll94/Travel-Book/issues/97) |
 | Performance | Medium | [#86](https://github.com/Sahilll94/Travel-Book/pull/86) |
-| fix: update Twitter icon to X in footer | Medium | [#85](https://github.com/Sahilll94/Travel-Book/pull/85) |
 | Fix tooltip visibility issue in AI chatbot | Medium | [#83](https://github.com/Sahilll94/Travel-Book/pull/83) |
 | Automatically fetching the location based on the user input. | Medium | [#73](https://github.com/Sahilll94/Travel-Book/issues/73) |
 | Add Left & Right Padding/Margin in "Our Services" Section | Medium | [#61](https://github.com/Sahilll94/Travel-Book/issues/61) |
@@ -1210,6 +1210,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
+| Add separate contribution guidelines for SWoC'2026 contributors | Medium | [#116](https://github.com/prasoonk1204/BreatheEasy/issues/116) |
 | Secure map tiles using backend proxy with caching and rate limiting | Medium | [#114](https://github.com/prasoonk1204/BreatheEasy/pull/114) |
 | Add containerized local development workflow using Docker & Docker Compose | Medium | [#112](https://github.com/prasoonk1204/BreatheEasy/issues/112) |
 | Add AQI export to CSV/PDF | Medium | [#109](https://github.com/prasoonk1204/BreatheEasy/pull/109) |
