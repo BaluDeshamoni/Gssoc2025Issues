@@ -804,26 +804,25 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add frontend language toggle for better farmer accessibility | Medium | [#1115](https://github.com/omroy07/AgriTech/pull/1115) |
+| Added toggle theme button | Medium | [#1113](https://github.com/omroy07/AgriTech/pull/1113) |
+| Implement Multilingual API Support (i18n) for Localized Responses | Medium | [#1112](https://github.com/omroy07/AgriTech/issues/1112) |
+| Async PDF Report Synthesis for Loan Eligibility Assessments | Medium | [#1111](https://github.com/omroy07/AgriTech/issues/1111) |
+| Implement Persistent JWT Authentication with Access/Refresh Tokens and RBAC | Medium | [#1110](https://github.com/omroy07/AgriTech/issues/1110) |
+| Homepage UI does not visually represent the agricultural domain | Medium | [#1109](https://github.com/omroy07/AgriTech/issues/1109) |
+| Added License | Medium | [#1105](https://github.com/omroy07/AgriTech/pull/1105) |
+| Fix the footer | Medium | [#1104](https://github.com/omroy07/AgriTech/pull/1104) |
+| Yield prediction fix | Medium | [#1102](https://github.com/omroy07/AgriTech/pull/1102) |
 | Dependency Management Issue | Medium | [#1098](https://github.com/omroy07/AgriTech/issues/1098) |
 | Code Organization Issue - Duplicate/Scattered Code | Medium | [#1097](https://github.com/omroy07/AgriTech/issues/1097) |
 | Architecture Issue - Multiple Conflicting Servers | Medium | [#1096](https://github.com/omroy07/AgriTech/issues/1096) |
-| feat: implement email verification and password reset flow | Medium | [#1095](https://github.com/omroy07/AgriTech/pull/1095) |
-| feat: implement file upload service with cloud storage integration | Medium | [#1094](https://github.com/omroy07/AgriTech/pull/1094) |
-| feat: implement real-time notification system with WebSocket | Medium | [#1093](https://github.com/omroy07/AgriTech/pull/1093) |
-| Add Footer Section to Community Page | Medium | [#1092](https://github.com/omroy07/AgriTech/issues/1092) |
 | Navbar UI Broken on main page | Medium | [#1084](https://github.com/omroy07/AgriTech/issues/1084) |
-| feat: Implement JWT Authentication with Refresh Tokens and RBAC (#1039) | Medium | [#1080](https://github.com/omroy07/AgriTech/pull/1080) |
-| feat: Integrate SQLAlchemy and Flask-Migrate for data persistence | Medium | [#1079](https://github.com/omroy07/AgriTech/pull/1079) |
 | Improve Disease Detection Result Visualization | Medium | [#1075](https://github.com/omroy07/AgriTech/issues/1075) |
 | Add Weather Awareness & Advisory Banner | Medium | [#1074](https://github.com/omroy07/AgriTech/issues/1074) |
 | Add “Why This Crop?” Explanation Cards | Medium | [#1073](https://github.com/omroy07/AgriTech/issues/1073) |
 | Add Local Language Toggle for Better Farmer Accessibility | Medium | [#1072](https://github.com/omroy07/AgriTech/issues/1072) |
-| Fix: Prevent text overlap on image and card hover effects | Medium | [#1070](https://github.com/omroy07/AgriTech/pull/1070) |
-| Terms and Conditions Page Does Not Exist | Medium | [#1069](https://github.com/omroy07/AgriTech/issues/1069) |
-| Privacy Policy Page Not Present | Medium | [#1068](https://github.com/omroy07/AgriTech/issues/1068) |
-| Fix Unwanted Placeholder Text and Header Inconsistency on Blog Page | Medium | [#1067](https://github.com/omroy07/AgriTech/issues/1067) |
-| Introduce unified domain data schemas for AgriTech platform | Medium | [#1064](https://github.com/omroy07/AgriTech/issues/1064) |
-| Fix year crop planner | Medium | [#1063](https://github.com/omroy07/AgriTech/pull/1063) |
+| Add Role-Based Authentication (Farmer / Expert / Admin) using Firebase | Medium | [#1057](https://github.com/omroy07/AgriTech/issues/1057) |
+| Prediction Result Comparison (Current vs Previous) | Medium | [#1056](https://github.com/omroy07/AgriTech/issues/1056) |
 
 ---
 
@@ -1150,11 +1149,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Create security.md file | Easy | [#637](https://github.com/eccentriccoder01/TalkHeal/issues/637) |
 | Typo in the word "Exercise" on the website | Easy | [#636](https://github.com/eccentriccoder01/TalkHeal/issues/636) |
 | Add Mermaid.js system architecture and data flow diagrams | Medium | [#641](https://github.com/eccentriccoder01/TalkHeal/issues/641) |
-| Cursor trail that matches theme | Medium | [#640](https://github.com/eccentriccoder01/TalkHeal/issues/640) |
-| Add i18n support | Medium | [#639](https://github.com/eccentriccoder01/TalkHeal/issues/639) |
 |  | Medium | [#638](https://github.com/eccentriccoder01/TalkHeal/issues/638) |
 | Fix low color contrast to meet WCAG accessibility standards | Medium | [#634](https://github.com/eccentriccoder01/TalkHeal/issues/634) |
-| Use context managers for all SQLite database connections | Medium | [#632](https://github.com/eccentriccoder01/TalkHeal/issues/632) |
 
 ---
 
@@ -1243,11 +1239,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump firebase from 9.23.0 to 12.8.0 | Medium | [#1265](https://github.com/recodehive/recode-website/pull/1265) |
-| chore: bump react and @types/react | Medium | [#1264](https://github.com/recodehive/recode-website/pull/1264) |
-| chore: bump react-slot-counter from 3.3.1 to 3.3.2 | Medium | [#1263](https://github.com/recodehive/recode-website/pull/1263) |
-| chore: bump eslint from 9.38.0 to 9.39.2 | Medium | [#1262](https://github.com/recodehive/recode-website/pull/1262) |
-| chore: bump tailwindcss from 4.1.14 to 4.1.18 | Medium | [#1261](https://github.com/recodehive/recode-website/pull/1261) |
 
 ---
 
@@ -2325,7 +2316,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Ui interface for Mobile version | Medium | [#150](https://github.com/RAJIV81205/Weather-Blast/issues/150) |
-| Contribution missing after merge (PR #43) | Medium | [#149](https://github.com/RAJIV81205/Weather-Blast/issues/149) |
 | No Mute Option | Medium | [#148](https://github.com/RAJIV81205/Weather-Blast/issues/148) |
 | Integrate AI Chatbot for Personalized Weather Tips and Safety Precautions | Medium | [#147](https://github.com/RAJIV81205/Weather-Blast/pull/147) |
 | Forecast UI | Medium | [#119](https://github.com/RAJIV81205/Weather-Blast/issues/119) |
