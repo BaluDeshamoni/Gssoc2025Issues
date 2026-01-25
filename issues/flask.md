@@ -205,26 +205,25 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add frontend language toggle for better farmer accessibility | Medium | [#1115](https://github.com/omroy07/AgriTech/pull/1115) |
+| Added toggle theme button | Medium | [#1113](https://github.com/omroy07/AgriTech/pull/1113) |
+| Implement Multilingual API Support (i18n) for Localized Responses | Medium | [#1112](https://github.com/omroy07/AgriTech/issues/1112) |
+| Async PDF Report Synthesis for Loan Eligibility Assessments | Medium | [#1111](https://github.com/omroy07/AgriTech/issues/1111) |
+| Implement Persistent JWT Authentication with Access/Refresh Tokens and RBAC | Medium | [#1110](https://github.com/omroy07/AgriTech/issues/1110) |
+| Homepage UI does not visually represent the agricultural domain | Medium | [#1109](https://github.com/omroy07/AgriTech/issues/1109) |
+| Added License | Medium | [#1105](https://github.com/omroy07/AgriTech/pull/1105) |
+| Fix the footer | Medium | [#1104](https://github.com/omroy07/AgriTech/pull/1104) |
+| Yield prediction fix | Medium | [#1102](https://github.com/omroy07/AgriTech/pull/1102) |
 | Dependency Management Issue | Medium | [#1098](https://github.com/omroy07/AgriTech/issues/1098) |
 | Code Organization Issue - Duplicate/Scattered Code | Medium | [#1097](https://github.com/omroy07/AgriTech/issues/1097) |
 | Architecture Issue - Multiple Conflicting Servers | Medium | [#1096](https://github.com/omroy07/AgriTech/issues/1096) |
-| feat: implement email verification and password reset flow | Medium | [#1095](https://github.com/omroy07/AgriTech/pull/1095) |
-| feat: implement file upload service with cloud storage integration | Medium | [#1094](https://github.com/omroy07/AgriTech/pull/1094) |
-| feat: implement real-time notification system with WebSocket | Medium | [#1093](https://github.com/omroy07/AgriTech/pull/1093) |
-| Add Footer Section to Community Page | Medium | [#1092](https://github.com/omroy07/AgriTech/issues/1092) |
 | Navbar UI Broken on main page | Medium | [#1084](https://github.com/omroy07/AgriTech/issues/1084) |
-| feat: Implement JWT Authentication with Refresh Tokens and RBAC (#1039) | Medium | [#1080](https://github.com/omroy07/AgriTech/pull/1080) |
-| feat: Integrate SQLAlchemy and Flask-Migrate for data persistence | Medium | [#1079](https://github.com/omroy07/AgriTech/pull/1079) |
 | Improve Disease Detection Result Visualization | Medium | [#1075](https://github.com/omroy07/AgriTech/issues/1075) |
 | Add Weather Awareness & Advisory Banner | Medium | [#1074](https://github.com/omroy07/AgriTech/issues/1074) |
 | Add “Why This Crop?” Explanation Cards | Medium | [#1073](https://github.com/omroy07/AgriTech/issues/1073) |
 | Add Local Language Toggle for Better Farmer Accessibility | Medium | [#1072](https://github.com/omroy07/AgriTech/issues/1072) |
-| Fix: Prevent text overlap on image and card hover effects | Medium | [#1070](https://github.com/omroy07/AgriTech/pull/1070) |
-| Terms and Conditions Page Does Not Exist | Medium | [#1069](https://github.com/omroy07/AgriTech/issues/1069) |
-| Privacy Policy Page Not Present | Medium | [#1068](https://github.com/omroy07/AgriTech/issues/1068) |
-| Fix Unwanted Placeholder Text and Header Inconsistency on Blog Page | Medium | [#1067](https://github.com/omroy07/AgriTech/issues/1067) |
-| Introduce unified domain data schemas for AgriTech platform | Medium | [#1064](https://github.com/omroy07/AgriTech/issues/1064) |
-| Fix year crop planner | Medium | [#1063](https://github.com/omroy07/AgriTech/pull/1063) |
+| Add Role-Based Authentication (Farmer / Expert / Admin) using Firebase | Medium | [#1057](https://github.com/omroy07/AgriTech/issues/1057) |
+| Prediction Result Comparison (Current vs Previous) | Medium | [#1056](https://github.com/omroy07/AgriTech/issues/1056) |
 
 ---
 
@@ -388,7 +387,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| File Upload Security & Error Handling | Medium | [#240](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/240) |
 | Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
