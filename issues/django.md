@@ -14,29 +14,31 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add CI/CD for staging deployment | Easy | [#3466](https://github.com/OWASP/Nest/pull/3466) |
+| Docs: add security scanning guides and Makefile targets | Easy | [#3525](https://github.com/OWASP/Nest/pull/3525) |
+| Fix ObjectDoesNotExist using invalid keyword argument | Medium | [#3534](https://github.com/OWASP/Nest/pull/3534) |
+| Add docstrings to mixin property methods | Medium | [#3532](https://github.com/OWASP/Nest/pull/3532) |
+| refactor: replace deprecated matchMedia listeners with addEventListener | Medium | [#3531](https://github.com/OWASP/Nest/pull/3531) |
+| fix: ensure deterministic sorting for program admins | Medium | [#3530](https://github.com/OWASP/Nest/pull/3530) |
+| Rework backend/frontend exception handling for data validation errors | Medium | [#3529](https://github.com/OWASP/Nest/issues/3529) |
+| Improve and fill gaps in project documentation | Medium | [#3528](https://github.com/OWASP/Nest/issues/3528) |
+| Implement Scalable Search API for Domain and Taxonomy Autocomplete | Medium | [#3527](https://github.com/OWASP/Nest/issues/3527) |
+| feat(mentorship): add validation for tags and domains | Medium | [#3526](https://github.com/OWASP/Nest/pull/3526) |
+| Add Task-Level Admin Functionality | Medium | [#3524](https://github.com/OWASP/Nest/issues/3524) |
+| Fix MetricsPDFButton accessibility: icon used as button without proper semantics | Medium | [#3523](https://github.com/OWASP/Nest/issues/3523) |
+| Fix LogoCarousel memory leak: innerHTML duplication without cleanup | Medium | [#3522](https://github.com/OWASP/Nest/issues/3522) |
+| Fix Next.js Image component issues: undefined src values and missing sizes prop | Medium | [#3520](https://github.com/OWASP/Nest/issues/3520) |
+| Implement Proper Data Validation for Program Date Changes Against Existing Module Dates | Medium | [#3517](https://github.com/OWASP/Nest/issues/3517) |
+| feat: add recent pull requests to public module page | Medium | [#3516](https://github.com/OWASP/Nest/pull/3516) |
+| Accessibility (a11y) improvements and image optimization | Medium | [#3514](https://github.com/OWASP/Nest/issues/3514) |
+| Unify Label component UI with ActionButtons for consistency | Medium | [#3513](https://github.com/OWASP/Nest/issues/3513) |
+| Add project search field to Project Health Dashboard Metrics page | Medium | [#3512](https://github.com/OWASP/Nest/issues/3512) |
+| fix: send uppercase ProjectLevel enum in health metrics filters | Medium | [#3511](https://github.com/OWASP/Nest/pull/3511) |
+| Improve error handling for GraphQL mutations in the Mentorship Portal | Medium | [#3510](https://github.com/OWASP/Nest/issues/3510) |
+| Add searchable taxonomy-based dropdown for domains | Medium | [#3509](https://github.com/OWASP/Nest/issues/3509) |
+| Truncate Program Description on ProgramCard (Show “Read More” for Long Content) | Medium | [#3508](https://github.com/OWASP/Nest/issues/3508) |
+| fix: align project level filter values with graphql enum casing #3436 | Medium | [#3507](https://github.com/OWASP/Nest/pull/3507) |
 | Blocking synchronous OpenAI calls inside Event.save() cause request latency and failures | Medium | [#3502](https://github.com/OWASP/Nest/issues/3502) |
 | Fix Sonar S6582: Prefer optional chaining when rendering issues list | Medium | [#3500](https://github.com/OWASP/Nest/issues/3500) |
-| Perf/optimize project milestones | Medium | [#3492](https://github.com/OWASP/Nest/pull/3492) |
-| Bug: Filter by Project level causes invalid value error on metrics page | Medium | [#3487](https://github.com/OWASP/Nest/issues/3487) |
-| Unauthorized access to Projects Dashboard shows 404 instead of Access Denied | Medium | [#3483](https://github.com/OWASP/Nest/issues/3483) |
-| Unauthorized users can access mentorship program page via direct URL | Medium | [#3482](https://github.com/OWASP/Nest/issues/3482) |
-| Mentors can see Create Program button | Medium | [#3481](https://github.com/OWASP/Nest/issues/3481) |
-| Footer layout breaks between 647px and 764px screen width | Medium | [#3480](https://github.com/OWASP/Nest/issues/3480) |
-| Fix negative indexing in recentProjects and recentMilestones | Medium | [#3478](https://github.com/OWASP/Nest/pull/3478) |
-| Inconsistent validation of GraphQL limit parameters across resolvers | Medium | [#3476](https://github.com/OWASP/Nest/issues/3476) |
-| Fix negative indexing and ReadTimeOut errors | Medium | [#3474](https://github.com/OWASP/Nest/pull/3474) |
-| perf: optimize project pull requests by replacing property with M2M filed | Medium | [#3469](https://github.com/OWASP/Nest/pull/3469) |
-| Fix negative indexing in RepositoryNode.recent_milestones | Medium | [#3457](https://github.com/OWASP/Nest/pull/3457) |
-| Migrate Project issues property to M2M relation | Medium | [#3454](https://github.com/OWASP/Nest/pull/3454) |
-| Standardize filter and sort components for consistency and reusability | Medium | [#3450](https://github.com/OWASP/Nest/issues/3450) |
-| Silent exception handling hides errors and complicates debugging | Medium | [#3449](https://github.com/OWASP/Nest/issues/3449) |
-| Standardize pagination component for consistency and reusability | Medium | [#3448](https://github.com/OWASP/Nest/issues/3448) |
-| Replace @lru_cache with TTL-based caching for external and dynamic data | Medium | [#3447](https://github.com/OWASP/Nest/issues/3447) |
-| Fix: Overlapping search requests and redundant network calls on /contribute page | Medium | [#3439](https://github.com/OWASP/Nest/issues/3439) |
-| Add structured query filtering to Project REST API | Medium | [#3428](https://github.com/OWASP/Nest/pull/3428) |
-| feat: expose rate limit metadata via response headers | Medium | [#3425](https://github.com/OWASP/Nest/pull/3425) |
-| Make issue labels on Contribute page interactive and selectable (consistent with rest of the project) | Medium | [#3422](https://github.com/OWASP/Nest/issues/3422) |
 
 ---
 
