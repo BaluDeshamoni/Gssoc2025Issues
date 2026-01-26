@@ -212,30 +212,30 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Docs: add security scanning guides and Makefile targets | Easy | [#3525](https://github.com/OWASP/Nest/pull/3525) |
-| Fix ObjectDoesNotExist using invalid keyword argument | Medium | [#3534](https://github.com/OWASP/Nest/pull/3534) |
-| Add docstrings to mixin property methods | Medium | [#3532](https://github.com/OWASP/Nest/pull/3532) |
-| refactor: replace deprecated matchMedia listeners with addEventListener | Medium | [#3531](https://github.com/OWASP/Nest/pull/3531) |
+| Incorrect use of ObjectDoesNotExist with keyword arguments causes TypeError | Medium | [#3562](https://github.com/OWASP/Nest/issues/3562) |
+| UI/A11y: Inconsistent and clipped focus-visible outlines across Header and Footer | Medium | [#3561](https://github.com/OWASP/Nest/issues/3561) |
+| Migrate Project pull_requests property to M2M relation field | Medium | [#3560](https://github.com/OWASP/Nest/pull/3560) |
+| CI: Add backend model graph generation job | Medium | [#3559](https://github.com/OWASP/Nest/pull/3559) |
+| the Header layout breaks in mid-large screen widths | Medium | [#3558](https://github.com/OWASP/Nest/issues/3558) |
+| Fix sonar Issue : Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3557](https://github.com/OWASP/Nest/issues/3557) |
+| Refactor and simplify Event.parse_dates for improved readability and maintainability | Medium | [#3556](https://github.com/OWASP/Nest/issues/3556) |
+| Fix Sonar issue: Remove redundant type assertion (typescript:S4325) | Medium | [#3554](https://github.com/OWASP/Nest/issues/3554) |
+| Fix setTimeout without cleanup in mentorship form pages | Medium | [#3553](https://github.com/OWASP/Nest/issues/3553) |
+| Optimize GraphQL resolvers: Add missing select_related/prefetch_related to prevent N+1 queries | Medium | [#3552](https://github.com/OWASP/Nest/issues/3552) |
+| Add cleanup to async useEffect hooks to prevent memory leaks and race conditions | Medium | [#3551](https://github.com/OWASP/Nest/issues/3551) |
+| Migrated project issue to m2m field | Medium | [#3547](https://github.com/OWASP/Nest/pull/3547) |
+| Fix Redis password env var in local Docker Compose | Medium | [#3541](https://github.com/OWASP/Nest/issues/3541) |
+| Introduce ESLint rule to discourage unsafe as assertions with useParams() | Medium | [#3539](https://github.com/OWASP/Nest/issues/3539) |
+| Bug : fix loading spinner logic for program edit, module edit | Medium | [#3538](https://github.com/OWASP/Nest/issues/3538) |
+| Added posthog integration | Medium | [#3537](https://github.com/OWASP/Nest/pull/3537) |
+| Add Recent Searches to improve the search experience | Medium | [#3536](https://github.com/OWASP/Nest/issues/3536) |
+| Bug: URL validation accepts malformed URLs with invalid netloc | Medium | [#3535](https://github.com/OWASP/Nest/issues/3535) |
 | fix: ensure deterministic sorting for program admins | Medium | [#3530](https://github.com/OWASP/Nest/pull/3530) |
 | Rework backend/frontend exception handling for data validation errors | Medium | [#3529](https://github.com/OWASP/Nest/issues/3529) |
 | Improve and fill gaps in project documentation | Medium | [#3528](https://github.com/OWASP/Nest/issues/3528) |
 | Implement Scalable Search API for Domain and Taxonomy Autocomplete | Medium | [#3527](https://github.com/OWASP/Nest/issues/3527) |
 | feat(mentorship): add validation for tags and domains | Medium | [#3526](https://github.com/OWASP/Nest/pull/3526) |
 | Add Task-Level Admin Functionality | Medium | [#3524](https://github.com/OWASP/Nest/issues/3524) |
-| Fix MetricsPDFButton accessibility: icon used as button without proper semantics | Medium | [#3523](https://github.com/OWASP/Nest/issues/3523) |
-| Fix LogoCarousel memory leak: innerHTML duplication without cleanup | Medium | [#3522](https://github.com/OWASP/Nest/issues/3522) |
-| Fix Next.js Image component issues: undefined src values and missing sizes prop | Medium | [#3520](https://github.com/OWASP/Nest/issues/3520) |
-| Implement Proper Data Validation for Program Date Changes Against Existing Module Dates | Medium | [#3517](https://github.com/OWASP/Nest/issues/3517) |
-| feat: add recent pull requests to public module page | Medium | [#3516](https://github.com/OWASP/Nest/pull/3516) |
-| Accessibility (a11y) improvements and image optimization | Medium | [#3514](https://github.com/OWASP/Nest/issues/3514) |
-| Unify Label component UI with ActionButtons for consistency | Medium | [#3513](https://github.com/OWASP/Nest/issues/3513) |
-| Add project search field to Project Health Dashboard Metrics page | Medium | [#3512](https://github.com/OWASP/Nest/issues/3512) |
-| fix: send uppercase ProjectLevel enum in health metrics filters | Medium | [#3511](https://github.com/OWASP/Nest/pull/3511) |
-| Improve error handling for GraphQL mutations in the Mentorship Portal | Medium | [#3510](https://github.com/OWASP/Nest/issues/3510) |
-| Add searchable taxonomy-based dropdown for domains | Medium | [#3509](https://github.com/OWASP/Nest/issues/3509) |
-| Truncate Program Description on ProgramCard (Show “Read More” for Long Content) | Medium | [#3508](https://github.com/OWASP/Nest/issues/3508) |
-| fix: align project level filter values with graphql enum casing #3436 | Medium | [#3507](https://github.com/OWASP/Nest/pull/3507) |
-| Blocking synchronous OpenAI calls inside Event.save() cause request latency and failures | Medium | [#3502](https://github.com/OWASP/Nest/issues/3502) |
-| Fix Sonar S6582: Prefer optional chaining when rendering issues list | Medium | [#3500](https://github.com/OWASP/Nest/issues/3500) |
 
 ---
 
@@ -285,6 +285,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Confirmation Dialog System | Medium | [#262](https://github.com/Devasy/splitwiser/pull/262) |
 | Enhance: Add confirmation dialog system for destructive actions | Medium | [#261](https://github.com/Devasy/splitwiser/pull/261) |
 | Replace window.confirm with custom ConfirmDialog | Medium | [#259](https://github.com/Devasy/splitwiser/pull/259) |
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
@@ -579,25 +580,29 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add frontend language toggle for better farmer accessibility | Medium | [#1115](https://github.com/omroy07/AgriTech/pull/1115) |
-| Added toggle theme button | Medium | [#1113](https://github.com/omroy07/AgriTech/pull/1113) |
+| Fix responsiveness of disease detector page | Medium | [#1138](https://github.com/omroy07/AgriTech/pull/1138) |
+| Fix year of FAQ Page | Medium | [#1137](https://github.com/omroy07/AgriTech/pull/1137) |
+| Fixed double footer of home page | Medium | [#1136](https://github.com/omroy07/AgriTech/pull/1136) |
+| Add offline & low connectivity UI indicators | Medium | [#1135](https://github.com/omroy07/AgriTech/pull/1135) |
+| Refactor Scheme Pages UI, Improve Layout Structure & Enhance Theme Support | Medium | [#1134](https://github.com/omroy07/AgriTech/pull/1134) |
+| Contact Page Refactor & UI Fixes | Medium | [#1129](https://github.com/omroy07/AgriTech/pull/1129) |
+| Fix Theme Toggle on Blog Page and Sync Across Pages | Medium | [#1128](https://github.com/omroy07/AgriTech/pull/1128) |
+| FIX : Cart Issue & Enhance Cart Functionality: Toggle, Close, Overlay, and Dark Mode Support | Medium | [#1126](https://github.com/omroy07/AgriTech/pull/1126) |
+| FIX: UI Cleanup & Navbar Theme Toggle | Medium | [#1123](https://github.com/omroy07/AgriTech/pull/1123) |
+| Double Footer On the Home/Index Page | Medium | [#1121](https://github.com/omroy07/AgriTech/issues/1121) |
+| Fixed Navbar/Footer and Dark Mode Toggle Not Working on Community Page | Medium | [#1118](https://github.com/omroy07/AgriTech/issues/1118) |
+| Fix layout and styling of "Check Your Scheme Eligibility" form | Medium | [#1117](https://github.com/omroy07/AgriTech/issues/1117) |
+| <short description>Enhance the blog section | Medium | [#1116](https://github.com/omroy07/AgriTech/issues/1116) |
 | Implement Multilingual API Support (i18n) for Localized Responses | Medium | [#1112](https://github.com/omroy07/AgriTech/issues/1112) |
 | Async PDF Report Synthesis for Loan Eligibility Assessments | Medium | [#1111](https://github.com/omroy07/AgriTech/issues/1111) |
 | Implement Persistent JWT Authentication with Access/Refresh Tokens and RBAC | Medium | [#1110](https://github.com/omroy07/AgriTech/issues/1110) |
 | Homepage UI does not visually represent the agricultural domain | Medium | [#1109](https://github.com/omroy07/AgriTech/issues/1109) |
-| Added License | Medium | [#1105](https://github.com/omroy07/AgriTech/pull/1105) |
-| Fix the footer | Medium | [#1104](https://github.com/omroy07/AgriTech/pull/1104) |
-| Yield prediction fix | Medium | [#1102](https://github.com/omroy07/AgriTech/pull/1102) |
 | Dependency Management Issue | Medium | [#1098](https://github.com/omroy07/AgriTech/issues/1098) |
 | Code Organization Issue - Duplicate/Scattered Code | Medium | [#1097](https://github.com/omroy07/AgriTech/issues/1097) |
-| Architecture Issue - Multiple Conflicting Servers | Medium | [#1096](https://github.com/omroy07/AgriTech/issues/1096) |
 | Navbar UI Broken on main page | Medium | [#1084](https://github.com/omroy07/AgriTech/issues/1084) |
 | Improve Disease Detection Result Visualization | Medium | [#1075](https://github.com/omroy07/AgriTech/issues/1075) |
 | Add Weather Awareness & Advisory Banner | Medium | [#1074](https://github.com/omroy07/AgriTech/issues/1074) |
 | Add “Why This Crop?” Explanation Cards | Medium | [#1073](https://github.com/omroy07/AgriTech/issues/1073) |
-| Add Local Language Toggle for Better Farmer Accessibility | Medium | [#1072](https://github.com/omroy07/AgriTech/issues/1072) |
-| Add Role-Based Authentication (Farmer / Expert / Admin) using Firebase | Medium | [#1057](https://github.com/omroy07/AgriTech/issues/1057) |
-| Prediction Result Comparison (Current vs Previous) | Medium | [#1056](https://github.com/omroy07/AgriTech/issues/1056) |
 
 ---
 
@@ -829,7 +834,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 |----------|----------------|---------|
 | Create security.md file | Easy | [#637](https://github.com/eccentriccoder01/TalkHeal/issues/637) |
 | Typo in the word "Exercise" on the website | Easy | [#636](https://github.com/eccentriccoder01/TalkHeal/issues/636) |
-| Add Mermaid.js system architecture and data flow diagrams | Medium | [#641](https://github.com/eccentriccoder01/TalkHeal/issues/641) |
 |  | Medium | [#638](https://github.com/eccentriccoder01/TalkHeal/issues/638) |
 | Fix low color contrast to meet WCAG accessibility standards | Medium | [#634](https://github.com/eccentriccoder01/TalkHeal/issues/634) |
 
@@ -1421,6 +1425,24 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 ---
 
+## 📌 Project: Voice Marketing Agents
+
+📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
+
+🔗 [View Project](https://github.com/OpenVoiceX/Voice-Marketing-Agent)
+
+💻 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI, Zustand, SWR, React Query, FastAPI, Python, Pydantic, SQLAlchemy, JWT, python-jose, passlib, bcrypt, PostgreSQL, Alembic, Redis, FastAPI Worker, WebSockets, faster-whisper, CTranslate2 Whisper, Ollama, TinyLlama, Coqui TTS, VITS, Twilio, Plivo, Asterisk PBX, Docker, Docker Compose, GitHub Actions, Docker Hub
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Work with Mars8? | Medium | [#44](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/44) |
+
+---
+
 ## 📌 Project: Ai Cosmetic Recommendation System
 
 📝 **Description:** ML based recommendation system that suggests cosmetics as per the user requirements.
@@ -1570,19 +1592,18 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Input text is not visible across the AI Story Creator page | Medium | [#224](https://github.com/IndieHub25/GroqTales/issues/224) |
-| Input text color is not visible in search bar | Medium | [#223](https://github.com/IndieHub25/GroqTales/issues/223) |
-| Dropdown text becomes invisible when hovering (Cyberpunk & Most Liked filters) | Medium | [#222](https://github.com/IndieHub25/GroqTales/issues/222) |
+| `[Task] Add centralized logging & request tracing for backend services` | Easy | [#233](https://github.com/IndieHub25/GroqTales/issues/233) |
+| `[Accessibility] Improve keyboard navigation and ARIA roles across main layout` | Easy | [#231](https://github.com/IndieHub25/GroqTales/issues/231) |
+| Genre Filter Dropdown Styling Not Matching Site Theme | Medium | [#237](https://github.com/IndieHub25/GroqTales/issues/237) |
+| Community Dropdown UI Overlaps & Obstructs Content | Medium | [#236](https://github.com/IndieHub25/GroqTales/issues/236) |
+| ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
+| `[Feature] Creator onboarding checklist & guided tour` | Medium | [#228](https://github.com/IndieHub25/GroqTales/issues/228) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| Invalid Groq Model Names (High Severity) | Medium | [#219](https://github.com/IndieHub25/GroqTales/issues/219) |
-| Authentication groundwork, wallet integration & UX polish | Medium | [#218](https://github.com/IndieHub25/GroqTales/pull/218) |
 | nav menu transparent background color | Medium | [#216](https://github.com/IndieHub25/GroqTales/issues/216) |
-| Creator Dashboard Analytics | Medium | [#207](https://github.com/IndieHub25/GroqTales/issues/207) |
-| Story Commenting System | Medium | [#206](https://github.com/IndieHub25/GroqTales/issues/206) |
 | Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
-| Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
-| BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
+| `Security: Validate and rate limit story publishing & NFT minting endpoints` | Hard | [#230](https://github.com/IndieHub25/GroqTales/issues/230) |
+| `[BIG] Personalized story discovery feed with AI recommendations` | Hard | [#229](https://github.com/IndieHub25/GroqTales/issues/229) |
 
 ---
 
@@ -2008,7 +2029,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chat-based task scheduling that automatically adds to Google Calendar | Medium | [#23](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/23) |
+| chat-based task scheduling that automatically adds to Google Calendar | Medium | [#23](https://github.com/codervivek5/AI-Powered-Virtual-Personal-Assistant/issues/23) |
 
 ---
 
