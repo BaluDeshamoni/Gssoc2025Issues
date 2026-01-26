@@ -41,9 +41,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Confirmation Dialog System | Medium | [#260](https://github.com/Devasy/splitwiser/pull/260) |
+| Add Confirmation Dialog System | Medium | [#262](https://github.com/Devasy/splitwiser/pull/262) |
+| Enhance: Add confirmation dialog system for destructive actions | Medium | [#261](https://github.com/Devasy/splitwiser/pull/261) |
 | Replace window.confirm with custom ConfirmDialog | Medium | [#259](https://github.com/Devasy/splitwiser/pull/259) |
-| enhance: Add global confirmation dialog system | Medium | [#258](https://github.com/Devasy/splitwiser/pull/258) |
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
 | Confirmation Dialog System | Medium | [#256](https://github.com/Devasy/splitwiser/pull/256) |
 | Add Error Boundary with retry support | Medium | [#255](https://github.com/Devasy/splitwiser/pull/255) |
@@ -223,6 +223,24 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 ---
 
+## 📌 Project: Voice Marketing Agents
+
+📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
+
+🔗 [View Project](https://github.com/OpenVoiceX/Voice-Marketing-Agent)
+
+💻 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI, Zustand, SWR, React Query, FastAPI, Python, Pydantic, SQLAlchemy, JWT, python-jose, passlib, bcrypt, PostgreSQL, Alembic, Redis, FastAPI Worker, WebSockets, faster-whisper, CTranslate2 Whisper, Ollama, TinyLlama, Coqui TTS, VITS, Twilio, Plivo, Asterisk PBX, Docker, Docker Compose, GitHub Actions, Docker Hub
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Work with Mars8? | Medium | [#44](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/44) |
+
+---
+
 ## 📌 Project: NEXUS.DAWN Emotional Intelligence OS
 
 📝 **Description:** NEXUS.DAWN is a futuristic open-source emotional intelligence operating system designed for immersive, AI-driven interactions. It combines voice AI, facial emotion detection, quantum computing metaphors, and blockchain identity into a self-evolving digital assistant platform. The system features a modular architecture, immersive UI (Three.js + React), secure backend, and emotional intelligence engine enabling contributors to explore AI, Web3, and system design in one unified ecosystem.
@@ -285,7 +303,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chat-based task scheduling that automatically adds to Google Calendar | Medium | [#23](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/23) |
+| chat-based task scheduling that automatically adds to Google Calendar | Medium | [#23](https://github.com/codervivek5/AI-Powered-Virtual-Personal-Assistant/issues/23) |
 
 ---
 
