@@ -18,7 +18,6 @@
 | Add Claude Code GitHub Workflow | Medium | [#289](https://github.com/iaadillatif/techxninjas-client/issues/289) |
 | fix: notification panel logic, placement, and Supabase redirect handling | Medium | [#287](https://github.com/iaadillatif/techxninjas-client/pull/287) |
 | Feature Request: Add a Gamified Leaderboard to Ignite Daily Engagement & Community | Medium | [#285](https://github.com/iaadillatif/techxninjas-client/issues/285) |
-| add routing to pages/projects/learning-path | Medium | [#283](https://github.com/iaadillatif/techxninjas-client/pull/283) |
 | Buttons on Home Page (“Build Projects”, “Free Certificates”, etc.) are not clickable | Medium | [#282](https://github.com/iaadillatif/techxninjas-client/issues/282) |
 | Feature: Secure Notifications Center with RLS and Theming (Closes Issue #31) | Medium | [#281](https://github.com/iaadillatif/techxninjas-client/pull/281) |
 | fix: corrected category selection indicator alignment (UI Bug #248) | Medium | [#280](https://github.com/iaadillatif/techxninjas-client/pull/280) |
@@ -44,6 +43,7 @@
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
 | course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
+| Template | Medium | [#253](https://github.com/iaadillatif/techxninjas-client/pull/253) |
 
 ---
 
@@ -271,30 +271,30 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Docs: add security scanning guides and Makefile targets | Easy | [#3525](https://github.com/OWASP/Nest/pull/3525) |
-| Fix ObjectDoesNotExist using invalid keyword argument | Medium | [#3534](https://github.com/OWASP/Nest/pull/3534) |
-| Add docstrings to mixin property methods | Medium | [#3532](https://github.com/OWASP/Nest/pull/3532) |
-| refactor: replace deprecated matchMedia listeners with addEventListener | Medium | [#3531](https://github.com/OWASP/Nest/pull/3531) |
+| Incorrect use of ObjectDoesNotExist with keyword arguments causes TypeError | Medium | [#3562](https://github.com/OWASP/Nest/issues/3562) |
+| UI/A11y: Inconsistent and clipped focus-visible outlines across Header and Footer | Medium | [#3561](https://github.com/OWASP/Nest/issues/3561) |
+| Migrate Project pull_requests property to M2M relation field | Medium | [#3560](https://github.com/OWASP/Nest/pull/3560) |
+| CI: Add backend model graph generation job | Medium | [#3559](https://github.com/OWASP/Nest/pull/3559) |
+| the Header layout breaks in mid-large screen widths | Medium | [#3558](https://github.com/OWASP/Nest/issues/3558) |
+| Fix sonar Issue : Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3557](https://github.com/OWASP/Nest/issues/3557) |
+| Refactor and simplify Event.parse_dates for improved readability and maintainability | Medium | [#3556](https://github.com/OWASP/Nest/issues/3556) |
+| Fix Sonar issue: Remove redundant type assertion (typescript:S4325) | Medium | [#3554](https://github.com/OWASP/Nest/issues/3554) |
+| Fix setTimeout without cleanup in mentorship form pages | Medium | [#3553](https://github.com/OWASP/Nest/issues/3553) |
+| Optimize GraphQL resolvers: Add missing select_related/prefetch_related to prevent N+1 queries | Medium | [#3552](https://github.com/OWASP/Nest/issues/3552) |
+| Add cleanup to async useEffect hooks to prevent memory leaks and race conditions | Medium | [#3551](https://github.com/OWASP/Nest/issues/3551) |
+| Migrated project issue to m2m field | Medium | [#3547](https://github.com/OWASP/Nest/pull/3547) |
+| Fix Redis password env var in local Docker Compose | Medium | [#3541](https://github.com/OWASP/Nest/issues/3541) |
+| Introduce ESLint rule to discourage unsafe as assertions with useParams() | Medium | [#3539](https://github.com/OWASP/Nest/issues/3539) |
+| Bug : fix loading spinner logic for program edit, module edit | Medium | [#3538](https://github.com/OWASP/Nest/issues/3538) |
+| Added posthog integration | Medium | [#3537](https://github.com/OWASP/Nest/pull/3537) |
+| Add Recent Searches to improve the search experience | Medium | [#3536](https://github.com/OWASP/Nest/issues/3536) |
+| Bug: URL validation accepts malformed URLs with invalid netloc | Medium | [#3535](https://github.com/OWASP/Nest/issues/3535) |
 | fix: ensure deterministic sorting for program admins | Medium | [#3530](https://github.com/OWASP/Nest/pull/3530) |
 | Rework backend/frontend exception handling for data validation errors | Medium | [#3529](https://github.com/OWASP/Nest/issues/3529) |
 | Improve and fill gaps in project documentation | Medium | [#3528](https://github.com/OWASP/Nest/issues/3528) |
 | Implement Scalable Search API for Domain and Taxonomy Autocomplete | Medium | [#3527](https://github.com/OWASP/Nest/issues/3527) |
 | feat(mentorship): add validation for tags and domains | Medium | [#3526](https://github.com/OWASP/Nest/pull/3526) |
 | Add Task-Level Admin Functionality | Medium | [#3524](https://github.com/OWASP/Nest/issues/3524) |
-| Fix MetricsPDFButton accessibility: icon used as button without proper semantics | Medium | [#3523](https://github.com/OWASP/Nest/issues/3523) |
-| Fix LogoCarousel memory leak: innerHTML duplication without cleanup | Medium | [#3522](https://github.com/OWASP/Nest/issues/3522) |
-| Fix Next.js Image component issues: undefined src values and missing sizes prop | Medium | [#3520](https://github.com/OWASP/Nest/issues/3520) |
-| Implement Proper Data Validation for Program Date Changes Against Existing Module Dates | Medium | [#3517](https://github.com/OWASP/Nest/issues/3517) |
-| feat: add recent pull requests to public module page | Medium | [#3516](https://github.com/OWASP/Nest/pull/3516) |
-| Accessibility (a11y) improvements and image optimization | Medium | [#3514](https://github.com/OWASP/Nest/issues/3514) |
-| Unify Label component UI with ActionButtons for consistency | Medium | [#3513](https://github.com/OWASP/Nest/issues/3513) |
-| Add project search field to Project Health Dashboard Metrics page | Medium | [#3512](https://github.com/OWASP/Nest/issues/3512) |
-| fix: send uppercase ProjectLevel enum in health metrics filters | Medium | [#3511](https://github.com/OWASP/Nest/pull/3511) |
-| Improve error handling for GraphQL mutations in the Mentorship Portal | Medium | [#3510](https://github.com/OWASP/Nest/issues/3510) |
-| Add searchable taxonomy-based dropdown for domains | Medium | [#3509](https://github.com/OWASP/Nest/issues/3509) |
-| Truncate Program Description on ProgramCard (Show “Read More” for Long Content) | Medium | [#3508](https://github.com/OWASP/Nest/issues/3508) |
-| fix: align project level filter values with graphql enum casing #3436 | Medium | [#3507](https://github.com/OWASP/Nest/pull/3507) |
-| Blocking synchronous OpenAI calls inside Event.save() cause request latency and failures | Medium | [#3502](https://github.com/OWASP/Nest/issues/3502) |
-| Fix Sonar S6582: Prefer optional chaining when rendering issues list | Medium | [#3500](https://github.com/OWASP/Nest/issues/3500) |
 
 ---
 
@@ -313,13 +313,13 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Add Forgot Password link on Sign In page | Medium | [#1370](https://github.com/Code-A2Z/code-a2z/pull/1370) |
 | Missing back button to navigate out of project detail page | Medium | [#1369](https://github.com/Code-A2Z/code-a2z/issues/1369) |
 | Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
 | Backend: Implement Private Project Notes with Role-Based Access Control | Medium | [#1325](https://github.com/Code-A2Z/code-a2z/issues/1325) |
-| Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
@@ -612,6 +612,7 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Confirmation Dialog System | Medium | [#262](https://github.com/Devasy/splitwiser/pull/262) |
 | Enhance: Add confirmation dialog system for destructive actions | Medium | [#261](https://github.com/Devasy/splitwiser/pull/261) |
 | Replace window.confirm with custom ConfirmDialog | Medium | [#259](https://github.com/Devasy/splitwiser/pull/259) |
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
@@ -1076,7 +1077,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add clickable preview box for the location in the footer | Medium | [#588](https://github.com/Mujtabaa07/coffeeShop/issues/588) |
 | Adding More coffee recipes | Medium | [#587](https://github.com/Mujtabaa07/coffeeShop/issues/587) |
 | Implement OpenCV Order Receipt Scanner | Medium | [#586](https://github.com/Mujtabaa07/coffeeShop/pull/586) |
 | Fix: Add Password Visibility Toggle and Update Regex to Allow | Medium | [#585](https://github.com/Mujtabaa07/coffeeShop/pull/585) |
@@ -1279,6 +1279,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
+| Potential fix for code scanning alert no. 42: Workflow does not contain permissions | Medium | [#735](https://github.com/alienx5499/SortVision/pull/735) |
 | Add Step-by-Step Explanation Mode Alongside Sorting Visualization | Medium | [#710](https://github.com/alienx5499/SortVision/issues/710) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
 | Show Random Numbers in Sorting Visualization | Medium | [#656](https://github.com/alienx5499/SortVision/issues/656) |
@@ -1437,12 +1438,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Unrealistic / Distracting Image Hover Effect | Easy | [#93](https://github.com/Sahilll94/Travel-Book/issues/93) |
 | Create `src/utils` Directory for Common Helper Functions | Easy | [#91](https://github.com/Sahilll94/Travel-Book/issues/91) |
+| table-of-content | Medium | [#107](https://github.com/Sahilll94/Travel-Book/pull/107) |
+| Improve mobile responsiveness for navbar and hero section | Medium | [#101](https://github.com/Sahilll94/Travel-Book/pull/101) |
 | Corrected unordered list with list items | Medium | [#100](https://github.com/Sahilll94/Travel-Book/pull/100) |
 | A new improved UI for this project | Medium | [#97](https://github.com/Sahilll94/Travel-Book/issues/97) |
 | Performance | Medium | [#86](https://github.com/Sahilll94/Travel-Book/pull/86) |
 | Fix tooltip visibility issue in AI chatbot | Medium | [#83](https://github.com/Sahilll94/Travel-Book/pull/83) |
 | Automatically fetching the location based on the user input. | Medium | [#73](https://github.com/Sahilll94/Travel-Book/issues/73) |
-| Add Left & Right Padding/Margin in "Our Services" Section | Medium | [#61](https://github.com/Sahilll94/Travel-Book/issues/61) |
 
 ---
 
@@ -2297,6 +2299,24 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
+## 📌 Project: Voice Marketing Agents
+
+📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
+
+🔗 [View Project](https://github.com/OpenVoiceX/Voice-Marketing-Agent)
+
+💻 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI, Zustand, SWR, React Query, FastAPI, Python, Pydantic, SQLAlchemy, JWT, python-jose, passlib, bcrypt, PostgreSQL, Alembic, Redis, FastAPI Worker, WebSockets, faster-whisper, CTranslate2 Whisper, Ollama, TinyLlama, Coqui TTS, VITS, Twilio, Plivo, Asterisk PBX, Docker, Docker Compose, GitHub Actions, Docker Hub
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Work with Mars8? | Medium | [#44](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/44) |
+
+---
+
 ## 📌 Project: Melodyminds-AI Powdered music player
 
 📝 **Description:** A Full stack music player with ad free listening and smart recommendations rivaling music streaming platforms
@@ -2438,19 +2458,18 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Input text is not visible across the AI Story Creator page | Medium | [#224](https://github.com/IndieHub25/GroqTales/issues/224) |
-| Input text color is not visible in search bar | Medium | [#223](https://github.com/IndieHub25/GroqTales/issues/223) |
-| Dropdown text becomes invisible when hovering (Cyberpunk & Most Liked filters) | Medium | [#222](https://github.com/IndieHub25/GroqTales/issues/222) |
+| `[Task] Add centralized logging & request tracing for backend services` | Easy | [#233](https://github.com/IndieHub25/GroqTales/issues/233) |
+| `[Accessibility] Improve keyboard navigation and ARIA roles across main layout` | Easy | [#231](https://github.com/IndieHub25/GroqTales/issues/231) |
+| Genre Filter Dropdown Styling Not Matching Site Theme | Medium | [#237](https://github.com/IndieHub25/GroqTales/issues/237) |
+| Community Dropdown UI Overlaps & Obstructs Content | Medium | [#236](https://github.com/IndieHub25/GroqTales/issues/236) |
+| ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
+| `[Feature] Creator onboarding checklist & guided tour` | Medium | [#228](https://github.com/IndieHub25/GroqTales/issues/228) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| Invalid Groq Model Names (High Severity) | Medium | [#219](https://github.com/IndieHub25/GroqTales/issues/219) |
-| Authentication groundwork, wallet integration & UX polish | Medium | [#218](https://github.com/IndieHub25/GroqTales/pull/218) |
 | nav menu transparent background color | Medium | [#216](https://github.com/IndieHub25/GroqTales/issues/216) |
-| Creator Dashboard Analytics | Medium | [#207](https://github.com/IndieHub25/GroqTales/issues/207) |
-| Story Commenting System | Medium | [#206](https://github.com/IndieHub25/GroqTales/issues/206) |
 | Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
-| Implement functional Notifications, Wallet, and Privacy settings backed by real services and Web3 integration | Hard | [#189](https://github.com/IndieHub25/GroqTales/issues/189) |
-| BIG : Transactional Outbox + Saga for Story Publish and NFT Minting | Hard | [#167](https://github.com/IndieHub25/GroqTales/issues/167) |
+| `Security: Validate and rate limit story publishing & NFT minting endpoints` | Hard | [#230](https://github.com/IndieHub25/GroqTales/issues/230) |
+| `[BIG] Personalized story discovery feed with AI recommendations` | Hard | [#229](https://github.com/IndieHub25/GroqTales/issues/229) |
 
 ---
 
@@ -2491,6 +2510,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add GitHub Issue Template to improve issue reporting and contribution workflow | Medium | [#120](https://github.com/prasoonk1204/BreatheEasy/issues/120) |
+| Community Impact Leaderboard & Action Gamification | Medium | [#119](https://github.com/prasoonk1204/BreatheEasy/issues/119) |
+| Health Profile Personalization for Sensitive Groups | Medium | [#118](https://github.com/prasoonk1204/BreatheEasy/issues/118) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
 | Add separate contribution guidelines for SWoC'2026 contributors | Medium | [#116](https://github.com/prasoonk1204/BreatheEasy/issues/116) |
 | Secure map tiles using backend proxy with caching and rate limiting | Medium | [#114](https://github.com/prasoonk1204/BreatheEasy/pull/114) |
@@ -3131,7 +3153,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chat-based task scheduling that automatically adds to Google Calendar | Medium | [#23](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/23) |
+| chat-based task scheduling that automatically adds to Google Calendar | Medium | [#23](https://github.com/codervivek5/AI-Powered-Virtual-Personal-Assistant/issues/23) |
 
 ---
 
