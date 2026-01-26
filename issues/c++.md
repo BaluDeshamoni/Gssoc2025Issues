@@ -53,9 +53,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| refactor(hybrid-storage): Add ``[[nodiscard]]`` and noexcept Attributes | Easy | [#166](https://github.com/SharonIV0x86/CinderPeak/issues/166) |
-| refactor(hybrid-storage): Optimize Vertex Lookups - Replace count() + operator[] with find() | Easy | [#165](https://github.com/SharonIV0x86/CinderPeak/issues/165) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
+| refactor: minimize mutex lock scope in AdjacencyList methods | Medium | [#178](https://github.com/SharonIV0x86/CinderPeak/pull/178) |
 
 ---
 
