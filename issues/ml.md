@@ -413,6 +413,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhancement of destination in service page | Medium | [#1928](https://github.com/apu52/Travel_Website/issues/1928) |
 | The Navbar not displayed and copyright year is missing in Cultural Experience page | Medium | [#1927](https://github.com/apu52/Travel_Website/issues/1927) |
 | Website Takes Too Long to Load / Performance Delay on Initial Load | Medium | [#1926](https://github.com/apu52/Travel_Website/issues/1926) |
 | Hero Section UI Overlap and Text Alignment Issues on Homepage | Medium | [#1925](https://github.com/apu52/Travel_Website/issues/1925) |
@@ -442,7 +443,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | fix: theme toggle on membership page | Medium | [#1901](https://github.com/apu52/Travel_Website/pull/1901) |
 | UI of watch our stories page is broken with content coming on top of video player " | Medium | [#1900](https://github.com/apu52/Travel_Website/issues/1900) |
 | UI/UX Redesign for E-book Gallery | Medium | [#1899](https://github.com/apu52/Travel_Website/issues/1899) |
-| Update the UI of Top Deals Page Cards | Medium | [#1898](https://github.com/apu52/Travel_Website/issues/1898) |
 
 ---
 
@@ -762,7 +762,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add clickable preview box for the location in the footer | Medium | [#588](https://github.com/Mujtabaa07/coffeeShop/issues/588) |
 | Adding More coffee recipes | Medium | [#587](https://github.com/Mujtabaa07/coffeeShop/issues/587) |
 | Implement OpenCV Order Receipt Scanner | Medium | [#586](https://github.com/Mujtabaa07/coffeeShop/pull/586) |
 | Fix: Add Password Visibility Toggle and Update Regex to Allow | Medium | [#585](https://github.com/Mujtabaa07/coffeeShop/pull/585) |
@@ -804,25 +803,29 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add frontend language toggle for better farmer accessibility | Medium | [#1115](https://github.com/omroy07/AgriTech/pull/1115) |
-| Added toggle theme button | Medium | [#1113](https://github.com/omroy07/AgriTech/pull/1113) |
+| Fix responsiveness of disease detector page | Medium | [#1138](https://github.com/omroy07/AgriTech/pull/1138) |
+| Fix year of FAQ Page | Medium | [#1137](https://github.com/omroy07/AgriTech/pull/1137) |
+| Fixed double footer of home page | Medium | [#1136](https://github.com/omroy07/AgriTech/pull/1136) |
+| Add offline & low connectivity UI indicators | Medium | [#1135](https://github.com/omroy07/AgriTech/pull/1135) |
+| Refactor Scheme Pages UI, Improve Layout Structure & Enhance Theme Support | Medium | [#1134](https://github.com/omroy07/AgriTech/pull/1134) |
+| Contact Page Refactor & UI Fixes | Medium | [#1129](https://github.com/omroy07/AgriTech/pull/1129) |
+| Fix Theme Toggle on Blog Page and Sync Across Pages | Medium | [#1128](https://github.com/omroy07/AgriTech/pull/1128) |
+| FIX : Cart Issue & Enhance Cart Functionality: Toggle, Close, Overlay, and Dark Mode Support | Medium | [#1126](https://github.com/omroy07/AgriTech/pull/1126) |
+| FIX: UI Cleanup & Navbar Theme Toggle | Medium | [#1123](https://github.com/omroy07/AgriTech/pull/1123) |
+| Double Footer On the Home/Index Page | Medium | [#1121](https://github.com/omroy07/AgriTech/issues/1121) |
+| Fixed Navbar/Footer and Dark Mode Toggle Not Working on Community Page | Medium | [#1118](https://github.com/omroy07/AgriTech/issues/1118) |
+| Fix layout and styling of "Check Your Scheme Eligibility" form | Medium | [#1117](https://github.com/omroy07/AgriTech/issues/1117) |
+| <short description>Enhance the blog section | Medium | [#1116](https://github.com/omroy07/AgriTech/issues/1116) |
 | Implement Multilingual API Support (i18n) for Localized Responses | Medium | [#1112](https://github.com/omroy07/AgriTech/issues/1112) |
 | Async PDF Report Synthesis for Loan Eligibility Assessments | Medium | [#1111](https://github.com/omroy07/AgriTech/issues/1111) |
 | Implement Persistent JWT Authentication with Access/Refresh Tokens and RBAC | Medium | [#1110](https://github.com/omroy07/AgriTech/issues/1110) |
 | Homepage UI does not visually represent the agricultural domain | Medium | [#1109](https://github.com/omroy07/AgriTech/issues/1109) |
-| Added License | Medium | [#1105](https://github.com/omroy07/AgriTech/pull/1105) |
-| Fix the footer | Medium | [#1104](https://github.com/omroy07/AgriTech/pull/1104) |
-| Yield prediction fix | Medium | [#1102](https://github.com/omroy07/AgriTech/pull/1102) |
 | Dependency Management Issue | Medium | [#1098](https://github.com/omroy07/AgriTech/issues/1098) |
 | Code Organization Issue - Duplicate/Scattered Code | Medium | [#1097](https://github.com/omroy07/AgriTech/issues/1097) |
-| Architecture Issue - Multiple Conflicting Servers | Medium | [#1096](https://github.com/omroy07/AgriTech/issues/1096) |
 | Navbar UI Broken on main page | Medium | [#1084](https://github.com/omroy07/AgriTech/issues/1084) |
 | Improve Disease Detection Result Visualization | Medium | [#1075](https://github.com/omroy07/AgriTech/issues/1075) |
 | Add Weather Awareness & Advisory Banner | Medium | [#1074](https://github.com/omroy07/AgriTech/issues/1074) |
 | Add “Why This Crop?” Explanation Cards | Medium | [#1073](https://github.com/omroy07/AgriTech/issues/1073) |
-| Add Local Language Toggle for Better Farmer Accessibility | Medium | [#1072](https://github.com/omroy07/AgriTech/issues/1072) |
-| Add Role-Based Authentication (Farmer / Expert / Admin) using Firebase | Medium | [#1057](https://github.com/omroy07/AgriTech/issues/1057) |
-| Prediction Result Comparison (Current vs Previous) | Medium | [#1056](https://github.com/omroy07/AgriTech/issues/1056) |
 
 ---
 
@@ -1148,7 +1151,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | Create security.md file | Easy | [#637](https://github.com/eccentriccoder01/TalkHeal/issues/637) |
 | Typo in the word "Exercise" on the website | Easy | [#636](https://github.com/eccentriccoder01/TalkHeal/issues/636) |
-| Add Mermaid.js system architecture and data flow diagrams | Medium | [#641](https://github.com/eccentriccoder01/TalkHeal/issues/641) |
 |  | Medium | [#638](https://github.com/eccentriccoder01/TalkHeal/issues/638) |
 | Fix low color contrast to meet WCAG accessibility standards | Medium | [#634](https://github.com/eccentriccoder01/TalkHeal/issues/634) |
 
