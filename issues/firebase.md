@@ -44,18 +44,18 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Add Forgot Password link on Sign In page | Medium | [#1370](https://github.com/Code-A2Z/code-a2z/pull/1370) |
+| Missing back button to navigate out of project detail page | Medium | [#1369](https://github.com/Code-A2Z/code-a2z/issues/1369) |
 | Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
 | Backend: Implement Private Project Notes with Role-Based Access Control | Medium | [#1325](https://github.com/Code-A2Z/code-a2z/issues/1325) |
-| Add "Forgot Password" link on Sign In page | Medium | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
-| Workflow to Assign assignees on issues | Medium | [#1072](https://github.com/Code-A2Z/code-a2z/issues/1072) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Notes app | Medium | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
@@ -144,6 +144,7 @@
 | ABOUT US IN MOBILE VERSION | Easy | [#88](https://github.com/WallGodds/WallGodds-Web/issues/88) |
 | 🌱 Fix the Responsiveness of the Gallery Page | Easy | [#87](https://github.com/WallGodds/WallGodds-Web/issues/87) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#8](https://github.com/WallGodds/WallGodds-Web/issues/8) |
+| feat: modernize architecture - component de-duplication, TypeScript migration, and UX polish | Medium | [#158](https://github.com/WallGodds/WallGodds-Web/pull/158) |
 | Search UI exists but search functionality is not implemented | Medium | [#156](https://github.com/WallGodds/WallGodds-Web/issues/156) |
 | User Registration | Medium | [#155](https://github.com/WallGodds/WallGodds-Web/issues/155) |
 | Bug Report: Ui bug in gallery page | Medium | [#154](https://github.com/WallGodds/WallGodds-Web/issues/154) |
@@ -683,7 +684,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chat-based task scheduling that automatically adds to Google Calendar | Medium | [#23](https://github.com/codervivek5/DORA-AI-Powered-Virtual-Personal-Assistant/issues/23) |
+| chat-based task scheduling that automatically adds to Google Calendar | Medium | [#23](https://github.com/codervivek5/AI-Powered-Virtual-Personal-Assistant/issues/23) |
 
 ---
 
