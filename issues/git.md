@@ -163,6 +163,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
+| Potential fix for code scanning alert no. 42: Workflow does not contain permissions | Medium | [#735](https://github.com/alienx5499/SortVision/pull/735) |
 | Add Step-by-Step Explanation Mode Alongside Sorting Visualization | Medium | [#710](https://github.com/alienx5499/SortVision/issues/710) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
 | Show Random Numbers in Sorting Visualization | Medium | [#656](https://github.com/alienx5499/SortVision/issues/656) |
@@ -398,6 +399,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Form Validation and User-Friendly Error Messages to Patient & Appointment Forms | Medium | [#67](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/67) |
 | Add smart appointment slot suggestion feature | Medium | [#66](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/66) |
 | fix: resolve concurrency issue in appointment booking (double-booking fix) | Medium | [#65](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/65) |
 | Implement role-based access control (Admin, Doctor, Patient) for API endpoints | Medium | [#64](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/64) |
@@ -448,6 +450,24 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Enhance Notification Page with Auto-Delete and User-Controlled Deletion | Medium | [#233](https://github.com/dipexplorer/LegalHuB/issues/233) |
 | Add Contributor Spotlight & Top Contributors Section and Animate Contributor Cards  for contributor page | Medium | [#227](https://github.com/dipexplorer/LegalHuB/issues/227) |
 | Implement Search, Sort, and Filter Controls for contributor page | Hard | [#226](https://github.com/dipexplorer/LegalHuB/issues/226) |
+
+---
+
+## 📌 Project: Voice Marketing Agents
+
+📝 **Description:** OpenVoiceX is a powerful, open-source framework designed to help developers, businesses, and researchers build, deploy, and manage real-time voice-first AI systems. It brings together two complementary projectsOpenVoiceOS and Voice Marketing Agentsinto a single, unified platform. At its core, OpenVoiceX provides all the components you need to create sophisticated conversational assistants and AI-driven telephony agents. Whether it powering natural voice interactions on the web, automating phone calls for marketing and customer service, or experimenting with conversational AI research, OpenVoiceX gives you full controlwithout relying on expensive, proprietary APIs. The system is designed to be modular and extensible. You can integrate your preferred speech-to-text, large language models, and text-to-speech engines. Everything runs in a self-hosted, containerized environment using Docker, making it easy to deploy on your infrastructure and maintain full data ownership. A modern, web-based dashboard makes it possible to visually design, test, and manage your agents without writing code. For real-time voice interactions, OpenVoiceX achieves ultra-low latency pipelines, allowing conversations to flow naturallyeven with mid-sentence interruptions. It also supports traditional telephony services (like Twilio or Asterisk) and web-based voice clients out of the box. By combining a developer-first architecture with enterprise-grade features like multi-tenancy, encryption, and API key management, OpenVoiceX is not just a toolkitit a full-stack solution for building production-ready voice AI applications.
+
+🔗 [View Project](https://github.com/OpenVoiceX/Voice-Marketing-Agent)
+
+💻 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI, Zustand, SWR, React Query, FastAPI, Python, Pydantic, SQLAlchemy, JWT, python-jose, passlib, bcrypt, PostgreSQL, Alembic, Redis, FastAPI Worker, WebSockets, faster-whisper, CTranslate2 Whisper, Ollama, TinyLlama, Coqui TTS, VITS, Twilio, Plivo, Asterisk PBX, Docker, Docker Compose, GitHub Actions, Docker Hub
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Work with Mars8? | Medium | [#44](https://github.com/OpenVoiceX/Voice-Marketing-Agent/issues/44) |
 
 ---
 
