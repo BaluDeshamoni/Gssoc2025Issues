@@ -252,12 +252,23 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Docs: add security scanning guides and Makefile targets | Easy | [#3525](https://github.com/OWASP/Nest/pull/3525) |
-| Incorrect use of ObjectDoesNotExist with keyword arguments causes TypeError | Medium | [#3562](https://github.com/OWASP/Nest/issues/3562) |
+| Fix LogoCarousel memory leak: innerHTML duplication without cleanup (reopened) | Medium | [#3583](https://github.com/OWASP/Nest/issues/3583) |
+| Migrate Project pull_requests to M2M and remove computed property | Medium | [#3582](https://github.com/OWASP/Nest/pull/3582) |
+| Add tests for `frontend` module | Medium | [#3581](https://github.com/OWASP/Nest/pull/3581) |
+| Regex-based Markdown parsing fails on valid Markdown structures | Medium | [#3579](https://github.com/OWASP/Nest/issues/3579) |
+| Added M2M issues and project field for better performance | Medium | [#3578](https://github.com/OWASP/Nest/pull/3578) |
+| Avoid accessing Django database settings at import time | Medium | [#3577](https://github.com/OWASP/Nest/issues/3577) |
+| Leader list is truncated on smaller viewports (in project details page), causing information loss | Medium | [#3575](https://github.com/OWASP/Nest/issues/3575) |
+| Pagination for Pull Requests | Medium | [#3573](https://github.com/OWASP/Nest/issues/3573) |
+| Show deadline labels on the issues list and add a way to filter by deadline state | Medium | [#3571](https://github.com/OWASP/Nest/issues/3571) |
+| Add CSV/JSON export functionality for filtered project issues | Medium | [#3570](https://github.com/OWASP/Nest/issues/3570) |
+| Admin docstrings | Medium | [#3569](https://github.com/OWASP/Nest/pull/3569) |
+| Fix inconsistent Label component UI with ActionButtons | Medium | [#3568](https://github.com/OWASP/Nest/issues/3568) |
+| Refactor/mentee node strawberry django | Medium | [#3564](https://github.com/OWASP/Nest/pull/3564) |
+| Add image extraction support for NestBot AI assistant | Medium | [#3563](https://github.com/OWASP/Nest/pull/3563) |
 | UI/A11y: Inconsistent and clipped focus-visible outlines across Header and Footer | Medium | [#3561](https://github.com/OWASP/Nest/issues/3561) |
 | Migrate Project pull_requests property to M2M relation field | Medium | [#3560](https://github.com/OWASP/Nest/pull/3560) |
 | CI: Add backend model graph generation job | Medium | [#3559](https://github.com/OWASP/Nest/pull/3559) |
-| the Header layout breaks in mid-large screen widths | Medium | [#3558](https://github.com/OWASP/Nest/issues/3558) |
 | Fix sonar Issue : Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3557](https://github.com/OWASP/Nest/issues/3557) |
 | Refactor and simplify Event.parse_dates for improved readability and maintainability | Medium | [#3556](https://github.com/OWASP/Nest/issues/3556) |
 | Fix Sonar issue: Remove redundant type assertion (typescript:S4325) | Medium | [#3554](https://github.com/OWASP/Nest/issues/3554) |
@@ -265,18 +276,8 @@ Accessibility features like dark mode,white.
 | Optimize GraphQL resolvers: Add missing select_related/prefetch_related to prevent N+1 queries | Medium | [#3552](https://github.com/OWASP/Nest/issues/3552) |
 | Add cleanup to async useEffect hooks to prevent memory leaks and race conditions | Medium | [#3551](https://github.com/OWASP/Nest/issues/3551) |
 | Migrated project issue to m2m field | Medium | [#3547](https://github.com/OWASP/Nest/pull/3547) |
-| Fix Redis password env var in local Docker Compose | Medium | [#3541](https://github.com/OWASP/Nest/issues/3541) |
 | Introduce ESLint rule to discourage unsafe as assertions with useParams() | Medium | [#3539](https://github.com/OWASP/Nest/issues/3539) |
 | Bug : fix loading spinner logic for program edit, module edit | Medium | [#3538](https://github.com/OWASP/Nest/issues/3538) |
-| Added posthog integration | Medium | [#3537](https://github.com/OWASP/Nest/pull/3537) |
-| Add Recent Searches to improve the search experience | Medium | [#3536](https://github.com/OWASP/Nest/issues/3536) |
-| Bug: URL validation accepts malformed URLs with invalid netloc | Medium | [#3535](https://github.com/OWASP/Nest/issues/3535) |
-| fix: ensure deterministic sorting for program admins | Medium | [#3530](https://github.com/OWASP/Nest/pull/3530) |
-| Rework backend/frontend exception handling for data validation errors | Medium | [#3529](https://github.com/OWASP/Nest/issues/3529) |
-| Improve and fill gaps in project documentation | Medium | [#3528](https://github.com/OWASP/Nest/issues/3528) |
-| Implement Scalable Search API for Domain and Taxonomy Autocomplete | Medium | [#3527](https://github.com/OWASP/Nest/issues/3527) |
-| feat(mentorship): add validation for tags and domains | Medium | [#3526](https://github.com/OWASP/Nest/pull/3526) |
-| Add Task-Level Admin Functionality | Medium | [#3524](https://github.com/OWASP/Nest/issues/3524) |
 
 ---
 
@@ -327,8 +328,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Add back button to project detail page | Medium | [#1371](https://github.com/Code-A2Z/code-a2z/pull/1371) |
 | Add Forgot Password link on Sign In page | Medium | [#1370](https://github.com/Code-A2Z/code-a2z/pull/1370) |
-| Missing back button to navigate out of project detail page | Medium | [#1369](https://github.com/Code-A2Z/code-a2z/issues/1369) |
 | Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
@@ -339,7 +340,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
-| 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Notes app | Medium | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
@@ -565,7 +565,6 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Real-Time Emergency Alerts for Critical Patient Vitals #119 | Medium | [#156](https://github.com/Dipanita45/HEALCONNECT/pull/156) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -854,6 +853,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(footer): add clickable preview box for location (#588) | Medium | [#589](https://github.com/Mujtabaa07/coffeeShop/pull/589) |
 | Adding More coffee recipes | Medium | [#587](https://github.com/Mujtabaa07/coffeeShop/issues/587) |
 | Implement OpenCV Order Receipt Scanner | Medium | [#586](https://github.com/Mujtabaa07/coffeeShop/pull/586) |
 | Fix: Add Password Visibility Toggle and Update Regex to Allow | Medium | [#585](https://github.com/Mujtabaa07/coffeeShop/pull/585) |
@@ -877,7 +877,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fixed the Menu button UI display issue as reported in #547. | Medium | [#561](https://github.com/Mujtabaa07/coffeeShop/pull/561) |
 | <search functionality not working on shop page> | Medium | [#550](https://github.com/Mujtabaa07/coffeeShop/issues/550) |
 | Move social media icons to bottom of footer | Medium | [#549](https://github.com/Mujtabaa07/coffeeShop/issues/549) |
-| (ui): make 'Edit Profile' button functional and navigable | Medium | [#537](https://github.com/Mujtabaa07/coffeeShop/issues/537) |
 
 ---
 
@@ -1053,7 +1052,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
-| Potential fix for code scanning alert no. 42: Workflow does not contain permissions | Medium | [#735](https://github.com/alienx5499/SortVision/pull/735) |
 | Add Step-by-Step Explanation Mode Alongside Sorting Visualization | Medium | [#710](https://github.com/alienx5499/SortVision/issues/710) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
 | Show Random Numbers in Sorting Visualization | Medium | [#656](https://github.com/alienx5499/SortVision/issues/656) |
@@ -2071,6 +2069,24 @@ Fast Workflow Tools
 
 ---
 
+## 📌 Project: WildQuest
+
+📝 **Description:** WildQuest is an interactive platform with quizzes, games, and articles to raise awareness about endangered wildlife and conservation.Also it provides the feature of virtual adoption of wild and endangered animals.
+
+🔗 [View Project](https://github.com/Nayanika1402/WildQuest)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Firebase
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Social Sharing Feature for Adopted Animals | Medium | [#33](https://github.com/Nayanika1402/WildQuest/issues/33) |
+
+---
+
 ## 📌 Project: EasyGoDocs
 
 📝 **Description:** EasyGoDocs is an open-source project dedicated to making documentation reading and authoring effortless, beautiful, and accessible for everyone. Were excited to have you help us expand our library of documentation across different fields.
@@ -2105,11 +2121,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add GitHub Issue Template to improve issue reporting and contribution workflow | Medium | [#120](https://github.com/prasoonk1204/BreatheEasy/issues/120) |
 | Community Impact Leaderboard & Action Gamification | Medium | [#119](https://github.com/prasoonk1204/BreatheEasy/issues/119) |
-| Health Profile Personalization for Sensitive Groups | Medium | [#118](https://github.com/prasoonk1204/BreatheEasy/issues/118) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
-| Add separate contribution guidelines for SWoC'2026 contributors | Medium | [#116](https://github.com/prasoonk1204/BreatheEasy/issues/116) |
 | Secure map tiles using backend proxy with caching and rate limiting | Medium | [#114](https://github.com/prasoonk1204/BreatheEasy/pull/114) |
 | Add containerized local development workflow using Docker & Docker Compose | Medium | [#112](https://github.com/prasoonk1204/BreatheEasy/issues/112) |
 | Add AQI export to CSV/PDF | Medium | [#109](https://github.com/prasoonk1204/BreatheEasy/pull/109) |
@@ -2276,6 +2289,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| DOC: Create testing documentation and basic test suite | Easy | [#243](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/243) |
+| Add comprehensive docstrings to backend functions | Medium | [#244](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/244) |
 | Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
@@ -2565,6 +2580,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add floating “Scroll to Top” button for better user experience | Medium | [#127](https://github.com/subhadeeproy3902/mvpblocks/issues/127) |
 | Replace outdated Twitter logo with X branding in Footer | Medium | [#126](https://github.com/subhadeeproy3902/mvpblocks/pull/126) |
 | <Auto Layout Optimization> | Medium | [#124](https://github.com/subhadeeproy3902/mvpblocks/issues/124) |
 | Add glass gradient hero section | Medium | [#116](https://github.com/subhadeeproy3902/mvpblocks/pull/116) |
