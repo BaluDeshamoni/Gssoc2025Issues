@@ -144,8 +144,8 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Add back button to project detail page | Medium | [#1371](https://github.com/Code-A2Z/code-a2z/pull/1371) |
 | Add Forgot Password link on Sign In page | Medium | [#1370](https://github.com/Code-A2Z/code-a2z/pull/1370) |
-| Missing back button to navigate out of project detail page | Medium | [#1369](https://github.com/Code-A2Z/code-a2z/issues/1369) |
 | Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
@@ -156,7 +156,6 @@ Accessibility features like dark mode,white.
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
-| 🧑‍💻: Add Multi-Language Support Using Language Translator | Medium | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Notes app | Medium | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
@@ -300,6 +299,7 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Confirmation Dialog System | Medium | [#263](https://github.com/Devasy/splitwiser/pull/263) |
 | Add Confirmation Dialog System | Medium | [#262](https://github.com/Devasy/splitwiser/pull/262) |
 | Enhance: Add confirmation dialog system for destructive actions | Medium | [#261](https://github.com/Devasy/splitwiser/pull/261) |
 | Replace window.confirm with custom ConfirmDialog | Medium | [#259](https://github.com/Devasy/splitwiser/pull/259) |
@@ -610,7 +610,12 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 |----------|----------------|---------|
 | Unrealistic / Distracting Image Hover Effect | Easy | [#93](https://github.com/Sahilll94/Travel-Book/issues/93) |
 | Create `src/utils` Directory for Common Helper Functions | Easy | [#91](https://github.com/Sahilll94/Travel-Book/issues/91) |
-| table-of-content | Medium | [#107](https://github.com/Sahilll94/Travel-Book/pull/107) |
+| Story content disappears after switching tabs (Story ↔ Photos) | Medium | [#114](https://github.com/Sahilll94/Travel-Book/issues/114) |
+| Add descriptive alt text to landing page images | Medium | [#113](https://github.com/Sahilll94/Travel-Book/pull/113) |
+| Enhance Footer UI for Better Visual Hierarchy and Modern Look | Medium | [#111](https://github.com/Sahilll94/Travel-Book/pull/111) |
+| Docs: add beginner setup checklist and troubleshooting tips | Medium | [#110](https://github.com/Sahilll94/Travel-Book/pull/110) |
+| Docs: add beginner setup checklist and troubleshooting tips | Medium | [#109](https://github.com/Sahilll94/Travel-Book/pull/109) |
+| Add social media icons to Contributors page footer | Medium | [#108](https://github.com/Sahilll94/Travel-Book/issues/108) |
 | Improve mobile responsiveness for navbar and hero section | Medium | [#101](https://github.com/Sahilll94/Travel-Book/pull/101) |
 | Corrected unordered list with list items | Medium | [#100](https://github.com/Sahilll94/Travel-Book/pull/100) |
 | A new improved UI for this project | Medium | [#97](https://github.com/Sahilll94/Travel-Book/issues/97) |
@@ -1209,16 +1214,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| `[Task] Add centralized logging & request tracing for backend services` | Easy | [#233](https://github.com/IndieHub25/GroqTales/issues/233) |
-| `[Accessibility] Improve keyboard navigation and ARIA roles across main layout` | Easy | [#231](https://github.com/IndieHub25/GroqTales/issues/231) |
-| Genre Filter Dropdown Styling Not Matching Site Theme | Medium | [#237](https://github.com/IndieHub25/GroqTales/issues/237) |
-| Community Dropdown UI Overlaps & Obstructs Content | Medium | [#236](https://github.com/IndieHub25/GroqTales/issues/236) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | `[Feature] Creator onboarding checklist & guided tour` | Medium | [#228](https://github.com/IndieHub25/GroqTales/issues/228) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| nav menu transparent background color | Medium | [#216](https://github.com/IndieHub25/GroqTales/issues/216) |
-| Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
 | `Security: Validate and rate limit story publishing & NFT minting endpoints` | Hard | [#230](https://github.com/IndieHub25/GroqTales/issues/230) |
 | `[BIG] Personalized story discovery feed with AI recommendations` | Hard | [#229](https://github.com/IndieHub25/GroqTales/issues/229) |
 
@@ -1390,6 +1389,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| DOC: Create testing documentation and basic test suite | Easy | [#243](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/243) |
+| Add comprehensive docstrings to backend functions | Medium | [#244](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/244) |
 | Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
