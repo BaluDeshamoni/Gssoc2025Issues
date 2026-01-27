@@ -107,28 +107,6 @@ User Profile: BMI calculator and fitness analytics.
 
 ---
 
-## 📌 Project: WallGodds App
-
-📝 **Description:** WallGodds is reimagined for mobile — fast, clean, and loaded with stunning high-res wallpapers for every screen. It’s more than an app — it’s your personal visual canvas, made for those who style their screen with every swipe.
-
-🔗 [View Project](https://github.com/sayan0328/WallGodds-App)
-
-💻 **Tech Stack:** Kotlin, Compose, Firebase, Firebase RealTime DB
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| CONGRATULATIONS PAGE | Easy | [#53](https://github.com/WallGodds/WallGodds-App/issues/53) |
-| [UPLOAD PAGE] EDIT WALLPAPER POPUP | Easy | [#52](https://github.com/WallGodds/WallGodds-App/issues/52) |
-| [UPDATE] APP LOGO & UPLOAD ICON | Easy | [#47](https://github.com/WallGodds/WallGodds-App/issues/47) |
-| 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#1](https://github.com/WallGodds/WallGodds-App/issues/1) |
-| 🚨 IMPORTANT NOTE – PLEASE READ 🚨 | Medium | [#54](https://github.com/WallGodds/WallGodds-App/issues/54) |
-
----
-
 ## 📌 Project: ShopSmart
 
 📝 **Description:** By ShopSmart we provide Smart Shopping from Local Stores.
