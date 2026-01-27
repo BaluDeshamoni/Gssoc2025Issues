@@ -162,12 +162,23 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Docs: add security scanning guides and Makefile targets | Easy | [#3525](https://github.com/OWASP/Nest/pull/3525) |
-| Incorrect use of ObjectDoesNotExist with keyword arguments causes TypeError | Medium | [#3562](https://github.com/OWASP/Nest/issues/3562) |
+| Fix LogoCarousel memory leak: innerHTML duplication without cleanup (reopened) | Medium | [#3583](https://github.com/OWASP/Nest/issues/3583) |
+| Migrate Project pull_requests to M2M and remove computed property | Medium | [#3582](https://github.com/OWASP/Nest/pull/3582) |
+| Add tests for `frontend` module | Medium | [#3581](https://github.com/OWASP/Nest/pull/3581) |
+| Regex-based Markdown parsing fails on valid Markdown structures | Medium | [#3579](https://github.com/OWASP/Nest/issues/3579) |
+| Added M2M issues and project field for better performance | Medium | [#3578](https://github.com/OWASP/Nest/pull/3578) |
+| Avoid accessing Django database settings at import time | Medium | [#3577](https://github.com/OWASP/Nest/issues/3577) |
+| Leader list is truncated on smaller viewports (in project details page), causing information loss | Medium | [#3575](https://github.com/OWASP/Nest/issues/3575) |
+| Pagination for Pull Requests | Medium | [#3573](https://github.com/OWASP/Nest/issues/3573) |
+| Show deadline labels on the issues list and add a way to filter by deadline state | Medium | [#3571](https://github.com/OWASP/Nest/issues/3571) |
+| Add CSV/JSON export functionality for filtered project issues | Medium | [#3570](https://github.com/OWASP/Nest/issues/3570) |
+| Admin docstrings | Medium | [#3569](https://github.com/OWASP/Nest/pull/3569) |
+| Fix inconsistent Label component UI with ActionButtons | Medium | [#3568](https://github.com/OWASP/Nest/issues/3568) |
+| Refactor/mentee node strawberry django | Medium | [#3564](https://github.com/OWASP/Nest/pull/3564) |
+| Add image extraction support for NestBot AI assistant | Medium | [#3563](https://github.com/OWASP/Nest/pull/3563) |
 | UI/A11y: Inconsistent and clipped focus-visible outlines across Header and Footer | Medium | [#3561](https://github.com/OWASP/Nest/issues/3561) |
 | Migrate Project pull_requests property to M2M relation field | Medium | [#3560](https://github.com/OWASP/Nest/pull/3560) |
 | CI: Add backend model graph generation job | Medium | [#3559](https://github.com/OWASP/Nest/pull/3559) |
-| the Header layout breaks in mid-large screen widths | Medium | [#3558](https://github.com/OWASP/Nest/issues/3558) |
 | Fix sonar Issue : Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3557](https://github.com/OWASP/Nest/issues/3557) |
 | Refactor and simplify Event.parse_dates for improved readability and maintainability | Medium | [#3556](https://github.com/OWASP/Nest/issues/3556) |
 | Fix Sonar issue: Remove redundant type assertion (typescript:S4325) | Medium | [#3554](https://github.com/OWASP/Nest/issues/3554) |
@@ -175,18 +186,8 @@
 | Optimize GraphQL resolvers: Add missing select_related/prefetch_related to prevent N+1 queries | Medium | [#3552](https://github.com/OWASP/Nest/issues/3552) |
 | Add cleanup to async useEffect hooks to prevent memory leaks and race conditions | Medium | [#3551](https://github.com/OWASP/Nest/issues/3551) |
 | Migrated project issue to m2m field | Medium | [#3547](https://github.com/OWASP/Nest/pull/3547) |
-| Fix Redis password env var in local Docker Compose | Medium | [#3541](https://github.com/OWASP/Nest/issues/3541) |
 | Introduce ESLint rule to discourage unsafe as assertions with useParams() | Medium | [#3539](https://github.com/OWASP/Nest/issues/3539) |
 | Bug : fix loading spinner logic for program edit, module edit | Medium | [#3538](https://github.com/OWASP/Nest/issues/3538) |
-| Added posthog integration | Medium | [#3537](https://github.com/OWASP/Nest/pull/3537) |
-| Add Recent Searches to improve the search experience | Medium | [#3536](https://github.com/OWASP/Nest/issues/3536) |
-| Bug: URL validation accepts malformed URLs with invalid netloc | Medium | [#3535](https://github.com/OWASP/Nest/issues/3535) |
-| fix: ensure deterministic sorting for program admins | Medium | [#3530](https://github.com/OWASP/Nest/pull/3530) |
-| Rework backend/frontend exception handling for data validation errors | Medium | [#3529](https://github.com/OWASP/Nest/issues/3529) |
-| Improve and fill gaps in project documentation | Medium | [#3528](https://github.com/OWASP/Nest/issues/3528) |
-| Implement Scalable Search API for Domain and Taxonomy Autocomplete | Medium | [#3527](https://github.com/OWASP/Nest/issues/3527) |
-| feat(mentorship): add validation for tags and domains | Medium | [#3526](https://github.com/OWASP/Nest/pull/3526) |
-| Add Task-Level Admin Functionality | Medium | [#3524](https://github.com/OWASP/Nest/issues/3524) |
 
 ---
 
@@ -226,7 +227,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Real-Time Emergency Alerts for Critical Patient Vitals #119 | Medium | [#156](https://github.com/Dipanita45/HEALCONNECT/pull/156) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -517,8 +517,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump prettier from 3.6.2 to 3.8.1 | Easy | [#1270](https://github.com/recodehive/recode-website/pull/1270) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
+| chore: bump styled-components from 6.1.19 to 6.3.8 | Medium | [#1269](https://github.com/recodehive/recode-website/pull/1269) |
+| chore: bump react-dom and @types/react-dom | Medium | [#1268](https://github.com/recodehive/recode-website/pull/1268) |
+| chore: bump @tailwindcss/postcss from 4.1.14 to 4.1.18 | Medium | [#1267](https://github.com/recodehive/recode-website/pull/1267) |
+| chore: bump lucide-react from 0.503.0 to 0.563.0 | Medium | [#1266](https://github.com/recodehive/recode-website/pull/1266) |
 
 ---
 
@@ -1035,16 +1040,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| `[Task] Add centralized logging & request tracing for backend services` | Easy | [#233](https://github.com/IndieHub25/GroqTales/issues/233) |
-| `[Accessibility] Improve keyboard navigation and ARIA roles across main layout` | Easy | [#231](https://github.com/IndieHub25/GroqTales/issues/231) |
-| Genre Filter Dropdown Styling Not Matching Site Theme | Medium | [#237](https://github.com/IndieHub25/GroqTales/issues/237) |
-| Community Dropdown UI Overlaps & Obstructs Content | Medium | [#236](https://github.com/IndieHub25/GroqTales/issues/236) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | `[Feature] Creator onboarding checklist & guided tour` | Medium | [#228](https://github.com/IndieHub25/GroqTales/issues/228) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| nav menu transparent background color | Medium | [#216](https://github.com/IndieHub25/GroqTales/issues/216) |
-| Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
 | `Security: Validate and rate limit story publishing & NFT minting endpoints` | Hard | [#230](https://github.com/IndieHub25/GroqTales/issues/230) |
 | `[BIG] Personalized story discovery feed with AI recommendations` | Hard | [#229](https://github.com/IndieHub25/GroqTales/issues/229) |
 
@@ -1124,6 +1123,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| DOC: Create testing documentation and basic test suite | Easy | [#243](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/243) |
+| Add comprehensive docstrings to backend functions | Medium | [#244](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/244) |
 | Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
@@ -1324,6 +1325,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add floating “Scroll to Top” button for better user experience | Medium | [#127](https://github.com/subhadeeproy3902/mvpblocks/issues/127) |
 | Replace outdated Twitter logo with X branding in Footer | Medium | [#126](https://github.com/subhadeeproy3902/mvpblocks/pull/126) |
 | <Auto Layout Optimization> | Medium | [#124](https://github.com/subhadeeproy3902/mvpblocks/issues/124) |
 | Add glass gradient hero section | Medium | [#116](https://github.com/subhadeeproy3902/mvpblocks/pull/116) |
