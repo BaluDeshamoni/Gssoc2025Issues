@@ -205,25 +205,26 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add frontend language toggle for better farmer accessibility | Medium | [#1115](https://github.com/omroy07/AgriTech/pull/1115) |
-| Added toggle theme button | Medium | [#1113](https://github.com/omroy07/AgriTech/pull/1113) |
-| Implement Multilingual API Support (i18n) for Localized Responses | Medium | [#1112](https://github.com/omroy07/AgriTech/issues/1112) |
+| Fix broken yield | Medium | [#1156](https://github.com/omroy07/AgriTech/pull/1156) |
+| Fixed broken links on disease detector page | Medium | [#1155](https://github.com/omroy07/AgriTech/pull/1155) |
+| Feat/jwt persistent auth | Medium | [#1154](https://github.com/omroy07/AgriTech/pull/1154) |
+| Feat/async pdf loan reports | Medium | [#1153](https://github.com/omroy07/AgriTech/pull/1153) |
+| feat: implement multilingual API support (i18n) for localized responses | Medium | [#1152](https://github.com/omroy07/AgriTech/pull/1152) |
+| 🌗 Dark/Light Theme Toggle Works Only in Navbar | Medium | [#1148](https://github.com/omroy07/AgriTech/issues/1148) |
+| Footer Section | Medium | [#1147](https://github.com/omroy07/AgriTech/issues/1147) |
+| Add "Back to Home" Navigation on Contact Page | Medium | [#1146](https://github.com/omroy07/AgriTech/issues/1146) |
+| Make logo clickable to navigate to home page | Medium | [#1145](https://github.com/omroy07/AgriTech/pull/1145) |
+| Issue: Add Navigation Back to Home / Navbar/ Footer on Careers Page | Medium | [#1144](https://github.com/omroy07/AgriTech/issues/1144) |
+| Issue: Mission Page Needs UI & Accessibility Refactor | Medium | [#1139](https://github.com/omroy07/AgriTech/issues/1139) |
+| Fix responsiveness of disease detector page | Medium | [#1138](https://github.com/omroy07/AgriTech/pull/1138) |
+| Double Footer On the Home/Index Page | Medium | [#1121](https://github.com/omroy07/AgriTech/issues/1121) |
+| Fixed Navbar/Footer and Dark Mode Toggle Not Working on Community Page | Medium | [#1118](https://github.com/omroy07/AgriTech/issues/1118) |
+| Fix layout and styling of "Check Your Scheme Eligibility" form | Medium | [#1117](https://github.com/omroy07/AgriTech/issues/1117) |
+| <short description>Enhance the blog section | Medium | [#1116](https://github.com/omroy07/AgriTech/issues/1116) |
 | Async PDF Report Synthesis for Loan Eligibility Assessments | Medium | [#1111](https://github.com/omroy07/AgriTech/issues/1111) |
-| Implement Persistent JWT Authentication with Access/Refresh Tokens and RBAC | Medium | [#1110](https://github.com/omroy07/AgriTech/issues/1110) |
 | Homepage UI does not visually represent the agricultural domain | Medium | [#1109](https://github.com/omroy07/AgriTech/issues/1109) |
-| Added License | Medium | [#1105](https://github.com/omroy07/AgriTech/pull/1105) |
-| Fix the footer | Medium | [#1104](https://github.com/omroy07/AgriTech/pull/1104) |
-| Yield prediction fix | Medium | [#1102](https://github.com/omroy07/AgriTech/pull/1102) |
 | Dependency Management Issue | Medium | [#1098](https://github.com/omroy07/AgriTech/issues/1098) |
 | Code Organization Issue - Duplicate/Scattered Code | Medium | [#1097](https://github.com/omroy07/AgriTech/issues/1097) |
-| Architecture Issue - Multiple Conflicting Servers | Medium | [#1096](https://github.com/omroy07/AgriTech/issues/1096) |
-| Navbar UI Broken on main page | Medium | [#1084](https://github.com/omroy07/AgriTech/issues/1084) |
-| Improve Disease Detection Result Visualization | Medium | [#1075](https://github.com/omroy07/AgriTech/issues/1075) |
-| Add Weather Awareness & Advisory Banner | Medium | [#1074](https://github.com/omroy07/AgriTech/issues/1074) |
-| Add “Why This Crop?” Explanation Cards | Medium | [#1073](https://github.com/omroy07/AgriTech/issues/1073) |
-| Add Local Language Toggle for Better Farmer Accessibility | Medium | [#1072](https://github.com/omroy07/AgriTech/issues/1072) |
-| Add Role-Based Authentication (Farmer / Expert / Admin) using Firebase | Medium | [#1057](https://github.com/omroy07/AgriTech/issues/1057) |
-| Prediction Result Comparison (Current vs Previous) | Medium | [#1056](https://github.com/omroy07/AgriTech/issues/1056) |
 
 ---
 
@@ -387,6 +388,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| DOC: Create testing documentation and basic test suite | Easy | [#243](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/243) |
+| Add comprehensive docstrings to backend functions | Medium | [#244](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/244) |
 | Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
