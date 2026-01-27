@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Real-Time Emergency Alerts for Critical Patient Vitals #119 | Medium | [#156](https://github.com/Dipanita45/HEALCONNECT/pull/156) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -53,8 +52,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(warnings): Increment 2. Fix Files producing warning 6-10. | Easy | [#182](https://github.com/SharonIV0x86/CinderPeak/issues/182) |
+| fix(warnings): Increment 1. Fix Files producing warning 1-5. | Easy | [#181](https://github.com/SharonIV0x86/CinderPeak/issues/181) |
+| Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
+| refactor(adjacency-storage): Replace LOG_ calls with policy handler logging calls in PeakStore.hpp | Easy | [#179](https://github.com/SharonIV0x86/CinderPeak/issues/179) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
-| refactor: minimize mutex lock scope in AdjacencyList methods | Medium | [#178](https://github.com/SharonIV0x86/CinderPeak/pull/178) |
 
 ---
 
