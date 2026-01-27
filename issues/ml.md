@@ -133,7 +133,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix typo in README | Medium | [#1045](https://github.com/opensource-society/notesvault/pull/1045) |
 | Fix download issue | Medium | [#1043](https://github.com/opensource-society/notesvault/pull/1043) |
 
 ---
@@ -762,6 +761,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(footer): add clickable preview box for location (#588) | Medium | [#589](https://github.com/Mujtabaa07/coffeeShop/pull/589) |
 | Adding More coffee recipes | Medium | [#587](https://github.com/Mujtabaa07/coffeeShop/issues/587) |
 | Implement OpenCV Order Receipt Scanner | Medium | [#586](https://github.com/Mujtabaa07/coffeeShop/pull/586) |
 | Fix: Add Password Visibility Toggle and Update Regex to Allow | Medium | [#585](https://github.com/Mujtabaa07/coffeeShop/pull/585) |
@@ -785,7 +785,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Fixed the Menu button UI display issue as reported in #547. | Medium | [#561](https://github.com/Mujtabaa07/coffeeShop/pull/561) |
 | <search functionality not working on shop page> | Medium | [#550](https://github.com/Mujtabaa07/coffeeShop/issues/550) |
 | Move social media icons to bottom of footer | Medium | [#549](https://github.com/Mujtabaa07/coffeeShop/issues/549) |
-| (ui): make 'Edit Profile' button functional and navigable | Medium | [#537](https://github.com/Mujtabaa07/coffeeShop/issues/537) |
 
 ---
 
@@ -803,29 +802,26 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix broken yield | Medium | [#1156](https://github.com/omroy07/AgriTech/pull/1156) |
+| Fixed broken links on disease detector page | Medium | [#1155](https://github.com/omroy07/AgriTech/pull/1155) |
+| Feat/jwt persistent auth | Medium | [#1154](https://github.com/omroy07/AgriTech/pull/1154) |
+| Feat/async pdf loan reports | Medium | [#1153](https://github.com/omroy07/AgriTech/pull/1153) |
+| feat: implement multilingual API support (i18n) for localized responses | Medium | [#1152](https://github.com/omroy07/AgriTech/pull/1152) |
+| 🌗 Dark/Light Theme Toggle Works Only in Navbar | Medium | [#1148](https://github.com/omroy07/AgriTech/issues/1148) |
+| Footer Section | Medium | [#1147](https://github.com/omroy07/AgriTech/issues/1147) |
+| Add "Back to Home" Navigation on Contact Page | Medium | [#1146](https://github.com/omroy07/AgriTech/issues/1146) |
+| Make logo clickable to navigate to home page | Medium | [#1145](https://github.com/omroy07/AgriTech/pull/1145) |
+| Issue: Add Navigation Back to Home / Navbar/ Footer on Careers Page | Medium | [#1144](https://github.com/omroy07/AgriTech/issues/1144) |
+| Issue: Mission Page Needs UI & Accessibility Refactor | Medium | [#1139](https://github.com/omroy07/AgriTech/issues/1139) |
 | Fix responsiveness of disease detector page | Medium | [#1138](https://github.com/omroy07/AgriTech/pull/1138) |
-| Fix year of FAQ Page | Medium | [#1137](https://github.com/omroy07/AgriTech/pull/1137) |
-| Fixed double footer of home page | Medium | [#1136](https://github.com/omroy07/AgriTech/pull/1136) |
-| Add offline & low connectivity UI indicators | Medium | [#1135](https://github.com/omroy07/AgriTech/pull/1135) |
-| Refactor Scheme Pages UI, Improve Layout Structure & Enhance Theme Support | Medium | [#1134](https://github.com/omroy07/AgriTech/pull/1134) |
-| Contact Page Refactor & UI Fixes | Medium | [#1129](https://github.com/omroy07/AgriTech/pull/1129) |
-| Fix Theme Toggle on Blog Page and Sync Across Pages | Medium | [#1128](https://github.com/omroy07/AgriTech/pull/1128) |
-| FIX : Cart Issue & Enhance Cart Functionality: Toggle, Close, Overlay, and Dark Mode Support | Medium | [#1126](https://github.com/omroy07/AgriTech/pull/1126) |
-| FIX: UI Cleanup & Navbar Theme Toggle | Medium | [#1123](https://github.com/omroy07/AgriTech/pull/1123) |
 | Double Footer On the Home/Index Page | Medium | [#1121](https://github.com/omroy07/AgriTech/issues/1121) |
 | Fixed Navbar/Footer and Dark Mode Toggle Not Working on Community Page | Medium | [#1118](https://github.com/omroy07/AgriTech/issues/1118) |
 | Fix layout and styling of "Check Your Scheme Eligibility" form | Medium | [#1117](https://github.com/omroy07/AgriTech/issues/1117) |
 | <short description>Enhance the blog section | Medium | [#1116](https://github.com/omroy07/AgriTech/issues/1116) |
-| Implement Multilingual API Support (i18n) for Localized Responses | Medium | [#1112](https://github.com/omroy07/AgriTech/issues/1112) |
 | Async PDF Report Synthesis for Loan Eligibility Assessments | Medium | [#1111](https://github.com/omroy07/AgriTech/issues/1111) |
-| Implement Persistent JWT Authentication with Access/Refresh Tokens and RBAC | Medium | [#1110](https://github.com/omroy07/AgriTech/issues/1110) |
 | Homepage UI does not visually represent the agricultural domain | Medium | [#1109](https://github.com/omroy07/AgriTech/issues/1109) |
 | Dependency Management Issue | Medium | [#1098](https://github.com/omroy07/AgriTech/issues/1098) |
 | Code Organization Issue - Duplicate/Scattered Code | Medium | [#1097](https://github.com/omroy07/AgriTech/issues/1097) |
-| Navbar UI Broken on main page | Medium | [#1084](https://github.com/omroy07/AgriTech/issues/1084) |
-| Improve Disease Detection Result Visualization | Medium | [#1075](https://github.com/omroy07/AgriTech/issues/1075) |
-| Add Weather Awareness & Advisory Banner | Medium | [#1074](https://github.com/omroy07/AgriTech/issues/1074) |
-| Add “Why This Crop?” Explanation Cards | Medium | [#1073](https://github.com/omroy07/AgriTech/issues/1073) |
 
 ---
 
@@ -1239,8 +1235,13 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump prettier from 3.6.2 to 3.8.1 | Easy | [#1270](https://github.com/recodehive/recode-website/pull/1270) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
+| chore: bump styled-components from 6.1.19 to 6.3.8 | Medium | [#1269](https://github.com/recodehive/recode-website/pull/1269) |
+| chore: bump react-dom and @types/react-dom | Medium | [#1268](https://github.com/recodehive/recode-website/pull/1268) |
+| chore: bump @tailwindcss/postcss from 4.1.14 to 4.1.18 | Medium | [#1267](https://github.com/recodehive/recode-website/pull/1267) |
+| chore: bump lucide-react from 0.503.0 to 0.563.0 | Medium | [#1266](https://github.com/recodehive/recode-website/pull/1266) |
 
 ---
 
@@ -2573,7 +2574,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI Issue | Medium | [#393](https://github.com/code-well0/trip-planner/issues/393) |
 | Fix toast issue: consolidate ToastContainer in App.js | Medium | [#392](https://github.com/code-well0/trip-planner/pull/392) |
 
 ---
