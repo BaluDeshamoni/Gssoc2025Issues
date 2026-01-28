@@ -211,32 +211,30 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix LogoCarousel memory leak: innerHTML duplication without cleanup (reopened) | Medium | [#3583](https://github.com/OWASP/Nest/issues/3583) |
+| docs: add backend, frontend, schema, and SDK overviews | Easy | [#3603](https://github.com/OWASP/Nest/pull/3603) |
+| Migrate e2e tests to use backend instead of mock data | Easy | [#3591](https://github.com/OWASP/Nest/pull/3591) |
+| Improve Test Coverage for Low-Coverage Backend Files | Medium | [#3607](https://github.com/OWASP/Nest/issues/3607) |
+| feat(about): combine separate GraphQL queries into single request | Medium | [#3604](https://github.com/OWASP/Nest/pull/3604) |
+| Add published releases as first-class Project relation | Medium | [#3602](https://github.com/OWASP/Nest/pull/3602) |
+| Add race-safe async data fetching for board candidates chapters/projects | Medium | [#3598](https://github.com/OWASP/Nest/issues/3598) |
+| Prevent state updates after unmount in member heatmap page | Medium | [#3597](https://github.com/OWASP/Nest/issues/3597) |
+| Add descriptive messages to PermissionDenied in mentorship module mutations | Medium | [#3596](https://github.com/OWASP/Nest/issues/3596) |
+| Add Sort by option for programs on Mentorship page | Medium | [#3593](https://github.com/OWASP/Nest/issues/3593) |
+| fix: validate URL netloc contains alphanumeric characters | Medium | [#3588](https://github.com/OWASP/Nest/pull/3588) |
 | Migrate Project pull_requests to M2M and remove computed property | Medium | [#3582](https://github.com/OWASP/Nest/pull/3582) |
 | Add tests for `frontend` module | Medium | [#3581](https://github.com/OWASP/Nest/pull/3581) |
 | Regex-based Markdown parsing fails on valid Markdown structures | Medium | [#3579](https://github.com/OWASP/Nest/issues/3579) |
 | Added M2M issues and project field for better performance | Medium | [#3578](https://github.com/OWASP/Nest/pull/3578) |
 | Avoid accessing Django database settings at import time | Medium | [#3577](https://github.com/OWASP/Nest/issues/3577) |
 | Leader list is truncated on smaller viewports (in project details page), causing information loss | Medium | [#3575](https://github.com/OWASP/Nest/issues/3575) |
-| Pagination for Pull Requests | Medium | [#3573](https://github.com/OWASP/Nest/issues/3573) |
-| Show deadline labels on the issues list and add a way to filter by deadline state | Medium | [#3571](https://github.com/OWASP/Nest/issues/3571) |
 | Add CSV/JSON export functionality for filtered project issues | Medium | [#3570](https://github.com/OWASP/Nest/issues/3570) |
 | Admin docstrings | Medium | [#3569](https://github.com/OWASP/Nest/pull/3569) |
 | Fix inconsistent Label component UI with ActionButtons | Medium | [#3568](https://github.com/OWASP/Nest/issues/3568) |
 | Refactor/mentee node strawberry django | Medium | [#3564](https://github.com/OWASP/Nest/pull/3564) |
-| Add image extraction support for NestBot AI assistant | Medium | [#3563](https://github.com/OWASP/Nest/pull/3563) |
+| feat(nestbot): Add image extraction support for NestBot AI assistant | Medium | [#3563](https://github.com/OWASP/Nest/pull/3563) |
 | UI/A11y: Inconsistent and clipped focus-visible outlines across Header and Footer | Medium | [#3561](https://github.com/OWASP/Nest/issues/3561) |
 | Migrate Project pull_requests property to M2M relation field | Medium | [#3560](https://github.com/OWASP/Nest/pull/3560) |
 | CI: Add backend model graph generation job | Medium | [#3559](https://github.com/OWASP/Nest/pull/3559) |
-| Fix sonar Issue : Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3557](https://github.com/OWASP/Nest/issues/3557) |
-| Refactor and simplify Event.parse_dates for improved readability and maintainability | Medium | [#3556](https://github.com/OWASP/Nest/issues/3556) |
-| Fix Sonar issue: Remove redundant type assertion (typescript:S4325) | Medium | [#3554](https://github.com/OWASP/Nest/issues/3554) |
-| Fix setTimeout without cleanup in mentorship form pages | Medium | [#3553](https://github.com/OWASP/Nest/issues/3553) |
-| Optimize GraphQL resolvers: Add missing select_related/prefetch_related to prevent N+1 queries | Medium | [#3552](https://github.com/OWASP/Nest/issues/3552) |
-| Add cleanup to async useEffect hooks to prevent memory leaks and race conditions | Medium | [#3551](https://github.com/OWASP/Nest/issues/3551) |
-| Migrated project issue to m2m field | Medium | [#3547](https://github.com/OWASP/Nest/pull/3547) |
-| Introduce ESLint rule to discourage unsafe as assertions with useParams() | Medium | [#3539](https://github.com/OWASP/Nest/issues/3539) |
-| Bug : fix loading spinner logic for program edit, module edit | Medium | [#3538](https://github.com/OWASP/Nest/issues/3538) |
 
 ---
 
@@ -286,34 +284,24 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Confirmation Dialog System | Medium | [#263](https://github.com/Devasy/splitwiser/pull/263) |
-| Add Confirmation Dialog System | Medium | [#262](https://github.com/Devasy/splitwiser/pull/262) |
-| Enhance: Add confirmation dialog system for destructive actions | Medium | [#261](https://github.com/Devasy/splitwiser/pull/261) |
-| Replace window.confirm with custom ConfirmDialog | Medium | [#259](https://github.com/Devasy/splitwiser/pull/259) |
+| Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
+| <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
+| <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
+| <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
-| Confirmation Dialog System | Medium | [#256](https://github.com/Devasy/splitwiser/pull/256) |
-| Add Error Boundary with retry support | Medium | [#255](https://github.com/Devasy/splitwiser/pull/255) |
-| Add Global Error Boundary with Retry | Medium | [#254](https://github.com/Devasy/splitwiser/pull/254) |
-| Add Global Error Boundary with Retry Support | Medium | [#253](https://github.com/Devasy/splitwiser/pull/253) |
-| Add Global Error Boundary with Retry Mechanism | Medium | [#252](https://github.com/Devasy/splitwiser/pull/252) |
-| ux: Add global error boundary with dual-theme support | Medium | [#251](https://github.com/Devasy/splitwiser/pull/251) |
-| enhance: Add global error boundary with retry mechanism | Medium | [#250](https://github.com/Devasy/splitwiser/pull/250) |
 | ux: Add ErrorBoundary with retry for API failures | Medium | [#249](https://github.com/Devasy/splitwiser/pull/249) |
-| Add Error Boundary to Web App | Medium | [#248](https://github.com/Devasy/splitwiser/pull/248) |
-| enhance: Add error boundary with retry mechanism | Medium | [#247](https://github.com/Devasy/splitwiser/pull/247) |
-| Add Global Error Boundary with Retry Mechanism | Medium | [#246](https://github.com/Devasy/splitwiser/pull/246) |
-| enhance: Add global error boundary with retry and theme support | Medium | [#245](https://github.com/Devasy/splitwiser/pull/245) |
-| Add global Error Boundary with dual-theme support | Medium | [#244](https://github.com/Devasy/splitwiser/pull/244) |
-| Add Global Error Boundary with Retry Mechanism | Medium | [#243](https://github.com/Devasy/splitwiser/pull/243) |
-| Add Global Error Boundary with dual-theme support | Medium | [#242](https://github.com/Devasy/splitwiser/pull/242) |
-| enhance: Add error boundary with retry mechanism | Medium | [#241](https://github.com/Devasy/splitwiser/pull/241) |
-| Add Global Error Boundary to Web App | Medium | [#240](https://github.com/Devasy/splitwiser/pull/240) |
 | Implement Splitwise import functionality | Medium | [#239](https://github.com/Devasy/splitwiser/pull/239) |
 | Restore EAS configuration files | Medium | [#210](https://github.com/Devasy/splitwiser/pull/210) |
 | Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy/splitwiser/pull/209) |
 | Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy/splitwiser/issues/207) |
 | Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
+| pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
+| Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
+| Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
+| API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
+| Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy/splitwiser/pull/148) |
 
 ---
 
@@ -582,26 +570,25 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix broken yield | Medium | [#1156](https://github.com/omroy07/AgriTech/pull/1156) |
-| Fixed broken links on disease detector page | Medium | [#1155](https://github.com/omroy07/AgriTech/pull/1155) |
-| Feat/jwt persistent auth | Medium | [#1154](https://github.com/omroy07/AgriTech/pull/1154) |
-| Feat/async pdf loan reports | Medium | [#1153](https://github.com/omroy07/AgriTech/pull/1153) |
-| feat: implement multilingual API support (i18n) for localized responses | Medium | [#1152](https://github.com/omroy07/AgriTech/pull/1152) |
+| Added common issues and fixes in readme | Medium | [#1169](https://github.com/omroy07/AgriTech/pull/1169) |
+| Refactor Mission Page for UI & Accessibility Improvements (#1139) | Medium | [#1168](https://github.com/omroy07/AgriTech/pull/1168) |
+| Implement Distributed Caching & API Query Optimization | Medium | [#1167](https://github.com/omroy07/AgriTech/issues/1167) |
+| Implement Multi-Language Support (i18n) for API & AI Responses | Medium | [#1166](https://github.com/omroy07/AgriTech/issues/1166) |
+| Implement Robust Role-Based Access Control (RBAC) | Medium | [#1165](https://github.com/omroy07/AgriTech/issues/1165) |
+| better box shadow effect on platform benefits | Medium | [#1160](https://github.com/omroy07/AgriTech/issues/1160) |
+| Better styling for abt section | Medium | [#1159](https://github.com/omroy07/AgriTech/issues/1159) |
+| Introduce shared domain schemas for core AgriTech entities | Medium | [#1158](https://github.com/omroy07/AgriTech/pull/1158) |
 | 🌗 Dark/Light Theme Toggle Works Only in Navbar | Medium | [#1148](https://github.com/omroy07/AgriTech/issues/1148) |
 | Footer Section | Medium | [#1147](https://github.com/omroy07/AgriTech/issues/1147) |
 | Add "Back to Home" Navigation on Contact Page | Medium | [#1146](https://github.com/omroy07/AgriTech/issues/1146) |
 | Make logo clickable to navigate to home page | Medium | [#1145](https://github.com/omroy07/AgriTech/pull/1145) |
 | Issue: Add Navigation Back to Home / Navbar/ Footer on Careers Page | Medium | [#1144](https://github.com/omroy07/AgriTech/issues/1144) |
 | Issue: Mission Page Needs UI & Accessibility Refactor | Medium | [#1139](https://github.com/omroy07/AgriTech/issues/1139) |
-| Fix responsiveness of disease detector page | Medium | [#1138](https://github.com/omroy07/AgriTech/pull/1138) |
 | Double Footer On the Home/Index Page | Medium | [#1121](https://github.com/omroy07/AgriTech/issues/1121) |
 | Fixed Navbar/Footer and Dark Mode Toggle Not Working on Community Page | Medium | [#1118](https://github.com/omroy07/AgriTech/issues/1118) |
 | Fix layout and styling of "Check Your Scheme Eligibility" form | Medium | [#1117](https://github.com/omroy07/AgriTech/issues/1117) |
 | <short description>Enhance the blog section | Medium | [#1116](https://github.com/omroy07/AgriTech/issues/1116) |
-| Async PDF Report Synthesis for Loan Eligibility Assessments | Medium | [#1111](https://github.com/omroy07/AgriTech/issues/1111) |
 | Homepage UI does not visually represent the agricultural domain | Medium | [#1109](https://github.com/omroy07/AgriTech/issues/1109) |
-| Dependency Management Issue | Medium | [#1098](https://github.com/omroy07/AgriTech/issues/1098) |
-| Code Organization Issue - Duplicate/Scattered Code | Medium | [#1097](https://github.com/omroy07/AgriTech/issues/1097) |
 
 ---
 
@@ -833,6 +820,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 |----------|----------------|---------|
 | Create security.md file | Easy | [#637](https://github.com/eccentriccoder01/TalkHeal/issues/637) |
 | Typo in the word "Exercise" on the website | Easy | [#636](https://github.com/eccentriccoder01/TalkHeal/issues/636) |
+| Add User Onboarding / Guided Tour | Medium | [#644](https://github.com/eccentriccoder01/TalkHeal/issues/644) |
 |  | Medium | [#638](https://github.com/eccentriccoder01/TalkHeal/issues/638) |
 | Fix low color contrast to meet WCAG accessibility standards | Medium | [#634](https://github.com/eccentriccoder01/TalkHeal/issues/634) |
 
@@ -1587,10 +1575,12 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added my library option | Medium | [#263](https://github.com/IndieHub25/GroqTales/pull/263) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | `[Feature] Creator onboarding checklist & guided tour` | Medium | [#228](https://github.com/IndieHub25/GroqTales/issues/228) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
+| Add containerized local development workflow using Docker & Docker Compose | Medium | [#195](https://github.com/IndieHub25/GroqTales/issues/195) |
 | `Security: Validate and rate limit story publishing & NFT minting endpoints` | Hard | [#230](https://github.com/IndieHub25/GroqTales/issues/230) |
 | `[BIG] Personalized story discovery feed with AI recommendations` | Hard | [#229](https://github.com/IndieHub25/GroqTales/issues/229) |
 
@@ -1761,6 +1751,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | DOC: Create testing documentation and basic test suite | Easy | [#243](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/243) |
+| fix: footer email link via env with toast fallback | Medium | [#245](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/245) |
 | Add comprehensive docstrings to backend functions | Medium | [#244](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/244) |
 | Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
