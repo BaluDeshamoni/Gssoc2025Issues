@@ -270,32 +270,30 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix LogoCarousel memory leak: innerHTML duplication without cleanup (reopened) | Medium | [#3583](https://github.com/OWASP/Nest/issues/3583) |
+| docs: add backend, frontend, schema, and SDK overviews | Easy | [#3603](https://github.com/OWASP/Nest/pull/3603) |
+| Migrate e2e tests to use backend instead of mock data | Easy | [#3591](https://github.com/OWASP/Nest/pull/3591) |
+| Improve Test Coverage for Low-Coverage Backend Files | Medium | [#3607](https://github.com/OWASP/Nest/issues/3607) |
+| feat(about): combine separate GraphQL queries into single request | Medium | [#3604](https://github.com/OWASP/Nest/pull/3604) |
+| Add published releases as first-class Project relation | Medium | [#3602](https://github.com/OWASP/Nest/pull/3602) |
+| Add race-safe async data fetching for board candidates chapters/projects | Medium | [#3598](https://github.com/OWASP/Nest/issues/3598) |
+| Prevent state updates after unmount in member heatmap page | Medium | [#3597](https://github.com/OWASP/Nest/issues/3597) |
+| Add descriptive messages to PermissionDenied in mentorship module mutations | Medium | [#3596](https://github.com/OWASP/Nest/issues/3596) |
+| Add Sort by option for programs on Mentorship page | Medium | [#3593](https://github.com/OWASP/Nest/issues/3593) |
+| fix: validate URL netloc contains alphanumeric characters | Medium | [#3588](https://github.com/OWASP/Nest/pull/3588) |
 | Migrate Project pull_requests to M2M and remove computed property | Medium | [#3582](https://github.com/OWASP/Nest/pull/3582) |
 | Add tests for `frontend` module | Medium | [#3581](https://github.com/OWASP/Nest/pull/3581) |
 | Regex-based Markdown parsing fails on valid Markdown structures | Medium | [#3579](https://github.com/OWASP/Nest/issues/3579) |
 | Added M2M issues and project field for better performance | Medium | [#3578](https://github.com/OWASP/Nest/pull/3578) |
 | Avoid accessing Django database settings at import time | Medium | [#3577](https://github.com/OWASP/Nest/issues/3577) |
 | Leader list is truncated on smaller viewports (in project details page), causing information loss | Medium | [#3575](https://github.com/OWASP/Nest/issues/3575) |
-| Pagination for Pull Requests | Medium | [#3573](https://github.com/OWASP/Nest/issues/3573) |
-| Show deadline labels on the issues list and add a way to filter by deadline state | Medium | [#3571](https://github.com/OWASP/Nest/issues/3571) |
 | Add CSV/JSON export functionality for filtered project issues | Medium | [#3570](https://github.com/OWASP/Nest/issues/3570) |
 | Admin docstrings | Medium | [#3569](https://github.com/OWASP/Nest/pull/3569) |
 | Fix inconsistent Label component UI with ActionButtons | Medium | [#3568](https://github.com/OWASP/Nest/issues/3568) |
 | Refactor/mentee node strawberry django | Medium | [#3564](https://github.com/OWASP/Nest/pull/3564) |
-| Add image extraction support for NestBot AI assistant | Medium | [#3563](https://github.com/OWASP/Nest/pull/3563) |
+| feat(nestbot): Add image extraction support for NestBot AI assistant | Medium | [#3563](https://github.com/OWASP/Nest/pull/3563) |
 | UI/A11y: Inconsistent and clipped focus-visible outlines across Header and Footer | Medium | [#3561](https://github.com/OWASP/Nest/issues/3561) |
 | Migrate Project pull_requests property to M2M relation field | Medium | [#3560](https://github.com/OWASP/Nest/pull/3560) |
 | CI: Add backend model graph generation job | Medium | [#3559](https://github.com/OWASP/Nest/pull/3559) |
-| Fix sonar Issue : Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3557](https://github.com/OWASP/Nest/issues/3557) |
-| Refactor and simplify Event.parse_dates for improved readability and maintainability | Medium | [#3556](https://github.com/OWASP/Nest/issues/3556) |
-| Fix Sonar issue: Remove redundant type assertion (typescript:S4325) | Medium | [#3554](https://github.com/OWASP/Nest/issues/3554) |
-| Fix setTimeout without cleanup in mentorship form pages | Medium | [#3553](https://github.com/OWASP/Nest/issues/3553) |
-| Optimize GraphQL resolvers: Add missing select_related/prefetch_related to prevent N+1 queries | Medium | [#3552](https://github.com/OWASP/Nest/issues/3552) |
-| Add cleanup to async useEffect hooks to prevent memory leaks and race conditions | Medium | [#3551](https://github.com/OWASP/Nest/issues/3551) |
-| Migrated project issue to m2m field | Medium | [#3547](https://github.com/OWASP/Nest/pull/3547) |
-| Introduce ESLint rule to discourage unsafe as assertions with useParams() | Medium | [#3539](https://github.com/OWASP/Nest/issues/3539) |
-| Bug : fix loading spinner logic for program edit, module edit | Medium | [#3538](https://github.com/OWASP/Nest/issues/3538) |
 
 ---
 
@@ -314,8 +312,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
-| Add back button to project detail page | Medium | [#1371](https://github.com/Code-A2Z/code-a2z/pull/1371) |
-| Add Forgot Password link on Sign In page | Medium | [#1370](https://github.com/Code-A2Z/code-a2z/pull/1370) |
 | Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
@@ -612,34 +608,24 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Confirmation Dialog System | Medium | [#263](https://github.com/Devasy/splitwiser/pull/263) |
-| Add Confirmation Dialog System | Medium | [#262](https://github.com/Devasy/splitwiser/pull/262) |
-| Enhance: Add confirmation dialog system for destructive actions | Medium | [#261](https://github.com/Devasy/splitwiser/pull/261) |
-| Replace window.confirm with custom ConfirmDialog | Medium | [#259](https://github.com/Devasy/splitwiser/pull/259) |
+| Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
+| <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
+| <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
+| <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
-| Confirmation Dialog System | Medium | [#256](https://github.com/Devasy/splitwiser/pull/256) |
-| Add Error Boundary with retry support | Medium | [#255](https://github.com/Devasy/splitwiser/pull/255) |
-| Add Global Error Boundary with Retry | Medium | [#254](https://github.com/Devasy/splitwiser/pull/254) |
-| Add Global Error Boundary with Retry Support | Medium | [#253](https://github.com/Devasy/splitwiser/pull/253) |
-| Add Global Error Boundary with Retry Mechanism | Medium | [#252](https://github.com/Devasy/splitwiser/pull/252) |
-| ux: Add global error boundary with dual-theme support | Medium | [#251](https://github.com/Devasy/splitwiser/pull/251) |
-| enhance: Add global error boundary with retry mechanism | Medium | [#250](https://github.com/Devasy/splitwiser/pull/250) |
 | ux: Add ErrorBoundary with retry for API failures | Medium | [#249](https://github.com/Devasy/splitwiser/pull/249) |
-| Add Error Boundary to Web App | Medium | [#248](https://github.com/Devasy/splitwiser/pull/248) |
-| enhance: Add error boundary with retry mechanism | Medium | [#247](https://github.com/Devasy/splitwiser/pull/247) |
-| Add Global Error Boundary with Retry Mechanism | Medium | [#246](https://github.com/Devasy/splitwiser/pull/246) |
-| enhance: Add global error boundary with retry and theme support | Medium | [#245](https://github.com/Devasy/splitwiser/pull/245) |
-| Add global Error Boundary with dual-theme support | Medium | [#244](https://github.com/Devasy/splitwiser/pull/244) |
-| Add Global Error Boundary with Retry Mechanism | Medium | [#243](https://github.com/Devasy/splitwiser/pull/243) |
-| Add Global Error Boundary with dual-theme support | Medium | [#242](https://github.com/Devasy/splitwiser/pull/242) |
-| enhance: Add error boundary with retry mechanism | Medium | [#241](https://github.com/Devasy/splitwiser/pull/241) |
-| Add Global Error Boundary to Web App | Medium | [#240](https://github.com/Devasy/splitwiser/pull/240) |
 | Implement Splitwise import functionality | Medium | [#239](https://github.com/Devasy/splitwiser/pull/239) |
 | Restore EAS configuration files | Medium | [#210](https://github.com/Devasy/splitwiser/pull/210) |
 | Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy/splitwiser/pull/209) |
 | Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy/splitwiser/issues/207) |
 | Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
+| pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
+| Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
+| Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
+| API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
+| Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy/splitwiser/pull/148) |
 
 ---
 
@@ -695,7 +681,6 @@ Schools, offices, and wellness centers looking to green their spaces
 |----------|----------------|---------|
 | Flight Alerts  Temporary Local Storage Support for store that in local browser | Easy | [#26](https://github.com/Dnyaneshpise/skywatch_alerts/issues/26) |
 | Adding a stars rating option on feedback form | Medium | [#95](https://github.com/Dnyaneshpise/skywatch_alerts/issues/95) |
-| Added Profile page with edit name feature | Medium | [#92](https://github.com/Dnyaneshpise/skywatch_alerts/pull/92) |
 | Initialize Community Chat feature: UI setup and Firebase config | Medium | [#90](https://github.com/Dnyaneshpise/skywatch_alerts/pull/90) |
 | Enhancement: Set Up Database to Store Alerts Data | Medium | [#87](https://github.com/Dnyaneshpise/skywatch_alerts/issues/87) |
 | Adding a chatbot on landing page | Medium | [#78](https://github.com/Dnyaneshpise/skywatch_alerts/issues/78) |
@@ -1438,6 +1423,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Unrealistic / Distracting Image Hover Effect | Easy | [#93](https://github.com/Sahilll94/Travel-Book/issues/93) |
 | Create `src/utils` Directory for Common Helper Functions | Easy | [#91](https://github.com/Sahilll94/Travel-Book/issues/91) |
+| [ FEATURE REQUEST ] - Add Travel Story Templates / Themes | Medium | [#117](https://github.com/Sahilll94/Travel-Book/issues/117) |
+| docs/feat: modernize footer and stats UI with glassmorphism and animations | Medium | [#116](https://github.com/Sahilll94/Travel-Book/pull/116) |
 | Story content disappears after switching tabs (Story ↔ Photos) | Medium | [#114](https://github.com/Sahilll94/Travel-Book/issues/114) |
 | Add descriptive alt text to landing page images | Medium | [#113](https://github.com/Sahilll94/Travel-Book/pull/113) |
 | Enhance Footer UI for Better Visual Hierarchy and Modern Look | Medium | [#111](https://github.com/Sahilll94/Travel-Book/pull/111) |
@@ -1449,7 +1436,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | A new improved UI for this project | Medium | [#97](https://github.com/Sahilll94/Travel-Book/issues/97) |
 | Performance | Medium | [#86](https://github.com/Sahilll94/Travel-Book/pull/86) |
 | Fix tooltip visibility issue in AI chatbot | Medium | [#83](https://github.com/Sahilll94/Travel-Book/pull/83) |
-| Automatically fetching the location based on the user input. | Medium | [#73](https://github.com/Sahilll94/Travel-Book/issues/73) |
 
 ---
 
@@ -2459,10 +2445,12 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| added my library option | Medium | [#263](https://github.com/IndieHub25/GroqTales/pull/263) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | `[Feature] Creator onboarding checklist & guided tour` | Medium | [#228](https://github.com/IndieHub25/GroqTales/issues/228) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
+| Add containerized local development workflow using Docker & Docker Compose | Medium | [#195](https://github.com/IndieHub25/GroqTales/issues/195) |
 | `Security: Validate and rate limit story publishing & NFT minting endpoints` | Hard | [#230](https://github.com/IndieHub25/GroqTales/issues/230) |
 | `[BIG] Personalized story discovery feed with AI recommendations` | Hard | [#229](https://github.com/IndieHub25/GroqTales/issues/229) |
 
@@ -2523,6 +2511,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Precautions Personalization for Sensitive Groups | Medium | [#123](https://github.com/prasoonk1204/BreatheEasy/pull/123) |
+| feat: Added issue template to improve issue reporting and contribution workflow | Medium | [#122](https://github.com/prasoonk1204/BreatheEasy/pull/122) |
+| AQI API Returns 400 Error for Valid City Input | Medium | [#121](https://github.com/prasoonk1204/BreatheEasy/issues/121) |
 | Community Impact Leaderboard & Action Gamification | Medium | [#119](https://github.com/prasoonk1204/BreatheEasy/issues/119) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
 | Secure map tiles using backend proxy with caching and rate limiting | Medium | [#114](https://github.com/prasoonk1204/BreatheEasy/pull/114) |
@@ -2780,6 +2771,7 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | DOC: Create testing documentation and basic test suite | Easy | [#243](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/243) |
+| fix: footer email link via env with toast fallback | Medium | [#245](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/245) |
 | Add comprehensive docstrings to backend functions | Medium | [#244](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/244) |
 | Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
@@ -2965,6 +2957,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Padding | Medium | [#395](https://github.com/code-well0/trip-planner/pull/395) |
+| Places Visited | Medium | [#394](https://github.com/code-well0/trip-planner/pull/394) |
 | Fix toast issue: consolidate ToastContainer in App.js | Medium | [#392](https://github.com/code-well0/trip-planner/pull/392) |
 
 ---
