@@ -215,10 +215,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump axios from 1.7.9 to 1.13.4 | Medium | [#254](https://github.com/Ojas-Arora/SapneSeSafar/pull/254) |
 | Bump framer-motion from 11.18.2 to 12.29.2 | Medium | [#253](https://github.com/Ojas-Arora/SapneSeSafar/pull/253) |
 | Bump react and @types/react | Medium | [#252](https://github.com/Ojas-Arora/SapneSeSafar/pull/252) |
 | Bump react-dom and @types/react-dom | Medium | [#251](https://github.com/Ojas-Arora/SapneSeSafar/pull/251) |
-| Bump axios from 1.7.9 to 1.13.3 | Medium | [#250](https://github.com/Ojas-Arora/SapneSeSafar/pull/250) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.93.1 | Medium | [#249](https://github.com/Ojas-Arora/SapneSeSafar/pull/249) |
 | Bump react-router-dom from 6.28.2 to 7.13.0 | Medium | [#248](https://github.com/Ojas-Arora/SapneSeSafar/pull/248) |
 | Bump lucide-react from 0.344.0 to 0.563.0 | Medium | [#246](https://github.com/Ojas-Arora/SapneSeSafar/pull/246) |
