@@ -252,32 +252,30 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix LogoCarousel memory leak: innerHTML duplication without cleanup (reopened) | Medium | [#3583](https://github.com/OWASP/Nest/issues/3583) |
+| docs: add backend, frontend, schema, and SDK overviews | Easy | [#3603](https://github.com/OWASP/Nest/pull/3603) |
+| Migrate e2e tests to use backend instead of mock data | Easy | [#3591](https://github.com/OWASP/Nest/pull/3591) |
+| Improve Test Coverage for Low-Coverage Backend Files | Medium | [#3607](https://github.com/OWASP/Nest/issues/3607) |
+| feat(about): combine separate GraphQL queries into single request | Medium | [#3604](https://github.com/OWASP/Nest/pull/3604) |
+| Add published releases as first-class Project relation | Medium | [#3602](https://github.com/OWASP/Nest/pull/3602) |
+| Add race-safe async data fetching for board candidates chapters/projects | Medium | [#3598](https://github.com/OWASP/Nest/issues/3598) |
+| Prevent state updates after unmount in member heatmap page | Medium | [#3597](https://github.com/OWASP/Nest/issues/3597) |
+| Add descriptive messages to PermissionDenied in mentorship module mutations | Medium | [#3596](https://github.com/OWASP/Nest/issues/3596) |
+| Add Sort by option for programs on Mentorship page | Medium | [#3593](https://github.com/OWASP/Nest/issues/3593) |
+| fix: validate URL netloc contains alphanumeric characters | Medium | [#3588](https://github.com/OWASP/Nest/pull/3588) |
 | Migrate Project pull_requests to M2M and remove computed property | Medium | [#3582](https://github.com/OWASP/Nest/pull/3582) |
 | Add tests for `frontend` module | Medium | [#3581](https://github.com/OWASP/Nest/pull/3581) |
 | Regex-based Markdown parsing fails on valid Markdown structures | Medium | [#3579](https://github.com/OWASP/Nest/issues/3579) |
 | Added M2M issues and project field for better performance | Medium | [#3578](https://github.com/OWASP/Nest/pull/3578) |
 | Avoid accessing Django database settings at import time | Medium | [#3577](https://github.com/OWASP/Nest/issues/3577) |
 | Leader list is truncated on smaller viewports (in project details page), causing information loss | Medium | [#3575](https://github.com/OWASP/Nest/issues/3575) |
-| Pagination for Pull Requests | Medium | [#3573](https://github.com/OWASP/Nest/issues/3573) |
-| Show deadline labels on the issues list and add a way to filter by deadline state | Medium | [#3571](https://github.com/OWASP/Nest/issues/3571) |
 | Add CSV/JSON export functionality for filtered project issues | Medium | [#3570](https://github.com/OWASP/Nest/issues/3570) |
 | Admin docstrings | Medium | [#3569](https://github.com/OWASP/Nest/pull/3569) |
 | Fix inconsistent Label component UI with ActionButtons | Medium | [#3568](https://github.com/OWASP/Nest/issues/3568) |
 | Refactor/mentee node strawberry django | Medium | [#3564](https://github.com/OWASP/Nest/pull/3564) |
-| Add image extraction support for NestBot AI assistant | Medium | [#3563](https://github.com/OWASP/Nest/pull/3563) |
+| feat(nestbot): Add image extraction support for NestBot AI assistant | Medium | [#3563](https://github.com/OWASP/Nest/pull/3563) |
 | UI/A11y: Inconsistent and clipped focus-visible outlines across Header and Footer | Medium | [#3561](https://github.com/OWASP/Nest/issues/3561) |
 | Migrate Project pull_requests property to M2M relation field | Medium | [#3560](https://github.com/OWASP/Nest/pull/3560) |
 | CI: Add backend model graph generation job | Medium | [#3559](https://github.com/OWASP/Nest/pull/3559) |
-| Fix sonar Issue : Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3557](https://github.com/OWASP/Nest/issues/3557) |
-| Refactor and simplify Event.parse_dates for improved readability and maintainability | Medium | [#3556](https://github.com/OWASP/Nest/issues/3556) |
-| Fix Sonar issue: Remove redundant type assertion (typescript:S4325) | Medium | [#3554](https://github.com/OWASP/Nest/issues/3554) |
-| Fix setTimeout without cleanup in mentorship form pages | Medium | [#3553](https://github.com/OWASP/Nest/issues/3553) |
-| Optimize GraphQL resolvers: Add missing select_related/prefetch_related to prevent N+1 queries | Medium | [#3552](https://github.com/OWASP/Nest/issues/3552) |
-| Add cleanup to async useEffect hooks to prevent memory leaks and race conditions | Medium | [#3551](https://github.com/OWASP/Nest/issues/3551) |
-| Migrated project issue to m2m field | Medium | [#3547](https://github.com/OWASP/Nest/pull/3547) |
-| Introduce ESLint rule to discourage unsafe as assertions with useParams() | Medium | [#3539](https://github.com/OWASP/Nest/issues/3539) |
-| Bug : fix loading spinner logic for program edit, module edit | Medium | [#3538](https://github.com/OWASP/Nest/issues/3538) |
 
 ---
 
@@ -296,8 +294,6 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
-| Add back button to project detail page | Medium | [#1371](https://github.com/Code-A2Z/code-a2z/pull/1371) |
-| Add Forgot Password link on Sign In page | Medium | [#1370](https://github.com/Code-A2Z/code-a2z/pull/1370) |
 | Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
@@ -533,6 +529,10 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
+| fix: dark mode text visibility and bgImage undefined error | Medium | [#201](https://github.com/Dipanita45/HEALCONNECT/pull/201) |
+| Fix/header-hero sections | Medium | [#200](https://github.com/Dipanita45/HEALCONNECT/pull/200) |
+| Add search & filter for appointments | Medium | [#196](https://github.com/Dipanita45/HEALCONNECT/issues/196) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -1923,6 +1923,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Precautions Personalization for Sensitive Groups | Medium | [#123](https://github.com/prasoonk1204/BreatheEasy/pull/123) |
+| feat: Added issue template to improve issue reporting and contribution workflow | Medium | [#122](https://github.com/prasoonk1204/BreatheEasy/pull/122) |
+| AQI API Returns 400 Error for Valid City Input | Medium | [#121](https://github.com/prasoonk1204/BreatheEasy/issues/121) |
 | Community Impact Leaderboard & Action Gamification | Medium | [#119](https://github.com/prasoonk1204/BreatheEasy/issues/119) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
 | Secure map tiles using backend proxy with caching and rate limiting | Medium | [#114](https://github.com/prasoonk1204/BreatheEasy/pull/114) |
@@ -2072,6 +2075,7 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | DOC: Create testing documentation and basic test suite | Easy | [#243](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/243) |
+| fix: footer email link via env with toast fallback | Medium | [#245](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/245) |
 | Add comprehensive docstrings to backend functions | Medium | [#244](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/244) |
 | Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
@@ -2260,10 +2264,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| build(deps): bump next from 16.0.10 to 16.1.5 | Medium | [#106](https://github.com/dscnitrourkela/project-huckleberry/pull/106) |
 | build(deps): bump lodash from 4.17.21 to 4.17.23 | Medium | [#105](https://github.com/dscnitrourkela/project-huckleberry/pull/105) |
 | build(deps): bump glob from 10.4.5 to 13.0.0 | Medium | [#103](https://github.com/dscnitrourkela/project-huckleberry/pull/103) |
 | build(deps): bump qs from 6.14.0 to 6.14.1 | Medium | [#101](https://github.com/dscnitrourkela/project-huckleberry/pull/101) |
-| build(deps): bump next from 15.3.1 to 15.4.9 | Medium | [#100](https://github.com/dscnitrourkela/project-huckleberry/pull/100) |
 | build(deps): bump @modelcontextprotocol/sdk from 1.11.0 to 1.24.0 | Medium | [#98](https://github.com/dscnitrourkela/project-huckleberry/pull/98) |
 | build(deps): bump express from 5.1.0 to 5.2.1 | Medium | [#97](https://github.com/dscnitrourkela/project-huckleberry/pull/97) |
 | build(deps): bump js-yaml from 4.1.0 to 4.1.1 | Medium | [#95](https://github.com/dscnitrourkela/project-huckleberry/pull/95) |
@@ -2314,8 +2318,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add floating “Scroll to Top” button for better user experience | Medium | [#127](https://github.com/subhadeeproy3902/mvpblocks/issues/127) |
-| Replace outdated Twitter logo with X branding in Footer | Medium | [#126](https://github.com/subhadeeproy3902/mvpblocks/pull/126) |
+| Bump next from 15.4.9 to 15.5.10 | Medium | [#130](https://github.com/subhadeeproy3902/mvpblocks/pull/130) |
+| updating readme according to the new features implemented | Medium | [#129](https://github.com/subhadeeproy3902/mvpblocks/issues/129) |
 | <Auto Layout Optimization> | Medium | [#124](https://github.com/subhadeeproy3902/mvpblocks/issues/124) |
 | Add glass gradient hero section | Medium | [#116](https://github.com/subhadeeproy3902/mvpblocks/pull/116) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
