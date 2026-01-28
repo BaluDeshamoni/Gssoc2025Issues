@@ -44,8 +44,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
-| Add back button to project detail page | Medium | [#1371](https://github.com/Code-A2Z/code-a2z/pull/1371) |
-| Add Forgot Password link on Sign In page | Medium | [#1370](https://github.com/Code-A2Z/code-a2z/pull/1370) |
 | Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
