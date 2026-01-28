@@ -41,34 +41,24 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Confirmation Dialog System | Medium | [#263](https://github.com/Devasy/splitwiser/pull/263) |
-| Add Confirmation Dialog System | Medium | [#262](https://github.com/Devasy/splitwiser/pull/262) |
-| Enhance: Add confirmation dialog system for destructive actions | Medium | [#261](https://github.com/Devasy/splitwiser/pull/261) |
-| Replace window.confirm with custom ConfirmDialog | Medium | [#259](https://github.com/Devasy/splitwiser/pull/259) |
+| Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
+| <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
+| <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
+| <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
-| Confirmation Dialog System | Medium | [#256](https://github.com/Devasy/splitwiser/pull/256) |
-| Add Error Boundary with retry support | Medium | [#255](https://github.com/Devasy/splitwiser/pull/255) |
-| Add Global Error Boundary with Retry | Medium | [#254](https://github.com/Devasy/splitwiser/pull/254) |
-| Add Global Error Boundary with Retry Support | Medium | [#253](https://github.com/Devasy/splitwiser/pull/253) |
-| Add Global Error Boundary with Retry Mechanism | Medium | [#252](https://github.com/Devasy/splitwiser/pull/252) |
-| ux: Add global error boundary with dual-theme support | Medium | [#251](https://github.com/Devasy/splitwiser/pull/251) |
-| enhance: Add global error boundary with retry mechanism | Medium | [#250](https://github.com/Devasy/splitwiser/pull/250) |
 | ux: Add ErrorBoundary with retry for API failures | Medium | [#249](https://github.com/Devasy/splitwiser/pull/249) |
-| Add Error Boundary to Web App | Medium | [#248](https://github.com/Devasy/splitwiser/pull/248) |
-| enhance: Add error boundary with retry mechanism | Medium | [#247](https://github.com/Devasy/splitwiser/pull/247) |
-| Add Global Error Boundary with Retry Mechanism | Medium | [#246](https://github.com/Devasy/splitwiser/pull/246) |
-| enhance: Add global error boundary with retry and theme support | Medium | [#245](https://github.com/Devasy/splitwiser/pull/245) |
-| Add global Error Boundary with dual-theme support | Medium | [#244](https://github.com/Devasy/splitwiser/pull/244) |
-| Add Global Error Boundary with Retry Mechanism | Medium | [#243](https://github.com/Devasy/splitwiser/pull/243) |
-| Add Global Error Boundary with dual-theme support | Medium | [#242](https://github.com/Devasy/splitwiser/pull/242) |
-| enhance: Add error boundary with retry mechanism | Medium | [#241](https://github.com/Devasy/splitwiser/pull/241) |
-| Add Global Error Boundary to Web App | Medium | [#240](https://github.com/Devasy/splitwiser/pull/240) |
 | Implement Splitwise import functionality | Medium | [#239](https://github.com/Devasy/splitwiser/pull/239) |
 | Restore EAS configuration files | Medium | [#210](https://github.com/Devasy/splitwiser/pull/210) |
 | Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy/splitwiser/pull/209) |
 | Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy/splitwiser/issues/207) |
 | Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
+| pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
+| Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
+| Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
+| API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
+| Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy/splitwiser/pull/148) |
 
 ---
 
