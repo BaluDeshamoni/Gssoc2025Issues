@@ -205,26 +205,25 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix broken yield | Medium | [#1156](https://github.com/omroy07/AgriTech/pull/1156) |
-| Fixed broken links on disease detector page | Medium | [#1155](https://github.com/omroy07/AgriTech/pull/1155) |
-| Feat/jwt persistent auth | Medium | [#1154](https://github.com/omroy07/AgriTech/pull/1154) |
-| Feat/async pdf loan reports | Medium | [#1153](https://github.com/omroy07/AgriTech/pull/1153) |
-| feat: implement multilingual API support (i18n) for localized responses | Medium | [#1152](https://github.com/omroy07/AgriTech/pull/1152) |
+| Added common issues and fixes in readme | Medium | [#1169](https://github.com/omroy07/AgriTech/pull/1169) |
+| Refactor Mission Page for UI & Accessibility Improvements (#1139) | Medium | [#1168](https://github.com/omroy07/AgriTech/pull/1168) |
+| Implement Distributed Caching & API Query Optimization | Medium | [#1167](https://github.com/omroy07/AgriTech/issues/1167) |
+| Implement Multi-Language Support (i18n) for API & AI Responses | Medium | [#1166](https://github.com/omroy07/AgriTech/issues/1166) |
+| Implement Robust Role-Based Access Control (RBAC) | Medium | [#1165](https://github.com/omroy07/AgriTech/issues/1165) |
+| better box shadow effect on platform benefits | Medium | [#1160](https://github.com/omroy07/AgriTech/issues/1160) |
+| Better styling for abt section | Medium | [#1159](https://github.com/omroy07/AgriTech/issues/1159) |
+| Introduce shared domain schemas for core AgriTech entities | Medium | [#1158](https://github.com/omroy07/AgriTech/pull/1158) |
 | 🌗 Dark/Light Theme Toggle Works Only in Navbar | Medium | [#1148](https://github.com/omroy07/AgriTech/issues/1148) |
 | Footer Section | Medium | [#1147](https://github.com/omroy07/AgriTech/issues/1147) |
 | Add "Back to Home" Navigation on Contact Page | Medium | [#1146](https://github.com/omroy07/AgriTech/issues/1146) |
 | Make logo clickable to navigate to home page | Medium | [#1145](https://github.com/omroy07/AgriTech/pull/1145) |
 | Issue: Add Navigation Back to Home / Navbar/ Footer on Careers Page | Medium | [#1144](https://github.com/omroy07/AgriTech/issues/1144) |
 | Issue: Mission Page Needs UI & Accessibility Refactor | Medium | [#1139](https://github.com/omroy07/AgriTech/issues/1139) |
-| Fix responsiveness of disease detector page | Medium | [#1138](https://github.com/omroy07/AgriTech/pull/1138) |
 | Double Footer On the Home/Index Page | Medium | [#1121](https://github.com/omroy07/AgriTech/issues/1121) |
 | Fixed Navbar/Footer and Dark Mode Toggle Not Working on Community Page | Medium | [#1118](https://github.com/omroy07/AgriTech/issues/1118) |
 | Fix layout and styling of "Check Your Scheme Eligibility" form | Medium | [#1117](https://github.com/omroy07/AgriTech/issues/1117) |
 | <short description>Enhance the blog section | Medium | [#1116](https://github.com/omroy07/AgriTech/issues/1116) |
-| Async PDF Report Synthesis for Loan Eligibility Assessments | Medium | [#1111](https://github.com/omroy07/AgriTech/issues/1111) |
 | Homepage UI does not visually represent the agricultural domain | Medium | [#1109](https://github.com/omroy07/AgriTech/issues/1109) |
-| Dependency Management Issue | Medium | [#1098](https://github.com/omroy07/AgriTech/issues/1098) |
-| Code Organization Issue - Duplicate/Scattered Code | Medium | [#1097](https://github.com/omroy07/AgriTech/issues/1097) |
 
 ---
 
@@ -389,6 +388,7 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | DOC: Create testing documentation and basic test suite | Easy | [#243](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/243) |
+| fix: footer email link via env with toast fallback | Medium | [#245](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/245) |
 | Add comprehensive docstrings to backend functions | Medium | [#244](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/244) |
 | Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
