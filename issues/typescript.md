@@ -93,31 +93,30 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Docs: add security scanning guides and Makefile targets | Easy | [#3525](https://github.com/OWASP/Nest/pull/3525) |
-| Incorrect use of ObjectDoesNotExist with keyword arguments causes TypeError | Medium | [#3562](https://github.com/OWASP/Nest/issues/3562) |
+| docs: add backend, frontend, schema, and SDK overviews | Easy | [#3603](https://github.com/OWASP/Nest/pull/3603) |
+| Migrate e2e tests to use backend instead of mock data | Easy | [#3591](https://github.com/OWASP/Nest/pull/3591) |
+| Improve Test Coverage for Low-Coverage Backend Files | Medium | [#3607](https://github.com/OWASP/Nest/issues/3607) |
+| feat(about): combine separate GraphQL queries into single request | Medium | [#3604](https://github.com/OWASP/Nest/pull/3604) |
+| Add published releases as first-class Project relation | Medium | [#3602](https://github.com/OWASP/Nest/pull/3602) |
+| Add race-safe async data fetching for board candidates chapters/projects | Medium | [#3598](https://github.com/OWASP/Nest/issues/3598) |
+| Prevent state updates after unmount in member heatmap page | Medium | [#3597](https://github.com/OWASP/Nest/issues/3597) |
+| Add descriptive messages to PermissionDenied in mentorship module mutations | Medium | [#3596](https://github.com/OWASP/Nest/issues/3596) |
+| Add Sort by option for programs on Mentorship page | Medium | [#3593](https://github.com/OWASP/Nest/issues/3593) |
+| fix: validate URL netloc contains alphanumeric characters | Medium | [#3588](https://github.com/OWASP/Nest/pull/3588) |
+| Migrate Project pull_requests to M2M and remove computed property | Medium | [#3582](https://github.com/OWASP/Nest/pull/3582) |
+| Add tests for `frontend` module | Medium | [#3581](https://github.com/OWASP/Nest/pull/3581) |
+| Regex-based Markdown parsing fails on valid Markdown structures | Medium | [#3579](https://github.com/OWASP/Nest/issues/3579) |
+| Added M2M issues and project field for better performance | Medium | [#3578](https://github.com/OWASP/Nest/pull/3578) |
+| Avoid accessing Django database settings at import time | Medium | [#3577](https://github.com/OWASP/Nest/issues/3577) |
+| Leader list is truncated on smaller viewports (in project details page), causing information loss | Medium | [#3575](https://github.com/OWASP/Nest/issues/3575) |
+| Add CSV/JSON export functionality for filtered project issues | Medium | [#3570](https://github.com/OWASP/Nest/issues/3570) |
+| Admin docstrings | Medium | [#3569](https://github.com/OWASP/Nest/pull/3569) |
+| Fix inconsistent Label component UI with ActionButtons | Medium | [#3568](https://github.com/OWASP/Nest/issues/3568) |
+| Refactor/mentee node strawberry django | Medium | [#3564](https://github.com/OWASP/Nest/pull/3564) |
+| feat(nestbot): Add image extraction support for NestBot AI assistant | Medium | [#3563](https://github.com/OWASP/Nest/pull/3563) |
 | UI/A11y: Inconsistent and clipped focus-visible outlines across Header and Footer | Medium | [#3561](https://github.com/OWASP/Nest/issues/3561) |
 | Migrate Project pull_requests property to M2M relation field | Medium | [#3560](https://github.com/OWASP/Nest/pull/3560) |
 | CI: Add backend model graph generation job | Medium | [#3559](https://github.com/OWASP/Nest/pull/3559) |
-| the Header layout breaks in mid-large screen widths | Medium | [#3558](https://github.com/OWASP/Nest/issues/3558) |
-| Fix sonar Issue : Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3557](https://github.com/OWASP/Nest/issues/3557) |
-| Refactor and simplify Event.parse_dates for improved readability and maintainability | Medium | [#3556](https://github.com/OWASP/Nest/issues/3556) |
-| Fix Sonar issue: Remove redundant type assertion (typescript:S4325) | Medium | [#3554](https://github.com/OWASP/Nest/issues/3554) |
-| Fix setTimeout without cleanup in mentorship form pages | Medium | [#3553](https://github.com/OWASP/Nest/issues/3553) |
-| Optimize GraphQL resolvers: Add missing select_related/prefetch_related to prevent N+1 queries | Medium | [#3552](https://github.com/OWASP/Nest/issues/3552) |
-| Add cleanup to async useEffect hooks to prevent memory leaks and race conditions | Medium | [#3551](https://github.com/OWASP/Nest/issues/3551) |
-| Migrated project issue to m2m field | Medium | [#3547](https://github.com/OWASP/Nest/pull/3547) |
-| Fix Redis password env var in local Docker Compose | Medium | [#3541](https://github.com/OWASP/Nest/issues/3541) |
-| Introduce ESLint rule to discourage unsafe as assertions with useParams() | Medium | [#3539](https://github.com/OWASP/Nest/issues/3539) |
-| Bug : fix loading spinner logic for program edit, module edit | Medium | [#3538](https://github.com/OWASP/Nest/issues/3538) |
-| Added posthog integration | Medium | [#3537](https://github.com/OWASP/Nest/pull/3537) |
-| Add Recent Searches to improve the search experience | Medium | [#3536](https://github.com/OWASP/Nest/issues/3536) |
-| Bug: URL validation accepts malformed URLs with invalid netloc | Medium | [#3535](https://github.com/OWASP/Nest/issues/3535) |
-| fix: ensure deterministic sorting for program admins | Medium | [#3530](https://github.com/OWASP/Nest/pull/3530) |
-| Rework backend/frontend exception handling for data validation errors | Medium | [#3529](https://github.com/OWASP/Nest/issues/3529) |
-| Improve and fill gaps in project documentation | Medium | [#3528](https://github.com/OWASP/Nest/issues/3528) |
-| Implement Scalable Search API for Domain and Taxonomy Autocomplete | Medium | [#3527](https://github.com/OWASP/Nest/issues/3527) |
-| feat(mentorship): add validation for tags and domains | Medium | [#3526](https://github.com/OWASP/Nest/pull/3526) |
-| Add Task-Level Admin Functionality | Medium | [#3524](https://github.com/OWASP/Nest/issues/3524) |
 
 ---
 
@@ -1015,16 +1014,12 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| `[Task] Add centralized logging & request tracing for backend services` | Easy | [#233](https://github.com/IndieHub25/GroqTales/issues/233) |
-| `[Accessibility] Improve keyboard navigation and ARIA roles across main layout` | Easy | [#231](https://github.com/IndieHub25/GroqTales/issues/231) |
-| Genre Filter Dropdown Styling Not Matching Site Theme | Medium | [#237](https://github.com/IndieHub25/GroqTales/issues/237) |
-| Community Dropdown UI Overlaps & Obstructs Content | Medium | [#236](https://github.com/IndieHub25/GroqTales/issues/236) |
+| added my library option | Medium | [#263](https://github.com/IndieHub25/GroqTales/pull/263) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | `[Feature] Creator onboarding checklist & guided tour` | Medium | [#228](https://github.com/IndieHub25/GroqTales/issues/228) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| nav menu transparent background color | Medium | [#216](https://github.com/IndieHub25/GroqTales/issues/216) |
-| Investigate & fix failing workflows when “Approve and run” is used | Medium | [#200](https://github.com/IndieHub25/GroqTales/issues/200) |
+| Add containerized local development workflow using Docker & Docker Compose | Medium | [#195](https://github.com/IndieHub25/GroqTales/issues/195) |
 | `Security: Validate and rate limit story publishing & NFT minting endpoints` | Hard | [#230](https://github.com/IndieHub25/GroqTales/issues/230) |
 | `[BIG] Personalized story discovery feed with AI recommendations` | Hard | [#229](https://github.com/IndieHub25/GroqTales/issues/229) |
 
@@ -1110,10 +1105,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump axios from 1.7.9 to 1.13.4 | Medium | [#254](https://github.com/Ojas-Arora/SapneSeSafar/pull/254) |
+| Bump framer-motion from 11.18.2 to 12.29.2 | Medium | [#253](https://github.com/Ojas-Arora/SapneSeSafar/pull/253) |
+| Bump react and @types/react | Medium | [#252](https://github.com/Ojas-Arora/SapneSeSafar/pull/252) |
+| Bump react-dom and @types/react-dom | Medium | [#251](https://github.com/Ojas-Arora/SapneSeSafar/pull/251) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.93.1 | Medium | [#249](https://github.com/Ojas-Arora/SapneSeSafar/pull/249) |
 | Bump react-router-dom from 6.28.2 to 7.13.0 | Medium | [#248](https://github.com/Ojas-Arora/SapneSeSafar/pull/248) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.91.1 | Medium | [#247](https://github.com/Ojas-Arora/SapneSeSafar/pull/247) |
 | Bump lucide-react from 0.344.0 to 0.563.0 | Medium | [#246](https://github.com/Ojas-Arora/SapneSeSafar/pull/246) |
-| Bump framer-motion from 11.18.2 to 12.29.0 | Medium | [#245](https://github.com/Ojas-Arora/SapneSeSafar/pull/245) |
 | Bump recharts from 2.15.0 to 3.7.0 | Medium | [#244](https://github.com/Ojas-Arora/SapneSeSafar/pull/244) |
 | Bump zustand from 4.5.6 to 5.0.10 | Medium | [#237](https://github.com/Ojas-Arora/SapneSeSafar/pull/237) |
 | Bump @libsql/client from 0.5.6 to 0.17.0 | Medium | [#232](https://github.com/Ojas-Arora/SapneSeSafar/pull/232) |
@@ -1122,12 +1120,9 @@ Fast Workflow Tools
 | Bump eslint from 9.12.0 to 9.39.2 | Medium | [#222](https://github.com/Ojas-Arora/SapneSeSafar/pull/222) |
 | Bump autoprefixer from 10.4.20 to 10.4.23 | Medium | [#220](https://github.com/Ojas-Arora/SapneSeSafar/pull/220) |
 | Bump @types/papaparse from 5.3.16 to 5.5.2 | Medium | [#219](https://github.com/Ojas-Arora/SapneSeSafar/pull/219) |
-| Bump react and @types/react | Medium | [#214](https://github.com/Ojas-Arora/SapneSeSafar/pull/214) |
-| Bump react-dom and @types/react-dom | Medium | [#213](https://github.com/Ojas-Arora/SapneSeSafar/pull/213) |
 | Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
 | Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.2 | Medium | [#204](https://github.com/Ojas-Arora/SapneSeSafar/pull/204) |
-| Bump axios from 1.7.9 to 1.13.2 | Medium | [#167](https://github.com/Ojas-Arora/SapneSeSafar/pull/167) |
 | Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
@@ -1304,7 +1299,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Replace outdated Twitter logo with X branding in Footer | Medium | [#126](https://github.com/subhadeeproy3902/mvpblocks/pull/126) |
+| Bump next from 15.4.9 to 15.5.10 | Medium | [#130](https://github.com/subhadeeproy3902/mvpblocks/pull/130) |
+| updating readme according to the new features implemented | Medium | [#129](https://github.com/subhadeeproy3902/mvpblocks/issues/129) |
 | <Auto Layout Optimization> | Medium | [#124](https://github.com/subhadeeproy3902/mvpblocks/issues/124) |
 | Add glass gradient hero section | Medium | [#116](https://github.com/subhadeeproy3902/mvpblocks/pull/116) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
