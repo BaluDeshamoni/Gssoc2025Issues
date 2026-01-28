@@ -137,6 +137,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add table of content for better navigation in Readme.md | Medium | [#68](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/68) |
 | Add Form Validation and User-Friendly Error Messages to Patient & Appointment Forms | Medium | [#67](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/67) |
 | Add smart appointment slot suggestion feature | Medium | [#66](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/66) |
 | fix: resolve concurrency issue in appointment booking (double-booking fix) | Medium | [#65](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/65) |
