@@ -418,10 +418,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Want to enchance the ui of home page | Medium | [#204](https://github.com/Dipanita45/HEALCONNECT/issues/204) |
 | Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
-| fix: dark mode text visibility and bgImage undefined error | Medium | [#201](https://github.com/Dipanita45/HEALCONNECT/pull/201) |
-| Fix/header-hero sections | Medium | [#200](https://github.com/Dipanita45/HEALCONNECT/pull/200) |
-| Add search & filter for appointments | Medium | [#196](https://github.com/Dipanita45/HEALCONNECT/issues/196) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -727,8 +725,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added common issues and fixes in readme | Medium | [#1169](https://github.com/omroy07/AgriTech/pull/1169) |
-| Refactor Mission Page for UI & Accessibility Improvements (#1139) | Medium | [#1168](https://github.com/omroy07/AgriTech/pull/1168) |
+| Issue: Hamburger Menu Not Working on Small Devices Scheme Page | Medium | [#1174](https://github.com/omroy07/AgriTech/issues/1174) |
+| Issue: Hamburger Menu Not Working on Small Devices Blog Page | Medium | [#1173](https://github.com/omroy07/AgriTech/issues/1173) |
 | Implement Distributed Caching & API Query Optimization | Medium | [#1167](https://github.com/omroy07/AgriTech/issues/1167) |
 | Implement Multi-Language Support (i18n) for API & AI Responses | Medium | [#1166](https://github.com/omroy07/AgriTech/issues/1166) |
 | Implement Robust Role-Based Access Control (RBAC) | Medium | [#1165](https://github.com/omroy07/AgriTech/issues/1165) |
@@ -745,7 +743,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fixed Navbar/Footer and Dark Mode Toggle Not Working on Community Page | Medium | [#1118](https://github.com/omroy07/AgriTech/issues/1118) |
 | Fix layout and styling of "Check Your Scheme Eligibility" form | Medium | [#1117](https://github.com/omroy07/AgriTech/issues/1117) |
 | <short description>Enhance the blog section | Medium | [#1116](https://github.com/omroy07/AgriTech/issues/1116) |
-| Homepage UI does not visually represent the agricultural domain | Medium | [#1109](https://github.com/omroy07/AgriTech/issues/1109) |
 
 ---
 
@@ -1103,6 +1100,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | chore: bump prettier from 3.6.2 to 3.8.1 | Easy | [#1270](https://github.com/recodehive/recode-website/pull/1270) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
@@ -2034,7 +2032,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added my library option | Medium | [#263](https://github.com/IndieHub25/GroqTales/pull/263) |
+| docs: clarify issue labels, templates, and contribution workflow | Easy | [#266](https://github.com/IndieHub25/GroqTales/pull/266) |
+| Enhance README with program structure and UI elements | Medium | [#269](https://github.com/IndieHub25/GroqTales/issues/269) |
+| Adding NFT marketplace routes | Medium | [#268](https://github.com/IndieHub25/GroqTales/issues/268) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | `[Feature] Creator onboarding checklist & guided tour` | Medium | [#228](https://github.com/IndieHub25/GroqTales/issues/228) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
@@ -2119,11 +2119,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump @supabase/supabase-js from 2.50.2 to 2.93.2 | Medium | [#255](https://github.com/Ojas-Arora/SapneSeSafar/pull/255) |
 | Bump axios from 1.7.9 to 1.13.4 | Medium | [#254](https://github.com/Ojas-Arora/SapneSeSafar/pull/254) |
 | Bump framer-motion from 11.18.2 to 12.29.2 | Medium | [#253](https://github.com/Ojas-Arora/SapneSeSafar/pull/253) |
 | Bump react and @types/react | Medium | [#252](https://github.com/Ojas-Arora/SapneSeSafar/pull/252) |
 | Bump react-dom and @types/react-dom | Medium | [#251](https://github.com/Ojas-Arora/SapneSeSafar/pull/251) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.93.1 | Medium | [#249](https://github.com/Ojas-Arora/SapneSeSafar/pull/249) |
 | Bump react-router-dom from 6.28.2 to 7.13.0 | Medium | [#248](https://github.com/Ojas-Arora/SapneSeSafar/pull/248) |
 | Bump lucide-react from 0.344.0 to 0.563.0 | Medium | [#246](https://github.com/Ojas-Arora/SapneSeSafar/pull/246) |
 | Bump recharts from 2.15.0 to 3.7.0 | Medium | [#244](https://github.com/Ojas-Arora/SapneSeSafar/pull/244) |
