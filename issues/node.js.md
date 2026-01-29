@@ -1492,7 +1492,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added my library option | Medium | [#263](https://github.com/IndieHub25/GroqTales/pull/263) |
+| docs: clarify issue labels, templates, and contribution workflow | Easy | [#266](https://github.com/IndieHub25/GroqTales/pull/266) |
+| Enhance README with program structure and UI elements | Medium | [#269](https://github.com/IndieHub25/GroqTales/issues/269) |
+| Adding NFT marketplace routes | Medium | [#268](https://github.com/IndieHub25/GroqTales/issues/268) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | `[Feature] Creator onboarding checklist & guided tour` | Medium | [#228](https://github.com/IndieHub25/GroqTales/issues/228) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
@@ -1595,8 +1597,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Precautions Personalization for Sensitive Groups | Medium | [#123](https://github.com/prasoonk1204/BreatheEasy/pull/123) |
-| feat: Added issue template to improve issue reporting and contribution workflow | Medium | [#122](https://github.com/prasoonk1204/BreatheEasy/pull/122) |
-| AQI API Returns 400 Error for Valid City Input | Medium | [#121](https://github.com/prasoonk1204/BreatheEasy/issues/121) |
 | Community Impact Leaderboard & Action Gamification | Medium | [#119](https://github.com/prasoonk1204/BreatheEasy/issues/119) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
 | Secure map tiles using backend proxy with caching and rate limiting | Medium | [#114](https://github.com/prasoonk1204/BreatheEasy/pull/114) |
