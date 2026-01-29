@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI: Improve Streamlit onboarding, UX, and error handling | Medium | [#91](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/91) |
 | Enhancement: Add Loading Screen While Emotion Detection Model is Processing | Medium | [#90](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/90) |
 | Add temporal mood analytics engine and enhanced Streamlit dashboard | Medium | [#89](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/89) |
 | Add Temporal Mood Tracking and Energy Analytics Dashboard | Medium | [#88](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/88) |
