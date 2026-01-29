@@ -212,29 +212,25 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | docs: add backend, frontend, schema, and SDK overviews | Easy | [#3603](https://github.com/OWASP/Nest/pull/3603) |
-| Migrate e2e tests to use backend instead of mock data | Easy | [#3591](https://github.com/OWASP/Nest/pull/3591) |
-| Improve Test Coverage for Low-Coverage Backend Files | Medium | [#3607](https://github.com/OWASP/Nest/issues/3607) |
+| Fix: avoid passing function reference directly to map() in ContributePage | Medium | [#3641](https://github.com/OWASP/Nest/pull/3641) |
+| Core Notification Infrastructure & Snapshot Triggers | Medium | [#3637](https://github.com/OWASP/Nest/issues/3637) |
+| fix: replace role='status' with semantic <output> element in CardSkeleton (S6819) | Medium | [#3636](https://github.com/OWASP/Nest/pull/3636) |
+| race conditions could result in more api keys created for a user than is allowed | Medium | [#3634](https://github.com/OWASP/Nest/issues/3634) |
+| Enhance mentorship UI with breadcrumb improvements and issues link | Medium | [#3632](https://github.com/OWASP/Nest/pull/3632) |
+| feat: increase backend test coverage to 87% | Medium | [#3631](https://github.com/OWASP/Nest/pull/3631) |
+| Regex error message in validate_query doesn't include periods | Medium | [#3630](https://github.com/OWASP/Nest/issues/3630) |
+| fix: remove redundant type assertion (S4325) | Medium | [#3628](https://github.com/OWASP/Nest/pull/3628) |
+| Add tests for `networking` module and sub-modules | Medium | [#3627](https://github.com/OWASP/Nest/pull/3627) |
+| feat: optimize the about page queries | Medium | [#3626](https://github.com/OWASP/Nest/pull/3626) |
+| Add missing useEffect cleanup functions to prevent memory leaks | Medium | [#3624](https://github.com/OWASP/Nest/issues/3624) |
+| fix: make Recent Milestones section responsive on mobile | Medium | [#3617](https://github.com/OWASP/Nest/pull/3617) |
+| Optimize About page by combining multiple queries into a single request | Medium | [#3609](https://github.com/OWASP/Nest/pull/3609) |
+| feat: Enable Pagination for Pull Requests on Issue and Module Pages | Medium | [#3608](https://github.com/OWASP/Nest/pull/3608) |
 | feat(about): combine separate GraphQL queries into single request | Medium | [#3604](https://github.com/OWASP/Nest/pull/3604) |
 | Add published releases as first-class Project relation | Medium | [#3602](https://github.com/OWASP/Nest/pull/3602) |
 | Add race-safe async data fetching for board candidates chapters/projects | Medium | [#3598](https://github.com/OWASP/Nest/issues/3598) |
 | Prevent state updates after unmount in member heatmap page | Medium | [#3597](https://github.com/OWASP/Nest/issues/3597) |
-| Add descriptive messages to PermissionDenied in mentorship module mutations | Medium | [#3596](https://github.com/OWASP/Nest/issues/3596) |
 | Add Sort by option for programs on Mentorship page | Medium | [#3593](https://github.com/OWASP/Nest/issues/3593) |
-| fix: validate URL netloc contains alphanumeric characters | Medium | [#3588](https://github.com/OWASP/Nest/pull/3588) |
-| Migrate Project pull_requests to M2M and remove computed property | Medium | [#3582](https://github.com/OWASP/Nest/pull/3582) |
-| Add tests for `frontend` module | Medium | [#3581](https://github.com/OWASP/Nest/pull/3581) |
-| Regex-based Markdown parsing fails on valid Markdown structures | Medium | [#3579](https://github.com/OWASP/Nest/issues/3579) |
-| Added M2M issues and project field for better performance | Medium | [#3578](https://github.com/OWASP/Nest/pull/3578) |
-| Avoid accessing Django database settings at import time | Medium | [#3577](https://github.com/OWASP/Nest/issues/3577) |
-| Leader list is truncated on smaller viewports (in project details page), causing information loss | Medium | [#3575](https://github.com/OWASP/Nest/issues/3575) |
-| Add CSV/JSON export functionality for filtered project issues | Medium | [#3570](https://github.com/OWASP/Nest/issues/3570) |
-| Admin docstrings | Medium | [#3569](https://github.com/OWASP/Nest/pull/3569) |
-| Fix inconsistent Label component UI with ActionButtons | Medium | [#3568](https://github.com/OWASP/Nest/issues/3568) |
-| Refactor/mentee node strawberry django | Medium | [#3564](https://github.com/OWASP/Nest/pull/3564) |
-| feat(nestbot): Add image extraction support for NestBot AI assistant | Medium | [#3563](https://github.com/OWASP/Nest/pull/3563) |
-| UI/A11y: Inconsistent and clipped focus-visible outlines across Header and Footer | Medium | [#3561](https://github.com/OWASP/Nest/issues/3561) |
-| Migrate Project pull_requests property to M2M relation field | Medium | [#3560](https://github.com/OWASP/Nest/pull/3560) |
-| CI: Add backend model graph generation job | Medium | [#3559](https://github.com/OWASP/Nest/pull/3559) |
 
 ---
 
@@ -288,6 +284,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| style: Consistent hover/focus states | Medium | [#267](https://github.com/Devasy/splitwiser/pull/267) |
 | Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
 | ux: Add ErrorBoundary with retry for API failures | Medium | [#249](https://github.com/Devasy/splitwiser/pull/249) |
@@ -570,8 +567,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added common issues and fixes in readme | Medium | [#1169](https://github.com/omroy07/AgriTech/pull/1169) |
-| Refactor Mission Page for UI & Accessibility Improvements (#1139) | Medium | [#1168](https://github.com/omroy07/AgriTech/pull/1168) |
+| Issue: Hamburger Menu Not Working on Small Devices Scheme Page | Medium | [#1174](https://github.com/omroy07/AgriTech/issues/1174) |
+| Issue: Hamburger Menu Not Working on Small Devices Blog Page | Medium | [#1173](https://github.com/omroy07/AgriTech/issues/1173) |
 | Implement Distributed Caching & API Query Optimization | Medium | [#1167](https://github.com/omroy07/AgriTech/issues/1167) |
 | Implement Multi-Language Support (i18n) for API & AI Responses | Medium | [#1166](https://github.com/omroy07/AgriTech/issues/1166) |
 | Implement Robust Role-Based Access Control (RBAC) | Medium | [#1165](https://github.com/omroy07/AgriTech/issues/1165) |
@@ -588,7 +585,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Fixed Navbar/Footer and Dark Mode Toggle Not Working on Community Page | Medium | [#1118](https://github.com/omroy07/AgriTech/issues/1118) |
 | Fix layout and styling of "Check Your Scheme Eligibility" form | Medium | [#1117](https://github.com/omroy07/AgriTech/issues/1117) |
 | <short description>Enhance the blog section | Medium | [#1116](https://github.com/omroy07/AgriTech/issues/1116) |
-| Homepage UI does not visually represent the agricultural domain | Medium | [#1109](https://github.com/omroy07/AgriTech/issues/1109) |
 
 ---
 
@@ -820,8 +816,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 |----------|----------------|---------|
 | Create security.md file | Easy | [#637](https://github.com/eccentriccoder01/TalkHeal/issues/637) |
 | Typo in the word "Exercise" on the website | Easy | [#636](https://github.com/eccentriccoder01/TalkHeal/issues/636) |
+| Generate Exportable Therapy Progress Reports (PDF) | Medium | [#646](https://github.com/eccentriccoder01/TalkHeal/issues/646) |
+| Add Anonymous Peer Support Community Board | Medium | [#645](https://github.com/eccentriccoder01/TalkHeal/issues/645) |
 | Add User Onboarding / Guided Tour | Medium | [#644](https://github.com/eccentriccoder01/TalkHeal/issues/644) |
-|  | Medium | [#638](https://github.com/eccentriccoder01/TalkHeal/issues/638) |
 | Fix low color contrast to meet WCAG accessibility standards | Medium | [#634](https://github.com/eccentriccoder01/TalkHeal/issues/634) |
 
 ---
@@ -952,6 +949,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI: Improve Streamlit onboarding, UX, and error handling | Medium | [#91](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/91) |
 | Enhancement: Add Loading Screen While Emotion Detection Model is Processing | Medium | [#90](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/90) |
 | Add temporal mood analytics engine and enhanced Streamlit dashboard | Medium | [#89](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/89) |
 | Add Temporal Mood Tracking and Energy Analytics Dashboard | Medium | [#88](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/88) |
@@ -1575,7 +1573,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| added my library option | Medium | [#263](https://github.com/IndieHub25/GroqTales/pull/263) |
+| docs: clarify issue labels, templates, and contribution workflow | Easy | [#266](https://github.com/IndieHub25/GroqTales/pull/266) |
+| Enhance README with program structure and UI elements | Medium | [#269](https://github.com/IndieHub25/GroqTales/issues/269) |
+| Adding NFT marketplace routes | Medium | [#268](https://github.com/IndieHub25/GroqTales/issues/268) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | `[Feature] Creator onboarding checklist & guided tour` | Medium | [#228](https://github.com/IndieHub25/GroqTales/issues/228) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
@@ -1751,12 +1751,10 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | DOC: Create testing documentation and basic test suite | Easy | [#243](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/243) |
-| fix: footer email link via env with toast fallback | Medium | [#245](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/245) |
-| Add comprehensive docstrings to backend functions | Medium | [#244](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/244) |
+| Implemented React Components-242 | Medium | [#246](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/246) |
 | Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
-| FEATURE: Message Search Functionality | Medium | [#170](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/170) |
 
 ---
 
