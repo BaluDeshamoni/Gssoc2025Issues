@@ -398,6 +398,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Pull Request Template for Backend Quality Assurance | Medium | [#72](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/72) |
+| Add Structured Issue Templates for Backend & API Support | Medium | [#71](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/71) |
+| README Overhaul — Add System Architecture & API Visualizer | Medium | [#70](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/70) |
+| docs: update README with API details and project structure. | Medium | [#69](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/69) |
 | Add table of content for better navigation in Readme.md | Medium | [#68](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/68) |
 | Add Form Validation and User-Friendly Error Messages to Patient & Appointment Forms | Medium | [#67](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/67) |
 | Add smart appointment slot suggestion feature | Medium | [#66](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/66) |
@@ -425,7 +429,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Easy | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 | Phase - 1 Issue 4: Frontend Typography and Design System | Easy | [#13](https://github.com/dscnitrourkela/project-xangoes/issues/13) |
-| chore(deps): bump next from 15.3.5 to 15.4.8 in /client | Medium | [#22](https://github.com/dscnitrourkela/project-xangoes/pull/22) |
+| chore(deps): bump next from 15.3.5 to 16.1.5 in /client | Medium | [#23](https://github.com/dscnitrourkela/project-xangoes/pull/23) |
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Medium | [#20](https://github.com/dscnitrourkela/project-xangoes/pull/20) |
 | Login and Signup Page #9 | Medium | [#19](https://github.com/dscnitrourkela/project-xangoes/pull/19) |
 
