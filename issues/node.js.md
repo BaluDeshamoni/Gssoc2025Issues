@@ -182,6 +182,7 @@ Accessibility features like dark mode,white.
 | Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
+| 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/Code-A2Z/code-a2z/issues/1178) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
@@ -1347,7 +1348,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 |----------|----------------|---------|
 | Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Easy | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 | Phase - 1 Issue 4: Frontend Typography and Design System | Easy | [#13](https://github.com/dscnitrourkela/project-xangoes/issues/13) |
-| chore(deps): bump next from 15.3.5 to 15.4.8 in /client | Medium | [#22](https://github.com/dscnitrourkela/project-xangoes/pull/22) |
+| chore(deps): bump next from 15.3.5 to 16.1.5 in /client | Medium | [#23](https://github.com/dscnitrourkela/project-xangoes/pull/23) |
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Medium | [#20](https://github.com/dscnitrourkela/project-xangoes/pull/20) |
 | Login and Signup Page #9 | Medium | [#19](https://github.com/dscnitrourkela/project-xangoes/pull/19) |
 
@@ -1492,11 +1493,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: clarify issue labels, templates, and contribution workflow | Easy | [#266](https://github.com/IndieHub25/GroqTales/pull/266) |
-| Enhance README with program structure and UI elements | Medium | [#269](https://github.com/IndieHub25/GroqTales/issues/269) |
-| Adding NFT marketplace routes | Medium | [#268](https://github.com/IndieHub25/GroqTales/issues/268) |
+| Feature/draft recovery | Medium | [#272](https://github.com/IndieHub25/GroqTales/pull/272) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
-| `[Feature] Creator onboarding checklist & guided tour` | Medium | [#228](https://github.com/IndieHub25/GroqTales/issues/228) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
 | Add containerized local development workflow using Docker & Docker Compose | Medium | [#195](https://github.com/IndieHub25/GroqTales/issues/195) |
@@ -1596,6 +1594,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Technical Architecture & Visual Documentation | Medium | [#126](https://github.com/prasoonk1204/BreatheEasy/issues/126) |
+| Implement Standardized Pull Request Template for Full-Stack Validation | Medium | [#125](https://github.com/prasoonk1204/BreatheEasy/issues/125) |
+| Addition of Indian & a few Global languages using LanguagePicker & Language Modal buttons | Medium | [#124](https://github.com/prasoonk1204/BreatheEasy/issues/124) |
 | Precautions Personalization for Sensitive Groups | Medium | [#123](https://github.com/prasoonk1204/BreatheEasy/pull/123) |
 | Community Impact Leaderboard & Action Gamification | Medium | [#119](https://github.com/prasoonk1204/BreatheEasy/issues/119) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
