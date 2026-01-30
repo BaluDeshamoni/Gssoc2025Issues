@@ -802,25 +802,22 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added common issues and fixes in readme | Medium | [#1169](https://github.com/omroy07/AgriTech/pull/1169) |
-| Refactor Mission Page for UI & Accessibility Improvements (#1139) | Medium | [#1168](https://github.com/omroy07/AgriTech/pull/1168) |
-| Implement Distributed Caching & API Query Optimization | Medium | [#1167](https://github.com/omroy07/AgriTech/issues/1167) |
-| Implement Multi-Language Support (i18n) for API & AI Responses | Medium | [#1166](https://github.com/omroy07/AgriTech/issues/1166) |
-| Implement Robust Role-Based Access Control (RBAC) | Medium | [#1165](https://github.com/omroy07/AgriTech/issues/1165) |
+| Update Year on Weather Page | Medium | [#1199](https://github.com/omroy07/AgriTech/issues/1199) |
+| Update Year on Farmer Page | Medium | [#1198](https://github.com/omroy07/AgriTech/issues/1198) |
+| Update Year on Shopkeeper Page Footer/Header | Medium | [#1197](https://github.com/omroy07/AgriTech/issues/1197) |
+| Implement Real-Time Agri-Market Dynamic Pricing Engine & Intelligence… | Medium | [#1196](https://github.com/omroy07/AgriTech/pull/1196) |
+| Feature/disease outbreak gews 1192 | Medium | [#1195](https://github.com/omroy07/AgriTech/pull/1195) |
+| Feature/supply chain traceability 1193 | Medium | [#1194](https://github.com/omroy07/AgriTech/pull/1194) |
+| Feature/rbac security | Medium | [#1190](https://github.com/omroy07/AgriTech/pull/1190) |
+| Feature/multi language i18n | Medium | [#1188](https://github.com/omroy07/AgriTech/pull/1188) |
+| Implement distributed caching strategy with Redis, Weather API | Medium | [#1187](https://github.com/omroy07/AgriTech/pull/1187) |
+| UI: Enhance Shopkeepers Popup Modal for Improved UX | Medium | [#1185](https://github.com/omroy07/AgriTech/pull/1185) |
+| Fix broken links of organic page | Medium | [#1183](https://github.com/omroy07/AgriTech/pull/1183) |
+| fixed year on organic page | Medium | [#1182](https://github.com/omroy07/AgriTech/pull/1182) |
+| Issue: Hamburger Menu Not Working on Small Devices Scheme Page | Medium | [#1174](https://github.com/omroy07/AgriTech/issues/1174) |
+| Issue: Hamburger Menu Not Working on Small Devices Blog Page | Medium | [#1173](https://github.com/omroy07/AgriTech/issues/1173) |
 | better box shadow effect on platform benefits | Medium | [#1160](https://github.com/omroy07/AgriTech/issues/1160) |
 | Better styling for abt section | Medium | [#1159](https://github.com/omroy07/AgriTech/issues/1159) |
-| Introduce shared domain schemas for core AgriTech entities | Medium | [#1158](https://github.com/omroy07/AgriTech/pull/1158) |
-| 🌗 Dark/Light Theme Toggle Works Only in Navbar | Medium | [#1148](https://github.com/omroy07/AgriTech/issues/1148) |
-| Footer Section | Medium | [#1147](https://github.com/omroy07/AgriTech/issues/1147) |
-| Add "Back to Home" Navigation on Contact Page | Medium | [#1146](https://github.com/omroy07/AgriTech/issues/1146) |
-| Make logo clickable to navigate to home page | Medium | [#1145](https://github.com/omroy07/AgriTech/pull/1145) |
-| Issue: Add Navigation Back to Home / Navbar/ Footer on Careers Page | Medium | [#1144](https://github.com/omroy07/AgriTech/issues/1144) |
-| Issue: Mission Page Needs UI & Accessibility Refactor | Medium | [#1139](https://github.com/omroy07/AgriTech/issues/1139) |
-| Double Footer On the Home/Index Page | Medium | [#1121](https://github.com/omroy07/AgriTech/issues/1121) |
-| Fixed Navbar/Footer and Dark Mode Toggle Not Working on Community Page | Medium | [#1118](https://github.com/omroy07/AgriTech/issues/1118) |
-| Fix layout and styling of "Check Your Scheme Eligibility" form | Medium | [#1117](https://github.com/omroy07/AgriTech/issues/1117) |
-| <short description>Enhance the blog section | Medium | [#1116](https://github.com/omroy07/AgriTech/issues/1116) |
-| Homepage UI does not visually represent the agricultural domain | Medium | [#1109](https://github.com/omroy07/AgriTech/issues/1109) |
 
 ---
 
@@ -861,38 +858,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Add Mute/Unmute Toggle Button | Medium | [#3](https://github.com/Anjaliavv51/TuneCrate/issues/3) |
 | Improve UX: Scroll long Track titles in popup by continuous scrolling horizontally to view full name | Medium | [#2](https://github.com/Anjaliavv51/TuneCrate/issues/2) |
 | Improve Mobile & Chrome Extension View + UI Polish | Medium | [#1](https://github.com/Anjaliavv51/TuneCrate/issues/1) |
-
----
-
-## 📌 Project: EmailScript
-
-📝 **Description:** This project aims to develop a system that detects and blocks temporary or disposable email addresses in real time, helping websites and applications reduce spam, protect data integrity, and enhance user authentication.
-
-🔗 [View Project](https://www.github.com/EmailScript/EmailScript)
-
-💻 **Tech Stack:** HTML, CSS, JavaScript, Python, Flask
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Enhance UI/UX and Functionality: Loading Indicator, Clear Button, Improved Results, Detailed Info, and History | Medium | [#30](https://github.com/EmailScript/EmailScript/issues/30) |
-| Readme File is missing | Medium | [#29](https://github.com/EmailScript/EmailScript/issues/29) |
-| Readme is missing | Medium | [#27](https://github.com/EmailScript/EmailScript/issues/27) |
-| UI Revamp: Modern, Accessible & Responsive Design for Email Checker Interface | Medium | [#24](https://github.com/EmailScript/EmailScript/issues/24) |
-| 🚀 Add Loading Spinner During Email Validation API Call | Medium | [#23](https://github.com/EmailScript/EmailScript/issues/23) |
-| Add live character counter for subject and message feilds | Medium | [#21](https://github.com/EmailScript/EmailScript/issues/21) |
-| Enhance README with GSSoC Banner, Structure & Contribution Guide | Medium | [#20](https://github.com/EmailScript/EmailScript/pull/20) |
-| Feature Request : Add Email Validation and Error Handling | Medium | [#19](https://github.com/EmailScript/EmailScript/issues/19) |
-| Issue: Fix Broken Default Test in App.test.js | Medium | [#16](https://github.com/EmailScript/EmailScript/issues/16) |
-| Adding a proper README file | Medium | [#15](https://github.com/EmailScript/EmailScript/issues/15) |
-| javascript file | Medium | [#14](https://github.com/EmailScript/EmailScript/pull/14) |
-| Update README.md | Medium | [#13](https://github.com/EmailScript/EmailScript/pull/13) |
-| Improve false positive rate by ML tools | Medium | [#9](https://github.com/EmailScript/EmailScript/issues/9) |
-| Enhanced UI by adding navbar, footer, modern theme, dark/light mode toggle | Medium | [#8](https://github.com/EmailScript/EmailScript/pull/8) |
-| Email Health Score | Medium | [#7](https://github.com/EmailScript/EmailScript/issues/7) |
 
 ---
 
@@ -1144,11 +1109,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create security.md file | Easy | [#637](https://github.com/eccentriccoder01/TalkHeal/issues/637) |
 | Typo in the word "Exercise" on the website | Easy | [#636](https://github.com/eccentriccoder01/TalkHeal/issues/636) |
-| Add User Onboarding / Guided Tour | Medium | [#644](https://github.com/eccentriccoder01/TalkHeal/issues/644) |
-|  | Medium | [#638](https://github.com/eccentriccoder01/TalkHeal/issues/638) |
-| Fix low color contrast to meet WCAG accessibility standards | Medium | [#634](https://github.com/eccentriccoder01/TalkHeal/issues/634) |
 
 ---
 
@@ -1235,6 +1196,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | chore: bump prettier from 3.6.2 to 3.8.1 | Easy | [#1270](https://github.com/recodehive/recode-website/pull/1270) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
@@ -2763,24 +2725,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Improve Seeker page header, footer, and card layout | Medium | [#733](https://github.com/SurajSG23/Job-Portal/pull/733) |
 | fixed issue:Add Glassmorphic Effect to Navbar | Medium | [#732](https://github.com/SurajSG23/Job-Portal/pull/732) |
 | implemented search for saved-jobs | Medium | [#700](https://github.com/SurajSG23/Job-Portal/pull/700) |
-
----
-
-## 📌 Project: SweetCode
-
-📝 **Description:** SweetCode aims to create a community of students and professionals united by solving and practicing DSA questions in a gamified environment. In the long run, it would include a custom competitions, public forum, leaderboard and AI assistants that help students streamline theislr DSA practice. Its currently in its infant stage and is a Chrome extension designed to gamify your LeetCode practice sessions. It rewards you with social media usage time based on the difficulty of the LeetCode problems you solve. Once installed, SweetCode helps you stay productive by allowing limited access to social media websites until your time runs out. Your time allowance resets daily.
-
-🔗 [View Project](https://github.com/decodingafterlife/SweetCode)
-
-💻 **Tech Stack:** JavaScript, HTML, CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| changes for issue template | Medium | [#34](https://github.com/decodingafterlife/SweetCode/pull/34) |
 
 ---
 
