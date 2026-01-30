@@ -194,26 +194,31 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: add backend, frontend, schema, and SDK overviews | Easy | [#3603](https://github.com/OWASP/Nest/pull/3603) |
+| Fix: mentorship programs page responsive on smaller screens | Medium | [#3674](https://github.com/OWASP/Nest/pull/3674) |
+| Add bookmark/favorite support for projects and chapters | Medium | [#3671](https://github.com/OWASP/Nest/issues/3671) |
+| Prevent state updates after unmount in chapters page geoLocData fetch | Medium | [#3670](https://github.com/OWASP/Nest/issues/3670) |
+| Add rel="noopener noreferrer" to external Link in ItemCardList | Medium | [#3669](https://github.com/OWASP/Nest/issues/3669) |
+| Add descriptive message to PermissionDenied in update_program_status mutation | Medium | [#3668](https://github.com/OWASP/Nest/issues/3668) |
+| Fix Sonar S6582: Prefer optional chaining when accessing menu attributes | Medium | [#3667](https://github.com/OWASP/Nest/issues/3667) |
+| Optimize `latestRelease` field in `RepositoryNode` | Medium | [#3663](https://github.com/OWASP/Nest/issues/3663) |
+| Optimize `releases` field in `RepositoryNode` | Medium | [#3662](https://github.com/OWASP/Nest/issues/3662) |
+| Optimize `recentMilestones` field in `RepositoryNode` | Medium | [#3661](https://github.com/OWASP/Nest/issues/3661) |
+| Optimize `issues` field in `RepositoryNode` | Medium | [#3660](https://github.com/OWASP/Nest/issues/3660) |
+| Optimize `interestedUsers` field in `IssueNode` | Medium | [#3659](https://github.com/OWASP/Nest/issues/3659) |
+| Optimize `isMerged` field in `IssueNode` | Medium | [#3658](https://github.com/OWASP/Nest/issues/3658) |
+| Update the cache extension to not bypass the DjangoQueryOptimizer | Medium | [#3657](https://github.com/OWASP/Nest/issues/3657) |
+| feat: add keyboard navigation support to the EntityActions component | Medium | [#3656](https://github.com/OWASP/Nest/pull/3656) |
+| Fix type mismatch for create_chunks_and_embeddings.context used in tests (Sonar python:S5655) | Medium | [#3655](https://github.com/OWASP/Nest/issues/3655) |
+| Resolve python:S1845 naming clash between "state" and "State" in GitHub issue mixin | Medium | [#3654](https://github.com/OWASP/Nest/issues/3654) |
+| fix: remove redundant type assertion in EditProgramPage | Medium | [#3653](https://github.com/OWASP/Nest/pull/3653) |
+| chore: enable strict mode and refactor types | Medium | [#3652](https://github.com/OWASP/Nest/pull/3652) |
+| enhacements: Production/Staging Docker Compose Improvements | Medium | [#3646](https://github.com/OWASP/Nest/issues/3646) |
+| Fix: merge consecutive RUN instructions in frontend Dockerfile | Medium | [#3644](https://github.com/OWASP/Nest/pull/3644) |
+| Fixed Sonar issue Use <output> instead of the "status" role and Use N… | Medium | [#3642](https://github.com/OWASP/Nest/pull/3642) |
 | Fix: avoid passing function reference directly to map() in ContributePage | Medium | [#3641](https://github.com/OWASP/Nest/pull/3641) |
-| Core Notification Infrastructure & Snapshot Triggers | Medium | [#3637](https://github.com/OWASP/Nest/issues/3637) |
 | fix: replace role='status' with semantic <output> element in CardSkeleton (S6819) | Medium | [#3636](https://github.com/OWASP/Nest/pull/3636) |
 | race conditions could result in more api keys created for a user than is allowed | Medium | [#3634](https://github.com/OWASP/Nest/issues/3634) |
 | Enhance mentorship UI with breadcrumb improvements and issues link | Medium | [#3632](https://github.com/OWASP/Nest/pull/3632) |
-| feat: increase backend test coverage to 87% | Medium | [#3631](https://github.com/OWASP/Nest/pull/3631) |
-| Regex error message in validate_query doesn't include periods | Medium | [#3630](https://github.com/OWASP/Nest/issues/3630) |
-| fix: remove redundant type assertion (S4325) | Medium | [#3628](https://github.com/OWASP/Nest/pull/3628) |
-| Add tests for `networking` module and sub-modules | Medium | [#3627](https://github.com/OWASP/Nest/pull/3627) |
-| feat: optimize the about page queries | Medium | [#3626](https://github.com/OWASP/Nest/pull/3626) |
-| Add missing useEffect cleanup functions to prevent memory leaks | Medium | [#3624](https://github.com/OWASP/Nest/issues/3624) |
-| fix: make Recent Milestones section responsive on mobile | Medium | [#3617](https://github.com/OWASP/Nest/pull/3617) |
-| Optimize About page by combining multiple queries into a single request | Medium | [#3609](https://github.com/OWASP/Nest/pull/3609) |
-| feat: Enable Pagination for Pull Requests on Issue and Module Pages | Medium | [#3608](https://github.com/OWASP/Nest/pull/3608) |
-| feat(about): combine separate GraphQL queries into single request | Medium | [#3604](https://github.com/OWASP/Nest/pull/3604) |
-| Add published releases as first-class Project relation | Medium | [#3602](https://github.com/OWASP/Nest/pull/3602) |
-| Add race-safe async data fetching for board candidates chapters/projects | Medium | [#3598](https://github.com/OWASP/Nest/issues/3598) |
-| Prevent state updates after unmount in member heatmap page | Medium | [#3597](https://github.com/OWASP/Nest/issues/3597) |
-| Add Sort by option for programs on Mentorship page | Medium | [#3593](https://github.com/OWASP/Nest/issues/3593) |
 
 ---
 
@@ -272,6 +277,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
+| 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/Code-A2Z/code-a2z/issues/1178) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
@@ -421,6 +427,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| Mobile: Add Pull-to-Refresh with Haptics | Medium | [#268](https://github.com/Devasy/splitwiser/pull/268) |
 | style: Consistent hover/focus states | Medium | [#267](https://github.com/Devasy/splitwiser/pull/267) |
 | Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
@@ -435,7 +442,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
 | API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
-| Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy/splitwiser/pull/148) |
 
 ---
 
@@ -810,6 +816,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Make the documentation better | Easy | [#708](https://github.com/NishantRana07/HrRoadways/issues/708) |
+| Documentation Cleanup — Standardize PR Templates | Medium | [#715](https://github.com/NishantRana07/HrRoadways/issues/715) |
+| Overhaul README with Mermaid.js Architecture and Professional Documentation Standards | Medium | [#714](https://github.com/NishantRana07/HrRoadways/issues/714) |
 | Grammar Pass on About Us | Medium | [#713](https://github.com/NishantRana07/HrRoadways/issues/713) |
 | Improve Hero CTA Copy | Medium | [#712](https://github.com/NishantRana07/HrRoadways/issues/712) |
 | Fixed grammer | Medium | [#711](https://github.com/NishantRana07/HrRoadways/pull/711) |
@@ -1760,11 +1768,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: clarify issue labels, templates, and contribution workflow | Easy | [#266](https://github.com/IndieHub25/GroqTales/pull/266) |
-| Enhance README with program structure and UI elements | Medium | [#269](https://github.com/IndieHub25/GroqTales/issues/269) |
-| Adding NFT marketplace routes | Medium | [#268](https://github.com/IndieHub25/GroqTales/issues/268) |
+| Feature/draft recovery | Medium | [#272](https://github.com/IndieHub25/GroqTales/pull/272) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
-| `[Feature] Creator onboarding checklist & guided tour` | Medium | [#228](https://github.com/IndieHub25/GroqTales/issues/228) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
 | Add containerized local development workflow using Docker & Docker Compose | Medium | [#195](https://github.com/IndieHub25/GroqTales/issues/195) |
@@ -1810,7 +1815,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump @supabase/supabase-js from 2.50.2 to 2.93.2 | Medium | [#255](https://github.com/Ojas-Arora/SapneSeSafar/pull/255) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.93.3 | Medium | [#256](https://github.com/Ojas-Arora/SapneSeSafar/pull/256) |
 | Bump axios from 1.7.9 to 1.13.4 | Medium | [#254](https://github.com/Ojas-Arora/SapneSeSafar/pull/254) |
 | Bump framer-motion from 11.18.2 to 12.29.2 | Medium | [#253](https://github.com/Ojas-Arora/SapneSeSafar/pull/253) |
 | Bump react and @types/react | Medium | [#252](https://github.com/Ojas-Arora/SapneSeSafar/pull/252) |
@@ -2002,8 +2007,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| DOC: Create testing documentation and basic test suite | Easy | [#243](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/243) |
-| Implemented React Components-242 | Medium | [#246](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/246) |
+| feat: Message Search Functionality | Medium | [#247](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/247) |
 | Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
