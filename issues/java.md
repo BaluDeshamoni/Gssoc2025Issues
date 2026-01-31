@@ -419,9 +419,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add i18n languages | Medium | [#221](https://github.com/Dipanita45/HEALCONNECT/issues/221) |
-| Discord details added to readme | Medium | [#220](https://github.com/Dipanita45/HEALCONNECT/pull/220) |
-| Discord link added | Medium | [#219](https://github.com/Dipanita45/HEALCONNECT/pull/219) |
-| Enhancement: unify error handling across application | Medium | [#212](https://github.com/Dipanita45/HEALCONNECT/pull/212) |
 | Fix: Make 404 page respect the active theme | Medium | [#211](https://github.com/Dipanita45/HEALCONNECT/pull/211) |
 | Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
@@ -729,22 +726,28 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update Year on Weather Page | Medium | [#1199](https://github.com/omroy07/AgriTech/issues/1199) |
-| Update Year on Farmer Page | Medium | [#1198](https://github.com/omroy07/AgriTech/issues/1198) |
-| Update Year on Shopkeeper Page Footer/Header | Medium | [#1197](https://github.com/omroy07/AgriTech/issues/1197) |
-| Implement Real-Time Agri-Market Dynamic Pricing Engine & Intelligence… | Medium | [#1196](https://github.com/omroy07/AgriTech/pull/1196) |
+| Smart Collaborative Farming & Multi-Owner Yield-Share Pool | Medium | [#1223](https://github.com/omroy07/AgriTech/issues/1223) |
+| Integrated Agri-Insurance & Dynamic Risk Credit-Scoring Engine | Medium | [#1222](https://github.com/omroy07/AgriTech/issues/1222) |
+| AI-Powered Predictive Asset Life & Autonomous Farm Logistics | Medium | [#1221](https://github.com/omroy07/AgriTech/issues/1221) |
+| Interactive Field Mapping with NDVI Analysis & Insights | Medium | [#1220](https://github.com/omroy07/AgriTech/pull/1220) |
+| Redesign Mission page for improved layout, clarity, and visual consistency | Medium | [#1219](https://github.com/omroy07/AgriTech/issues/1219) |
+| Theme toggle (Light/Dark) button misaligned and not functioning on Login page | Medium | [#1218](https://github.com/omroy07/AgriTech/issues/1218) |
+| Feature Request: Generate Participation Certificates for Contributors | Medium | [#1217](https://github.com/omroy07/AgriTech/issues/1217) |
+| Inconsistent layout: Header missing on Blog page | Medium | [#1216](https://github.com/omroy07/AgriTech/issues/1216) |
+| Career page missing footer section | Medium | [#1215](https://github.com/omroy07/AgriTech/issues/1215) |
+| Add Terms & Conditions page and fix broken footer link | Medium | [#1214](https://github.com/omroy07/AgriTech/pull/1214) |
+| Add Privacy Policy page and fix broken footer link | Medium | [#1213](https://github.com/omroy07/AgriTech/pull/1213) |
+| Remove unused divs to clean up layout and improve readability | Medium | [#1212](https://github.com/omroy07/AgriTech/pull/1212) |
+| Add dedicated Sitemap page for improved navigation and contributor onboarding | Medium | [#1211](https://github.com/omroy07/AgriTech/pull/1211) |
+| Add dynamic Masthead page with GitHub contributors & commit statistics | Medium | [#1210](https://github.com/omroy07/AgriTech/pull/1210) |
+| feat: Add Working Links to Social Media Icons | Medium | [#1209](https://github.com/omroy07/AgriTech/issues/1209) |
+| Enhance Plant Disease Classifier with Inference & Gradio UI | Medium | [#1208](https://github.com/omroy07/AgriTech/pull/1208) |
+| Add Navigation to Footer on Careers Page | Medium | [#1207](https://github.com/omroy07/AgriTech/pull/1207) |
+| Separate HTML, CSS, and JS for better maintainability | Medium | [#1205](https://github.com/omroy07/AgriTech/issues/1205) |
 | Feature/disease outbreak gews 1192 | Medium | [#1195](https://github.com/omroy07/AgriTech/pull/1195) |
 | Feature/supply chain traceability 1193 | Medium | [#1194](https://github.com/omroy07/AgriTech/pull/1194) |
 | Feature/rbac security | Medium | [#1190](https://github.com/omroy07/AgriTech/pull/1190) |
-| Feature/multi language i18n | Medium | [#1188](https://github.com/omroy07/AgriTech/pull/1188) |
-| Implement distributed caching strategy with Redis, Weather API | Medium | [#1187](https://github.com/omroy07/AgriTech/pull/1187) |
-| UI: Enhance Shopkeepers Popup Modal for Improved UX | Medium | [#1185](https://github.com/omroy07/AgriTech/pull/1185) |
-| Fix broken links of organic page | Medium | [#1183](https://github.com/omroy07/AgriTech/pull/1183) |
-| fixed year on organic page | Medium | [#1182](https://github.com/omroy07/AgriTech/pull/1182) |
 | Issue: Hamburger Menu Not Working on Small Devices Scheme Page | Medium | [#1174](https://github.com/omroy07/AgriTech/issues/1174) |
-| Issue: Hamburger Menu Not Working on Small Devices Blog Page | Medium | [#1173](https://github.com/omroy07/AgriTech/issues/1173) |
-| better box shadow effect on platform benefits | Medium | [#1160](https://github.com/omroy07/AgriTech/issues/1160) |
-| Better styling for abt section | Medium | [#1159](https://github.com/omroy07/AgriTech/issues/1159) |
 
 ---
 
@@ -2006,7 +2009,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/draft recovery | Medium | [#272](https://github.com/IndieHub25/GroqTales/pull/272) |
+| Animated Cursor Trail Effect | Medium | [#274](https://github.com/IndieHub25/GroqTales/issues/274) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
@@ -2090,6 +2093,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump autoprefixer from 10.4.20 to 10.4.24 | Medium | [#257](https://github.com/Ojas-Arora/SapneSeSafar/pull/257) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.93.3 | Medium | [#256](https://github.com/Ojas-Arora/SapneSeSafar/pull/256) |
 | Bump axios from 1.7.9 to 1.13.4 | Medium | [#254](https://github.com/Ojas-Arora/SapneSeSafar/pull/254) |
 | Bump framer-motion from 11.18.2 to 12.29.2 | Medium | [#253](https://github.com/Ojas-Arora/SapneSeSafar/pull/253) |
@@ -2103,7 +2107,6 @@ Fast Workflow Tools
 | Bump vite from 5.4.17 to 7.3.1 | Medium | [#231](https://github.com/Ojas-Arora/SapneSeSafar/pull/231) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.26 | Medium | [#225](https://github.com/Ojas-Arora/SapneSeSafar/pull/225) |
 | Bump eslint from 9.12.0 to 9.39.2 | Medium | [#222](https://github.com/Ojas-Arora/SapneSeSafar/pull/222) |
-| Bump autoprefixer from 10.4.20 to 10.4.23 | Medium | [#220](https://github.com/Ojas-Arora/SapneSeSafar/pull/220) |
 | Bump @types/papaparse from 5.3.16 to 5.5.2 | Medium | [#219](https://github.com/Ojas-Arora/SapneSeSafar/pull/219) |
 | Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
 | Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
