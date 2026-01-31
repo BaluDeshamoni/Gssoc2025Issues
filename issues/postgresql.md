@@ -253,7 +253,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Phase - 1 Issue 2: Firebase Admin SDK Authentication Middleware | Easy | [#15](https://github.com/dscnitrourkela/project-xangoes/issues/15) |
 | Phase - 1 Issue 4: Frontend Typography and Design System | Easy | [#13](https://github.com/dscnitrourkela/project-xangoes/issues/13) |
-| chore(deps): bump next from 15.3.5 to 15.4.8 in /client | Medium | [#22](https://github.com/dscnitrourkela/project-xangoes/pull/22) |
+| chore(deps): bump next from 15.3.5 to 16.1.5 in /client | Medium | [#23](https://github.com/dscnitrourkela/project-xangoes/pull/23) |
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Medium | [#20](https://github.com/dscnitrourkela/project-xangoes/pull/20) |
 | Login and Signup Page #9 | Medium | [#19](https://github.com/dscnitrourkela/project-xangoes/pull/19) |
 
