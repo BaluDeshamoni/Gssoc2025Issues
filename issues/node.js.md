@@ -1493,7 +1493,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature/draft recovery | Medium | [#272](https://github.com/IndieHub25/GroqTales/pull/272) |
+| Animated Cursor Trail Effect | Medium | [#274](https://github.com/IndieHub25/GroqTales/issues/274) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
@@ -1594,10 +1594,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Technical Architecture & Visual Documentation | Medium | [#126](https://github.com/prasoonk1204/BreatheEasy/issues/126) |
-| Implement Standardized Pull Request Template for Full-Stack Validation | Medium | [#125](https://github.com/prasoonk1204/BreatheEasy/issues/125) |
-| Addition of Indian & a few Global languages using LanguagePicker & Language Modal buttons | Medium | [#124](https://github.com/prasoonk1204/BreatheEasy/issues/124) |
-| Precautions Personalization for Sensitive Groups | Medium | [#123](https://github.com/prasoonk1204/BreatheEasy/pull/123) |
 | Community Impact Leaderboard & Action Gamification | Medium | [#119](https://github.com/prasoonk1204/BreatheEasy/issues/119) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
 | Secure map tiles using backend proxy with caching and rate limiting | Medium | [#114](https://github.com/prasoonk1204/BreatheEasy/pull/114) |
