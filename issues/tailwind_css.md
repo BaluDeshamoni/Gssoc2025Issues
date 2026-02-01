@@ -167,7 +167,6 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | generating a better logo using ai and use that | Easy | [#124](https://github.com/huamanraj/aitoolbox.software/issues/124) |
-| Mobile Performance | Medium | [#125](https://github.com/huamanraj/aitoolbox.software/pull/125) |
 
 ---
 
@@ -252,6 +251,20 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Resolve entity member admin attribute error | Medium | [#3709](https://github.com/OWASP/Nest/pull/3709) |
+| Centralize hardcoded embedding and chunking parameters in constants.py | Medium | [#3707](https://github.com/OWASP/Nest/issues/3707) |
+| Refactor unused react proptype in  AnchorTitleProp. | Medium | [#3706](https://github.com/OWASP/Nest/issues/3706) |
+| Add click feedback and visited state for clickable cards | Medium | [#3705](https://github.com/OWASP/Nest/issues/3705) |
+| optimize recent releases | Medium | [#3703](https://github.com/OWASP/Nest/pull/3703) |
+| Feature/snapshot notifications | Medium | [#3701](https://github.com/OWASP/Nest/pull/3701) |
+| Feature/nestbot ai assistant | Medium | [#3699](https://github.com/OWASP/Nest/pull/3699) |
+| Prefer optional chaining in organizations list (typescript:S6582) | Medium | [#3698](https://github.com/OWASP/Nest/pull/3698) |
+| feat: improve test coverage to 90% | Medium | [#3697](https://github.com/OWASP/Nest/pull/3697) |
+| Add deadline status badges and deadline filters to mentorship issues list | Medium | [#3695](https://github.com/OWASP/Nest/pull/3695) |
+| merging Multiple RUN Instruction in Frontend DockerFile. | Medium | [#3690](https://github.com/OWASP/Nest/issues/3690) |
+| Bug: Text overflow in program cards on mobile view | Medium | [#3683](https://github.com/OWASP/Nest/issues/3683) |
+| Mobile responsiveness for Recent Milestones section | Medium | [#3682](https://github.com/OWASP/Nest/pull/3682) |
+| refactor(ci): standardize security scans via Makefile targets | Medium | [#3678](https://github.com/OWASP/Nest/pull/3678) |
 | Fix: mentorship programs page responsive on smaller screens | Medium | [#3674](https://github.com/OWASP/Nest/pull/3674) |
 | Add bookmark/favorite support for projects and chapters | Medium | [#3671](https://github.com/OWASP/Nest/issues/3671) |
 | Prevent state updates after unmount in chapters page geoLocData fetch | Medium | [#3670](https://github.com/OWASP/Nest/issues/3670) |
@@ -265,18 +278,6 @@ Accessibility features like dark mode,white.
 | Optimize `interestedUsers` field in `IssueNode` | Medium | [#3659](https://github.com/OWASP/Nest/issues/3659) |
 | Optimize `isMerged` field in `IssueNode` | Medium | [#3658](https://github.com/OWASP/Nest/issues/3658) |
 | Update the cache extension to not bypass the DjangoQueryOptimizer | Medium | [#3657](https://github.com/OWASP/Nest/issues/3657) |
-| feat: add keyboard navigation support to the EntityActions component | Medium | [#3656](https://github.com/OWASP/Nest/pull/3656) |
-| Fix type mismatch for create_chunks_and_embeddings.context used in tests (Sonar python:S5655) | Medium | [#3655](https://github.com/OWASP/Nest/issues/3655) |
-| Resolve python:S1845 naming clash between "state" and "State" in GitHub issue mixin | Medium | [#3654](https://github.com/OWASP/Nest/issues/3654) |
-| fix: remove redundant type assertion in EditProgramPage | Medium | [#3653](https://github.com/OWASP/Nest/pull/3653) |
-| chore: enable strict mode and refactor types | Medium | [#3652](https://github.com/OWASP/Nest/pull/3652) |
-| enhacements: Production/Staging Docker Compose Improvements | Medium | [#3646](https://github.com/OWASP/Nest/issues/3646) |
-| Fix: merge consecutive RUN instructions in frontend Dockerfile | Medium | [#3644](https://github.com/OWASP/Nest/pull/3644) |
-| Fixed Sonar issue Use <output> instead of the "status" role and Use N… | Medium | [#3642](https://github.com/OWASP/Nest/pull/3642) |
-| Fix: avoid passing function reference directly to map() in ContributePage | Medium | [#3641](https://github.com/OWASP/Nest/pull/3641) |
-| fix: replace role='status' with semantic <output> element in CardSkeleton (S6819) | Medium | [#3636](https://github.com/OWASP/Nest/pull/3636) |
-| race conditions could result in more api keys created for a user than is allowed | Medium | [#3634](https://github.com/OWASP/Nest/issues/3634) |
-| Enhance mentorship UI with breadcrumb improvements and issues link | Medium | [#3632](https://github.com/OWASP/Nest/pull/3632) |
 
 ---
 
@@ -295,6 +296,8 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
+| Add logout confirmation dialog to prevent accidental logout | Medium | [#1376](https://github.com/Code-A2Z/code-a2z/pull/1376) |
+| feat: add responsive footer with structured grey design | Medium | [#1375](https://github.com/Code-A2Z/code-a2z/pull/1375) |
 | Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
@@ -312,7 +315,6 @@ Accessibility features like dark mode,white.
 | 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
 | 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
 | 📃: Kanban notes management system | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
-| 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
 
 ---
@@ -384,10 +386,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fixed the eye icons issue in lightmode | Easy | [#277](https://github.com/BhaktiMore18/Pouranik/pull/277) |
+| Adding Global Error Handling and 404 Route Handler to Express Server | Easy | [#133](https://github.com/BhaktiMore18/Pouranik/issues/133) |
 | Add Claude Code GitHub Workflow | Medium | [#301](https://github.com/BhaktiMore18/Pouranik/issues/301) |
-| Add GSSoC Label for Auto labels assignment | Medium | [#276](https://github.com/BhaktiMore18/Pouranik/pull/276) |
-| Forget password | Medium | [#275](https://github.com/BhaktiMore18/Pouranik/pull/275) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#268](https://github.com/BhaktiMore18/Pouranik/issues/268) |
 
 ---
@@ -531,11 +531,8 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Screen Reader Support added | Medium | [#240](https://github.com/Dipanita45/HEALCONNECT/pull/240) |
 | Add i18n languages | Medium | [#221](https://github.com/Dipanita45/HEALCONNECT/issues/221) |
-| Discord details added to readme | Medium | [#220](https://github.com/Dipanita45/HEALCONNECT/pull/220) |
-| Discord link added | Medium | [#219](https://github.com/Dipanita45/HEALCONNECT/pull/219) |
-| Enhancement: unify error handling across application | Medium | [#212](https://github.com/Dipanita45/HEALCONNECT/pull/212) |
-| Fix: Make 404 page respect the active theme | Medium | [#211](https://github.com/Dipanita45/HEALCONNECT/pull/211) |
 | Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
@@ -1530,6 +1527,24 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
+## 📌 Project: DevNotes
+
+📝 **Description:** DevNotes is a structured and beautifully designed learning hub for mastering full-stack web development. It covers everything from Frontend (HTML, CSS, JavaScript, React, Tailwind CSS) and Backend (Node.js, Express, MongoDB) to Deployment strategies and Miscellaneous dev topics.
+
+🔗 [View Project](https://github.com/Amarjha01/DevNotes)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Framer Motion, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: Add Frontend Development Roadmap Page | Medium | [#139](https://github.com/Amarjha01/DevNotes/pull/139) |
+
+---
+
 ## 📌 Project: Retail with purpose: Building a sustainable and responsible future
 
 📝 **Description:** Sustainability is no longer an optionit a necessity. As consumers demand more eco-conscious choices, retailers must reimagine their operations to reduce waste, lower carbon footprints and create a more responsible supply chain. From sustainable sourcing and eco-friendly packaging to energy-efficient store designs and AI-driven waste reduction, innovation is transforming how businesses operate while ensuring long-term environmental and economic benefits.
@@ -1927,10 +1942,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Technical Architecture & Visual Documentation | Medium | [#126](https://github.com/prasoonk1204/BreatheEasy/issues/126) |
-| Implement Standardized Pull Request Template for Full-Stack Validation | Medium | [#125](https://github.com/prasoonk1204/BreatheEasy/issues/125) |
-| Addition of Indian & a few Global languages using LanguagePicker & Language Modal buttons | Medium | [#124](https://github.com/prasoonk1204/BreatheEasy/issues/124) |
-| Precautions Personalization for Sensitive Groups | Medium | [#123](https://github.com/prasoonk1204/BreatheEasy/pull/123) |
+| Update README.md | Medium | [#129](https://github.com/prasoonk1204/BreatheEasy/pull/129) |
+| Add Code of Conduct to ensure a healthy community environment | Medium | [#128](https://github.com/prasoonk1204/BreatheEasy/issues/128) |
 | Community Impact Leaderboard & Action Gamification | Medium | [#119](https://github.com/prasoonk1204/BreatheEasy/issues/119) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
 | Secure map tiles using backend proxy with caching and rate limiting | Medium | [#114](https://github.com/prasoonk1204/BreatheEasy/pull/114) |
@@ -2079,9 +2092,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| doc: API Documentation | Medium | [#259](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/259) |
+| docs: add comprehensive JSDoc documentation to Select component family | Medium | [#253](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/253) |
 | feat: Message Search Functionality | Medium | [#247](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/247) |
-| Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
-| JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
+| OTHER: Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
+| OTHER: JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
+| BUG: UI Inconsistencies in About Page | Medium | [#235](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/235) |
+| FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
+| BUG: 'Stop' button stuck in Production (Proposed solution for #219) | Medium | [#229](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/229) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 
 ---
