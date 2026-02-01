@@ -295,6 +295,24 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
+## 📌 Project: DevNotes
+
+📝 **Description:** DevNotes is a structured and beautifully designed learning hub for mastering full-stack web development. It covers everything from Frontend (HTML, CSS, JavaScript, React, Tailwind CSS) and Backend (Node.js, Express, MongoDB) to Deployment strategies and Miscellaneous dev topics.
+
+🔗 [View Project](https://github.com/Amarjha01/DevNotes)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Framer Motion, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: Add Frontend Development Roadmap Page | Medium | [#139](https://github.com/Amarjha01/DevNotes/pull/139) |
+
+---
+
 ## 📌 Project: Cat Sanctuary - A Horror First-Person Game
 
 📝 **Description:** Cat Sanctuary is a horror-themed first-person game set in a haunted cat sanctuary. The player, a new caretaker, uncovers a dark mystery involving cursed spirits, eerie events, and the remains of a previous caretaker. The mission is to collect remains of that caretaker scattered across the map and bury them to break the curse and save the cats.
