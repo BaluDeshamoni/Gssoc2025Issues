@@ -215,6 +215,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump autoprefixer from 10.4.20 to 10.4.24 | Medium | [#257](https://github.com/Ojas-Arora/SapneSeSafar/pull/257) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.93.3 | Medium | [#256](https://github.com/Ojas-Arora/SapneSeSafar/pull/256) |
 | Bump axios from 1.7.9 to 1.13.4 | Medium | [#254](https://github.com/Ojas-Arora/SapneSeSafar/pull/254) |
 | Bump framer-motion from 11.18.2 to 12.29.2 | Medium | [#253](https://github.com/Ojas-Arora/SapneSeSafar/pull/253) |
@@ -228,7 +229,6 @@
 | Bump vite from 5.4.17 to 7.3.1 | Medium | [#231](https://github.com/Ojas-Arora/SapneSeSafar/pull/231) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.26 | Medium | [#225](https://github.com/Ojas-Arora/SapneSeSafar/pull/225) |
 | Bump eslint from 9.12.0 to 9.39.2 | Medium | [#222](https://github.com/Ojas-Arora/SapneSeSafar/pull/222) |
-| Bump autoprefixer from 10.4.20 to 10.4.23 | Medium | [#220](https://github.com/Ojas-Arora/SapneSeSafar/pull/220) |
 | Bump @types/papaparse from 5.3.16 to 5.5.2 | Medium | [#219](https://github.com/Ojas-Arora/SapneSeSafar/pull/219) |
 | Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
 | Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
