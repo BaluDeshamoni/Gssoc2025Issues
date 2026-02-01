@@ -14,13 +14,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Resolve entity member admin attribute error | Medium | [#3709](https://github.com/OWASP/Nest/pull/3709) |
+| Centralize hardcoded embedding and chunking parameters in constants.py | Medium | [#3707](https://github.com/OWASP/Nest/issues/3707) |
+| Refactor unused react proptype in  AnchorTitleProp. | Medium | [#3706](https://github.com/OWASP/Nest/issues/3706) |
+| Add click feedback and visited state for clickable cards | Medium | [#3705](https://github.com/OWASP/Nest/issues/3705) |
+| optimize recent releases | Medium | [#3703](https://github.com/OWASP/Nest/pull/3703) |
 | Feature/snapshot notifications | Medium | [#3701](https://github.com/OWASP/Nest/pull/3701) |
-| Fix AttributeError in Django admin for EntityMember | Medium | [#3700](https://github.com/OWASP/Nest/issues/3700) |
 | Feature/nestbot ai assistant | Medium | [#3699](https://github.com/OWASP/Nest/pull/3699) |
 | Prefer optional chaining in organizations list (typescript:S6582) | Medium | [#3698](https://github.com/OWASP/Nest/pull/3698) |
 | feat: improve test coverage to 90% | Medium | [#3697](https://github.com/OWASP/Nest/pull/3697) |
 | Add deadline status badges and deadline filters to mentorship issues list | Medium | [#3695](https://github.com/OWASP/Nest/pull/3695) |
-| UX issue: Search input auto-focus opens keyboard unnecessarily | Medium | [#3692](https://github.com/OWASP/Nest/issues/3692) |
 | merging Multiple RUN Instruction in Frontend DockerFile. | Medium | [#3690](https://github.com/OWASP/Nest/issues/3690) |
 | Bug: Text overflow in program cards on mobile view | Medium | [#3683](https://github.com/OWASP/Nest/issues/3683) |
 | Mobile responsiveness for Recent Milestones section | Medium | [#3682](https://github.com/OWASP/Nest/pull/3682) |
@@ -38,10 +41,6 @@
 | Optimize `interestedUsers` field in `IssueNode` | Medium | [#3659](https://github.com/OWASP/Nest/issues/3659) |
 | Optimize `isMerged` field in `IssueNode` | Medium | [#3658](https://github.com/OWASP/Nest/issues/3658) |
 | Update the cache extension to not bypass the DjangoQueryOptimizer | Medium | [#3657](https://github.com/OWASP/Nest/issues/3657) |
-| feat: add keyboard navigation support to the EntityActions component | Medium | [#3656](https://github.com/OWASP/Nest/pull/3656) |
-| Fix type mismatch for create_chunks_and_embeddings.context used in tests (Sonar python:S5655) | Medium | [#3655](https://github.com/OWASP/Nest/issues/3655) |
-| Resolve python:S1845 naming clash between "state" and "State" in GitHub issue mixin | Medium | [#3654](https://github.com/OWASP/Nest/issues/3654) |
-| fix: remove redundant type assertion in EditProgramPage | Medium | [#3653](https://github.com/OWASP/Nest/pull/3653) |
 
 ---
 
