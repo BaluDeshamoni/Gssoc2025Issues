@@ -299,6 +299,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Dynamic Search and Category Filtering for Destinations | Medium | [#1931](https://github.com/apu52/Travel_Website/issues/1931) |
 | Navbar overlaps the feedback image/content on feedback page | Medium | [#1930](https://github.com/apu52/Travel_Website/issues/1930) |
 | GitHub footer button does not redirect to repository | Medium | [#1929](https://github.com/apu52/Travel_Website/issues/1929) |
 | Enhancement of destination in service page | Medium | [#1928](https://github.com/apu52/Travel_Website/issues/1928) |
@@ -328,7 +329,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Footer layout needs improvement on Guide page | Medium | [#1904](https://github.com/apu52/Travel_Website/issues/1904) |
 | Convert Homepage Hero Section into Carousel | Medium | [#1903](https://github.com/apu52/Travel_Website/issues/1903) |
 | Explore Top Destinations images are not sliding | Medium | [#1902](https://github.com/apu52/Travel_Website/issues/1902) |
-| fix: theme toggle on membership page | Medium | [#1901](https://github.com/apu52/Travel_Website/pull/1901) |
 
 ---
 
@@ -418,8 +418,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Screen Reader Support added | Medium | [#240](https://github.com/Dipanita45/HEALCONNECT/pull/240) |
 | Add i18n languages | Medium | [#221](https://github.com/Dipanita45/HEALCONNECT/issues/221) |
-| Fix: Make 404 page respect the active theme | Medium | [#211](https://github.com/Dipanita45/HEALCONNECT/pull/211) |
 | Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
@@ -726,28 +726,21 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Smart Collaborative Farming & Multi-Owner Yield-Share Pool | Medium | [#1223](https://github.com/omroy07/AgriTech/issues/1223) |
-| Integrated Agri-Insurance & Dynamic Risk Credit-Scoring Engine | Medium | [#1222](https://github.com/omroy07/AgriTech/issues/1222) |
-| AI-Powered Predictive Asset Life & Autonomous Farm Logistics | Medium | [#1221](https://github.com/omroy07/AgriTech/issues/1221) |
+| High-Performance Tomato Disease Classification via Transfer Learning | Medium | [#1236](https://github.com/omroy07/AgriTech/pull/1236) |
+| Implement Transfer Learning (MobileNetV2) and Production-Grade Evaluation Pipeline | Medium | [#1235](https://github.com/omroy07/AgriTech/pull/1235) |
+| Improve hover styles for all primary buttons | Medium | [#1234](https://github.com/omroy07/AgriTech/issues/1234) |
+| Hamburger menu not working on small devices on Blog page | Medium | [#1233](https://github.com/omroy07/AgriTech/issues/1233) |
+| Hamburger menu not working on small devices on Scheme page | Medium | [#1232](https://github.com/omroy07/AgriTech/issues/1232) |
+| Improve styling of language dropdown button | Medium | [#1231](https://github.com/omroy07/AgriTech/issues/1231) |
 | Interactive Field Mapping with NDVI Analysis & Insights | Medium | [#1220](https://github.com/omroy07/AgriTech/pull/1220) |
 | Redesign Mission page for improved layout, clarity, and visual consistency | Medium | [#1219](https://github.com/omroy07/AgriTech/issues/1219) |
 | Theme toggle (Light/Dark) button misaligned and not functioning on Login page | Medium | [#1218](https://github.com/omroy07/AgriTech/issues/1218) |
 | Feature Request: Generate Participation Certificates for Contributors | Medium | [#1217](https://github.com/omroy07/AgriTech/issues/1217) |
 | Inconsistent layout: Header missing on Blog page | Medium | [#1216](https://github.com/omroy07/AgriTech/issues/1216) |
 | Career page missing footer section | Medium | [#1215](https://github.com/omroy07/AgriTech/issues/1215) |
-| Add Terms & Conditions page and fix broken footer link | Medium | [#1214](https://github.com/omroy07/AgriTech/pull/1214) |
-| Add Privacy Policy page and fix broken footer link | Medium | [#1213](https://github.com/omroy07/AgriTech/pull/1213) |
-| Remove unused divs to clean up layout and improve readability | Medium | [#1212](https://github.com/omroy07/AgriTech/pull/1212) |
-| Add dedicated Sitemap page for improved navigation and contributor onboarding | Medium | [#1211](https://github.com/omroy07/AgriTech/pull/1211) |
-| Add dynamic Masthead page with GitHub contributors & commit statistics | Medium | [#1210](https://github.com/omroy07/AgriTech/pull/1210) |
 | feat: Add Working Links to Social Media Icons | Medium | [#1209](https://github.com/omroy07/AgriTech/issues/1209) |
 | Enhance Plant Disease Classifier with Inference & Gradio UI | Medium | [#1208](https://github.com/omroy07/AgriTech/pull/1208) |
-| Add Navigation to Footer on Careers Page | Medium | [#1207](https://github.com/omroy07/AgriTech/pull/1207) |
 | Separate HTML, CSS, and JS for better maintainability | Medium | [#1205](https://github.com/omroy07/AgriTech/issues/1205) |
-| Feature/disease outbreak gews 1192 | Medium | [#1195](https://github.com/omroy07/AgriTech/pull/1195) |
-| Feature/supply chain traceability 1193 | Medium | [#1194](https://github.com/omroy07/AgriTech/pull/1194) |
-| Feature/rbac security | Medium | [#1190](https://github.com/omroy07/AgriTech/pull/1190) |
-| Issue: Hamburger Menu Not Working on Small Devices Scheme Page | Medium | [#1174](https://github.com/omroy07/AgriTech/issues/1174) |
 
 ---
 
@@ -1925,13 +1918,12 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Animated Cursor Trail Effect | Medium | [#274](https://github.com/IndieHub25/GroqTales/issues/274) |
+| Improve Loading Screen | Medium | [#280](https://github.com/IndieHub25/GroqTales/issues/280) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
 | Add containerized local development workflow using Docker & Docker Compose | Medium | [#195](https://github.com/IndieHub25/GroqTales/issues/195) |
 | `Security: Validate and rate limit story publishing & NFT minting endpoints` | Hard | [#230](https://github.com/IndieHub25/GroqTales/issues/230) |
-| `[BIG] Personalized story discovery feed with AI recommendations` | Hard | [#229](https://github.com/IndieHub25/GroqTales/issues/229) |
 
 ---
 
@@ -2328,7 +2320,6 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | Padding | Medium | [#395](https://github.com/code-well0/trip-planner/pull/395) |
 | Places Visited | Medium | [#394](https://github.com/code-well0/trip-planner/pull/394) |
-| Fix toast issue: consolidate ToastContainer in App.js | Medium | [#392](https://github.com/code-well0/trip-planner/pull/392) |
 
 ---
 
