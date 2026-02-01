@@ -14,10 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Screen Reader Support added | Medium | [#240](https://github.com/Dipanita45/HEALCONNECT/pull/240) |
+| Add i18n languages | Medium | [#221](https://github.com/Dipanita45/HEALCONNECT/issues/221) |
 | Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
-| fix: dark mode text visibility and bgImage undefined error | Medium | [#201](https://github.com/Dipanita45/HEALCONNECT/pull/201) |
-| Fix/header-hero sections | Medium | [#200](https://github.com/Dipanita45/HEALCONNECT/pull/200) |
-| Add search & filter for appointments | Medium | [#196](https://github.com/Dipanita45/HEALCONNECT/issues/196) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
@@ -59,7 +58,6 @@
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | refactor(adjacency-storage): Replace LOG_ calls with policy handler logging calls in PeakStore.hpp | Easy | [#179](https://github.com/SharonIV0x86/CinderPeak/issues/179) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
-| Optimized the Vertex Lookups - Replaced count() + operator[] with find() | Medium | [#183](https://github.com/SharonIV0x86/CinderPeak/pull/183) |
 
 ---
 
