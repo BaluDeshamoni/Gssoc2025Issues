@@ -144,26 +144,24 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
-| Add logout confirmation dialog to prevent accidental logout | Medium | [#1376](https://github.com/Code-A2Z/code-a2z/pull/1376) |
-| feat: add responsive footer with structured grey design | Medium | [#1375](https://github.com/Code-A2Z/code-a2z/pull/1375) |
 | Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
 | Backend: Implement Private Project Notes with Role-Based Access Control | Medium | [#1325](https://github.com/Code-A2Z/code-a2z/issues/1325) |
-| Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/Code-A2Z/code-a2z/issues/1178) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
-| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Notes app | Medium | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
 | 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
 | 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
 | 📃: Kanban notes management system | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
+| 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
+| Add "Forgot Password" link on Sign In page | Hard | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 
 ---
 
@@ -301,6 +299,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| ux: Add animated success celebration when settled up | Medium | [#270](https://github.com/Devasy/splitwiser/pull/270) |
 | style: Consistent hover/focus states | Medium | [#267](https://github.com/Devasy/splitwiser/pull/267) |
 | Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
@@ -315,7 +314,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
 | API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
-| Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy/splitwiser/pull/148) |
 
 ---
 
@@ -496,6 +494,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Make the documentation better | Easy | [#708](https://github.com/NishantRana07/HrRoadways/issues/708) |
+| Created a Terms n Conditions Page and Improved Privacy Policy | Medium | [#717](https://github.com/NishantRana07/HrRoadways/pull/717) |
 | Update README.md | Medium | [#716](https://github.com/NishantRana07/HrRoadways/pull/716) |
 | Documentation Cleanup — Standardize PR Templates | Medium | [#715](https://github.com/NishantRana07/HrRoadways/issues/715) |
 | Grammar Pass on About Us | Medium | [#713](https://github.com/NishantRana07/HrRoadways/issues/713) |
@@ -612,7 +611,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Improve mobile responsiveness for navbar and hero section | Medium | [#101](https://github.com/Sahilll94/Travel-Book/pull/101) |
 | Corrected unordered list with list items | Medium | [#100](https://github.com/Sahilll94/Travel-Book/pull/100) |
 | A new improved UI for this project | Medium | [#97](https://github.com/Sahilll94/Travel-Book/issues/97) |
-| Performance | Medium | [#86](https://github.com/Sahilll94/Travel-Book/pull/86) |
 
 ---
 
@@ -1205,7 +1203,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Loading Screen | Medium | [#280](https://github.com/IndieHub25/GroqTales/issues/280) |
+| Added swagger documentation for health for now | Easy | [#282](https://github.com/IndieHub25/GroqTales/pull/282) |
+| Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
