@@ -166,7 +166,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| generating a better logo using ai and use that | Easy | [#124](https://github.com/huamanraj/aitoolbox.software/issues/124) |
+| Update pollination apis as new doc | Easy | [#126](https://github.com/huamanraj/aitoolbox.software/issues/126) |
 
 ---
 
@@ -251,6 +251,11 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Skeleton UI mismatch for GitHub profile in mobile menu | Medium | [#3734](https://github.com/OWASP/Nest/issues/3734) |
+| Refactor unspecific for a type check with new TypeError | Medium | [#3726](https://github.com/OWASP/Nest/issues/3726) |
+| Align badge css classes and auto-sync badges during user update | Medium | [#3725](https://github.com/OWASP/Nest/pull/3725) |
+| Add Missing Accessibility (a11y) Tests for UI Components | Medium | [#3723](https://github.com/OWASP/Nest/issues/3723) |
+| Removed unused file | Medium | [#3710](https://github.com/OWASP/Nest/pull/3710) |
 | Resolve entity member admin attribute error | Medium | [#3709](https://github.com/OWASP/Nest/pull/3709) |
 | Centralize hardcoded embedding and chunking parameters in constants.py | Medium | [#3707](https://github.com/OWASP/Nest/issues/3707) |
 | Refactor unused react proptype in  AnchorTitleProp. | Medium | [#3706](https://github.com/OWASP/Nest/issues/3706) |
@@ -271,13 +276,6 @@ Accessibility features like dark mode,white.
 | Add rel="noopener noreferrer" to external Link in ItemCardList | Medium | [#3669](https://github.com/OWASP/Nest/issues/3669) |
 | Add descriptive message to PermissionDenied in update_program_status mutation | Medium | [#3668](https://github.com/OWASP/Nest/issues/3668) |
 | Fix Sonar S6582: Prefer optional chaining when accessing menu attributes | Medium | [#3667](https://github.com/OWASP/Nest/issues/3667) |
-| Optimize `latestRelease` field in `RepositoryNode` | Medium | [#3663](https://github.com/OWASP/Nest/issues/3663) |
-| Optimize `releases` field in `RepositoryNode` | Medium | [#3662](https://github.com/OWASP/Nest/issues/3662) |
-| Optimize `recentMilestones` field in `RepositoryNode` | Medium | [#3661](https://github.com/OWASP/Nest/issues/3661) |
-| Optimize `issues` field in `RepositoryNode` | Medium | [#3660](https://github.com/OWASP/Nest/issues/3660) |
-| Optimize `interestedUsers` field in `IssueNode` | Medium | [#3659](https://github.com/OWASP/Nest/issues/3659) |
-| Optimize `isMerged` field in `IssueNode` | Medium | [#3658](https://github.com/OWASP/Nest/issues/3658) |
-| Update the cache extension to not bypass the DjangoQueryOptimizer | Medium | [#3657](https://github.com/OWASP/Nest/issues/3657) |
 
 ---
 
@@ -296,26 +294,24 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
-| Add logout confirmation dialog to prevent accidental logout | Medium | [#1376](https://github.com/Code-A2Z/code-a2z/pull/1376) |
-| feat: add responsive footer with structured grey design | Medium | [#1375](https://github.com/Code-A2Z/code-a2z/pull/1375) |
 | Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
 | Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
 | Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
 | Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
 | Backend: Implement Private Project Notes with Role-Based Access Control | Medium | [#1325](https://github.com/Code-A2Z/code-a2z/issues/1325) |
-| Add Confirmation Modal for Sign Out Action | Medium | [#1224](https://github.com/Code-A2Z/code-a2z/issues/1224) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
 | 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/Code-A2Z/code-a2z/issues/1178) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
-| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Notes app | Medium | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
 | 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
 | 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
 | 📃: Kanban notes management system | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
+| 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
+| Add "Forgot Password" link on Sign In page | Hard | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 
 ---
 
@@ -531,7 +527,6 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Screen Reader Support added | Medium | [#240](https://github.com/Dipanita45/HEALCONNECT/pull/240) |
 | Add i18n languages | Medium | [#221](https://github.com/Dipanita45/HEALCONNECT/issues/221) |
 | Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
@@ -1943,7 +1938,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update README.md | Medium | [#129](https://github.com/prasoonk1204/BreatheEasy/pull/129) |
-| Add Code of Conduct to ensure a healthy community environment | Medium | [#128](https://github.com/prasoonk1204/BreatheEasy/issues/128) |
 | Community Impact Leaderboard & Action Gamification | Medium | [#119](https://github.com/prasoonk1204/BreatheEasy/issues/119) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
 | Secure map tiles using backend proxy with caching and rate limiting | Medium | [#114](https://github.com/prasoonk1204/BreatheEasy/pull/114) |
