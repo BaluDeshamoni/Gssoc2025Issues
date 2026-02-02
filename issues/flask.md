@@ -205,8 +205,18 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| High-Performance Tomato Disease Classification via Transfer Learning | Medium | [#1236](https://github.com/omroy07/AgriTech/pull/1236) |
-| Implement Transfer Learning (MobileNetV2) and Production-Grade Evaluation Pipeline | Medium | [#1235](https://github.com/omroy07/AgriTech/pull/1235) |
+| feat: modernized landing page layout and visual hierarchy | Easy | [#1259](https://github.com/omroy07/AgriTech/pull/1259) |
+| Multi-language system is not working | Medium | [#1266](https://github.com/omroy07/AgriTech/issues/1266) |
+| Hamburger icon not working properly | Medium | [#1265](https://github.com/omroy07/AgriTech/issues/1265) |
+| Improve "Create New Post" Button UI/UX | Medium | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
+| Add footer section to blog page | Medium | [#1263](https://github.com/omroy07/AgriTech/pull/1263) |
+| Interactive "Companion Planting" Compatibility Checker | Medium | [#1262](https://github.com/omroy07/AgriTech/issues/1262) |
+| All schemes displayed instead of only eligible schemes | Medium | [#1261](https://github.com/omroy07/AgriTech/issues/1261) |
+| Implement Dark-Theme Glassmorphism for Services Dropdown | Medium | [#1260](https://github.com/omroy07/AgriTech/issues/1260) |
+| Add trailing cursor effect on  blog page | Medium | [#1257](https://github.com/omroy07/AgriTech/issues/1257) |
+| Add trailing cursor effect on supply chain page | Medium | [#1256](https://github.com/omroy07/AgriTech/issues/1256) |
+| Add trailing cursor effect on about page | Medium | [#1255](https://github.com/omroy07/AgriTech/issues/1255) |
+| Fix unintended UI text 1229 | Medium | [#1251](https://github.com/omroy07/AgriTech/pull/1251) |
 | Improve hover styles for all primary buttons | Medium | [#1234](https://github.com/omroy07/AgriTech/issues/1234) |
 | Hamburger menu not working on small devices on Blog page | Medium | [#1233](https://github.com/omroy07/AgriTech/issues/1233) |
 | Hamburger menu not working on small devices on Scheme page | Medium | [#1232](https://github.com/omroy07/AgriTech/issues/1232) |
@@ -218,8 +228,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Inconsistent layout: Header missing on Blog page | Medium | [#1216](https://github.com/omroy07/AgriTech/issues/1216) |
 | Career page missing footer section | Medium | [#1215](https://github.com/omroy07/AgriTech/issues/1215) |
 | feat: Add Working Links to Social Media Icons | Medium | [#1209](https://github.com/omroy07/AgriTech/issues/1209) |
-| Enhance Plant Disease Classifier with Inference & Gradio UI | Medium | [#1208](https://github.com/omroy07/AgriTech/pull/1208) |
-| Separate HTML, CSS, and JS for better maintainability | Medium | [#1205](https://github.com/omroy07/AgriTech/issues/1205) |
 
 ---
 
