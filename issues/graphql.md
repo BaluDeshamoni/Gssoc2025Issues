@@ -14,6 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Skeleton UI mismatch for GitHub profile in mobile menu | Medium | [#3734](https://github.com/OWASP/Nest/issues/3734) |
+| Refactor unspecific for a type check with new TypeError | Medium | [#3726](https://github.com/OWASP/Nest/issues/3726) |
+| Align badge css classes and auto-sync badges during user update | Medium | [#3725](https://github.com/OWASP/Nest/pull/3725) |
+| Add Missing Accessibility (a11y) Tests for UI Components | Medium | [#3723](https://github.com/OWASP/Nest/issues/3723) |
+| Removed unused file | Medium | [#3710](https://github.com/OWASP/Nest/pull/3710) |
 | Resolve entity member admin attribute error | Medium | [#3709](https://github.com/OWASP/Nest/pull/3709) |
 | Centralize hardcoded embedding and chunking parameters in constants.py | Medium | [#3707](https://github.com/OWASP/Nest/issues/3707) |
 | Refactor unused react proptype in  AnchorTitleProp. | Medium | [#3706](https://github.com/OWASP/Nest/issues/3706) |
@@ -34,13 +39,6 @@
 | Add rel="noopener noreferrer" to external Link in ItemCardList | Medium | [#3669](https://github.com/OWASP/Nest/issues/3669) |
 | Add descriptive message to PermissionDenied in update_program_status mutation | Medium | [#3668](https://github.com/OWASP/Nest/issues/3668) |
 | Fix Sonar S6582: Prefer optional chaining when accessing menu attributes | Medium | [#3667](https://github.com/OWASP/Nest/issues/3667) |
-| Optimize `latestRelease` field in `RepositoryNode` | Medium | [#3663](https://github.com/OWASP/Nest/issues/3663) |
-| Optimize `releases` field in `RepositoryNode` | Medium | [#3662](https://github.com/OWASP/Nest/issues/3662) |
-| Optimize `recentMilestones` field in `RepositoryNode` | Medium | [#3661](https://github.com/OWASP/Nest/issues/3661) |
-| Optimize `issues` field in `RepositoryNode` | Medium | [#3660](https://github.com/OWASP/Nest/issues/3660) |
-| Optimize `interestedUsers` field in `IssueNode` | Medium | [#3659](https://github.com/OWASP/Nest/issues/3659) |
-| Optimize `isMerged` field in `IssueNode` | Medium | [#3658](https://github.com/OWASP/Nest/issues/3658) |
-| Update the cache extension to not bypass the DjangoQueryOptimizer | Medium | [#3657](https://github.com/OWASP/Nest/issues/3657) |
 
 ---
 
