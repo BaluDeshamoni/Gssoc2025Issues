@@ -211,6 +211,11 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Skeleton UI mismatch for GitHub profile in mobile menu | Medium | [#3734](https://github.com/OWASP/Nest/issues/3734) |
+| Refactor unspecific for a type check with new TypeError | Medium | [#3726](https://github.com/OWASP/Nest/issues/3726) |
+| Align badge css classes and auto-sync badges during user update | Medium | [#3725](https://github.com/OWASP/Nest/pull/3725) |
+| Add Missing Accessibility (a11y) Tests for UI Components | Medium | [#3723](https://github.com/OWASP/Nest/issues/3723) |
+| Removed unused file | Medium | [#3710](https://github.com/OWASP/Nest/pull/3710) |
 | Resolve entity member admin attribute error | Medium | [#3709](https://github.com/OWASP/Nest/pull/3709) |
 | Centralize hardcoded embedding and chunking parameters in constants.py | Medium | [#3707](https://github.com/OWASP/Nest/issues/3707) |
 | Refactor unused react proptype in  AnchorTitleProp. | Medium | [#3706](https://github.com/OWASP/Nest/issues/3706) |
@@ -231,13 +236,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Add rel="noopener noreferrer" to external Link in ItemCardList | Medium | [#3669](https://github.com/OWASP/Nest/issues/3669) |
 | Add descriptive message to PermissionDenied in update_program_status mutation | Medium | [#3668](https://github.com/OWASP/Nest/issues/3668) |
 | Fix Sonar S6582: Prefer optional chaining when accessing menu attributes | Medium | [#3667](https://github.com/OWASP/Nest/issues/3667) |
-| Optimize `latestRelease` field in `RepositoryNode` | Medium | [#3663](https://github.com/OWASP/Nest/issues/3663) |
-| Optimize `releases` field in `RepositoryNode` | Medium | [#3662](https://github.com/OWASP/Nest/issues/3662) |
-| Optimize `recentMilestones` field in `RepositoryNode` | Medium | [#3661](https://github.com/OWASP/Nest/issues/3661) |
-| Optimize `issues` field in `RepositoryNode` | Medium | [#3660](https://github.com/OWASP/Nest/issues/3660) |
-| Optimize `interestedUsers` field in `IssueNode` | Medium | [#3659](https://github.com/OWASP/Nest/issues/3659) |
-| Optimize `isMerged` field in `IssueNode` | Medium | [#3658](https://github.com/OWASP/Nest/issues/3658) |
-| Update the cache extension to not bypass the DjangoQueryOptimizer | Medium | [#3657](https://github.com/OWASP/Nest/issues/3657) |
 
 ---
 
@@ -291,6 +289,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| ux: Add animated success celebration when settled up | Medium | [#270](https://github.com/Devasy/splitwiser/pull/270) |
 | style: Consistent hover/focus states | Medium | [#267](https://github.com/Devasy/splitwiser/pull/267) |
 | Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
@@ -305,7 +304,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
 | API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
-| Implement theming with react-native-paper and navigation enhancements | Medium | [#148](https://github.com/Devasy/splitwiser/pull/148) |
 
 ---
 
@@ -574,8 +572,18 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| High-Performance Tomato Disease Classification via Transfer Learning | Medium | [#1236](https://github.com/omroy07/AgriTech/pull/1236) |
-| Implement Transfer Learning (MobileNetV2) and Production-Grade Evaluation Pipeline | Medium | [#1235](https://github.com/omroy07/AgriTech/pull/1235) |
+| feat: modernized landing page layout and visual hierarchy | Easy | [#1259](https://github.com/omroy07/AgriTech/pull/1259) |
+| Multi-language system is not working | Medium | [#1266](https://github.com/omroy07/AgriTech/issues/1266) |
+| Hamburger icon not working properly | Medium | [#1265](https://github.com/omroy07/AgriTech/issues/1265) |
+| Improve "Create New Post" Button UI/UX | Medium | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
+| Add footer section to blog page | Medium | [#1263](https://github.com/omroy07/AgriTech/pull/1263) |
+| Interactive "Companion Planting" Compatibility Checker | Medium | [#1262](https://github.com/omroy07/AgriTech/issues/1262) |
+| All schemes displayed instead of only eligible schemes | Medium | [#1261](https://github.com/omroy07/AgriTech/issues/1261) |
+| Implement Dark-Theme Glassmorphism for Services Dropdown | Medium | [#1260](https://github.com/omroy07/AgriTech/issues/1260) |
+| Add trailing cursor effect on  blog page | Medium | [#1257](https://github.com/omroy07/AgriTech/issues/1257) |
+| Add trailing cursor effect on supply chain page | Medium | [#1256](https://github.com/omroy07/AgriTech/issues/1256) |
+| Add trailing cursor effect on about page | Medium | [#1255](https://github.com/omroy07/AgriTech/issues/1255) |
+| Fix unintended UI text 1229 | Medium | [#1251](https://github.com/omroy07/AgriTech/pull/1251) |
 | Improve hover styles for all primary buttons | Medium | [#1234](https://github.com/omroy07/AgriTech/issues/1234) |
 | Hamburger menu not working on small devices on Blog page | Medium | [#1233](https://github.com/omroy07/AgriTech/issues/1233) |
 | Hamburger menu not working on small devices on Scheme page | Medium | [#1232](https://github.com/omroy07/AgriTech/issues/1232) |
@@ -587,8 +595,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Inconsistent layout: Header missing on Blog page | Medium | [#1216](https://github.com/omroy07/AgriTech/issues/1216) |
 | Career page missing footer section | Medium | [#1215](https://github.com/omroy07/AgriTech/issues/1215) |
 | feat: Add Working Links to Social Media Icons | Medium | [#1209](https://github.com/omroy07/AgriTech/issues/1209) |
-| Enhance Plant Disease Classifier with Inference & Gradio UI | Medium | [#1208](https://github.com/omroy07/AgriTech/pull/1208) |
-| Separate HTML, CSS, and JS for better maintainability | Medium | [#1205](https://github.com/omroy07/AgriTech/issues/1205) |
 
 ---
 
@@ -1541,7 +1547,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Loading Screen | Medium | [#280](https://github.com/IndieHub25/GroqTales/issues/280) |
+| Added swagger documentation for health for now | Easy | [#282](https://github.com/IndieHub25/GroqTales/pull/282) |
+| Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
