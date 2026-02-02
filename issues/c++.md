@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Screen Reader Support added | Medium | [#240](https://github.com/Dipanita45/HEALCONNECT/pull/240) |
 | Add i18n languages | Medium | [#221](https://github.com/Dipanita45/HEALCONNECT/issues/221) |
 | Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
@@ -55,8 +54,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(warnings): Increment 6. Fix files producing warnings. | Easy | [#191](https://github.com/SharonIV0x86/CinderPeak/issues/191) |
+| fix(warnings): Increment 5. Fix files producing warnings. | Easy | [#190](https://github.com/SharonIV0x86/CinderPeak/issues/190) |
+| fix(warnings): Increment 4: Fix files producing warnings. | Easy | [#189](https://github.com/SharonIV0x86/CinderPeak/issues/189) |
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
-| refactor(adjacency-storage): Replace LOG_ calls with policy handler logging calls in PeakStore.hpp | Easy | [#179](https://github.com/SharonIV0x86/CinderPeak/issues/179) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
 
 ---
