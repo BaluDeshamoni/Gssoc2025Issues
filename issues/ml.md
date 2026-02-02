@@ -412,6 +412,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Dynamic Search and Category Filtering for Destinations | Medium | [#1931](https://github.com/apu52/Travel_Website/issues/1931) |
 | Navbar overlaps the feedback image/content on feedback page | Medium | [#1930](https://github.com/apu52/Travel_Website/issues/1930) |
 | GitHub footer button does not redirect to repository | Medium | [#1929](https://github.com/apu52/Travel_Website/issues/1929) |
 | Enhancement of destination in service page | Medium | [#1928](https://github.com/apu52/Travel_Website/issues/1928) |
@@ -441,7 +442,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Footer layout needs improvement on Guide page | Medium | [#1904](https://github.com/apu52/Travel_Website/issues/1904) |
 | Convert Homepage Hero Section into Carousel | Medium | [#1903](https://github.com/apu52/Travel_Website/issues/1903) |
 | Explore Top Destinations images are not sliding | Medium | [#1902](https://github.com/apu52/Travel_Website/issues/1902) |
-| fix: theme toggle on membership page | Medium | [#1901](https://github.com/apu52/Travel_Website/pull/1901) |
 
 ---
 
@@ -802,22 +802,29 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update Year on Weather Page | Medium | [#1199](https://github.com/omroy07/AgriTech/issues/1199) |
-| Update Year on Farmer Page | Medium | [#1198](https://github.com/omroy07/AgriTech/issues/1198) |
-| Update Year on Shopkeeper Page Footer/Header | Medium | [#1197](https://github.com/omroy07/AgriTech/issues/1197) |
-| Implement Real-Time Agri-Market Dynamic Pricing Engine & Intelligence… | Medium | [#1196](https://github.com/omroy07/AgriTech/pull/1196) |
-| Feature/disease outbreak gews 1192 | Medium | [#1195](https://github.com/omroy07/AgriTech/pull/1195) |
-| Feature/supply chain traceability 1193 | Medium | [#1194](https://github.com/omroy07/AgriTech/pull/1194) |
-| Feature/rbac security | Medium | [#1190](https://github.com/omroy07/AgriTech/pull/1190) |
-| Feature/multi language i18n | Medium | [#1188](https://github.com/omroy07/AgriTech/pull/1188) |
-| Implement distributed caching strategy with Redis, Weather API | Medium | [#1187](https://github.com/omroy07/AgriTech/pull/1187) |
-| UI: Enhance Shopkeepers Popup Modal for Improved UX | Medium | [#1185](https://github.com/omroy07/AgriTech/pull/1185) |
-| Fix broken links of organic page | Medium | [#1183](https://github.com/omroy07/AgriTech/pull/1183) |
-| fixed year on organic page | Medium | [#1182](https://github.com/omroy07/AgriTech/pull/1182) |
-| Issue: Hamburger Menu Not Working on Small Devices Scheme Page | Medium | [#1174](https://github.com/omroy07/AgriTech/issues/1174) |
-| Issue: Hamburger Menu Not Working on Small Devices Blog Page | Medium | [#1173](https://github.com/omroy07/AgriTech/issues/1173) |
-| better box shadow effect on platform benefits | Medium | [#1160](https://github.com/omroy07/AgriTech/issues/1160) |
-| Better styling for abt section | Medium | [#1159](https://github.com/omroy07/AgriTech/issues/1159) |
+| feat: modernized landing page layout and visual hierarchy | Easy | [#1259](https://github.com/omroy07/AgriTech/pull/1259) |
+| Multi-language system is not working | Medium | [#1266](https://github.com/omroy07/AgriTech/issues/1266) |
+| Hamburger icon not working properly | Medium | [#1265](https://github.com/omroy07/AgriTech/issues/1265) |
+| Improve "Create New Post" Button UI/UX | Medium | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
+| Add footer section to blog page | Medium | [#1263](https://github.com/omroy07/AgriTech/pull/1263) |
+| Interactive "Companion Planting" Compatibility Checker | Medium | [#1262](https://github.com/omroy07/AgriTech/issues/1262) |
+| All schemes displayed instead of only eligible schemes | Medium | [#1261](https://github.com/omroy07/AgriTech/issues/1261) |
+| Implement Dark-Theme Glassmorphism for Services Dropdown | Medium | [#1260](https://github.com/omroy07/AgriTech/issues/1260) |
+| Add trailing cursor effect on  blog page | Medium | [#1257](https://github.com/omroy07/AgriTech/issues/1257) |
+| Add trailing cursor effect on supply chain page | Medium | [#1256](https://github.com/omroy07/AgriTech/issues/1256) |
+| Add trailing cursor effect on about page | Medium | [#1255](https://github.com/omroy07/AgriTech/issues/1255) |
+| Fix unintended UI text 1229 | Medium | [#1251](https://github.com/omroy07/AgriTech/pull/1251) |
+| Improve hover styles for all primary buttons | Medium | [#1234](https://github.com/omroy07/AgriTech/issues/1234) |
+| Hamburger menu not working on small devices on Blog page | Medium | [#1233](https://github.com/omroy07/AgriTech/issues/1233) |
+| Hamburger menu not working on small devices on Scheme page | Medium | [#1232](https://github.com/omroy07/AgriTech/issues/1232) |
+| Improve styling of language dropdown button | Medium | [#1231](https://github.com/omroy07/AgriTech/issues/1231) |
+| Interactive Field Mapping with NDVI Analysis & Insights | Medium | [#1220](https://github.com/omroy07/AgriTech/pull/1220) |
+| Redesign Mission page for improved layout, clarity, and visual consistency | Medium | [#1219](https://github.com/omroy07/AgriTech/issues/1219) |
+| Theme toggle (Light/Dark) button misaligned and not functioning on Login page | Medium | [#1218](https://github.com/omroy07/AgriTech/issues/1218) |
+| Feature Request: Generate Participation Certificates for Contributors | Medium | [#1217](https://github.com/omroy07/AgriTech/issues/1217) |
+| Inconsistent layout: Header missing on Blog page | Medium | [#1216](https://github.com/omroy07/AgriTech/issues/1216) |
+| Career page missing footer section | Medium | [#1215](https://github.com/omroy07/AgriTech/issues/1215) |
+| feat: Add Working Links to Social Media Icons | Medium | [#1209](https://github.com/omroy07/AgriTech/issues/1209) |
 
 ---
 
@@ -1292,7 +1299,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chatbot | Medium | [#253](https://github.com/souvikpramanikgit/LearnHub/issues/253) |
 | screen shot of issused bugs | Medium | [#252](https://github.com/souvikpramanikgit/LearnHub/issues/252) |
 | Improve Landing Page Performance by Optimizing Background Image (LCP Enhancement) | Medium | [#251](https://github.com/souvikpramanikgit/LearnHub/issues/251) |
 | Optimized background image file issue | Medium | [#250](https://github.com/souvikpramanikgit/LearnHub/issues/250) |
@@ -2349,6 +2355,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix The Allignment Of The Content Of The Footer | Medium | [#1516](https://github.com/Rakesh9100/Beautiify/issues/1516) |
 | Add Checkboxes Category and several Components | Medium | [#1070](https://github.com/Rakesh9100/Beautiify/issues/1070) |
 
 ---
@@ -2538,7 +2545,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | Padding | Medium | [#395](https://github.com/code-well0/trip-planner/pull/395) |
 | Places Visited | Medium | [#394](https://github.com/code-well0/trip-planner/pull/394) |
-| Fix toast issue: consolidate ToastContainer in App.js | Medium | [#392](https://github.com/code-well0/trip-planner/pull/392) |
 
 ---
 
