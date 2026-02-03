@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: add pull request template | Medium | [#97](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/97) |
+| docs: add table of contents to README | Medium | [#96](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/96) |
 | Improve Emotion Detection Accuracy and Expand Supported Emotion Classes | Medium | [#95](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/95) |
 | Implement Pull Request Template for Contribution Standardization | Medium | [#94](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/94) |
 | Setup GitHub Issue Templates for Structured Feedback | Medium | [#93](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/93) |
@@ -39,8 +41,6 @@
 | Added youtube search option for emotion | Medium | [#67](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/67) |
 | New Feature : Build Emotion Tracker Dashboard | Medium | [#66](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/66) |
 | Feature Request: Add Logging Support Across the Project | Medium | [#65](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/65) |
-| Issue: Add a Tutorial Notebook for Model Inference and Music Recommendation | Medium | [#64](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/64) |
-| to add little video or image upload to get song recommendation | Medium | [#63](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/63) |
 
 ---
 
