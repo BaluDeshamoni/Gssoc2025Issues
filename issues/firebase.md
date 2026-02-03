@@ -61,7 +61,7 @@
 | 📃: Kanban notes management system | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
 | 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
-| Add "Forgot Password" link on Sign In page | Hard | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
+| 🧑‍💻: Add Multi-Language Support Using Language Translator | Hard | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 
 ---
 
@@ -114,6 +114,25 @@
 |  | Medium | [#255](https://github.com/ruhilmansi/fail-u-forward/issues/255) |
 | Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/ruhilmansi/fail-u-forward/issues/200) |
 | Testing & CI/CD | Medium | [#190](https://github.com/ruhilmansi/fail-u-forward/issues/190) |
+
+---
+
+## 📌 Project: WallGodds Web
+
+📝 **Description:** WallGodds is a open-source wallpaper platform tailored for individuals who love to personalize their devices. Whether you're looking for the perfect wallpaper for your mobile, tablet, or desktop, or you're a designer wanting to share your creativity with the world, WallGodds has you covered.
+
+🔗 [View Project](https://github.com/Parnab03/WallGodds)
+
+💻 **Tech Stack:** MERN, Firebase RDB
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add Search Bar In The Navbar | Medium | [#174](https://github.com/WallGodds/WallGodds-Web/issues/174) |
+| feat: Implement the 404 error page with an SVG illustration and a hom… | Medium | [#173](https://github.com/WallGodds/WallGodds-Web/pull/173) |
 
 ---
 
