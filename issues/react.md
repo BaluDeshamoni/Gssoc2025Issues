@@ -269,13 +269,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Align badge css classes and auto-sync badges during user update | Easy | [#3725](https://github.com/OWASP/Nest/pull/3725) |
+| fix: add rel="noopener noreferrer" to external Link in ItemCardList | Medium | [#3750](https://github.com/OWASP/Nest/pull/3750) |
+| Improve GitHub Profile Section in Navbar | Medium | [#3746](https://github.com/OWASP/Nest/issues/3746) |
+| Fixed 404 flash when opening repository pages | Medium | [#3744](https://github.com/OWASP/Nest/pull/3744) |
+| Light mode breadcrumb text color mismatch causing inconsistent UI | Medium | [#3741](https://github.com/OWASP/Nest/issues/3741) |
 | Skeleton UI mismatch for GitHub profile in mobile menu | Medium | [#3734](https://github.com/OWASP/Nest/issues/3734) |
 | Refactor unspecific for a type check with new TypeError | Medium | [#3726](https://github.com/OWASP/Nest/issues/3726) |
-| Align badge css classes and auto-sync badges during user update | Medium | [#3725](https://github.com/OWASP/Nest/pull/3725) |
 | Add Missing Accessibility (a11y) Tests for UI Components | Medium | [#3723](https://github.com/OWASP/Nest/issues/3723) |
-| Removed unused file | Medium | [#3710](https://github.com/OWASP/Nest/pull/3710) |
-| Resolve entity member admin attribute error | Medium | [#3709](https://github.com/OWASP/Nest/pull/3709) |
-| Centralize hardcoded embedding and chunking parameters in constants.py | Medium | [#3707](https://github.com/OWASP/Nest/issues/3707) |
 | Refactor unused react proptype in  AnchorTitleProp. | Medium | [#3706](https://github.com/OWASP/Nest/issues/3706) |
 | Add click feedback and visited state for clickable cards | Medium | [#3705](https://github.com/OWASP/Nest/issues/3705) |
 | optimize recent releases | Medium | [#3703](https://github.com/OWASP/Nest/pull/3703) |
@@ -286,14 +287,12 @@
 | Add deadline status badges and deadline filters to mentorship issues list | Medium | [#3695](https://github.com/OWASP/Nest/pull/3695) |
 | merging Multiple RUN Instruction in Frontend DockerFile. | Medium | [#3690](https://github.com/OWASP/Nest/issues/3690) |
 | Bug: Text overflow in program cards on mobile view | Medium | [#3683](https://github.com/OWASP/Nest/issues/3683) |
-| Mobile responsiveness for Recent Milestones section | Medium | [#3682](https://github.com/OWASP/Nest/pull/3682) |
 | refactor(ci): standardize security scans via Makefile targets | Medium | [#3678](https://github.com/OWASP/Nest/pull/3678) |
-| Fix: mentorship programs page responsive on smaller screens | Medium | [#3674](https://github.com/OWASP/Nest/pull/3674) |
 | Add bookmark/favorite support for projects and chapters | Medium | [#3671](https://github.com/OWASP/Nest/issues/3671) |
 | Prevent state updates after unmount in chapters page geoLocData fetch | Medium | [#3670](https://github.com/OWASP/Nest/issues/3670) |
-| Add rel="noopener noreferrer" to external Link in ItemCardList | Medium | [#3669](https://github.com/OWASP/Nest/issues/3669) |
 | Add descriptive message to PermissionDenied in update_program_status mutation | Medium | [#3668](https://github.com/OWASP/Nest/issues/3668) |
-| Fix Sonar S6582: Prefer optional chaining when accessing menu attributes | Medium | [#3667](https://github.com/OWASP/Nest/issues/3667) |
+| Optimize `latestRelease` field in `RepositoryNode` | Medium | [#3663](https://github.com/OWASP/Nest/issues/3663) |
+| Optimize `releases` field in `RepositoryNode` | Medium | [#3662](https://github.com/OWASP/Nest/issues/3662) |
 
 ---
 
@@ -329,7 +328,7 @@
 | 📃: Kanban notes management system | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
 | 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
-| Add "Forgot Password" link on Sign In page | Hard | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
+| 🧑‍💻: Add Multi-Language Support Using Language Translator | Hard | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 
 ---
 
@@ -611,6 +610,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#271](https://github.com/Devasy/splitwiser/pull/271) |
 | ux: Add animated success celebration when settled up | Medium | [#270](https://github.com/Devasy/splitwiser/pull/270) |
 | style: Consistent hover/focus states | Medium | [#267](https://github.com/Devasy/splitwiser/pull/267) |
 | Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
@@ -625,7 +625,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
-| API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
 
 ---
 
@@ -1159,7 +1158,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 |----------|----------------|---------|
 | Make the documentation better | Easy | [#708](https://github.com/NishantRana07/HrRoadways/issues/708) |
 | Created a Terms n Conditions Page and Improved Privacy Policy | Medium | [#717](https://github.com/NishantRana07/HrRoadways/pull/717) |
-| Update README.md | Medium | [#716](https://github.com/NishantRana07/HrRoadways/pull/716) |
 | Documentation Cleanup — Standardize PR Templates | Medium | [#715](https://github.com/NishantRana07/HrRoadways/issues/715) |
 | Grammar Pass on About Us | Medium | [#713](https://github.com/NishantRana07/HrRoadways/issues/713) |
 | Improve Hero CTA Copy | Medium | [#712](https://github.com/NishantRana07/HrRoadways/issues/712) |
@@ -1951,6 +1949,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump the production-dependencies group across 1 directory with 5 updates | Medium | [#95](https://github.com/Xenonesis/code-guardian-report/pull/95) |
+| chore(deps): bump @types/node from 25.1.0 to 25.2.0 in the dev-dependencies group | Medium | [#94](https://github.com/Xenonesis/code-guardian-report/pull/94) |
 | chore(deps): bump eslint from 8.57.1 to 9.39.2 in /functions | Medium | [#84](https://github.com/Xenonesis/code-guardian-report/pull/84) |
 | chore(deps): bump firebase-functions from 7.0.0 to 7.0.2 in /functions | Medium | [#83](https://github.com/Xenonesis/code-guardian-report/pull/83) |
 | chore(deps): bump @types/node from 18.19.130 to 25.0.3 in /functions | Medium | [#82](https://github.com/Xenonesis/code-guardian-report/pull/82) |
@@ -2464,12 +2464,14 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added swagger documentation for health for now | Easy | [#282](https://github.com/IndieHub25/GroqTales/pull/282) |
+| feat(api): add notification, wallet, and privacy settings endpoints | Medium | [#288](https://github.com/IndieHub25/GroqTales/pull/288) |
+| <The “Create” button in the top-right navigation bar is not clickable> | Medium | [#287](https://github.com/IndieHub25/GroqTales/issues/287) |
+| Security | Medium | [#286](https://github.com/IndieHub25/GroqTales/pull/286) |
+| Fix Community dropdown background bleed and content overlap | Medium | [#285](https://github.com/IndieHub25/GroqTales/pull/285) |
 | Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| Add containerized local development workflow using Docker & Docker Compose | Medium | [#195](https://github.com/IndieHub25/GroqTales/issues/195) |
-| `Security: Validate and rate limit story publishing & NFT minting endpoints` | Hard | [#230](https://github.com/IndieHub25/GroqTales/issues/230) |
 
 ---
 
@@ -2786,7 +2788,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | doc: API Documentation | Medium | [#259](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/259) |
-| docs: add comprehensive JSDoc documentation to Select component family | Medium | [#253](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/253) |
 | feat: Message Search Functionality | Medium | [#247](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/247) |
 | OTHER: Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | OTHER: JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
