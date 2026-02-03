@@ -211,13 +211,14 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Align badge css classes and auto-sync badges during user update | Easy | [#3725](https://github.com/OWASP/Nest/pull/3725) |
+| fix: add rel="noopener noreferrer" to external Link in ItemCardList | Medium | [#3750](https://github.com/OWASP/Nest/pull/3750) |
+| Improve GitHub Profile Section in Navbar | Medium | [#3746](https://github.com/OWASP/Nest/issues/3746) |
+| Fixed 404 flash when opening repository pages | Medium | [#3744](https://github.com/OWASP/Nest/pull/3744) |
+| Light mode breadcrumb text color mismatch causing inconsistent UI | Medium | [#3741](https://github.com/OWASP/Nest/issues/3741) |
 | Skeleton UI mismatch for GitHub profile in mobile menu | Medium | [#3734](https://github.com/OWASP/Nest/issues/3734) |
 | Refactor unspecific for a type check with new TypeError | Medium | [#3726](https://github.com/OWASP/Nest/issues/3726) |
-| Align badge css classes and auto-sync badges during user update | Medium | [#3725](https://github.com/OWASP/Nest/pull/3725) |
 | Add Missing Accessibility (a11y) Tests for UI Components | Medium | [#3723](https://github.com/OWASP/Nest/issues/3723) |
-| Removed unused file | Medium | [#3710](https://github.com/OWASP/Nest/pull/3710) |
-| Resolve entity member admin attribute error | Medium | [#3709](https://github.com/OWASP/Nest/pull/3709) |
-| Centralize hardcoded embedding and chunking parameters in constants.py | Medium | [#3707](https://github.com/OWASP/Nest/issues/3707) |
 | Refactor unused react proptype in  AnchorTitleProp. | Medium | [#3706](https://github.com/OWASP/Nest/issues/3706) |
 | Add click feedback and visited state for clickable cards | Medium | [#3705](https://github.com/OWASP/Nest/issues/3705) |
 | optimize recent releases | Medium | [#3703](https://github.com/OWASP/Nest/pull/3703) |
@@ -228,14 +229,12 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Add deadline status badges and deadline filters to mentorship issues list | Medium | [#3695](https://github.com/OWASP/Nest/pull/3695) |
 | merging Multiple RUN Instruction in Frontend DockerFile. | Medium | [#3690](https://github.com/OWASP/Nest/issues/3690) |
 | Bug: Text overflow in program cards on mobile view | Medium | [#3683](https://github.com/OWASP/Nest/issues/3683) |
-| Mobile responsiveness for Recent Milestones section | Medium | [#3682](https://github.com/OWASP/Nest/pull/3682) |
 | refactor(ci): standardize security scans via Makefile targets | Medium | [#3678](https://github.com/OWASP/Nest/pull/3678) |
-| Fix: mentorship programs page responsive on smaller screens | Medium | [#3674](https://github.com/OWASP/Nest/pull/3674) |
 | Add bookmark/favorite support for projects and chapters | Medium | [#3671](https://github.com/OWASP/Nest/issues/3671) |
 | Prevent state updates after unmount in chapters page geoLocData fetch | Medium | [#3670](https://github.com/OWASP/Nest/issues/3670) |
-| Add rel="noopener noreferrer" to external Link in ItemCardList | Medium | [#3669](https://github.com/OWASP/Nest/issues/3669) |
 | Add descriptive message to PermissionDenied in update_program_status mutation | Medium | [#3668](https://github.com/OWASP/Nest/issues/3668) |
-| Fix Sonar S6582: Prefer optional chaining when accessing menu attributes | Medium | [#3667](https://github.com/OWASP/Nest/issues/3667) |
+| Optimize `latestRelease` field in `RepositoryNode` | Medium | [#3663](https://github.com/OWASP/Nest/issues/3663) |
+| Optimize `releases` field in `RepositoryNode` | Medium | [#3662](https://github.com/OWASP/Nest/issues/3662) |
 
 ---
 
@@ -289,6 +288,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#271](https://github.com/Devasy/splitwiser/pull/271) |
 | ux: Add animated success celebration when settled up | Medium | [#270](https://github.com/Devasy/splitwiser/pull/270) |
 | style: Consistent hover/focus states | Medium | [#267](https://github.com/Devasy/splitwiser/pull/267) |
 | Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
@@ -303,7 +303,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
-| API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
 
 ---
 
@@ -572,23 +571,15 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve "Create New Post" Button UI/UX | Easy | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
 | feat: modernized landing page layout and visual hierarchy | Easy | [#1259](https://github.com/omroy07/AgriTech/pull/1259) |
-| Multi-language system is not working | Medium | [#1266](https://github.com/omroy07/AgriTech/issues/1266) |
-| Hamburger icon not working properly | Medium | [#1265](https://github.com/omroy07/AgriTech/issues/1265) |
-| Improve "Create New Post" Button UI/UX | Medium | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
-| Add footer section to blog page | Medium | [#1263](https://github.com/omroy07/AgriTech/pull/1263) |
-| Interactive "Companion Planting" Compatibility Checker | Medium | [#1262](https://github.com/omroy07/AgriTech/issues/1262) |
-| All schemes displayed instead of only eligible schemes | Medium | [#1261](https://github.com/omroy07/AgriTech/issues/1261) |
-| Implement Dark-Theme Glassmorphism for Services Dropdown | Medium | [#1260](https://github.com/omroy07/AgriTech/issues/1260) |
-| Add trailing cursor effect on  blog page | Medium | [#1257](https://github.com/omroy07/AgriTech/issues/1257) |
-| Add trailing cursor effect on supply chain page | Medium | [#1256](https://github.com/omroy07/AgriTech/issues/1256) |
-| Add trailing cursor effect on about page | Medium | [#1255](https://github.com/omroy07/AgriTech/issues/1255) |
-| Fix unintended UI text 1229 | Medium | [#1251](https://github.com/omroy07/AgriTech/pull/1251) |
-| Improve hover styles for all primary buttons | Medium | [#1234](https://github.com/omroy07/AgriTech/issues/1234) |
-| Hamburger menu not working on small devices on Blog page | Medium | [#1233](https://github.com/omroy07/AgriTech/issues/1233) |
+| Community Knowledge Hub & AI-Driven Content Moderation | Medium | [#1279](https://github.com/omroy07/AgriTech/issues/1279) |
+| Multi-Tiered Agri-Supply Chain Ledger & Quality Certification | Medium | [#1278](https://github.com/omroy07/AgriTech/issues/1278) |
+| Integrated Equipment Rental Marketplace & Escrow System | Medium | [#1277](https://github.com/omroy07/AgriTech/issues/1277) |
+| Improve styling of language dropdown button | Medium | [#1276](https://github.com/omroy07/AgriTech/pull/1276) |
+| added trailing cursor effect on about page | Medium | [#1275](https://github.com/omroy07/AgriTech/pull/1275) |
+| Cursor color does not match language selector styling | Medium | [#1270](https://github.com/omroy07/AgriTech/issues/1270) |
 | Hamburger menu not working on small devices on Scheme page | Medium | [#1232](https://github.com/omroy07/AgriTech/issues/1232) |
-| Improve styling of language dropdown button | Medium | [#1231](https://github.com/omroy07/AgriTech/issues/1231) |
-| Interactive Field Mapping with NDVI Analysis & Insights | Medium | [#1220](https://github.com/omroy07/AgriTech/pull/1220) |
 | Redesign Mission page for improved layout, clarity, and visual consistency | Medium | [#1219](https://github.com/omroy07/AgriTech/issues/1219) |
 | Theme toggle (Light/Dark) button misaligned and not functioning on Login page | Medium | [#1218](https://github.com/omroy07/AgriTech/issues/1218) |
 | Feature Request: Generate Participation Certificates for Contributors | Medium | [#1217](https://github.com/omroy07/AgriTech/issues/1217) |
@@ -922,6 +913,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: add pull request template | Medium | [#97](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/97) |
+| docs: add table of contents to README | Medium | [#96](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/96) |
 | Improve Emotion Detection Accuracy and Expand Supported Emotion Classes | Medium | [#95](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/95) |
 | Implement Pull Request Template for Contribution Standardization | Medium | [#94](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/94) |
 | Setup GitHub Issue Templates for Structured Feedback | Medium | [#93](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/93) |
@@ -947,8 +940,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Added youtube search option for emotion | Medium | [#67](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/67) |
 | New Feature : Build Emotion Tracker Dashboard | Medium | [#66](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/66) |
 | Feature Request: Add Logging Support Across the Project | Medium | [#65](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/65) |
-| Issue: Add a Tutorial Notebook for Model Inference and Music Recommendation | Medium | [#64](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/64) |
-| to add little video or image upload to get song recommendation | Medium | [#63](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/63) |
 
 ---
 
@@ -1201,6 +1192,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump the production-dependencies group across 1 directory with 5 updates | Medium | [#95](https://github.com/Xenonesis/code-guardian-report/pull/95) |
+| chore(deps): bump @types/node from 25.1.0 to 25.2.0 in the dev-dependencies group | Medium | [#94](https://github.com/Xenonesis/code-guardian-report/pull/94) |
 | chore(deps): bump eslint from 8.57.1 to 9.39.2 in /functions | Medium | [#84](https://github.com/Xenonesis/code-guardian-report/pull/84) |
 | chore(deps): bump firebase-functions from 7.0.0 to 7.0.2 in /functions | Medium | [#83](https://github.com/Xenonesis/code-guardian-report/pull/83) |
 | chore(deps): bump @types/node from 18.19.130 to 25.0.3 in /functions | Medium | [#82](https://github.com/Xenonesis/code-guardian-report/pull/82) |
@@ -1548,12 +1541,14 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added swagger documentation for health for now | Easy | [#282](https://github.com/IndieHub25/GroqTales/pull/282) |
+| feat(api): add notification, wallet, and privacy settings endpoints | Medium | [#288](https://github.com/IndieHub25/GroqTales/pull/288) |
+| <The “Create” button in the top-right navigation bar is not clickable> | Medium | [#287](https://github.com/IndieHub25/GroqTales/issues/287) |
+| Security | Medium | [#286](https://github.com/IndieHub25/GroqTales/pull/286) |
+| Fix Community dropdown background bleed and content overlap | Medium | [#285](https://github.com/IndieHub25/GroqTales/pull/285) |
 | Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| Add containerized local development workflow using Docker & Docker Compose | Medium | [#195](https://github.com/IndieHub25/GroqTales/issues/195) |
-| `Security: Validate and rate limit story publishing & NFT minting endpoints` | Hard | [#230](https://github.com/IndieHub25/GroqTales/issues/230) |
 
 ---
 
@@ -1722,7 +1717,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | doc: API Documentation | Medium | [#259](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/259) |
-| docs: add comprehensive JSDoc documentation to Select component family | Medium | [#253](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/253) |
 | feat: Message Search Functionality | Medium | [#247](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/247) |
 | OTHER: Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | OTHER: JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
