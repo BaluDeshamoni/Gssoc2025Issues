@@ -215,24 +215,24 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump framer-motion from 11.18.2 to 12.30.0 | Medium | [#261](https://github.com/Ojas-Arora/SapneSeSafar/pull/261) |
+| Bump @vitejs/plugin-react from 4.3.2 to 5.1.3 | Medium | [#260](https://github.com/Ojas-Arora/SapneSeSafar/pull/260) |
+| Bump zustand from 4.5.6 to 5.0.11 | Medium | [#259](https://github.com/Ojas-Arora/SapneSeSafar/pull/259) |
+| Bump eslint-plugin-react-refresh from 0.4.12 to 0.5.0 | Medium | [#258](https://github.com/Ojas-Arora/SapneSeSafar/pull/258) |
 | Bump autoprefixer from 10.4.20 to 10.4.24 | Medium | [#257](https://github.com/Ojas-Arora/SapneSeSafar/pull/257) |
 | Bump @supabase/supabase-js from 2.50.2 to 2.93.3 | Medium | [#256](https://github.com/Ojas-Arora/SapneSeSafar/pull/256) |
 | Bump axios from 1.7.9 to 1.13.4 | Medium | [#254](https://github.com/Ojas-Arora/SapneSeSafar/pull/254) |
-| Bump framer-motion from 11.18.2 to 12.29.2 | Medium | [#253](https://github.com/Ojas-Arora/SapneSeSafar/pull/253) |
 | Bump react and @types/react | Medium | [#252](https://github.com/Ojas-Arora/SapneSeSafar/pull/252) |
 | Bump react-dom and @types/react-dom | Medium | [#251](https://github.com/Ojas-Arora/SapneSeSafar/pull/251) |
 | Bump react-router-dom from 6.28.2 to 7.13.0 | Medium | [#248](https://github.com/Ojas-Arora/SapneSeSafar/pull/248) |
 | Bump lucide-react from 0.344.0 to 0.563.0 | Medium | [#246](https://github.com/Ojas-Arora/SapneSeSafar/pull/246) |
 | Bump recharts from 2.15.0 to 3.7.0 | Medium | [#244](https://github.com/Ojas-Arora/SapneSeSafar/pull/244) |
-| Bump zustand from 4.5.6 to 5.0.10 | Medium | [#237](https://github.com/Ojas-Arora/SapneSeSafar/pull/237) |
 | Bump @libsql/client from 0.5.6 to 0.17.0 | Medium | [#232](https://github.com/Ojas-Arora/SapneSeSafar/pull/232) |
 | Bump vite from 5.4.17 to 7.3.1 | Medium | [#231](https://github.com/Ojas-Arora/SapneSeSafar/pull/231) |
-| Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.26 | Medium | [#225](https://github.com/Ojas-Arora/SapneSeSafar/pull/225) |
 | Bump eslint from 9.12.0 to 9.39.2 | Medium | [#222](https://github.com/Ojas-Arora/SapneSeSafar/pull/222) |
 | Bump @types/papaparse from 5.3.16 to 5.5.2 | Medium | [#219](https://github.com/Ojas-Arora/SapneSeSafar/pull/219) |
 | Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
 | Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
-| Bump @vitejs/plugin-react from 4.3.2 to 5.1.2 | Medium | [#204](https://github.com/Ojas-Arora/SapneSeSafar/pull/204) |
 | Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
