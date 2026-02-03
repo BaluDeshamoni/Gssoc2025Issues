@@ -14,6 +14,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| BUG: Prescriptions page alignment issue in mobile device | Medium | [#246](https://github.com/Dipanita45/HEALCONNECT/issues/246) |
+| Create Contributor Page | Medium | [#245](https://github.com/Dipanita45/HEALCONNECT/issues/245) |
 | Add i18n languages | Medium | [#221](https://github.com/Dipanita45/HEALCONNECT/issues/221) |
 | Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
@@ -56,7 +58,6 @@
 |----------|----------------|---------|
 | fix(warnings): Increment 6. Fix files producing warnings. | Easy | [#191](https://github.com/SharonIV0x86/CinderPeak/issues/191) |
 | fix(warnings): Increment 5. Fix files producing warnings. | Easy | [#190](https://github.com/SharonIV0x86/CinderPeak/issues/190) |
-| fix(warnings): Increment 4: Fix files producing warnings. | Easy | [#189](https://github.com/SharonIV0x86/CinderPeak/issues/189) |
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
 
