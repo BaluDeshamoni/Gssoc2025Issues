@@ -22,6 +22,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump jspdf from 4.0.0 to 4.1.0 in /DevElevate/Client in the npm_and_yarn group across 1 directory | Medium | [#747](https://github.com/abhisek2004/Dev-Elevate/pull/747) |
 | Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -161,7 +162,7 @@ Accessibility features like dark mode,white.
 | 📃: Kanban notes management system | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
 | 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
-| Add "Forgot Password" link on Sign In page | Hard | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
+| 🧑‍💻: Add Multi-Language Support Using Language Translator | Hard | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 
 ---
 
@@ -299,6 +300,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#271](https://github.com/Devasy/splitwiser/pull/271) |
 | ux: Add animated success celebration when settled up | Medium | [#270](https://github.com/Devasy/splitwiser/pull/270) |
 | style: Consistent hover/focus states | Medium | [#267](https://github.com/Devasy/splitwiser/pull/267) |
 | Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
@@ -313,7 +315,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
 | Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
-| API documentation | Medium | [#149](https://github.com/Devasy/splitwiser/pull/149) |
 
 ---
 
@@ -495,7 +496,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 |----------|----------------|---------|
 | Make the documentation better | Easy | [#708](https://github.com/NishantRana07/HrRoadways/issues/708) |
 | Created a Terms n Conditions Page and Improved Privacy Policy | Medium | [#717](https://github.com/NishantRana07/HrRoadways/pull/717) |
-| Update README.md | Medium | [#716](https://github.com/NishantRana07/HrRoadways/pull/716) |
 | Documentation Cleanup — Standardize PR Templates | Medium | [#715](https://github.com/NishantRana07/HrRoadways/issues/715) |
 | Grammar Pass on About Us | Medium | [#713](https://github.com/NishantRana07/HrRoadways/issues/713) |
 | Improve Hero CTA Copy | Medium | [#712](https://github.com/NishantRana07/HrRoadways/issues/712) |
@@ -1204,12 +1204,14 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Added swagger documentation for health for now | Easy | [#282](https://github.com/IndieHub25/GroqTales/pull/282) |
+| feat(api): add notification, wallet, and privacy settings endpoints | Medium | [#288](https://github.com/IndieHub25/GroqTales/pull/288) |
+| <The “Create” button in the top-right navigation bar is not clickable> | Medium | [#287](https://github.com/IndieHub25/GroqTales/issues/287) |
+| Security | Medium | [#286](https://github.com/IndieHub25/GroqTales/pull/286) |
+| Fix Community dropdown background bleed and content overlap | Medium | [#285](https://github.com/IndieHub25/GroqTales/pull/285) |
 | Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| Add containerized local development workflow using Docker & Docker Compose | Medium | [#195](https://github.com/IndieHub25/GroqTales/issues/195) |
-| `Security: Validate and rate limit story publishing & NFT minting endpoints` | Hard | [#230](https://github.com/IndieHub25/GroqTales/issues/230) |
 
 ---
 
@@ -1380,7 +1382,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | doc: API Documentation | Medium | [#259](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/259) |
-| docs: add comprehensive JSDoc documentation to Select component family | Medium | [#253](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/253) |
 | feat: Message Search Functionality | Medium | [#247](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/247) |
 | OTHER: Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | OTHER: JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
