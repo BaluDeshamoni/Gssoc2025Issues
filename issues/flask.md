@@ -205,23 +205,15 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve "Create New Post" Button UI/UX | Easy | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
 | feat: modernized landing page layout and visual hierarchy | Easy | [#1259](https://github.com/omroy07/AgriTech/pull/1259) |
-| Multi-language system is not working | Medium | [#1266](https://github.com/omroy07/AgriTech/issues/1266) |
-| Hamburger icon not working properly | Medium | [#1265](https://github.com/omroy07/AgriTech/issues/1265) |
-| Improve "Create New Post" Button UI/UX | Medium | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
-| Add footer section to blog page | Medium | [#1263](https://github.com/omroy07/AgriTech/pull/1263) |
-| Interactive "Companion Planting" Compatibility Checker | Medium | [#1262](https://github.com/omroy07/AgriTech/issues/1262) |
-| All schemes displayed instead of only eligible schemes | Medium | [#1261](https://github.com/omroy07/AgriTech/issues/1261) |
-| Implement Dark-Theme Glassmorphism for Services Dropdown | Medium | [#1260](https://github.com/omroy07/AgriTech/issues/1260) |
-| Add trailing cursor effect on  blog page | Medium | [#1257](https://github.com/omroy07/AgriTech/issues/1257) |
-| Add trailing cursor effect on supply chain page | Medium | [#1256](https://github.com/omroy07/AgriTech/issues/1256) |
-| Add trailing cursor effect on about page | Medium | [#1255](https://github.com/omroy07/AgriTech/issues/1255) |
-| Fix unintended UI text 1229 | Medium | [#1251](https://github.com/omroy07/AgriTech/pull/1251) |
-| Improve hover styles for all primary buttons | Medium | [#1234](https://github.com/omroy07/AgriTech/issues/1234) |
-| Hamburger menu not working on small devices on Blog page | Medium | [#1233](https://github.com/omroy07/AgriTech/issues/1233) |
+| Community Knowledge Hub & AI-Driven Content Moderation | Medium | [#1279](https://github.com/omroy07/AgriTech/issues/1279) |
+| Multi-Tiered Agri-Supply Chain Ledger & Quality Certification | Medium | [#1278](https://github.com/omroy07/AgriTech/issues/1278) |
+| Integrated Equipment Rental Marketplace & Escrow System | Medium | [#1277](https://github.com/omroy07/AgriTech/issues/1277) |
+| Improve styling of language dropdown button | Medium | [#1276](https://github.com/omroy07/AgriTech/pull/1276) |
+| added trailing cursor effect on about page | Medium | [#1275](https://github.com/omroy07/AgriTech/pull/1275) |
+| Cursor color does not match language selector styling | Medium | [#1270](https://github.com/omroy07/AgriTech/issues/1270) |
 | Hamburger menu not working on small devices on Scheme page | Medium | [#1232](https://github.com/omroy07/AgriTech/issues/1232) |
-| Improve styling of language dropdown button | Medium | [#1231](https://github.com/omroy07/AgriTech/issues/1231) |
-| Interactive Field Mapping with NDVI Analysis & Insights | Medium | [#1220](https://github.com/omroy07/AgriTech/pull/1220) |
 | Redesign Mission page for improved layout, clarity, and visual consistency | Medium | [#1219](https://github.com/omroy07/AgriTech/issues/1219) |
 | Theme toggle (Light/Dark) button misaligned and not functioning on Login page | Medium | [#1218](https://github.com/omroy07/AgriTech/issues/1218) |
 | Feature Request: Generate Participation Certificates for Contributors | Medium | [#1217](https://github.com/omroy07/AgriTech/issues/1217) |
@@ -360,7 +352,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | doc: API Documentation | Medium | [#259](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/259) |
-| docs: add comprehensive JSDoc documentation to Select component family | Medium | [#253](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/253) |
 | feat: Message Search Functionality | Medium | [#247](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/247) |
 | OTHER: Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
 | OTHER: JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
