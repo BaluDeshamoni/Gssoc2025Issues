@@ -45,6 +45,7 @@
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
 | <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| Mobile Swipe-to-Delete for Expenses | Medium | [#272](https://github.com/Devasy/splitwiser/pull/272) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#271](https://github.com/Devasy/splitwiser/pull/271) |
 | ux: Add animated success celebration when settled up | Medium | [#270](https://github.com/Devasy/splitwiser/pull/270) |
 | style: Consistent hover/focus states | Medium | [#267](https://github.com/Devasy/splitwiser/pull/267) |
@@ -59,7 +60,6 @@
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
 | Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
-| Refactor backend services to reduce technical debt | Medium | [#151](https://github.com/Devasy/splitwiser/pull/151) |
 
 ---
 
