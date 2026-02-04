@@ -46,15 +46,14 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added swagger documentation for health for now | Easy | [#282](https://github.com/IndieHub25/GroqTales/pull/282) |
-| feat(api): add notification, wallet, and privacy settings endpoints | Medium | [#288](https://github.com/IndieHub25/GroqTales/pull/288) |
-| <The “Create” button in the top-right navigation bar is not clickable> | Medium | [#287](https://github.com/IndieHub25/GroqTales/issues/287) |
-| Security | Medium | [#286](https://github.com/IndieHub25/GroqTales/pull/286) |
-| Fix Community dropdown background bleed and content overlap | Medium | [#285](https://github.com/IndieHub25/GroqTales/pull/285) |
+| Modernize SECURITY.md with AI Safety and Private Vulnerability Reporting | Medium | [#294](https://github.com/IndieHub25/GroqTales/issues/294) |
+| Fix “Buy Now” Button | Medium | [#292](https://github.com/IndieHub25/GroqTales/issues/292) |
+| Like Button on NFT Cards Is Not Working | Medium | [#291](https://github.com/IndieHub25/GroqTales/issues/291) |
 | Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
+| GroqTales Home Page Revamp (New Hero, Flow, and NFT Story Experience)` | Hard | [#293](https://github.com/IndieHub25/GroqTales/issues/293) |
 
 ---
 
