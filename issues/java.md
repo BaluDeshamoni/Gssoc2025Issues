@@ -134,6 +134,23 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fix download issue | Medium | [#1043](https://github.com/opensource-society/notesvault/pull/1043) |
+| Integration Testing and Cleanup | Hard | [#1065](https://github.com/opensource-society/notesvault/issues/1065) |
+| Migrate Landing Page and Global Features | Hard | [#1064](https://github.com/opensource-society/notesvault/issues/1064) |
+| Migrate Study Tracker Feature | Hard | [#1063](https://github.com/opensource-society/notesvault/issues/1063) |
+| Migrate Todo List Feature | Hard | [#1062](https://github.com/opensource-society/notesvault/issues/1062) |
+| Migrate JotPad Feature | Hard | [#1061](https://github.com/opensource-society/notesvault/issues/1061) |
+| Migrate Upload Page | Hard | [#1060](https://github.com/opensource-society/notesvault/issues/1060) |
+| Migrate Profile Page | Hard | [#1059](https://github.com/opensource-society/notesvault/issues/1059) |
+| Migrate Notes Browsing Page | Hard | [#1058](https://github.com/opensource-society/notesvault/issues/1058) |
+| Migrate Dashboard Page | Hard | [#1057](https://github.com/opensource-society/notesvault/issues/1057) |
+| Migrate Authentication Pages | Hard | [#1056](https://github.com/opensource-society/notesvault/issues/1056) |
+| Implement Authentication Context | Hard | [#1055](https://github.com/opensource-society/notesvault/issues/1055) |
+| Create Layout Components | Hard | [#1054](https://github.com/opensource-society/notesvault/issues/1054) |
+| Build Shared UI Component Library | Hard | [#1053](https://github.com/opensource-society/notesvault/issues/1053) |
+| Implement TanStack Query Hooks | Hard | [#1052](https://github.com/opensource-society/notesvault/issues/1052) |
+| Create Data Service Abstraction Layer | Hard | [#1051](https://github.com/opensource-society/notesvault/issues/1051) |
+| Create TypeScript Type Definitions | Hard | [#1050](https://github.com/opensource-society/notesvault/issues/1050) |
+| Migrate Design System and Theme Configuration | Hard | [#1049](https://github.com/opensource-society/notesvault/issues/1049) |
 
 ---
 
@@ -299,6 +316,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| On the landing page, the navigation bar (Navbar) is displayed correctly. However, when the user clicks on “Plan a Trip”, the navbar is not good visible on the resulting page. | Medium | [#1932](https://github.com/apu52/Travel_Website/issues/1932) |
 | Implement Dynamic Search and Category Filtering for Destinations | Medium | [#1931](https://github.com/apu52/Travel_Website/issues/1931) |
 | Navbar overlaps the feedback image/content on feedback page | Medium | [#1930](https://github.com/apu52/Travel_Website/issues/1930) |
 | GitHub footer button does not redirect to repository | Medium | [#1929](https://github.com/apu52/Travel_Website/issues/1929) |
@@ -328,7 +346,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | feat: Enhanced color contrasts and animations in trip cards | Medium | [#1905](https://github.com/apu52/Travel_Website/pull/1905) |
 | Footer layout needs improvement on Guide page | Medium | [#1904](https://github.com/apu52/Travel_Website/issues/1904) |
 | Convert Homepage Hero Section into Carousel | Medium | [#1903](https://github.com/apu52/Travel_Website/issues/1903) |
-| Explore Top Destinations images are not sliding | Medium | [#1902](https://github.com/apu52/Travel_Website/issues/1902) |
 
 ---
 
@@ -418,6 +435,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed Prescriptions page alignment issue in mobile device | Medium | [#248](https://github.com/Dipanita45/HEALCONNECT/pull/248) |
+| fix: allow public access to appointments, monitoring, and prescriptio… | Medium | [#247](https://github.com/Dipanita45/HEALCONNECT/pull/247) |
 | Add i18n languages | Medium | [#221](https://github.com/Dipanita45/HEALCONNECT/issues/221) |
 | Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
@@ -725,29 +744,23 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve "Create New Post" Button UI/UX | Easy | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
 | feat: modernized landing page layout and visual hierarchy | Easy | [#1259](https://github.com/omroy07/AgriTech/pull/1259) |
-| Multi-language system is not working | Medium | [#1266](https://github.com/omroy07/AgriTech/issues/1266) |
-| Hamburger icon not working properly | Medium | [#1265](https://github.com/omroy07/AgriTech/issues/1265) |
-| Improve "Create New Post" Button UI/UX | Medium | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
-| Add footer section to blog page | Medium | [#1263](https://github.com/omroy07/AgriTech/pull/1263) |
-| Interactive "Companion Planting" Compatibility Checker | Medium | [#1262](https://github.com/omroy07/AgriTech/issues/1262) |
-| All schemes displayed instead of only eligible schemes | Medium | [#1261](https://github.com/omroy07/AgriTech/issues/1261) |
-| Implement Dark-Theme Glassmorphism for Services Dropdown | Medium | [#1260](https://github.com/omroy07/AgriTech/issues/1260) |
-| Add trailing cursor effect on  blog page | Medium | [#1257](https://github.com/omroy07/AgriTech/issues/1257) |
-| Add trailing cursor effect on supply chain page | Medium | [#1256](https://github.com/omroy07/AgriTech/issues/1256) |
-| Add trailing cursor effect on about page | Medium | [#1255](https://github.com/omroy07/AgriTech/issues/1255) |
-| Fix unintended UI text 1229 | Medium | [#1251](https://github.com/omroy07/AgriTech/pull/1251) |
-| Improve hover styles for all primary buttons | Medium | [#1234](https://github.com/omroy07/AgriTech/issues/1234) |
-| Hamburger menu not working on small devices on Blog page | Medium | [#1233](https://github.com/omroy07/AgriTech/issues/1233) |
-| Hamburger menu not working on small devices on Scheme page | Medium | [#1232](https://github.com/omroy07/AgriTech/issues/1232) |
-| Improve styling of language dropdown button | Medium | [#1231](https://github.com/omroy07/AgriTech/issues/1231) |
-| Interactive Field Mapping with NDVI Analysis & Insights | Medium | [#1220](https://github.com/omroy07/AgriTech/pull/1220) |
-| Redesign Mission page for improved layout, clarity, and visual consistency | Medium | [#1219](https://github.com/omroy07/AgriTech/issues/1219) |
-| Theme toggle (Light/Dark) button misaligned and not functioning on Login page | Medium | [#1218](https://github.com/omroy07/AgriTech/issues/1218) |
-| Feature Request: Generate Participation Certificates for Contributors | Medium | [#1217](https://github.com/omroy07/AgriTech/issues/1217) |
-| Inconsistent layout: Header missing on Blog page | Medium | [#1216](https://github.com/omroy07/AgriTech/issues/1216) |
-| Career page missing footer section | Medium | [#1215](https://github.com/omroy07/AgriTech/issues/1215) |
-| feat: Add Working Links to Social Media Icons | Medium | [#1209](https://github.com/omroy07/AgriTech/issues/1209) |
+| Add Trailing Cursor to AI Assistant Page | Medium | [#1306](https://github.com/omroy07/AgriTech/issues/1306) |
+| Add Trailing Cursor to Feedback Page | Medium | [#1305](https://github.com/omroy07/AgriTech/issues/1305) |
+| Add trailing cursor to marketplace page | Medium | [#1304](https://github.com/omroy07/AgriTech/issues/1304) |
+| fix: improve dark mode text visibility and contrast | Medium | [#1303](https://github.com/omroy07/AgriTech/pull/1303) |
+| Fix: Resolve navbar overflow issue with responsive design improvements | Medium | [#1302](https://github.com/omroy07/AgriTech/pull/1302) |
+| Refactor SECURITY.md for better readability and actionable reporting | Medium | [#1301](https://github.com/omroy07/AgriTech/issues/1301) |
+| Fix hamburger menu on Scheme page for small screens | Medium | [#1300](https://github.com/omroy07/AgriTech/pull/1300) |
+| Implement Integrated Equipment Rental Marketplace & Escrow System #1277 | Medium | [#1299](https://github.com/omroy07/AgriTech/pull/1299) |
+| Implement Multi-Tiered Agri-Supply Chain Ledger & Quality Certification | Medium | [#1298](https://github.com/omroy07/AgriTech/pull/1298) |
+| Implement Community Knowledge Hub & AI-Driven Content Moderation | Medium | [#1297](https://github.com/omroy07/AgriTech/pull/1297) |
+| Add multi-language support | Medium | [#1296](https://github.com/omroy07/AgriTech/pull/1296) |
+| added the better styling to the cards | Medium | [#1295](https://github.com/omroy07/AgriTech/pull/1295) |
+| Footer text is misaligned on mobile view | Medium | [#1293](https://github.com/omroy07/AgriTech/issues/1293) |
+| Footer text is not center aligned on mobile screens | Medium | [#1292](https://github.com/omroy07/AgriTech/issues/1292) |
+| Cursor color does not match language selector styling | Medium | [#1270](https://github.com/omroy07/AgriTech/issues/1270) |
 
 ---
 
@@ -2008,13 +2021,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added swagger documentation for health for now | Easy | [#282](https://github.com/IndieHub25/GroqTales/pull/282) |
+| Modernize SECURITY.md with AI Safety and Private Vulnerability Reporting | Medium | [#294](https://github.com/IndieHub25/GroqTales/issues/294) |
+| Fix “Buy Now” Button | Medium | [#292](https://github.com/IndieHub25/GroqTales/issues/292) |
+| Like Button on NFT Cards Is Not Working | Medium | [#291](https://github.com/IndieHub25/GroqTales/issues/291) |
 | Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| Add containerized local development workflow using Docker & Docker Compose | Medium | [#195](https://github.com/IndieHub25/GroqTales/issues/195) |
-| `Security: Validate and rate limit story publishing & NFT minting endpoints` | Hard | [#230](https://github.com/IndieHub25/GroqTales/issues/230) |
+| GroqTales Home Page Revamp (New Hero, Flow, and NFT Story Experience)` | Hard | [#293](https://github.com/IndieHub25/GroqTales/issues/293) |
 
 ---
 
@@ -2092,24 +2106,24 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump framer-motion from 11.18.2 to 12.31.0 | Medium | [#263](https://github.com/Ojas-Arora/SapneSeSafar/pull/263) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.94.0 | Medium | [#262](https://github.com/Ojas-Arora/SapneSeSafar/pull/262) |
+| Bump @vitejs/plugin-react from 4.3.2 to 5.1.3 | Medium | [#260](https://github.com/Ojas-Arora/SapneSeSafar/pull/260) |
+| Bump zustand from 4.5.6 to 5.0.11 | Medium | [#259](https://github.com/Ojas-Arora/SapneSeSafar/pull/259) |
+| Bump eslint-plugin-react-refresh from 0.4.12 to 0.5.0 | Medium | [#258](https://github.com/Ojas-Arora/SapneSeSafar/pull/258) |
 | Bump autoprefixer from 10.4.20 to 10.4.24 | Medium | [#257](https://github.com/Ojas-Arora/SapneSeSafar/pull/257) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.93.3 | Medium | [#256](https://github.com/Ojas-Arora/SapneSeSafar/pull/256) |
 | Bump axios from 1.7.9 to 1.13.4 | Medium | [#254](https://github.com/Ojas-Arora/SapneSeSafar/pull/254) |
-| Bump framer-motion from 11.18.2 to 12.29.2 | Medium | [#253](https://github.com/Ojas-Arora/SapneSeSafar/pull/253) |
 | Bump react and @types/react | Medium | [#252](https://github.com/Ojas-Arora/SapneSeSafar/pull/252) |
 | Bump react-dom and @types/react-dom | Medium | [#251](https://github.com/Ojas-Arora/SapneSeSafar/pull/251) |
 | Bump react-router-dom from 6.28.2 to 7.13.0 | Medium | [#248](https://github.com/Ojas-Arora/SapneSeSafar/pull/248) |
 | Bump lucide-react from 0.344.0 to 0.563.0 | Medium | [#246](https://github.com/Ojas-Arora/SapneSeSafar/pull/246) |
 | Bump recharts from 2.15.0 to 3.7.0 | Medium | [#244](https://github.com/Ojas-Arora/SapneSeSafar/pull/244) |
-| Bump zustand from 4.5.6 to 5.0.10 | Medium | [#237](https://github.com/Ojas-Arora/SapneSeSafar/pull/237) |
 | Bump @libsql/client from 0.5.6 to 0.17.0 | Medium | [#232](https://github.com/Ojas-Arora/SapneSeSafar/pull/232) |
 | Bump vite from 5.4.17 to 7.3.1 | Medium | [#231](https://github.com/Ojas-Arora/SapneSeSafar/pull/231) |
-| Bump eslint-plugin-react-refresh from 0.4.12 to 0.4.26 | Medium | [#225](https://github.com/Ojas-Arora/SapneSeSafar/pull/225) |
 | Bump eslint from 9.12.0 to 9.39.2 | Medium | [#222](https://github.com/Ojas-Arora/SapneSeSafar/pull/222) |
 | Bump @types/papaparse from 5.3.16 to 5.5.2 | Medium | [#219](https://github.com/Ojas-Arora/SapneSeSafar/pull/219) |
 | Bump tailwindcss from 3.4.17 to 4.1.18 | Medium | [#211](https://github.com/Ojas-Arora/SapneSeSafar/pull/211) |
 | Bump three from 0.161.0 to 0.182.0 | Medium | [#208](https://github.com/Ojas-Arora/SapneSeSafar/pull/208) |
-| Bump @vitejs/plugin-react from 4.3.2 to 5.1.2 | Medium | [#204](https://github.com/Ojas-Arora/SapneSeSafar/pull/204) |
 | Bump three and @types/three | Medium | [#164](https://github.com/Ojas-Arora/SapneSeSafar/pull/164) |
 | Bump eslint-plugin-react-hooks from 5.1.0-rc-fb9a90fa48-20240614 to 7.0.1 | Medium | [#156](https://github.com/Ojas-Arora/SapneSeSafar/pull/156) |
 | Bump typescript from 5.6.3 to 5.9.3 | Medium | [#128](https://github.com/Ojas-Arora/SapneSeSafar/pull/128) |
