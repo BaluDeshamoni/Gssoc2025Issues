@@ -131,8 +131,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Search Bar In The Navbar | Medium | [#174](https://github.com/WallGodds/WallGodds-Web/issues/174) |
-| feat: Implement the 404 error page with an SVG illustration and a hom… | Medium | [#173](https://github.com/WallGodds/WallGodds-Web/pull/173) |
+| Added some wallpapers for desktop | Medium | [#176](https://github.com/WallGodds/WallGodds-Web/pull/176) |
+| Added cateory-items galley page | Medium | [#175](https://github.com/WallGodds/WallGodds-Web/pull/175) |
 
 ---
 
