@@ -215,12 +215,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump framer-motion from 11.18.2 to 12.30.0 | Medium | [#261](https://github.com/Ojas-Arora/SapneSeSafar/pull/261) |
+| Bump framer-motion from 11.18.2 to 12.31.0 | Medium | [#263](https://github.com/Ojas-Arora/SapneSeSafar/pull/263) |
+| Bump @supabase/supabase-js from 2.50.2 to 2.94.0 | Medium | [#262](https://github.com/Ojas-Arora/SapneSeSafar/pull/262) |
 | Bump @vitejs/plugin-react from 4.3.2 to 5.1.3 | Medium | [#260](https://github.com/Ojas-Arora/SapneSeSafar/pull/260) |
 | Bump zustand from 4.5.6 to 5.0.11 | Medium | [#259](https://github.com/Ojas-Arora/SapneSeSafar/pull/259) |
 | Bump eslint-plugin-react-refresh from 0.4.12 to 0.5.0 | Medium | [#258](https://github.com/Ojas-Arora/SapneSeSafar/pull/258) |
 | Bump autoprefixer from 10.4.20 to 10.4.24 | Medium | [#257](https://github.com/Ojas-Arora/SapneSeSafar/pull/257) |
-| Bump @supabase/supabase-js from 2.50.2 to 2.93.3 | Medium | [#256](https://github.com/Ojas-Arora/SapneSeSafar/pull/256) |
 | Bump axios from 1.7.9 to 1.13.4 | Medium | [#254](https://github.com/Ojas-Arora/SapneSeSafar/pull/254) |
 | Bump react and @types/react | Medium | [#252](https://github.com/Ojas-Arora/SapneSeSafar/pull/252) |
 | Bump react-dom and @types/react-dom | Medium | [#251](https://github.com/Ojas-Arora/SapneSeSafar/pull/251) |
