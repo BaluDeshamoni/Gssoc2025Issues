@@ -15,7 +15,11 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Align badge css classes and auto-sync badges during user update | Easy | [#3725](https://github.com/OWASP/Nest/pull/3725) |
-| perf: optimize isMerged resolver using Prefetch | Medium | [#3764](https://github.com/OWASP/Nest/pull/3764) |
+| Enabled Strict Mode | Medium | [#3776](https://github.com/OWASP/Nest/pull/3776) |
+| Add CycloneDX SBOM generation for Docker images in CI/CD | Medium | [#3775](https://github.com/OWASP/Nest/issues/3775) |
+| Add user locking during API key creation | Medium | [#3774](https://github.com/OWASP/Nest/pull/3774) |
+| fix: optimize issues field in RepositoryNode | Medium | [#3770](https://github.com/OWASP/Nest/pull/3770) |
+| Fix N+1 query issue in releases field | Medium | [#3767](https://github.com/OWASP/Nest/pull/3767) |
 | Fix Sonar S6478 : Move this component definition out of the parent component and pass data as props. | Medium | [#3763](https://github.com/OWASP/Nest/issues/3763) |
 | Clarify WSL and Docker requirements for new contributors | Medium | [#3756](https://github.com/OWASP/Nest/issues/3756) |
 | Memory Leak: ScrollToTop timeout not cleared on unmount | Medium | [#3755](https://github.com/OWASP/Nest/issues/3755) |
@@ -34,12 +38,6 @@
 | optimize recent releases | Medium | [#3703](https://github.com/OWASP/Nest/pull/3703) |
 | Feature/snapshot notifications | Medium | [#3701](https://github.com/OWASP/Nest/pull/3701) |
 | Feature/nestbot ai assistant | Medium | [#3699](https://github.com/OWASP/Nest/pull/3699) |
-| feat: improve test coverage to 90% | Medium | [#3697](https://github.com/OWASP/Nest/pull/3697) |
-| Add deadline status badges and deadline filters to mentorship issues list | Medium | [#3695](https://github.com/OWASP/Nest/pull/3695) |
-| merging Multiple RUN Instruction in Frontend DockerFile. | Medium | [#3690](https://github.com/OWASP/Nest/issues/3690) |
-| Bug: Text overflow in program cards on mobile view | Medium | [#3683](https://github.com/OWASP/Nest/issues/3683) |
-| refactor(ci): standardize security scans via Makefile targets | Medium | [#3678](https://github.com/OWASP/Nest/pull/3678) |
-| Add bookmark/favorite support for projects and chapters | Medium | [#3671](https://github.com/OWASP/Nest/issues/3671) |
 
 ---
 
