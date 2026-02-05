@@ -299,7 +299,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
-| <title> | Easy | [#156](https://github.com/Devasy/splitwiser/issues/156) |
+| style: Add consistent focus-visible states to buttons | Medium | [#273](https://github.com/Devasy/splitwiser/pull/273) |
 | Mobile Swipe-to-Delete for Expenses | Medium | [#272](https://github.com/Devasy/splitwiser/pull/272) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#271](https://github.com/Devasy/splitwiser/pull/271) |
 | ux: Add animated success celebration when settled up | Medium | [#270](https://github.com/Devasy/splitwiser/pull/270) |
@@ -495,7 +495,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Make the documentation better | Easy | [#708](https://github.com/NishantRana07/HrRoadways/issues/708) |
-| Created a Terms n Conditions Page and Improved Privacy Policy | Medium | [#717](https://github.com/NishantRana07/HrRoadways/pull/717) |
 | Documentation Cleanup — Standardize PR Templates | Medium | [#715](https://github.com/NishantRana07/HrRoadways/issues/715) |
 | Grammar Pass on About Us | Medium | [#713](https://github.com/NishantRana07/HrRoadways/issues/713) |
 | Improve Hero CTA Copy | Medium | [#712](https://github.com/NishantRana07/HrRoadways/issues/712) |
@@ -554,6 +553,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Add forget Password feature | Medium | [#207](https://github.com/Prashanti-Hebbar/FoodIO/issues/207) |
 | Enhance profile of user | Medium | [#206](https://github.com/Prashanti-Hebbar/FoodIO/issues/206) |
 | add  no. of views | Medium | [#203](https://github.com/Prashanti-Hebbar/FoodIO/issues/203) |
+| Added ratings, comments, favorites, and auth updates with backend/fro… | Medium | [#199](https://github.com/Prashanti-Hebbar/FoodIO/pull/199) |
 
 ---
 
@@ -599,6 +599,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 |----------|----------------|---------|
 | Unrealistic / Distracting Image Hover Effect | Easy | [#93](https://github.com/Sahilll94/Travel-Book/issues/93) |
 | Create `src/utils` Directory for Common Helper Functions | Easy | [#91](https://github.com/Sahilll94/Travel-Book/issues/91) |
+| Add social media icons to ContributorsFooter | Medium | [#123](https://github.com/Sahilll94/Travel-Book/pull/123) |
 | [ FEATURE REQUEST ] - Add Travel Story Templates / Themes | Medium | [#117](https://github.com/Sahilll94/Travel-Book/issues/117) |
 | docs/feat: modernize footer and stats UI with glassmorphism and animations | Medium | [#116](https://github.com/Sahilll94/Travel-Book/pull/116) |
 | Story content disappears after switching tabs (Story ↔ Photos) | Medium | [#114](https://github.com/Sahilll94/Travel-Book/issues/114) |
@@ -1201,7 +1202,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Modernize SECURITY.md with AI Safety and Private Vulnerability Reporting | Medium | [#294](https://github.com/IndieHub25/GroqTales/issues/294) |
 | Fix “Buy Now” Button | Medium | [#292](https://github.com/IndieHub25/GroqTales/issues/292) |
 | Like Button on NFT Cards Is Not Working | Medium | [#291](https://github.com/IndieHub25/GroqTales/issues/291) |
 | Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
