@@ -46,7 +46,10 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Modernize SECURITY.md with AI Safety and Private Vulnerability Reporting | Medium | [#294](https://github.com/IndieHub25/GroqTales/issues/294) |
+| Added swagger doc for health api | Easy | [#295](https://github.com/IndieHub25/GroqTales/pull/295) |
+| Implemented Modal showing all details on Clicking NFT card in gallery page | Medium | [#298](https://github.com/IndieHub25/GroqTales/pull/298) |
+| Update SECURITY.md | Medium | [#297](https://github.com/IndieHub25/GroqTales/pull/297) |
+| Fix logger; add enhanced implementation & tests | Medium | [#296](https://github.com/IndieHub25/GroqTales/pull/296) |
 | Fix “Buy Now” Button | Medium | [#292](https://github.com/IndieHub25/GroqTales/issues/292) |
 | Like Button on NFT Cards Is Not Working | Medium | [#291](https://github.com/IndieHub25/GroqTales/issues/291) |
 | Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
