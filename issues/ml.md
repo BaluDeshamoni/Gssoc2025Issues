@@ -86,36 +86,35 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| git commit -m "docs: update roadmap timeline from Q3 2025 to Q1 2026" | Medium | [#724](https://github.com/opensource-society/CodeClip/pull/724) |
-| Add Claude Code GitHub Workflow | Medium | [#723](https://github.com/opensource-society/CodeClip/issues/723) |
-| Added my feature changes for UI enhancement | Medium | [#722](https://github.com/opensource-society/CodeClip/pull/722) |
 | <Short bug description> And additional suggestion for attractive leaderboard | Medium | [#721](https://github.com/opensource-society/CodeClip/issues/721) |
-| fixed GSSOC logo issue | Medium | [#720](https://github.com/opensource-society/CodeClip/pull/720) |
-| Added leadership style | Medium | [#719](https://github.com/opensource-society/CodeClip/pull/719) |
 | ui enhancement | Medium | [#718](https://github.com/opensource-society/CodeClip/issues/718) |
-| Fixes #710, fix(logo): make GSSoC logo responsive and prevent navbar overlap | Medium | [#717](https://github.com/opensource-society/CodeClip/pull/717) |
 | UI Enhancement: Improve About & Contact Section Layout | Medium | [#715](https://github.com/opensource-society/CodeClip/issues/715) |
 | <Short feature description> | Medium | [#714](https://github.com/opensource-society/CodeClip/issues/714) |
 | Footer Elements Not Alligned | Medium | [#713](https://github.com/opensource-society/CodeClip/issues/713) |
 | Improve UI Consistency and Layout Alignment Across CodeClip Website | Medium | [#712](https://github.com/opensource-society/CodeClip/issues/712) |
 | Inconsistency in Difficulty Labels | Medium | [#711](https://github.com/opensource-society/CodeClip/issues/711) |
 | Title: GSSOC 2025 Logo Not Fully Visible | Medium | [#710](https://github.com/opensource-society/CodeClip/issues/710) |
-| navbar setings | Medium | [#709](https://github.com/opensource-society/CodeClip/pull/709) |
 | Improve css | Medium | [#708](https://github.com/opensource-society/CodeClip/issues/708) |
-| Fix/favicon missing pages | Medium | [#707](https://github.com/opensource-society/CodeClip/pull/707) |
-| Added contact page | Medium | [#706](https://github.com/opensource-society/CodeClip/pull/706) |
 | UI Enhancement: Improve Landing Page Layout and Alignment | Medium | [#705](https://github.com/opensource-society/CodeClip/issues/705) |
-| Fixed the layout and navbar in mobile view | Medium | [#704](https://github.com/opensource-society/CodeClip/pull/704) |
 | UI misalignment in 'Top Coder of the Week' section | Medium | [#703](https://github.com/opensource-society/CodeClip/issues/703) |
 | To fix the images of the (Leader board)section | Medium | [#702](https://github.com/opensource-society/CodeClip/issues/702) |
 | To enhance the header to make it look great and look user friendly | Medium | [#701](https://github.com/opensource-society/CodeClip/issues/701) |
 | Add a logo for CodeClip | Medium | [#700](https://github.com/opensource-society/CodeClip/issues/700) |
 | Enhance Contact Us Section UI/UX with Glassmorphism | Medium | [#699](https://github.com/opensource-society/CodeClip/issues/699) |
 | UI/UX Improvements for Overall Website Layout | Medium | [#698](https://github.com/opensource-society/CodeClip/issues/698) |
-| Changed the Readme by Adding the poster | Medium | [#696](https://github.com/opensource-society/CodeClip/pull/696) |
-| Modified the footer UI with icons and improved layout with an attractive footer | Medium | [#695](https://github.com/opensource-society/CodeClip/pull/695) |
 | Feature Proposal:Add Dark Mode/Dark Theme | Medium | [#694](https://github.com/opensource-society/CodeClip/issues/694) |
-| Fixed the contact us alignment | Medium | [#693](https://github.com/opensource-society/CodeClip/pull/693) |
+| <Short bug description>Broken button layout in the "Contact Us" section | Medium | [#691](https://github.com/opensource-society/CodeClip/issues/691) |
+| <Short feature description>Add Daily Challenge for Bonus Points | Medium | [#689](https://github.com/opensource-society/CodeClip/issues/689) |
+| Adding info in the explore pages given in challenges | Medium | [#686](https://github.com/opensource-society/CodeClip/issues/686) |
+| External challenge links should open in a new tab | Medium | [#681](https://github.com/opensource-society/CodeClip/issues/681) |
+| <Want to add attractive footer> | Medium | [#680](https://github.com/opensource-society/CodeClip/issues/680) |
+| Hamburger icon is not visible for smaller screens. | Medium | [#679](https://github.com/opensource-society/CodeClip/issues/679) |
+| Add Pull Request (PR) Template | Medium | [#677](https://github.com/opensource-society/CodeClip/issues/677) |
+| Add GSSoC Banner to README | Medium | [#676](https://github.com/opensource-society/CodeClip/issues/676) |
+| Invisible nav-bar and not working links in the footer | Medium | [#675](https://github.com/opensource-society/CodeClip/issues/675) |
+| Winner Section: Oversized Images and Misaligned Text | Medium | [#674](https://github.com/opensource-society/CodeClip/issues/674) |
+| Add animation and details in the home page | Medium | [#673](https://github.com/opensource-society/CodeClip/issues/673) |
+| User security vunerabilty before login (feature enhancement also | Medium | [#672](https://github.com/opensource-society/CodeClip/issues/672) |
 
 ---
 
@@ -133,7 +132,26 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve contributing guide with testing section and formatting | Medium | [#1069](https://github.com/opensource-society/notesvault/pull/1069) |
+| Improve README with local run instructions | Medium | [#1068](https://github.com/opensource-society/notesvault/pull/1068) |
 | Fix download issue | Medium | [#1043](https://github.com/opensource-society/notesvault/pull/1043) |
+| Integration Testing and Cleanup | Hard | [#1065](https://github.com/opensource-society/notesvault/issues/1065) |
+| Migrate Landing Page and Global Features | Hard | [#1064](https://github.com/opensource-society/notesvault/issues/1064) |
+| Migrate Study Tracker Feature | Hard | [#1063](https://github.com/opensource-society/notesvault/issues/1063) |
+| Migrate Todo List Feature | Hard | [#1062](https://github.com/opensource-society/notesvault/issues/1062) |
+| Migrate JotPad Feature | Hard | [#1061](https://github.com/opensource-society/notesvault/issues/1061) |
+| Migrate Upload Page | Hard | [#1060](https://github.com/opensource-society/notesvault/issues/1060) |
+| Migrate Profile Page | Hard | [#1059](https://github.com/opensource-society/notesvault/issues/1059) |
+| Migrate Notes Browsing Page | Hard | [#1058](https://github.com/opensource-society/notesvault/issues/1058) |
+| Migrate Dashboard Page | Hard | [#1057](https://github.com/opensource-society/notesvault/issues/1057) |
+| Migrate Authentication Pages | Hard | [#1056](https://github.com/opensource-society/notesvault/issues/1056) |
+| Implement Authentication Context | Hard | [#1055](https://github.com/opensource-society/notesvault/issues/1055) |
+| Create Layout Components | Hard | [#1054](https://github.com/opensource-society/notesvault/issues/1054) |
+| Build Shared UI Component Library | Hard | [#1053](https://github.com/opensource-society/notesvault/issues/1053) |
+| Implement TanStack Query Hooks | Hard | [#1052](https://github.com/opensource-society/notesvault/issues/1052) |
+| Create Data Service Abstraction Layer | Hard | [#1051](https://github.com/opensource-society/notesvault/issues/1051) |
+| Create TypeScript Type Definitions | Hard | [#1050](https://github.com/opensource-society/notesvault/issues/1050) |
+| Migrate Design System and Theme Configuration | Hard | [#1049](https://github.com/opensource-society/notesvault/issues/1049) |
 
 ---
 
@@ -412,6 +430,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Air Freight Services Company India | Medium | [#1933](https://github.com/apu52/Travel_Website/issues/1933) |
+| On the landing page, the navigation bar (Navbar) is displayed correctly. However, when the user clicks on “Plan a Trip”, the navbar is not good visible on the resulting page. | Medium | [#1932](https://github.com/apu52/Travel_Website/issues/1932) |
 | Implement Dynamic Search and Category Filtering for Destinations | Medium | [#1931](https://github.com/apu52/Travel_Website/issues/1931) |
 | Navbar overlaps the feedback image/content on feedback page | Medium | [#1930](https://github.com/apu52/Travel_Website/issues/1930) |
 | GitHub footer button does not redirect to repository | Medium | [#1929](https://github.com/apu52/Travel_Website/issues/1929) |
@@ -440,8 +460,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Lack of visual loading feedback when performing search actions | Medium | [#1906](https://github.com/apu52/Travel_Website/issues/1906) |
 | feat: Enhanced color contrasts and animations in trip cards | Medium | [#1905](https://github.com/apu52/Travel_Website/pull/1905) |
 | Footer layout needs improvement on Guide page | Medium | [#1904](https://github.com/apu52/Travel_Website/issues/1904) |
-| Convert Homepage Hero Section into Carousel | Medium | [#1903](https://github.com/apu52/Travel_Website/issues/1903) |
-| Explore Top Destinations images are not sliding | Medium | [#1902](https://github.com/apu52/Travel_Website/issues/1902) |
 
 ---
 
@@ -802,21 +820,28 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve "Create New Post" Button UI/UX | Easy | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
-| feat: modernized landing page layout and visual hierarchy | Easy | [#1259](https://github.com/omroy07/AgriTech/pull/1259) |
-| Community Knowledge Hub & AI-Driven Content Moderation | Medium | [#1279](https://github.com/omroy07/AgriTech/issues/1279) |
-| Multi-Tiered Agri-Supply Chain Ledger & Quality Certification | Medium | [#1278](https://github.com/omroy07/AgriTech/issues/1278) |
-| Integrated Equipment Rental Marketplace & Escrow System | Medium | [#1277](https://github.com/omroy07/AgriTech/issues/1277) |
-| Improve styling of language dropdown button | Medium | [#1276](https://github.com/omroy07/AgriTech/pull/1276) |
-| added trailing cursor effect on about page | Medium | [#1275](https://github.com/omroy07/AgriTech/pull/1275) |
-| Cursor color does not match language selector styling | Medium | [#1270](https://github.com/omroy07/AgriTech/issues/1270) |
-| Hamburger menu not working on small devices on Scheme page | Medium | [#1232](https://github.com/omroy07/AgriTech/issues/1232) |
-| Redesign Mission page for improved layout, clarity, and visual consistency | Medium | [#1219](https://github.com/omroy07/AgriTech/issues/1219) |
-| Theme toggle (Light/Dark) button misaligned and not functioning on Login page | Medium | [#1218](https://github.com/omroy07/AgriTech/issues/1218) |
-| Feature Request: Generate Participation Certificates for Contributors | Medium | [#1217](https://github.com/omroy07/AgriTech/issues/1217) |
-| Inconsistent layout: Header missing on Blog page | Medium | [#1216](https://github.com/omroy07/AgriTech/issues/1216) |
-| Career page missing footer section | Medium | [#1215](https://github.com/omroy07/AgriTech/issues/1215) |
-| feat: Add Working Links to Social Media Icons | Medium | [#1209](https://github.com/omroy07/AgriTech/issues/1209) |
+| Enhance “Create New Post” Form with Additional Fields for Better Blog Management | Medium | [#1339](https://github.com/omroy07/AgriTech/issues/1339) |
+| Add New Blog to Technology Section for Better Awareness of Smart Farming Innovations | Medium | [#1338](https://github.com/omroy07/AgriTech/issues/1338) |
+| Blog Search Bar Does Not Filter Posts Based on Entered Keywords | Medium | [#1337](https://github.com/omroy07/AgriTech/issues/1337) |
+| About Page Theme Not Updating When Switching Between Light and Dark Mode | Medium | [#1336](https://github.com/omroy07/AgriTech/issues/1336) |
+| Add Green Border Highlight on Hover for Platform Benefit Cards | Medium | [#1335](https://github.com/omroy07/AgriTech/issues/1335) |
+| Add Trailing Cursor to Crop Recommendation Page | Medium | [#1334](https://github.com/omroy07/AgriTech/issues/1334) |
+| Add Trailing Cursor to Organic Farming Page | Medium | [#1333](https://github.com/omroy07/AgriTech/issues/1333) |
+| Add Trailing Cursor to Disease Detector Page | Medium | [#1332](https://github.com/omroy07/AgriTech/issues/1332) |
+| Fix A11Y issues: contrast, viewport, accessible buttons | Medium | [#1331](https://github.com/omroy07/AgriTech/pull/1331) |
+| Multi-Tenant Farm Management & Asset Tracking | Medium | [#1330](https://github.com/omroy07/AgriTech/issues/1330) |
+| Automated Weather Integration & Crop Advisory Engine | Medium | [#1329](https://github.com/omroy07/AgriTech/issues/1329) |
+| Agricultural Knowledge Exchange & Expert Reputation System | Medium | [#1328](https://github.com/omroy07/AgriTech/issues/1328) |
+| Add Unit and Integration Tests for Backend API Endpoints | Medium | [#1325](https://github.com/omroy07/AgriTech/issues/1325) |
+| fix: Optimize product card layout and enhance cart button design | Medium | [#1324](https://github.com/omroy07/AgriTech/pull/1324) |
+| fix: display only eligible schemes in eligibility checker | Medium | [#1323](https://github.com/omroy07/AgriTech/pull/1323) |
+| Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
+| Trailing Cursor Effect Added to Yield Prediction Page | Medium | [#1320](https://github.com/omroy07/AgriTech/pull/1320) |
+| Trailing Cursor Effect Added to Weather Page | Medium | [#1319](https://github.com/omroy07/AgriTech/pull/1319) |
+| added trailing cursor to shopkeeper page | Medium | [#1318](https://github.com/omroy07/AgriTech/pull/1318) |
+| Buttons not responding in Profit & Loss Analytics dashboard | Medium | [#1317](https://github.com/omroy07/AgriTech/issues/1317) |
+| Light mode and language buttons are not working in the navbar | Medium | [#1316](https://github.com/omroy07/AgriTech/issues/1316) |
+| Add Trailing Cursor to AI Assistant Page | Medium | [#1306](https://github.com/omroy07/AgriTech/issues/1306) |
 
 ---
 
@@ -1156,8 +1181,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| <Component> Add more GPU components | Medium | [#113](https://github.com/SamXop123/RigCrafter/issues/113) |
-| <Component> Add more RAM Components | Medium | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
+| <Component> Add more GPU components | Hard | [#113](https://github.com/SamXop123/RigCrafter/issues/113) |
+| <Component> Add more RAM Components | Hard | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
 
 ---
 
