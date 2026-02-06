@@ -727,8 +727,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| <Component> Add more GPU components | Medium | [#113](https://github.com/SamXop123/RigCrafter/issues/113) |
-| <Component> Add more RAM Components | Medium | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
+| <Component> Add more GPU components | Hard | [#113](https://github.com/SamXop123/RigCrafter/issues/113) |
+| <Component> Add more RAM Components | Hard | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
 
 ---
 
