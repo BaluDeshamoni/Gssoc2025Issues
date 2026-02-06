@@ -131,8 +131,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added some wallpapers for desktop | Medium | [#176](https://github.com/WallGodds/WallGodds-Web/pull/176) |
-| Added cateory-items galley page | Medium | [#175](https://github.com/WallGodds/WallGodds-Web/pull/175) |
+| Update signup UI and route Join action to /signup | Medium | [#182](https://github.com/WallGodds/WallGodds-Web/pull/182) |
+| Fix(ui): Polish Sign Up page UI, borders, and vector icons to match Figma | Medium | [#181](https://github.com/WallGodds/WallGodds-Web/pull/181) |
+| feat: update upload page UI with drag-and-drop and preview | Medium | [#179](https://github.com/WallGodds/WallGodds-Web/pull/179) |
 
 ---
 
