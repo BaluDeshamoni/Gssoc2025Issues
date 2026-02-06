@@ -211,30 +211,22 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Align badge css classes and auto-sync badges during user update | Easy | [#3725](https://github.com/OWASP/Nest/pull/3725) |
-| Enabled Strict Mode | Medium | [#3776](https://github.com/OWASP/Nest/pull/3776) |
-| Add CycloneDX SBOM generation for Docker images in CI/CD | Medium | [#3775](https://github.com/OWASP/Nest/issues/3775) |
+| Clarify WSL and Docker requirements for new contributors | Easy | [#3782](https://github.com/OWASP/Nest/pull/3782) |
+| fix(a11y): Correct color contrast for WCAG AA compliance (#3797) | Medium | [#3798](https://github.com/OWASP/Nest/pull/3798) |
+| CI:  Add ansible-lint workflow for Ansible playbooks | Medium | [#3796](https://github.com/OWASP/Nest/pull/3796) |
+| Enable Cmd + K to Activate Search Bar | Medium | [#3794](https://github.com/OWASP/Nest/issues/3794) |
+| e2e tests heavily impacting local system resources | Medium | [#3792](https://github.com/OWASP/Nest/issues/3792) |
+| fix: reject malformed URLs with invalid netloc values | Medium | [#3790](https://github.com/OWASP/Nest/pull/3790) |
+| fix: optimize interested users field in IssueNode | Medium | [#3788](https://github.com/OWASP/Nest/pull/3788) |
+| CI: Validate Docker Compose files in CI and locally | Medium | [#3786](https://github.com/OWASP/Nest/pull/3786) |
+| fix: reject malformed URLs with invalid netloc values | Medium | [#3784](https://github.com/OWASP/Nest/pull/3784) |
 | Add user locking during API key creation | Medium | [#3774](https://github.com/OWASP/Nest/pull/3774) |
 | fix: optimize issues field in RepositoryNode | Medium | [#3770](https://github.com/OWASP/Nest/pull/3770) |
 | Fix N+1 query issue in releases field | Medium | [#3767](https://github.com/OWASP/Nest/pull/3767) |
 | Fix Sonar S6478 : Move this component definition out of the parent component and pass data as props. | Medium | [#3763](https://github.com/OWASP/Nest/issues/3763) |
-| Clarify WSL and Docker requirements for new contributors | Medium | [#3756](https://github.com/OWASP/Nest/issues/3756) |
-| Memory Leak: ScrollToTop timeout not cleared on unmount | Medium | [#3755](https://github.com/OWASP/Nest/issues/3755) |
-| Memory Leak: LogoCarousel clones DOM nodes without cleanup | Medium | [#3754](https://github.com/OWASP/Nest/issues/3754) |
 | Performance: N+1 database queries in mentorship module mutations | Medium | [#3753](https://github.com/OWASP/Nest/issues/3753) |
 | Security: MultiSearch uses unsafe globalThis.open() without security controls | Medium | [#3752](https://github.com/OWASP/Nest/issues/3752) |
-| Security: Footer external links missing rel="noopener noreferrer" | Medium | [#3751](https://github.com/OWASP/Nest/issues/3751) |
 | Improve GitHub Profile Section in Navbar | Medium | [#3746](https://github.com/OWASP/Nest/issues/3746) |
-| Fixed 404 flash when opening repository pages | Medium | [#3744](https://github.com/OWASP/Nest/pull/3744) |
-| Light mode breadcrumb text color mismatch causing inconsistent UI | Medium | [#3741](https://github.com/OWASP/Nest/issues/3741) |
-| Skeleton UI mismatch for GitHub profile in mobile menu | Medium | [#3734](https://github.com/OWASP/Nest/issues/3734) |
-| Refactor unspecific for a type check with new TypeError | Medium | [#3726](https://github.com/OWASP/Nest/issues/3726) |
-| Add Missing Accessibility (a11y) Tests for UI Components | Medium | [#3723](https://github.com/OWASP/Nest/issues/3723) |
-| Refactor unused react proptype in  AnchorTitleProp. | Medium | [#3706](https://github.com/OWASP/Nest/issues/3706) |
-| Add click feedback and visited state for clickable cards | Medium | [#3705](https://github.com/OWASP/Nest/issues/3705) |
-| optimize recent releases | Medium | [#3703](https://github.com/OWASP/Nest/pull/3703) |
-| Feature/snapshot notifications | Medium | [#3701](https://github.com/OWASP/Nest/pull/3701) |
-| Feature/nestbot ai assistant | Medium | [#3699](https://github.com/OWASP/Nest/pull/3699) |
 
 ---
 
@@ -287,6 +279,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#274](https://github.com/Devasy/splitwiser/pull/274) |
 | style: Add consistent focus-visible states to buttons | Medium | [#273](https://github.com/Devasy/splitwiser/pull/273) |
 | Mobile Swipe-to-Delete for Expenses | Medium | [#272](https://github.com/Devasy/splitwiser/pull/272) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#271](https://github.com/Devasy/splitwiser/pull/271) |
@@ -302,7 +295,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
 | pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
-| Ft/firebase storage workflow | Medium | [#157](https://github.com/Devasy/splitwiser/pull/157) |
 
 ---
 
@@ -571,24 +563,28 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve "Create New Post" Button UI/UX | Easy | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
-| feat: modernized landing page layout and visual hierarchy | Easy | [#1259](https://github.com/omroy07/AgriTech/pull/1259) |
-| Add Trailing Cursor to Weather Page | Medium | [#1315](https://github.com/omroy07/AgriTech/issues/1315) |
-| Add Trailing Cursor to Shopkeeper Page | Medium | [#1314](https://github.com/omroy07/AgriTech/issues/1314) |
-| Add Trailing Cursor to Yield Prediction Page | Medium | [#1313](https://github.com/omroy07/AgriTech/issues/1313) |
-| Added Trailing Cursor Effect to AI Assistant Page | Medium | [#1310](https://github.com/omroy07/AgriTech/pull/1310) |
-| Added Trailing Cursor Effect to Marketplace Page | Medium | [#1309](https://github.com/omroy07/AgriTech/pull/1309) |
-| Added trailing cursor to feedback page | Medium | [#1308](https://github.com/omroy07/AgriTech/pull/1308) |
+| Enhance “Create New Post” Form with Additional Fields for Better Blog Management | Medium | [#1339](https://github.com/omroy07/AgriTech/issues/1339) |
+| Add New Blog to Technology Section for Better Awareness of Smart Farming Innovations | Medium | [#1338](https://github.com/omroy07/AgriTech/issues/1338) |
+| Blog Search Bar Does Not Filter Posts Based on Entered Keywords | Medium | [#1337](https://github.com/omroy07/AgriTech/issues/1337) |
+| About Page Theme Not Updating When Switching Between Light and Dark Mode | Medium | [#1336](https://github.com/omroy07/AgriTech/issues/1336) |
+| Add Green Border Highlight on Hover for Platform Benefit Cards | Medium | [#1335](https://github.com/omroy07/AgriTech/issues/1335) |
+| Add Trailing Cursor to Crop Recommendation Page | Medium | [#1334](https://github.com/omroy07/AgriTech/issues/1334) |
+| Add Trailing Cursor to Organic Farming Page | Medium | [#1333](https://github.com/omroy07/AgriTech/issues/1333) |
+| Add Trailing Cursor to Disease Detector Page | Medium | [#1332](https://github.com/omroy07/AgriTech/issues/1332) |
+| Fix A11Y issues: contrast, viewport, accessible buttons | Medium | [#1331](https://github.com/omroy07/AgriTech/pull/1331) |
+| Multi-Tenant Farm Management & Asset Tracking | Medium | [#1330](https://github.com/omroy07/AgriTech/issues/1330) |
+| Automated Weather Integration & Crop Advisory Engine | Medium | [#1329](https://github.com/omroy07/AgriTech/issues/1329) |
+| Agricultural Knowledge Exchange & Expert Reputation System | Medium | [#1328](https://github.com/omroy07/AgriTech/issues/1328) |
+| Add Unit and Integration Tests for Backend API Endpoints | Medium | [#1325](https://github.com/omroy07/AgriTech/issues/1325) |
+| fix: Optimize product card layout and enhance cart button design | Medium | [#1324](https://github.com/omroy07/AgriTech/pull/1324) |
+| fix: display only eligible schemes in eligibility checker | Medium | [#1323](https://github.com/omroy07/AgriTech/pull/1323) |
+| Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
+| Trailing Cursor Effect Added to Yield Prediction Page | Medium | [#1320](https://github.com/omroy07/AgriTech/pull/1320) |
+| Trailing Cursor Effect Added to Weather Page | Medium | [#1319](https://github.com/omroy07/AgriTech/pull/1319) |
+| added trailing cursor to shopkeeper page | Medium | [#1318](https://github.com/omroy07/AgriTech/pull/1318) |
+| Buttons not responding in Profit & Loss Analytics dashboard | Medium | [#1317](https://github.com/omroy07/AgriTech/issues/1317) |
+| Light mode and language buttons are not working in the navbar | Medium | [#1316](https://github.com/omroy07/AgriTech/issues/1316) |
 | Add Trailing Cursor to AI Assistant Page | Medium | [#1306](https://github.com/omroy07/AgriTech/issues/1306) |
-| Refactor SECURITY.md for better readability and actionable reporting | Medium | [#1301](https://github.com/omroy07/AgriTech/issues/1301) |
-| Implement Multi-Tiered Agri-Supply Chain Ledger & Quality Certification | Medium | [#1298](https://github.com/omroy07/AgriTech/pull/1298) |
-| Implement Community Knowledge Hub & AI-Driven Content Moderation | Medium | [#1297](https://github.com/omroy07/AgriTech/pull/1297) |
-| Cursor color does not match language selector styling | Medium | [#1270](https://github.com/omroy07/AgriTech/issues/1270) |
-| Redesign Mission page for improved layout, clarity, and visual consistency | Medium | [#1219](https://github.com/omroy07/AgriTech/issues/1219) |
-| Theme toggle (Light/Dark) button misaligned and not functioning on Login page | Medium | [#1218](https://github.com/omroy07/AgriTech/issues/1218) |
-| Feature Request: Generate Participation Certificates for Contributors | Medium | [#1217](https://github.com/omroy07/AgriTech/issues/1217) |
-| Inconsistent layout: Header missing on Blog page | Medium | [#1216](https://github.com/omroy07/AgriTech/issues/1216) |
-| Career page missing footer section | Medium | [#1215](https://github.com/omroy07/AgriTech/issues/1215) |
 
 ---
 
@@ -1543,6 +1539,10 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added swagger doc for health api | Easy | [#295](https://github.com/IndieHub25/GroqTales/pull/295) |
+| Implemented Modal showing all details on Clicking NFT card in gallery page | Medium | [#298](https://github.com/IndieHub25/GroqTales/pull/298) |
+| Update SECURITY.md | Medium | [#297](https://github.com/IndieHub25/GroqTales/pull/297) |
+| Fix logger; add enhanced implementation & tests | Medium | [#296](https://github.com/IndieHub25/GroqTales/pull/296) |
 | Fix “Buy Now” Button | Medium | [#292](https://github.com/IndieHub25/GroqTales/issues/292) |
 | Like Button on NFT Cards Is Not Working | Medium | [#291](https://github.com/IndieHub25/GroqTales/issues/291) |
 | Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
