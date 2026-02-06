@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Secure Firestore rules to allow access only for authenticated users | Medium | [#254](https://github.com/Dipanita45/HEALCONNECT/issues/254) |
+| Bug: Appointment cards don't adapt to dark mode theme toggle | Medium | [#264](https://github.com/Dipanita45/HEALCONNECT/issues/264) |
 | Add i18n languages | Medium | [#221](https://github.com/Dipanita45/HEALCONNECT/issues/221) |
 | Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
