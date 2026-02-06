@@ -161,30 +161,22 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Align badge css classes and auto-sync badges during user update | Easy | [#3725](https://github.com/OWASP/Nest/pull/3725) |
-| fix: add rel="noopener noreferrer" to external Link in ItemCardList | Medium | [#3750](https://github.com/OWASP/Nest/pull/3750) |
+| Clarify WSL and Docker requirements for new contributors | Easy | [#3782](https://github.com/OWASP/Nest/pull/3782) |
+| fix(a11y): Correct color contrast for WCAG AA compliance (#3797) | Medium | [#3798](https://github.com/OWASP/Nest/pull/3798) |
+| CI:  Add ansible-lint workflow for Ansible playbooks | Medium | [#3796](https://github.com/OWASP/Nest/pull/3796) |
+| Enable Cmd + K to Activate Search Bar | Medium | [#3794](https://github.com/OWASP/Nest/issues/3794) |
+| e2e tests heavily impacting local system resources | Medium | [#3792](https://github.com/OWASP/Nest/issues/3792) |
+| fix: reject malformed URLs with invalid netloc values | Medium | [#3790](https://github.com/OWASP/Nest/pull/3790) |
+| fix: optimize interested users field in IssueNode | Medium | [#3788](https://github.com/OWASP/Nest/pull/3788) |
+| CI: Validate Docker Compose files in CI and locally | Medium | [#3786](https://github.com/OWASP/Nest/pull/3786) |
+| fix: reject malformed URLs with invalid netloc values | Medium | [#3784](https://github.com/OWASP/Nest/pull/3784) |
+| Add user locking during API key creation | Medium | [#3774](https://github.com/OWASP/Nest/pull/3774) |
+| fix: optimize issues field in RepositoryNode | Medium | [#3770](https://github.com/OWASP/Nest/pull/3770) |
+| Fix N+1 query issue in releases field | Medium | [#3767](https://github.com/OWASP/Nest/pull/3767) |
+| Fix Sonar S6478 : Move this component definition out of the parent component and pass data as props. | Medium | [#3763](https://github.com/OWASP/Nest/issues/3763) |
+| Performance: N+1 database queries in mentorship module mutations | Medium | [#3753](https://github.com/OWASP/Nest/issues/3753) |
+| Security: MultiSearch uses unsafe globalThis.open() without security controls | Medium | [#3752](https://github.com/OWASP/Nest/issues/3752) |
 | Improve GitHub Profile Section in Navbar | Medium | [#3746](https://github.com/OWASP/Nest/issues/3746) |
-| Fixed 404 flash when opening repository pages | Medium | [#3744](https://github.com/OWASP/Nest/pull/3744) |
-| Light mode breadcrumb text color mismatch causing inconsistent UI | Medium | [#3741](https://github.com/OWASP/Nest/issues/3741) |
-| Skeleton UI mismatch for GitHub profile in mobile menu | Medium | [#3734](https://github.com/OWASP/Nest/issues/3734) |
-| Refactor unspecific for a type check with new TypeError | Medium | [#3726](https://github.com/OWASP/Nest/issues/3726) |
-| Add Missing Accessibility (a11y) Tests for UI Components | Medium | [#3723](https://github.com/OWASP/Nest/issues/3723) |
-| Refactor unused react proptype in  AnchorTitleProp. | Medium | [#3706](https://github.com/OWASP/Nest/issues/3706) |
-| Add click feedback and visited state for clickable cards | Medium | [#3705](https://github.com/OWASP/Nest/issues/3705) |
-| optimize recent releases | Medium | [#3703](https://github.com/OWASP/Nest/pull/3703) |
-| Feature/snapshot notifications | Medium | [#3701](https://github.com/OWASP/Nest/pull/3701) |
-| Feature/nestbot ai assistant | Medium | [#3699](https://github.com/OWASP/Nest/pull/3699) |
-| Prefer optional chaining in organizations list (typescript:S6582) | Medium | [#3698](https://github.com/OWASP/Nest/pull/3698) |
-| feat: improve test coverage to 90% | Medium | [#3697](https://github.com/OWASP/Nest/pull/3697) |
-| Add deadline status badges and deadline filters to mentorship issues list | Medium | [#3695](https://github.com/OWASP/Nest/pull/3695) |
-| merging Multiple RUN Instruction in Frontend DockerFile. | Medium | [#3690](https://github.com/OWASP/Nest/issues/3690) |
-| Bug: Text overflow in program cards on mobile view | Medium | [#3683](https://github.com/OWASP/Nest/issues/3683) |
-| refactor(ci): standardize security scans via Makefile targets | Medium | [#3678](https://github.com/OWASP/Nest/pull/3678) |
-| Add bookmark/favorite support for projects and chapters | Medium | [#3671](https://github.com/OWASP/Nest/issues/3671) |
-| Prevent state updates after unmount in chapters page geoLocData fetch | Medium | [#3670](https://github.com/OWASP/Nest/issues/3670) |
-| Add descriptive message to PermissionDenied in update_program_status mutation | Medium | [#3668](https://github.com/OWASP/Nest/issues/3668) |
-| Optimize `latestRelease` field in `RepositoryNode` | Medium | [#3663](https://github.com/OWASP/Nest/issues/3663) |
-| Optimize `releases` field in `RepositoryNode` | Medium | [#3662](https://github.com/OWASP/Nest/issues/3662) |
 
 ---
 
@@ -225,8 +217,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| BUG: Prescriptions page alignment issue in mobile device | Medium | [#246](https://github.com/Dipanita45/HEALCONNECT/issues/246) |
-| Create Contributor Page | Medium | [#245](https://github.com/Dipanita45/HEALCONNECT/issues/245) |
+| Bug: Appointment cards don't adapt to dark mode theme toggle | Medium | [#264](https://github.com/Dipanita45/HEALCONNECT/issues/264) |
 | Add i18n languages | Medium | [#221](https://github.com/Dipanita45/HEALCONNECT/issues/221) |
 | Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
 | added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
@@ -1042,15 +1033,17 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added swagger documentation for health for now | Easy | [#282](https://github.com/IndieHub25/GroqTales/pull/282) |
-| feat(api): add notification, wallet, and privacy settings endpoints | Medium | [#288](https://github.com/IndieHub25/GroqTales/pull/288) |
-| <The “Create” button in the top-right navigation bar is not clickable> | Medium | [#287](https://github.com/IndieHub25/GroqTales/issues/287) |
-| Security | Medium | [#286](https://github.com/IndieHub25/GroqTales/pull/286) |
-| Fix Community dropdown background bleed and content overlap | Medium | [#285](https://github.com/IndieHub25/GroqTales/pull/285) |
+| Added swagger doc for health api | Easy | [#295](https://github.com/IndieHub25/GroqTales/pull/295) |
+| Implemented Modal showing all details on Clicking NFT card in gallery page | Medium | [#298](https://github.com/IndieHub25/GroqTales/pull/298) |
+| Update SECURITY.md | Medium | [#297](https://github.com/IndieHub25/GroqTales/pull/297) |
+| Fix logger; add enhanced implementation & tests | Medium | [#296](https://github.com/IndieHub25/GroqTales/pull/296) |
+| Fix “Buy Now” Button | Medium | [#292](https://github.com/IndieHub25/GroqTales/issues/292) |
+| Like Button on NFT Cards Is Not Working | Medium | [#291](https://github.com/IndieHub25/GroqTales/issues/291) |
 | Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 | API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
 | Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
+| GroqTales Home Page Revamp (New Hero, Flow, and NFT Story Experience)` | Hard | [#293](https://github.com/IndieHub25/GroqTales/issues/293) |
 
 ---
 
@@ -1302,11 +1295,11 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| build(deps): bump @modelcontextprotocol/sdk from 1.11.0 to 1.26.0 | Medium | [#107](https://github.com/dscnitrourkela/project-huckleberry/pull/107) |
 | build(deps): bump next from 16.0.10 to 16.1.5 | Medium | [#106](https://github.com/dscnitrourkela/project-huckleberry/pull/106) |
 | build(deps): bump lodash from 4.17.21 to 4.17.23 | Medium | [#105](https://github.com/dscnitrourkela/project-huckleberry/pull/105) |
 | build(deps): bump glob from 10.4.5 to 13.0.0 | Medium | [#103](https://github.com/dscnitrourkela/project-huckleberry/pull/103) |
 | build(deps): bump qs from 6.14.0 to 6.14.1 | Medium | [#101](https://github.com/dscnitrourkela/project-huckleberry/pull/101) |
-| build(deps): bump @modelcontextprotocol/sdk from 1.11.0 to 1.24.0 | Medium | [#98](https://github.com/dscnitrourkela/project-huckleberry/pull/98) |
 | build(deps): bump express from 5.1.0 to 5.2.1 | Medium | [#97](https://github.com/dscnitrourkela/project-huckleberry/pull/97) |
 | build(deps): bump js-yaml from 4.1.0 to 4.1.1 | Medium | [#95](https://github.com/dscnitrourkela/project-huckleberry/pull/95) |
 | build(deps): bump next-auth from 5.0.0-beta.27 to 5.0.0-beta.30 | Medium | [#94](https://github.com/dscnitrourkela/project-huckleberry/pull/94) |
@@ -1338,24 +1331,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
 | Add Contact Page | Medium | [#4](https://github.com/subhadeeproy3902/mvpblocks/issues/4) |
-
----
-
-## 📌 Project: Smriti AI
-
-📝 **Description:** Smriti AI is an intelligent, all-in-one learning assistant that helps you organize, understand, and retain everything you study from notes and youtube videos.
-
-🔗 [View Project](https://github.com/vatsal-bhakodia/smriti-ai)
-
-💻 **Tech Stack:** Next.js, Prisma, PostgreSQL, Clerk Auth
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Bump jspdf from 4.0.0 to 4.1.0 | Medium | [#225](https://github.com/vatsal-bhakodia/smriti-ai/pull/225) |
 
 ---
 
