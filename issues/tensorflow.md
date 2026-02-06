@@ -66,6 +66,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Chore/add issue templates | Medium | [#99](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/99) |
+| Features | Medium | [#98](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/98) |
 | chore: add pull request template | Medium | [#97](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/97) |
 | docs: add table of contents to README | Medium | [#96](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/96) |
 | Improve Emotion Detection Accuracy and Expand Supported Emotion Classes | Medium | [#95](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/95) |
@@ -91,8 +93,6 @@
 | Integrate Gemini API for giving suggestions based on the detected mood | Medium | [#69](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/69) |
 | Enhance Camera Robustness: Add Error Handling and Shutter/Low-Light Detection | Medium | [#68](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/68) |
 | Added youtube search option for emotion | Medium | [#67](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/67) |
-| New Feature : Build Emotion Tracker Dashboard | Medium | [#66](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/66) |
-| Feature Request: Add Logging Support Across the Project | Medium | [#65](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/65) |
 
 ---
 
