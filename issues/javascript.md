@@ -436,10 +436,19 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Start Live Chat is not working | Medium | [#294](https://github.com/Dipanita45/HEALCONNECT/issues/294) |
+| Fixed contact form submission in contact's page | Medium | [#293](https://github.com/Dipanita45/HEALCONNECT/pull/293) |
+| Fix/doctor availability from base | Medium | [#292](https://github.com/Dipanita45/HEALCONNECT/pull/292) |
+| fix: refactor auth to Firebase, fix DoctorCard HTML, unify theme | Medium | [#291](https://github.com/Dipanita45/HEALCONNECT/pull/291) |
+| Send us message form is not working | Medium | [#290](https://github.com/Dipanita45/HEALCONNECT/issues/290) |
+| Fix: Improve accessibility and performance in `faq.js` | Medium | [#285](https://github.com/Dipanita45/HEALCONNECT/pull/285) |
+| Fix aria attributes and animation properties in FAQ | Medium | [#278](https://github.com/Dipanita45/HEALCONNECT/pull/278) |
+| Fix #276 | Medium | [#277](https://github.com/Dipanita45/HEALCONNECT/pull/277) |
+| Add HealthInsights component and alerting | Medium | [#274](https://github.com/Dipanita45/HEALCONNECT/pull/274) |
+| fix: improve FAQ accessibility and animation performance | Medium | [#272](https://github.com/Dipanita45/HEALCONNECT/pull/272) |
+| Prevent overlapping appointments and validate availability | Medium | [#271](https://github.com/Dipanita45/HEALCONNECT/pull/271) |
+| add-linkdin-link-connect-with-us | Medium | [#268](https://github.com/Dipanita45/HEALCONNECT/pull/268) |
 | Bug: Appointment cards don't adapt to dark mode theme toggle | Medium | [#264](https://github.com/Dipanita45/HEALCONNECT/issues/264) |
-| Add i18n languages | Medium | [#221](https://github.com/Dipanita45/HEALCONNECT/issues/221) |
-| Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
-| added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
 
 ---
 
@@ -744,28 +753,25 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance “Create New Post” Form with Additional Fields for Better Blog Management | Medium | [#1339](https://github.com/omroy07/AgriTech/issues/1339) |
-| Add New Blog to Technology Section for Better Awareness of Smart Farming Innovations | Medium | [#1338](https://github.com/omroy07/AgriTech/issues/1338) |
-| Blog Search Bar Does Not Filter Posts Based on Entered Keywords | Medium | [#1337](https://github.com/omroy07/AgriTech/issues/1337) |
-| About Page Theme Not Updating When Switching Between Light and Dark Mode | Medium | [#1336](https://github.com/omroy07/AgriTech/issues/1336) |
-| Add Green Border Highlight on Hover for Platform Benefit Cards | Medium | [#1335](https://github.com/omroy07/AgriTech/issues/1335) |
-| Add Trailing Cursor to Crop Recommendation Page | Medium | [#1334](https://github.com/omroy07/AgriTech/issues/1334) |
-| Add Trailing Cursor to Organic Farming Page | Medium | [#1333](https://github.com/omroy07/AgriTech/issues/1333) |
-| Add Trailing Cursor to Disease Detector Page | Medium | [#1332](https://github.com/omroy07/AgriTech/issues/1332) |
-| Fix A11Y issues: contrast, viewport, accessible buttons | Medium | [#1331](https://github.com/omroy07/AgriTech/pull/1331) |
+| Improve "Create New Post" Button UI/UX | Easy | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
+| Add Trailing Cursor to Farmer Connection Page | Medium | [#1354](https://github.com/omroy07/AgriTech/issues/1354) |
+| Add Trailing Cursor to Plantation Guidance & Crop Planner Pages | Medium | [#1353](https://github.com/omroy07/AgriTech/issues/1353) |
+| Add Trailing Cursor to Plantation Guidance Page | Medium | [#1352](https://github.com/omroy07/AgriTech/issues/1352) |
+| Add “Expired” tag for schemes based on deadline and disable apply action | Medium | [#1351](https://github.com/omroy07/AgriTech/pull/1351) |
+| Fix About page theme not updating on Light/Dark toggle | Medium | [#1350](https://github.com/omroy07/AgriTech/pull/1350) |
+| Add green border highlight on hover for Platform Benefit cards | Medium | [#1349](https://github.com/omroy07/AgriTech/pull/1349) |
+| Home Page Navbar: Dark/Light Toggle and Language Switch Not Working | Medium | [#1348](https://github.com/omroy07/AgriTech/issues/1348) |
+| Add direct Favorites icon for quick navigation to Favorites page | Medium | [#1347](https://github.com/omroy07/AgriTech/issues/1347) |
 | Multi-Tenant Farm Management & Asset Tracking | Medium | [#1330](https://github.com/omroy07/AgriTech/issues/1330) |
 | Automated Weather Integration & Crop Advisory Engine | Medium | [#1329](https://github.com/omroy07/AgriTech/issues/1329) |
 | Agricultural Knowledge Exchange & Expert Reputation System | Medium | [#1328](https://github.com/omroy07/AgriTech/issues/1328) |
 | Add Unit and Integration Tests for Backend API Endpoints | Medium | [#1325](https://github.com/omroy07/AgriTech/issues/1325) |
-| fix: Optimize product card layout and enhance cart button design | Medium | [#1324](https://github.com/omroy07/AgriTech/pull/1324) |
-| fix: display only eligible schemes in eligibility checker | Medium | [#1323](https://github.com/omroy07/AgriTech/pull/1323) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
-| Trailing Cursor Effect Added to Yield Prediction Page | Medium | [#1320](https://github.com/omroy07/AgriTech/pull/1320) |
-| Trailing Cursor Effect Added to Weather Page | Medium | [#1319](https://github.com/omroy07/AgriTech/pull/1319) |
-| added trailing cursor to shopkeeper page | Medium | [#1318](https://github.com/omroy07/AgriTech/pull/1318) |
 | Buttons not responding in Profit & Loss Analytics dashboard | Medium | [#1317](https://github.com/omroy07/AgriTech/issues/1317) |
 | Light mode and language buttons are not working in the navbar | Medium | [#1316](https://github.com/omroy07/AgriTech/issues/1316) |
-| Add Trailing Cursor to AI Assistant Page | Medium | [#1306](https://github.com/omroy07/AgriTech/issues/1306) |
+| Refactor SECURITY.md for better readability and actionable reporting | Medium | [#1301](https://github.com/omroy07/AgriTech/issues/1301) |
+| Cursor color does not match language selector styling | Medium | [#1270](https://github.com/omroy07/AgriTech/issues/1270) |
+| Redesign Mission page for improved layout, clarity, and visual consistency | Medium | [#1219](https://github.com/omroy07/AgriTech/issues/1219) |
 
 ---
 
@@ -1942,17 +1948,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added swagger doc for health api | Easy | [#295](https://github.com/IndieHub25/GroqTales/pull/295) |
-| Implemented Modal showing all details on Clicking NFT card in gallery page | Medium | [#298](https://github.com/IndieHub25/GroqTales/pull/298) |
-| Update SECURITY.md | Medium | [#297](https://github.com/IndieHub25/GroqTales/pull/297) |
-| Fix logger; add enhanced implementation & tests | Medium | [#296](https://github.com/IndieHub25/GroqTales/pull/296) |
-| Fix “Buy Now” Button | Medium | [#292](https://github.com/IndieHub25/GroqTales/issues/292) |
-| Like Button on NFT Cards Is Not Working | Medium | [#291](https://github.com/IndieHub25/GroqTales/issues/291) |
-| Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
+| Enhancement: Add hover effects for interactive UI elements | Medium | [#304](https://github.com/IndieHub25/GroqTales/issues/304) |
+| NFT Listing Page – Like Button Issue Fixed | Medium | [#303](https://github.com/IndieHub25/GroqTales/pull/303) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
-| API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
-| Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| GroqTales Home Page Revamp (New Hero, Flow, and NFT Story Experience)` | Hard | [#293](https://github.com/IndieHub25/GroqTales/issues/293) |
 
 ---
 
