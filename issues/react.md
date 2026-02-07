@@ -269,22 +269,20 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Clarify WSL and Docker requirements for new contributors | Easy | [#3782](https://github.com/OWASP/Nest/pull/3782) |
+| fix: add security controls to MultiSearch window.open() | Medium | [#3821](https://github.com/OWASP/Nest/pull/3821) |
+| Fix/issue node interested users prefetch | Medium | [#3813](https://github.com/OWASP/Nest/pull/3813) |
+| Light mode breadcrumb text color mismatch causing inconsistent UI | Medium | [#3808](https://github.com/OWASP/Nest/pull/3808) |
+| security: harden production settings for GraphQL, HSTS, and HTTP headers (fixes #3783) | Medium | [#3799](https://github.com/OWASP/Nest/pull/3799) |
 | fix(a11y): Correct color contrast for WCAG AA compliance (#3797) | Medium | [#3798](https://github.com/OWASP/Nest/pull/3798) |
 | CI:  Add ansible-lint workflow for Ansible playbooks | Medium | [#3796](https://github.com/OWASP/Nest/pull/3796) |
 | Enable Cmd + K to Activate Search Bar | Medium | [#3794](https://github.com/OWASP/Nest/issues/3794) |
 | e2e tests heavily impacting local system resources | Medium | [#3792](https://github.com/OWASP/Nest/issues/3792) |
-| fix: reject malformed URLs with invalid netloc values | Medium | [#3790](https://github.com/OWASP/Nest/pull/3790) |
 | fix: optimize interested users field in IssueNode | Medium | [#3788](https://github.com/OWASP/Nest/pull/3788) |
-| CI: Validate Docker Compose files in CI and locally | Medium | [#3786](https://github.com/OWASP/Nest/pull/3786) |
-| fix: reject malformed URLs with invalid netloc values | Medium | [#3784](https://github.com/OWASP/Nest/pull/3784) |
 | Add user locking during API key creation | Medium | [#3774](https://github.com/OWASP/Nest/pull/3774) |
 | fix: optimize issues field in RepositoryNode | Medium | [#3770](https://github.com/OWASP/Nest/pull/3770) |
 | Fix N+1 query issue in releases field | Medium | [#3767](https://github.com/OWASP/Nest/pull/3767) |
 | Fix Sonar S6478 : Move this component definition out of the parent component and pass data as props. | Medium | [#3763](https://github.com/OWASP/Nest/issues/3763) |
 | Performance: N+1 database queries in mentorship module mutations | Medium | [#3753](https://github.com/OWASP/Nest/issues/3753) |
-| Security: MultiSearch uses unsafe globalThis.open() without security controls | Medium | [#3752](https://github.com/OWASP/Nest/issues/3752) |
-| Improve GitHub Profile Section in Navbar | Medium | [#3746](https://github.com/OWASP/Nest/issues/3746) |
 
 ---
 
@@ -601,6 +599,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
+| enhance: Add animated success celebration | Medium | [#275](https://github.com/Devasy/splitwiser/pull/275) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#274](https://github.com/Devasy/splitwiser/pull/274) |
 | style: Add consistent focus-visible states to buttons | Medium | [#273](https://github.com/Devasy/splitwiser/pull/273) |
 | Mobile Swipe-to-Delete for Expenses | Medium | [#272](https://github.com/Devasy/splitwiser/pull/272) |
@@ -2170,6 +2169,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix React Server Components CVE vulnerabilities | Medium | [#9](https://github.com/Ayushhgupta39/natively-ui/pull/9) |
 | Fix React Server Components CVE vulnerabilities | Medium | [#8](https://github.com/Ayushhgupta39/natively-ui/pull/8) |
 | Move to Top Button Added | Medium | [#7](https://github.com/Ayushhgupta39/natively-ui/pull/7) |
 | Dark and Light Theme Toggle Button with Functionality | Medium | [#5](https://github.com/Ayushhgupta39/natively-ui/issues/5) |
@@ -2454,17 +2454,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added swagger doc for health api | Easy | [#295](https://github.com/IndieHub25/GroqTales/pull/295) |
-| Implemented Modal showing all details on Clicking NFT card in gallery page | Medium | [#298](https://github.com/IndieHub25/GroqTales/pull/298) |
-| Update SECURITY.md | Medium | [#297](https://github.com/IndieHub25/GroqTales/pull/297) |
-| Fix logger; add enhanced implementation & tests | Medium | [#296](https://github.com/IndieHub25/GroqTales/pull/296) |
-| Fix “Buy Now” Button | Medium | [#292](https://github.com/IndieHub25/GroqTales/issues/292) |
-| Like Button on NFT Cards Is Not Working | Medium | [#291](https://github.com/IndieHub25/GroqTales/issues/291) |
-| Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
+| Enhancement: Add hover effects for interactive UI elements | Medium | [#304](https://github.com/IndieHub25/GroqTales/issues/304) |
+| NFT Listing Page – Like Button Issue Fixed | Medium | [#303](https://github.com/IndieHub25/GroqTales/pull/303) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
-| API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
-| Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| GroqTales Home Page Revamp (New Hero, Flow, and NFT Story Experience)` | Hard | [#293](https://github.com/IndieHub25/GroqTales/issues/293) |
 
 ---
 
@@ -2525,7 +2517,6 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | Community Impact Leaderboard & Action Gamification | Medium | [#119](https://github.com/prasoonk1204/BreatheEasy/issues/119) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
-| Secure map tiles using backend proxy with caching and rate limiting | Medium | [#114](https://github.com/prasoonk1204/BreatheEasy/pull/114) |
 | Add containerized local development workflow using Docker & Docker Compose | Medium | [#112](https://github.com/prasoonk1204/BreatheEasy/issues/112) |
 | Add AQI export to CSV/PDF | Medium | [#109](https://github.com/prasoonk1204/BreatheEasy/pull/109) |
 | enhance improvement measure file code | Medium | [#95](https://github.com/prasoonk1204/BreatheEasy/pull/95) |
@@ -2546,6 +2537,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Auth Register & Login Endpoints Returning 404 | Medium | [#912](https://github.com/Premkolte/AnimateHub/issues/912) |
+| Improve ColorGradientPlayground | Medium | [#911](https://github.com/Premkolte/AnimateHub/pull/911) |
+| Access blocked: Authorization Error | Medium | [#910](https://github.com/Premkolte/AnimateHub/issues/910) |
+| Missing Email Verification (OTP) & Login Confirmation Email | Medium | [#909](https://github.com/Premkolte/AnimateHub/issues/909) |
+| feat: add HeroParticles animated component with preview and code snippet | Medium | [#908](https://github.com/Premkolte/AnimateHub/pull/908) |
 | Refactor ESLint Configuration for Stable Production Deployments (Level 3) | Medium | [#905](https://github.com/Premkolte/AnimateHub/issues/905) |
 | Enhance postcss.config.js for Stable, Efficient, and Error-Free Level 3 Deployments | Medium | [#903](https://github.com/Premkolte/AnimateHub/issues/903) |
 | Enhance and Harden Tailwind Configuration for Deployment Stability and level 3 Scalability | Medium | [#901](https://github.com/Premkolte/AnimateHub/issues/901) |
@@ -2559,19 +2555,12 @@ Fast Workflow Tools
 | Add Newsletter Subscription Section to Footer | Medium | [#851](https://github.com/Premkolte/AnimateHub/issues/851) |
 | Responsive Preview for Mobile Devices | Medium | [#849](https://github.com/Premkolte/AnimateHub/issues/849) |
 | Keyboard Navigation for Snippet Components | Medium | [#848](https://github.com/Premkolte/AnimateHub/issues/848) |
-| Add Dark Mode Toggle Animation | Medium | [#847](https://github.com/Premkolte/AnimateHub/issues/847) |
 | Debug Console Logs in Production Code | Medium | [#846](https://github.com/Premkolte/AnimateHub/issues/846) |
 | Hardcoded Test API Keys in Production Code | Medium | [#845](https://github.com/Premkolte/AnimateHub/issues/845) |
 | Vite Middleware Security Flaws | Medium | [#844](https://github.com/Premkolte/AnimateHub/issues/844) |
 | ReDOS and Prototype Pollution in Highlight.js | Medium | [#843](https://github.com/Premkolte/AnimateHub/issues/843) |
 | Critical Security Vulnerability in Axios Library | Medium | [#842](https://github.com/Premkolte/AnimateHub/issues/842) |
 | Close button and copy button is not showing in Mac | Medium | [#833](https://github.com/Premkolte/AnimateHub/issues/833) |
-| Level 3 Futuristic UI Enhancements – App.jsx & Styles (Deployment-Safe) | Medium | [#832](https://github.com/Premkolte/AnimateHub/issues/832) |
-| Enhance vercel.json for Security, Performance & Scalability | Medium | [#830](https://github.com/Premkolte/AnimateHub/issues/830) |
-| Level 3 Futuristic UI Enhancements for index.css | Medium | [#827](https://github.com/Premkolte/AnimateHub/issues/827) |
-| Enhance Navbar and Logo Visibility in Dark Mode | Medium | [#825](https://github.com/Premkolte/AnimateHub/issues/825) |
-| Lev 3 – Futuristic UI/UX Overhaul for index.html | Medium | [#824](https://github.com/Premkolte/AnimateHub/issues/824) |
-| Remove gradient | Medium | [#817](https://github.com/Premkolte/AnimateHub/issues/817) |
 
 ---
 
