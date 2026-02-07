@@ -85,6 +85,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Missing “Forgot Password” Option on Sign-In Page | Medium | [#394](https://github.com/Muneerali199/DocMagic/issues/394) |
 | Added editable skills section in resume | Medium | [#393](https://github.com/Muneerali199/DocMagic/pull/393) |
 | Not having Certificates and projects editable section in the template | Medium | [#392](https://github.com/Muneerali199/DocMagic/issues/392) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 58 updates | Medium | [#376](https://github.com/Muneerali199/DocMagic/pull/376) |
@@ -102,7 +103,6 @@
 | Create #1_issue-fixed | Medium | [#298](https://github.com/Muneerali199/DocMagic/pull/298) |
 | chore(deps): bump react-day-picker from 8.10.1 to 9.8.1 | Medium | [#288](https://github.com/Muneerali199/DocMagic/pull/288) |
 | chore(deps): bump sonner from 1.7.4 to 2.0.7 | Medium | [#287](https://github.com/Muneerali199/DocMagic/pull/287) |
-| Fix: Separate loading animations for PNG and SVG export buttons | Medium | [#278](https://github.com/Muneerali199/DocMagic/pull/278) |
 
 ---
 
