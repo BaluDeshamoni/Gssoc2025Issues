@@ -299,6 +299,8 @@ Schools, offices, and wellness centers looking to green their spaces
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
+| style: Add haptic feedback to all mobile buttons | Medium | [#276](https://github.com/Devasy/splitwiser/pull/276) |
+| enhance: Add animated success celebration | Medium | [#275](https://github.com/Devasy/splitwiser/pull/275) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#274](https://github.com/Devasy/splitwiser/pull/274) |
 | style: Add consistent focus-visible states to buttons | Medium | [#273](https://github.com/Devasy/splitwiser/pull/273) |
 | Mobile Swipe-to-Delete for Expenses | Medium | [#272](https://github.com/Devasy/splitwiser/pull/272) |
@@ -1202,17 +1204,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added swagger doc for health api | Easy | [#295](https://github.com/IndieHub25/GroqTales/pull/295) |
-| Implemented Modal showing all details on Clicking NFT card in gallery page | Medium | [#298](https://github.com/IndieHub25/GroqTales/pull/298) |
-| Update SECURITY.md | Medium | [#297](https://github.com/IndieHub25/GroqTales/pull/297) |
-| Fix logger; add enhanced implementation & tests | Medium | [#296](https://github.com/IndieHub25/GroqTales/pull/296) |
-| Fix “Buy Now” Button | Medium | [#292](https://github.com/IndieHub25/GroqTales/issues/292) |
-| Like Button on NFT Cards Is Not Working | Medium | [#291](https://github.com/IndieHub25/GroqTales/issues/291) |
-| Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
+| Added swagger doc for stories adn auth route | Easy | [#307](https://github.com/IndieHub25/GroqTales/pull/307) |
+| Adding swagger doc for nft and nft marketplace routes | Medium | [#308](https://github.com/IndieHub25/GroqTales/issues/308) |
+| UX Login alert triggers "Install App" confusion, missing MetaMask download link | Medium | [#306](https://github.com/IndieHub25/GroqTales/issues/306) |
+| Optimize Framer Motion animations to reduce jank and improve 60fps consistency | Medium | [#305](https://github.com/IndieHub25/GroqTales/issues/305) |
+| Enhancement: Add hover effects for interactive UI elements | Medium | [#304](https://github.com/IndieHub25/GroqTales/issues/304) |
+| NFT Listing Page – Like Button Issue Fixed | Medium | [#303](https://github.com/IndieHub25/GroqTales/pull/303) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
-| API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
-| Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| GroqTales Home Page Revamp (New Hero, Flow, and NFT Story Experience)` | Hard | [#293](https://github.com/IndieHub25/GroqTales/issues/293) |
 
 ---
 
@@ -1253,6 +1251,15 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add hero section with header and call-to-action | Medium | [#918](https://github.com/Premkolte/AnimateHub/pull/918) |
+| 🌐 Feature Request: Add Kannada & Multi-Language (i18n) Support | Medium | [#916](https://github.com/Premkolte/AnimateHub/issues/916) |
+| ✨ Feature Request: Add Hover / Scroll Animations to Feature Cards | Medium | [#915](https://github.com/Premkolte/AnimateHub/issues/915) |
+| Sign up button is working even if password validation is wrong | Medium | [#914](https://github.com/Premkolte/AnimateHub/issues/914) |
+| Bug: Auth Register & Login Endpoints Returning 404 | Medium | [#912](https://github.com/Premkolte/AnimateHub/issues/912) |
+| Improve ColorGradientPlayground | Medium | [#911](https://github.com/Premkolte/AnimateHub/pull/911) |
+| Access blocked: Authorization Error | Medium | [#910](https://github.com/Premkolte/AnimateHub/issues/910) |
+| Missing Email Verification (OTP) & Login Confirmation Email | Medium | [#909](https://github.com/Premkolte/AnimateHub/issues/909) |
+| feat: add HeroParticles animated component with preview and code snippet | Medium | [#908](https://github.com/Premkolte/AnimateHub/pull/908) |
 | Refactor ESLint Configuration for Stable Production Deployments (Level 3) | Medium | [#905](https://github.com/Premkolte/AnimateHub/issues/905) |
 | Enhance postcss.config.js for Stable, Efficient, and Error-Free Level 3 Deployments | Medium | [#903](https://github.com/Premkolte/AnimateHub/issues/903) |
 | Enhance and Harden Tailwind Configuration for Deployment Stability and level 3 Scalability | Medium | [#901](https://github.com/Premkolte/AnimateHub/issues/901) |
@@ -1266,19 +1273,6 @@ Fast Workflow Tools
 | Add Newsletter Subscription Section to Footer | Medium | [#851](https://github.com/Premkolte/AnimateHub/issues/851) |
 | Responsive Preview for Mobile Devices | Medium | [#849](https://github.com/Premkolte/AnimateHub/issues/849) |
 | Keyboard Navigation for Snippet Components | Medium | [#848](https://github.com/Premkolte/AnimateHub/issues/848) |
-| Add Dark Mode Toggle Animation | Medium | [#847](https://github.com/Premkolte/AnimateHub/issues/847) |
-| Debug Console Logs in Production Code | Medium | [#846](https://github.com/Premkolte/AnimateHub/issues/846) |
-| Hardcoded Test API Keys in Production Code | Medium | [#845](https://github.com/Premkolte/AnimateHub/issues/845) |
-| Vite Middleware Security Flaws | Medium | [#844](https://github.com/Premkolte/AnimateHub/issues/844) |
-| ReDOS and Prototype Pollution in Highlight.js | Medium | [#843](https://github.com/Premkolte/AnimateHub/issues/843) |
-| Critical Security Vulnerability in Axios Library | Medium | [#842](https://github.com/Premkolte/AnimateHub/issues/842) |
-| Close button and copy button is not showing in Mac | Medium | [#833](https://github.com/Premkolte/AnimateHub/issues/833) |
-| Level 3 Futuristic UI Enhancements – App.jsx & Styles (Deployment-Safe) | Medium | [#832](https://github.com/Premkolte/AnimateHub/issues/832) |
-| Enhance vercel.json for Security, Performance & Scalability | Medium | [#830](https://github.com/Premkolte/AnimateHub/issues/830) |
-| Level 3 Futuristic UI Enhancements for index.css | Medium | [#827](https://github.com/Premkolte/AnimateHub/issues/827) |
-| Enhance Navbar and Logo Visibility in Dark Mode | Medium | [#825](https://github.com/Premkolte/AnimateHub/issues/825) |
-| Lev 3 – Futuristic UI/UX Overhaul for index.html | Medium | [#824](https://github.com/Premkolte/AnimateHub/issues/824) |
-| Remove gradient | Medium | [#817](https://github.com/Premkolte/AnimateHub/issues/817) |
 
 ---
 
