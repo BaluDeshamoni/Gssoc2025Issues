@@ -85,6 +85,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Making instructions clear about opening in localhost | Easy | [#397](https://github.com/Muneerali199/DocMagic/issues/397) |
+| UI Issue: Back-to-top button not visible on light background | Medium | [#399](https://github.com/Muneerali199/DocMagic/issues/399) |
+| Update CONTRIBUTING.md with environment setup details | Medium | [#398](https://github.com/Muneerali199/DocMagic/pull/398) |
+| Making the email button clickable | Medium | [#396](https://github.com/Muneerali199/DocMagic/issues/396) |
+| We can add url to the buttons to make it more engaing | Medium | [#395](https://github.com/Muneerali199/DocMagic/issues/395) |
 | Missing “Forgot Password” Option on Sign-In Page | Medium | [#394](https://github.com/Muneerali199/DocMagic/issues/394) |
 | Added editable skills section in resume | Medium | [#393](https://github.com/Muneerali199/DocMagic/pull/393) |
 | Not having Certificates and projects editable section in the template | Medium | [#392](https://github.com/Muneerali199/DocMagic/issues/392) |
@@ -100,9 +105,6 @@
 | Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/DocMagic/pull/320) |
 | fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
 | feat: prevent authenticated users from accessing auth routes | Medium | [#302](https://github.com/Muneerali199/DocMagic/pull/302) |
-| Create #1_issue-fixed | Medium | [#298](https://github.com/Muneerali199/DocMagic/pull/298) |
-| chore(deps): bump react-day-picker from 8.10.1 to 9.8.1 | Medium | [#288](https://github.com/Muneerali199/DocMagic/pull/288) |
-| chore(deps): bump sonner from 1.7.4 to 2.0.7 | Medium | [#287](https://github.com/Muneerali199/DocMagic/pull/287) |
 
 ---
 
