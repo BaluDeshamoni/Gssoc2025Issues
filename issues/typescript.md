@@ -94,22 +94,25 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Clarify WSL and Docker requirements for new contributors | Easy | [#3782](https://github.com/OWASP/Nest/pull/3782) |
+| Merge Zappa Feature Branch | Easy | [#3827](https://github.com/OWASP/Nest/pull/3827) |
+| Fix 'is_merged' not being available on the Issue | Medium | [#3843](https://github.com/OWASP/Nest/pull/3843) |
+| Issue.isMerged GraphQL resolver fails due to missing annotation attribute | Medium | [#3841](https://github.com/OWASP/Nest/issues/3841) |
+| feat: improve backend test coverage to 96% | Medium | [#3840](https://github.com/OWASP/Nest/pull/3840) |
+| Optimize MultiSearch by cancelling in-flight requests using AbortController | Medium | [#3839](https://github.com/OWASP/Nest/issues/3839) |
+| Move this component definition out of the parent component and pass data as props | Medium | [#3836](https://github.com/OWASP/Nest/issues/3836) |
+| Add CycloneDX SBOM generation for staging images | Medium | [#3833](https://github.com/OWASP/Nest/pull/3833) |
+| Add  /api/health endpoint for frontend healthchecks & monitoring | Medium | [#3830](https://github.com/OWASP/Nest/issues/3830) |
+| fixed aloglia cache_key | Medium | [#3825](https://github.com/OWASP/Nest/pull/3825) |
+| Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3823](https://github.com/OWASP/Nest/issues/3823) |
+| fix: remove unused className prop from AnchorTitle component | Medium | [#3822](https://github.com/OWASP/Nest/pull/3822) |
+| Fix/issue node interested users prefetch | Medium | [#3813](https://github.com/OWASP/Nest/pull/3813) |
+| Light mode breadcrumb text color mismatch causing inconsistent UI | Medium | [#3808](https://github.com/OWASP/Nest/pull/3808) |
+| security: harden production settings for GraphQL, HSTS, and HTTP headers (fixes #3783) | Medium | [#3799](https://github.com/OWASP/Nest/pull/3799) |
 | fix(a11y): Correct color contrast for WCAG AA compliance (#3797) | Medium | [#3798](https://github.com/OWASP/Nest/pull/3798) |
 | CI:  Add ansible-lint workflow for Ansible playbooks | Medium | [#3796](https://github.com/OWASP/Nest/pull/3796) |
 | Enable Cmd + K to Activate Search Bar | Medium | [#3794](https://github.com/OWASP/Nest/issues/3794) |
 | e2e tests heavily impacting local system resources | Medium | [#3792](https://github.com/OWASP/Nest/issues/3792) |
-| fix: reject malformed URLs with invalid netloc values | Medium | [#3790](https://github.com/OWASP/Nest/pull/3790) |
 | fix: optimize interested users field in IssueNode | Medium | [#3788](https://github.com/OWASP/Nest/pull/3788) |
-| CI: Validate Docker Compose files in CI and locally | Medium | [#3786](https://github.com/OWASP/Nest/pull/3786) |
-| fix: reject malformed URLs with invalid netloc values | Medium | [#3784](https://github.com/OWASP/Nest/pull/3784) |
-| Add user locking during API key creation | Medium | [#3774](https://github.com/OWASP/Nest/pull/3774) |
-| fix: optimize issues field in RepositoryNode | Medium | [#3770](https://github.com/OWASP/Nest/pull/3770) |
-| Fix N+1 query issue in releases field | Medium | [#3767](https://github.com/OWASP/Nest/pull/3767) |
-| Fix Sonar S6478 : Move this component definition out of the parent component and pass data as props. | Medium | [#3763](https://github.com/OWASP/Nest/issues/3763) |
-| Performance: N+1 database queries in mentorship module mutations | Medium | [#3753](https://github.com/OWASP/Nest/issues/3753) |
-| Security: MultiSearch uses unsafe globalThis.open() without security controls | Medium | [#3752](https://github.com/OWASP/Nest/issues/3752) |
-| Improve GitHub Profile Section in Navbar | Medium | [#3746](https://github.com/OWASP/Nest/issues/3746) |
 
 ---
 
@@ -1006,17 +1009,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added swagger doc for health api | Easy | [#295](https://github.com/IndieHub25/GroqTales/pull/295) |
-| Implemented Modal showing all details on Clicking NFT card in gallery page | Medium | [#298](https://github.com/IndieHub25/GroqTales/pull/298) |
-| Update SECURITY.md | Medium | [#297](https://github.com/IndieHub25/GroqTales/pull/297) |
-| Fix logger; add enhanced implementation & tests | Medium | [#296](https://github.com/IndieHub25/GroqTales/pull/296) |
-| Fix “Buy Now” Button | Medium | [#292](https://github.com/IndieHub25/GroqTales/issues/292) |
-| Like Button on NFT Cards Is Not Working | Medium | [#291](https://github.com/IndieHub25/GroqTales/issues/291) |
-| Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
+| Added swagger doc for stories adn auth route | Easy | [#307](https://github.com/IndieHub25/GroqTales/pull/307) |
+| Adding swagger doc for nft and nft marketplace routes | Medium | [#308](https://github.com/IndieHub25/GroqTales/issues/308) |
+| UX Login alert triggers "Install App" confusion, missing MetaMask download link | Medium | [#306](https://github.com/IndieHub25/GroqTales/issues/306) |
+| Optimize Framer Motion animations to reduce jank and improve 60fps consistency | Medium | [#305](https://github.com/IndieHub25/GroqTales/issues/305) |
+| Enhancement: Add hover effects for interactive UI elements | Medium | [#304](https://github.com/IndieHub25/GroqTales/issues/304) |
+| NFT Listing Page – Like Button Issue Fixed | Medium | [#303](https://github.com/IndieHub25/GroqTales/pull/303) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
-| API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
-| Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| GroqTales Home Page Revamp (New Hero, Flow, and NFT Story Experience)` | Hard | [#293](https://github.com/IndieHub25/GroqTales/issues/293) |
 
 ---
 
