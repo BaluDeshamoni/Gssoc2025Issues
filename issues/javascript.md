@@ -169,6 +169,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Change ball color to blue | Medium | [#243](https://github.com/Akki-jaiswal/pong-game/pull/243) |
 | Add Claude Code GitHub Workflow | Medium | [#242](https://github.com/Akki-jaiswal/pong-game/issues/242) |
 | Fixed AI paddle movement to be smoother | Medium | [#241](https://github.com/Akki-jaiswal/pong-game/pull/241) |
 | Update script.js | Medium | [#236](https://github.com/Akki-jaiswal/pong-game/pull/236) |
@@ -193,7 +194,6 @@
 | theme selection does not change UI; duplicate theme systems in code | Medium | [#207](https://github.com/Akki-jaiswal/pong-game/issues/207) |
 | How to Play” button does not open instructions modal  Description | Medium | [#206](https://github.com/Akki-jaiswal/pong-game/issues/206) |
 | Navbar UI/UX Improvements | Medium | [#205](https://github.com/Akki-jaiswal/pong-game/issues/205) |
-| changed the design after winning | Medium | [#204](https://github.com/Akki-jaiswal/pong-game/pull/204) |
 
 ---
 
@@ -436,19 +436,23 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Start Live Chat is not working | Medium | [#294](https://github.com/Dipanita45/HEALCONNECT/issues/294) |
-| Fixed contact form submission in contact's page | Medium | [#293](https://github.com/Dipanita45/HEALCONNECT/pull/293) |
-| Fix/doctor availability from base | Medium | [#292](https://github.com/Dipanita45/HEALCONNECT/pull/292) |
-| fix: refactor auth to Firebase, fix DoctorCard HTML, unify theme | Medium | [#291](https://github.com/Dipanita45/HEALCONNECT/pull/291) |
-| Send us message form is not working | Medium | [#290](https://github.com/Dipanita45/HEALCONNECT/issues/290) |
-| Fix: Improve accessibility and performance in `faq.js` | Medium | [#285](https://github.com/Dipanita45/HEALCONNECT/pull/285) |
-| Fix aria attributes and animation properties in FAQ | Medium | [#278](https://github.com/Dipanita45/HEALCONNECT/pull/278) |
-| Fix #276 | Medium | [#277](https://github.com/Dipanita45/HEALCONNECT/pull/277) |
-| Add HealthInsights component and alerting | Medium | [#274](https://github.com/Dipanita45/HEALCONNECT/pull/274) |
-| fix: improve FAQ accessibility and animation performance | Medium | [#272](https://github.com/Dipanita45/HEALCONNECT/pull/272) |
-| Prevent overlapping appointments and validate availability | Medium | [#271](https://github.com/Dipanita45/HEALCONNECT/pull/271) |
-| add-linkdin-link-connect-with-us | Medium | [#268](https://github.com/Dipanita45/HEALCONNECT/pull/268) |
-| Bug: Appointment cards don't adapt to dark mode theme toggle | Medium | [#264](https://github.com/Dipanita45/HEALCONNECT/issues/264) |
+| Contact Page enhanced | Medium | [#337](https://github.com/Dipanita45/HEALCONNECT/pull/337) |
+| improve support section | Medium | [#336](https://github.com/Dipanita45/HEALCONNECT/issues/336) |
+| refactor: fix React key anti-pattern across 7 files | Medium | [#335](https://github.com/Dipanita45/HEALCONNECT/pull/335) |
+| fix: replace hardcoded medical data with actual user data | Medium | [#334](https://github.com/Dipanita45/HEALCONNECT/pull/334) |
+| Vercel deployment issue | Medium | [#333](https://github.com/Dipanita45/HEALCONNECT/issues/333) |
+| Database and api is implemented | Medium | [#332](https://github.com/Dipanita45/HEALCONNECT/pull/332) |
+| Open Gmail compose page when clicking “Send Email” in Email Support card | Medium | [#331](https://github.com/Dipanita45/HEALCONNECT/issues/331) |
+| Add visible animations to “How It Works” cards | Medium | [#330](https://github.com/Dipanita45/HEALCONNECT/issues/330) |
+| Add subtle border animation to Measurement History blocks for better visibility | Medium | [#327](https://github.com/Dipanita45/HEALCONNECT/issues/327) |
+| Appointments page fails to load due to syntax error in appointments.jsx | Medium | [#326](https://github.com/Dipanita45/HEALCONNECT/issues/326) |
+| Solution section lacks visual emphasis and structure | Medium | [#325](https://github.com/Dipanita45/HEALCONNECT/issues/325) |
+| fix Live demo link is now working #273 | Medium | [#324](https://github.com/Dipanita45/HEALCONNECT/pull/324) |
+| update the preview image #276 | Medium | [#323](https://github.com/Dipanita45/HEALCONNECT/pull/323) |
+| refactor: fix React key anti-pattern across 7 files | Medium | [#320](https://github.com/Dipanita45/HEALCONNECT/pull/320) |
+| Enhance “How It Works” Page with Interactive Steps, Platform Features, and CTA Section | Medium | [#318](https://github.com/Dipanita45/HEALCONNECT/pull/318) |
+| Refactor: Use useDarkMode hook in auth forms | Medium | [#304](https://github.com/Dipanita45/HEALCONNECT/pull/304) |
+| Refactor: Convert signup and login forms to react-hook-form | Medium | [#303](https://github.com/Dipanita45/HEALCONNECT/pull/303) |
 
 ---
 
@@ -754,24 +758,17 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve "Create New Post" Button UI/UX | Easy | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
-| Add Trailing Cursor to Farmer Connection Page | Medium | [#1354](https://github.com/omroy07/AgriTech/issues/1354) |
-| Add Trailing Cursor to Plantation Guidance & Crop Planner Pages | Medium | [#1353](https://github.com/omroy07/AgriTech/issues/1353) |
-| Add Trailing Cursor to Plantation Guidance Page | Medium | [#1352](https://github.com/omroy07/AgriTech/issues/1352) |
-| Add “Expired” tag for schemes based on deadline and disable apply action | Medium | [#1351](https://github.com/omroy07/AgriTech/pull/1351) |
-| Fix About page theme not updating on Light/Dark toggle | Medium | [#1350](https://github.com/omroy07/AgriTech/pull/1350) |
-| Add green border highlight on hover for Platform Benefit cards | Medium | [#1349](https://github.com/omroy07/AgriTech/pull/1349) |
-| Home Page Navbar: Dark/Light Toggle and Language Switch Not Working | Medium | [#1348](https://github.com/omroy07/AgriTech/issues/1348) |
-| Add direct Favorites icon for quick navigation to Favorites page | Medium | [#1347](https://github.com/omroy07/AgriTech/issues/1347) |
-| Multi-Tenant Farm Management & Asset Tracking | Medium | [#1330](https://github.com/omroy07/AgriTech/issues/1330) |
-| Automated Weather Integration & Crop Advisory Engine | Medium | [#1329](https://github.com/omroy07/AgriTech/issues/1329) |
-| Agricultural Knowledge Exchange & Expert Reputation System | Medium | [#1328](https://github.com/omroy07/AgriTech/issues/1328) |
+| Add Trailing Cursor to Main (main.html) Page | Medium | [#1377](https://github.com/omroy07/AgriTech/issues/1377) |
+| Issue: Language Bar Not Working Properly | Medium | [#1375](https://github.com/omroy07/AgriTech/issues/1375) |
+| Data Validation Layer Between Frontend ↔ Backend | Medium | [#1371](https://github.com/omroy07/AgriTech/issues/1371) |
+| Centralized Configuration & Environment Management | Medium | [#1370](https://github.com/omroy07/AgriTech/issues/1370) |
+| UI Bug: Heart Icon Appears In Card Content Area on Blog Page | Medium | [#1359](https://github.com/omroy07/AgriTech/issues/1359) |
 | Add Unit and Integration Tests for Backend API Endpoints | Medium | [#1325](https://github.com/omroy07/AgriTech/issues/1325) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
 | Buttons not responding in Profit & Loss Analytics dashboard | Medium | [#1317](https://github.com/omroy07/AgriTech/issues/1317) |
 | Light mode and language buttons are not working in the navbar | Medium | [#1316](https://github.com/omroy07/AgriTech/issues/1316) |
 | Refactor SECURITY.md for better readability and actionable reporting | Medium | [#1301](https://github.com/omroy07/AgriTech/issues/1301) |
 | Cursor color does not match language selector styling | Medium | [#1270](https://github.com/omroy07/AgriTech/issues/1270) |
-| Redesign Mission page for improved layout, clarity, and visual consistency | Medium | [#1219](https://github.com/omroy07/AgriTech/issues/1219) |
 
 ---
 
@@ -1078,6 +1075,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Live Deployment for Project | Medium | [#74](https://github.com/sania28/clubmate/issues/74) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
 
@@ -1948,6 +1946,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added swagger doc for stories adn auth route | Easy | [#307](https://github.com/IndieHub25/GroqTales/pull/307) |
+| Adding swagger doc for nft and nft marketplace routes | Medium | [#308](https://github.com/IndieHub25/GroqTales/issues/308) |
+| UX Login alert triggers "Install App" confusion, missing MetaMask download link | Medium | [#306](https://github.com/IndieHub25/GroqTales/issues/306) |
+| Optimize Framer Motion animations to reduce jank and improve 60fps consistency | Medium | [#305](https://github.com/IndieHub25/GroqTales/issues/305) |
 | Enhancement: Add hover effects for interactive UI elements | Medium | [#304](https://github.com/IndieHub25/GroqTales/issues/304) |
 | NFT Listing Page – Like Button Issue Fixed | Medium | [#303](https://github.com/IndieHub25/GroqTales/pull/303) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
@@ -2346,8 +2348,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Padding | Medium | [#395](https://github.com/code-well0/trip-planner/pull/395) |
-| Places Visited | Medium | [#394](https://github.com/code-well0/trip-planner/pull/394) |
+| Update README | Easy | [#398](https://github.com/code-well0/trip-planner/issues/398) |
+| Unnecessary Padding | Medium | [#399](https://github.com/code-well0/trip-planner/issues/399) |
+| Remove extra white padding around hero section | Medium | [#396](https://github.com/code-well0/trip-planner/issues/396) |
+| Make destination cards expandable with “Mark as Visited” action | Hard | [#397](https://github.com/code-well0/trip-planner/issues/397) |
 
 ---
 
