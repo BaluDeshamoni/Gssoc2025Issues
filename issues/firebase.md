@@ -131,8 +131,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update signup UI and route Join action to /signup | Medium | [#182](https://github.com/WallGodds/WallGodds-Web/pull/182) |
-| Fix(ui): Polish Sign Up page UI, borders, and vector icons to match Figma | Medium | [#181](https://github.com/WallGodds/WallGodds-Web/pull/181) |
+| improve the landing page | Medium | [#198](https://github.com/WallGodds/WallGodds-Web/issues/198) |
 | feat: update upload page UI with drag-and-drop and preview | Medium | [#179](https://github.com/WallGodds/WallGodds-Web/pull/179) |
 
 ---
