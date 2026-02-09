@@ -252,22 +252,27 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Clarify WSL and Docker requirements for new contributors | Easy | [#3782](https://github.com/OWASP/Nest/pull/3782) |
-| fix(a11y): Correct color contrast for WCAG AA compliance (#3797) | Medium | [#3798](https://github.com/OWASP/Nest/pull/3798) |
-| CI:  Add ansible-lint workflow for Ansible playbooks | Medium | [#3796](https://github.com/OWASP/Nest/pull/3796) |
-| Enable Cmd + K to Activate Search Bar | Medium | [#3794](https://github.com/OWASP/Nest/issues/3794) |
-| e2e tests heavily impacting local system resources | Medium | [#3792](https://github.com/OWASP/Nest/issues/3792) |
-| fix: reject malformed URLs with invalid netloc values | Medium | [#3790](https://github.com/OWASP/Nest/pull/3790) |
-| fix: optimize interested users field in IssueNode | Medium | [#3788](https://github.com/OWASP/Nest/pull/3788) |
-| CI: Validate Docker Compose files in CI and locally | Medium | [#3786](https://github.com/OWASP/Nest/pull/3786) |
-| fix: reject malformed URLs with invalid netloc values | Medium | [#3784](https://github.com/OWASP/Nest/pull/3784) |
-| Add user locking during API key creation | Medium | [#3774](https://github.com/OWASP/Nest/pull/3774) |
-| fix: optimize issues field in RepositoryNode | Medium | [#3770](https://github.com/OWASP/Nest/pull/3770) |
-| Fix N+1 query issue in releases field | Medium | [#3767](https://github.com/OWASP/Nest/pull/3767) |
-| Fix Sonar S6478 : Move this component definition out of the parent component and pass data as props. | Medium | [#3763](https://github.com/OWASP/Nest/issues/3763) |
-| Performance: N+1 database queries in mentorship module mutations | Medium | [#3753](https://github.com/OWASP/Nest/issues/3753) |
-| Security: MultiSearch uses unsafe globalThis.open() without security controls | Medium | [#3752](https://github.com/OWASP/Nest/issues/3752) |
-| Improve GitHub Profile Section in Navbar | Medium | [#3746](https://github.com/OWASP/Nest/issues/3746) |
+| Merge Zappa Feature Branch | Easy | [#3827](https://github.com/OWASP/Nest/pull/3827) |
+| mprove frontend test coverage above 80% and add missing test files | Medium | [#3864](https://github.com/OWASP/Nest/pull/3864) |
+| Added community endpoint to HIDDEN_SEGMENT | Medium | [#3863](https://github.com/OWASP/Nest/pull/3863) |
+| This assertion is unnecessary since it does not change the type of the expression | Medium | [#3858](https://github.com/OWASP/Nest/issues/3858) |
+| Refactor dateFormatter to strictly accept numeric Unix timestamps | Medium | [#3857](https://github.com/OWASP/Nest/pull/3857) |
+| `new Error()` is too unspecific for a type check. Use `new TypeError()` instead | Medium | [#3856](https://github.com/OWASP/Nest/issues/3856) |
+| Critical: Lost updates in concurrent Program/Module edits due to missing optimistic locking | Medium | [#3855](https://github.com/OWASP/Nest/issues/3855) |
+| Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3854](https://github.com/OWASP/Nest/issues/3854) |
+| Critical: Race condition in Program.experience_levels array causes data loss | Medium | [#3853](https://github.com/OWASP/Nest/issues/3853) |
+| Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3852](https://github.com/OWASP/Nest/issues/3852) |
+| Increase Backend Test Coverage to 99%+ | Medium | [#3851](https://github.com/OWASP/Nest/issues/3851) |
+| Add container healthchecks for backend, frontend, and worker in staging/production | Medium | [#3850](https://github.com/OWASP/Nest/issues/3850) |
+| fix(proxy): pin nginx and certbot images | Medium | [#3848](https://github.com/OWASP/Nest/pull/3848) |
+| Resolve case-sensitivity in QueryParser to support Chapters/Members search | Medium | [#3844](https://github.com/OWASP/Nest/pull/3844) |
+| Add CycloneDX SBOM generation for staging images | Medium | [#3833](https://github.com/OWASP/Nest/pull/3833) |
+| Add  /api/health endpoint for frontend healthchecks & monitoring | Medium | [#3830](https://github.com/OWASP/Nest/issues/3830) |
+| fixed aloglia cache_key | Medium | [#3825](https://github.com/OWASP/Nest/pull/3825) |
+| Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3823](https://github.com/OWASP/Nest/issues/3823) |
+| fix: remove unused className prop from AnchorTitle component | Medium | [#3822](https://github.com/OWASP/Nest/pull/3822) |
+| Fix/issue node interested users prefetch | Medium | [#3813](https://github.com/OWASP/Nest/pull/3813) |
+| Light mode breadcrumb text color mismatch causing inconsistent UI | Medium | [#3808](https://github.com/OWASP/Nest/pull/3808) |
 
 ---
 
@@ -328,6 +333,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/Code-A2Z/code-a2z/issues/1178) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
+| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Notes app | Medium | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
 | 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
@@ -551,10 +557,31 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug: Appointment cards don't adapt to dark mode theme toggle | Medium | [#264](https://github.com/Dipanita45/HEALCONNECT/issues/264) |
-| Add i18n languages | Medium | [#221](https://github.com/Dipanita45/HEALCONNECT/issues/221) |
-| Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
-| added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
+| OSCG26: Add Search & Filter Functionality to Appointment Dashboard | Medium | [#378](https://github.com/Dipanita45/HEALCONNECT/pull/378) |
+| Mobile Menu Button Not Working on HealConnect Website | Medium | [#377](https://github.com/Dipanita45/HEALCONNECT/issues/377) |
+| OSCG26: Prevent Duplicate Appointment Booking & Fix React Import Build Error | Medium | [#376](https://github.com/Dipanita45/HEALCONNECT/pull/376) |
+| Issue #262 : Fix dark/light theme toggle with persistent state and improve… | Medium | [#374](https://github.com/Dipanita45/HEALCONNECT/pull/374) |
+| Issue #280 : Refactor Auth Forms Using React Hook Form + Validation Improvements | Medium | [#373](https://github.com/Dipanita45/HEALCONNECT/pull/373) |
+| loaders and micro interactions | Medium | [#372](https://github.com/Dipanita45/HEALCONNECT/pull/372) |
+| Fix subscription input placeholder (in footer) visibility in light theme | Medium | [#371](https://github.com/Dipanita45/HEALCONNECT/pull/371) |
+| Fix step 5 visibility by restoring indigo color palette for "How It Works" section | Medium | [#370](https://github.com/Dipanita45/HEALCONNECT/pull/370) |
+| Improve hover feedback consistency for Healthcare Challenge cards across light & dark themes | Medium | [#369](https://github.com/Dipanita45/HEALCONNECT/pull/369) |
+| Open Gmail compose page when clicking “Send Email” in Email Support card | Medium | [#368](https://github.com/Dipanita45/HEALCONNECT/pull/368) |
+| Enhance “How It Works” Page with Interactive Steps, Platform Features, and CTA Section | Medium | [#367](https://github.com/Dipanita45/HEALCONNECT/pull/367) |
+| Improve appointment doctor page UI/UX (#314) | Medium | [#366](https://github.com/Dipanita45/HEALCONNECT/pull/366) |
+| Add subtle animations to “How It Works” cards for improved engagement | Medium | [#365](https://github.com/Dipanita45/HEALCONNECT/pull/365) |
+| Add input validation | Medium | [#364](https://github.com/Dipanita45/HEALCONNECT/pull/364) |
+| Fix incomplete logout | Medium | [#362](https://github.com/Dipanita45/HEALCONNECT/pull/362) |
+| Add subtle border animation to Measurement History cards | Medium | [#361](https://github.com/Dipanita45/HEALCONNECT/pull/361) |
+| Accessibility fixes | Medium | [#360](https://github.com/Dipanita45/HEALCONNECT/pull/360) |
+| Fix syntax error in Appointments page by correcting useEffect structure | Medium | [#357](https://github.com/Dipanita45/HEALCONNECT/pull/357) |
+| Enhance Solution Section with Structured Card-Based Layout | Medium | [#356](https://github.com/Dipanita45/HEALCONNECT/pull/356) |
+| updated support | Medium | [#353](https://github.com/Dipanita45/HEALCONNECT/pull/353) |
+| Fix navbar UI and alignment issues (#312) | Medium | [#347](https://github.com/Dipanita45/HEALCONNECT/pull/347) |
+| Feat/smart navbar auto hide | Medium | [#341](https://github.com/Dipanita45/HEALCONNECT/pull/341) |
+| feat: implement active navigation link highlighting #258 | Medium | [#340](https://github.com/Dipanita45/HEALCONNECT/pull/340) |
+| Docfix | Medium | [#339](https://github.com/Dipanita45/HEALCONNECT/pull/339) |
+| fix: replace hardcoded medical data with actual user data | Medium | [#334](https://github.com/Dipanita45/HEALCONNECT/pull/334) |
 
 ---
 
@@ -1832,6 +1859,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix React Server Components CVE vulnerabilities | Medium | [#9](https://github.com/Ayushhgupta39/natively-ui/pull/9) |
 | Fix React Server Components CVE vulnerabilities | Medium | [#8](https://github.com/Ayushhgupta39/natively-ui/pull/8) |
 | Move to Top Button Added | Medium | [#7](https://github.com/Ayushhgupta39/natively-ui/pull/7) |
 | Dark and Light Theme Toggle Button with Functionality | Medium | [#5](https://github.com/Ayushhgupta39/natively-ui/issues/5) |
@@ -2130,7 +2158,6 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | Community Impact Leaderboard & Action Gamification | Medium | [#119](https://github.com/prasoonk1204/BreatheEasy/issues/119) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
-| Secure map tiles using backend proxy with caching and rate limiting | Medium | [#114](https://github.com/prasoonk1204/BreatheEasy/pull/114) |
 | Add containerized local development workflow using Docker & Docker Compose | Medium | [#112](https://github.com/prasoonk1204/BreatheEasy/issues/112) |
 | Add AQI export to CSV/PDF | Medium | [#109](https://github.com/prasoonk1204/BreatheEasy/pull/109) |
 | enhance improvement measure file code | Medium | [#95](https://github.com/prasoonk1204/BreatheEasy/pull/95) |
