@@ -205,28 +205,25 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance “Create New Post” Form with Additional Fields for Better Blog Management | Medium | [#1339](https://github.com/omroy07/AgriTech/issues/1339) |
-| Add New Blog to Technology Section for Better Awareness of Smart Farming Innovations | Medium | [#1338](https://github.com/omroy07/AgriTech/issues/1338) |
-| Blog Search Bar Does Not Filter Posts Based on Entered Keywords | Medium | [#1337](https://github.com/omroy07/AgriTech/issues/1337) |
-| About Page Theme Not Updating When Switching Between Light and Dark Mode | Medium | [#1336](https://github.com/omroy07/AgriTech/issues/1336) |
-| Add Green Border Highlight on Hover for Platform Benefit Cards | Medium | [#1335](https://github.com/omroy07/AgriTech/issues/1335) |
-| Add Trailing Cursor to Crop Recommendation Page | Medium | [#1334](https://github.com/omroy07/AgriTech/issues/1334) |
-| Add Trailing Cursor to Organic Farming Page | Medium | [#1333](https://github.com/omroy07/AgriTech/issues/1333) |
-| Add Trailing Cursor to Disease Detector Page | Medium | [#1332](https://github.com/omroy07/AgriTech/issues/1332) |
-| Fix A11Y issues: contrast, viewport, accessible buttons | Medium | [#1331](https://github.com/omroy07/AgriTech/pull/1331) |
-| Multi-Tenant Farm Management & Asset Tracking | Medium | [#1330](https://github.com/omroy07/AgriTech/issues/1330) |
-| Automated Weather Integration & Crop Advisory Engine | Medium | [#1329](https://github.com/omroy07/AgriTech/issues/1329) |
-| Agricultural Knowledge Exchange & Expert Reputation System | Medium | [#1328](https://github.com/omroy07/AgriTech/issues/1328) |
-| Add Unit and Integration Tests for Backend API Endpoints | Medium | [#1325](https://github.com/omroy07/AgriTech/issues/1325) |
-| fix: Optimize product card layout and enhance cart button design | Medium | [#1324](https://github.com/omroy07/AgriTech/pull/1324) |
-| fix: display only eligible schemes in eligibility checker | Medium | [#1323](https://github.com/omroy07/AgriTech/pull/1323) |
-| Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
-| Trailing Cursor Effect Added to Yield Prediction Page | Medium | [#1320](https://github.com/omroy07/AgriTech/pull/1320) |
-| Trailing Cursor Effect Added to Weather Page | Medium | [#1319](https://github.com/omroy07/AgriTech/pull/1319) |
-| added trailing cursor to shopkeeper page | Medium | [#1318](https://github.com/omroy07/AgriTech/pull/1318) |
-| Buttons not responding in Profit & Loss Analytics dashboard | Medium | [#1317](https://github.com/omroy07/AgriTech/issues/1317) |
-| Light mode and language buttons are not working in the navbar | Medium | [#1316](https://github.com/omroy07/AgriTech/issues/1316) |
-| Add Trailing Cursor to AI Assistant Page | Medium | [#1306](https://github.com/omroy07/AgriTech/issues/1306) |
+| UI Bug: Extra “+” Icon Appearing Above Footer on Blog Page | Easy | [#1410](https://github.com/omroy07/AgriTech/issues/1410) |
+| Critical Text Visibility and Contrast Failure in Light Mode | Easy | [#1402](https://github.com/omroy07/AgriTech/issues/1402) |
+| Fix modal header spacing and close button alignment for "Create New Post" Modal | Medium | [#1425](https://github.com/omroy07/AgriTech/pull/1425) |
+| Fix footer spacing and reduce overall height on Blog Page | Medium | [#1424](https://github.com/omroy07/AgriTech/pull/1424) |
+| Remove extra "+" icon appearing above footer on Blog page | Medium | [#1423](https://github.com/omroy07/AgriTech/pull/1423) |
+| Trailing Cursor Effect Added to Finance Support & Insurance Page | Medium | [#1422](https://github.com/omroy07/AgriTech/pull/1422) |
+| Trailing Cursor Effect Added to Sustainable Farming Page | Medium | [#1421](https://github.com/omroy07/AgriTech/pull/1421) |
+| Trailing Cursor Effect Added to Smart Crop Page | Medium | [#1420](https://github.com/omroy07/AgriTech/pull/1420) |
+| Add Trailing Cursor to Smart Crop Monitoring Page | Medium | [#1417](https://github.com/omroy07/AgriTech/issues/1417) |
+| Bug: Template Variables Not Rendering on Crop Yield Prediction Page | Medium | [#1416](https://github.com/omroy07/AgriTech/issues/1416) |
+| Fix duplicate heart icon appearing outside blog cards | Medium | [#1409](https://github.com/omroy07/AgriTech/pull/1409) |
+| Soil Health Monitoring & Fertilizer Recommendation Engine | Medium | [#1408](https://github.com/omroy07/AgriTech/issues/1408) |
+| Loan Repayment Scheduler & Default Risk Tracker | Medium | [#1407](https://github.com/omroy07/AgriTech/issues/1407) |
+| Warehouse Inventory & Stock Reconciliation System | Medium | [#1406](https://github.com/omroy07/AgriTech/issues/1406) |
+| Redesign Financial Support footer for consistency | Medium | [#1405](https://github.com/omroy07/AgriTech/pull/1405) |
+| Implement Interactive Counter Animation for Marketplace Statistics | Medium | [#1404](https://github.com/omroy07/AgriTech/issues/1404) |
+| Implement Multi-Stage Processing & Integrated Quality Audit Hub #1393 | Medium | [#1398](https://github.com/omroy07/AgriTech/pull/1398) |
+| Redesign footer on the Financial Support page | Medium | [#1385](https://github.com/omroy07/AgriTech/issues/1385) |
+| Add Trailing Cursor to Main (main.html) Page | Medium | [#1377](https://github.com/omroy07/AgriTech/issues/1377) |
 
 ---
 
