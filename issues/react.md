@@ -269,20 +269,27 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: add security controls to MultiSearch window.open() | Medium | [#3821](https://github.com/OWASP/Nest/pull/3821) |
+| Merge Zappa Feature Branch | Easy | [#3827](https://github.com/OWASP/Nest/pull/3827) |
+| mprove frontend test coverage above 80% and add missing test files | Medium | [#3864](https://github.com/OWASP/Nest/pull/3864) |
+| Added community endpoint to HIDDEN_SEGMENT | Medium | [#3863](https://github.com/OWASP/Nest/pull/3863) |
+| This assertion is unnecessary since it does not change the type of the expression | Medium | [#3858](https://github.com/OWASP/Nest/issues/3858) |
+| Refactor dateFormatter to strictly accept numeric Unix timestamps | Medium | [#3857](https://github.com/OWASP/Nest/pull/3857) |
+| `new Error()` is too unspecific for a type check. Use `new TypeError()` instead | Medium | [#3856](https://github.com/OWASP/Nest/issues/3856) |
+| Critical: Lost updates in concurrent Program/Module edits due to missing optimistic locking | Medium | [#3855](https://github.com/OWASP/Nest/issues/3855) |
+| Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3854](https://github.com/OWASP/Nest/issues/3854) |
+| Critical: Race condition in Program.experience_levels array causes data loss | Medium | [#3853](https://github.com/OWASP/Nest/issues/3853) |
+| Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3852](https://github.com/OWASP/Nest/issues/3852) |
+| Increase Backend Test Coverage to 99%+ | Medium | [#3851](https://github.com/OWASP/Nest/issues/3851) |
+| Add container healthchecks for backend, frontend, and worker in staging/production | Medium | [#3850](https://github.com/OWASP/Nest/issues/3850) |
+| fix(proxy): pin nginx and certbot images | Medium | [#3848](https://github.com/OWASP/Nest/pull/3848) |
+| Resolve case-sensitivity in QueryParser to support Chapters/Members search | Medium | [#3844](https://github.com/OWASP/Nest/pull/3844) |
+| Add CycloneDX SBOM generation for staging images | Medium | [#3833](https://github.com/OWASP/Nest/pull/3833) |
+| Add  /api/health endpoint for frontend healthchecks & monitoring | Medium | [#3830](https://github.com/OWASP/Nest/issues/3830) |
+| fixed aloglia cache_key | Medium | [#3825](https://github.com/OWASP/Nest/pull/3825) |
+| Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3823](https://github.com/OWASP/Nest/issues/3823) |
+| fix: remove unused className prop from AnchorTitle component | Medium | [#3822](https://github.com/OWASP/Nest/pull/3822) |
 | Fix/issue node interested users prefetch | Medium | [#3813](https://github.com/OWASP/Nest/pull/3813) |
 | Light mode breadcrumb text color mismatch causing inconsistent UI | Medium | [#3808](https://github.com/OWASP/Nest/pull/3808) |
-| security: harden production settings for GraphQL, HSTS, and HTTP headers (fixes #3783) | Medium | [#3799](https://github.com/OWASP/Nest/pull/3799) |
-| fix(a11y): Correct color contrast for WCAG AA compliance (#3797) | Medium | [#3798](https://github.com/OWASP/Nest/pull/3798) |
-| CI:  Add ansible-lint workflow for Ansible playbooks | Medium | [#3796](https://github.com/OWASP/Nest/pull/3796) |
-| Enable Cmd + K to Activate Search Bar | Medium | [#3794](https://github.com/OWASP/Nest/issues/3794) |
-| e2e tests heavily impacting local system resources | Medium | [#3792](https://github.com/OWASP/Nest/issues/3792) |
-| fix: optimize interested users field in IssueNode | Medium | [#3788](https://github.com/OWASP/Nest/pull/3788) |
-| Add user locking during API key creation | Medium | [#3774](https://github.com/OWASP/Nest/pull/3774) |
-| fix: optimize issues field in RepositoryNode | Medium | [#3770](https://github.com/OWASP/Nest/pull/3770) |
-| Fix N+1 query issue in releases field | Medium | [#3767](https://github.com/OWASP/Nest/pull/3767) |
-| Fix Sonar S6478 : Move this component definition out of the parent component and pass data as props. | Medium | [#3763](https://github.com/OWASP/Nest/issues/3763) |
-| Performance: N+1 database queries in mentorship module mutations | Medium | [#3753](https://github.com/OWASP/Nest/issues/3753) |
 
 ---
 
@@ -311,6 +318,7 @@
 | 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/Code-A2Z/code-a2z/issues/1178) |
 | Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
+| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
 | 📃: Notes app | Medium | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
 | 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
 | 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
@@ -599,6 +607,8 @@ Schools, offices, and wellness centers looking to green their spaces
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
+| enhance: Add password strength meter to signup | Medium | [#277](https://github.com/Devasy/splitwiser/pull/277) |
+| style: Add haptic feedback to all mobile buttons | Medium | [#276](https://github.com/Devasy/splitwiser/pull/276) |
 | enhance: Add animated success celebration | Medium | [#275](https://github.com/Devasy/splitwiser/pull/275) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#274](https://github.com/Devasy/splitwiser/pull/274) |
 | style: Add consistent focus-visible states to buttons | Medium | [#273](https://github.com/Devasy/splitwiser/pull/273) |
@@ -1497,6 +1507,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Live Deployment for Project | Medium | [#74](https://github.com/sania28/clubmate/issues/74) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
 
@@ -1624,7 +1635,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve responsive design and fix eye toggle feature in login | Medium | [#86](https://github.com/swarooppatilx/bit-by-query/pull/86) |
-| Fix: changed the git clone to users own name | Medium | [#84](https://github.com/swarooppatilx/bit-by-query/pull/84) |
 | feat: add a env flag for sqlite mode | Medium | [#75](https://github.com/swarooppatilx/bit-by-query/issues/75) |
 | bug: hot reload is not working | Medium | [#67](https://github.com/swarooppatilx/bit-by-query/issues/67) |
 | feat: admin panel | Medium | [#66](https://github.com/swarooppatilx/bit-by-query/issues/66) |
@@ -1939,6 +1949,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Document zero-config startup and clarify optional features in Getting Started | Medium | [#99](https://github.com/Xenonesis/code-guardian-report/pull/99) |
+| Fix Non-Responsive Legal Links and Add Missing Legal Pages | Medium | [#98](https://github.com/Xenonesis/code-guardian-report/issues/98) |
+| Feature: Add Feedback Page and Feedback Form Link in Footer | Medium | [#97](https://github.com/Xenonesis/code-guardian-report/issues/97) |
 | chore(deps): bump the production-dependencies group across 1 directory with 5 updates | Medium | [#95](https://github.com/Xenonesis/code-guardian-report/pull/95) |
 | chore(deps): bump @types/node from 25.1.0 to 25.2.0 in the dev-dependencies group | Medium | [#94](https://github.com/Xenonesis/code-guardian-report/pull/94) |
 | chore(deps): bump eslint from 8.57.1 to 9.39.2 in /functions | Medium | [#84](https://github.com/Xenonesis/code-guardian-report/pull/84) |
@@ -1959,7 +1972,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Sign-in/Sign-up with GitHub fails with `auth/unauthorized-domain` error | Medium | [#48](https://github.com/Xenonesis/code-guardian-report/issues/48) |
 | Mobile reponsive | Medium | [#46](https://github.com/Xenonesis/code-guardian-report/pull/46) |
 | fix: added inline styles and visible content for responsive layout | Medium | [#40](https://github.com/Xenonesis/code-guardian-report/pull/40) |
-| Feat: #14 Implement live code diff viewer with local data source | Medium | [#33](https://github.com/Xenonesis/code-guardian-report/pull/33) |
 
 ---
 
@@ -2454,8 +2466,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Add hover effects for interactive UI elements | Medium | [#304](https://github.com/IndieHub25/GroqTales/issues/304) |
-| NFT Listing Page – Like Button Issue Fixed | Medium | [#303](https://github.com/IndieHub25/GroqTales/pull/303) |
 | ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
 
 ---
@@ -2537,6 +2547,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Feedback Page and Feedback Form Link in Footer | Medium | [#919](https://github.com/Premkolte/AnimateHub/issues/919) |
+| Add hero section with header and call-to-action | Medium | [#918](https://github.com/Premkolte/AnimateHub/pull/918) |
+| 🌐 Feature Request: Add Kannada & Multi-Language (i18n) Support | Medium | [#916](https://github.com/Premkolte/AnimateHub/issues/916) |
+| ✨ Feature Request: Add Hover / Scroll Animations to Feature Cards | Medium | [#915](https://github.com/Premkolte/AnimateHub/issues/915) |
+| Sign up button is working even if password validation is wrong | Medium | [#914](https://github.com/Premkolte/AnimateHub/issues/914) |
 | Bug: Auth Register & Login Endpoints Returning 404 | Medium | [#912](https://github.com/Premkolte/AnimateHub/issues/912) |
 | Improve ColorGradientPlayground | Medium | [#911](https://github.com/Premkolte/AnimateHub/pull/911) |
 | Access blocked: Authorization Error | Medium | [#910](https://github.com/Premkolte/AnimateHub/issues/910) |
@@ -2555,12 +2570,6 @@ Fast Workflow Tools
 | Add Newsletter Subscription Section to Footer | Medium | [#851](https://github.com/Premkolte/AnimateHub/issues/851) |
 | Responsive Preview for Mobile Devices | Medium | [#849](https://github.com/Premkolte/AnimateHub/issues/849) |
 | Keyboard Navigation for Snippet Components | Medium | [#848](https://github.com/Premkolte/AnimateHub/issues/848) |
-| Debug Console Logs in Production Code | Medium | [#846](https://github.com/Premkolte/AnimateHub/issues/846) |
-| Hardcoded Test API Keys in Production Code | Medium | [#845](https://github.com/Premkolte/AnimateHub/issues/845) |
-| Vite Middleware Security Flaws | Medium | [#844](https://github.com/Premkolte/AnimateHub/issues/844) |
-| ReDOS and Prototype Pollution in Highlight.js | Medium | [#843](https://github.com/Premkolte/AnimateHub/issues/843) |
-| Critical Security Vulnerability in Axios Library | Medium | [#842](https://github.com/Premkolte/AnimateHub/issues/842) |
-| Close button and copy button is not showing in Mac | Medium | [#833](https://github.com/Premkolte/AnimateHub/issues/833) |
 
 ---
 
@@ -2956,8 +2965,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Padding | Medium | [#395](https://github.com/code-well0/trip-planner/pull/395) |
-| Places Visited | Medium | [#394](https://github.com/code-well0/trip-planner/pull/394) |
+| Update README | Easy | [#398](https://github.com/code-well0/trip-planner/issues/398) |
+| Unnecessary Padding | Medium | [#399](https://github.com/code-well0/trip-planner/issues/399) |
+| Remove extra white padding around hero section | Medium | [#396](https://github.com/code-well0/trip-planner/issues/396) |
+| Make destination cards expandable with “Mark as Visited” action | Hard | [#397](https://github.com/code-well0/trip-planner/issues/397) |
 
 ---
 
