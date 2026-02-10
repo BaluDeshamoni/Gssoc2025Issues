@@ -205,25 +205,23 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| UI Bug: Extra “+” Icon Appearing Above Footer on Blog Page | Easy | [#1410](https://github.com/omroy07/AgriTech/issues/1410) |
-| Critical Text Visibility and Contrast Failure in Light Mode | Easy | [#1402](https://github.com/omroy07/AgriTech/issues/1402) |
-| Fix modal header spacing and close button alignment for "Create New Post" Modal | Medium | [#1425](https://github.com/omroy07/AgriTech/pull/1425) |
-| Fix footer spacing and reduce overall height on Blog Page | Medium | [#1424](https://github.com/omroy07/AgriTech/pull/1424) |
-| Remove extra "+" icon appearing above footer on Blog page | Medium | [#1423](https://github.com/omroy07/AgriTech/pull/1423) |
-| Trailing Cursor Effect Added to Finance Support & Insurance Page | Medium | [#1422](https://github.com/omroy07/AgriTech/pull/1422) |
-| Trailing Cursor Effect Added to Sustainable Farming Page | Medium | [#1421](https://github.com/omroy07/AgriTech/pull/1421) |
-| Trailing Cursor Effect Added to Smart Crop Page | Medium | [#1420](https://github.com/omroy07/AgriTech/pull/1420) |
-| Add Trailing Cursor to Smart Crop Monitoring Page | Medium | [#1417](https://github.com/omroy07/AgriTech/issues/1417) |
+| Improve "Create New Post" Button UI/UX | Easy | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
+| Add /examples directory for API documentation and Model usage | Medium | [#1442](https://github.com/omroy07/AgriTech/issues/1442) |
+| Add Trailing Cursor to Smart Loan Guide Page, calendar page, schemes page | Medium | [#1441](https://github.com/omroy07/AgriTech/issues/1441) |
+| Implement Loan Repayment Scheduler & Default Risk Tracker #1407 | Medium | [#1432](https://github.com/omroy07/AgriTech/pull/1432) |
+| Implement Soil Health Monitoring & Fertilizer Recommendation Engine | Medium | [#1431](https://github.com/omroy07/AgriTech/pull/1431) |
 | Bug: Template Variables Not Rendering on Crop Yield Prediction Page | Medium | [#1416](https://github.com/omroy07/AgriTech/issues/1416) |
-| Fix duplicate heart icon appearing outside blog cards | Medium | [#1409](https://github.com/omroy07/AgriTech/pull/1409) |
-| Soil Health Monitoring & Fertilizer Recommendation Engine | Medium | [#1408](https://github.com/omroy07/AgriTech/issues/1408) |
-| Loan Repayment Scheduler & Default Risk Tracker | Medium | [#1407](https://github.com/omroy07/AgriTech/issues/1407) |
-| Warehouse Inventory & Stock Reconciliation System | Medium | [#1406](https://github.com/omroy07/AgriTech/issues/1406) |
 | Redesign Financial Support footer for consistency | Medium | [#1405](https://github.com/omroy07/AgriTech/pull/1405) |
-| Implement Interactive Counter Animation for Marketplace Statistics | Medium | [#1404](https://github.com/omroy07/AgriTech/issues/1404) |
-| Implement Multi-Stage Processing & Integrated Quality Audit Hub #1393 | Medium | [#1398](https://github.com/omroy07/AgriTech/pull/1398) |
 | Redesign footer on the Financial Support page | Medium | [#1385](https://github.com/omroy07/AgriTech/issues/1385) |
-| Add Trailing Cursor to Main (main.html) Page | Medium | [#1377](https://github.com/omroy07/AgriTech/issues/1377) |
+| Issue: Language Bar Not Working Properly | Medium | [#1375](https://github.com/omroy07/AgriTech/issues/1375) |
+| Data Validation Layer Between Frontend ↔ Backend | Medium | [#1371](https://github.com/omroy07/AgriTech/issues/1371) |
+| Centralized Configuration & Environment Management | Medium | [#1370](https://github.com/omroy07/AgriTech/issues/1370) |
+| Add Unit and Integration Tests for Backend API Endpoints | Medium | [#1325](https://github.com/omroy07/AgriTech/issues/1325) |
+| Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
+| Buttons not responding in Profit & Loss Analytics dashboard | Medium | [#1317](https://github.com/omroy07/AgriTech/issues/1317) |
+| Light mode and language buttons are not working in the navbar | Medium | [#1316](https://github.com/omroy07/AgriTech/issues/1316) |
+| Refactor SECURITY.md for better readability and actionable reporting | Medium | [#1301](https://github.com/omroy07/AgriTech/issues/1301) |
+| Cursor color does not match language selector styling | Medium | [#1270](https://github.com/omroy07/AgriTech/issues/1270) |
 
 ---
 
