@@ -270,7 +270,12 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Merge Zappa Feature Branch | Easy | [#3827](https://github.com/OWASP/Nest/pull/3827) |
-| mprove frontend test coverage above 80% and add missing test files | Medium | [#3864](https://github.com/OWASP/Nest/pull/3864) |
+| Incorrect Error Message for Duplicate Module Name | Medium | [#3879](https://github.com/OWASP/Nest/pull/3879) |
+| NestBot: Fix ** bold markdown formatting for Slack responses (ref #2663) | Medium | [#3878](https://github.com/OWASP/Nest/issues/3878) |
+| Extend structured search functionality to chapters, members, organizations, and repositories | Medium | [#3877](https://github.com/OWASP/Nest/pull/3877) |
+| NestBot : Add structured tracing and timing logs for AI assistant execution pipeline | Medium | [#3876](https://github.com/OWASP/Nest/issues/3876) |
+| feat: implement community page | Medium | [#3873](https://github.com/OWASP/Nest/pull/3873) |
+| UI Foundations: Color System, States, and Accessibility | Medium | [#3868](https://github.com/OWASP/Nest/issues/3868) |
 | Added community endpoint to HIDDEN_SEGMENT | Medium | [#3863](https://github.com/OWASP/Nest/pull/3863) |
 | This assertion is unnecessary since it does not change the type of the expression | Medium | [#3858](https://github.com/OWASP/Nest/issues/3858) |
 | Refactor dateFormatter to strictly accept numeric Unix timestamps | Medium | [#3857](https://github.com/OWASP/Nest/pull/3857) |
@@ -281,15 +286,12 @@
 | Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3852](https://github.com/OWASP/Nest/issues/3852) |
 | Increase Backend Test Coverage to 99%+ | Medium | [#3851](https://github.com/OWASP/Nest/issues/3851) |
 | Add container healthchecks for backend, frontend, and worker in staging/production | Medium | [#3850](https://github.com/OWASP/Nest/issues/3850) |
-| fix(proxy): pin nginx and certbot images | Medium | [#3848](https://github.com/OWASP/Nest/pull/3848) |
-| Resolve case-sensitivity in QueryParser to support Chapters/Members search | Medium | [#3844](https://github.com/OWASP/Nest/pull/3844) |
 | Add CycloneDX SBOM generation for staging images | Medium | [#3833](https://github.com/OWASP/Nest/pull/3833) |
 | Add  /api/health endpoint for frontend healthchecks & monitoring | Medium | [#3830](https://github.com/OWASP/Nest/issues/3830) |
 | fixed aloglia cache_key | Medium | [#3825](https://github.com/OWASP/Nest/pull/3825) |
 | Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3823](https://github.com/OWASP/Nest/issues/3823) |
 | fix: remove unused className prop from AnchorTitle component | Medium | [#3822](https://github.com/OWASP/Nest/pull/3822) |
 | Fix/issue node interested users prefetch | Medium | [#3813](https://github.com/OWASP/Nest/pull/3813) |
-| Light mode breadcrumb text color mismatch causing inconsistent UI | Medium | [#3808](https://github.com/OWASP/Nest/pull/3808) |
 
 ---
 
@@ -326,6 +328,7 @@
 | 📃: Kanban notes management system | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
 | 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
+| Add "Forgot Password" link on Sign In page | Hard | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Hard | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 
 ---
@@ -607,8 +610,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
 | <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
 | <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
-| enhance: Add password strength meter to signup | Medium | [#277](https://github.com/Devasy/splitwiser/pull/277) |
-| style: Add haptic feedback to all mobile buttons | Medium | [#276](https://github.com/Devasy/splitwiser/pull/276) |
+| enhance: Mobile biometric authentication | Medium | [#278](https://github.com/Devasy/splitwiser/pull/278) |
 | enhance: Add animated success celebration | Medium | [#275](https://github.com/Devasy/splitwiser/pull/275) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#274](https://github.com/Devasy/splitwiser/pull/274) |
 | style: Add consistent focus-visible states to buttons | Medium | [#273](https://github.com/Devasy/splitwiser/pull/273) |
@@ -1389,7 +1391,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Add Contributors Section in README | Medium | [#211](https://github.com/Richajaishwal0/Trip_assistant/issues/211) |
 | Add Pull Request (PR) Template | Medium | [#210](https://github.com/Richajaishwal0/Trip_assistant/issues/210) |
 | Bug & Enhancement: Refine Search and Filter Clearing Logic | Medium | [#209](https://github.com/Richajaishwal0/Trip_assistant/issues/209) |
-| feat: Add clickable contact links and fix auth redirect loops | Medium | [#208](https://github.com/Richajaishwal0/Trip_assistant/pull/208) |
 | noUncheckedSideEffectImports not valid | Medium | [#204](https://github.com/Richajaishwal0/Trip_assistant/issues/204) |
 | Fix/strong validation registration | Medium | [#201](https://github.com/Richajaishwal0/Trip_assistant/pull/201) |
 | fixes#197 : add password strength indicator with progress bar in Auth… | Medium | [#198](https://github.com/Richajaishwal0/Trip_assistant/pull/198) |
@@ -1556,7 +1557,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Broken theme toggle feature | Medium | [#31](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/31) |
 | Addition of automate issue create message | Medium | [#30](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/30) |
 | Implement Dark/Light Mode Toggle | Medium | [#29](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/29) |
-| feat: add docker development setup | Medium | [#28](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/28) |
 | Enhancement: Added .env.example and serviceAccount.json.example | Medium | [#27](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/27) |
 | Added CODE_OF_CONDUCT.md file | Medium | [#23](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/23) |
 | Hosted CLASSMGMTSYS on vercel | Medium | [#21](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/21) |
@@ -1949,11 +1949,12 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| docs: fix Getting Started instructions and clarify setup | Medium | [#102](https://github.com/Xenonesis/code-guardian-report/pull/102) |
+| chore(deps): bump the production-dependencies group across 1 directory with 11 updates | Medium | [#101](https://github.com/Xenonesis/code-guardian-report/pull/101) |
+| chore(deps): bump the dev-dependencies group across 1 directory with 2 updates | Medium | [#100](https://github.com/Xenonesis/code-guardian-report/pull/100) |
 | Document zero-config startup and clarify optional features in Getting Started | Medium | [#99](https://github.com/Xenonesis/code-guardian-report/pull/99) |
 | Fix Non-Responsive Legal Links and Add Missing Legal Pages | Medium | [#98](https://github.com/Xenonesis/code-guardian-report/issues/98) |
 | Feature: Add Feedback Page and Feedback Form Link in Footer | Medium | [#97](https://github.com/Xenonesis/code-guardian-report/issues/97) |
-| chore(deps): bump the production-dependencies group across 1 directory with 5 updates | Medium | [#95](https://github.com/Xenonesis/code-guardian-report/pull/95) |
-| chore(deps): bump @types/node from 25.1.0 to 25.2.0 in the dev-dependencies group | Medium | [#94](https://github.com/Xenonesis/code-guardian-report/pull/94) |
 | chore(deps): bump eslint from 8.57.1 to 9.39.2 in /functions | Medium | [#84](https://github.com/Xenonesis/code-guardian-report/pull/84) |
 | chore(deps): bump firebase-functions from 7.0.0 to 7.0.2 in /functions | Medium | [#83](https://github.com/Xenonesis/code-guardian-report/pull/83) |
 | chore(deps): bump @types/node from 18.19.130 to 25.0.3 in /functions | Medium | [#82](https://github.com/Xenonesis/code-guardian-report/pull/82) |
@@ -1971,7 +1972,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | # 🚀 Welcome to RecodeHive! | Medium | [#53](https://github.com/Xenonesis/code-guardian-report/issues/53) |
 | Sign-in/Sign-up with GitHub fails with `auth/unauthorized-domain` error | Medium | [#48](https://github.com/Xenonesis/code-guardian-report/issues/48) |
 | Mobile reponsive | Medium | [#46](https://github.com/Xenonesis/code-guardian-report/pull/46) |
-| fix: added inline styles and visible content for responsive layout | Medium | [#40](https://github.com/Xenonesis/code-guardian-report/pull/40) |
 
 ---
 
@@ -2466,7 +2466,21 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
+| Local “One-Click” Dev Environment with Seed Data & Test Wallets | Medium | [#330](https://github.com/IndieHub25/GroqTales/issues/330) |
+| In-Context Onboarding: Interactive Tooltips & “First Story” Guided Tour | Medium | [#325](https://github.com/IndieHub25/GroqTales/issues/325) |
+| WCAG-Driven Story Reader (Keyboard, Screen Readers, High-Contrast) | Medium | [#324](https://github.com/IndieHub25/GroqTales/issues/324) |
+| Story Reader & Gallery Performance Budget (Lighthouse, Bundles & Streaming) | Hard | [#335](https://github.com/IndieHub25/GroqTales/issues/335) |
+| Off-Chain Royalty Tracking & Creator Revenue Share Dashboard | Hard | [#334](https://github.com/IndieHub25/GroqTales/issues/334) |
+| Gas-Efficient Metadata Strategy & On-Chain Indexing for Story NFTs | Hard | [#333](https://github.com/IndieHub25/GroqTales/issues/333) |
+| Automated Story Quality Scoring, Safety Filtering & Content Tagging Pipeline | Hard | [#332](https://github.com/IndieHub25/GroqTales/issues/332) |
+| Multi-Model Orchestration, Fallback, and A/B Testing for Story Generation | Hard | [#331](https://github.com/IndieHub25/GroqTales/issues/331) |
+| Robust On-Chain State Sync & Recovery for Story NFTs | Hard | [#329](https://github.com/IndieHub25/GroqTales/issues/329) |
+| Full-Stack Latency Budgeting & Monitoring for AI Story Generation | Hard | [#328](https://github.com/IndieHub25/GroqTales/issues/328) |
+| Structured JSON Story Schema & Model-Constrained Generation | Hard | [#327](https://github.com/IndieHub25/GroqTales/issues/327) |
+| Multi-Step Story Refinement Loop (Critique → Edit → Regenerate Sections) | Hard | [#326](https://github.com/IndieHub25/GroqTales/issues/326) |
+| Advanced Story Controls “Pro Panel” with Presets & Preset Sharing | Hard | [#323](https://github.com/IndieHub25/GroqTales/issues/323) |
+| Creator Dashboard 2.0 – Unified Library, Analytics & Draft Management | Hard | [#322](https://github.com/IndieHub25/GroqTales/issues/322) |
+| UX] End-to-end Story Creation Flow Redesign (From Landing → Draft → Mint) | Hard | [#321](https://github.com/IndieHub25/GroqTales/issues/321) |
 
 ---
 
@@ -2547,6 +2561,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| GitHub Stats Not Updating in Real-Time – Issues Count Mismatch | Medium | [#921](https://github.com/Premkolte/AnimateHub/issues/921) |
+| Update primary color and adjust color scale | Medium | [#920](https://github.com/Premkolte/AnimateHub/pull/920) |
 | Add Feedback Page and Feedback Form Link in Footer | Medium | [#919](https://github.com/Premkolte/AnimateHub/issues/919) |
 | Add hero section with header and call-to-action | Medium | [#918](https://github.com/Premkolte/AnimateHub/pull/918) |
 | 🌐 Feature Request: Add Kannada & Multi-Language (i18n) Support | Medium | [#916](https://github.com/Premkolte/AnimateHub/issues/916) |
@@ -2568,8 +2584,6 @@ Fast Workflow Tools
 | Level 3: Advanced UI/UX, Accessibility & Performance Enhancements | Medium | [#881](https://github.com/Premkolte/AnimateHub/issues/881) |
 | Add a lower case checklist for sign-up | Medium | [#859](https://github.com/Premkolte/AnimateHub/issues/859) |
 | Add Newsletter Subscription Section to Footer | Medium | [#851](https://github.com/Premkolte/AnimateHub/issues/851) |
-| Responsive Preview for Mobile Devices | Medium | [#849](https://github.com/Premkolte/AnimateHub/issues/849) |
-| Keyboard Navigation for Snippet Components | Medium | [#848](https://github.com/Premkolte/AnimateHub/issues/848) |
 
 ---
 
