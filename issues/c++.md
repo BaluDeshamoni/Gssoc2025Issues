@@ -14,6 +14,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add SWOC'26 and OSCGC to Readme | Medium | [#389](https://github.com/Dipanita45/HEALCONNECT/issues/389) |
+| Text Inside Subscription Email not visible in Light Mode | Medium | [#388](https://github.com/Dipanita45/HEALCONNECT/issues/388) |
+| Fix mobile responsiveness and missing navbar hamburger menu | Medium | [#387](https://github.com/Dipanita45/HEALCONNECT/issues/387) |
+| Bug-Select dropdown not visible on Prescription page | Medium | [#386](https://github.com/Dipanita45/HEALCONNECT/issues/386) |
+| Excessive Debug Logging Exposes Sensitive Data in Production | Medium | [#385](https://github.com/Dipanita45/HEALCONNECT/issues/385) |
+| Bug: Admin Route Not Protected - Anyone Can Access Admin Dashboard | Medium | [#384](https://github.com/Dipanita45/HEALCONNECT/issues/384) |
+| Appointments Security - No Authentication Required to Book Appointments | Medium | [#383](https://github.com/Dipanita45/HEALCONNECT/issues/383) |
+| Security - Passwords Stored in Plain Text | Medium | [#382](https://github.com/Dipanita45/HEALCONNECT/issues/382) |
+| Feat/smart navbar auto hide | Medium | [#381](https://github.com/Dipanita45/HEALCONNECT/pull/381) |
+| feat: implement active navigation link highlighting #258 | Medium | [#380](https://github.com/Dipanita45/HEALCONNECT/pull/380) |
+| Critical Security Vulnerability - Missing Input Validation in API Routes | Medium | [#379](https://github.com/Dipanita45/HEALCONNECT/issues/379) |
 | OSCG26: Add Search & Filter Functionality to Appointment Dashboard | Medium | [#378](https://github.com/Dipanita45/HEALCONNECT/pull/378) |
 | Mobile Menu Button Not Working on HealConnect Website | Medium | [#377](https://github.com/Dipanita45/HEALCONNECT/issues/377) |
 | OSCG26: Prevent Duplicate Appointment Booking & Fix React Import Build Error | Medium | [#376](https://github.com/Dipanita45/HEALCONNECT/pull/376) |
@@ -32,13 +43,6 @@
 | Add subtle border animation to Measurement History cards | Medium | [#361](https://github.com/Dipanita45/HEALCONNECT/pull/361) |
 | Accessibility fixes | Medium | [#360](https://github.com/Dipanita45/HEALCONNECT/pull/360) |
 | Fix syntax error in Appointments page by correcting useEffect structure | Medium | [#357](https://github.com/Dipanita45/HEALCONNECT/pull/357) |
-| Enhance Solution Section with Structured Card-Based Layout | Medium | [#356](https://github.com/Dipanita45/HEALCONNECT/pull/356) |
-| updated support | Medium | [#353](https://github.com/Dipanita45/HEALCONNECT/pull/353) |
-| Fix navbar UI and alignment issues (#312) | Medium | [#347](https://github.com/Dipanita45/HEALCONNECT/pull/347) |
-| Feat/smart navbar auto hide | Medium | [#341](https://github.com/Dipanita45/HEALCONNECT/pull/341) |
-| feat: implement active navigation link highlighting #258 | Medium | [#340](https://github.com/Dipanita45/HEALCONNECT/pull/340) |
-| Docfix | Medium | [#339](https://github.com/Dipanita45/HEALCONNECT/pull/339) |
-| fix: replace hardcoded medical data with actual user data | Medium | [#334](https://github.com/Dipanita45/HEALCONNECT/pull/334) |
 
 ---
 
