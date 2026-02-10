@@ -95,24 +95,28 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Merge Zappa Feature Branch | Easy | [#3827](https://github.com/OWASP/Nest/pull/3827) |
-| Fix 'is_merged' not being available on the Issue | Medium | [#3843](https://github.com/OWASP/Nest/pull/3843) |
-| Issue.isMerged GraphQL resolver fails due to missing annotation attribute | Medium | [#3841](https://github.com/OWASP/Nest/issues/3841) |
-| feat: improve backend test coverage to 96% | Medium | [#3840](https://github.com/OWASP/Nest/pull/3840) |
-| Optimize MultiSearch by cancelling in-flight requests using AbortController | Medium | [#3839](https://github.com/OWASP/Nest/issues/3839) |
-| Move this component definition out of the parent component and pass data as props | Medium | [#3836](https://github.com/OWASP/Nest/issues/3836) |
+| Incorrect Error Message for Duplicate Module Name | Medium | [#3879](https://github.com/OWASP/Nest/pull/3879) |
+| NestBot: Fix ** bold markdown formatting for Slack responses (ref #2663) | Medium | [#3878](https://github.com/OWASP/Nest/issues/3878) |
+| Extend structured search functionality to chapters, members, organizations, and repositories | Medium | [#3877](https://github.com/OWASP/Nest/pull/3877) |
+| NestBot : Add structured tracing and timing logs for AI assistant execution pipeline | Medium | [#3876](https://github.com/OWASP/Nest/issues/3876) |
+| feat: implement community page | Medium | [#3873](https://github.com/OWASP/Nest/pull/3873) |
+| UI Foundations: Color System, States, and Accessibility | Medium | [#3868](https://github.com/OWASP/Nest/issues/3868) |
+| Added community endpoint to HIDDEN_SEGMENT | Medium | [#3863](https://github.com/OWASP/Nest/pull/3863) |
+| This assertion is unnecessary since it does not change the type of the expression | Medium | [#3858](https://github.com/OWASP/Nest/issues/3858) |
+| Refactor dateFormatter to strictly accept numeric Unix timestamps | Medium | [#3857](https://github.com/OWASP/Nest/pull/3857) |
+| `new Error()` is too unspecific for a type check. Use `new TypeError()` instead | Medium | [#3856](https://github.com/OWASP/Nest/issues/3856) |
+| Critical: Lost updates in concurrent Program/Module edits due to missing optimistic locking | Medium | [#3855](https://github.com/OWASP/Nest/issues/3855) |
+| Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3854](https://github.com/OWASP/Nest/issues/3854) |
+| Critical: Race condition in Program.experience_levels array causes data loss | Medium | [#3853](https://github.com/OWASP/Nest/issues/3853) |
+| Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3852](https://github.com/OWASP/Nest/issues/3852) |
+| Increase Backend Test Coverage to 99%+ | Medium | [#3851](https://github.com/OWASP/Nest/issues/3851) |
+| Add container healthchecks for backend, frontend, and worker in staging/production | Medium | [#3850](https://github.com/OWASP/Nest/issues/3850) |
 | Add CycloneDX SBOM generation for staging images | Medium | [#3833](https://github.com/OWASP/Nest/pull/3833) |
 | Add  /api/health endpoint for frontend healthchecks & monitoring | Medium | [#3830](https://github.com/OWASP/Nest/issues/3830) |
 | fixed aloglia cache_key | Medium | [#3825](https://github.com/OWASP/Nest/pull/3825) |
 | Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3823](https://github.com/OWASP/Nest/issues/3823) |
 | fix: remove unused className prop from AnchorTitle component | Medium | [#3822](https://github.com/OWASP/Nest/pull/3822) |
 | Fix/issue node interested users prefetch | Medium | [#3813](https://github.com/OWASP/Nest/pull/3813) |
-| Light mode breadcrumb text color mismatch causing inconsistent UI | Medium | [#3808](https://github.com/OWASP/Nest/pull/3808) |
-| security: harden production settings for GraphQL, HSTS, and HTTP headers (fixes #3783) | Medium | [#3799](https://github.com/OWASP/Nest/pull/3799) |
-| fix(a11y): Correct color contrast for WCAG AA compliance (#3797) | Medium | [#3798](https://github.com/OWASP/Nest/pull/3798) |
-| CI:  Add ansible-lint workflow for Ansible playbooks | Medium | [#3796](https://github.com/OWASP/Nest/pull/3796) |
-| Enable Cmd + K to Activate Search Bar | Medium | [#3794](https://github.com/OWASP/Nest/issues/3794) |
-| e2e tests heavily impacting local system resources | Medium | [#3792](https://github.com/OWASP/Nest/issues/3792) |
-| fix: optimize interested users field in IssueNode | Medium | [#3788](https://github.com/OWASP/Nest/pull/3788) |
 
 ---
 
@@ -412,7 +416,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add Contributors Section in README | Medium | [#211](https://github.com/Richajaishwal0/Trip_assistant/issues/211) |
 | Add Pull Request (PR) Template | Medium | [#210](https://github.com/Richajaishwal0/Trip_assistant/issues/210) |
 | Bug & Enhancement: Refine Search and Filter Clearing Logic | Medium | [#209](https://github.com/Richajaishwal0/Trip_assistant/issues/209) |
-| feat: Add clickable contact links and fix auth redirect loops | Medium | [#208](https://github.com/Richajaishwal0/Trip_assistant/pull/208) |
 | noUncheckedSideEffectImports not valid | Medium | [#204](https://github.com/Richajaishwal0/Trip_assistant/issues/204) |
 | Fix/strong validation registration | Medium | [#201](https://github.com/Richajaishwal0/Trip_assistant/pull/201) |
 | fixes#197 : add password strength indicator with progress bar in Auth… | Medium | [#198](https://github.com/Richajaishwal0/Trip_assistant/pull/198) |
@@ -704,6 +707,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(device-type): implement multi-signal classification engine | Medium | [#77](https://github.com/IntegerAlex/fingerprint-oss/pull/77) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
 | Stabilization in Hash generation | Hard | [#61](https://github.com/IntegerAlex/fingerprint-oss/pull/61) |
 
@@ -1009,13 +1013,21 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added swagger doc for stories adn auth route | Easy | [#307](https://github.com/IndieHub25/GroqTales/pull/307) |
-| Adding swagger doc for nft and nft marketplace routes | Medium | [#308](https://github.com/IndieHub25/GroqTales/issues/308) |
-| UX Login alert triggers "Install App" confusion, missing MetaMask download link | Medium | [#306](https://github.com/IndieHub25/GroqTales/issues/306) |
-| Optimize Framer Motion animations to reduce jank and improve 60fps consistency | Medium | [#305](https://github.com/IndieHub25/GroqTales/issues/305) |
-| Enhancement: Add hover effects for interactive UI elements | Medium | [#304](https://github.com/IndieHub25/GroqTales/issues/304) |
-| NFT Listing Page – Like Button Issue Fixed | Medium | [#303](https://github.com/IndieHub25/GroqTales/pull/303) |
-| ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
+| Local “One-Click” Dev Environment with Seed Data & Test Wallets | Medium | [#330](https://github.com/IndieHub25/GroqTales/issues/330) |
+| In-Context Onboarding: Interactive Tooltips & “First Story” Guided Tour | Medium | [#325](https://github.com/IndieHub25/GroqTales/issues/325) |
+| WCAG-Driven Story Reader (Keyboard, Screen Readers, High-Contrast) | Medium | [#324](https://github.com/IndieHub25/GroqTales/issues/324) |
+| Story Reader & Gallery Performance Budget (Lighthouse, Bundles & Streaming) | Hard | [#335](https://github.com/IndieHub25/GroqTales/issues/335) |
+| Off-Chain Royalty Tracking & Creator Revenue Share Dashboard | Hard | [#334](https://github.com/IndieHub25/GroqTales/issues/334) |
+| Gas-Efficient Metadata Strategy & On-Chain Indexing for Story NFTs | Hard | [#333](https://github.com/IndieHub25/GroqTales/issues/333) |
+| Automated Story Quality Scoring, Safety Filtering & Content Tagging Pipeline | Hard | [#332](https://github.com/IndieHub25/GroqTales/issues/332) |
+| Multi-Model Orchestration, Fallback, and A/B Testing for Story Generation | Hard | [#331](https://github.com/IndieHub25/GroqTales/issues/331) |
+| Robust On-Chain State Sync & Recovery for Story NFTs | Hard | [#329](https://github.com/IndieHub25/GroqTales/issues/329) |
+| Full-Stack Latency Budgeting & Monitoring for AI Story Generation | Hard | [#328](https://github.com/IndieHub25/GroqTales/issues/328) |
+| Structured JSON Story Schema & Model-Constrained Generation | Hard | [#327](https://github.com/IndieHub25/GroqTales/issues/327) |
+| Multi-Step Story Refinement Loop (Critique → Edit → Regenerate Sections) | Hard | [#326](https://github.com/IndieHub25/GroqTales/issues/326) |
+| Advanced Story Controls “Pro Panel” with Presets & Preset Sharing | Hard | [#323](https://github.com/IndieHub25/GroqTales/issues/323) |
+| Creator Dashboard 2.0 – Unified Library, Analytics & Draft Management | Hard | [#322](https://github.com/IndieHub25/GroqTales/issues/322) |
+| UX] End-to-end Story Creation Flow Redesign (From Landing → Draft → Mint) | Hard | [#321](https://github.com/IndieHub25/GroqTales/issues/321) |
 
 ---
 
@@ -1293,7 +1305,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add glass gradient hero section | Medium | [#116](https://github.com/subhadeeproy3902/mvpblocks/pull/116) |
+| High ISR reads on Vercel | Medium | [#135](https://github.com/subhadeeproy3902/mvpblocks/issues/135) |
+| Improve templates page with metadata and visuals | Medium | [#134](https://github.com/subhadeeproy3902/mvpblocks/pull/134) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
