@@ -253,7 +253,12 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Merge Zappa Feature Branch | Easy | [#3827](https://github.com/OWASP/Nest/pull/3827) |
-| mprove frontend test coverage above 80% and add missing test files | Medium | [#3864](https://github.com/OWASP/Nest/pull/3864) |
+| Incorrect Error Message for Duplicate Module Name | Medium | [#3879](https://github.com/OWASP/Nest/pull/3879) |
+| NestBot: Fix ** bold markdown formatting for Slack responses (ref #2663) | Medium | [#3878](https://github.com/OWASP/Nest/issues/3878) |
+| Extend structured search functionality to chapters, members, organizations, and repositories | Medium | [#3877](https://github.com/OWASP/Nest/pull/3877) |
+| NestBot : Add structured tracing and timing logs for AI assistant execution pipeline | Medium | [#3876](https://github.com/OWASP/Nest/issues/3876) |
+| feat: implement community page | Medium | [#3873](https://github.com/OWASP/Nest/pull/3873) |
+| UI Foundations: Color System, States, and Accessibility | Medium | [#3868](https://github.com/OWASP/Nest/issues/3868) |
 | Added community endpoint to HIDDEN_SEGMENT | Medium | [#3863](https://github.com/OWASP/Nest/pull/3863) |
 | This assertion is unnecessary since it does not change the type of the expression | Medium | [#3858](https://github.com/OWASP/Nest/issues/3858) |
 | Refactor dateFormatter to strictly accept numeric Unix timestamps | Medium | [#3857](https://github.com/OWASP/Nest/pull/3857) |
@@ -264,15 +269,12 @@ Accessibility features like dark mode,white.
 | Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3852](https://github.com/OWASP/Nest/issues/3852) |
 | Increase Backend Test Coverage to 99%+ | Medium | [#3851](https://github.com/OWASP/Nest/issues/3851) |
 | Add container healthchecks for backend, frontend, and worker in staging/production | Medium | [#3850](https://github.com/OWASP/Nest/issues/3850) |
-| fix(proxy): pin nginx and certbot images | Medium | [#3848](https://github.com/OWASP/Nest/pull/3848) |
-| Resolve case-sensitivity in QueryParser to support Chapters/Members search | Medium | [#3844](https://github.com/OWASP/Nest/pull/3844) |
 | Add CycloneDX SBOM generation for staging images | Medium | [#3833](https://github.com/OWASP/Nest/pull/3833) |
 | Add  /api/health endpoint for frontend healthchecks & monitoring | Medium | [#3830](https://github.com/OWASP/Nest/issues/3830) |
 | fixed aloglia cache_key | Medium | [#3825](https://github.com/OWASP/Nest/pull/3825) |
 | Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3823](https://github.com/OWASP/Nest/issues/3823) |
 | fix: remove unused className prop from AnchorTitle component | Medium | [#3822](https://github.com/OWASP/Nest/pull/3822) |
 | Fix/issue node interested users prefetch | Medium | [#3813](https://github.com/OWASP/Nest/pull/3813) |
-| Light mode breadcrumb text color mismatch causing inconsistent UI | Medium | [#3808](https://github.com/OWASP/Nest/pull/3808) |
 
 ---
 
@@ -341,6 +343,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 📃: Kanban notes management system | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
 | 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
+| Add "Forgot Password" link on Sign In page | Hard | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Hard | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
 
 ---
@@ -557,6 +560,17 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add SWOC'26 and OSCGC to Readme | Medium | [#389](https://github.com/Dipanita45/HEALCONNECT/issues/389) |
+| Text Inside Subscription Email not visible in Light Mode | Medium | [#388](https://github.com/Dipanita45/HEALCONNECT/issues/388) |
+| Fix mobile responsiveness and missing navbar hamburger menu | Medium | [#387](https://github.com/Dipanita45/HEALCONNECT/issues/387) |
+| Bug-Select dropdown not visible on Prescription page | Medium | [#386](https://github.com/Dipanita45/HEALCONNECT/issues/386) |
+| Excessive Debug Logging Exposes Sensitive Data in Production | Medium | [#385](https://github.com/Dipanita45/HEALCONNECT/issues/385) |
+| Bug: Admin Route Not Protected - Anyone Can Access Admin Dashboard | Medium | [#384](https://github.com/Dipanita45/HEALCONNECT/issues/384) |
+| Appointments Security - No Authentication Required to Book Appointments | Medium | [#383](https://github.com/Dipanita45/HEALCONNECT/issues/383) |
+| Security - Passwords Stored in Plain Text | Medium | [#382](https://github.com/Dipanita45/HEALCONNECT/issues/382) |
+| Feat/smart navbar auto hide | Medium | [#381](https://github.com/Dipanita45/HEALCONNECT/pull/381) |
+| feat: implement active navigation link highlighting #258 | Medium | [#380](https://github.com/Dipanita45/HEALCONNECT/pull/380) |
+| Critical Security Vulnerability - Missing Input Validation in API Routes | Medium | [#379](https://github.com/Dipanita45/HEALCONNECT/issues/379) |
 | OSCG26: Add Search & Filter Functionality to Appointment Dashboard | Medium | [#378](https://github.com/Dipanita45/HEALCONNECT/pull/378) |
 | Mobile Menu Button Not Working on HealConnect Website | Medium | [#377](https://github.com/Dipanita45/HEALCONNECT/issues/377) |
 | OSCG26: Prevent Duplicate Appointment Booking & Fix React Import Build Error | Medium | [#376](https://github.com/Dipanita45/HEALCONNECT/pull/376) |
@@ -575,13 +589,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Add subtle border animation to Measurement History cards | Medium | [#361](https://github.com/Dipanita45/HEALCONNECT/pull/361) |
 | Accessibility fixes | Medium | [#360](https://github.com/Dipanita45/HEALCONNECT/pull/360) |
 | Fix syntax error in Appointments page by correcting useEffect structure | Medium | [#357](https://github.com/Dipanita45/HEALCONNECT/pull/357) |
-| Enhance Solution Section with Structured Card-Based Layout | Medium | [#356](https://github.com/Dipanita45/HEALCONNECT/pull/356) |
-| updated support | Medium | [#353](https://github.com/Dipanita45/HEALCONNECT/pull/353) |
-| Fix navbar UI and alignment issues (#312) | Medium | [#347](https://github.com/Dipanita45/HEALCONNECT/pull/347) |
-| Feat/smart navbar auto hide | Medium | [#341](https://github.com/Dipanita45/HEALCONNECT/pull/341) |
-| feat: implement active navigation link highlighting #258 | Medium | [#340](https://github.com/Dipanita45/HEALCONNECT/pull/340) |
-| Docfix | Medium | [#339](https://github.com/Dipanita45/HEALCONNECT/pull/339) |
-| fix: replace hardcoded medical data with actual user data | Medium | [#334](https://github.com/Dipanita45/HEALCONNECT/pull/334) |
 
 ---
 
@@ -1325,7 +1332,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Broken theme toggle feature | Medium | [#31](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/31) |
 | Addition of automate issue create message | Medium | [#30](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/30) |
 | Implement Dark/Light Mode Toggle | Medium | [#29](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/issues/29) |
-| feat: add docker development setup | Medium | [#28](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/28) |
 | Enhancement: Added .env.example and serviceAccount.json.example | Medium | [#27](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/27) |
 | Added CODE_OF_CONDUCT.md file | Medium | [#23](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/23) |
 | Hosted CLASSMGMTSYS on vercel | Medium | [#21](https://github.com/ShudarsanRegmi/ClassMgmtSysOS-/pull/21) |
@@ -2616,7 +2622,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add glass gradient hero section | Medium | [#116](https://github.com/subhadeeproy3902/mvpblocks/pull/116) |
+| High ISR reads on Vercel | Medium | [#135](https://github.com/subhadeeproy3902/mvpblocks/issues/135) |
+| Improve templates page with metadata and visuals | Medium | [#134](https://github.com/subhadeeproy3902/mvpblocks/pull/134) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
