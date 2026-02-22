@@ -112,7 +112,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improve responsive design and fix eye toggle feature in login | Medium | [#86](https://github.com/swarooppatilx/bit-by-query/pull/86) |
-| Fix: changed the git clone to users own name | Medium | [#84](https://github.com/swarooppatilx/bit-by-query/pull/84) |
 | feat: add a env flag for sqlite mode | Medium | [#75](https://github.com/swarooppatilx/bit-by-query/issues/75) |
 | bug: hot reload is not working | Medium | [#67](https://github.com/swarooppatilx/bit-by-query/issues/67) |
 | feat: admin panel | Medium | [#66](https://github.com/swarooppatilx/bit-by-query/issues/66) |
@@ -137,6 +136,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Structured Logging to Service Layer for Better Observability | Medium | [#75](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/75) |
+| Add Validation Annotations to DTOs to Prevent Invalid Data Submission | Medium | [#74](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/74) |
+| Implement role-based access control (Admin, Doctor, Patient) for API endpoints #64 | Medium | [#73](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/73) |
 | Implement Pull Request Template for Backend Quality Assurance | Medium | [#72](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/72) |
 | Add Structured Issue Templates for Backend & API Support | Medium | [#71](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/71) |
 | README Overhaul — Add System Architecture & API Visualizer | Medium | [#70](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/70) |
@@ -145,7 +147,6 @@
 | Add Form Validation and User-Friendly Error Messages to Patient & Appointment Forms | Medium | [#67](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/67) |
 | Add smart appointment slot suggestion feature | Medium | [#66](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/66) |
 | fix: resolve concurrency issue in appointment booking (double-booking fix) | Medium | [#65](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/65) |
-| Implement role-based access control (Admin, Doctor, Patient) for API endpoints | Medium | [#64](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/64) |
 | FEATURE: Real-Time Appointment Notifications & Reminders System | Medium | [#63](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/63) |
 | 💊 Implement Prescription Management Module | Medium | [#62](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/62) |
 | Add a section "system architecture" in  readme | Medium | [#61](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/61) |
