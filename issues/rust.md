@@ -36,6 +36,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add support to various AI models | Medium | [#42](https://github.com/EkaAI-Tech/term/issues/42) |
 | Addition of automate issue create message | Medium | [#41](https://github.com/EkaAI-Tech/term/issues/41) |
 | Add SECURITY.md file | Medium | [#40](https://github.com/EkaAI-Tech/term/issues/40) |
 | Added Context in the terminal | Medium | [#39](https://github.com/EkaAI-Tech/term/pull/39) |
