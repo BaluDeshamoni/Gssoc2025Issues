@@ -269,29 +269,33 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Merge Zappa Feature Branch | Easy | [#3827](https://github.com/OWASP/Nest/pull/3827) |
-| Incorrect Error Message for Duplicate Module Name | Medium | [#3879](https://github.com/OWASP/Nest/pull/3879) |
-| NestBot: Fix ** bold markdown formatting for Slack responses (ref #2663) | Medium | [#3878](https://github.com/OWASP/Nest/issues/3878) |
-| Extend structured search functionality to chapters, members, organizations, and repositories | Medium | [#3877](https://github.com/OWASP/Nest/pull/3877) |
-| NestBot : Add structured tracing and timing logs for AI assistant execution pipeline | Medium | [#3876](https://github.com/OWASP/Nest/issues/3876) |
-| feat: implement community page | Medium | [#3873](https://github.com/OWASP/Nest/pull/3873) |
-| UI Foundations: Color System, States, and Accessibility | Medium | [#3868](https://github.com/OWASP/Nest/issues/3868) |
-| Added community endpoint to HIDDEN_SEGMENT | Medium | [#3863](https://github.com/OWASP/Nest/pull/3863) |
-| This assertion is unnecessary since it does not change the type of the expression | Medium | [#3858](https://github.com/OWASP/Nest/issues/3858) |
-| Refactor dateFormatter to strictly accept numeric Unix timestamps | Medium | [#3857](https://github.com/OWASP/Nest/pull/3857) |
-| `new Error()` is too unspecific for a type check. Use `new TypeError()` instead | Medium | [#3856](https://github.com/OWASP/Nest/issues/3856) |
-| Critical: Lost updates in concurrent Program/Module edits due to missing optimistic locking | Medium | [#3855](https://github.com/OWASP/Nest/issues/3855) |
-| Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3854](https://github.com/OWASP/Nest/issues/3854) |
-| Critical: Race condition in Program.experience_levels array causes data loss | Medium | [#3853](https://github.com/OWASP/Nest/issues/3853) |
-| Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3852](https://github.com/OWASP/Nest/issues/3852) |
-| Increase Backend Test Coverage to 99%+ | Medium | [#3851](https://github.com/OWASP/Nest/issues/3851) |
-| Add container healthchecks for backend, frontend, and worker in staging/production | Medium | [#3850](https://github.com/OWASP/Nest/issues/3850) |
-| Add CycloneDX SBOM generation for staging images | Medium | [#3833](https://github.com/OWASP/Nest/pull/3833) |
-| Add  /api/health endpoint for frontend healthchecks & monitoring | Medium | [#3830](https://github.com/OWASP/Nest/issues/3830) |
-| fixed aloglia cache_key | Medium | [#3825](https://github.com/OWASP/Nest/pull/3825) |
-| Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3823](https://github.com/OWASP/Nest/issues/3823) |
-| fix: remove unused className prop from AnchorTitle component | Medium | [#3822](https://github.com/OWASP/Nest/pull/3822) |
-| Fix/issue node interested users prefetch | Medium | [#3813](https://github.com/OWASP/Nest/pull/3813) |
+| General Improvements for Infrastructure | Easy | [#4039](https://github.com/OWASP/Nest/pull/4039) |
+| Improved CONTRIBUTING.md | Easy | [#4025](https://github.com/OWASP/Nest/pull/4025) |
+| feat(frontend): implement Terms of Service page | Easy | [#4017](https://github.com/OWASP/Nest/pull/4017) |
+| perf(frontend): Convert home page to Server Component for SSR support | Medium | [#4037](https://github.com/OWASP/Nest/issues/4037) |
+| Add Program Deletion with Cascade Module Removal | Medium | [#4036](https://github.com/OWASP/Nest/issues/4036) |
+| Refactor: Enforce strict equality in frontend components | Medium | [#4035](https://github.com/OWASP/Nest/issues/4035) |
+| chore(deps): bump isomorphic-dompurify from 2.36.0 to 3.0.0 in /frontend | Medium | [#4034](https://github.com/OWASP/Nest/pull/4034) |
+| improve frontend test coverage | Medium | [#4033](https://github.com/OWASP/Nest/pull/4033) |
+| Feature: Add Gemini LLM Provider Support to AI Agent Configuration | Medium | [#4031](https://github.com/OWASP/Nest/issues/4031) |
+| Improve module visibility show up to 6 modules before displaying “Show more” | Medium | [#4029](https://github.com/OWASP/Nest/issues/4029) |
+| Move Django session backend from database to Redis cache | Medium | [#4028](https://github.com/OWASP/Nest/issues/4028) |
+| Configure Gunicorn with production-appropriate worker and timeout settings | Medium | [#4027](https://github.com/OWASP/Nest/issues/4027) |
+| Refactor: Rename GitHub repository node fields to recent_issues and recent_releases | Medium | [#4026](https://github.com/OWASP/Nest/issues/4026) |
+| Bug: OpenAI API Exception Handling Too Broad - Masks Auth, Rate Limit, and Model Errors | Medium | [#4024](https://github.com/OWASP/Nest/issues/4024) |
+| feat: implement module ordering with drag-and-drop support | Medium | [#4020](https://github.com/OWASP/Nest/pull/4020) |
+| Anyone is able to access the Module Issues page in Mentorship Portal | Medium | [#4018](https://github.com/OWASP/Nest/issues/4018) |
+| Refactor create_chunks_and_embeddings: Type Safety, Rate Limiting, and DB Optimization | Medium | [#4016](https://github.com/OWASP/Nest/issues/4016) |
+| refactor: Migrate mentorship GraphQL nodes to use field decorators | Medium | [#4013](https://github.com/OWASP/Nest/issues/4013) |
+| Consolidate Duplicate `apolloClient.ts`  Files | Medium | [#4006](https://github.com/OWASP/Nest/issues/4006) |
+| Add theme toggle with system preference and persistence | Medium | [#4005](https://github.com/OWASP/Nest/pull/4005) |
+| Rename RepositoryNode.releases to recent_releases | Medium | [#3994](https://github.com/OWASP/Nest/issues/3994) |
+| Rename RepositoryNode issues/releases to recent_issues / recent_releases | Medium | [#3993](https://github.com/OWASP/Nest/issues/3993) |
+| Enable real project health score in production | Medium | [#3992](https://github.com/OWASP/Nest/issues/3992) |
+| Improve footer button accessibility focus visibility | Medium | [#3988](https://github.com/OWASP/Nest/issues/3988) |
+| Bug: /idx/ returns 500 when Algolia is not configured | Medium | [#3987](https://github.com/OWASP/Nest/issues/3987) |
+| Fix SSR Apollo cookie overwrite in server-side GraphQL requests | Medium | [#3985](https://github.com/OWASP/Nest/pull/3985) |
+| Add Container Security Hardening to Production/Staging Docker Compose | Medium | [#3982](https://github.com/OWASP/Nest/issues/3982) |
 
 ---
 
@@ -309,27 +313,27 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📃: Pomodoro Timer | Easy | [#55](https://github.com/Code-A2Z/code-a2z/issues/55) |
-| Implement a responsive and modular footer component | Medium | [#1358](https://github.com/Code-A2Z/code-a2z/issues/1358) |
-| Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/Code-A2Z/code-a2z/issues/1337) |
-| Role-Based Access Control feature | Medium | [#1333](https://github.com/Code-A2Z/code-a2z/issues/1333) |
-| Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/Code-A2Z/code-a2z/issues/1326) |
-| Backend: Implement Private Project Notes with Role-Based Access Control | Medium | [#1325](https://github.com/Code-A2Z/code-a2z/issues/1325) |
-| AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/Code-A2Z/code-a2z/issues/1211) |
-| Real-time Dashboard Feature | Medium | [#1182](https://github.com/Code-A2Z/code-a2z/issues/1182) |
-| 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/Code-A2Z/code-a2z/issues/1178) |
-| Connect login middleware to sign up | Medium | [#1167](https://github.com/Code-A2Z/code-a2z/issues/1167) |
-| Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/Code-A2Z/code-a2z/issues/1116) |
-| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/Code-A2Z/code-a2z/issues/788) |
-| 📃: Notes app | Medium | [#249](https://github.com/Code-A2Z/code-a2z/issues/249) |
-| 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/Code-A2Z/code-a2z/issues/61) |
-| 📃: Habit Tracker | Medium | [#51](https://github.com/Code-A2Z/code-a2z/issues/51) |
-| 📃: Online Quiz System | Medium | [#48](https://github.com/Code-A2Z/code-a2z/issues/48) |
-| 📃: Kanban notes management system | Medium | [#38](https://github.com/Code-A2Z/code-a2z/issues/38) |
-| 📃: Video Streaming Server | Medium | [#30](https://github.com/Code-A2Z/code-a2z/issues/30) |
-| AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/Code-A2Z/code-a2z/issues/1332) |
-| Add "Forgot Password" link on Sign In page | Hard | [#1277](https://github.com/Code-A2Z/code-a2z/issues/1277) |
-| 🧑‍💻: Add Multi-Language Support Using Language Translator | Hard | [#1001](https://github.com/Code-A2Z/code-a2z/issues/1001) |
+| 📃: Pomodoro Timer | Easy | [#55](https://github.com/code-a2z/code-a2z/issues/55) |
+| Fix Vercel serverless deployment: Convert ES modules to CommonJS | Medium | [#1385](https://github.com/code-a2z/code-a2z/pull/1385) |
+| Implement a responsive and modular footer component | Medium | [#1358](https://github.com/code-a2z/code-a2z/issues/1358) |
+| Feature Request: Implementation of Gamification System | Medium | [#1337](https://github.com/code-a2z/code-a2z/issues/1337) |
+| Frontend: Build Private Project Notes UI with Role-Based Access | Medium | [#1326](https://github.com/code-a2z/code-a2z/issues/1326) |
+| Backend: Implement Private Project Notes with Role-Based Access Control | Medium | [#1325](https://github.com/code-a2z/code-a2z/issues/1325) |
+| AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/code-a2z/code-a2z/issues/1211) |
+| Real-time Dashboard Feature | Medium | [#1182](https://github.com/code-a2z/code-a2z/issues/1182) |
+| 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/code-a2z/code-a2z/issues/1178) |
+| Connect login middleware to sign up | Medium | [#1167](https://github.com/code-a2z/code-a2z/issues/1167) |
+| Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/code-a2z/code-a2z/issues/1116) |
+| 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/code-a2z/code-a2z/issues/788) |
+| 📃: Notes app | Medium | [#249](https://github.com/code-a2z/code-a2z/issues/249) |
+| 📃: Video Player with Playback Controls | Medium | [#61](https://github.com/code-a2z/code-a2z/issues/61) |
+| 📃: Habit Tracker | Medium | [#51](https://github.com/code-a2z/code-a2z/issues/51) |
+| 📃: Online Quiz System | Medium | [#48](https://github.com/code-a2z/code-a2z/issues/48) |
+| 📃: Kanban notes management system | Medium | [#38](https://github.com/code-a2z/code-a2z/issues/38) |
+| 📃: Video Streaming Server | Medium | [#30](https://github.com/code-a2z/code-a2z/issues/30) |
+| Setup standalone Socket.IO server for real-time chat | Hard | [#1378](https://github.com/code-a2z/code-a2z/issues/1378) |
+| AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/code-a2z/code-a2z/issues/1332) |
+| 🧑‍💻: Add Multi-Language Support Using Language Translator | Hard | [#1001](https://github.com/code-a2z/code-a2z/issues/1001) |
 
 ---
 
@@ -607,9 +611,17 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
-| <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
-| <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
+| Implement lazy loading and code splitting for routes | Medium | [#289](https://github.com/Devasy/splitwiser/pull/289) |
+| ux: Add skeleton loading state to HomeScreen | Medium | [#288](https://github.com/Devasy/splitwiser/pull/288) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#287](https://github.com/Devasy/splitwiser/pull/287) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#286](https://github.com/Devasy/splitwiser/pull/286) |
+| Mobile HomeScreen Skeleton Loading | Medium | [#285](https://github.com/Devasy/splitwiser/pull/285) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#284](https://github.com/Devasy/splitwiser/pull/284) |
+| enhance: Add skeleton loading to mobile Home screen | Medium | [#283](https://github.com/Devasy/splitwiser/pull/283) |
+| ux: Add skeleton loading for mobile home screen | Medium | [#282](https://github.com/Devasy/splitwiser/pull/282) |
+| Add swipe-to-delete for expenses with undo functionality | Medium | [#281](https://github.com/Devasy/splitwiser/pull/281) |
+| enhance: Add swipe-to-delete for expenses with undo | Medium | [#280](https://github.com/Devasy/splitwiser/pull/280) |
+| Add mobile skeleton loading for Home Screen groups | Medium | [#279](https://github.com/Devasy/splitwiser/pull/279) |
 | enhance: Mobile biometric authentication | Medium | [#278](https://github.com/Devasy/splitwiser/pull/278) |
 | enhance: Add animated success celebration | Medium | [#275](https://github.com/Devasy/splitwiser/pull/275) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#274](https://github.com/Devasy/splitwiser/pull/274) |
@@ -627,7 +639,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy/splitwiser/issues/207) |
 | Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
-| pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
 
 ---
 
@@ -1425,6 +1436,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | Unrealistic / Distracting Image Hover Effect | Easy | [#93](https://github.com/Sahilll94/Travel-Book/issues/93) |
 | Create `src/utils` Directory for Common Helper Functions | Easy | [#91](https://github.com/Sahilll94/Travel-Book/issues/91) |
+| Add Smart Search with Auto-Suggestions for Travel Stories | Medium | [#126](https://github.com/Sahilll94/Travel-Book/issues/126) |
+| Fixed Profile Picture not loading Error, Implemented uniform navbar and footer | Medium | [#125](https://github.com/Sahilll94/Travel-Book/pull/125) |
 | Add social media icons to ContributorsFooter | Medium | [#123](https://github.com/Sahilll94/Travel-Book/pull/123) |
 | [ FEATURE REQUEST ] - Add Travel Story Templates / Themes | Medium | [#117](https://github.com/Sahilll94/Travel-Book/issues/117) |
 | docs/feat: modernize footer and stats UI with glassmorphism and animations | Medium | [#116](https://github.com/Sahilll94/Travel-Book/pull/116) |
@@ -1781,6 +1794,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add support to various AI models | Medium | [#42](https://github.com/EkaAI-Tech/term/issues/42) |
 | Addition of automate issue create message | Medium | [#41](https://github.com/EkaAI-Tech/term/issues/41) |
 | Add SECURITY.md file | Medium | [#40](https://github.com/EkaAI-Tech/term/issues/40) |
 | Added Context in the terminal | Medium | [#39](https://github.com/EkaAI-Tech/term/pull/39) |
@@ -1818,34 +1832,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Fix: Login, Signup, Forgot Password UI fixed | Medium | [#303](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/303) |
 | Secure Google Sign-In Integration | Medium | [#267](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/267) |
 | 🔐 Add Google OAuth for Easy Signup and Signin | Medium | [#263](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/263) |
-
----
-
-## 📌 Project: Orthoplay - Spell. Guess. Learn
-
-📝 **Description:** Orthoplay is an interactive voice-based word learning game designed to make vocabulary building fun and engaging. The game challenges players with spoken words accompanied by descriptive hints in text. Players must guess the word by identifying the number of letters and gradually unveiling the correct spelling through intuitive, game-based mechanics.
-
-🔗 [View Project](https://github.com/whyvineet/orthoplay)
-
-💻 **Tech Stack:** Python, JavaScript, React.js, FastAPI
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Thematic vocabulary | Medium | [#95](https://github.com/whyvineet/orthoplay/issues/95) |
-| Suggestion to improve Dashboard layout | Medium | [#94](https://github.com/whyvineet/orthoplay/issues/94) |
-| Add Difficulty Levels (Easy/Medium/Hard) to  Game | Medium | [#93](https://github.com/whyvineet/orthoplay/issues/93) |
-| Added Play Again and Go Home buttons for improved user experience | Medium | [#92](https://github.com/whyvineet/orthoplay/pull/92) |
-| Enhance the Footer design. | Medium | [#90](https://github.com/whyvineet/orthoplay/issues/90) |
-| Improve Hompage  Layout | Medium | [#89](https://github.com/whyvineet/orthoplay/issues/89) |
-| Updated Readme | Medium | [#81](https://github.com/whyvineet/orthoplay/issues/81) |
-| Add Timed Challenge Mode with Countdown and Scoring | Medium | [#73](https://github.com/whyvineet/orthoplay/pull/73) |
-| Add Points-Based Scoring to Improve Gameplay | Medium | [#69](https://github.com/whyvineet/orthoplay/pull/69) |
-| feat: add difficulty level popup options(Easy,Medium,Hard) | Medium | [#41](https://github.com/whyvineet/orthoplay/pull/41) |
-| fix: spacing, responsivness and footer background color | Medium | [#29](https://github.com/whyvineet/orthoplay/pull/29) |
 
 ---
 
@@ -1949,12 +1935,19 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature: Add Feedback Page and Footer Link (#97) | Medium | [#125](https://github.com/Xenonesis/code-guardian-report/pull/125) |
+| 🐛 Bug Report: Notification Preview Not Visible in Light Mode | Medium | [#124](https://github.com/Xenonesis/code-guardian-report/issues/124) |
+| Feature Request :Contributors Section in Footer | Medium | [#123](https://github.com/Xenonesis/code-guardian-report/issues/123) |
+| Add “Contact Us” Section in Footer with Support Details | Medium | [#122](https://github.com/Xenonesis/code-guardian-report/issues/122) |
+| Notifications Panel Not Clearly Visible Due to Overlay/Opacity Issue | Medium | [#121](https://github.com/Xenonesis/code-guardian-report/issues/121) |
+| 🐞 Bug: Buttons Overlapping in Legal Section on Mobile View | Medium | [#120](https://github.com/Xenonesis/code-guardian-report/issues/120) |
+| Added the workflow for the github actions for greetings | Medium | [#119](https://github.com/Xenonesis/code-guardian-report/pull/119) |
+| fix: resolve analysis progress state corruption and enhance history filtering | Medium | [#113](https://github.com/Xenonesis/code-guardian-report/pull/113) |
+| Add copy-to-clipboard functionality for code snippets in analysis results | Medium | [#109](https://github.com/Xenonesis/code-guardian-report/issues/109) |
+| Add SECURITY.md to Define Vulnerability Reporting Process | Medium | [#106](https://github.com/Xenonesis/code-guardian-report/issues/106) |
+| 🐞 UI/UX Issue: Login / Get Started Opens Blurred Overlay Modal Instead of Dedicated Auth Page | Medium | [#105](https://github.com/Xenonesis/code-guardian-report/issues/105) |
+| UI Redesign: Homepage & Footer | Medium | [#104](https://github.com/Xenonesis/code-guardian-report/issues/104) |
 | docs: fix Getting Started instructions and clarify setup | Medium | [#102](https://github.com/Xenonesis/code-guardian-report/pull/102) |
-| chore(deps): bump the production-dependencies group across 1 directory with 11 updates | Medium | [#101](https://github.com/Xenonesis/code-guardian-report/pull/101) |
-| chore(deps): bump the dev-dependencies group across 1 directory with 2 updates | Medium | [#100](https://github.com/Xenonesis/code-guardian-report/pull/100) |
-| Document zero-config startup and clarify optional features in Getting Started | Medium | [#99](https://github.com/Xenonesis/code-guardian-report/pull/99) |
-| Fix Non-Responsive Legal Links and Add Missing Legal Pages | Medium | [#98](https://github.com/Xenonesis/code-guardian-report/issues/98) |
-| Feature: Add Feedback Page and Feedback Form Link in Footer | Medium | [#97](https://github.com/Xenonesis/code-guardian-report/issues/97) |
 | chore(deps): bump eslint from 8.57.1 to 9.39.2 in /functions | Medium | [#84](https://github.com/Xenonesis/code-guardian-report/pull/84) |
 | chore(deps): bump firebase-functions from 7.0.0 to 7.0.2 in /functions | Medium | [#83](https://github.com/Xenonesis/code-guardian-report/pull/83) |
 | chore(deps): bump @types/node from 18.19.130 to 25.0.3 in /functions | Medium | [#82](https://github.com/Xenonesis/code-guardian-report/pull/82) |
@@ -1966,12 +1959,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | ci(deps): bump actions/github-script from 7 to 8 | Medium | [#76](https://github.com/Xenonesis/code-guardian-report/pull/76) |
 | ci(deps): bump actions/upload-artifact from 4 to 6 | Medium | [#75](https://github.com/Xenonesis/code-guardian-report/pull/75) |
 | Create extension support for different IDEs | Medium | [#71](https://github.com/Xenonesis/code-guardian-report/pull/71) |
-| Add "Back to Top" button in README | Medium | [#61](https://github.com/Xenonesis/code-guardian-report/issues/61) |
-| Feature Request: Add search bar | Medium | [#60](https://github.com/Xenonesis/code-guardian-report/issues/60) |
-| Creation of Contact Us Section | Medium | [#56](https://github.com/Xenonesis/code-guardian-report/issues/56) |
-| # 🚀 Welcome to RecodeHive! | Medium | [#53](https://github.com/Xenonesis/code-guardian-report/issues/53) |
-| Sign-in/Sign-up with GitHub fails with `auth/unauthorized-domain` error | Medium | [#48](https://github.com/Xenonesis/code-guardian-report/issues/48) |
-| Mobile reponsive | Medium | [#46](https://github.com/Xenonesis/code-guardian-report/pull/46) |
 
 ---
 
@@ -2257,7 +2244,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| <short-title> add logout option with login and change the css of login page | Medium | [#307](https://github.com/dipexplorer/LegalHuB/issues/307) |
 | 🚨 Contributor Guidelines & Etiquette | Medium | [#293](https://github.com/dipexplorer/LegalHuB/issues/293) |
 | Enhance Notification Page with Auto-Delete and User-Controlled Deletion | Medium | [#233](https://github.com/dipexplorer/LegalHuB/issues/233) |
 | Add Contributor Spotlight & Top Contributors Section and Animate Contributor Cards  for contributor page | Medium | [#227](https://github.com/dipexplorer/LegalHuB/issues/227) |
@@ -2442,7 +2428,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Redesign of Contact Us Page | Medium | [#106](https://github.com/lovelymahor/StudyMatePlus/pull/106) |
-| improved SEO and accessibility and rectified deployment issue | Medium | [#103](https://github.com/lovelymahor/StudyMatePlus/pull/103) |
 | Dark and light theme toggle button | Medium | [#99](https://github.com/lovelymahor/StudyMatePlus/issues/99) |
 | Created login page | Medium | [#81](https://github.com/lovelymahor/StudyMatePlus/pull/81) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
@@ -2466,21 +2451,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Local “One-Click” Dev Environment with Seed Data & Test Wallets | Medium | [#330](https://github.com/IndieHub25/GroqTales/issues/330) |
-| In-Context Onboarding: Interactive Tooltips & “First Story” Guided Tour | Medium | [#325](https://github.com/IndieHub25/GroqTales/issues/325) |
-| WCAG-Driven Story Reader (Keyboard, Screen Readers, High-Contrast) | Medium | [#324](https://github.com/IndieHub25/GroqTales/issues/324) |
-| Story Reader & Gallery Performance Budget (Lighthouse, Bundles & Streaming) | Hard | [#335](https://github.com/IndieHub25/GroqTales/issues/335) |
-| Off-Chain Royalty Tracking & Creator Revenue Share Dashboard | Hard | [#334](https://github.com/IndieHub25/GroqTales/issues/334) |
+| feat: define latency SLOs for AI story generation pipelinedocs: define latency SLOs | Easy | [#399](https://github.com/IndieHub25/GroqTales/pull/399) |
+| chore: update config, deps, and project docs | Easy | [#394](https://github.com/IndieHub25/GroqTales/pull/394) |
+| Feature Request: Add Dedicated Contributors Page with Paginated Contributor Cards | Medium | [#404](https://github.com/IndieHub25/GroqTales/issues/404) |
+| feat: Add "Copy Story" button to generated story output panels | Medium | [#401](https://github.com/IndieHub25/GroqTales/pull/401) |
+| Enhancement: Implement Global Error Boundary (#377) | Medium | [#393](https://github.com/IndieHub25/GroqTales/pull/393) |
+| feat: synchronize reading progress UI, fix Chronicles panel, and reso… | Medium | [#388](https://github.com/IndieHub25/GroqTales/pull/388) |
 | Gas-Efficient Metadata Strategy & On-Chain Indexing for Story NFTs | Hard | [#333](https://github.com/IndieHub25/GroqTales/issues/333) |
-| Automated Story Quality Scoring, Safety Filtering & Content Tagging Pipeline | Hard | [#332](https://github.com/IndieHub25/GroqTales/issues/332) |
-| Multi-Model Orchestration, Fallback, and A/B Testing for Story Generation | Hard | [#331](https://github.com/IndieHub25/GroqTales/issues/331) |
 | Robust On-Chain State Sync & Recovery for Story NFTs | Hard | [#329](https://github.com/IndieHub25/GroqTales/issues/329) |
-| Full-Stack Latency Budgeting & Monitoring for AI Story Generation | Hard | [#328](https://github.com/IndieHub25/GroqTales/issues/328) |
-| Structured JSON Story Schema & Model-Constrained Generation | Hard | [#327](https://github.com/IndieHub25/GroqTales/issues/327) |
-| Multi-Step Story Refinement Loop (Critique → Edit → Regenerate Sections) | Hard | [#326](https://github.com/IndieHub25/GroqTales/issues/326) |
-| Advanced Story Controls “Pro Panel” with Presets & Preset Sharing | Hard | [#323](https://github.com/IndieHub25/GroqTales/issues/323) |
-| Creator Dashboard 2.0 – Unified Library, Analytics & Draft Management | Hard | [#322](https://github.com/IndieHub25/GroqTales/issues/322) |
-| UX] End-to-end Story Creation Flow Redesign (From Landing → Draft → Mint) | Hard | [#321](https://github.com/IndieHub25/GroqTales/issues/321) |
 
 ---
 
@@ -2539,10 +2517,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Community Impact Leaderboard & Action Gamification | Medium | [#119](https://github.com/prasoonk1204/BreatheEasy/issues/119) |
+| Export to PDF/CSV feature enabled - Resolves #130 | Medium | [#131](https://github.com/prasoonk1204/BreatheEasy/pull/131) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
 | Add containerized local development workflow using Docker & Docker Compose | Medium | [#112](https://github.com/prasoonk1204/BreatheEasy/issues/112) |
-| Add AQI export to CSV/PDF | Medium | [#109](https://github.com/prasoonk1204/BreatheEasy/pull/109) |
 | enhance improvement measure file code | Medium | [#95](https://github.com/prasoonk1204/BreatheEasy/pull/95) |
 
 ---
@@ -2561,29 +2538,31 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| GitHub Stats Not Updating in Real-Time – Issues Count Mismatch | Medium | [#921](https://github.com/Premkolte/AnimateHub/issues/921) |
-| Update primary color and adjust color scale | Medium | [#920](https://github.com/Premkolte/AnimateHub/pull/920) |
-| Add Feedback Page and Feedback Form Link in Footer | Medium | [#919](https://github.com/Premkolte/AnimateHub/issues/919) |
-| Add hero section with header and call-to-action | Medium | [#918](https://github.com/Premkolte/AnimateHub/pull/918) |
-| 🌐 Feature Request: Add Kannada & Multi-Language (i18n) Support | Medium | [#916](https://github.com/Premkolte/AnimateHub/issues/916) |
-| ✨ Feature Request: Add Hover / Scroll Animations to Feature Cards | Medium | [#915](https://github.com/Premkolte/AnimateHub/issues/915) |
-| Sign up button is working even if password validation is wrong | Medium | [#914](https://github.com/Premkolte/AnimateHub/issues/914) |
-| Bug: Auth Register & Login Endpoints Returning 404 | Medium | [#912](https://github.com/Premkolte/AnimateHub/issues/912) |
-| Improve ColorGradientPlayground | Medium | [#911](https://github.com/Premkolte/AnimateHub/pull/911) |
-| Access blocked: Authorization Error | Medium | [#910](https://github.com/Premkolte/AnimateHub/issues/910) |
-| Missing Email Verification (OTP) & Login Confirmation Email | Medium | [#909](https://github.com/Premkolte/AnimateHub/issues/909) |
-| feat: add HeroParticles animated component with preview and code snippet | Medium | [#908](https://github.com/Premkolte/AnimateHub/pull/908) |
-| Refactor ESLint Configuration for Stable Production Deployments (Level 3) | Medium | [#905](https://github.com/Premkolte/AnimateHub/issues/905) |
-| Enhance postcss.config.js for Stable, Efficient, and Error-Free Level 3 Deployments | Medium | [#903](https://github.com/Premkolte/AnimateHub/issues/903) |
-| Enhance and Harden Tailwind Configuration for Deployment Stability and level 3 Scalability | Medium | [#901](https://github.com/Premkolte/AnimateHub/issues/901) |
-| Optimize vercel.json for Secure and Stable Vercel Deployments(Level3) | Medium | [#899](https://github.com/Premkolte/AnimateHub/issues/899) |
-| Optimize and Secure Vite Configuration for Level-3 Build & Deployment Performance | Medium | [#897](https://github.com/Premkolte/AnimateHub/issues/897) |
-| Enhance Sitemap for Better SEO, Accessibility & Site Coverage(level-3) | Medium | [#895](https://github.com/Premkolte/AnimateHub/issues/895) |
-| Level 3 Backend Refactor: Deploy-Ready Error Handling, CORS, Health & Uptime Monitoring | Medium | [#893](https://github.com/Premkolte/AnimateHub/issues/893) |
-| Level 3: Full CSS Enhancements for UI/UX, Accessibility & Dark/Light Mode | Medium | [#883](https://github.com/Premkolte/AnimateHub/issues/883) |
-| Level 3: Advanced UI/UX, Accessibility & Performance Enhancements | Medium | [#881](https://github.com/Premkolte/AnimateHub/issues/881) |
-| Add a lower case checklist for sign-up | Medium | [#859](https://github.com/Premkolte/AnimateHub/issues/859) |
-| Add Newsletter Subscription Section to Footer | Medium | [#851](https://github.com/Premkolte/AnimateHub/issues/851) |
+| fixed issue 951 : Improved the UI/UX of privacy policy page | Medium | [#952](https://github.com/Premkolte/AnimateHub/pull/952) |
+| Update README File Structure Section After Refactor | Medium | [#950](https://github.com/Premkolte/AnimateHub/issues/950) |
+| Organize Documentation Files into Dedicated /docs Directory | Medium | [#949](https://github.com/Premkolte/AnimateHub/issues/949) |
+| Centralize Image Assets into Structured assets/images Directory | Medium | [#948](https://github.com/Premkolte/AnimateHub/issues/948) |
+| Remove Duplicate Tailwind Configuration File | Medium | [#947](https://github.com/Premkolte/AnimateHub/issues/947) |
+| 🧹 [Refactor] Remove Accidental GitHub Conflict Dump Files | Medium | [#946](https://github.com/Premkolte/AnimateHub/issues/946) |
+| Feature Request: Implement Pagination for Contributors List | Medium | [#945](https://github.com/Premkolte/AnimateHub/issues/945) |
+| feat: add shadow pluse button animation | Medium | [#944](https://github.com/Premkolte/AnimateHub/pull/944) |
+| Fix: Navbar overflow on desktop and mobile #494 #433 | Medium | [#943](https://github.com/Premkolte/AnimateHub/pull/943) |
+| fix: resolve duplicate testimonial mapping in Testimonial section (#938) | Medium | [#942](https://github.com/Premkolte/AnimateHub/pull/942) |
+| fix: add hover effect to About Us social media icons (#218) | Medium | [#941](https://github.com/Premkolte/AnimateHub/pull/941) |
+| Improve Contact section UI/UX with enhanced styling and animations | Medium | [#940](https://github.com/Premkolte/AnimateHub/pull/940) |
+| Add a 404 page matching with project theme [OSCG 26] | Medium | [#939](https://github.com/Premkolte/AnimateHub/issues/939) |
+| <short-title>Fix Duplicate Testimonial Mapping | Medium | [#938](https://github.com/Premkolte/AnimateHub/issues/938) |
+| Add scroll-based animations to improve website interactivity | Medium | [#937](https://github.com/Premkolte/AnimateHub/issues/937) |
+| Feature Request: Custom Animation Builder / Timeline Editor | Medium | [#936](https://github.com/Premkolte/AnimateHub/issues/936) |
+| feat:social share | Medium | [#935](https://github.com/Premkolte/AnimateHub/pull/935) |
+| feat: Complete frontend OTP verification and login confirmation email #909 | Medium | [#934](https://github.com/Premkolte/AnimateHub/pull/934) |
+| UI Issue: Top Action Buttons Not Visible After Opening Snippet | Medium | [#932](https://github.com/Premkolte/AnimateHub/issues/932) |
+| <improve contact section> | Medium | [#931](https://github.com/Premkolte/AnimateHub/issues/931) |
+| Conatct form not sending data | Medium | [#930](https://github.com/Premkolte/AnimateHub/issues/930) |
+| Add Proper form validation for creation of the blog post | Medium | [#929](https://github.com/Premkolte/AnimateHub/pull/929) |
+| fix the hover effect for the smooth transitioning | Medium | [#928](https://github.com/Premkolte/AnimateHub/pull/928) |
+| Add Terms and condition page . | Medium | [#927](https://github.com/Premkolte/AnimateHub/issues/927) |
+| Update the readme with the latest images from website | Medium | [#926](https://github.com/Premkolte/AnimateHub/issues/926) |
 
 ---
 
@@ -2791,13 +2770,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| doc: API Documentation | Medium | [#259](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/259) |
-| feat: Message Search Functionality | Medium | [#247](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/247) |
-| OTHER: Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
-| OTHER: JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
 | BUG: UI Inconsistencies in About Page | Medium | [#235](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/235) |
 | FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
-| BUG: 'Stop' button stuck in Production (Proposed solution for #219) | Medium | [#229](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/229) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 
 ---
@@ -2962,27 +2936,6 @@ Fast Workflow Tools
 | Create a beautiful readme for this project | Medium | [#4](https://github.com/imshashi365/IPURanker/issues/4) |
 | Implement a dark mode toggle | Medium | [#3](https://github.com/imshashi365/IPURanker/issues/3) |
 | 📝 Pull Request: Add Code of Conduct for IPURanker | GSSoC’25 | Medium | [#2](https://github.com/imshashi365/IPURanker/pull/2) |
-
----
-
-## 📌 Project: Your trip planner
-
-📝 **Description:** A travel planning web app that lets users filter destinations by region and track journey expenses.
-
-🔗 [View Project](https://github.com/code-well0/trip-planner)
-
-💻 **Tech Stack:** React.js, JavaScript, CSS, HTML
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Update README | Easy | [#398](https://github.com/code-well0/trip-planner/issues/398) |
-| Unnecessary Padding | Medium | [#399](https://github.com/code-well0/trip-planner/issues/399) |
-| Remove extra white padding around hero section | Medium | [#396](https://github.com/code-well0/trip-planner/issues/396) |
-| Make destination cards expandable with “Mark as Visited” action | Hard | [#397](https://github.com/code-well0/trip-planner/issues/397) |
 
 ---
 
