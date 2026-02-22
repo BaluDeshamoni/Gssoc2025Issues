@@ -66,6 +66,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| If you're using Keras 3+, this line will fail: | Medium | [#100](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/100) |
 | Chore/add issue templates | Medium | [#99](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/99) |
 | Features | Medium | [#98](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/98) |
 | chore: add pull request template | Medium | [#97](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/97) |
@@ -92,7 +93,6 @@
 | Add uplifting music option for "Sad" emotion + UI improvements | Medium | [#70](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/70) |
 | Integrate Gemini API for giving suggestions based on the detected mood | Medium | [#69](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/69) |
 | Enhance Camera Robustness: Add Error Handling and Shutter/Low-Light Detection | Medium | [#68](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/68) |
-| Added youtube search option for emotion | Medium | [#67](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/67) |
 
 ---
 
