@@ -69,7 +69,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump jspdf from 4.0.0 to 4.1.0 in /DevElevate/Client in the npm_and_yarn group across 1 directory | Medium | [#747](https://github.com/abhisek2004/Dev-Elevate/pull/747) |
+| Bump the npm_and_yarn group across 2 directories with 2 updates | Medium | [#748](https://github.com/abhisek2004/Dev-Elevate/pull/748) |
 | Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -94,29 +94,33 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Merge Zappa Feature Branch | Easy | [#3827](https://github.com/OWASP/Nest/pull/3827) |
-| Incorrect Error Message for Duplicate Module Name | Medium | [#3879](https://github.com/OWASP/Nest/pull/3879) |
-| NestBot: Fix ** bold markdown formatting for Slack responses (ref #2663) | Medium | [#3878](https://github.com/OWASP/Nest/issues/3878) |
-| Extend structured search functionality to chapters, members, organizations, and repositories | Medium | [#3877](https://github.com/OWASP/Nest/pull/3877) |
-| NestBot : Add structured tracing and timing logs for AI assistant execution pipeline | Medium | [#3876](https://github.com/OWASP/Nest/issues/3876) |
-| feat: implement community page | Medium | [#3873](https://github.com/OWASP/Nest/pull/3873) |
-| UI Foundations: Color System, States, and Accessibility | Medium | [#3868](https://github.com/OWASP/Nest/issues/3868) |
-| Added community endpoint to HIDDEN_SEGMENT | Medium | [#3863](https://github.com/OWASP/Nest/pull/3863) |
-| This assertion is unnecessary since it does not change the type of the expression | Medium | [#3858](https://github.com/OWASP/Nest/issues/3858) |
-| Refactor dateFormatter to strictly accept numeric Unix timestamps | Medium | [#3857](https://github.com/OWASP/Nest/pull/3857) |
-| `new Error()` is too unspecific for a type check. Use `new TypeError()` instead | Medium | [#3856](https://github.com/OWASP/Nest/issues/3856) |
-| Critical: Lost updates in concurrent Program/Module edits due to missing optimistic locking | Medium | [#3855](https://github.com/OWASP/Nest/issues/3855) |
-| Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3854](https://github.com/OWASP/Nest/issues/3854) |
-| Critical: Race condition in Program.experience_levels array causes data loss | Medium | [#3853](https://github.com/OWASP/Nest/issues/3853) |
-| Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3852](https://github.com/OWASP/Nest/issues/3852) |
-| Increase Backend Test Coverage to 99%+ | Medium | [#3851](https://github.com/OWASP/Nest/issues/3851) |
-| Add container healthchecks for backend, frontend, and worker in staging/production | Medium | [#3850](https://github.com/OWASP/Nest/issues/3850) |
-| Add CycloneDX SBOM generation for staging images | Medium | [#3833](https://github.com/OWASP/Nest/pull/3833) |
-| Add  /api/health endpoint for frontend healthchecks & monitoring | Medium | [#3830](https://github.com/OWASP/Nest/issues/3830) |
-| fixed aloglia cache_key | Medium | [#3825](https://github.com/OWASP/Nest/pull/3825) |
-| Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3823](https://github.com/OWASP/Nest/issues/3823) |
-| fix: remove unused className prop from AnchorTitle component | Medium | [#3822](https://github.com/OWASP/Nest/pull/3822) |
-| Fix/issue node interested users prefetch | Medium | [#3813](https://github.com/OWASP/Nest/pull/3813) |
+| General Improvements for Infrastructure | Easy | [#4039](https://github.com/OWASP/Nest/pull/4039) |
+| Improved CONTRIBUTING.md | Easy | [#4025](https://github.com/OWASP/Nest/pull/4025) |
+| feat(frontend): implement Terms of Service page | Easy | [#4017](https://github.com/OWASP/Nest/pull/4017) |
+| perf(frontend): Convert home page to Server Component for SSR support | Medium | [#4037](https://github.com/OWASP/Nest/issues/4037) |
+| Add Program Deletion with Cascade Module Removal | Medium | [#4036](https://github.com/OWASP/Nest/issues/4036) |
+| Refactor: Enforce strict equality in frontend components | Medium | [#4035](https://github.com/OWASP/Nest/issues/4035) |
+| chore(deps): bump isomorphic-dompurify from 2.36.0 to 3.0.0 in /frontend | Medium | [#4034](https://github.com/OWASP/Nest/pull/4034) |
+| improve frontend test coverage | Medium | [#4033](https://github.com/OWASP/Nest/pull/4033) |
+| Feature: Add Gemini LLM Provider Support to AI Agent Configuration | Medium | [#4031](https://github.com/OWASP/Nest/issues/4031) |
+| Improve module visibility show up to 6 modules before displaying “Show more” | Medium | [#4029](https://github.com/OWASP/Nest/issues/4029) |
+| Move Django session backend from database to Redis cache | Medium | [#4028](https://github.com/OWASP/Nest/issues/4028) |
+| Configure Gunicorn with production-appropriate worker and timeout settings | Medium | [#4027](https://github.com/OWASP/Nest/issues/4027) |
+| Refactor: Rename GitHub repository node fields to recent_issues and recent_releases | Medium | [#4026](https://github.com/OWASP/Nest/issues/4026) |
+| Bug: OpenAI API Exception Handling Too Broad - Masks Auth, Rate Limit, and Model Errors | Medium | [#4024](https://github.com/OWASP/Nest/issues/4024) |
+| feat: implement module ordering with drag-and-drop support | Medium | [#4020](https://github.com/OWASP/Nest/pull/4020) |
+| Anyone is able to access the Module Issues page in Mentorship Portal | Medium | [#4018](https://github.com/OWASP/Nest/issues/4018) |
+| Refactor create_chunks_and_embeddings: Type Safety, Rate Limiting, and DB Optimization | Medium | [#4016](https://github.com/OWASP/Nest/issues/4016) |
+| refactor: Migrate mentorship GraphQL nodes to use field decorators | Medium | [#4013](https://github.com/OWASP/Nest/issues/4013) |
+| Consolidate Duplicate `apolloClient.ts`  Files | Medium | [#4006](https://github.com/OWASP/Nest/issues/4006) |
+| Add theme toggle with system preference and persistence | Medium | [#4005](https://github.com/OWASP/Nest/pull/4005) |
+| Rename RepositoryNode.releases to recent_releases | Medium | [#3994](https://github.com/OWASP/Nest/issues/3994) |
+| Rename RepositoryNode issues/releases to recent_issues / recent_releases | Medium | [#3993](https://github.com/OWASP/Nest/issues/3993) |
+| Enable real project health score in production | Medium | [#3992](https://github.com/OWASP/Nest/issues/3992) |
+| Improve footer button accessibility focus visibility | Medium | [#3988](https://github.com/OWASP/Nest/issues/3988) |
+| Bug: /idx/ returns 500 when Algolia is not configured | Medium | [#3987](https://github.com/OWASP/Nest/issues/3987) |
+| Fix SSR Apollo cookie overwrite in server-side GraphQL requests | Medium | [#3985](https://github.com/OWASP/Nest/pull/3985) |
+| Add Container Security Hardening to Production/Staging Docker Compose | Medium | [#3982](https://github.com/OWASP/Nest/issues/3982) |
 
 ---
 
@@ -213,33 +217,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Implement a User Contact Form | Medium | [#72](https://github.com/HimanshuHeda/Zip_Tales/issues/72) |
 | Add Back to Top button in footer | Medium | [#71](https://github.com/HimanshuHeda/Zip_Tales/issues/71) |
 | Add a landing page to the app | Medium | [#67](https://github.com/HimanshuHeda/Zip_Tales/issues/67) |
-
----
-
-## 📌 Project: FailUForward 
-
-📝 **Description:** FailUForward is a community driven platform where users share their biggest failures and the lessons they learned. Using AI, it curates and tags stories, highlights common themes and recommends relatable experiences to help users grow through others’ mistakes. It encourages vulnerability, resilience and real talk like turning failure into fuel. Users mint their failure story as an NFT or anonymous soulbound badge to own their growth journey.
-
-🔗 [View Project](https://github.com/mansiruhil/fail-u-forward)
-
-💻 **Tech Stack:** Next.js, TypeScript, Firebase, Firestore, Firebase Auth, Gemini API
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#282](https://github.com/ruhilmansi/fail-u-forward/issues/282) |
-| 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/ruhilmansi/fail-u-forward/issues/268) |
-| Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/ruhilmansi/fail-u-forward/issues/264) |
-| Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/ruhilmansi/fail-u-forward/issues/263) |
-| Text on About Page Not Clearly Visible | Medium | [#260](https://github.com/ruhilmansi/fail-u-forward/issues/260) |
-| Design Navbar: Minimalistic & Polished | Medium | [#257](https://github.com/ruhilmansi/fail-u-forward/issues/257) |
-| Improve the About Page interface and the sign up and language option buttons | Medium | [#256](https://github.com/ruhilmansi/fail-u-forward/issues/256) |
-|  | Medium | [#255](https://github.com/ruhilmansi/fail-u-forward/issues/255) |
-| Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/ruhilmansi/fail-u-forward/issues/200) |
-| Testing & CI/CD | Medium | [#190](https://github.com/ruhilmansi/fail-u-forward/issues/190) |
 
 ---
 
@@ -707,7 +684,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(device-type): implement multi-signal classification engine | Medium | [#77](https://github.com/IntegerAlex/fingerprint-oss/pull/77) |
+| V0.9.5 | Medium | [#78](https://github.com/IntegerAlex/fingerprint-oss/pull/78) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
 | Stabilization in Hash generation | Hard | [#61](https://github.com/IntegerAlex/fingerprint-oss/pull/61) |
 
@@ -1013,21 +990,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Local “One-Click” Dev Environment with Seed Data & Test Wallets | Medium | [#330](https://github.com/IndieHub25/GroqTales/issues/330) |
-| In-Context Onboarding: Interactive Tooltips & “First Story” Guided Tour | Medium | [#325](https://github.com/IndieHub25/GroqTales/issues/325) |
-| WCAG-Driven Story Reader (Keyboard, Screen Readers, High-Contrast) | Medium | [#324](https://github.com/IndieHub25/GroqTales/issues/324) |
-| Story Reader & Gallery Performance Budget (Lighthouse, Bundles & Streaming) | Hard | [#335](https://github.com/IndieHub25/GroqTales/issues/335) |
-| Off-Chain Royalty Tracking & Creator Revenue Share Dashboard | Hard | [#334](https://github.com/IndieHub25/GroqTales/issues/334) |
+| feat: define latency SLOs for AI story generation pipelinedocs: define latency SLOs | Easy | [#399](https://github.com/IndieHub25/GroqTales/pull/399) |
+| chore: update config, deps, and project docs | Easy | [#394](https://github.com/IndieHub25/GroqTales/pull/394) |
+| Feature Request: Add Dedicated Contributors Page with Paginated Contributor Cards | Medium | [#404](https://github.com/IndieHub25/GroqTales/issues/404) |
+| feat: Add "Copy Story" button to generated story output panels | Medium | [#401](https://github.com/IndieHub25/GroqTales/pull/401) |
+| Enhancement: Implement Global Error Boundary (#377) | Medium | [#393](https://github.com/IndieHub25/GroqTales/pull/393) |
+| feat: synchronize reading progress UI, fix Chronicles panel, and reso… | Medium | [#388](https://github.com/IndieHub25/GroqTales/pull/388) |
 | Gas-Efficient Metadata Strategy & On-Chain Indexing for Story NFTs | Hard | [#333](https://github.com/IndieHub25/GroqTales/issues/333) |
-| Automated Story Quality Scoring, Safety Filtering & Content Tagging Pipeline | Hard | [#332](https://github.com/IndieHub25/GroqTales/issues/332) |
-| Multi-Model Orchestration, Fallback, and A/B Testing for Story Generation | Hard | [#331](https://github.com/IndieHub25/GroqTales/issues/331) |
 | Robust On-Chain State Sync & Recovery for Story NFTs | Hard | [#329](https://github.com/IndieHub25/GroqTales/issues/329) |
-| Full-Stack Latency Budgeting & Monitoring for AI Story Generation | Hard | [#328](https://github.com/IndieHub25/GroqTales/issues/328) |
-| Structured JSON Story Schema & Model-Constrained Generation | Hard | [#327](https://github.com/IndieHub25/GroqTales/issues/327) |
-| Multi-Step Story Refinement Loop (Critique → Edit → Regenerate Sections) | Hard | [#326](https://github.com/IndieHub25/GroqTales/issues/326) |
-| Advanced Story Controls “Pro Panel” with Presets & Preset Sharing | Hard | [#323](https://github.com/IndieHub25/GroqTales/issues/323) |
-| Creator Dashboard 2.0 – Unified Library, Analytics & Draft Management | Hard | [#322](https://github.com/IndieHub25/GroqTales/issues/322) |
-| UX] End-to-end Story Creation Flow Redesign (From Landing → Draft → Mint) | Hard | [#321](https://github.com/IndieHub25/GroqTales/issues/321) |
 
 ---
 
@@ -1305,8 +1275,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| High ISR reads on Vercel | Medium | [#135](https://github.com/subhadeeproy3902/mvpblocks/issues/135) |
-| Improve templates page with metadata and visuals | Medium | [#134](https://github.com/subhadeeproy3902/mvpblocks/pull/134) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
