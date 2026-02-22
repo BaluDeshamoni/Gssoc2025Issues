@@ -114,26 +114,25 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Making instructions clear about opening in localhost | Easy | [#397](https://github.com/Muneerali199/DocMagic/issues/397) |
-| UI Issue: Back-to-top button not visible on light background | Medium | [#399](https://github.com/Muneerali199/DocMagic/issues/399) |
-| Update CONTRIBUTING.md with environment setup details | Medium | [#398](https://github.com/Muneerali199/DocMagic/pull/398) |
-| Making the email button clickable | Medium | [#396](https://github.com/Muneerali199/DocMagic/issues/396) |
-| We can add url to the buttons to make it more engaing | Medium | [#395](https://github.com/Muneerali199/DocMagic/issues/395) |
-| Missing “Forgot Password” Option on Sign-In Page | Medium | [#394](https://github.com/Muneerali199/DocMagic/issues/394) |
-| Added editable skills section in resume | Medium | [#393](https://github.com/Muneerali199/DocMagic/pull/393) |
-| Not having Certificates and projects editable section in the template | Medium | [#392](https://github.com/Muneerali199/DocMagic/issues/392) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 58 updates | Medium | [#376](https://github.com/Muneerali199/DocMagic/pull/376) |
-| Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/DocMagic/pull/363) |
-| Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/DocMagic/pull/362) |
-| contact form implementation | Medium | [#345](https://github.com/Muneerali199/DocMagic/pull/345) |
-| Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/DocMagic/issues/331) |
-| feat: Add ImportProfile component and update page.tsx (Fixes #23) | Medium | [#330](https://github.com/Muneerali199/DocMagic/pull/330) |
-| added the animation of increasing numbers in dashboard | Medium | [#329](https://github.com/Muneerali199/DocMagic/pull/329) |
-| chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/DocMagic/pull/324) |
-| fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/DocMagic/pull/323) |
-| Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/DocMagic/pull/320) |
-| fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
-| feat: prevent authenticated users from accessing auth routes | Medium | [#302](https://github.com/Muneerali199/DocMagic/pull/302) |
+| Making instructions clear about opening in localhost | Easy | [#397](https://github.com/Muneerali199/Draftdeckai/issues/397) |
+| feat: add AI Cover Letter Generator from Resume (#411) | Medium | [#415](https://github.com/Muneerali199/Draftdeckai/pull/415) |
+| feat: Add Productivity Engine - Structured Document System | Medium | [#412](https://github.com/Muneerali199/Draftdeckai/pull/412) |
+| UI Issue: Back-to-top button not visible on light background | Medium | [#399](https://github.com/Muneerali199/Draftdeckai/issues/399) |
+| Update CONTRIBUTING.md with environment setup details | Medium | [#398](https://github.com/Muneerali199/Draftdeckai/pull/398) |
+| Making the email button clickable | Medium | [#396](https://github.com/Muneerali199/Draftdeckai/issues/396) |
+| We can add url to the buttons to make it more engaing | Medium | [#395](https://github.com/Muneerali199/Draftdeckai/issues/395) |
+| Added editable skills section in resume | Medium | [#393](https://github.com/Muneerali199/Draftdeckai/pull/393) |
+| Not having Certificates and projects editable section in the template | Medium | [#392](https://github.com/Muneerali199/Draftdeckai/issues/392) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 58 updates | Medium | [#376](https://github.com/Muneerali199/Draftdeckai/pull/376) |
+| Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/Draftdeckai/pull/363) |
+| Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/Draftdeckai/pull/362) |
+| contact form implementation | Medium | [#345](https://github.com/Muneerali199/Draftdeckai/pull/345) |
+| Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/Draftdeckai/issues/331) |
+| feat: Add ImportProfile component and update page.tsx (Fixes #23) | Medium | [#330](https://github.com/Muneerali199/Draftdeckai/pull/330) |
+| added the animation of increasing numbers in dashboard | Medium | [#329](https://github.com/Muneerali199/Draftdeckai/pull/329) |
+| chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/Draftdeckai/pull/324) |
+| fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/Draftdeckai/pull/323) |
+| Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/Draftdeckai/pull/320) |
 
 ---
 
