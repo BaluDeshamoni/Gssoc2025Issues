@@ -169,6 +169,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Change ball color to blue | Medium | [#243](https://github.com/Akki-jaiswal/pong-game/pull/243) |
 | Add Claude Code GitHub Workflow | Medium | [#242](https://github.com/Akki-jaiswal/pong-game/issues/242) |
 | Fixed AI paddle movement to be smoother | Medium | [#241](https://github.com/Akki-jaiswal/pong-game/pull/241) |
 | Update script.js | Medium | [#236](https://github.com/Akki-jaiswal/pong-game/pull/236) |
@@ -193,7 +194,6 @@
 | theme selection does not change UI; duplicate theme systems in code | Medium | [#207](https://github.com/Akki-jaiswal/pong-game/issues/207) |
 | How to Play” button does not open instructions modal  Description | Medium | [#206](https://github.com/Akki-jaiswal/pong-game/issues/206) |
 | Navbar UI/UX Improvements | Medium | [#205](https://github.com/Akki-jaiswal/pong-game/issues/205) |
-| changed the design after winning | Medium | [#204](https://github.com/Akki-jaiswal/pong-game/pull/204) |
 
 ---
 
@@ -317,6 +317,11 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Map overflowing outside container in footer section(JWOC) | Medium | [#1938](https://github.com/apu52/Travel_Website/issues/1938) |
+| Refactor: Improve Project Directory Structure | Medium | [#1937](https://github.com/apu52/Travel_Website/issues/1937) |
+| Navbar overlaps page content on scroll / cuts top section | Medium | [#1936](https://github.com/apu52/Travel_Website/issues/1936) |
+| Unable to select or interact with cards in "Top Destinations" carousel | Medium | [#1935](https://github.com/apu52/Travel_Website/issues/1935) |
+| Modernize Security Policy (SECURITY.md) | Medium | [#1934](https://github.com/apu52/Travel_Website/issues/1934) |
 | Air Freight Services Company India | Medium | [#1933](https://github.com/apu52/Travel_Website/issues/1933) |
 | On the landing page, the navigation bar (Navbar) is displayed correctly. However, when the user clicks on “Plan a Trip”, the navbar is not good visible on the resulting page. | Medium | [#1932](https://github.com/apu52/Travel_Website/issues/1932) |
 | Implement Dynamic Search and Category Filtering for Destinations | Medium | [#1931](https://github.com/apu52/Travel_Website/issues/1931) |
@@ -342,11 +347,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Search Results Page Does Not Restore Scroll Position After Navigation | Medium | [#1911](https://github.com/apu52/Travel_Website/issues/1911) |
 | Improve Keyboard Navigation and Focus States | Medium | [#1910](https://github.com/apu52/Travel_Website/issues/1910) |
 | Trip Search Results Reset Unexpectedly When Browser Tab Visibility Changes | Medium | [#1909](https://github.com/apu52/Travel_Website/issues/1909) |
-| Add Interactive “First-Time Visitor Welcome Experience” | Medium | [#1908](https://github.com/apu52/Travel_Website/issues/1908) |
-| Scroll-Based Storytelling Animations to Enhance User Engagement | Medium | [#1907](https://github.com/apu52/Travel_Website/issues/1907) |
-| Lack of visual loading feedback when performing search actions | Medium | [#1906](https://github.com/apu52/Travel_Website/issues/1906) |
-| feat: Enhanced color contrasts and animations in trip cards | Medium | [#1905](https://github.com/apu52/Travel_Website/pull/1905) |
-| Footer layout needs improvement on Guide page | Medium | [#1904](https://github.com/apu52/Travel_Website/issues/1904) |
 
 ---
 
@@ -436,10 +436,14 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug: Appointment cards don't adapt to dark mode theme toggle | Medium | [#264](https://github.com/Dipanita45/HEALCONNECT/issues/264) |
-| Add i18n languages | Medium | [#221](https://github.com/Dipanita45/HEALCONNECT/issues/221) |
-| Fix/signup heading visibility | Medium | [#202](https://github.com/Dipanita45/HEALCONNECT/pull/202) |
-| added extra password specifications for evolved safety | Medium | [#106](https://github.com/Dipanita45/HEALCONNECT/pull/106) |
+| Issue : Hardcoded API URL in Component | Easy | [#474](https://github.com/Dipanita45/HEALCONNECT/issues/474) |
+| feat: implement consistent loading states and skeleton loaders | Medium | [#552](https://github.com/Dipanita45/HEALCONNECT/pull/552) |
+| Non-functional "Start Chat" button on Terms & Conditions page | Medium | [#546](https://github.com/Dipanita45/HEALCONNECT/issues/546) |
+| Non-functional Voice Input Button in Support Chatbot | Medium | [#545](https://github.com/Dipanita45/HEALCONNECT/issues/545) |
+| Replace generic browser alerts with custom themed modals and toasts | Medium | [#544](https://github.com/Dipanita45/HEALCONNECT/issues/544) |
+| Add Functional Dark Mode Toggle for Improved Accessibility and UX | Medium | [#540](https://github.com/Dipanita45/HEALCONNECT/issues/540) |
+| Footer Not Visually Distinguishable from Main Content | Medium | [#539](https://github.com/Dipanita45/HEALCONNECT/issues/539) |
+| Issue : Missing Loading States for Async Operations | Medium | [#476](https://github.com/Dipanita45/HEALCONNECT/issues/476) |
 
 ---
 
@@ -744,28 +748,20 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance “Create New Post” Form with Additional Fields for Better Blog Management | Medium | [#1339](https://github.com/omroy07/AgriTech/issues/1339) |
-| Add New Blog to Technology Section for Better Awareness of Smart Farming Innovations | Medium | [#1338](https://github.com/omroy07/AgriTech/issues/1338) |
-| Blog Search Bar Does Not Filter Posts Based on Entered Keywords | Medium | [#1337](https://github.com/omroy07/AgriTech/issues/1337) |
-| About Page Theme Not Updating When Switching Between Light and Dark Mode | Medium | [#1336](https://github.com/omroy07/AgriTech/issues/1336) |
-| Add Green Border Highlight on Hover for Platform Benefit Cards | Medium | [#1335](https://github.com/omroy07/AgriTech/issues/1335) |
-| Add Trailing Cursor to Crop Recommendation Page | Medium | [#1334](https://github.com/omroy07/AgriTech/issues/1334) |
-| Add Trailing Cursor to Organic Farming Page | Medium | [#1333](https://github.com/omroy07/AgriTech/issues/1333) |
-| Add Trailing Cursor to Disease Detector Page | Medium | [#1332](https://github.com/omroy07/AgriTech/issues/1332) |
-| Fix A11Y issues: contrast, viewport, accessible buttons | Medium | [#1331](https://github.com/omroy07/AgriTech/pull/1331) |
-| Multi-Tenant Farm Management & Asset Tracking | Medium | [#1330](https://github.com/omroy07/AgriTech/issues/1330) |
-| Automated Weather Integration & Crop Advisory Engine | Medium | [#1329](https://github.com/omroy07/AgriTech/issues/1329) |
-| Agricultural Knowledge Exchange & Expert Reputation System | Medium | [#1328](https://github.com/omroy07/AgriTech/issues/1328) |
-| Add Unit and Integration Tests for Backend API Endpoints | Medium | [#1325](https://github.com/omroy07/AgriTech/issues/1325) |
-| fix: Optimize product card layout and enhance cart button design | Medium | [#1324](https://github.com/omroy07/AgriTech/pull/1324) |
-| fix: display only eligible schemes in eligibility checker | Medium | [#1323](https://github.com/omroy07/AgriTech/pull/1323) |
-| Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
-| Trailing Cursor Effect Added to Yield Prediction Page | Medium | [#1320](https://github.com/omroy07/AgriTech/pull/1320) |
-| Trailing Cursor Effect Added to Weather Page | Medium | [#1319](https://github.com/omroy07/AgriTech/pull/1319) |
-| added trailing cursor to shopkeeper page | Medium | [#1318](https://github.com/omroy07/AgriTech/pull/1318) |
-| Buttons not responding in Profit & Loss Analytics dashboard | Medium | [#1317](https://github.com/omroy07/AgriTech/issues/1317) |
-| Light mode and language buttons are not working in the navbar | Medium | [#1316](https://github.com/omroy07/AgriTech/issues/1316) |
-| Add Trailing Cursor to AI Assistant Page | Medium | [#1306](https://github.com/omroy07/AgriTech/issues/1306) |
+| Regenerative Carbon Sequestration Ledger & ESG Marketplace | Medium | [#1632](https://github.com/omroy07/AgriTech/issues/1632) |
+| Multi-Modal Autonomous Logistics & Smart-Contract Freight Orchestrator | Medium | [#1631](https://github.com/omroy07/AgriTech/issues/1631) |
+| Parametric Climate-Resilience & Global Yield Liquidity Engine | Medium | [#1630](https://github.com/omroy07/AgriTech/issues/1630) |
+| Photo Upload Feature Mentioned but Not Functionally Available | Medium | [#1618](https://github.com/omroy07/AgriTech/issues/1618) |
+| Chat History Not Persisting After Page Reload | Medium | [#1617](https://github.com/omroy07/AgriTech/issues/1617) |
+| Favorites Page Shows “0 Saved Articles” Despite Adding Blogs to Favorites | Medium | [#1616](https://github.com/omroy07/AgriTech/issues/1616) |
+| <short description> | Medium | [#1587](https://github.com/omroy07/AgriTech/issues/1587) |
+| Scheme Eligibility Form Produces No Output | Medium | [#1509](https://github.com/omroy07/AgriTech/issues/1509) |
+| Duplicate Theme Toggle Button on Login Page | Medium | [#1508](https://github.com/omroy07/AgriTech/issues/1508) |
+| Marketplace Page UI Alignment and Layout Issue | Medium | [#1507](https://github.com/omroy07/AgriTech/issues/1507) |
+| Remove Offline/Cache Warning Banner from Production UI | Medium | [#1506](https://github.com/omroy07/AgriTech/issues/1506) |
+| feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
+| Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
+| Add /examples directory for API documentation and Model usage | Medium | [#1442](https://github.com/omroy07/AgriTech/issues/1442) |
 
 ---
 
@@ -942,7 +938,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add Contributors Section in README | Medium | [#211](https://github.com/Richajaishwal0/Trip_assistant/issues/211) |
 | Add Pull Request (PR) Template | Medium | [#210](https://github.com/Richajaishwal0/Trip_assistant/issues/210) |
 | Bug & Enhancement: Refine Search and Filter Clearing Logic | Medium | [#209](https://github.com/Richajaishwal0/Trip_assistant/issues/209) |
-| feat: Add clickable contact links and fix auth redirect loops | Medium | [#208](https://github.com/Richajaishwal0/Trip_assistant/pull/208) |
 | noUncheckedSideEffectImports not valid | Medium | [#204](https://github.com/Richajaishwal0/Trip_assistant/issues/204) |
 | Fix/strong validation registration | Medium | [#201](https://github.com/Richajaishwal0/Trip_assistant/pull/201) |
 | fixes#197 : add password strength indicator with progress bar in Auth… | Medium | [#198](https://github.com/Richajaishwal0/Trip_assistant/pull/198) |
@@ -1013,6 +1008,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Day 63 - CyberCut Barbershop complete | Medium | [#832](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/832) |
 | #759 -Day63 Expense splitter - Added Frontend Project | Medium | [#829](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/829) |
 | Add a email masker project | Medium | [#822](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/822) |
 | feat(tasks): prevent XSS, fix task id handling, add duplicate checks and overdue sort | Medium | [#819](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/819) |
@@ -1034,7 +1030,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | DAY 59 - Introducing CLICKBAIT (The memory game) | Medium | [#789](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/789) |
 | Fix: Resolve inconsistent alignment in header search bar and button | Medium | [#787](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/787) |
 | Add Expense Tracker Project | Medium | [#785](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/785) |
-| Suggestion: Introduce Day 33 – Maze Runner | Medium | [#783](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/783) |
 
 ---
 
@@ -1072,6 +1067,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Live Deployment for Project | Medium | [#74](https://github.com/sania28/clubmate/issues/74) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
 
@@ -1091,14 +1087,15 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump dotenv from 17.2.3 to 17.2.4 | Easy | [#1278](https://github.com/recodehive/recode-website/pull/1278) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
-| chore: bump prettier from 3.6.2 to 3.8.1 | Easy | [#1270](https://github.com/recodehive/recode-website/pull/1270) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump styled-components from 6.1.19 to 6.3.8 | Medium | [#1269](https://github.com/recodehive/recode-website/pull/1269) |
-| chore: bump react-dom and @types/react-dom | Medium | [#1268](https://github.com/recodehive/recode-website/pull/1268) |
-| chore: bump @tailwindcss/postcss from 4.1.14 to 4.1.18 | Medium | [#1267](https://github.com/recodehive/recode-website/pull/1267) |
-| chore: bump lucide-react from 0.503.0 to 0.563.0 | Medium | [#1266](https://github.com/recodehive/recode-website/pull/1266) |
+| chore: bump react and @types/react | Medium | [#1277](https://github.com/recodehive/recode-website/pull/1277) |
+| chore: bump @typescript-eslint/parser from 8.46.2 to 8.55.0 | Medium | [#1276](https://github.com/recodehive/recode-website/pull/1276) |
+| chore: bump firebase from 9.23.0 to 12.9.0 | Medium | [#1275](https://github.com/recodehive/recode-website/pull/1275) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.55.0 | Medium | [#1274](https://github.com/recodehive/recode-website/pull/1274) |
+| Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
 
@@ -1343,34 +1340,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
-## 📌 Project: Orthoplay - Spell. Guess. Learn
-
-📝 **Description:** Orthoplay is an interactive voice-based word learning game designed to make vocabulary building fun and engaging. The game challenges players with spoken words accompanied by descriptive hints in text. Players must guess the word by identifying the number of letters and gradually unveiling the correct spelling through intuitive, game-based mechanics.
-
-🔗 [View Project](https://github.com/whyvineet/orthoplay)
-
-💻 **Tech Stack:** Python, JavaScript, React.js, FastAPI
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Thematic vocabulary | Medium | [#95](https://github.com/whyvineet/orthoplay/issues/95) |
-| Suggestion to improve Dashboard layout | Medium | [#94](https://github.com/whyvineet/orthoplay/issues/94) |
-| Add Difficulty Levels (Easy/Medium/Hard) to  Game | Medium | [#93](https://github.com/whyvineet/orthoplay/issues/93) |
-| Added Play Again and Go Home buttons for improved user experience | Medium | [#92](https://github.com/whyvineet/orthoplay/pull/92) |
-| Enhance the Footer design. | Medium | [#90](https://github.com/whyvineet/orthoplay/issues/90) |
-| Improve Hompage  Layout | Medium | [#89](https://github.com/whyvineet/orthoplay/issues/89) |
-| Updated Readme | Medium | [#81](https://github.com/whyvineet/orthoplay/issues/81) |
-| Add Timed Challenge Mode with Countdown and Scoring | Medium | [#73](https://github.com/whyvineet/orthoplay/pull/73) |
-| Add Points-Based Scoring to Improve Gameplay | Medium | [#69](https://github.com/whyvineet/orthoplay/pull/69) |
-| feat: add difficulty level popup options(Easy,Medium,Hard) | Medium | [#41](https://github.com/whyvineet/orthoplay/pull/41) |
-| fix: spacing, responsivness and footer background color | Medium | [#29](https://github.com/whyvineet/orthoplay/pull/29) |
-
----
-
 ## 📌 Project: White Paper
 
 📝 **Description:** The White Paper project is a simple notepad app built with Python Django. It allows users to create, save, and manage notes with a secure authentication system to keep their data private. Users can sign up, log in, and access their notes, offering a seamless and secure note-taking experience.
@@ -1518,6 +1487,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| V0.9.5 | Medium | [#78](https://github.com/IntegerAlex/fingerprint-oss/pull/78) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
 | Stabilization in Hash generation | Hard | [#61](https://github.com/IntegerAlex/fingerprint-oss/pull/61) |
 
@@ -1691,6 +1661,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Structured Logging to Service Layer for Better Observability | Medium | [#75](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/75) |
+| Add Validation Annotations to DTOs to Prevent Invalid Data Submission | Medium | [#74](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/74) |
+| Implement role-based access control (Admin, Doctor, Patient) for API endpoints #64 | Medium | [#73](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/73) |
 | Implement Pull Request Template for Backend Quality Assurance | Medium | [#72](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/72) |
 | Add Structured Issue Templates for Backend & API Support | Medium | [#71](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/71) |
 | README Overhaul — Add System Architecture & API Visualizer | Medium | [#70](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/70) |
@@ -1699,7 +1672,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add Form Validation and User-Friendly Error Messages to Patient & Appointment Forms | Medium | [#67](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/67) |
 | Add smart appointment slot suggestion feature | Medium | [#66](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/66) |
 | fix: resolve concurrency issue in appointment booking (double-booking fix) | Medium | [#65](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/65) |
-| Implement role-based access control (Admin, Doctor, Patient) for API endpoints | Medium | [#64](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/64) |
 | FEATURE: Real-Time Appointment Notifications & Reminders System | Medium | [#63](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/63) |
 | 💊 Implement Prescription Management Module | Medium | [#62](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/62) |
 | Add a section "system architecture" in  readme | Medium | [#61](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/61) |
@@ -1962,7 +1934,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Redesign of Contact Us Page | Medium | [#106](https://github.com/lovelymahor/StudyMatePlus/pull/106) |
-| improved SEO and accessibility and rectified deployment issue | Medium | [#103](https://github.com/lovelymahor/StudyMatePlus/pull/103) |
 | Dark and light theme toggle button | Medium | [#99](https://github.com/lovelymahor/StudyMatePlus/issues/99) |
 | Created login page | Medium | [#81](https://github.com/lovelymahor/StudyMatePlus/pull/81) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
@@ -2026,17 +1997,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added swagger doc for health api | Easy | [#295](https://github.com/IndieHub25/GroqTales/pull/295) |
-| Implemented Modal showing all details on Clicking NFT card in gallery page | Medium | [#298](https://github.com/IndieHub25/GroqTales/pull/298) |
-| Update SECURITY.md | Medium | [#297](https://github.com/IndieHub25/GroqTales/pull/297) |
-| Fix logger; add enhanced implementation & tests | Medium | [#296](https://github.com/IndieHub25/GroqTales/pull/296) |
-| Fix “Buy Now” Button | Medium | [#292](https://github.com/IndieHub25/GroqTales/issues/292) |
-| Like Button on NFT Cards Is Not Working | Medium | [#291](https://github.com/IndieHub25/GroqTales/issues/291) |
-| Document  Story, and Auth API routes in Swagger | Medium | [#283](https://github.com/IndieHub25/GroqTales/issues/283) |
-| ‎`[Feature] Autosave drafts and basic version history for stories` | Medium | [#232](https://github.com/IndieHub25/GroqTales/issues/232) |
-| API Key Parameter Ignored (High Severity) | Medium | [#221](https://github.com/IndieHub25/GroqTales/issues/221) |
-| Massive Component with Poor Maintainability (High Severity) | Medium | [#220](https://github.com/IndieHub25/GroqTales/issues/220) |
-| GroqTales Home Page Revamp (New Hero, Flow, and NFT Story Experience)` | Hard | [#293](https://github.com/IndieHub25/GroqTales/issues/293) |
+| feat: define latency SLOs for AI story generation pipelinedocs: define latency SLOs | Easy | [#399](https://github.com/IndieHub25/GroqTales/pull/399) |
+| chore: update config, deps, and project docs | Easy | [#394](https://github.com/IndieHub25/GroqTales/pull/394) |
+| Feature Request: Add Dedicated Contributors Page with Paginated Contributor Cards | Medium | [#404](https://github.com/IndieHub25/GroqTales/issues/404) |
+| feat: Add "Copy Story" button to generated story output panels | Medium | [#401](https://github.com/IndieHub25/GroqTales/pull/401) |
+| Enhancement: Implement Global Error Boundary (#377) | Medium | [#393](https://github.com/IndieHub25/GroqTales/pull/393) |
+| feat: synchronize reading progress UI, fix Chronicles panel, and reso… | Medium | [#388](https://github.com/IndieHub25/GroqTales/pull/388) |
+| Gas-Efficient Metadata Strategy & On-Chain Indexing for Story NFTs | Hard | [#333](https://github.com/IndieHub25/GroqTales/issues/333) |
+| Robust On-Chain State Sync & Recovery for Story NFTs | Hard | [#329](https://github.com/IndieHub25/GroqTales/issues/329) |
 
 ---
 
@@ -2305,6 +2273,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| <FAQs section> | Medium | [#1518](https://github.com/Rakesh9100/Beautiify/issues/1518) |
+| Implement Login & Signup System with Modern and User-Friendly UI | Medium | [#1517](https://github.com/Rakesh9100/Beautiify/issues/1517) |
 | Fix The Allignment Of The Content Of The Footer | Medium | [#1516](https://github.com/Rakesh9100/Beautiify/issues/1516) |
 | Add Checkboxes Category and several Components | Medium | [#1070](https://github.com/Rakesh9100/Beautiify/issues/1070) |
 
@@ -2501,25 +2471,6 @@ Fast Workflow Tools
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#17](https://github.com/SvJalmi/DBMS_Project/issues/17) |
 | Documentation : Add Code Of Conduct File to project | Medium | [#16](https://github.com/SvJalmi/DBMS_Project/issues/16) |
 | Add mit license file to the project | Medium | [#15](https://github.com/SvJalmi/DBMS_Project/issues/15) |
-
----
-
-## 📌 Project: Your trip planner
-
-📝 **Description:** A travel planning web app that lets users filter destinations by region and track journey expenses.
-
-🔗 [View Project](https://github.com/code-well0/trip-planner)
-
-💻 **Tech Stack:** React.js, JavaScript, CSS, HTML
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Padding | Medium | [#395](https://github.com/code-well0/trip-planner/pull/395) |
-| Places Visited | Medium | [#394](https://github.com/code-well0/trip-planner/pull/394) |
 
 ---
 
@@ -2819,6 +2770,8 @@ Fast Workflow Tools
 | Style Improvement : Enhance Layout and Visual Design in attendance-sheet | Medium | [#53](https://github.com/devillikevd/Attendance-Sheet/issues/53) |
 | Need improvement in the About page | Medium | [#51](https://github.com/devillikevd/Attendance-Sheet/issues/51) |
 | Need To improve the design of the contact page | Medium | [#50](https://github.com/devillikevd/Attendance-Sheet/issues/50) |
+| Adding Contributing.md | Medium | [#49](https://github.com/devillikevd/Attendance-Sheet/issues/49) |
+| Dark mode is not applied on other pages | Medium | [#48](https://github.com/devillikevd/Attendance-Sheet/issues/48) |
 
 ---
 
