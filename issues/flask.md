@@ -205,23 +205,20 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve "Create New Post" Button UI/UX | Easy | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
+| Regenerative Carbon Sequestration Ledger & ESG Marketplace | Medium | [#1632](https://github.com/omroy07/AgriTech/issues/1632) |
+| Multi-Modal Autonomous Logistics & Smart-Contract Freight Orchestrator | Medium | [#1631](https://github.com/omroy07/AgriTech/issues/1631) |
+| Parametric Climate-Resilience & Global Yield Liquidity Engine | Medium | [#1630](https://github.com/omroy07/AgriTech/issues/1630) |
+| Photo Upload Feature Mentioned but Not Functionally Available | Medium | [#1618](https://github.com/omroy07/AgriTech/issues/1618) |
+| Chat History Not Persisting After Page Reload | Medium | [#1617](https://github.com/omroy07/AgriTech/issues/1617) |
+| Favorites Page Shows “0 Saved Articles” Despite Adding Blogs to Favorites | Medium | [#1616](https://github.com/omroy07/AgriTech/issues/1616) |
+| <short description> | Medium | [#1587](https://github.com/omroy07/AgriTech/issues/1587) |
+| Scheme Eligibility Form Produces No Output | Medium | [#1509](https://github.com/omroy07/AgriTech/issues/1509) |
+| Duplicate Theme Toggle Button on Login Page | Medium | [#1508](https://github.com/omroy07/AgriTech/issues/1508) |
+| Marketplace Page UI Alignment and Layout Issue | Medium | [#1507](https://github.com/omroy07/AgriTech/issues/1507) |
+| Remove Offline/Cache Warning Banner from Production UI | Medium | [#1506](https://github.com/omroy07/AgriTech/issues/1506) |
+| feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
+| Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
 | Add /examples directory for API documentation and Model usage | Medium | [#1442](https://github.com/omroy07/AgriTech/issues/1442) |
-| Add Trailing Cursor to Smart Loan Guide Page, calendar page, schemes page | Medium | [#1441](https://github.com/omroy07/AgriTech/issues/1441) |
-| Implement Loan Repayment Scheduler & Default Risk Tracker #1407 | Medium | [#1432](https://github.com/omroy07/AgriTech/pull/1432) |
-| Implement Soil Health Monitoring & Fertilizer Recommendation Engine | Medium | [#1431](https://github.com/omroy07/AgriTech/pull/1431) |
-| Bug: Template Variables Not Rendering on Crop Yield Prediction Page | Medium | [#1416](https://github.com/omroy07/AgriTech/issues/1416) |
-| Redesign Financial Support footer for consistency | Medium | [#1405](https://github.com/omroy07/AgriTech/pull/1405) |
-| Redesign footer on the Financial Support page | Medium | [#1385](https://github.com/omroy07/AgriTech/issues/1385) |
-| Issue: Language Bar Not Working Properly | Medium | [#1375](https://github.com/omroy07/AgriTech/issues/1375) |
-| Data Validation Layer Between Frontend ↔ Backend | Medium | [#1371](https://github.com/omroy07/AgriTech/issues/1371) |
-| Centralized Configuration & Environment Management | Medium | [#1370](https://github.com/omroy07/AgriTech/issues/1370) |
-| Add Unit and Integration Tests for Backend API Endpoints | Medium | [#1325](https://github.com/omroy07/AgriTech/issues/1325) |
-| Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
-| Buttons not responding in Profit & Loss Analytics dashboard | Medium | [#1317](https://github.com/omroy07/AgriTech/issues/1317) |
-| Light mode and language buttons are not working in the navbar | Medium | [#1316](https://github.com/omroy07/AgriTech/issues/1316) |
-| Refactor SECURITY.md for better readability and actionable reporting | Medium | [#1301](https://github.com/omroy07/AgriTech/issues/1301) |
-| Cursor color does not match language selector styling | Medium | [#1270](https://github.com/omroy07/AgriTech/issues/1270) |
 
 ---
 
@@ -353,13 +350,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| doc: API Documentation | Medium | [#259](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/259) |
-| feat: Message Search Functionality | Medium | [#247](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/247) |
-| OTHER: Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
-| OTHER: JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
 | BUG: UI Inconsistencies in About Page | Medium | [#235](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/235) |
 | FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
-| BUG: 'Stop' button stuck in Production (Proposed solution for #219) | Medium | [#229](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/229) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 
 ---
