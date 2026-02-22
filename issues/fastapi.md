@@ -41,9 +41,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Update the project structure in the README.md file | Easy | [#187](https://github.com/Devasy/splitwiser/issues/187) |
-| <title>Would like to implement CSS styling for better UI/UX | Easy | [#181](https://github.com/Devasy/splitwiser/issues/181) |
-| <title>Add Pull Request (PR) Template | Easy | [#177](https://github.com/Devasy/splitwiser/issues/177) |
+| Implement lazy loading and code splitting for routes | Medium | [#289](https://github.com/Devasy/splitwiser/pull/289) |
+| ux: Add skeleton loading state to HomeScreen | Medium | [#288](https://github.com/Devasy/splitwiser/pull/288) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#287](https://github.com/Devasy/splitwiser/pull/287) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#286](https://github.com/Devasy/splitwiser/pull/286) |
+| Mobile HomeScreen Skeleton Loading | Medium | [#285](https://github.com/Devasy/splitwiser/pull/285) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#284](https://github.com/Devasy/splitwiser/pull/284) |
+| enhance: Add skeleton loading to mobile Home screen | Medium | [#283](https://github.com/Devasy/splitwiser/pull/283) |
+| ux: Add skeleton loading for mobile home screen | Medium | [#282](https://github.com/Devasy/splitwiser/pull/282) |
+| Add swipe-to-delete for expenses with undo functionality | Medium | [#281](https://github.com/Devasy/splitwiser/pull/281) |
+| enhance: Add swipe-to-delete for expenses with undo | Medium | [#280](https://github.com/Devasy/splitwiser/pull/280) |
+| Add mobile skeleton loading for Home Screen groups | Medium | [#279](https://github.com/Devasy/splitwiser/pull/279) |
 | enhance: Mobile biometric authentication | Medium | [#278](https://github.com/Devasy/splitwiser/pull/278) |
 | enhance: Add animated success celebration | Medium | [#275](https://github.com/Devasy/splitwiser/pull/275) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#274](https://github.com/Devasy/splitwiser/pull/274) |
@@ -61,7 +69,6 @@
 | Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy/splitwiser/issues/207) |
 | Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
 | chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
-| pre-commit autoupdate | Medium | [#174](https://github.com/Devasy/splitwiser/pull/174) |
 
 ---
 
@@ -109,34 +116,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 |----------|----------------|---------|
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
-
----
-
-## 📌 Project: Orthoplay - Spell. Guess. Learn
-
-📝 **Description:** Orthoplay is an interactive voice-based word learning game designed to make vocabulary building fun and engaging. The game challenges players with spoken words accompanied by descriptive hints in text. Players must guess the word by identifying the number of letters and gradually unveiling the correct spelling through intuitive, game-based mechanics.
-
-🔗 [View Project](https://github.com/whyvineet/orthoplay)
-
-💻 **Tech Stack:** Python, JavaScript, React.js, FastAPI
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Thematic vocabulary | Medium | [#95](https://github.com/whyvineet/orthoplay/issues/95) |
-| Suggestion to improve Dashboard layout | Medium | [#94](https://github.com/whyvineet/orthoplay/issues/94) |
-| Add Difficulty Levels (Easy/Medium/Hard) to  Game | Medium | [#93](https://github.com/whyvineet/orthoplay/issues/93) |
-| Added Play Again and Go Home buttons for improved user experience | Medium | [#92](https://github.com/whyvineet/orthoplay/pull/92) |
-| Enhance the Footer design. | Medium | [#90](https://github.com/whyvineet/orthoplay/issues/90) |
-| Improve Hompage  Layout | Medium | [#89](https://github.com/whyvineet/orthoplay/issues/89) |
-| Updated Readme | Medium | [#81](https://github.com/whyvineet/orthoplay/issues/81) |
-| Add Timed Challenge Mode with Countdown and Scoring | Medium | [#73](https://github.com/whyvineet/orthoplay/pull/73) |
-| Add Points-Based Scoring to Improve Gameplay | Medium | [#69](https://github.com/whyvineet/orthoplay/pull/69) |
-| feat: add difficulty level popup options(Easy,Medium,Hard) | Medium | [#41](https://github.com/whyvineet/orthoplay/pull/41) |
-| fix: spacing, responsivness and footer background color | Medium | [#29](https://github.com/whyvineet/orthoplay/pull/29) |
 
 ---
 
