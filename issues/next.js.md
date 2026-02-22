@@ -161,29 +161,33 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Merge Zappa Feature Branch | Easy | [#3827](https://github.com/OWASP/Nest/pull/3827) |
-| Incorrect Error Message for Duplicate Module Name | Medium | [#3879](https://github.com/OWASP/Nest/pull/3879) |
-| NestBot: Fix ** bold markdown formatting for Slack responses (ref #2663) | Medium | [#3878](https://github.com/OWASP/Nest/issues/3878) |
-| Extend structured search functionality to chapters, members, organizations, and repositories | Medium | [#3877](https://github.com/OWASP/Nest/pull/3877) |
-| NestBot : Add structured tracing and timing logs for AI assistant execution pipeline | Medium | [#3876](https://github.com/OWASP/Nest/issues/3876) |
-| feat: implement community page | Medium | [#3873](https://github.com/OWASP/Nest/pull/3873) |
-| UI Foundations: Color System, States, and Accessibility | Medium | [#3868](https://github.com/OWASP/Nest/issues/3868) |
-| Added community endpoint to HIDDEN_SEGMENT | Medium | [#3863](https://github.com/OWASP/Nest/pull/3863) |
-| This assertion is unnecessary since it does not change the type of the expression | Medium | [#3858](https://github.com/OWASP/Nest/issues/3858) |
-| Refactor dateFormatter to strictly accept numeric Unix timestamps | Medium | [#3857](https://github.com/OWASP/Nest/pull/3857) |
-| `new Error()` is too unspecific for a type check. Use `new TypeError()` instead | Medium | [#3856](https://github.com/OWASP/Nest/issues/3856) |
-| Critical: Lost updates in concurrent Program/Module edits due to missing optimistic locking | Medium | [#3855](https://github.com/OWASP/Nest/issues/3855) |
-| Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3854](https://github.com/OWASP/Nest/issues/3854) |
-| Critical: Race condition in Program.experience_levels array causes data loss | Medium | [#3853](https://github.com/OWASP/Nest/issues/3853) |
-| Performance: Critical N+1 queries in recent_releases, recent_issues, recent_milestones GraphQL queries | Medium | [#3852](https://github.com/OWASP/Nest/issues/3852) |
-| Increase Backend Test Coverage to 99%+ | Medium | [#3851](https://github.com/OWASP/Nest/issues/3851) |
-| Add container healthchecks for backend, frontend, and worker in staging/production | Medium | [#3850](https://github.com/OWASP/Nest/issues/3850) |
-| Add CycloneDX SBOM generation for staging images | Medium | [#3833](https://github.com/OWASP/Nest/pull/3833) |
-| Add  /api/health endpoint for frontend healthchecks & monitoring | Medium | [#3830](https://github.com/OWASP/Nest/issues/3830) |
-| fixed aloglia cache_key | Medium | [#3825](https://github.com/OWASP/Nest/pull/3825) |
-| Use <output> instead of the "status" role to ensure accessibility across all devices. | Medium | [#3823](https://github.com/OWASP/Nest/issues/3823) |
-| fix: remove unused className prop from AnchorTitle component | Medium | [#3822](https://github.com/OWASP/Nest/pull/3822) |
-| Fix/issue node interested users prefetch | Medium | [#3813](https://github.com/OWASP/Nest/pull/3813) |
+| General Improvements for Infrastructure | Easy | [#4039](https://github.com/OWASP/Nest/pull/4039) |
+| Improved CONTRIBUTING.md | Easy | [#4025](https://github.com/OWASP/Nest/pull/4025) |
+| feat(frontend): implement Terms of Service page | Easy | [#4017](https://github.com/OWASP/Nest/pull/4017) |
+| perf(frontend): Convert home page to Server Component for SSR support | Medium | [#4037](https://github.com/OWASP/Nest/issues/4037) |
+| Add Program Deletion with Cascade Module Removal | Medium | [#4036](https://github.com/OWASP/Nest/issues/4036) |
+| Refactor: Enforce strict equality in frontend components | Medium | [#4035](https://github.com/OWASP/Nest/issues/4035) |
+| chore(deps): bump isomorphic-dompurify from 2.36.0 to 3.0.0 in /frontend | Medium | [#4034](https://github.com/OWASP/Nest/pull/4034) |
+| improve frontend test coverage | Medium | [#4033](https://github.com/OWASP/Nest/pull/4033) |
+| Feature: Add Gemini LLM Provider Support to AI Agent Configuration | Medium | [#4031](https://github.com/OWASP/Nest/issues/4031) |
+| Improve module visibility show up to 6 modules before displaying “Show more” | Medium | [#4029](https://github.com/OWASP/Nest/issues/4029) |
+| Move Django session backend from database to Redis cache | Medium | [#4028](https://github.com/OWASP/Nest/issues/4028) |
+| Configure Gunicorn with production-appropriate worker and timeout settings | Medium | [#4027](https://github.com/OWASP/Nest/issues/4027) |
+| Refactor: Rename GitHub repository node fields to recent_issues and recent_releases | Medium | [#4026](https://github.com/OWASP/Nest/issues/4026) |
+| Bug: OpenAI API Exception Handling Too Broad - Masks Auth, Rate Limit, and Model Errors | Medium | [#4024](https://github.com/OWASP/Nest/issues/4024) |
+| feat: implement module ordering with drag-and-drop support | Medium | [#4020](https://github.com/OWASP/Nest/pull/4020) |
+| Anyone is able to access the Module Issues page in Mentorship Portal | Medium | [#4018](https://github.com/OWASP/Nest/issues/4018) |
+| Refactor create_chunks_and_embeddings: Type Safety, Rate Limiting, and DB Optimization | Medium | [#4016](https://github.com/OWASP/Nest/issues/4016) |
+| refactor: Migrate mentorship GraphQL nodes to use field decorators | Medium | [#4013](https://github.com/OWASP/Nest/issues/4013) |
+| Consolidate Duplicate `apolloClient.ts`  Files | Medium | [#4006](https://github.com/OWASP/Nest/issues/4006) |
+| Add theme toggle with system preference and persistence | Medium | [#4005](https://github.com/OWASP/Nest/pull/4005) |
+| Rename RepositoryNode.releases to recent_releases | Medium | [#3994](https://github.com/OWASP/Nest/issues/3994) |
+| Rename RepositoryNode issues/releases to recent_issues / recent_releases | Medium | [#3993](https://github.com/OWASP/Nest/issues/3993) |
+| Enable real project health score in production | Medium | [#3992](https://github.com/OWASP/Nest/issues/3992) |
+| Improve footer button accessibility focus visibility | Medium | [#3988](https://github.com/OWASP/Nest/issues/3988) |
+| Bug: /idx/ returns 500 when Algolia is not configured | Medium | [#3987](https://github.com/OWASP/Nest/issues/3987) |
+| Fix SSR Apollo cookie overwrite in server-side GraphQL requests | Medium | [#3985](https://github.com/OWASP/Nest/pull/3985) |
+| Add Container Security Hardening to Production/Staging Docker Compose | Medium | [#3982](https://github.com/OWASP/Nest/issues/3982) |
 
 ---
 
@@ -224,35 +228,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add SWOC'26 and OSCGC to Readme | Medium | [#389](https://github.com/Dipanita45/HEALCONNECT/issues/389) |
-| Text Inside Subscription Email not visible in Light Mode | Medium | [#388](https://github.com/Dipanita45/HEALCONNECT/issues/388) |
-| Fix mobile responsiveness and missing navbar hamburger menu | Medium | [#387](https://github.com/Dipanita45/HEALCONNECT/issues/387) |
-| Bug-Select dropdown not visible on Prescription page | Medium | [#386](https://github.com/Dipanita45/HEALCONNECT/issues/386) |
-| Excessive Debug Logging Exposes Sensitive Data in Production | Medium | [#385](https://github.com/Dipanita45/HEALCONNECT/issues/385) |
-| Bug: Admin Route Not Protected - Anyone Can Access Admin Dashboard | Medium | [#384](https://github.com/Dipanita45/HEALCONNECT/issues/384) |
-| Appointments Security - No Authentication Required to Book Appointments | Medium | [#383](https://github.com/Dipanita45/HEALCONNECT/issues/383) |
-| Security - Passwords Stored in Plain Text | Medium | [#382](https://github.com/Dipanita45/HEALCONNECT/issues/382) |
-| Feat/smart navbar auto hide | Medium | [#381](https://github.com/Dipanita45/HEALCONNECT/pull/381) |
-| feat: implement active navigation link highlighting #258 | Medium | [#380](https://github.com/Dipanita45/HEALCONNECT/pull/380) |
-| Critical Security Vulnerability - Missing Input Validation in API Routes | Medium | [#379](https://github.com/Dipanita45/HEALCONNECT/issues/379) |
-| OSCG26: Add Search & Filter Functionality to Appointment Dashboard | Medium | [#378](https://github.com/Dipanita45/HEALCONNECT/pull/378) |
-| Mobile Menu Button Not Working on HealConnect Website | Medium | [#377](https://github.com/Dipanita45/HEALCONNECT/issues/377) |
-| OSCG26: Prevent Duplicate Appointment Booking & Fix React Import Build Error | Medium | [#376](https://github.com/Dipanita45/HEALCONNECT/pull/376) |
-| Issue #262 : Fix dark/light theme toggle with persistent state and improve… | Medium | [#374](https://github.com/Dipanita45/HEALCONNECT/pull/374) |
-| Issue #280 : Refactor Auth Forms Using React Hook Form + Validation Improvements | Medium | [#373](https://github.com/Dipanita45/HEALCONNECT/pull/373) |
-| loaders and micro interactions | Medium | [#372](https://github.com/Dipanita45/HEALCONNECT/pull/372) |
-| Fix subscription input placeholder (in footer) visibility in light theme | Medium | [#371](https://github.com/Dipanita45/HEALCONNECT/pull/371) |
-| Fix step 5 visibility by restoring indigo color palette for "How It Works" section | Medium | [#370](https://github.com/Dipanita45/HEALCONNECT/pull/370) |
-| Improve hover feedback consistency for Healthcare Challenge cards across light & dark themes | Medium | [#369](https://github.com/Dipanita45/HEALCONNECT/pull/369) |
-| Open Gmail compose page when clicking “Send Email” in Email Support card | Medium | [#368](https://github.com/Dipanita45/HEALCONNECT/pull/368) |
-| Enhance “How It Works” Page with Interactive Steps, Platform Features, and CTA Section | Medium | [#367](https://github.com/Dipanita45/HEALCONNECT/pull/367) |
-| Improve appointment doctor page UI/UX (#314) | Medium | [#366](https://github.com/Dipanita45/HEALCONNECT/pull/366) |
-| Add subtle animations to “How It Works” cards for improved engagement | Medium | [#365](https://github.com/Dipanita45/HEALCONNECT/pull/365) |
-| Add input validation | Medium | [#364](https://github.com/Dipanita45/HEALCONNECT/pull/364) |
-| Fix incomplete logout | Medium | [#362](https://github.com/Dipanita45/HEALCONNECT/pull/362) |
-| Add subtle border animation to Measurement History cards | Medium | [#361](https://github.com/Dipanita45/HEALCONNECT/pull/361) |
-| Accessibility fixes | Medium | [#360](https://github.com/Dipanita45/HEALCONNECT/pull/360) |
-| Fix syntax error in Appointments page by correcting useEffect structure | Medium | [#357](https://github.com/Dipanita45/HEALCONNECT/pull/357) |
+| Issue : Hardcoded API URL in Component | Easy | [#474](https://github.com/Dipanita45/HEALCONNECT/issues/474) |
+| feat: implement consistent loading states and skeleton loaders | Medium | [#552](https://github.com/Dipanita45/HEALCONNECT/pull/552) |
+| Non-functional "Start Chat" button on Terms & Conditions page | Medium | [#546](https://github.com/Dipanita45/HEALCONNECT/issues/546) |
+| Non-functional Voice Input Button in Support Chatbot | Medium | [#545](https://github.com/Dipanita45/HEALCONNECT/issues/545) |
+| Replace generic browser alerts with custom themed modals and toasts | Medium | [#544](https://github.com/Dipanita45/HEALCONNECT/issues/544) |
+| Add Functional Dark Mode Toggle for Improved Accessibility and UX | Medium | [#540](https://github.com/Dipanita45/HEALCONNECT/issues/540) |
+| Footer Not Visually Distinguishable from Main Content | Medium | [#539](https://github.com/Dipanita45/HEALCONNECT/issues/539) |
+| Issue : Missing Loading States for Async Operations | Medium | [#476](https://github.com/Dipanita45/HEALCONNECT/issues/476) |
 
 ---
 
@@ -334,33 +317,6 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 ---
 
-## 📌 Project: FailUForward 
-
-📝 **Description:** FailUForward is a community driven platform where users share their biggest failures and the lessons they learned. Using AI, it curates and tags stories, highlights common themes and recommends relatable experiences to help users grow through others’ mistakes. It encourages vulnerability, resilience and real talk like turning failure into fuel. Users mint their failure story as an NFT or anonymous soulbound badge to own their growth journey.
-
-🔗 [View Project](https://github.com/mansiruhil/fail-u-forward)
-
-💻 **Tech Stack:** Next.js, TypeScript, Firebase, Firestore, Firebase Auth, Gemini API
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#282](https://github.com/ruhilmansi/fail-u-forward/issues/282) |
-| 🐞Signup and Choose Language Buttons Overlap on Login Page | Medium | [#268](https://github.com/ruhilmansi/fail-u-forward/issues/268) |
-| Change in font is required and the explore button is be much visible. [enchancement] | Medium | [#264](https://github.com/ruhilmansi/fail-u-forward/issues/264) |
-| Welcome message on the landing page is not visible. | Medium | [#263](https://github.com/ruhilmansi/fail-u-forward/issues/263) |
-| Text on About Page Not Clearly Visible | Medium | [#260](https://github.com/ruhilmansi/fail-u-forward/issues/260) |
-| Design Navbar: Minimalistic & Polished | Medium | [#257](https://github.com/ruhilmansi/fail-u-forward/issues/257) |
-| Improve the About Page interface and the sign up and language option buttons | Medium | [#256](https://github.com/ruhilmansi/fail-u-forward/issues/256) |
-|  | Medium | [#255](https://github.com/ruhilmansi/fail-u-forward/issues/255) |
-| Add SEO friendly optimization for users to fetch data on browser easily | Medium | [#200](https://github.com/ruhilmansi/fail-u-forward/issues/200) |
-| Testing & CI/CD | Medium | [#190](https://github.com/ruhilmansi/fail-u-forward/issues/190) |
-
----
-
 ## 📌 Project: Notes-Aid
 
 📝 **Description:** A modern platform to access academic notes with embedded YouTube videos and PDFs for better learning!
@@ -412,26 +368,25 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Making instructions clear about opening in localhost | Easy | [#397](https://github.com/Muneerali199/DocMagic/issues/397) |
-| Making instructions clear about opening in localhost | Medium | [#401](https://github.com/Muneerali199/DocMagic/pull/401) |
-| website name will have to change from docmagic to draftdeck ai | Medium | [#400](https://github.com/Muneerali199/DocMagic/issues/400) |
-| UI Issue: Back-to-top button not visible on light background | Medium | [#399](https://github.com/Muneerali199/DocMagic/issues/399) |
-| Update CONTRIBUTING.md with environment setup details | Medium | [#398](https://github.com/Muneerali199/DocMagic/pull/398) |
-| Making the email button clickable | Medium | [#396](https://github.com/Muneerali199/DocMagic/issues/396) |
-| We can add url to the buttons to make it more engaing | Medium | [#395](https://github.com/Muneerali199/DocMagic/issues/395) |
-| Added editable skills section in resume | Medium | [#393](https://github.com/Muneerali199/DocMagic/pull/393) |
-| Not having Certificates and projects editable section in the template | Medium | [#392](https://github.com/Muneerali199/DocMagic/issues/392) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 58 updates | Medium | [#376](https://github.com/Muneerali199/DocMagic/pull/376) |
-| Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/DocMagic/pull/363) |
-| Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/DocMagic/pull/362) |
-| contact form implementation | Medium | [#345](https://github.com/Muneerali199/DocMagic/pull/345) |
-| Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/DocMagic/issues/331) |
-| feat: Add ImportProfile component and update page.tsx (Fixes #23) | Medium | [#330](https://github.com/Muneerali199/DocMagic/pull/330) |
-| added the animation of increasing numbers in dashboard | Medium | [#329](https://github.com/Muneerali199/DocMagic/pull/329) |
-| chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/DocMagic/pull/324) |
-| fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/DocMagic/pull/323) |
-| Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/DocMagic/pull/320) |
-| fix: improve dark theme text contrast in Resume section (fixes #314) | Medium | [#317](https://github.com/Muneerali199/DocMagic/pull/317) |
+| Making instructions clear about opening in localhost | Easy | [#397](https://github.com/Muneerali199/Draftdeckai/issues/397) |
+| feat: add AI Cover Letter Generator from Resume (#411) | Medium | [#415](https://github.com/Muneerali199/Draftdeckai/pull/415) |
+| feat: Add Productivity Engine - Structured Document System | Medium | [#412](https://github.com/Muneerali199/Draftdeckai/pull/412) |
+| UI Issue: Back-to-top button not visible on light background | Medium | [#399](https://github.com/Muneerali199/Draftdeckai/issues/399) |
+| Update CONTRIBUTING.md with environment setup details | Medium | [#398](https://github.com/Muneerali199/Draftdeckai/pull/398) |
+| Making the email button clickable | Medium | [#396](https://github.com/Muneerali199/Draftdeckai/issues/396) |
+| We can add url to the buttons to make it more engaing | Medium | [#395](https://github.com/Muneerali199/Draftdeckai/issues/395) |
+| Added editable skills section in resume | Medium | [#393](https://github.com/Muneerali199/Draftdeckai/pull/393) |
+| Not having Certificates and projects editable section in the template | Medium | [#392](https://github.com/Muneerali199/Draftdeckai/issues/392) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 58 updates | Medium | [#376](https://github.com/Muneerali199/Draftdeckai/pull/376) |
+| Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/Draftdeckai/pull/363) |
+| Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/Draftdeckai/pull/362) |
+| contact form implementation | Medium | [#345](https://github.com/Muneerali199/Draftdeckai/pull/345) |
+| Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/Draftdeckai/issues/331) |
+| feat: Add ImportProfile component and update page.tsx (Fixes #23) | Medium | [#330](https://github.com/Muneerali199/Draftdeckai/pull/330) |
+| added the animation of increasing numbers in dashboard | Medium | [#329](https://github.com/Muneerali199/Draftdeckai/pull/329) |
+| chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/Draftdeckai/pull/324) |
+| fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/Draftdeckai/pull/323) |
+| Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/Draftdeckai/pull/320) |
 
 ---
 
@@ -543,14 +498,15 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump dotenv from 17.2.3 to 17.2.4 | Easy | [#1278](https://github.com/recodehive/recode-website/pull/1278) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
-| chore: bump prettier from 3.6.2 to 3.8.1 | Easy | [#1270](https://github.com/recodehive/recode-website/pull/1270) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump styled-components from 6.1.19 to 6.3.8 | Medium | [#1269](https://github.com/recodehive/recode-website/pull/1269) |
-| chore: bump react-dom and @types/react-dom | Medium | [#1268](https://github.com/recodehive/recode-website/pull/1268) |
-| chore: bump @tailwindcss/postcss from 4.1.14 to 4.1.18 | Medium | [#1267](https://github.com/recodehive/recode-website/pull/1267) |
-| chore: bump lucide-react from 0.503.0 to 0.563.0 | Medium | [#1266](https://github.com/recodehive/recode-website/pull/1266) |
+| chore: bump react and @types/react | Medium | [#1277](https://github.com/recodehive/recode-website/pull/1277) |
+| chore: bump @typescript-eslint/parser from 8.46.2 to 8.55.0 | Medium | [#1276](https://github.com/recodehive/recode-website/pull/1276) |
+| chore: bump firebase from 9.23.0 to 12.9.0 | Medium | [#1275](https://github.com/recodehive/recode-website/pull/1275) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.55.0 | Medium | [#1274](https://github.com/recodehive/recode-website/pull/1274) |
+| Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
 
@@ -1047,7 +1003,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| major UI improvements, structural updates, and deployment fixes. | Medium | [#41](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/41) |
 | Button functionalities added | Medium | [#40](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/pull/40) |
 | Make the UI of products  details page with proper UI and grid and add more futuristic look with landing page | Medium | [#38](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/38) |
 | Add Email Validation and Success Message to Join the club and get the benefits in Home Page v.2 (/homepage) | Medium | [#23](https://github.com/Mahambabar12/Hackathon-Ecommerce-Website-main/issues/23) |
@@ -1068,21 +1023,14 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Local “One-Click” Dev Environment with Seed Data & Test Wallets | Medium | [#330](https://github.com/IndieHub25/GroqTales/issues/330) |
-| In-Context Onboarding: Interactive Tooltips & “First Story” Guided Tour | Medium | [#325](https://github.com/IndieHub25/GroqTales/issues/325) |
-| WCAG-Driven Story Reader (Keyboard, Screen Readers, High-Contrast) | Medium | [#324](https://github.com/IndieHub25/GroqTales/issues/324) |
-| Story Reader & Gallery Performance Budget (Lighthouse, Bundles & Streaming) | Hard | [#335](https://github.com/IndieHub25/GroqTales/issues/335) |
-| Off-Chain Royalty Tracking & Creator Revenue Share Dashboard | Hard | [#334](https://github.com/IndieHub25/GroqTales/issues/334) |
+| feat: define latency SLOs for AI story generation pipelinedocs: define latency SLOs | Easy | [#399](https://github.com/IndieHub25/GroqTales/pull/399) |
+| chore: update config, deps, and project docs | Easy | [#394](https://github.com/IndieHub25/GroqTales/pull/394) |
+| Feature Request: Add Dedicated Contributors Page with Paginated Contributor Cards | Medium | [#404](https://github.com/IndieHub25/GroqTales/issues/404) |
+| feat: Add "Copy Story" button to generated story output panels | Medium | [#401](https://github.com/IndieHub25/GroqTales/pull/401) |
+| Enhancement: Implement Global Error Boundary (#377) | Medium | [#393](https://github.com/IndieHub25/GroqTales/pull/393) |
+| feat: synchronize reading progress UI, fix Chronicles panel, and reso… | Medium | [#388](https://github.com/IndieHub25/GroqTales/pull/388) |
 | Gas-Efficient Metadata Strategy & On-Chain Indexing for Story NFTs | Hard | [#333](https://github.com/IndieHub25/GroqTales/issues/333) |
-| Automated Story Quality Scoring, Safety Filtering & Content Tagging Pipeline | Hard | [#332](https://github.com/IndieHub25/GroqTales/issues/332) |
-| Multi-Model Orchestration, Fallback, and A/B Testing for Story Generation | Hard | [#331](https://github.com/IndieHub25/GroqTales/issues/331) |
 | Robust On-Chain State Sync & Recovery for Story NFTs | Hard | [#329](https://github.com/IndieHub25/GroqTales/issues/329) |
-| Full-Stack Latency Budgeting & Monitoring for AI Story Generation | Hard | [#328](https://github.com/IndieHub25/GroqTales/issues/328) |
-| Structured JSON Story Schema & Model-Constrained Generation | Hard | [#327](https://github.com/IndieHub25/GroqTales/issues/327) |
-| Multi-Step Story Refinement Loop (Critique → Edit → Regenerate Sections) | Hard | [#326](https://github.com/IndieHub25/GroqTales/issues/326) |
-| Advanced Story Controls “Pro Panel” with Presets & Preset Sharing | Hard | [#323](https://github.com/IndieHub25/GroqTales/issues/323) |
-| Creator Dashboard 2.0 – Unified Library, Analytics & Draft Management | Hard | [#322](https://github.com/IndieHub25/GroqTales/issues/322) |
-| UX] End-to-end Story Creation Flow Redesign (From Landing → Draft → Mint) | Hard | [#321](https://github.com/IndieHub25/GroqTales/issues/321) |
 
 ---
 
@@ -1160,13 +1108,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| doc: API Documentation | Medium | [#259](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/259) |
-| feat: Message Search Functionality | Medium | [#247](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/247) |
-| OTHER: Database Performance Issue | Medium | [#239](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/239) |
-| OTHER: JWT Token Security Problem | Medium | [#238](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/238) |
 | BUG: UI Inconsistencies in About Page | Medium | [#235](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/235) |
 | FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
-| BUG: 'Stop' button stuck in Production (Proposed solution for #219) | Medium | [#229](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/229) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 
 ---
@@ -1334,6 +1277,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| build(deps): bump axios from 1.9.0 to 1.13.5 | Medium | [#109](https://github.com/dscnitrourkela/project-huckleberry/pull/109) |
 | build(deps): bump @modelcontextprotocol/sdk from 1.11.0 to 1.26.0 | Medium | [#107](https://github.com/dscnitrourkela/project-huckleberry/pull/107) |
 | build(deps): bump next from 16.0.10 to 16.1.5 | Medium | [#106](https://github.com/dscnitrourkela/project-huckleberry/pull/106) |
 | build(deps): bump lodash from 4.17.21 to 4.17.23 | Medium | [#105](https://github.com/dscnitrourkela/project-huckleberry/pull/105) |
@@ -1342,7 +1286,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 | build(deps): bump express from 5.1.0 to 5.2.1 | Medium | [#97](https://github.com/dscnitrourkela/project-huckleberry/pull/97) |
 | build(deps): bump js-yaml from 4.1.0 to 4.1.1 | Medium | [#95](https://github.com/dscnitrourkela/project-huckleberry/pull/95) |
 | build(deps): bump next-auth from 5.0.0-beta.27 to 5.0.0-beta.30 | Medium | [#94](https://github.com/dscnitrourkela/project-huckleberry/pull/94) |
-| build(deps): bump axios from 1.9.0 to 1.12.0 | Medium | [#93](https://github.com/dscnitrourkela/project-huckleberry/pull/93) |
 | Add mit license file to the project | Medium | [#88](https://github.com/dscnitrourkela/project-huckleberry/issues/88) |
 | build(deps): bump form-data from 4.0.2 to 4.0.4 | Medium | [#87](https://github.com/dscnitrourkela/project-huckleberry/pull/87) |
 
@@ -1364,8 +1307,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| High ISR reads on Vercel | Medium | [#135](https://github.com/subhadeeproy3902/mvpblocks/issues/135) |
-| Improve templates page with metadata and visuals | Medium | [#134](https://github.com/subhadeeproy3902/mvpblocks/pull/134) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
