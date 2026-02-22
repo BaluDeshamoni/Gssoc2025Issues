@@ -14,35 +14,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add SWOC'26 and OSCGC to Readme | Medium | [#389](https://github.com/Dipanita45/HEALCONNECT/issues/389) |
-| Text Inside Subscription Email not visible in Light Mode | Medium | [#388](https://github.com/Dipanita45/HEALCONNECT/issues/388) |
-| Fix mobile responsiveness and missing navbar hamburger menu | Medium | [#387](https://github.com/Dipanita45/HEALCONNECT/issues/387) |
-| Bug-Select dropdown not visible on Prescription page | Medium | [#386](https://github.com/Dipanita45/HEALCONNECT/issues/386) |
-| Excessive Debug Logging Exposes Sensitive Data in Production | Medium | [#385](https://github.com/Dipanita45/HEALCONNECT/issues/385) |
-| Bug: Admin Route Not Protected - Anyone Can Access Admin Dashboard | Medium | [#384](https://github.com/Dipanita45/HEALCONNECT/issues/384) |
-| Appointments Security - No Authentication Required to Book Appointments | Medium | [#383](https://github.com/Dipanita45/HEALCONNECT/issues/383) |
-| Security - Passwords Stored in Plain Text | Medium | [#382](https://github.com/Dipanita45/HEALCONNECT/issues/382) |
-| Feat/smart navbar auto hide | Medium | [#381](https://github.com/Dipanita45/HEALCONNECT/pull/381) |
-| feat: implement active navigation link highlighting #258 | Medium | [#380](https://github.com/Dipanita45/HEALCONNECT/pull/380) |
-| Critical Security Vulnerability - Missing Input Validation in API Routes | Medium | [#379](https://github.com/Dipanita45/HEALCONNECT/issues/379) |
-| OSCG26: Add Search & Filter Functionality to Appointment Dashboard | Medium | [#378](https://github.com/Dipanita45/HEALCONNECT/pull/378) |
-| Mobile Menu Button Not Working on HealConnect Website | Medium | [#377](https://github.com/Dipanita45/HEALCONNECT/issues/377) |
-| OSCG26: Prevent Duplicate Appointment Booking & Fix React Import Build Error | Medium | [#376](https://github.com/Dipanita45/HEALCONNECT/pull/376) |
-| Issue #262 : Fix dark/light theme toggle with persistent state and improve… | Medium | [#374](https://github.com/Dipanita45/HEALCONNECT/pull/374) |
-| Issue #280 : Refactor Auth Forms Using React Hook Form + Validation Improvements | Medium | [#373](https://github.com/Dipanita45/HEALCONNECT/pull/373) |
-| loaders and micro interactions | Medium | [#372](https://github.com/Dipanita45/HEALCONNECT/pull/372) |
-| Fix subscription input placeholder (in footer) visibility in light theme | Medium | [#371](https://github.com/Dipanita45/HEALCONNECT/pull/371) |
-| Fix step 5 visibility by restoring indigo color palette for "How It Works" section | Medium | [#370](https://github.com/Dipanita45/HEALCONNECT/pull/370) |
-| Improve hover feedback consistency for Healthcare Challenge cards across light & dark themes | Medium | [#369](https://github.com/Dipanita45/HEALCONNECT/pull/369) |
-| Open Gmail compose page when clicking “Send Email” in Email Support card | Medium | [#368](https://github.com/Dipanita45/HEALCONNECT/pull/368) |
-| Enhance “How It Works” Page with Interactive Steps, Platform Features, and CTA Section | Medium | [#367](https://github.com/Dipanita45/HEALCONNECT/pull/367) |
-| Improve appointment doctor page UI/UX (#314) | Medium | [#366](https://github.com/Dipanita45/HEALCONNECT/pull/366) |
-| Add subtle animations to “How It Works” cards for improved engagement | Medium | [#365](https://github.com/Dipanita45/HEALCONNECT/pull/365) |
-| Add input validation | Medium | [#364](https://github.com/Dipanita45/HEALCONNECT/pull/364) |
-| Fix incomplete logout | Medium | [#362](https://github.com/Dipanita45/HEALCONNECT/pull/362) |
-| Add subtle border animation to Measurement History cards | Medium | [#361](https://github.com/Dipanita45/HEALCONNECT/pull/361) |
-| Accessibility fixes | Medium | [#360](https://github.com/Dipanita45/HEALCONNECT/pull/360) |
-| Fix syntax error in Appointments page by correcting useEffect structure | Medium | [#357](https://github.com/Dipanita45/HEALCONNECT/pull/357) |
+| Issue : Hardcoded API URL in Component | Easy | [#474](https://github.com/Dipanita45/HEALCONNECT/issues/474) |
+| feat: implement consistent loading states and skeleton loaders | Medium | [#552](https://github.com/Dipanita45/HEALCONNECT/pull/552) |
+| Non-functional "Start Chat" button on Terms & Conditions page | Medium | [#546](https://github.com/Dipanita45/HEALCONNECT/issues/546) |
+| Non-functional Voice Input Button in Support Chatbot | Medium | [#545](https://github.com/Dipanita45/HEALCONNECT/issues/545) |
+| Replace generic browser alerts with custom themed modals and toasts | Medium | [#544](https://github.com/Dipanita45/HEALCONNECT/issues/544) |
+| Add Functional Dark Mode Toggle for Improved Accessibility and UX | Medium | [#540](https://github.com/Dipanita45/HEALCONNECT/issues/540) |
+| Footer Not Visually Distinguishable from Main Content | Medium | [#539](https://github.com/Dipanita45/HEALCONNECT/issues/539) |
+| Issue : Missing Loading States for Async Operations | Medium | [#476](https://github.com/Dipanita45/HEALCONNECT/issues/476) |
 
 ---
 
@@ -82,6 +61,7 @@
 |----------|----------------|---------|
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
+| feat: implement core graph algorithms (BFS, DFS, Dijkstra, MST, Topological Sort, Bellman-Ford) | Medium | [#198](https://github.com/SharonIV0x86/CinderPeak/pull/198) |
 | refactor(adjacency-storage): replace LOG_ macro with policy handler logging | Medium | [#193](https://github.com/SharonIV0x86/CinderPeak/pull/193) |
 
 ---
