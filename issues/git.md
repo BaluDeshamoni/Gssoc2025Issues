@@ -416,6 +416,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Structured Logging to Service Layer for Better Observability | Medium | [#75](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/75) |
+| Add Validation Annotations to DTOs to Prevent Invalid Data Submission | Medium | [#74](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/74) |
+| Implement role-based access control (Admin, Doctor, Patient) for API endpoints #64 | Medium | [#73](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/73) |
 | Implement Pull Request Template for Backend Quality Assurance | Medium | [#72](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/72) |
 | Add Structured Issue Templates for Backend & API Support | Medium | [#71](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/71) |
 | README Overhaul — Add System Architecture & API Visualizer | Medium | [#70](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/70) |
@@ -424,7 +427,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Add Form Validation and User-Friendly Error Messages to Patient & Appointment Forms | Medium | [#67](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/67) |
 | Add smart appointment slot suggestion feature | Medium | [#66](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/66) |
 | fix: resolve concurrency issue in appointment booking (double-booking fix) | Medium | [#65](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/65) |
-| Implement role-based access control (Admin, Doctor, Patient) for API endpoints | Medium | [#64](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/64) |
 | FEATURE: Real-Time Appointment Notifications & Reminders System | Medium | [#63](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/63) |
 | 💊 Implement Prescription Management Module | Medium | [#62](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/62) |
 | Add a section "system architecture" in  readme | Medium | [#61](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/61) |
@@ -467,7 +469,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| <short-title> add logout option with login and change the css of login page | Medium | [#307](https://github.com/dipexplorer/LegalHuB/issues/307) |
 | 🚨 Contributor Guidelines & Etiquette | Medium | [#293](https://github.com/dipexplorer/LegalHuB/issues/293) |
 | Enhance Notification Page with Auto-Delete and User-Controlled Deletion | Medium | [#233](https://github.com/dipexplorer/LegalHuB/issues/233) |
 | Add Contributor Spotlight & Top Contributors Section and Animate Contributor Cards  for contributor page | Medium | [#227](https://github.com/dipexplorer/LegalHuB/issues/227) |
@@ -539,7 +540,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Redesign of Contact Us Page | Medium | [#106](https://github.com/lovelymahor/StudyMatePlus/pull/106) |
-| improved SEO and accessibility and rectified deployment issue | Medium | [#103](https://github.com/lovelymahor/StudyMatePlus/pull/103) |
 | Dark and light theme toggle button | Medium | [#99](https://github.com/lovelymahor/StudyMatePlus/issues/99) |
 | Created login page | Medium | [#81](https://github.com/lovelymahor/StudyMatePlus/pull/81) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
