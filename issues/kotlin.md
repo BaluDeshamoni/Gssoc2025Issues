@@ -140,6 +140,9 @@ User Profile: BMI calculator and fitness analytics.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Pull Request Template to standardize code reviews | Medium | [#31](https://github.com/Ajay-patidar0/GitSearch/issues/31) |
+| Implement GitHub Issue Templates for bug reports and feature requests | Medium | [#30](https://github.com/Ajay-patidar0/GitSearch/issues/30) |
+| Add Mermaid.js architecture diagrams to visualize MVVM and API flow | Medium | [#29](https://github.com/Ajay-patidar0/GitSearch/issues/29) |
 | Update README.md | Medium | [#28](https://github.com/Ajay-patidar0/GitSearch/pull/28) |
 | Feat. Update screen. | Medium | [#26](https://github.com/Ajay-patidar0/GitSearch/pull/26) |
 | Back Navigation from RepositoryScreen | Medium | [#16](https://github.com/Ajay-patidar0/GitSearch/issues/16) |
