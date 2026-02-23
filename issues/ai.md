@@ -252,14 +252,18 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| General Improvements for Infrastructure | Easy | [#4039](https://github.com/OWASP/Nest/pull/4039) |
 | Improved CONTRIBUTING.md | Easy | [#4025](https://github.com/OWASP/Nest/pull/4025) |
 | feat(frontend): implement Terms of Service page | Easy | [#4017](https://github.com/OWASP/Nest/pull/4017) |
+| Implement Robust Module Date Validation When Program Dates Change | Medium | [#4045](https://github.com/OWASP/Nest/issues/4045) |
+| Fix frontend build failure caused by codegen config | Medium | [#4044](https://github.com/OWASP/Nest/issues/4044) |
+| NestBot AI Assistant Enhancements into | Medium | [#4043](https://github.com/OWASP/Nest/issues/4043) |
+| Add content_type table to the dump data command | Medium | [#4042](https://github.com/OWASP/Nest/pull/4042) |
+| Bug: Event.upcoming_events() silently excludes today's events across 6 endpoints | Medium | [#4041](https://github.com/OWASP/Nest/issues/4041) |
+| fix(a11y): improve footer section heading semantics | Medium | [#4040](https://github.com/OWASP/Nest/issues/4040) |
 | perf(frontend): Convert home page to Server Component for SSR support | Medium | [#4037](https://github.com/OWASP/Nest/issues/4037) |
 | Add Program Deletion with Cascade Module Removal | Medium | [#4036](https://github.com/OWASP/Nest/issues/4036) |
 | Refactor: Enforce strict equality in frontend components | Medium | [#4035](https://github.com/OWASP/Nest/issues/4035) |
 | chore(deps): bump isomorphic-dompurify from 2.36.0 to 3.0.0 in /frontend | Medium | [#4034](https://github.com/OWASP/Nest/pull/4034) |
-| improve frontend test coverage | Medium | [#4033](https://github.com/OWASP/Nest/pull/4033) |
 | Feature: Add Gemini LLM Provider Support to AI Agent Configuration | Medium | [#4031](https://github.com/OWASP/Nest/issues/4031) |
 | Improve module visibility show up to 6 modules before displaying “Show more” | Medium | [#4029](https://github.com/OWASP/Nest/issues/4029) |
 | Move Django session backend from database to Redis cache | Medium | [#4028](https://github.com/OWASP/Nest/issues/4028) |
@@ -275,10 +279,6 @@ Accessibility features like dark mode,white.
 | Rename RepositoryNode.releases to recent_releases | Medium | [#3994](https://github.com/OWASP/Nest/issues/3994) |
 | Rename RepositoryNode issues/releases to recent_issues / recent_releases | Medium | [#3993](https://github.com/OWASP/Nest/issues/3993) |
 | Enable real project health score in production | Medium | [#3992](https://github.com/OWASP/Nest/issues/3992) |
-| Improve footer button accessibility focus visibility | Medium | [#3988](https://github.com/OWASP/Nest/issues/3988) |
-| Bug: /idx/ returns 500 when Algolia is not configured | Medium | [#3987](https://github.com/OWASP/Nest/issues/3987) |
-| Fix SSR Apollo cookie overwrite in server-side GraphQL requests | Medium | [#3985](https://github.com/OWASP/Nest/pull/3985) |
-| Add Container Security Hardening to Production/Staging Docker Compose | Medium | [#3982](https://github.com/OWASP/Nest/issues/3982) |
 
 ---
 
@@ -565,6 +565,11 @@ Schools, offices, and wellness centers looking to green their spaces
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Issue : Hardcoded API URL in Component | Easy | [#474](https://github.com/Dipanita45/HEALCONNECT/issues/474) |
+| console.log leaks Firebase auth user object in appointments.jsx | Medium | [#559](https://github.com/Dipanita45/HEALCONNECT/issues/559) |
+| next.config.js security headers overwritten by second headers assignment | Medium | [#558](https://github.com/Dipanita45/HEALCONNECT/issues/558) |
+| /api/patients/[id] and /api/alerts/[id] lack authentication, exposing patient data | Medium | [#557](https://github.com/Dipanita45/HEALCONNECT/issues/557) |
+| appointments.jsx missing useContext and useRouter imports causing runtime crash | Medium | [#556](https://github.com/Dipanita45/HEALCONNECT/issues/556) |
+| rateLimit middleware called without invocation in API routes causing bypass | Medium | [#555](https://github.com/Dipanita45/HEALCONNECT/issues/555) |
 | feat: implement consistent loading states and skeleton loaders | Medium | [#552](https://github.com/Dipanita45/HEALCONNECT/pull/552) |
 | Non-functional "Start Chat" button on Terms & Conditions page | Medium | [#546](https://github.com/Dipanita45/HEALCONNECT/issues/546) |
 | Non-functional Voice Input Button in Support Chatbot | Medium | [#545](https://github.com/Dipanita45/HEALCONNECT/issues/545) |
