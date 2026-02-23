@@ -107,6 +107,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#160](https://github.com/WallGodds/WallGodds-Web/issues/160) |
+| feat(ui): implement self-aligning two-column wallpaper grid on Upload Page | Medium | [#264](https://github.com/WallGodds/WallGodds-Web/pull/264) |
 
 ---
 
