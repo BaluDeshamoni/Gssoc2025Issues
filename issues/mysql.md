@@ -136,6 +136,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve PatientService unit tests with display names | Medium | [#76](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/76) |
 | Add Structured Logging to Service Layer for Better Observability | Medium | [#75](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/75) |
 | Add Validation Annotations to DTOs to Prevent Invalid Data Submission | Medium | [#74](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/74) |
 | Implement role-based access control (Admin, Doctor, Patient) for API endpoints #64 | Medium | [#73](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/73) |
