@@ -183,7 +183,6 @@ Accessibility features like dark mode,white.
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/code-a2z/code-a2z/issues/1211) |
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/code-a2z/code-a2z/issues/1182) |
 | 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/code-a2z/code-a2z/issues/1178) |
-| Connect login middleware to sign up | Medium | [#1167](https://github.com/code-a2z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/code-a2z/code-a2z/issues/1116) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/code-a2z/code-a2z/issues/788) |
 | 📃: Notes app | Medium | [#249](https://github.com/code-a2z/code-a2z/issues/249) |
@@ -194,6 +193,7 @@ Accessibility features like dark mode,white.
 | 📃: Video Streaming Server | Medium | [#30](https://github.com/code-a2z/code-a2z/issues/30) |
 | Setup standalone Socket.IO server for real-time chat | Hard | [#1378](https://github.com/code-a2z/code-a2z/issues/1378) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/code-a2z/code-a2z/issues/1332) |
+| Add "Forgot Password" link on Sign In page | Hard | [#1277](https://github.com/code-a2z/code-a2z/issues/1277) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Hard | [#1001](https://github.com/code-a2z/code-a2z/issues/1001) |
 
 ---
@@ -780,7 +780,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Unrealistic / Distracting Image Hover Effect | Easy | [#93](https://github.com/Sahilll94/Travel-Book/issues/93) |
-| Create `src/utils` Directory for Common Helper Functions | Easy | [#91](https://github.com/Sahilll94/Travel-Book/issues/91) |
+| docs: add environment variables summary section | Medium | [#127](https://github.com/Sahilll94/Travel-Book/pull/127) |
 | Add Smart Search with Auto-Suggestions for Travel Stories | Medium | [#126](https://github.com/Sahilll94/Travel-Book/issues/126) |
 | Fixed Profile Picture not loading Error, Implemented uniform navbar and footer | Medium | [#125](https://github.com/Sahilll94/Travel-Book/pull/125) |
 | Add social media icons to ContributorsFooter | Medium | [#123](https://github.com/Sahilll94/Travel-Book/pull/123) |
@@ -917,7 +917,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create pull request template for contributions | Medium | [#125](https://github.com/SamXop123/RigCrafter/pull/125) |
 | <Component> Add more GPU components | Hard | [#113](https://github.com/SamXop123/RigCrafter/issues/113) |
 | <Component> Add more RAM Components | Hard | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
 
@@ -1493,17 +1492,22 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: define latency SLOs for AI story generation pipelinedocs: define latency SLOs | Easy | [#399](https://github.com/IndieHub25/GroqTales/pull/399) |
-| chore: update config, deps, and project docs | Easy | [#394](https://github.com/IndieHub25/GroqTales/pull/394) |
+| Fix/idempotent mint clean | Medium | [#434](https://github.com/IndieHub25/GroqTales/pull/434) |
+| Interactivity from user | Medium | [#432](https://github.com/IndieHub25/GroqTales/issues/432) |
+| Fixes #305 - Optimize Framer Motion Animations | Medium | [#431](https://github.com/IndieHub25/GroqTales/pull/431) |
+| feat: implement ai remix story functionality (Fixes #413) | Medium | [#430](https://github.com/IndieHub25/GroqTales/pull/430) |
+| Feature/monad testnet viem | Medium | [#429](https://github.com/IndieHub25/GroqTales/pull/429) |
+| Automate the task adding the lable OSCG to  issue and PR | Medium | [#428](https://github.com/IndieHub25/GroqTales/issues/428) |
+| OPSC tags not present | Medium | [#427](https://github.com/IndieHub25/GroqTales/issues/427) |
+| fix: Buy Now button navigation and NFT detail page (#292) | Medium | [#426](https://github.com/IndieHub25/GroqTales/pull/426) |
+| "Read Next" (Related Stories) Section | Medium | [#425](https://github.com/IndieHub25/GroqTales/issues/425) |
+| Add a "Scroll to Top" Button for Long Stories | Medium | [#424](https://github.com/IndieHub25/GroqTales/issues/424) |
+| Implement Reading Progress Bar | Medium | [#423](https://github.com/IndieHub25/GroqTales/issues/423) |
+| Reading Preferences (Font Size & Style Toggle) | Medium | [#422](https://github.com/IndieHub25/GroqTales/issues/422) |
+| Add Estimated Reading Time & Word Count | Medium | [#421](https://github.com/IndieHub25/GroqTales/issues/421) |
+| feat: implement public shareable story pages with OpenGraph tags (Fix… | Medium | [#419](https://github.com/IndieHub25/GroqTales/pull/419) |
 | Setup Playwright E2E coverage for Wallet login and NFT Minting | Medium | [#410](https://github.com/IndieHub25/GroqTales/issues/410) |
 | Feat: Add multilingual generation support to Groq AI engine | Medium | [#409](https://github.com/IndieHub25/GroqTales/issues/409) |
-| Replace placeholder Unsplash integration with real AI Generative Art (DALL-E) | Medium | [#408](https://github.com/IndieHub25/GroqTales/issues/408) |
-| Feature: Implement API Requests for Manual Story Submissions (Text and Image) | Medium | [#407](https://github.com/IndieHub25/GroqTales/issues/407) |
-| fix: Allow comment authors to delete their own comments | Medium | [#406](https://github.com/IndieHub25/GroqTales/issues/406) |
-| Add active link styling to navbar | Medium | [#405](https://github.com/IndieHub25/GroqTales/pull/405) |
-| Feature Request: Add Dedicated Contributors Page with Paginated Contributor Cards | Medium | [#404](https://github.com/IndieHub25/GroqTales/issues/404) |
-| feat: Add "Copy Story" button to generated story output panels | Medium | [#401](https://github.com/IndieHub25/GroqTales/pull/401) |
-| Enhancement: Implement Global Error Boundary (#377) | Medium | [#393](https://github.com/IndieHub25/GroqTales/pull/393) |
 | feat: synchronize reading progress UI, fix Chronicles panel, and reso… | Medium | [#388](https://github.com/IndieHub25/GroqTales/pull/388) |
 
 ---
@@ -1620,6 +1624,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a dark mode toggle button | Medium | [#953](https://github.com/Premkolte/AnimateHub/issues/953) |
 | fixed issue 951 : Improved the UI/UX of privacy policy page | Medium | [#952](https://github.com/Premkolte/AnimateHub/pull/952) |
 | Update README File Structure Section After Refactor | Medium | [#950](https://github.com/Premkolte/AnimateHub/issues/950) |
 | Organize Documentation Files into Dedicated /docs Directory | Medium | [#949](https://github.com/Premkolte/AnimateHub/issues/949) |
