@@ -16,7 +16,6 @@
 |----------|----------------|---------|
 | Removing locals files from .env file | Medium | [#290](https://github.com/iaadillatif/techxninjas-client/pull/290) |
 | Add Claude Code GitHub Workflow | Medium | [#289](https://github.com/iaadillatif/techxninjas-client/issues/289) |
-| fix: notification panel logic, placement, and Supabase redirect handling | Medium | [#287](https://github.com/iaadillatif/techxninjas-client/pull/287) |
 | Feature Request: Add a Gamified Leaderboard to Ignite Daily Engagement & Community | Medium | [#285](https://github.com/iaadillatif/techxninjas-client/issues/285) |
 | Buttons on Home Page (“Build Projects”, “Free Certificates”, etc.) are not clickable | Medium | [#282](https://github.com/iaadillatif/techxninjas-client/issues/282) |
 | Feature: Secure Notifications Center with RLS and Theming (Closes Issue #31) | Medium | [#281](https://github.com/iaadillatif/techxninjas-client/pull/281) |
@@ -44,6 +43,7 @@
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
 | course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
 | Template | Medium | [#253](https://github.com/iaadillatif/techxninjas-client/pull/253) |
+| Performance | Medium | [#252](https://github.com/iaadillatif/techxninjas-client/pull/252) |
 
 ---
 
@@ -168,6 +168,7 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update pollination apis as new doc | Easy | [#126](https://github.com/huamanraj/aitoolbox.software/issues/126) |
+| Pollination | Medium | [#127](https://github.com/huamanraj/aitoolbox.software/pull/127) |
 
 ---
 
@@ -252,33 +253,31 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improved CONTRIBUTING.md | Easy | [#4025](https://github.com/OWASP/Nest/pull/4025) |
-| feat(frontend): implement Terms of Service page | Easy | [#4017](https://github.com/OWASP/Nest/pull/4017) |
-| Implement Robust Module Date Validation When Program Dates Change | Medium | [#4045](https://github.com/OWASP/Nest/issues/4045) |
-| Fix frontend build failure caused by codegen config | Medium | [#4044](https://github.com/OWASP/Nest/issues/4044) |
-| NestBot AI Assistant Enhancements into | Medium | [#4043](https://github.com/OWASP/Nest/issues/4043) |
-| Add content_type table to the dump data command | Medium | [#4042](https://github.com/OWASP/Nest/pull/4042) |
-| Bug: Event.upcoming_events() silently excludes today's events across 6 endpoints | Medium | [#4041](https://github.com/OWASP/Nest/issues/4041) |
-| fix(a11y): improve footer section heading semantics | Medium | [#4040](https://github.com/OWASP/Nest/issues/4040) |
-| perf(frontend): Convert home page to Server Component for SSR support | Medium | [#4037](https://github.com/OWASP/Nest/issues/4037) |
-| Add Program Deletion with Cascade Module Removal | Medium | [#4036](https://github.com/OWASP/Nest/issues/4036) |
-| Refactor: Enforce strict equality in frontend components | Medium | [#4035](https://github.com/OWASP/Nest/issues/4035) |
-| chore(deps): bump isomorphic-dompurify from 2.36.0 to 3.0.0 in /frontend | Medium | [#4034](https://github.com/OWASP/Nest/pull/4034) |
-| Feature: Add Gemini LLM Provider Support to AI Agent Configuration | Medium | [#4031](https://github.com/OWASP/Nest/issues/4031) |
-| Improve module visibility show up to 6 modules before displaying “Show more” | Medium | [#4029](https://github.com/OWASP/Nest/issues/4029) |
-| Move Django session backend from database to Redis cache | Medium | [#4028](https://github.com/OWASP/Nest/issues/4028) |
-| Configure Gunicorn with production-appropriate worker and timeout settings | Medium | [#4027](https://github.com/OWASP/Nest/issues/4027) |
-| Refactor: Rename GitHub repository node fields to recent_issues and recent_releases | Medium | [#4026](https://github.com/OWASP/Nest/issues/4026) |
-| Bug: OpenAI API Exception Handling Too Broad - Masks Auth, Rate Limit, and Model Errors | Medium | [#4024](https://github.com/OWASP/Nest/issues/4024) |
-| feat: implement module ordering with drag-and-drop support | Medium | [#4020](https://github.com/OWASP/Nest/pull/4020) |
-| Anyone is able to access the Module Issues page in Mentorship Portal | Medium | [#4018](https://github.com/OWASP/Nest/issues/4018) |
-| Refactor create_chunks_and_embeddings: Type Safety, Rate Limiting, and DB Optimization | Medium | [#4016](https://github.com/OWASP/Nest/issues/4016) |
-| refactor: Migrate mentorship GraphQL nodes to use field decorators | Medium | [#4013](https://github.com/OWASP/Nest/issues/4013) |
-| Consolidate Duplicate `apolloClient.ts`  Files | Medium | [#4006](https://github.com/OWASP/Nest/issues/4006) |
-| Add theme toggle with system preference and persistence | Medium | [#4005](https://github.com/OWASP/Nest/pull/4005) |
-| Rename RepositoryNode.releases to recent_releases | Medium | [#3994](https://github.com/OWASP/Nest/issues/3994) |
-| Rename RepositoryNode issues/releases to recent_issues / recent_releases | Medium | [#3993](https://github.com/OWASP/Nest/issues/3993) |
-| Enable real project health score in production | Medium | [#3992](https://github.com/OWASP/Nest/issues/3992) |
+| Implement Project Subscriptions & Subscription Frontend UI | Medium | [#4145](https://github.com/OWASP/Nest/issues/4145) |
+| Extends list_events endpoint with filtering by multiple categories | Medium | [#4144](https://github.com/OWASP/Nest/pull/4144) |
+| feat: Extend Chapters Page Search with Country Filter and Sort Options | Medium | [#4143](https://github.com/OWASP/Nest/pull/4143) |
+| feat: implement filter by project type | Medium | [#4141](https://github.com/OWASP/Nest/pull/4141) |
+| Added login and name in ordering list-members literal and wrote unit tests for new feature | Medium | [#4140](https://github.com/OWASP/Nest/pull/4140) |
+| bug: strict validation for facet_filters list in core validators | Medium | [#4138](https://github.com/OWASP/Nest/issues/4138) |
+| fix:zap baseline security headers | Medium | [#4137](https://github.com/OWASP/Nest/pull/4137) |
+| Replace Community dropdown with direct link and add Snapshots section | Medium | [#4136](https://github.com/OWASP/Nest/pull/4136) |
+| feat(api): add type filter to list_projects endpoint | Medium | [#4134](https://github.com/OWASP/Nest/pull/4134) |
+| fix(#4041): Include today's events in upcoming_events() query | Medium | [#4132](https://github.com/OWASP/Nest/pull/4132) |
+| perf(frontend): convert home page to server component for better SSR | Medium | [#4131](https://github.com/OWASP/Nest/pull/4131) |
+| Add name and login ordering support to list_members endpoint | Medium | [#4130](https://github.com/OWASP/Nest/pull/4130) |
+| fix: disable search auto-focus on mobile/touch devices | Medium | [#4128](https://github.com/OWASP/Nest/pull/4128) |
+| fix: remove redundant tooltip and show placeholder for empty labels | Medium | [#4127](https://github.com/OWASP/Nest/pull/4127) |
+| feat: Algolia config error handling | Medium | [#4126](https://github.com/OWASP/Nest/pull/4126) |
+| fix: resolve footer layout break between 647px and 764px | Medium | [#4118](https://github.com/OWASP/Nest/pull/4118) |
+| Fix staging post-migration ZAP findings | Medium | [#4115](https://github.com/OWASP/Nest/pull/4115) |
+| Fix staging ZAP baseline scan by migrating security headers | Medium | [#4114](https://github.com/OWASP/Nest/pull/4114) |
+| fix: improve OpenAI error handling with specific exception types | Medium | [#4111](https://github.com/OWASP/Nest/pull/4111) |
+| fix: remove redundant tooltip and show placeholder for empty labels | Medium | [#4110](https://github.com/OWASP/Nest/pull/4110) |
+| feat: add country filter and sort to chapters | Medium | [#4109](https://github.com/OWASP/Nest/pull/4109) |
+| Add Windows Contributor Onboarding Guide | Medium | [#4108](https://github.com/OWASP/Nest/issues/4108) |
+| Resolve staging scan issues after migration | Medium | [#4106](https://github.com/OWASP/Nest/pull/4106) |
+| feat/move-main-page-search-bar | Medium | [#4105](https://github.com/OWASP/Nest/pull/4105) |
+| This PR fixes an issue where fetchCsrfTokenServer.ts could return cached CSRF tokens | Medium | [#4104](https://github.com/OWASP/Nest/pull/4104) |
 
 ---
 
@@ -337,7 +336,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/code-a2z/code-a2z/issues/1211) |
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/code-a2z/code-a2z/issues/1182) |
 | 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/code-a2z/code-a2z/issues/1178) |
-| Connect login middleware to sign up | Medium | [#1167](https://github.com/code-a2z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/code-a2z/code-a2z/issues/1116) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/code-a2z/code-a2z/issues/788) |
 | 📃: Notes app | Medium | [#249](https://github.com/code-a2z/code-a2z/issues/249) |
@@ -348,6 +346,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 📃: Video Streaming Server | Medium | [#30](https://github.com/code-a2z/code-a2z/issues/30) |
 | Setup standalone Socket.IO server for real-time chat | Hard | [#1378](https://github.com/code-a2z/code-a2z/issues/1378) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/code-a2z/code-a2z/issues/1332) |
+| Add "Forgot Password" link on Sign In page | Hard | [#1277](https://github.com/code-a2z/code-a2z/issues/1277) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Hard | [#1001](https://github.com/code-a2z/code-a2z/issues/1001) |
 
 ---
@@ -564,19 +563,12 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue : Hardcoded API URL in Component | Easy | [#474](https://github.com/Dipanita45/HEALCONNECT/issues/474) |
-| console.log leaks Firebase auth user object in appointments.jsx | Medium | [#559](https://github.com/Dipanita45/HEALCONNECT/issues/559) |
-| next.config.js security headers overwritten by second headers assignment | Medium | [#558](https://github.com/Dipanita45/HEALCONNECT/issues/558) |
-| /api/patients/[id] and /api/alerts/[id] lack authentication, exposing patient data | Medium | [#557](https://github.com/Dipanita45/HEALCONNECT/issues/557) |
-| appointments.jsx missing useContext and useRouter imports causing runtime crash | Medium | [#556](https://github.com/Dipanita45/HEALCONNECT/issues/556) |
-| rateLimit middleware called without invocation in API routes causing bypass | Medium | [#555](https://github.com/Dipanita45/HEALCONNECT/issues/555) |
-| feat: implement consistent loading states and skeleton loaders | Medium | [#552](https://github.com/Dipanita45/HEALCONNECT/pull/552) |
-| Non-functional "Start Chat" button on Terms & Conditions page | Medium | [#546](https://github.com/Dipanita45/HEALCONNECT/issues/546) |
-| Non-functional Voice Input Button in Support Chatbot | Medium | [#545](https://github.com/Dipanita45/HEALCONNECT/issues/545) |
-| Replace generic browser alerts with custom themed modals and toasts | Medium | [#544](https://github.com/Dipanita45/HEALCONNECT/issues/544) |
-| Add Functional Dark Mode Toggle for Improved Accessibility and UX | Medium | [#540](https://github.com/Dipanita45/HEALCONNECT/issues/540) |
-| Footer Not Visually Distinguishable from Main Content | Medium | [#539](https://github.com/Dipanita45/HEALCONNECT/issues/539) |
-| Issue : Missing Loading States for Async Operations | Medium | [#476](https://github.com/Dipanita45/HEALCONNECT/issues/476) |
+| "Fix: apply limit query parameter to getPatients API" | Medium | [#616](https://github.com/Dipanita45/HEALCONNECT/pull/616) |
+| Update profile.js with loading and error handling | Medium | [#615](https://github.com/Dipanita45/HEALCONNECT/pull/615) |
+| Fix the Offlinefallback in `offline.js` | Medium | [#614](https://github.com/Dipanita45/HEALCONNECT/pull/614) |
+| API Pagination Limit Ignored in `/api/patients` | Medium | [#606](https://github.com/Dipanita45/HEALCONNECT/issues/606) |
+| solved API Pagination Limit Ignored | Medium | [#605](https://github.com/Dipanita45/HEALCONNECT/pull/605) |
+| UI Improvements, Formatting Cleanup & FAQ Index Fix | Medium | [#579](https://github.com/Dipanita45/HEALCONNECT/pull/579) |
 
 ---
 
@@ -2096,24 +2088,6 @@ Fast Workflow Tools
 
 ---
 
-## 📌 Project: WildQuest
-
-📝 **Description:** WildQuest is an interactive platform with quizzes, games, and articles to raise awareness about endangered wildlife and conservation.Also it provides the feature of virtual adoption of wild and endangered animals.
-
-🔗 [View Project](https://github.com/Nayanika1402/WildQuest)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, Firebase
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Social Sharing Feature for Adopted Animals | Medium | [#33](https://github.com/Nayanika1402/WildQuest/issues/33) |
-
----
-
 ## 📌 Project: EasyGoDocs
 
 📝 **Description:** EasyGoDocs is an open-source project dedicated to making documentation reading and authoring effortless, beautiful, and accessible for everyone. Were excited to have you help us expand our library of documentation across different fields.
@@ -2148,6 +2122,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fixed the dashboard loading | Medium | [#133](https://github.com/prasoonk1204/BreatheEasy/pull/133) |
+| Fix/language translate gibberish | Medium | [#132](https://github.com/prasoonk1204/BreatheEasy/pull/132) |
 | Export to PDF/CSV feature enabled - Resolves #130 | Medium | [#131](https://github.com/prasoonk1204/BreatheEasy/pull/131) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
 | Add containerized local development workflow using Docker & Docker Compose | Medium | [#112](https://github.com/prasoonk1204/BreatheEasy/issues/112) |
@@ -2314,7 +2290,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| BUG: UI Inconsistencies in About Page | Medium | [#235](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/235) |
 | FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 
