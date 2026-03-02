@@ -36,13 +36,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add support to various AI models | Medium | [#42](https://github.com/EkaAI-Tech/term/issues/42) |
 | Addition of automate issue create message | Medium | [#41](https://github.com/EkaAI-Tech/term/issues/41) |
 | Add SECURITY.md file | Medium | [#40](https://github.com/EkaAI-Tech/term/issues/40) |
 | Added Context in the terminal | Medium | [#39](https://github.com/EkaAI-Tech/term/pull/39) |
-| feat: Add basic markdown rendering for AI responses #21 | Medium | [#34](https://github.com/EkaAI-Tech/term/pull/34) |
-| Added files for Pull request  template | Medium | [#31](https://github.com/EkaAI-Tech/term/pull/31) |
-| clickable links | Medium | [#29](https://github.com/EkaAI-Tech/term/issues/29) |
 | Feature : Added support of `ls` and 'la` command | Medium | [#20](https://github.com/EkaAI-Tech/term/pull/20) |
 
 ---
