@@ -917,8 +917,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| More Rams | Medium | [#127](https://github.com/SamXop123/RigCrafter/pull/127) |
 | <Component> Add more GPU components | Hard | [#113](https://github.com/SamXop123/RigCrafter/issues/113) |
-| <Component> Add more RAM Components | Hard | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
 
 ---
 
@@ -1492,23 +1492,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix/idempotent mint clean | Medium | [#434](https://github.com/IndieHub25/GroqTales/pull/434) |
-| Interactivity from user | Medium | [#432](https://github.com/IndieHub25/GroqTales/issues/432) |
-| Fixes #305 - Optimize Framer Motion Animations | Medium | [#431](https://github.com/IndieHub25/GroqTales/pull/431) |
-| feat: implement ai remix story functionality (Fixes #413) | Medium | [#430](https://github.com/IndieHub25/GroqTales/pull/430) |
-| Feature/monad testnet viem | Medium | [#429](https://github.com/IndieHub25/GroqTales/pull/429) |
-| Automate the task adding the lable OSCG to  issue and PR | Medium | [#428](https://github.com/IndieHub25/GroqTales/issues/428) |
-| OPSC tags not present | Medium | [#427](https://github.com/IndieHub25/GroqTales/issues/427) |
-| fix: Buy Now button navigation and NFT detail page (#292) | Medium | [#426](https://github.com/IndieHub25/GroqTales/pull/426) |
-| "Read Next" (Related Stories) Section | Medium | [#425](https://github.com/IndieHub25/GroqTales/issues/425) |
-| Add a "Scroll to Top" Button for Long Stories | Medium | [#424](https://github.com/IndieHub25/GroqTales/issues/424) |
-| Implement Reading Progress Bar | Medium | [#423](https://github.com/IndieHub25/GroqTales/issues/423) |
-| Reading Preferences (Font Size & Style Toggle) | Medium | [#422](https://github.com/IndieHub25/GroqTales/issues/422) |
-| Add Estimated Reading Time & Word Count | Medium | [#421](https://github.com/IndieHub25/GroqTales/issues/421) |
 | feat: implement public shareable story pages with OpenGraph tags (Fix… | Medium | [#419](https://github.com/IndieHub25/GroqTales/pull/419) |
 | Setup Playwright E2E coverage for Wallet login and NFT Minting | Medium | [#410](https://github.com/IndieHub25/GroqTales/issues/410) |
 | Feat: Add multilingual generation support to Groq AI engine | Medium | [#409](https://github.com/IndieHub25/GroqTales/issues/409) |
 | feat: synchronize reading progress UI, fix Chronicles panel, and reso… | Medium | [#388](https://github.com/IndieHub25/GroqTales/pull/388) |
+| Chore: Refactor Story Creation Flow | Hard | [#443](https://github.com/IndieHub25/GroqTales/pull/443) |
 
 ---
 
@@ -1603,6 +1591,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fixed the dashboard loading | Medium | [#133](https://github.com/prasoonk1204/BreatheEasy/pull/133) |
+| Fix/language translate gibberish | Medium | [#132](https://github.com/prasoonk1204/BreatheEasy/pull/132) |
 | Export to PDF/CSV feature enabled - Resolves #130 | Medium | [#131](https://github.com/prasoonk1204/BreatheEasy/pull/131) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
 | Add containerized local development workflow using Docker & Docker Compose | Medium | [#112](https://github.com/prasoonk1204/BreatheEasy/issues/112) |
