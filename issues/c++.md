@@ -14,14 +14,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue : Hardcoded API URL in Component | Easy | [#474](https://github.com/Dipanita45/HEALCONNECT/issues/474) |
-| feat: implement consistent loading states and skeleton loaders | Medium | [#552](https://github.com/Dipanita45/HEALCONNECT/pull/552) |
-| Non-functional "Start Chat" button on Terms & Conditions page | Medium | [#546](https://github.com/Dipanita45/HEALCONNECT/issues/546) |
-| Non-functional Voice Input Button in Support Chatbot | Medium | [#545](https://github.com/Dipanita45/HEALCONNECT/issues/545) |
-| Replace generic browser alerts with custom themed modals and toasts | Medium | [#544](https://github.com/Dipanita45/HEALCONNECT/issues/544) |
-| Add Functional Dark Mode Toggle for Improved Accessibility and UX | Medium | [#540](https://github.com/Dipanita45/HEALCONNECT/issues/540) |
-| Footer Not Visually Distinguishable from Main Content | Medium | [#539](https://github.com/Dipanita45/HEALCONNECT/issues/539) |
-| Issue : Missing Loading States for Async Operations | Medium | [#476](https://github.com/Dipanita45/HEALCONNECT/issues/476) |
+| "Fix: apply limit query parameter to getPatients API" | Medium | [#616](https://github.com/Dipanita45/HEALCONNECT/pull/616) |
+| Update profile.js with loading and error handling | Medium | [#615](https://github.com/Dipanita45/HEALCONNECT/pull/615) |
+| Fix the Offlinefallback in `offline.js` | Medium | [#614](https://github.com/Dipanita45/HEALCONNECT/pull/614) |
+| API Pagination Limit Ignored in `/api/patients` | Medium | [#606](https://github.com/Dipanita45/HEALCONNECT/issues/606) |
+| solved API Pagination Limit Ignored | Medium | [#605](https://github.com/Dipanita45/HEALCONNECT/pull/605) |
+| UI Improvements, Formatting Cleanup & FAQ Index Fix | Medium | [#579](https://github.com/Dipanita45/HEALCONNECT/pull/579) |
 
 ---
 
@@ -61,7 +59,7 @@
 |----------|----------------|---------|
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
-| feat: implement core graph algorithms (BFS, DFS, Dijkstra, MST, Topological Sort, Bellman-Ford) | Medium | [#198](https://github.com/SharonIV0x86/CinderPeak/pull/198) |
+| The "Essential" Feature: Graph Serialization & I/O Module | Medium | [#199](https://github.com/SharonIV0x86/CinderPeak/issues/199) |
 | refactor(adjacency-storage): replace LOG_ macro with policy handler logging | Medium | [#193](https://github.com/SharonIV0x86/CinderPeak/pull/193) |
 
 ---
