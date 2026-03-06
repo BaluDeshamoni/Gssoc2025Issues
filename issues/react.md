@@ -183,6 +183,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update pollination apis as new doc | Easy | [#126](https://github.com/huamanraj/aitoolbox.software/issues/126) |
+| New Logo | Medium | [#128](https://github.com/huamanraj/aitoolbox.software/pull/128) |
 | Pollination | Medium | [#127](https://github.com/huamanraj/aitoolbox.software/pull/127) |
 
 ---
@@ -201,6 +202,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Security issue: possible command injection in GitHub Actions workflow | Medium | [#140](https://github.com/amitkumardemo/EdgeCareer/issues/140) |
 | feat: enhance footer logo resolution and text styling (#101) | Medium | [#137](https://github.com/amitkumardemo/EdgeCareer/pull/137) |
 | 🔒 Implement Comprehensive Input Validation and Sanitization | Medium | [#136](https://github.com/amitkumardemo/EdgeCareer/issues/136) |
 | ui enhancement | Medium | [#135](https://github.com/amitkumardemo/EdgeCareer/issues/135) |
@@ -223,7 +225,6 @@
 | Add scroll-to-top behavior on clicking the logo | Medium | [#115](https://github.com/amitkumardemo/EdgeCareer/issues/115) |
 | Enhanced the Visual Formatting of CODE_OF_CONDUCT.md file | Medium | [#113](https://github.com/amitkumardemo/EdgeCareer/pull/113) |
 | feat: add AI-powered career guidance feature with new page and lib module | Medium | [#109](https://github.com/amitkumardemo/EdgeCareer/pull/109) |
-| Fix: Improve icon visibility for theme toggle (issue #63) | Medium | [#108](https://github.com/amitkumardemo/EdgeCareer/pull/108) |
 
 ---
 
@@ -270,26 +271,32 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve error handling for missing Algolia configuration | Easy | [#4107](https://github.com/OWASP/Nest/issues/4107) |
-| Add make help target with self-documenting Makefile comments | Easy | [#4103](https://github.com/OWASP/Nest/pull/4103) |
-| Title: Update troubleshooting about nest-frontend OOM issue | Easy | [#4102](https://github.com/OWASP/Nest/pull/4102) |
-| docs: add local GitHub OAuth setup instructions to CONTRIBUTING.md | Easy | [#4092](https://github.com/OWASP/Nest/pull/4092) |
-| added automated "make help" target to make makefile commands discoverable | Easy | [#4091](https://github.com/OWASP/Nest/pull/4091) |
-| This PR adds an automated make help target that scans all Makefiles | Easy | [#4088](https://github.com/OWASP/Nest/pull/4088) |
-| docs: add/improve overview pgs for backend, frontend, schema, & SDKs | Easy | [#4075](https://github.com/OWASP/Nest/pull/4075) |
-| fix: remove redundant tooltip and show placeholder for empty labels | Medium | [#4110](https://github.com/OWASP/Nest/pull/4110) |
+| Migrate backend to ECS | Easy | [#4187](https://github.com/OWASP/Nest/pull/4187) |
+| Move env variables documentation to backend/frontend README files | Easy | [#4185](https://github.com/OWASP/Nest/pull/4185) |
+| Add Architectural Diagrams for OWASP Nest | Medium | [#4188](https://github.com/OWASP/Nest/issues/4188) |
+| feat: add country filter and sorting options in Chapters Page | Medium | [#4186](https://github.com/OWASP/Nest/pull/4186) |
+| refactor: simplify Event.parse_dates method | Medium | [#4176](https://github.com/OWASP/Nest/issues/4176) |
+| refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#4175](https://github.com/OWASP/Nest/issues/4175) |
+| fix: enforce strict equality and optimize skeleton rendering logic | Medium | [#4174](https://github.com/OWASP/Nest/pull/4174) |
+| feat(ai): add collaborative multi-agent flow for low-confidence queries | Medium | [#4170](https://github.com/OWASP/Nest/pull/4170) |
+| Added category filter and unified sorting to Projects search component | Medium | [#4168](https://github.com/OWASP/Nest/pull/4168) |
+| Implement GraphQL Query Performance Monitoring and Optimization | Medium | [#4161](https://github.com/OWASP/Nest/issues/4161) |
+| feat: Move Main Page Search to Global Navigation & Simplify Search UI/UX | Medium | [#4160](https://github.com/OWASP/Nest/pull/4160) |
+| fix(footer): open internal navigation links in same tab | Medium | [#4159](https://github.com/OWASP/Nest/pull/4159) |
+| Standardize Date/Time Handling Across Frontend to Eliminate Timezone Regressions | Medium | [#4158](https://github.com/OWASP/Nest/issues/4158) |
+| Implement Project Subscriptions & Subscription Frontend UI | Medium | [#4145](https://github.com/OWASP/Nest/issues/4145) |
+| feat: Extend Chapters Page Search with Country Filter and Sort Options | Medium | [#4143](https://github.com/OWASP/Nest/pull/4143) |
+| Added login and name in ordering list-members literal and wrote unit tests for new feature | Medium | [#4140](https://github.com/OWASP/Nest/pull/4140) |
+| bug: strict validation for facet_filters list in core validators | Medium | [#4138](https://github.com/OWASP/Nest/issues/4138) |
+| fix(#4041): Include today's events in upcoming_events() query | Medium | [#4132](https://github.com/OWASP/Nest/pull/4132) |
+| perf(frontend): convert home page to server component for better SSR | Medium | [#4131](https://github.com/OWASP/Nest/pull/4131) |
+| Add name and login ordering support to list_members endpoint | Medium | [#4130](https://github.com/OWASP/Nest/pull/4130) |
+| fix: disable search auto-focus on mobile/touch devices | Medium | [#4128](https://github.com/OWASP/Nest/pull/4128) |
+| feat: Algolia config error handling | Medium | [#4126](https://github.com/OWASP/Nest/pull/4126) |
+| fix: resolve footer layout break between 647px and 764px | Medium | [#4118](https://github.com/OWASP/Nest/pull/4118) |
+| fix: improve OpenAI error handling with specific exception types | Medium | [#4111](https://github.com/OWASP/Nest/pull/4111) |
 | feat: add country filter and sort to chapters | Medium | [#4109](https://github.com/OWASP/Nest/pull/4109) |
 | Add Windows Contributor Onboarding Guide | Medium | [#4108](https://github.com/OWASP/Nest/issues/4108) |
-| Resolve staging scan issues after migration | Medium | [#4106](https://github.com/OWASP/Nest/pull/4106) |
-| feat/move-main-page-search-bar | Medium | [#4105](https://github.com/OWASP/Nest/pull/4105) |
-| This PR fixes an issue where fetchCsrfTokenServer.ts could return cached CSRF tokens | Medium | [#4104](https://github.com/OWASP/Nest/pull/4104) |
-| Implement security headers for ZAP compliance in frontend and backend | Medium | [#4101](https://github.com/OWASP/Nest/pull/4101) |
-| Replace Community dropdown with single link to /community page | Medium | [#4100](https://github.com/OWASP/Nest/pull/4100) |
-| fix: apply pointer cursor to clickable controls globally | Medium | [#4099](https://github.com/OWASP/Nest/pull/4099) |
-| fix: add cursor-pointer to avatar and sign-out button (#4084) | Medium | [#4098](https://github.com/OWASP/Nest/pull/4098) |
-| refactor: replace manual get-then-save pattern with update_or_create in OWASP models | Medium | [#4066](https://github.com/OWASP/Nest/issues/4066) |
-| bug: Chapter.bulk_save() skips location data generation due to save() side effects | Medium | [#4063](https://github.com/OWASP/Nest/issues/4063) |
-| False positive spelling errors in Django migrations | Medium | [#4059](https://github.com/OWASP/Nest/issues/4059) |
 
 ---
 
@@ -605,6 +612,8 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| enhance: Add image upload cropping to Profile | Medium | [#296](https://github.com/Devasy/splitwiser/pull/296) |
+| style: Consistent hover/focus states across buttons | Medium | [#295](https://github.com/Devasy/splitwiser/pull/295) |
 | Add skeleton loading to HomeScreen | Medium | [#294](https://github.com/Devasy/splitwiser/pull/294) |
 | ux: Add skeleton loading to mobile HomeScreen | Medium | [#293](https://github.com/Devasy/splitwiser/pull/293) |
 | ux: Complete skeleton loading system for Friends page | Medium | [#292](https://github.com/Devasy/splitwiser/pull/292) |
@@ -633,8 +642,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
 | ux: Add ErrorBoundary with retry for API failures | Medium | [#249](https://github.com/Devasy/splitwiser/pull/249) |
 | Implement Splitwise import functionality | Medium | [#239](https://github.com/Devasy/splitwiser/pull/239) |
-| Restore EAS configuration files | Medium | [#210](https://github.com/Devasy/splitwiser/pull/210) |
-| Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy/splitwiser/pull/209) |
 
 ---
 
@@ -1189,7 +1196,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Added CONTRIBUTING.md file | Medium | [#28](https://github.com/byteom/Interview01/pull/28) |
 | Add a Navbar for Easy Section Access: | Medium | [#24](https://github.com/byteom/Interview01/issues/24) |
 | Enhance Stats & Testimonials with Engaging Animations | Medium | [#23](https://github.com/byteom/Interview01/issues/23) |
 | testing | Medium | [#22](https://github.com/byteom/Interview01/issues/22) |
@@ -1431,6 +1437,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Unrealistic / Distracting Image Hover Effect | Easy | [#93](https://github.com/Sahilll94/Travel-Book/issues/93) |
+| Create `src/utils` Directory for Common Helper Functions | Easy | [#91](https://github.com/Sahilll94/Travel-Book/issues/91) |
 | docs: add environment variables summary section | Medium | [#127](https://github.com/Sahilll94/Travel-Book/pull/127) |
 | Add Smart Search with Auto-Suggestions for Travel Stories | Medium | [#126](https://github.com/Sahilll94/Travel-Book/issues/126) |
 | Fixed Profile Picture not loading Error, Implemented uniform navbar and footer | Medium | [#125](https://github.com/Sahilll94/Travel-Book/pull/125) |
@@ -1497,8 +1504,16 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| <Component> Add more GPU components | Hard | [#113](https://github.com/SamXop123/RigCrafter/issues/113) |
-| <Component> Add more RAM Components | Hard | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
+| 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
+| 🛠️ Build guides 29, 30 | Medium | [#139](https://github.com/SamXop123/RigCrafter/issues/139) |
+| 🛠️ Build Guides 26, 27, 28 | Medium | [#138](https://github.com/SamXop123/RigCrafter/issues/138) |
+| 🛠️ Build Guides 23, 24, 25 | Medium | [#137](https://github.com/SamXop123/RigCrafter/issues/137) |
+| 🛠️ Build Guides 20, 21, 22 | Medium | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
+| 🛠️ Build Guides 17, 18, 19 | Medium | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
+| 🛠 Build Guides 14, 15, 16 | Medium | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
+| 🛠 Build Guides 11, 12, 13 | Medium | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
+| 🛠 Build Guides 8, 9, 10 | Medium | [#132](https://github.com/SamXop123/RigCrafter/issues/132) |
+| 🛠 Build Guides 2, 5, 7 | Medium | [#130](https://github.com/SamXop123/RigCrafter/issues/130) |
 
 ---
 
@@ -1927,7 +1942,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the production-dependencies group across 1 directory with 11 updates | Medium | [#137](https://github.com/Xenonesis/code-guardian-report/pull/137) |
+| chore(deps): bump the production-dependencies group across 1 directory with 14 updates | Medium | [#138](https://github.com/Xenonesis/code-guardian-report/pull/138) |
 | Feature: Add Contact Us Footer Section (#122) | Medium | [#136](https://github.com/Xenonesis/code-guardian-report/pull/136) |
 | Fix: Notification Panel Overlay Visibility (#121) | Medium | [#135](https://github.com/Xenonesis/code-guardian-report/pull/135) |
 | Fix: Mobile Button Overlap in Legal Section (#120) | Medium | [#134](https://github.com/Xenonesis/code-guardian-report/pull/134) |
@@ -2443,23 +2458,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix/idempotent mint clean | Medium | [#434](https://github.com/IndieHub25/GroqTales/pull/434) |
-| Interactivity from user | Medium | [#432](https://github.com/IndieHub25/GroqTales/issues/432) |
-| Fixes #305 - Optimize Framer Motion Animations | Medium | [#431](https://github.com/IndieHub25/GroqTales/pull/431) |
-| feat: implement ai remix story functionality (Fixes #413) | Medium | [#430](https://github.com/IndieHub25/GroqTales/pull/430) |
-| Feature/monad testnet viem | Medium | [#429](https://github.com/IndieHub25/GroqTales/pull/429) |
-| Automate the task adding the lable OSCG to  issue and PR | Medium | [#428](https://github.com/IndieHub25/GroqTales/issues/428) |
-| OPSC tags not present | Medium | [#427](https://github.com/IndieHub25/GroqTales/issues/427) |
-| fix: Buy Now button navigation and NFT detail page (#292) | Medium | [#426](https://github.com/IndieHub25/GroqTales/pull/426) |
-| "Read Next" (Related Stories) Section | Medium | [#425](https://github.com/IndieHub25/GroqTales/issues/425) |
-| Add a "Scroll to Top" Button for Long Stories | Medium | [#424](https://github.com/IndieHub25/GroqTales/issues/424) |
-| Implement Reading Progress Bar | Medium | [#423](https://github.com/IndieHub25/GroqTales/issues/423) |
-| Reading Preferences (Font Size & Style Toggle) | Medium | [#422](https://github.com/IndieHub25/GroqTales/issues/422) |
-| Add Estimated Reading Time & Word Count | Medium | [#421](https://github.com/IndieHub25/GroqTales/issues/421) |
 | feat: implement public shareable story pages with OpenGraph tags (Fix… | Medium | [#419](https://github.com/IndieHub25/GroqTales/pull/419) |
 | Setup Playwright E2E coverage for Wallet login and NFT Minting | Medium | [#410](https://github.com/IndieHub25/GroqTales/issues/410) |
 | Feat: Add multilingual generation support to Groq AI engine | Medium | [#409](https://github.com/IndieHub25/GroqTales/issues/409) |
-| feat: synchronize reading progress UI, fix Chronicles panel, and reso… | Medium | [#388](https://github.com/IndieHub25/GroqTales/pull/388) |
+| Chore: Refactor Story Creation Flow | Hard | [#443](https://github.com/IndieHub25/GroqTales/pull/443) |
 
 ---
 
@@ -2486,24 +2488,6 @@ Fast Workflow Tools
 
 ---
 
-## 📌 Project: WildQuest
-
-📝 **Description:** WildQuest is an interactive platform with quizzes, games, and articles to raise awareness about endangered wildlife and conservation.Also it provides the feature of virtual adoption of wild and endangered animals.
-
-🔗 [View Project](https://github.com/Nayanika1402/WildQuest)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, Firebase
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Social Sharing Feature for Adopted Animals | Medium | [#33](https://github.com/Nayanika1402/WildQuest/issues/33) |
-
----
-
 ## 📌 Project: BreatheEasy
 
 📝 **Description:** BreatheEasy is an open-source project to help you monitor air quality in your area, understand pollutant levels, and get actionable health advice and improvement measures. It uses the World Air Quality Index (WAQI) API to fetch real-time AQI data and presents it in a clean, user-friendly dashboard.
@@ -2518,6 +2502,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| AQI backend APIs return HTML instead of JSON | Medium | [#134](https://github.com/prasoonk1204/BreatheEasy/issues/134) |
 | Export to PDF/CSV feature enabled - Resolves #130 | Medium | [#131](https://github.com/prasoonk1204/BreatheEasy/pull/131) |
 | Interactive FAQ Accordion | Medium | [#117](https://github.com/prasoonk1204/BreatheEasy/pull/117) |
 | Add containerized local development workflow using Docker & Docker Compose | Medium | [#112](https://github.com/prasoonk1204/BreatheEasy/issues/112) |
@@ -2539,7 +2524,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a dark mode toggle button | Medium | [#953](https://github.com/Premkolte/AnimateHub/issues/953) |
+| Set up Comprehensive Testing Suite (Vitest & Jest) | Medium | [#956](https://github.com/Premkolte/AnimateHub/issues/956) |
+| High TTI due to Synchronous Imports and Duplicate Routing | Medium | [#955](https://github.com/Premkolte/AnimateHub/issues/955) |
+| Missing Rate Limiting and Input Validation in Backend | Medium | [#954](https://github.com/Premkolte/AnimateHub/issues/954) |
 | fixed issue 951 : Improved the UI/UX of privacy policy page | Medium | [#952](https://github.com/Premkolte/AnimateHub/pull/952) |
 | Update README File Structure Section After Refactor | Medium | [#950](https://github.com/Premkolte/AnimateHub/issues/950) |
 | Organize Documentation Files into Dedicated /docs Directory | Medium | [#949](https://github.com/Premkolte/AnimateHub/issues/949) |
