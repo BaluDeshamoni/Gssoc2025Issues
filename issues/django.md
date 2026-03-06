@@ -14,31 +14,32 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Migrate backend to ECS | Easy | [#4187](https://github.com/OWASP/Nest/pull/4187) |
+| Move env variables documentation to backend/frontend README files | Easy | [#4185](https://github.com/OWASP/Nest/pull/4185) |
+| Add Architectural Diagrams for OWASP Nest | Medium | [#4188](https://github.com/OWASP/Nest/issues/4188) |
+| feat: add country filter and sorting options in Chapters Page | Medium | [#4186](https://github.com/OWASP/Nest/pull/4186) |
+| refactor: simplify Event.parse_dates method | Medium | [#4176](https://github.com/OWASP/Nest/issues/4176) |
+| refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#4175](https://github.com/OWASP/Nest/issues/4175) |
+| fix: enforce strict equality and optimize skeleton rendering logic | Medium | [#4174](https://github.com/OWASP/Nest/pull/4174) |
+| feat(ai): add collaborative multi-agent flow for low-confidence queries | Medium | [#4170](https://github.com/OWASP/Nest/pull/4170) |
+| Added category filter and unified sorting to Projects search component | Medium | [#4168](https://github.com/OWASP/Nest/pull/4168) |
+| Implement GraphQL Query Performance Monitoring and Optimization | Medium | [#4161](https://github.com/OWASP/Nest/issues/4161) |
+| feat: Move Main Page Search to Global Navigation & Simplify Search UI/UX | Medium | [#4160](https://github.com/OWASP/Nest/pull/4160) |
+| fix(footer): open internal navigation links in same tab | Medium | [#4159](https://github.com/OWASP/Nest/pull/4159) |
+| Standardize Date/Time Handling Across Frontend to Eliminate Timezone Regressions | Medium | [#4158](https://github.com/OWASP/Nest/issues/4158) |
 | Implement Project Subscriptions & Subscription Frontend UI | Medium | [#4145](https://github.com/OWASP/Nest/issues/4145) |
-| Extends list_events endpoint with filtering by multiple categories | Medium | [#4144](https://github.com/OWASP/Nest/pull/4144) |
 | feat: Extend Chapters Page Search with Country Filter and Sort Options | Medium | [#4143](https://github.com/OWASP/Nest/pull/4143) |
-| feat: implement filter by project type | Medium | [#4141](https://github.com/OWASP/Nest/pull/4141) |
 | Added login and name in ordering list-members literal and wrote unit tests for new feature | Medium | [#4140](https://github.com/OWASP/Nest/pull/4140) |
 | bug: strict validation for facet_filters list in core validators | Medium | [#4138](https://github.com/OWASP/Nest/issues/4138) |
-| fix:zap baseline security headers | Medium | [#4137](https://github.com/OWASP/Nest/pull/4137) |
-| Replace Community dropdown with direct link and add Snapshots section | Medium | [#4136](https://github.com/OWASP/Nest/pull/4136) |
-| feat(api): add type filter to list_projects endpoint | Medium | [#4134](https://github.com/OWASP/Nest/pull/4134) |
 | fix(#4041): Include today's events in upcoming_events() query | Medium | [#4132](https://github.com/OWASP/Nest/pull/4132) |
 | perf(frontend): convert home page to server component for better SSR | Medium | [#4131](https://github.com/OWASP/Nest/pull/4131) |
 | Add name and login ordering support to list_members endpoint | Medium | [#4130](https://github.com/OWASP/Nest/pull/4130) |
 | fix: disable search auto-focus on mobile/touch devices | Medium | [#4128](https://github.com/OWASP/Nest/pull/4128) |
-| fix: remove redundant tooltip and show placeholder for empty labels | Medium | [#4127](https://github.com/OWASP/Nest/pull/4127) |
 | feat: Algolia config error handling | Medium | [#4126](https://github.com/OWASP/Nest/pull/4126) |
 | fix: resolve footer layout break between 647px and 764px | Medium | [#4118](https://github.com/OWASP/Nest/pull/4118) |
-| Fix staging post-migration ZAP findings | Medium | [#4115](https://github.com/OWASP/Nest/pull/4115) |
-| Fix staging ZAP baseline scan by migrating security headers | Medium | [#4114](https://github.com/OWASP/Nest/pull/4114) |
 | fix: improve OpenAI error handling with specific exception types | Medium | [#4111](https://github.com/OWASP/Nest/pull/4111) |
-| fix: remove redundant tooltip and show placeholder for empty labels | Medium | [#4110](https://github.com/OWASP/Nest/pull/4110) |
 | feat: add country filter and sort to chapters | Medium | [#4109](https://github.com/OWASP/Nest/pull/4109) |
 | Add Windows Contributor Onboarding Guide | Medium | [#4108](https://github.com/OWASP/Nest/issues/4108) |
-| Resolve staging scan issues after migration | Medium | [#4106](https://github.com/OWASP/Nest/pull/4106) |
-| feat/move-main-page-search-bar | Medium | [#4105](https://github.com/OWASP/Nest/pull/4105) |
-| This PR fixes an issue where fetchCsrfTokenServer.ts could return cached CSRF tokens | Medium | [#4104](https://github.com/OWASP/Nest/pull/4104) |
 
 ---
 
