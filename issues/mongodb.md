@@ -153,7 +153,6 @@ Accessibility features like dark mode,white.
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/code-a2z/code-a2z/issues/1211) |
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/code-a2z/code-a2z/issues/1182) |
 | 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/code-a2z/code-a2z/issues/1178) |
-| Connect login middleware to sign up | Medium | [#1167](https://github.com/code-a2z/code-a2z/issues/1167) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/code-a2z/code-a2z/issues/1116) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/code-a2z/code-a2z/issues/788) |
 | 📃: Notes app | Medium | [#249](https://github.com/code-a2z/code-a2z/issues/249) |
@@ -164,6 +163,7 @@ Accessibility features like dark mode,white.
 | 📃: Video Streaming Server | Medium | [#30](https://github.com/code-a2z/code-a2z/issues/30) |
 | Setup standalone Socket.IO server for real-time chat | Hard | [#1378](https://github.com/code-a2z/code-a2z/issues/1378) |
 | AI-Powered Personalized Learning Path Recommendation System | Hard | [#1332](https://github.com/code-a2z/code-a2z/issues/1332) |
+| Add "Forgot Password" link on Sign In page | Hard | [#1277](https://github.com/code-a2z/code-a2z/issues/1277) |
 | 🧑‍💻: Add Multi-Language Support Using Language Translator | Hard | [#1001](https://github.com/code-a2z/code-a2z/issues/1001) |
 
 ---
@@ -298,6 +298,13 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| enhance: Add image upload cropping to Profile | Medium | [#296](https://github.com/Devasy/splitwiser/pull/296) |
+| style: Consistent hover/focus states across buttons | Medium | [#295](https://github.com/Devasy/splitwiser/pull/295) |
+| Add skeleton loading to HomeScreen | Medium | [#294](https://github.com/Devasy/splitwiser/pull/294) |
+| ux: Add skeleton loading to mobile HomeScreen | Medium | [#293](https://github.com/Devasy/splitwiser/pull/293) |
+| ux: Complete skeleton loading system for Friends page | Medium | [#292](https://github.com/Devasy/splitwiser/pull/292) |
+| Mobile Home Screen Skeleton Loading | Medium | [#291](https://github.com/Devasy/splitwiser/pull/291) |
+| enhance: Add skeleton loading for mobile home screen | Medium | [#290](https://github.com/Devasy/splitwiser/pull/290) |
 | Implement lazy loading and code splitting for routes | Medium | [#289](https://github.com/Devasy/splitwiser/pull/289) |
 | ux: Add skeleton loading state to HomeScreen | Medium | [#288](https://github.com/Devasy/splitwiser/pull/288) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#287](https://github.com/Devasy/splitwiser/pull/287) |
@@ -321,11 +328,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
 | ux: Add ErrorBoundary with retry for API failures | Medium | [#249](https://github.com/Devasy/splitwiser/pull/249) |
 | Implement Splitwise import functionality | Medium | [#239](https://github.com/Devasy/splitwiser/pull/239) |
-| Restore EAS configuration files | Medium | [#210](https://github.com/Devasy/splitwiser/pull/210) |
-| Refactor mobile app with Neobrutalism UI using Expo and NativeWind | Medium | [#209](https://github.com/Devasy/splitwiser/pull/209) |
-| Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#207](https://github.com/Devasy/splitwiser/issues/207) |
-| Modernize mobile UI: Expo 54, Themes, and Custom Components | Medium | [#205](https://github.com/Devasy/splitwiser/pull/205) |
-| chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#202](https://github.com/Devasy/splitwiser/pull/202) |
 
 ---
 
@@ -610,6 +612,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 |----------|----------------|---------|
 | Unrealistic / Distracting Image Hover Effect | Easy | [#93](https://github.com/Sahilll94/Travel-Book/issues/93) |
 | Create `src/utils` Directory for Common Helper Functions | Easy | [#91](https://github.com/Sahilll94/Travel-Book/issues/91) |
+| docs: add environment variables summary section | Medium | [#127](https://github.com/Sahilll94/Travel-Book/pull/127) |
 | Add Smart Search with Auto-Suggestions for Travel Stories | Medium | [#126](https://github.com/Sahilll94/Travel-Book/issues/126) |
 | Fixed Profile Picture not loading Error, Implemented uniform navbar and footer | Medium | [#125](https://github.com/Sahilll94/Travel-Book/pull/125) |
 | Add social media icons to ContributorsFooter | Medium | [#123](https://github.com/Sahilll94/Travel-Book/pull/123) |
@@ -1212,14 +1215,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: define latency SLOs for AI story generation pipelinedocs: define latency SLOs | Easy | [#399](https://github.com/IndieHub25/GroqTales/pull/399) |
-| chore: update config, deps, and project docs | Easy | [#394](https://github.com/IndieHub25/GroqTales/pull/394) |
-| Feature Request: Add Dedicated Contributors Page with Paginated Contributor Cards | Medium | [#404](https://github.com/IndieHub25/GroqTales/issues/404) |
-| feat: Add "Copy Story" button to generated story output panels | Medium | [#401](https://github.com/IndieHub25/GroqTales/pull/401) |
-| Enhancement: Implement Global Error Boundary (#377) | Medium | [#393](https://github.com/IndieHub25/GroqTales/pull/393) |
-| feat: synchronize reading progress UI, fix Chronicles panel, and reso… | Medium | [#388](https://github.com/IndieHub25/GroqTales/pull/388) |
-| Gas-Efficient Metadata Strategy & On-Chain Indexing for Story NFTs | Hard | [#333](https://github.com/IndieHub25/GroqTales/issues/333) |
-| Robust On-Chain State Sync & Recovery for Story NFTs | Hard | [#329](https://github.com/IndieHub25/GroqTales/issues/329) |
+| feat: implement public shareable story pages with OpenGraph tags (Fix… | Medium | [#419](https://github.com/IndieHub25/GroqTales/pull/419) |
+| Setup Playwright E2E coverage for Wallet login and NFT Minting | Medium | [#410](https://github.com/IndieHub25/GroqTales/issues/410) |
+| Feat: Add multilingual generation support to Groq AI engine | Medium | [#409](https://github.com/IndieHub25/GroqTales/issues/409) |
+| Chore: Refactor Story Creation Flow | Hard | [#443](https://github.com/IndieHub25/GroqTales/pull/443) |
 
 ---
 
@@ -1260,6 +1259,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Set up Comprehensive Testing Suite (Vitest & Jest) | Medium | [#956](https://github.com/Premkolte/AnimateHub/issues/956) |
+| High TTI due to Synchronous Imports and Duplicate Routing | Medium | [#955](https://github.com/Premkolte/AnimateHub/issues/955) |
+| Missing Rate Limiting and Input Validation in Backend | Medium | [#954](https://github.com/Premkolte/AnimateHub/issues/954) |
 | fixed issue 951 : Improved the UI/UX of privacy policy page | Medium | [#952](https://github.com/Premkolte/AnimateHub/pull/952) |
 | Update README File Structure Section After Refactor | Medium | [#950](https://github.com/Premkolte/AnimateHub/issues/950) |
 | Organize Documentation Files into Dedicated /docs Directory | Medium | [#949](https://github.com/Premkolte/AnimateHub/issues/949) |
@@ -1388,7 +1390,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| BUG: UI Inconsistencies in About Page | Medium | [#235](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/235) |
 | FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 
