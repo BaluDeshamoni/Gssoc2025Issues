@@ -14,12 +14,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| "Fix: apply limit query parameter to getPatients API" | Medium | [#616](https://github.com/Dipanita45/HEALCONNECT/pull/616) |
-| Update profile.js with loading and error handling | Medium | [#615](https://github.com/Dipanita45/HEALCONNECT/pull/615) |
-| Fix the Offlinefallback in `offline.js` | Medium | [#614](https://github.com/Dipanita45/HEALCONNECT/pull/614) |
-| API Pagination Limit Ignored in `/api/patients` | Medium | [#606](https://github.com/Dipanita45/HEALCONNECT/issues/606) |
-| solved API Pagination Limit Ignored | Medium | [#605](https://github.com/Dipanita45/HEALCONNECT/pull/605) |
-| UI Improvements, Formatting Cleanup & FAQ Index Fix | Medium | [#579](https://github.com/Dipanita45/HEALCONNECT/pull/579) |
+| Comprehensive training, intelligent redirection, and advanced UI features (Fixes Issue #600) | Medium | [#634](https://github.com/Dipanita45/HEALCONNECT/pull/634) |
+| fix: appointments page crashing with client-side exception | Medium | [#632](https://github.com/Dipanita45/HEALCONNECT/pull/632) |
+| Comprehensive training, intelligent redirection, and advanced UI features (Fixes Issue #600) | Medium | [#631](https://github.com/Dipanita45/HEALCONNECT/pull/631) |
+| all code push from shree branch to base branch | Medium | [#624](https://github.com/Dipanita45/HEALCONNECT/pull/624) |
+| Fix mobile responsiveness and hamburger menu behavior in navbar | Medium | [#618](https://github.com/Dipanita45/HEALCONNECT/pull/618) |
 
 ---
 
@@ -59,7 +58,6 @@
 |----------|----------------|---------|
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
-| The "Essential" Feature: Graph Serialization & I/O Module | Medium | [#199](https://github.com/SharonIV0x86/CinderPeak/issues/199) |
 | refactor(adjacency-storage): replace LOG_ macro with policy handler logging | Medium | [#193](https://github.com/SharonIV0x86/CinderPeak/pull/193) |
 
 ---
