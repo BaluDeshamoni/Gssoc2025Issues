@@ -16,7 +16,6 @@
 |----------|----------------|---------|
 | Removing locals files from .env file | Medium | [#290](https://github.com/iaadillatif/techxninjas-client/pull/290) |
 | Add Claude Code GitHub Workflow | Medium | [#289](https://github.com/iaadillatif/techxninjas-client/issues/289) |
-| fix: notification panel logic, placement, and Supabase redirect handling | Medium | [#287](https://github.com/iaadillatif/techxninjas-client/pull/287) |
 | Feature Request: Add a Gamified Leaderboard to Ignite Daily Engagement & Community | Medium | [#285](https://github.com/iaadillatif/techxninjas-client/issues/285) |
 | Buttons on Home Page (“Build Projects”, “Free Certificates”, etc.) are not clickable | Medium | [#282](https://github.com/iaadillatif/techxninjas-client/issues/282) |
 | Feature: Secure Notifications Center with RLS and Theming (Closes Issue #31) | Medium | [#281](https://github.com/iaadillatif/techxninjas-client/pull/281) |
@@ -44,6 +43,7 @@
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
 | course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
 | Template | Medium | [#253](https://github.com/iaadillatif/techxninjas-client/pull/253) |
+| Performance | Medium | [#252](https://github.com/iaadillatif/techxninjas-client/pull/252) |
 
 ---
 
@@ -104,6 +104,8 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update pollination apis as new doc | Easy | [#126](https://github.com/huamanraj/aitoolbox.software/issues/126) |
+| New Logo | Medium | [#128](https://github.com/huamanraj/aitoolbox.software/pull/128) |
+| Pollination | Medium | [#127](https://github.com/huamanraj/aitoolbox.software/pull/127) |
 
 ---
 
@@ -121,6 +123,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Security issue: possible command injection in GitHub Actions workflow | Medium | [#140](https://github.com/amitkumardemo/EdgeCareer/issues/140) |
 | feat: enhance footer logo resolution and text styling (#101) | Medium | [#137](https://github.com/amitkumardemo/EdgeCareer/pull/137) |
 | 🔒 Implement Comprehensive Input Validation and Sanitization | Medium | [#136](https://github.com/amitkumardemo/EdgeCareer/issues/136) |
 | ui enhancement | Medium | [#135](https://github.com/amitkumardemo/EdgeCareer/issues/135) |
@@ -143,7 +146,6 @@
 | Add scroll-to-top behavior on clicking the logo | Medium | [#115](https://github.com/amitkumardemo/EdgeCareer/issues/115) |
 | Enhanced the Visual Formatting of CODE_OF_CONDUCT.md file | Medium | [#113](https://github.com/amitkumardemo/EdgeCareer/pull/113) |
 | feat: add AI-powered career guidance feature with new page and lib module | Medium | [#109](https://github.com/amitkumardemo/EdgeCareer/pull/109) |
-| Fix: Improve icon visibility for theme toggle (issue #63) | Medium | [#108](https://github.com/amitkumardemo/EdgeCareer/pull/108) |
 
 ---
 
@@ -161,33 +163,32 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| General Improvements for Infrastructure | Easy | [#4039](https://github.com/OWASP/Nest/pull/4039) |
-| Improved CONTRIBUTING.md | Easy | [#4025](https://github.com/OWASP/Nest/pull/4025) |
-| feat(frontend): implement Terms of Service page | Easy | [#4017](https://github.com/OWASP/Nest/pull/4017) |
-| perf(frontend): Convert home page to Server Component for SSR support | Medium | [#4037](https://github.com/OWASP/Nest/issues/4037) |
-| Add Program Deletion with Cascade Module Removal | Medium | [#4036](https://github.com/OWASP/Nest/issues/4036) |
-| Refactor: Enforce strict equality in frontend components | Medium | [#4035](https://github.com/OWASP/Nest/issues/4035) |
-| chore(deps): bump isomorphic-dompurify from 2.36.0 to 3.0.0 in /frontend | Medium | [#4034](https://github.com/OWASP/Nest/pull/4034) |
-| improve frontend test coverage | Medium | [#4033](https://github.com/OWASP/Nest/pull/4033) |
-| Feature: Add Gemini LLM Provider Support to AI Agent Configuration | Medium | [#4031](https://github.com/OWASP/Nest/issues/4031) |
-| Improve module visibility show up to 6 modules before displaying “Show more” | Medium | [#4029](https://github.com/OWASP/Nest/issues/4029) |
-| Move Django session backend from database to Redis cache | Medium | [#4028](https://github.com/OWASP/Nest/issues/4028) |
-| Configure Gunicorn with production-appropriate worker and timeout settings | Medium | [#4027](https://github.com/OWASP/Nest/issues/4027) |
-| Refactor: Rename GitHub repository node fields to recent_issues and recent_releases | Medium | [#4026](https://github.com/OWASP/Nest/issues/4026) |
-| Bug: OpenAI API Exception Handling Too Broad - Masks Auth, Rate Limit, and Model Errors | Medium | [#4024](https://github.com/OWASP/Nest/issues/4024) |
-| feat: implement module ordering with drag-and-drop support | Medium | [#4020](https://github.com/OWASP/Nest/pull/4020) |
-| Anyone is able to access the Module Issues page in Mentorship Portal | Medium | [#4018](https://github.com/OWASP/Nest/issues/4018) |
-| Refactor create_chunks_and_embeddings: Type Safety, Rate Limiting, and DB Optimization | Medium | [#4016](https://github.com/OWASP/Nest/issues/4016) |
-| refactor: Migrate mentorship GraphQL nodes to use field decorators | Medium | [#4013](https://github.com/OWASP/Nest/issues/4013) |
-| Consolidate Duplicate `apolloClient.ts`  Files | Medium | [#4006](https://github.com/OWASP/Nest/issues/4006) |
-| Add theme toggle with system preference and persistence | Medium | [#4005](https://github.com/OWASP/Nest/pull/4005) |
-| Rename RepositoryNode.releases to recent_releases | Medium | [#3994](https://github.com/OWASP/Nest/issues/3994) |
-| Rename RepositoryNode issues/releases to recent_issues / recent_releases | Medium | [#3993](https://github.com/OWASP/Nest/issues/3993) |
-| Enable real project health score in production | Medium | [#3992](https://github.com/OWASP/Nest/issues/3992) |
-| Improve footer button accessibility focus visibility | Medium | [#3988](https://github.com/OWASP/Nest/issues/3988) |
-| Bug: /idx/ returns 500 when Algolia is not configured | Medium | [#3987](https://github.com/OWASP/Nest/issues/3987) |
-| Fix SSR Apollo cookie overwrite in server-side GraphQL requests | Medium | [#3985](https://github.com/OWASP/Nest/pull/3985) |
-| Add Container Security Hardening to Production/Staging Docker Compose | Medium | [#3982](https://github.com/OWASP/Nest/issues/3982) |
+| Migrate backend to ECS | Easy | [#4187](https://github.com/OWASP/Nest/pull/4187) |
+| Move env variables documentation to backend/frontend README files | Easy | [#4185](https://github.com/OWASP/Nest/pull/4185) |
+| Add Architectural Diagrams for OWASP Nest | Medium | [#4188](https://github.com/OWASP/Nest/issues/4188) |
+| feat: add country filter and sorting options in Chapters Page | Medium | [#4186](https://github.com/OWASP/Nest/pull/4186) |
+| refactor: simplify Event.parse_dates method | Medium | [#4176](https://github.com/OWASP/Nest/issues/4176) |
+| refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#4175](https://github.com/OWASP/Nest/issues/4175) |
+| fix: enforce strict equality and optimize skeleton rendering logic | Medium | [#4174](https://github.com/OWASP/Nest/pull/4174) |
+| feat(ai): add collaborative multi-agent flow for low-confidence queries | Medium | [#4170](https://github.com/OWASP/Nest/pull/4170) |
+| Added category filter and unified sorting to Projects search component | Medium | [#4168](https://github.com/OWASP/Nest/pull/4168) |
+| Implement GraphQL Query Performance Monitoring and Optimization | Medium | [#4161](https://github.com/OWASP/Nest/issues/4161) |
+| feat: Move Main Page Search to Global Navigation & Simplify Search UI/UX | Medium | [#4160](https://github.com/OWASP/Nest/pull/4160) |
+| fix(footer): open internal navigation links in same tab | Medium | [#4159](https://github.com/OWASP/Nest/pull/4159) |
+| Standardize Date/Time Handling Across Frontend to Eliminate Timezone Regressions | Medium | [#4158](https://github.com/OWASP/Nest/issues/4158) |
+| Implement Project Subscriptions & Subscription Frontend UI | Medium | [#4145](https://github.com/OWASP/Nest/issues/4145) |
+| feat: Extend Chapters Page Search with Country Filter and Sort Options | Medium | [#4143](https://github.com/OWASP/Nest/pull/4143) |
+| Added login and name in ordering list-members literal and wrote unit tests for new feature | Medium | [#4140](https://github.com/OWASP/Nest/pull/4140) |
+| bug: strict validation for facet_filters list in core validators | Medium | [#4138](https://github.com/OWASP/Nest/issues/4138) |
+| fix(#4041): Include today's events in upcoming_events() query | Medium | [#4132](https://github.com/OWASP/Nest/pull/4132) |
+| perf(frontend): convert home page to server component for better SSR | Medium | [#4131](https://github.com/OWASP/Nest/pull/4131) |
+| Add name and login ordering support to list_members endpoint | Medium | [#4130](https://github.com/OWASP/Nest/pull/4130) |
+| fix: disable search auto-focus on mobile/touch devices | Medium | [#4128](https://github.com/OWASP/Nest/pull/4128) |
+| feat: Algolia config error handling | Medium | [#4126](https://github.com/OWASP/Nest/pull/4126) |
+| fix: resolve footer layout break between 647px and 764px | Medium | [#4118](https://github.com/OWASP/Nest/pull/4118) |
+| fix: improve OpenAI error handling with specific exception types | Medium | [#4111](https://github.com/OWASP/Nest/pull/4111) |
+| feat: add country filter and sort to chapters | Medium | [#4109](https://github.com/OWASP/Nest/pull/4109) |
+| Add Windows Contributor Onboarding Guide | Medium | [#4108](https://github.com/OWASP/Nest/issues/4108) |
 
 ---
 
@@ -228,14 +229,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue : Hardcoded API URL in Component | Easy | [#474](https://github.com/Dipanita45/HEALCONNECT/issues/474) |
-| feat: implement consistent loading states and skeleton loaders | Medium | [#552](https://github.com/Dipanita45/HEALCONNECT/pull/552) |
-| Non-functional "Start Chat" button on Terms & Conditions page | Medium | [#546](https://github.com/Dipanita45/HEALCONNECT/issues/546) |
-| Non-functional Voice Input Button in Support Chatbot | Medium | [#545](https://github.com/Dipanita45/HEALCONNECT/issues/545) |
-| Replace generic browser alerts with custom themed modals and toasts | Medium | [#544](https://github.com/Dipanita45/HEALCONNECT/issues/544) |
-| Add Functional Dark Mode Toggle for Improved Accessibility and UX | Medium | [#540](https://github.com/Dipanita45/HEALCONNECT/issues/540) |
-| Footer Not Visually Distinguishable from Main Content | Medium | [#539](https://github.com/Dipanita45/HEALCONNECT/issues/539) |
-| Issue : Missing Loading States for Async Operations | Medium | [#476](https://github.com/Dipanita45/HEALCONNECT/issues/476) |
+| Comprehensive training, intelligent redirection, and advanced UI features (Fixes Issue #600) | Medium | [#634](https://github.com/Dipanita45/HEALCONNECT/pull/634) |
+| fix: appointments page crashing with client-side exception | Medium | [#632](https://github.com/Dipanita45/HEALCONNECT/pull/632) |
+| Comprehensive training, intelligent redirection, and advanced UI features (Fixes Issue #600) | Medium | [#631](https://github.com/Dipanita45/HEALCONNECT/pull/631) |
+| all code push from shree branch to base branch | Medium | [#624](https://github.com/Dipanita45/HEALCONNECT/pull/624) |
+| Fix mobile responsiveness and hamburger menu behavior in navbar | Medium | [#618](https://github.com/Dipanita45/HEALCONNECT/pull/618) |
 
 ---
 
@@ -498,14 +496,17 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump dotenv from 17.2.3 to 17.2.4 | Easy | [#1278](https://github.com/recodehive/recode-website/pull/1278) |
+| 📝[Docs]: Integrate Pandas as a Data Structure module within Python Section | Easy | [#1293](https://github.com/recodehive/recode-website/issues/1293) |
+| Removed the UI Inconsistencies in Testimonials and FAQs Pages | Easy | [#1290](https://github.com/recodehive/recode-website/pull/1290) |
+| This PR fixes issue #1286 where mobile screens showed extra blank space | Easy | [#1289](https://github.com/recodehive/recode-website/pull/1289) |
+| chore: bump dotenv from 17.2.3 to 17.3.1 | Easy | [#1283](https://github.com/recodehive/recode-website/pull/1283) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump react and @types/react | Medium | [#1277](https://github.com/recodehive/recode-website/pull/1277) |
-| chore: bump @typescript-eslint/parser from 8.46.2 to 8.55.0 | Medium | [#1276](https://github.com/recodehive/recode-website/pull/1276) |
-| chore: bump firebase from 9.23.0 to 12.9.0 | Medium | [#1275](https://github.com/recodehive/recode-website/pull/1275) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.55.0 | Medium | [#1274](https://github.com/recodehive/recode-website/pull/1274) |
+| chore: bump tailwindcss from 4.1.14 to 4.2.1 | Medium | [#1285](https://github.com/recodehive/recode-website/pull/1285) |
+| chore: bump eslint from 9.38.0 to 10.0.2 | Medium | [#1284](https://github.com/recodehive/recode-website/pull/1284) |
+| chore: bump @typescript-eslint/parser from 8.46.2 to 8.56.1 | Medium | [#1282](https://github.com/recodehive/recode-website/pull/1282) |
+| chore: bump lucide-react from 0.503.0 to 0.575.0 | Medium | [#1281](https://github.com/recodehive/recode-website/pull/1281) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
@@ -1023,14 +1024,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: define latency SLOs for AI story generation pipelinedocs: define latency SLOs | Easy | [#399](https://github.com/IndieHub25/GroqTales/pull/399) |
-| chore: update config, deps, and project docs | Easy | [#394](https://github.com/IndieHub25/GroqTales/pull/394) |
-| Feature Request: Add Dedicated Contributors Page with Paginated Contributor Cards | Medium | [#404](https://github.com/IndieHub25/GroqTales/issues/404) |
-| feat: Add "Copy Story" button to generated story output panels | Medium | [#401](https://github.com/IndieHub25/GroqTales/pull/401) |
-| Enhancement: Implement Global Error Boundary (#377) | Medium | [#393](https://github.com/IndieHub25/GroqTales/pull/393) |
-| feat: synchronize reading progress UI, fix Chronicles panel, and reso… | Medium | [#388](https://github.com/IndieHub25/GroqTales/pull/388) |
-| Gas-Efficient Metadata Strategy & On-Chain Indexing for Story NFTs | Hard | [#333](https://github.com/IndieHub25/GroqTales/issues/333) |
-| Robust On-Chain State Sync & Recovery for Story NFTs | Hard | [#329](https://github.com/IndieHub25/GroqTales/issues/329) |
+| feat: implement public shareable story pages with OpenGraph tags (Fix… | Medium | [#419](https://github.com/IndieHub25/GroqTales/pull/419) |
+| Setup Playwright E2E coverage for Wallet login and NFT Minting | Medium | [#410](https://github.com/IndieHub25/GroqTales/issues/410) |
+| Feat: Add multilingual generation support to Groq AI engine | Medium | [#409](https://github.com/IndieHub25/GroqTales/issues/409) |
+| Chore: Refactor Story Creation Flow | Hard | [#443](https://github.com/IndieHub25/GroqTales/pull/443) |
 
 ---
 
@@ -1108,7 +1105,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| BUG: UI Inconsistencies in About Page | Medium | [#235](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/235) |
 | FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 
