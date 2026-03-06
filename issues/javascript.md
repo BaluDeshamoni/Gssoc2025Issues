@@ -317,6 +317,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix hero section overlap and heading alignment issue | Medium | [#1940](https://github.com/apu52/Travel_Website/pull/1940) |
+| Scroll-to-Top Progress Indicator | Medium | [#1939](https://github.com/apu52/Travel_Website/issues/1939) |
 | Map overflowing outside container in footer section(JWOC) | Medium | [#1938](https://github.com/apu52/Travel_Website/issues/1938) |
 | Refactor: Improve Project Directory Structure | Medium | [#1937](https://github.com/apu52/Travel_Website/issues/1937) |
 | Navbar overlaps page content on scroll / cuts top section | Medium | [#1936](https://github.com/apu52/Travel_Website/issues/1936) |
@@ -345,8 +347,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Accessibility: <li> elements not wrapped in <ul> or <ol> | Medium | [#1913](https://github.com/apu52/Travel_Website/issues/1913) |
 | Added Blog_review section | Medium | [#1912](https://github.com/apu52/Travel_Website/pull/1912) |
 | Search Results Page Does Not Restore Scroll Position After Navigation | Medium | [#1911](https://github.com/apu52/Travel_Website/issues/1911) |
-| Improve Keyboard Navigation and Focus States | Medium | [#1910](https://github.com/apu52/Travel_Website/issues/1910) |
-| Trip Search Results Reset Unexpectedly When Browser Tab Visibility Changes | Medium | [#1909](https://github.com/apu52/Travel_Website/issues/1909) |
 
 ---
 
@@ -436,14 +436,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue : Hardcoded API URL in Component | Easy | [#474](https://github.com/Dipanita45/HEALCONNECT/issues/474) |
-| feat: implement consistent loading states and skeleton loaders | Medium | [#552](https://github.com/Dipanita45/HEALCONNECT/pull/552) |
-| Non-functional "Start Chat" button on Terms & Conditions page | Medium | [#546](https://github.com/Dipanita45/HEALCONNECT/issues/546) |
-| Non-functional Voice Input Button in Support Chatbot | Medium | [#545](https://github.com/Dipanita45/HEALCONNECT/issues/545) |
-| Replace generic browser alerts with custom themed modals and toasts | Medium | [#544](https://github.com/Dipanita45/HEALCONNECT/issues/544) |
-| Add Functional Dark Mode Toggle for Improved Accessibility and UX | Medium | [#540](https://github.com/Dipanita45/HEALCONNECT/issues/540) |
-| Footer Not Visually Distinguishable from Main Content | Medium | [#539](https://github.com/Dipanita45/HEALCONNECT/issues/539) |
-| Issue : Missing Loading States for Async Operations | Medium | [#476](https://github.com/Dipanita45/HEALCONNECT/issues/476) |
+| Comprehensive training, intelligent redirection, and advanced UI features (Fixes Issue #600) | Medium | [#634](https://github.com/Dipanita45/HEALCONNECT/pull/634) |
+| fix: appointments page crashing with client-side exception | Medium | [#632](https://github.com/Dipanita45/HEALCONNECT/pull/632) |
+| Comprehensive training, intelligent redirection, and advanced UI features (Fixes Issue #600) | Medium | [#631](https://github.com/Dipanita45/HEALCONNECT/pull/631) |
+| all code push from shree branch to base branch | Medium | [#624](https://github.com/Dipanita45/HEALCONNECT/pull/624) |
+| Fix mobile responsiveness and hamburger menu behavior in navbar | Medium | [#618](https://github.com/Dipanita45/HEALCONNECT/pull/618) |
 
 ---
 
@@ -748,13 +745,24 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Regenerative Carbon Sequestration Ledger & ESG Marketplace | Medium | [#1632](https://github.com/omroy07/AgriTech/issues/1632) |
-| Multi-Modal Autonomous Logistics & Smart-Contract Freight Orchestrator | Medium | [#1631](https://github.com/omroy07/AgriTech/issues/1631) |
-| Parametric Climate-Resilience & Global Yield Liquidity Engine | Medium | [#1630](https://github.com/omroy07/AgriTech/issues/1630) |
+| Dashboard Pages - Scrollbar, Header, Footer, and Navigation Inconsistencies | Medium | [#1701](https://github.com/omroy07/AgriTech/issues/1701) |
+| fix: resolve theme toggle inconsistency across dashboard pages | Medium | [#1700](https://github.com/omroy07/AgriTech/pull/1700) |
+| Fix Broken Links in Footer of Disease Detector Page | Medium | [#1699](https://github.com/omroy07/AgriTech/issues/1699) |
+| Fix Dark/Light Toggle on Plantation Page & Remove Extra Scroll-To-Top Button | Medium | [#1698](https://github.com/omroy07/AgriTech/issues/1698) |
+| Dark/Light Toggle Not Working on Shopkeeper Page | Medium | [#1697](https://github.com/omroy07/AgriTech/issues/1697) |
+| Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
+| Livestock Management System | Medium | [#1682](https://github.com/omroy07/AgriTech/pull/1682) |
+| IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
+| feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
+| feat: Add IoT sensor integration for real-time farm monitoring | Medium | [#1669](https://github.com/omroy07/AgriTech/issues/1669) |
+| Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
+| Add Cursor Trail Effect on FAQ Page | Medium | [#1666](https://github.com/omroy07/AgriTech/issues/1666) |
+| 🐞 Issue: Images Not Displaying on Dashboard | Medium | [#1665](https://github.com/omroy07/AgriTech/issues/1665) |
+| Make Navigation Bar Static Across Pages | Medium | [#1644](https://github.com/omroy07/AgriTech/issues/1644) |
+| KeyError crash in POST /api/v1/farms/id/assets when request body is missing required fields | Medium | [#1636](https://github.com/omroy07/AgriTech/issues/1636) |
 | Photo Upload Feature Mentioned but Not Functionally Available | Medium | [#1618](https://github.com/omroy07/AgriTech/issues/1618) |
 | Chat History Not Persisting After Page Reload | Medium | [#1617](https://github.com/omroy07/AgriTech/issues/1617) |
 | Favorites Page Shows “0 Saved Articles” Despite Adding Blogs to Favorites | Medium | [#1616](https://github.com/omroy07/AgriTech/issues/1616) |
-| <short description> | Medium | [#1587](https://github.com/omroy07/AgriTech/issues/1587) |
 | Scheme Eligibility Form Produces No Output | Medium | [#1509](https://github.com/omroy07/AgriTech/issues/1509) |
 | Duplicate Theme Toggle Button on Login Page | Medium | [#1508](https://github.com/omroy07/AgriTech/issues/1508) |
 | Marketplace Page UI Alignment and Layout Issue | Medium | [#1507](https://github.com/omroy07/AgriTech/issues/1507) |
@@ -1047,8 +1055,16 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| <Component> Add more GPU components | Hard | [#113](https://github.com/SamXop123/RigCrafter/issues/113) |
-| <Component> Add more RAM Components | Hard | [#112](https://github.com/SamXop123/RigCrafter/issues/112) |
+| 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
+| 🛠️ Build guides 29, 30 | Medium | [#139](https://github.com/SamXop123/RigCrafter/issues/139) |
+| 🛠️ Build Guides 26, 27, 28 | Medium | [#138](https://github.com/SamXop123/RigCrafter/issues/138) |
+| 🛠️ Build Guides 23, 24, 25 | Medium | [#137](https://github.com/SamXop123/RigCrafter/issues/137) |
+| 🛠️ Build Guides 20, 21, 22 | Medium | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
+| 🛠️ Build Guides 17, 18, 19 | Medium | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
+| 🛠 Build Guides 14, 15, 16 | Medium | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
+| 🛠 Build Guides 11, 12, 13 | Medium | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
+| 🛠 Build Guides 8, 9, 10 | Medium | [#132](https://github.com/SamXop123/RigCrafter/issues/132) |
+| 🛠 Build Guides 2, 5, 7 | Medium | [#130](https://github.com/SamXop123/RigCrafter/issues/130) |
 
 ---
 
@@ -1087,14 +1103,17 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump dotenv from 17.2.3 to 17.2.4 | Easy | [#1278](https://github.com/recodehive/recode-website/pull/1278) |
+| 📝[Docs]: Integrate Pandas as a Data Structure module within Python Section | Easy | [#1293](https://github.com/recodehive/recode-website/issues/1293) |
+| Removed the UI Inconsistencies in Testimonials and FAQs Pages | Easy | [#1290](https://github.com/recodehive/recode-website/pull/1290) |
+| This PR fixes issue #1286 where mobile screens showed extra blank space | Easy | [#1289](https://github.com/recodehive/recode-website/pull/1289) |
+| chore: bump dotenv from 17.2.3 to 17.3.1 | Easy | [#1283](https://github.com/recodehive/recode-website/pull/1283) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump react and @types/react | Medium | [#1277](https://github.com/recodehive/recode-website/pull/1277) |
-| chore: bump @typescript-eslint/parser from 8.46.2 to 8.55.0 | Medium | [#1276](https://github.com/recodehive/recode-website/pull/1276) |
-| chore: bump firebase from 9.23.0 to 12.9.0 | Medium | [#1275](https://github.com/recodehive/recode-website/pull/1275) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.55.0 | Medium | [#1274](https://github.com/recodehive/recode-website/pull/1274) |
+| chore: bump tailwindcss from 4.1.14 to 4.2.1 | Medium | [#1285](https://github.com/recodehive/recode-website/pull/1285) |
+| chore: bump eslint from 9.38.0 to 10.0.2 | Medium | [#1284](https://github.com/recodehive/recode-website/pull/1284) |
+| chore: bump @typescript-eslint/parser from 8.46.2 to 8.56.1 | Medium | [#1282](https://github.com/recodehive/recode-website/pull/1282) |
+| chore: bump lucide-react from 0.503.0 to 0.575.0 | Medium | [#1281](https://github.com/recodehive/recode-website/pull/1281) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
@@ -1463,6 +1482,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps-dev): bump rollup from 4.57.1 to 4.59.0 | Medium | [#81](https://github.com/IntegerAlex/fingerprint-oss/pull/81) |
+| Add v0.9.5 robustness: config validation, structured errors, geo timeout, minimal preset | Medium | [#80](https://github.com/IntegerAlex/fingerprint-oss/pull/80) |
 | V0.9.5 | Medium | [#78](https://github.com/IntegerAlex/fingerprint-oss/pull/78) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
 | Stabilization in Hash generation | Hard | [#61](https://github.com/IntegerAlex/fingerprint-oss/pull/61) |
@@ -1710,14 +1731,12 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Duplicate Two Headers in the About Us | Medium | [#126](https://github.com/KanishaSharma11/FinTech/issues/126) |
 | Homepage missing all the Elements | Medium | [#125](https://github.com/KanishaSharma11/FinTech/issues/125) |
 | Contact Page is miising | Medium | [#122](https://github.com/KanishaSharma11/FinTech/issues/122) |
-| Homepage layout issue resolve 119 | Medium | [#121](https://github.com/KanishaSharma11/FinTech/pull/121) |
 | Header spacing and alignment needs improvement | Medium | [#116](https://github.com/KanishaSharma11/FinTech/issues/116) |
 | Gold and Silver Prices Not Displaying & 404 Error on Predict/Fetch | Medium | [#97](https://github.com/KanishaSharma11/FinTech/issues/97) |
 | Privacy page and contact page | Medium | [#87](https://github.com/KanishaSharma11/FinTech/issues/87) |
 | UI & Accessibility Improvements in Contact Us Form | Medium | [#84](https://github.com/KanishaSharma11/FinTech/issues/84) |
 | UI for contact page | Medium | [#83](https://github.com/KanishaSharma11/FinTech/issues/83) |
 | Add icons in Contact Us section | Medium | [#76](https://github.com/KanishaSharma11/FinTech/issues/76) |
-| Add Voice Command Support to Expense Logging | Hard | [#112](https://github.com/KanishaSharma11/FinTech/pull/112) |
 
 ---
 
@@ -1911,14 +1930,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: define latency SLOs for AI story generation pipelinedocs: define latency SLOs | Easy | [#399](https://github.com/IndieHub25/GroqTales/pull/399) |
-| chore: update config, deps, and project docs | Easy | [#394](https://github.com/IndieHub25/GroqTales/pull/394) |
-| Feature Request: Add Dedicated Contributors Page with Paginated Contributor Cards | Medium | [#404](https://github.com/IndieHub25/GroqTales/issues/404) |
-| feat: Add "Copy Story" button to generated story output panels | Medium | [#401](https://github.com/IndieHub25/GroqTales/pull/401) |
-| Enhancement: Implement Global Error Boundary (#377) | Medium | [#393](https://github.com/IndieHub25/GroqTales/pull/393) |
-| feat: synchronize reading progress UI, fix Chronicles panel, and reso… | Medium | [#388](https://github.com/IndieHub25/GroqTales/pull/388) |
-| Gas-Efficient Metadata Strategy & On-Chain Indexing for Story NFTs | Hard | [#333](https://github.com/IndieHub25/GroqTales/issues/333) |
-| Robust On-Chain State Sync & Recovery for Story NFTs | Hard | [#329](https://github.com/IndieHub25/GroqTales/issues/329) |
+| feat: implement public shareable story pages with OpenGraph tags (Fix… | Medium | [#419](https://github.com/IndieHub25/GroqTales/pull/419) |
+| Setup Playwright E2E coverage for Wallet login and NFT Minting | Medium | [#410](https://github.com/IndieHub25/GroqTales/issues/410) |
+| Feat: Add multilingual generation support to Groq AI engine | Medium | [#409](https://github.com/IndieHub25/GroqTales/issues/409) |
+| Chore: Refactor Story Creation Flow | Hard | [#443](https://github.com/IndieHub25/GroqTales/pull/443) |
 
 ---
 
@@ -2459,9 +2474,6 @@ Fast Workflow Tools
 | Navbar styling for companies page. | Medium | [#738](https://github.com/SurajSG23/Job-Portal/pull/738) |
 | Improved Navbar of Contact Page | Medium | [#737](https://github.com/SurajSG23/Job-Portal/pull/737) |
 | Styled navbar and footer for faq page. | Medium | [#736](https://github.com/SurajSG23/Job-Portal/pull/736) |
-| Restore and redesign Services Page with icons and responsive cards | Medium | [#735](https://github.com/SurajSG23/Job-Portal/pull/735) |
-| feat(role-page): redesigned role selection page with flip cards and header styling | Medium | [#734](https://github.com/SurajSG23/Job-Portal/pull/734) |
-| Improve Seeker page header, footer, and card layout | Medium | [#733](https://github.com/SurajSG23/Job-Portal/pull/733) |
 | fixed issue:Add Glassmorphic Effect to Navbar | Medium | [#732](https://github.com/SurajSG23/Job-Portal/pull/732) |
 | implemented search for saved-jobs | Medium | [#700](https://github.com/SurajSG23/Job-Portal/pull/700) |
 
