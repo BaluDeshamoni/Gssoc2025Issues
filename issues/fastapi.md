@@ -41,6 +41,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| enhance: Add image upload cropping to Profile | Medium | [#296](https://github.com/Devasy/splitwiser/pull/296) |
 | style: Consistent hover/focus states across buttons | Medium | [#295](https://github.com/Devasy/splitwiser/pull/295) |
 | Add skeleton loading to HomeScreen | Medium | [#294](https://github.com/Devasy/splitwiser/pull/294) |
 | ux: Add skeleton loading to mobile HomeScreen | Medium | [#293](https://github.com/Devasy/splitwiser/pull/293) |
@@ -70,7 +71,6 @@
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
 | ux: Add ErrorBoundary with retry for API failures | Medium | [#249](https://github.com/Devasy/splitwiser/pull/249) |
 | Implement Splitwise import functionality | Medium | [#239](https://github.com/Devasy/splitwiser/pull/239) |
-| Restore EAS configuration files | Medium | [#210](https://github.com/Devasy/splitwiser/pull/210) |
 
 ---
 
