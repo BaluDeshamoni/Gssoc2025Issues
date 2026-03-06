@@ -205,13 +205,24 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Regenerative Carbon Sequestration Ledger & ESG Marketplace | Medium | [#1632](https://github.com/omroy07/AgriTech/issues/1632) |
-| Multi-Modal Autonomous Logistics & Smart-Contract Freight Orchestrator | Medium | [#1631](https://github.com/omroy07/AgriTech/issues/1631) |
-| Parametric Climate-Resilience & Global Yield Liquidity Engine | Medium | [#1630](https://github.com/omroy07/AgriTech/issues/1630) |
+| Dashboard Pages - Scrollbar, Header, Footer, and Navigation Inconsistencies | Medium | [#1701](https://github.com/omroy07/AgriTech/issues/1701) |
+| fix: resolve theme toggle inconsistency across dashboard pages | Medium | [#1700](https://github.com/omroy07/AgriTech/pull/1700) |
+| Fix Broken Links in Footer of Disease Detector Page | Medium | [#1699](https://github.com/omroy07/AgriTech/issues/1699) |
+| Fix Dark/Light Toggle on Plantation Page & Remove Extra Scroll-To-Top Button | Medium | [#1698](https://github.com/omroy07/AgriTech/issues/1698) |
+| Dark/Light Toggle Not Working on Shopkeeper Page | Medium | [#1697](https://github.com/omroy07/AgriTech/issues/1697) |
+| Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
+| Livestock Management System | Medium | [#1682](https://github.com/omroy07/AgriTech/pull/1682) |
+| IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
+| feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
+| feat: Add IoT sensor integration for real-time farm monitoring | Medium | [#1669](https://github.com/omroy07/AgriTech/issues/1669) |
+| Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
+| Add Cursor Trail Effect on FAQ Page | Medium | [#1666](https://github.com/omroy07/AgriTech/issues/1666) |
+| 🐞 Issue: Images Not Displaying on Dashboard | Medium | [#1665](https://github.com/omroy07/AgriTech/issues/1665) |
+| Make Navigation Bar Static Across Pages | Medium | [#1644](https://github.com/omroy07/AgriTech/issues/1644) |
+| KeyError crash in POST /api/v1/farms/id/assets when request body is missing required fields | Medium | [#1636](https://github.com/omroy07/AgriTech/issues/1636) |
 | Photo Upload Feature Mentioned but Not Functionally Available | Medium | [#1618](https://github.com/omroy07/AgriTech/issues/1618) |
 | Chat History Not Persisting After Page Reload | Medium | [#1617](https://github.com/omroy07/AgriTech/issues/1617) |
 | Favorites Page Shows “0 Saved Articles” Despite Adding Blogs to Favorites | Medium | [#1616](https://github.com/omroy07/AgriTech/issues/1616) |
-| <short description> | Medium | [#1587](https://github.com/omroy07/AgriTech/issues/1587) |
 | Scheme Eligibility Form Produces No Output | Medium | [#1509](https://github.com/omroy07/AgriTech/issues/1509) |
 | Duplicate Theme Toggle Button on Login Page | Medium | [#1508](https://github.com/omroy07/AgriTech/issues/1508) |
 | Marketplace Page UI Alignment and Layout Issue | Medium | [#1507](https://github.com/omroy07/AgriTech/issues/1507) |
@@ -350,7 +361,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| BUG: UI Inconsistencies in About Page | Medium | [#235](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/235) |
 | FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 
