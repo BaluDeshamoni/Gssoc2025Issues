@@ -298,6 +298,7 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| enhance: Add complete skeleton loading for GroupDetails page | Medium | [#297](https://github.com/Devasy/splitwiser/pull/297) |
 | enhance: Add image upload cropping to Profile | Medium | [#296](https://github.com/Devasy/splitwiser/pull/296) |
 | style: Consistent hover/focus states across buttons | Medium | [#295](https://github.com/Devasy/splitwiser/pull/295) |
 | Add skeleton loading to HomeScreen | Medium | [#294](https://github.com/Devasy/splitwiser/pull/294) |
@@ -327,7 +328,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
 | Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
 | ux: Add ErrorBoundary with retry for API failures | Medium | [#249](https://github.com/Devasy/splitwiser/pull/249) |
-| Implement Splitwise import functionality | Medium | [#239](https://github.com/Devasy/splitwiser/pull/239) |
 
 ---
 
@@ -1259,6 +1259,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(infrastructure): set up comprehensive testing suite with Vitest … | Medium | [#957](https://github.com/Premkolte/AnimateHub/pull/957) |
 | Set up Comprehensive Testing Suite (Vitest & Jest) | Medium | [#956](https://github.com/Premkolte/AnimateHub/issues/956) |
 | High TTI due to Synchronous Imports and Duplicate Routing | Medium | [#955](https://github.com/Premkolte/AnimateHub/issues/955) |
 | Missing Rate Limiting and Input Validation in Backend | Medium | [#954](https://github.com/Premkolte/AnimateHub/issues/954) |
