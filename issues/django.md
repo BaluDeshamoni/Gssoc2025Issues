@@ -14,8 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Nest's Deepwiki link to Readme/contributing guide | Easy | [#4195](https://github.com/OWASP/Nest/issues/4195) |
 | Migrate backend to ECS | Easy | [#4187](https://github.com/OWASP/Nest/pull/4187) |
 | Move env variables documentation to backend/frontend README files | Easy | [#4185](https://github.com/OWASP/Nest/pull/4185) |
+| Add a contributor profile edit option | Medium | [#4194](https://github.com/OWASP/Nest/issues/4194) |
 | Add Architectural Diagrams for OWASP Nest | Medium | [#4188](https://github.com/OWASP/Nest/issues/4188) |
 | feat: add country filter and sorting options in Chapters Page | Medium | [#4186](https://github.com/OWASP/Nest/pull/4186) |
 | refactor: simplify Event.parse_dates method | Medium | [#4176](https://github.com/OWASP/Nest/issues/4176) |
@@ -37,9 +39,6 @@
 | fix: disable search auto-focus on mobile/touch devices | Medium | [#4128](https://github.com/OWASP/Nest/pull/4128) |
 | feat: Algolia config error handling | Medium | [#4126](https://github.com/OWASP/Nest/pull/4126) |
 | fix: resolve footer layout break between 647px and 764px | Medium | [#4118](https://github.com/OWASP/Nest/pull/4118) |
-| fix: improve OpenAI error handling with specific exception types | Medium | [#4111](https://github.com/OWASP/Nest/pull/4111) |
-| feat: add country filter and sort to chapters | Medium | [#4109](https://github.com/OWASP/Nest/pull/4109) |
-| Add Windows Contributor Onboarding Guide | Medium | [#4108](https://github.com/OWASP/Nest/issues/4108) |
 
 ---
 
