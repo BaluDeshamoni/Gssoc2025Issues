@@ -436,11 +436,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Comprehensive training, intelligent redirection, and advanced UI features (Fixes Issue #600) | Medium | [#634](https://github.com/Dipanita45/HEALCONNECT/pull/634) |
-| fix: appointments page crashing with client-side exception | Medium | [#632](https://github.com/Dipanita45/HEALCONNECT/pull/632) |
-| Comprehensive training, intelligent redirection, and advanced UI features (Fixes Issue #600) | Medium | [#631](https://github.com/Dipanita45/HEALCONNECT/pull/631) |
 | all code push from shree branch to base branch | Medium | [#624](https://github.com/Dipanita45/HEALCONNECT/pull/624) |
-| Fix mobile responsiveness and hamburger menu behavior in navbar | Medium | [#618](https://github.com/Dipanita45/HEALCONNECT/pull/618) |
 
 ---
 
@@ -745,11 +741,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Dashboard Pages - Scrollbar, Header, Footer, and Navigation Inconsistencies | Medium | [#1701](https://github.com/omroy07/AgriTech/issues/1701) |
-| fix: resolve theme toggle inconsistency across dashboard pages | Medium | [#1700](https://github.com/omroy07/AgriTech/pull/1700) |
-| Fix Broken Links in Footer of Disease Detector Page | Medium | [#1699](https://github.com/omroy07/AgriTech/issues/1699) |
-| Fix Dark/Light Toggle on Plantation Page & Remove Extra Scroll-To-Top Button | Medium | [#1698](https://github.com/omroy07/AgriTech/issues/1698) |
-| Dark/Light Toggle Not Working on Shopkeeper Page | Medium | [#1697](https://github.com/omroy07/AgriTech/issues/1697) |
+| fix(dashboard): resolve scrollbar, header, footer, and theme toggle UI inconsistencies | Medium | [#1702](https://github.com/omroy07/AgriTech/pull/1702) |
+| Fix Broken Links in Footer of Disease Detector Page,Dark/Light Toggle Not Working on Shopkeeper Page,[ENHANCEMENT] Fix Dark/Light Toggle on Plantation Page & Remove Extra Scroll-To-Top Button | Medium | [#1699](https://github.com/omroy07/AgriTech/issues/1699) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | Livestock Management System | Medium | [#1682](https://github.com/omroy07/AgriTech/pull/1682) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
@@ -1055,16 +1048,16 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🛠️ Build guides 29, 30 | Easy | [#139](https://github.com/SamXop123/RigCrafter/issues/139) |
+| 🛠️ Build Guides 26, 27, 28 | Easy | [#138](https://github.com/SamXop123/RigCrafter/issues/138) |
+| 🛠️ Build Guides 23, 24, 25 | Easy | [#137](https://github.com/SamXop123/RigCrafter/issues/137) |
+| 🛠️ Build Guides 20, 21, 22 | Easy | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
+| 🛠️ Build Guides 17, 18, 19 | Easy | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
+| 🛠 Build Guides 14, 15, 16 | Easy | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
+| 🛠 Build Guides 11, 12, 13 | Easy | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
+| 🛠 Build Guides 8, 9, 10 | Easy | [#132](https://github.com/SamXop123/RigCrafter/issues/132) |
+| 🛠 Build Guides 2, 5, 7 | Easy | [#130](https://github.com/SamXop123/RigCrafter/issues/130) |
 | 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
-| 🛠️ Build guides 29, 30 | Medium | [#139](https://github.com/SamXop123/RigCrafter/issues/139) |
-| 🛠️ Build Guides 26, 27, 28 | Medium | [#138](https://github.com/SamXop123/RigCrafter/issues/138) |
-| 🛠️ Build Guides 23, 24, 25 | Medium | [#137](https://github.com/SamXop123/RigCrafter/issues/137) |
-| 🛠️ Build Guides 20, 21, 22 | Medium | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
-| 🛠️ Build Guides 17, 18, 19 | Medium | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
-| 🛠 Build Guides 14, 15, 16 | Medium | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
-| 🛠 Build Guides 11, 12, 13 | Medium | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
-| 🛠 Build Guides 8, 9, 10 | Medium | [#132](https://github.com/SamXop123/RigCrafter/issues/132) |
-| 🛠 Build Guides 2, 5, 7 | Medium | [#130](https://github.com/SamXop123/RigCrafter/issues/130) |
 
 ---
 
