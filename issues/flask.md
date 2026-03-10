@@ -205,11 +205,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Dashboard Pages - Scrollbar, Header, Footer, and Navigation Inconsistencies | Medium | [#1701](https://github.com/omroy07/AgriTech/issues/1701) |
-| fix: resolve theme toggle inconsistency across dashboard pages | Medium | [#1700](https://github.com/omroy07/AgriTech/pull/1700) |
-| Fix Broken Links in Footer of Disease Detector Page | Medium | [#1699](https://github.com/omroy07/AgriTech/issues/1699) |
-| Fix Dark/Light Toggle on Plantation Page & Remove Extra Scroll-To-Top Button | Medium | [#1698](https://github.com/omroy07/AgriTech/issues/1698) |
-| Dark/Light Toggle Not Working on Shopkeeper Page | Medium | [#1697](https://github.com/omroy07/AgriTech/issues/1697) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | Livestock Management System | Medium | [#1682](https://github.com/omroy07/AgriTech/pull/1682) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
