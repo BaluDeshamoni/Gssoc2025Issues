@@ -14,11 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Comprehensive training, intelligent redirection, and advanced UI features (Fixes Issue #600) | Medium | [#634](https://github.com/Dipanita45/HEALCONNECT/pull/634) |
-| fix: appointments page crashing with client-side exception | Medium | [#632](https://github.com/Dipanita45/HEALCONNECT/pull/632) |
-| Comprehensive training, intelligent redirection, and advanced UI features (Fixes Issue #600) | Medium | [#631](https://github.com/Dipanita45/HEALCONNECT/pull/631) |
-| all code push from shree branch to base branch | Medium | [#624](https://github.com/Dipanita45/HEALCONNECT/pull/624) |
-| Fix mobile responsiveness and hamburger menu behavior in navbar | Medium | [#618](https://github.com/Dipanita45/HEALCONNECT/pull/618) |
+| # Fix Client-Side Exceptions on FAQ & Appointments Pages (Solved Issues #642 and #639) | Medium | [#647](https://github.com/Dipanita45/HEALCONNECT/pull/647) |
+| Enhancement: Implement Skeleton Loaders for Better UX | Medium | [#645](https://github.com/Dipanita45/HEALCONNECT/issues/645) |
+| Enhancement: Improve Footer with Useful Links and Resources | Medium | [#644](https://github.com/Dipanita45/HEALCONNECT/issues/644) |
+| Fix deployment step ID in GitHub Actions workflow | Medium | [#641](https://github.com/Dipanita45/HEALCONNECT/pull/641) |
 
 ---
 
@@ -58,6 +57,7 @@
 |----------|----------------|---------|
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
+| fix: unresolved logger variables and batch script logicUpdate LogExample and tweak auto-format script | Medium | [#200](https://github.com/SharonIV0x86/CinderPeak/pull/200) |
 | refactor(adjacency-storage): replace LOG_ macro with policy handler logging | Medium | [#193](https://github.com/SharonIV0x86/CinderPeak/pull/193) |
 
 ---
