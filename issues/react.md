@@ -271,32 +271,29 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Migrate backend to ECS | Easy | [#4187](https://github.com/OWASP/Nest/pull/4187) |
-| Move env variables documentation to backend/frontend README files | Easy | [#4185](https://github.com/OWASP/Nest/pull/4185) |
+| refactor: migrate ModuleNode to use strawberry-django decorator for consistency | Medium | [#4226](https://github.com/OWASP/Nest/issues/4226) |
+| Redesigns the Project Timeline section on the About page for better readability and interactivity. | Medium | [#4221](https://github.com/OWASP/Nest/pull/4221) |
+| fix: Improve ProgramForm validation to avoid duplicate backend requests | Medium | [#4216](https://github.com/OWASP/Nest/pull/4216) |
+| Make Nest Logos Clickable | Medium | [#4215](https://github.com/OWASP/Nest/issues/4215) |
+| Track and capture OWASP contributions across platforms beyond GitHub | Medium | [#4208](https://github.com/OWASP/Nest/issues/4208) |
+| Introduced phase-based grouping that organizes timeline items into 4 meaningful project phases | Medium | [#4205](https://github.com/OWASP/Nest/pull/4205) |
+| Feature/swagger UI theme support 4197 | Medium | [#4203](https://github.com/OWASP/Nest/pull/4203) |
+| feat: add reusable search component with category filter and sorting | Medium | [#4199](https://github.com/OWASP/Nest/pull/4199) |
+| Add a contributor profile edit option | Medium | [#4194](https://github.com/OWASP/Nest/issues/4194) |
 | Add Architectural Diagrams for OWASP Nest | Medium | [#4188](https://github.com/OWASP/Nest/issues/4188) |
 | feat: add country filter and sorting options in Chapters Page | Medium | [#4186](https://github.com/OWASP/Nest/pull/4186) |
 | refactor: simplify Event.parse_dates method | Medium | [#4176](https://github.com/OWASP/Nest/issues/4176) |
 | refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#4175](https://github.com/OWASP/Nest/issues/4175) |
-| fix: enforce strict equality and optimize skeleton rendering logic | Medium | [#4174](https://github.com/OWASP/Nest/pull/4174) |
 | feat(ai): add collaborative multi-agent flow for low-confidence queries | Medium | [#4170](https://github.com/OWASP/Nest/pull/4170) |
 | Added category filter and unified sorting to Projects search component | Medium | [#4168](https://github.com/OWASP/Nest/pull/4168) |
 | Implement GraphQL Query Performance Monitoring and Optimization | Medium | [#4161](https://github.com/OWASP/Nest/issues/4161) |
-| feat: Move Main Page Search to Global Navigation & Simplify Search UI/UX | Medium | [#4160](https://github.com/OWASP/Nest/pull/4160) |
-| fix(footer): open internal navigation links in same tab | Medium | [#4159](https://github.com/OWASP/Nest/pull/4159) |
 | Standardize Date/Time Handling Across Frontend to Eliminate Timezone Regressions | Medium | [#4158](https://github.com/OWASP/Nest/issues/4158) |
 | Implement Project Subscriptions & Subscription Frontend UI | Medium | [#4145](https://github.com/OWASP/Nest/issues/4145) |
 | feat: Extend Chapters Page Search with Country Filter and Sort Options | Medium | [#4143](https://github.com/OWASP/Nest/pull/4143) |
-| Added login and name in ordering list-members literal and wrote unit tests for new feature | Medium | [#4140](https://github.com/OWASP/Nest/pull/4140) |
 | bug: strict validation for facet_filters list in core validators | Medium | [#4138](https://github.com/OWASP/Nest/issues/4138) |
-| fix(#4041): Include today's events in upcoming_events() query | Medium | [#4132](https://github.com/OWASP/Nest/pull/4132) |
 | perf(frontend): convert home page to server component for better SSR | Medium | [#4131](https://github.com/OWASP/Nest/pull/4131) |
-| Add name and login ordering support to list_members endpoint | Medium | [#4130](https://github.com/OWASP/Nest/pull/4130) |
 | fix: disable search auto-focus on mobile/touch devices | Medium | [#4128](https://github.com/OWASP/Nest/pull/4128) |
 | feat: Algolia config error handling | Medium | [#4126](https://github.com/OWASP/Nest/pull/4126) |
-| fix: resolve footer layout break between 647px and 764px | Medium | [#4118](https://github.com/OWASP/Nest/pull/4118) |
-| fix: improve OpenAI error handling with specific exception types | Medium | [#4111](https://github.com/OWASP/Nest/pull/4111) |
-| feat: add country filter and sort to chapters | Medium | [#4109](https://github.com/OWASP/Nest/pull/4109) |
-| Add Windows Contributor Onboarding Guide | Medium | [#4108](https://github.com/OWASP/Nest/issues/4108) |
 
 ---
 
@@ -612,6 +609,9 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#299](https://github.com/Devasy/splitwiser/pull/299) |
+| enhance: Add skeleton loading to mobile Home screen | Medium | [#298](https://github.com/Devasy/splitwiser/pull/298) |
+| enhance: Add complete skeleton loading for GroupDetails page | Medium | [#297](https://github.com/Devasy/splitwiser/pull/297) |
 | enhance: Add image upload cropping to Profile | Medium | [#296](https://github.com/Devasy/splitwiser/pull/296) |
 | style: Consistent hover/focus states across buttons | Medium | [#295](https://github.com/Devasy/splitwiser/pull/295) |
 | Add skeleton loading to HomeScreen | Medium | [#294](https://github.com/Devasy/splitwiser/pull/294) |
@@ -639,9 +639,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | ux: Add animated success celebration when settled up | Medium | [#270](https://github.com/Devasy/splitwiser/pull/270) |
 | style: Consistent hover/focus states | Medium | [#267](https://github.com/Devasy/splitwiser/pull/267) |
 | Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
-| Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
-| ux: Add ErrorBoundary with retry for API failures | Medium | [#249](https://github.com/Devasy/splitwiser/pull/249) |
-| Implement Splitwise import functionality | Medium | [#239](https://github.com/Devasy/splitwiser/pull/239) |
 
 ---
 
@@ -1504,16 +1501,17 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Replace placeholder and generic images with real product images | Easy | [#140](https://github.com/SamXop123/RigCrafter/issues/140) |
+| 🛠️ Build guides 29, 30 | Easy | [#139](https://github.com/SamXop123/RigCrafter/issues/139) |
+| 🛠️ Build Guides 26, 27, 28 | Easy | [#138](https://github.com/SamXop123/RigCrafter/issues/138) |
+| 🛠️ Build Guides 23, 24, 25 | Easy | [#137](https://github.com/SamXop123/RigCrafter/issues/137) |
+| 🛠️ Build Guides 20, 21, 22 | Easy | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
+| 🛠️ Build Guides 17, 18, 19 | Easy | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
+| 🛠 Build Guides 14, 15, 16 | Easy | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
+| 🛠 Build Guides 11, 12, 13 | Easy | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
+| 🛠 Build Guides 8, 9, 10 | Easy | [#132](https://github.com/SamXop123/RigCrafter/issues/132) |
+| 🛠 Build Guides 2, 5, 7 | Easy | [#130](https://github.com/SamXop123/RigCrafter/issues/130) |
 | 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
-| 🛠️ Build guides 29, 30 | Medium | [#139](https://github.com/SamXop123/RigCrafter/issues/139) |
-| 🛠️ Build Guides 26, 27, 28 | Medium | [#138](https://github.com/SamXop123/RigCrafter/issues/138) |
-| 🛠️ Build Guides 23, 24, 25 | Medium | [#137](https://github.com/SamXop123/RigCrafter/issues/137) |
-| 🛠️ Build Guides 20, 21, 22 | Medium | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
-| 🛠️ Build Guides 17, 18, 19 | Medium | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
-| 🛠 Build Guides 14, 15, 16 | Medium | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
-| 🛠 Build Guides 11, 12, 13 | Medium | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
-| 🛠 Build Guides 8, 9, 10 | Medium | [#132](https://github.com/SamXop123/RigCrafter/issues/132) |
-| 🛠 Build Guides 2, 5, 7 | Medium | [#130](https://github.com/SamXop123/RigCrafter/issues/130) |
 
 ---
 
@@ -1942,7 +1940,12 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the production-dependencies group across 1 directory with 14 updates | Medium | [#138](https://github.com/Xenonesis/code-guardian-report/pull/138) |
+| chore(deps): bump the production-dependencies group across 1 directory with 17 updates | Medium | [#144](https://github.com/Xenonesis/code-guardian-report/pull/144) |
+| Title: DX: Implement GitHub Issue Template for contributors | Medium | [#143](https://github.com/Xenonesis/code-guardian-report/issues/143) |
+| Title: TypeScript: Replace implicit 'any' usage in core services | Medium | [#142](https://github.com/Xenonesis/code-guardian-report/issues/142) |
+| Title: Refactor: Remove legacy Jest dependencies and config | Medium | [#141](https://github.com/Xenonesis/code-guardian-report/issues/141) |
+| Title: Docs: Synchronize CONTRIBUTING.md with current Next.js/React stack | Medium | [#140](https://github.com/Xenonesis/code-guardian-report/issues/140) |
+| feat: Add MCP Server for AI Integration | Medium | [#139](https://github.com/Xenonesis/code-guardian-report/pull/139) |
 | Feature: Add Contact Us Footer Section (#122) | Medium | [#136](https://github.com/Xenonesis/code-guardian-report/pull/136) |
 | Fix: Notification Panel Overlay Visibility (#121) | Medium | [#135](https://github.com/Xenonesis/code-guardian-report/pull/135) |
 | Fix: Mobile Button Overlap in Legal Section (#120) | Medium | [#134](https://github.com/Xenonesis/code-guardian-report/pull/134) |
@@ -1961,11 +1964,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | UI Redesign: Homepage & Footer | Medium | [#104](https://github.com/Xenonesis/code-guardian-report/issues/104) |
 | docs: fix Getting Started instructions and clarify setup | Medium | [#102](https://github.com/Xenonesis/code-guardian-report/pull/102) |
 | chore(deps): bump eslint from 8.57.1 to 9.39.2 in /functions | Medium | [#84](https://github.com/Xenonesis/code-guardian-report/pull/84) |
-| chore(deps): bump firebase-functions from 7.0.0 to 7.0.2 in /functions | Medium | [#83](https://github.com/Xenonesis/code-guardian-report/pull/83) |
-| chore(deps): bump @types/node from 18.19.130 to 25.0.3 in /functions | Medium | [#82](https://github.com/Xenonesis/code-guardian-report/pull/82) |
-| chore(deps): bump @typescript-eslint/parser from 5.62.0 to 8.51.0 in /functions | Medium | [#81](https://github.com/Xenonesis/code-guardian-report/pull/81) |
-| chore(deps): bump @typescript-eslint/eslint-plugin from 5.62.0 to 8.51.0 in /functions | Medium | [#80](https://github.com/Xenonesis/code-guardian-report/pull/80) |
-| ci(deps): bump github/codeql-action from 3 to 4 | Medium | [#79](https://github.com/Xenonesis/code-guardian-report/pull/79) |
 
 ---
 
@@ -2524,6 +2522,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(infrastructure): set up comprehensive testing suite with Vitest … | Medium | [#957](https://github.com/Premkolte/AnimateHub/pull/957) |
 | Set up Comprehensive Testing Suite (Vitest & Jest) | Medium | [#956](https://github.com/Premkolte/AnimateHub/issues/956) |
 | High TTI due to Synchronous Imports and Duplicate Routing | Medium | [#955](https://github.com/Premkolte/AnimateHub/issues/955) |
 | Missing Rate Limiting and Input Validation in Backend | Medium | [#954](https://github.com/Premkolte/AnimateHub/issues/954) |
@@ -2924,6 +2923,24 @@ Fast Workflow Tools
 | Create a beautiful readme for this project | Medium | [#4](https://github.com/imshashi365/IPURanker/issues/4) |
 | Implement a dark mode toggle | Medium | [#3](https://github.com/imshashi365/IPURanker/issues/3) |
 | 📝 Pull Request: Add Code of Conduct for IPURanker | GSSoC’25 | Medium | [#2](https://github.com/imshashi365/IPURanker/pull/2) |
+
+---
+
+## 📌 Project: Your trip planner
+
+📝 **Description:** A travel planning web app that lets users filter destinations by region and track journey expenses.
+
+🔗 [View Project](https://github.com/code-well0/trip-planner)
+
+💻 **Tech Stack:** React.js, JavaScript, CSS, HTML
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add mermaid diagrams | Medium | [#408](https://github.com/code-well0/trip-planner/pull/408) |
 
 ---
 
