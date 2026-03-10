@@ -106,14 +106,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🔲 DESKTOP GALLERY PAGE - TABLET VIEW | Easy | [#284](https://github.com/WallGodds/WallGodds-Web/issues/284) |
-| 🔲 MOBILE GALLERY PAGE - TABLET VIEW | Easy | [#283](https://github.com/WallGodds/WallGodds-Web/issues/283) |
 | 🔲 UPLOAD PAGE - TABLET VIEW | Easy | [#281](https://github.com/WallGodds/WallGodds-Web/issues/281) |
-| 📱 GALLERY PAGE - FIX | Easy | [#276](https://github.com/WallGodds/WallGodds-Web/issues/276) |
-| 📱 NAVBAR HAMBERGER MENU - MOBILE VIEW | Easy | [#248](https://github.com/WallGodds/WallGodds-Web/issues/248) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#160](https://github.com/WallGodds/WallGodds-Web/issues/160) |
-| Add Download Count Display for Wallpapers | Medium | [#286](https://github.com/WallGodds/WallGodds-Web/issues/286) |
-| Add Infinite Scroll for Wallpapers in Gallery | Medium | [#285](https://github.com/WallGodds/WallGodds-Web/issues/285) |
 
 ---
 
