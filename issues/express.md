@@ -731,16 +731,17 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Replace placeholder and generic images with real product images | Easy | [#140](https://github.com/SamXop123/RigCrafter/issues/140) |
+| 🛠️ Build guides 29, 30 | Easy | [#139](https://github.com/SamXop123/RigCrafter/issues/139) |
+| 🛠️ Build Guides 26, 27, 28 | Easy | [#138](https://github.com/SamXop123/RigCrafter/issues/138) |
+| 🛠️ Build Guides 23, 24, 25 | Easy | [#137](https://github.com/SamXop123/RigCrafter/issues/137) |
+| 🛠️ Build Guides 20, 21, 22 | Easy | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
+| 🛠️ Build Guides 17, 18, 19 | Easy | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
+| 🛠 Build Guides 14, 15, 16 | Easy | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
+| 🛠 Build Guides 11, 12, 13 | Easy | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
+| 🛠 Build Guides 8, 9, 10 | Easy | [#132](https://github.com/SamXop123/RigCrafter/issues/132) |
+| 🛠 Build Guides 2, 5, 7 | Easy | [#130](https://github.com/SamXop123/RigCrafter/issues/130) |
 | 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
-| 🛠️ Build guides 29, 30 | Medium | [#139](https://github.com/SamXop123/RigCrafter/issues/139) |
-| 🛠️ Build Guides 26, 27, 28 | Medium | [#138](https://github.com/SamXop123/RigCrafter/issues/138) |
-| 🛠️ Build Guides 23, 24, 25 | Medium | [#137](https://github.com/SamXop123/RigCrafter/issues/137) |
-| 🛠️ Build Guides 20, 21, 22 | Medium | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
-| 🛠️ Build Guides 17, 18, 19 | Medium | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
-| 🛠 Build Guides 14, 15, 16 | Medium | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
-| 🛠 Build Guides 11, 12, 13 | Medium | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
-| 🛠 Build Guides 8, 9, 10 | Medium | [#132](https://github.com/SamXop123/RigCrafter/issues/132) |
-| 🛠 Build Guides 2, 5, 7 | Medium | [#130](https://github.com/SamXop123/RigCrafter/issues/130) |
 
 ---
 
@@ -1242,6 +1243,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(infrastructure): set up comprehensive testing suite with Vitest … | Medium | [#957](https://github.com/Premkolte/AnimateHub/pull/957) |
 | Set up Comprehensive Testing Suite (Vitest & Jest) | Medium | [#956](https://github.com/Premkolte/AnimateHub/issues/956) |
 | High TTI due to Synchronous Imports and Duplicate Routing | Medium | [#955](https://github.com/Premkolte/AnimateHub/issues/955) |
 | Missing Rate Limiting and Input Validation in Backend | Medium | [#954](https://github.com/Premkolte/AnimateHub/issues/954) |
