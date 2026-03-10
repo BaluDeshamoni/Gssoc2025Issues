@@ -317,6 +317,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Organize Image Assets into a Dedicated Folder | Medium | [#1941](https://github.com/apu52/Travel_Website/issues/1941) |
 | Fix hero section overlap and heading alignment issue | Medium | [#1940](https://github.com/apu52/Travel_Website/pull/1940) |
 | Scroll-to-Top Progress Indicator | Medium | [#1939](https://github.com/apu52/Travel_Website/issues/1939) |
 | Map overflowing outside container in footer section(JWOC) | Medium | [#1938](https://github.com/apu52/Travel_Website/issues/1938) |
@@ -346,7 +347,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Images displayed with incorrect aspect ratio | Medium | [#1914](https://github.com/apu52/Travel_Website/issues/1914) |
 | Accessibility: <li> elements not wrapped in <ul> or <ol> | Medium | [#1913](https://github.com/apu52/Travel_Website/issues/1913) |
 | Added Blog_review section | Medium | [#1912](https://github.com/apu52/Travel_Website/pull/1912) |
-| Search Results Page Does Not Restore Scroll Position After Navigation | Medium | [#1911](https://github.com/apu52/Travel_Website/issues/1911) |
 
 ---
 
@@ -436,11 +436,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Comprehensive training, intelligent redirection, and advanced UI features (Fixes Issue #600) | Medium | [#634](https://github.com/Dipanita45/HEALCONNECT/pull/634) |
-| fix: appointments page crashing with client-side exception | Medium | [#632](https://github.com/Dipanita45/HEALCONNECT/pull/632) |
-| Comprehensive training, intelligent redirection, and advanced UI features (Fixes Issue #600) | Medium | [#631](https://github.com/Dipanita45/HEALCONNECT/pull/631) |
-| all code push from shree branch to base branch | Medium | [#624](https://github.com/Dipanita45/HEALCONNECT/pull/624) |
-| Fix mobile responsiveness and hamburger menu behavior in navbar | Medium | [#618](https://github.com/Dipanita45/HEALCONNECT/pull/618) |
+| # Fix Client-Side Exceptions on FAQ & Appointments Pages (Solved Issues #642 and #639) | Medium | [#647](https://github.com/Dipanita45/HEALCONNECT/pull/647) |
+| Enhancement: Implement Skeleton Loaders for Better UX | Medium | [#645](https://github.com/Dipanita45/HEALCONNECT/issues/645) |
+| Enhancement: Improve Footer with Useful Links and Resources | Medium | [#644](https://github.com/Dipanita45/HEALCONNECT/issues/644) |
+| Fix deployment step ID in GitHub Actions workflow | Medium | [#641](https://github.com/Dipanita45/HEALCONNECT/pull/641) |
 
 ---
 
@@ -745,11 +744,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Dashboard Pages - Scrollbar, Header, Footer, and Navigation Inconsistencies | Medium | [#1701](https://github.com/omroy07/AgriTech/issues/1701) |
-| fix: resolve theme toggle inconsistency across dashboard pages | Medium | [#1700](https://github.com/omroy07/AgriTech/pull/1700) |
-| Fix Broken Links in Footer of Disease Detector Page | Medium | [#1699](https://github.com/omroy07/AgriTech/issues/1699) |
-| Fix Dark/Light Toggle on Plantation Page & Remove Extra Scroll-To-Top Button | Medium | [#1698](https://github.com/omroy07/AgriTech/issues/1698) |
-| Dark/Light Toggle Not Working on Shopkeeper Page | Medium | [#1697](https://github.com/omroy07/AgriTech/issues/1697) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | Livestock Management System | Medium | [#1682](https://github.com/omroy07/AgriTech/pull/1682) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
@@ -1055,16 +1049,17 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Replace placeholder and generic images with real product images | Easy | [#140](https://github.com/SamXop123/RigCrafter/issues/140) |
+| 🛠️ Build guides 29, 30 | Easy | [#139](https://github.com/SamXop123/RigCrafter/issues/139) |
+| 🛠️ Build Guides 26, 27, 28 | Easy | [#138](https://github.com/SamXop123/RigCrafter/issues/138) |
+| 🛠️ Build Guides 23, 24, 25 | Easy | [#137](https://github.com/SamXop123/RigCrafter/issues/137) |
+| 🛠️ Build Guides 20, 21, 22 | Easy | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
+| 🛠️ Build Guides 17, 18, 19 | Easy | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
+| 🛠 Build Guides 14, 15, 16 | Easy | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
+| 🛠 Build Guides 11, 12, 13 | Easy | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
+| 🛠 Build Guides 8, 9, 10 | Easy | [#132](https://github.com/SamXop123/RigCrafter/issues/132) |
+| 🛠 Build Guides 2, 5, 7 | Easy | [#130](https://github.com/SamXop123/RigCrafter/issues/130) |
 | 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
-| 🛠️ Build guides 29, 30 | Medium | [#139](https://github.com/SamXop123/RigCrafter/issues/139) |
-| 🛠️ Build Guides 26, 27, 28 | Medium | [#138](https://github.com/SamXop123/RigCrafter/issues/138) |
-| 🛠️ Build Guides 23, 24, 25 | Medium | [#137](https://github.com/SamXop123/RigCrafter/issues/137) |
-| 🛠️ Build Guides 20, 21, 22 | Medium | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
-| 🛠️ Build Guides 17, 18, 19 | Medium | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
-| 🛠 Build Guides 14, 15, 16 | Medium | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
-| 🛠 Build Guides 11, 12, 13 | Medium | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
-| 🛠 Build Guides 8, 9, 10 | Medium | [#132](https://github.com/SamXop123/RigCrafter/issues/132) |
-| 🛠 Build Guides 2, 5, 7 | Medium | [#130](https://github.com/SamXop123/RigCrafter/issues/130) |
 
 ---
 
@@ -1103,17 +1098,16 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📝[Docs]: Integrate Pandas as a Data Structure module within Python Section | Easy | [#1293](https://github.com/recodehive/recode-website/issues/1293) |
+| chore: bump react-icons from 5.5.0 to 5.6.0 | Easy | [#1298](https://github.com/recodehive/recode-website/pull/1298) |
+| chore: bump lucide-react from 0.503.0 to 0.577.0 | Easy | [#1296](https://github.com/recodehive/recode-website/pull/1296) |
 | Removed the UI Inconsistencies in Testimonials and FAQs Pages | Easy | [#1290](https://github.com/recodehive/recode-website/pull/1290) |
 | This PR fixes issue #1286 where mobile screens showed extra blank space | Easy | [#1289](https://github.com/recodehive/recode-website/pull/1289) |
-| chore: bump dotenv from 17.2.3 to 17.3.1 | Easy | [#1283](https://github.com/recodehive/recode-website/pull/1283) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump tailwindcss from 4.1.14 to 4.2.1 | Medium | [#1285](https://github.com/recodehive/recode-website/pull/1285) |
-| chore: bump eslint from 9.38.0 to 10.0.2 | Medium | [#1284](https://github.com/recodehive/recode-website/pull/1284) |
-| chore: bump @typescript-eslint/parser from 8.46.2 to 8.56.1 | Medium | [#1282](https://github.com/recodehive/recode-website/pull/1282) |
-| chore: bump lucide-react from 0.503.0 to 0.575.0 | Medium | [#1281](https://github.com/recodehive/recode-website/pull/1281) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.57.0 | Medium | [#1299](https://github.com/recodehive/recode-website/pull/1299) |
+| chore: bump firebase from 9.23.0 to 12.10.0 | Medium | [#1297](https://github.com/recodehive/recode-website/pull/1297) |
+| chore: bump lint-staged from 16.2.4 to 16.3.2 | Medium | [#1295](https://github.com/recodehive/recode-website/pull/1295) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
@@ -2314,6 +2308,24 @@ Fast Workflow Tools
 | Create a beautiful readme for this project | Medium | [#4](https://github.com/imshashi365/IPURanker/issues/4) |
 | Implement a dark mode toggle | Medium | [#3](https://github.com/imshashi365/IPURanker/issues/3) |
 | 📝 Pull Request: Add Code of Conduct for IPURanker | GSSoC’25 | Medium | [#2](https://github.com/imshashi365/IPURanker/pull/2) |
+
+---
+
+## 📌 Project: Your trip planner
+
+📝 **Description:** A travel planning web app that lets users filter destinations by region and track journey expenses.
+
+🔗 [View Project](https://github.com/code-well0/trip-planner)
+
+💻 **Tech Stack:** React.js, JavaScript, CSS, HTML
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add mermaid diagrams | Medium | [#408](https://github.com/code-well0/trip-planner/pull/408) |
 
 ---
 
