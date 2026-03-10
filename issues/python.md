@@ -211,32 +211,29 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Migrate backend to ECS | Easy | [#4187](https://github.com/OWASP/Nest/pull/4187) |
-| Move env variables documentation to backend/frontend README files | Easy | [#4185](https://github.com/OWASP/Nest/pull/4185) |
+| refactor: migrate ModuleNode to use strawberry-django decorator for consistency | Medium | [#4226](https://github.com/OWASP/Nest/issues/4226) |
+| Redesigns the Project Timeline section on the About page for better readability and interactivity. | Medium | [#4221](https://github.com/OWASP/Nest/pull/4221) |
+| fix: Improve ProgramForm validation to avoid duplicate backend requests | Medium | [#4216](https://github.com/OWASP/Nest/pull/4216) |
+| Make Nest Logos Clickable | Medium | [#4215](https://github.com/OWASP/Nest/issues/4215) |
+| Track and capture OWASP contributions across platforms beyond GitHub | Medium | [#4208](https://github.com/OWASP/Nest/issues/4208) |
+| Introduced phase-based grouping that organizes timeline items into 4 meaningful project phases | Medium | [#4205](https://github.com/OWASP/Nest/pull/4205) |
+| Feature/swagger UI theme support 4197 | Medium | [#4203](https://github.com/OWASP/Nest/pull/4203) |
+| feat: add reusable search component with category filter and sorting | Medium | [#4199](https://github.com/OWASP/Nest/pull/4199) |
+| Add a contributor profile edit option | Medium | [#4194](https://github.com/OWASP/Nest/issues/4194) |
 | Add Architectural Diagrams for OWASP Nest | Medium | [#4188](https://github.com/OWASP/Nest/issues/4188) |
 | feat: add country filter and sorting options in Chapters Page | Medium | [#4186](https://github.com/OWASP/Nest/pull/4186) |
 | refactor: simplify Event.parse_dates method | Medium | [#4176](https://github.com/OWASP/Nest/issues/4176) |
 | refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#4175](https://github.com/OWASP/Nest/issues/4175) |
-| fix: enforce strict equality and optimize skeleton rendering logic | Medium | [#4174](https://github.com/OWASP/Nest/pull/4174) |
 | feat(ai): add collaborative multi-agent flow for low-confidence queries | Medium | [#4170](https://github.com/OWASP/Nest/pull/4170) |
 | Added category filter and unified sorting to Projects search component | Medium | [#4168](https://github.com/OWASP/Nest/pull/4168) |
 | Implement GraphQL Query Performance Monitoring and Optimization | Medium | [#4161](https://github.com/OWASP/Nest/issues/4161) |
-| feat: Move Main Page Search to Global Navigation & Simplify Search UI/UX | Medium | [#4160](https://github.com/OWASP/Nest/pull/4160) |
-| fix(footer): open internal navigation links in same tab | Medium | [#4159](https://github.com/OWASP/Nest/pull/4159) |
 | Standardize Date/Time Handling Across Frontend to Eliminate Timezone Regressions | Medium | [#4158](https://github.com/OWASP/Nest/issues/4158) |
 | Implement Project Subscriptions & Subscription Frontend UI | Medium | [#4145](https://github.com/OWASP/Nest/issues/4145) |
 | feat: Extend Chapters Page Search with Country Filter and Sort Options | Medium | [#4143](https://github.com/OWASP/Nest/pull/4143) |
-| Added login and name in ordering list-members literal and wrote unit tests for new feature | Medium | [#4140](https://github.com/OWASP/Nest/pull/4140) |
 | bug: strict validation for facet_filters list in core validators | Medium | [#4138](https://github.com/OWASP/Nest/issues/4138) |
-| fix(#4041): Include today's events in upcoming_events() query | Medium | [#4132](https://github.com/OWASP/Nest/pull/4132) |
 | perf(frontend): convert home page to server component for better SSR | Medium | [#4131](https://github.com/OWASP/Nest/pull/4131) |
-| Add name and login ordering support to list_members endpoint | Medium | [#4130](https://github.com/OWASP/Nest/pull/4130) |
 | fix: disable search auto-focus on mobile/touch devices | Medium | [#4128](https://github.com/OWASP/Nest/pull/4128) |
 | feat: Algolia config error handling | Medium | [#4126](https://github.com/OWASP/Nest/pull/4126) |
-| fix: resolve footer layout break between 647px and 764px | Medium | [#4118](https://github.com/OWASP/Nest/pull/4118) |
-| fix: improve OpenAI error handling with specific exception types | Medium | [#4111](https://github.com/OWASP/Nest/pull/4111) |
-| feat: add country filter and sort to chapters | Medium | [#4109](https://github.com/OWASP/Nest/pull/4109) |
-| Add Windows Contributor Onboarding Guide | Medium | [#4108](https://github.com/OWASP/Nest/issues/4108) |
 
 ---
 
@@ -286,6 +283,9 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#299](https://github.com/Devasy/splitwiser/pull/299) |
+| enhance: Add skeleton loading to mobile Home screen | Medium | [#298](https://github.com/Devasy/splitwiser/pull/298) |
+| enhance: Add complete skeleton loading for GroupDetails page | Medium | [#297](https://github.com/Devasy/splitwiser/pull/297) |
 | enhance: Add image upload cropping to Profile | Medium | [#296](https://github.com/Devasy/splitwiser/pull/296) |
 | style: Consistent hover/focus states across buttons | Medium | [#295](https://github.com/Devasy/splitwiser/pull/295) |
 | Add skeleton loading to HomeScreen | Medium | [#294](https://github.com/Devasy/splitwiser/pull/294) |
@@ -313,9 +313,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | ux: Add animated success celebration when settled up | Medium | [#270](https://github.com/Devasy/splitwiser/pull/270) |
 | style: Consistent hover/focus states | Medium | [#267](https://github.com/Devasy/splitwiser/pull/267) |
 | Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
-| Add haptic pull-to-refresh to lists | Medium | [#257](https://github.com/Devasy/splitwiser/pull/257) |
-| ux: Add ErrorBoundary with retry for API failures | Medium | [#249](https://github.com/Devasy/splitwiser/pull/249) |
-| Implement Splitwise import functionality | Medium | [#239](https://github.com/Devasy/splitwiser/pull/239) |
 
 ---
 
@@ -584,11 +581,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Dashboard Pages - Scrollbar, Header, Footer, and Navigation Inconsistencies | Medium | [#1701](https://github.com/omroy07/AgriTech/issues/1701) |
-| fix: resolve theme toggle inconsistency across dashboard pages | Medium | [#1700](https://github.com/omroy07/AgriTech/pull/1700) |
-| Fix Broken Links in Footer of Disease Detector Page | Medium | [#1699](https://github.com/omroy07/AgriTech/issues/1699) |
-| Fix Dark/Light Toggle on Plantation Page & Remove Extra Scroll-To-Top Button | Medium | [#1698](https://github.com/omroy07/AgriTech/issues/1698) |
-| Dark/Light Toggle Not Working on Shopkeeper Page | Medium | [#1697](https://github.com/omroy07/AgriTech/issues/1697) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | Livestock Management System | Medium | [#1682](https://github.com/omroy07/AgriTech/pull/1682) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
@@ -1189,7 +1181,12 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the production-dependencies group across 1 directory with 14 updates | Medium | [#138](https://github.com/Xenonesis/code-guardian-report/pull/138) |
+| chore(deps): bump the production-dependencies group across 1 directory with 17 updates | Medium | [#144](https://github.com/Xenonesis/code-guardian-report/pull/144) |
+| Title: DX: Implement GitHub Issue Template for contributors | Medium | [#143](https://github.com/Xenonesis/code-guardian-report/issues/143) |
+| Title: TypeScript: Replace implicit 'any' usage in core services | Medium | [#142](https://github.com/Xenonesis/code-guardian-report/issues/142) |
+| Title: Refactor: Remove legacy Jest dependencies and config | Medium | [#141](https://github.com/Xenonesis/code-guardian-report/issues/141) |
+| Title: Docs: Synchronize CONTRIBUTING.md with current Next.js/React stack | Medium | [#140](https://github.com/Xenonesis/code-guardian-report/issues/140) |
+| feat: Add MCP Server for AI Integration | Medium | [#139](https://github.com/Xenonesis/code-guardian-report/pull/139) |
 | Feature: Add Contact Us Footer Section (#122) | Medium | [#136](https://github.com/Xenonesis/code-guardian-report/pull/136) |
 | Fix: Notification Panel Overlay Visibility (#121) | Medium | [#135](https://github.com/Xenonesis/code-guardian-report/pull/135) |
 | Fix: Mobile Button Overlap in Legal Section (#120) | Medium | [#134](https://github.com/Xenonesis/code-guardian-report/pull/134) |
@@ -1208,11 +1205,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | UI Redesign: Homepage & Footer | Medium | [#104](https://github.com/Xenonesis/code-guardian-report/issues/104) |
 | docs: fix Getting Started instructions and clarify setup | Medium | [#102](https://github.com/Xenonesis/code-guardian-report/pull/102) |
 | chore(deps): bump eslint from 8.57.1 to 9.39.2 in /functions | Medium | [#84](https://github.com/Xenonesis/code-guardian-report/pull/84) |
-| chore(deps): bump firebase-functions from 7.0.0 to 7.0.2 in /functions | Medium | [#83](https://github.com/Xenonesis/code-guardian-report/pull/83) |
-| chore(deps): bump @types/node from 18.19.130 to 25.0.3 in /functions | Medium | [#82](https://github.com/Xenonesis/code-guardian-report/pull/82) |
-| chore(deps): bump @typescript-eslint/parser from 5.62.0 to 8.51.0 in /functions | Medium | [#81](https://github.com/Xenonesis/code-guardian-report/pull/81) |
-| chore(deps): bump @typescript-eslint/eslint-plugin from 5.62.0 to 8.51.0 in /functions | Medium | [#80](https://github.com/Xenonesis/code-guardian-report/pull/80) |
-| ci(deps): bump github/codeql-action from 3 to 4 | Medium | [#79](https://github.com/Xenonesis/code-guardian-report/pull/79) |
 
 ---
 
@@ -1230,9 +1222,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| refactor: improve code quality, type safety, and consistency | Medium | [#211](https://github.com/deskree-inc/blok/pull/211) |
 | Rename `nanoservice-ts` → `blok` (core framework + HTTP trigger) | Medium | [#210](https://github.com/deskree-inc/blok/issues/210) |
 | 🧱 Expand Blok Documentation with End-to-End Modular Workflow Example | Medium | [#209](https://github.com/deskree-inc/blok/issues/209) |
-| some non-functional improvements | Medium | [#208](https://github.com/deskree-inc/blok/pull/208) |
 | Update README badge links | Medium | [#204](https://github.com/deskree-inc/blok/pull/204) |
 | There is no link in the license | Medium | [#202](https://github.com/deskree-inc/blok/issues/202) |
 | Footer-UI Enhancement | Medium | [#201](https://github.com/deskree-inc/blok/issues/201) |
