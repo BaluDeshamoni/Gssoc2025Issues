@@ -163,31 +163,29 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Nest's Deepwiki link to Readme/contributing guide | Easy | [#4195](https://github.com/OWASP/Nest/issues/4195) |
-| Migrate backend to ECS | Easy | [#4187](https://github.com/OWASP/Nest/pull/4187) |
-| Move env variables documentation to backend/frontend README files | Easy | [#4185](https://github.com/OWASP/Nest/pull/4185) |
+| refactor: migrate ModuleNode to use strawberry-django decorator for consistency | Medium | [#4226](https://github.com/OWASP/Nest/issues/4226) |
+| Redesigns the Project Timeline section on the About page for better readability and interactivity. | Medium | [#4221](https://github.com/OWASP/Nest/pull/4221) |
+| fix: Improve ProgramForm validation to avoid duplicate backend requests | Medium | [#4216](https://github.com/OWASP/Nest/pull/4216) |
+| Make Nest Logos Clickable | Medium | [#4215](https://github.com/OWASP/Nest/issues/4215) |
+| Track and capture OWASP contributions across platforms beyond GitHub | Medium | [#4208](https://github.com/OWASP/Nest/issues/4208) |
+| Introduced phase-based grouping that organizes timeline items into 4 meaningful project phases | Medium | [#4205](https://github.com/OWASP/Nest/pull/4205) |
+| Feature/swagger UI theme support 4197 | Medium | [#4203](https://github.com/OWASP/Nest/pull/4203) |
+| feat: add reusable search component with category filter and sorting | Medium | [#4199](https://github.com/OWASP/Nest/pull/4199) |
 | Add a contributor profile edit option | Medium | [#4194](https://github.com/OWASP/Nest/issues/4194) |
 | Add Architectural Diagrams for OWASP Nest | Medium | [#4188](https://github.com/OWASP/Nest/issues/4188) |
 | feat: add country filter and sorting options in Chapters Page | Medium | [#4186](https://github.com/OWASP/Nest/pull/4186) |
 | refactor: simplify Event.parse_dates method | Medium | [#4176](https://github.com/OWASP/Nest/issues/4176) |
 | refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#4175](https://github.com/OWASP/Nest/issues/4175) |
-| fix: enforce strict equality and optimize skeleton rendering logic | Medium | [#4174](https://github.com/OWASP/Nest/pull/4174) |
 | feat(ai): add collaborative multi-agent flow for low-confidence queries | Medium | [#4170](https://github.com/OWASP/Nest/pull/4170) |
 | Added category filter and unified sorting to Projects search component | Medium | [#4168](https://github.com/OWASP/Nest/pull/4168) |
 | Implement GraphQL Query Performance Monitoring and Optimization | Medium | [#4161](https://github.com/OWASP/Nest/issues/4161) |
-| feat: Move Main Page Search to Global Navigation & Simplify Search UI/UX | Medium | [#4160](https://github.com/OWASP/Nest/pull/4160) |
-| fix(footer): open internal navigation links in same tab | Medium | [#4159](https://github.com/OWASP/Nest/pull/4159) |
 | Standardize Date/Time Handling Across Frontend to Eliminate Timezone Regressions | Medium | [#4158](https://github.com/OWASP/Nest/issues/4158) |
 | Implement Project Subscriptions & Subscription Frontend UI | Medium | [#4145](https://github.com/OWASP/Nest/issues/4145) |
 | feat: Extend Chapters Page Search with Country Filter and Sort Options | Medium | [#4143](https://github.com/OWASP/Nest/pull/4143) |
-| Added login and name in ordering list-members literal and wrote unit tests for new feature | Medium | [#4140](https://github.com/OWASP/Nest/pull/4140) |
 | bug: strict validation for facet_filters list in core validators | Medium | [#4138](https://github.com/OWASP/Nest/issues/4138) |
-| fix(#4041): Include today's events in upcoming_events() query | Medium | [#4132](https://github.com/OWASP/Nest/pull/4132) |
 | perf(frontend): convert home page to server component for better SSR | Medium | [#4131](https://github.com/OWASP/Nest/pull/4131) |
-| Add name and login ordering support to list_members endpoint | Medium | [#4130](https://github.com/OWASP/Nest/pull/4130) |
 | fix: disable search auto-focus on mobile/touch devices | Medium | [#4128](https://github.com/OWASP/Nest/pull/4128) |
 | feat: Algolia config error handling | Medium | [#4126](https://github.com/OWASP/Nest/pull/4126) |
-| fix: resolve footer layout break between 647px and 764px | Medium | [#4118](https://github.com/OWASP/Nest/pull/4118) |
 
 ---
 
@@ -228,7 +226,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| all code push from shree branch to base branch | Medium | [#624](https://github.com/Dipanita45/HEALCONNECT/pull/624) |
+| # Fix Client-Side Exceptions on FAQ & Appointments Pages (Solved Issues #642 and #639) | Medium | [#647](https://github.com/Dipanita45/HEALCONNECT/pull/647) |
+| Enhancement: Implement Skeleton Loaders for Better UX | Medium | [#645](https://github.com/Dipanita45/HEALCONNECT/issues/645) |
+| Enhancement: Improve Footer with Useful Links and Resources | Medium | [#644](https://github.com/Dipanita45/HEALCONNECT/issues/644) |
+| Fix deployment step ID in GitHub Actions workflow | Medium | [#641](https://github.com/Dipanita45/HEALCONNECT/pull/641) |
 
 ---
 
@@ -491,17 +492,16 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 📝[Docs]: Integrate Pandas as a Data Structure module within Python Section | Easy | [#1293](https://github.com/recodehive/recode-website/issues/1293) |
+| chore: bump react-icons from 5.5.0 to 5.6.0 | Easy | [#1298](https://github.com/recodehive/recode-website/pull/1298) |
+| chore: bump lucide-react from 0.503.0 to 0.577.0 | Easy | [#1296](https://github.com/recodehive/recode-website/pull/1296) |
 | Removed the UI Inconsistencies in Testimonials and FAQs Pages | Easy | [#1290](https://github.com/recodehive/recode-website/pull/1290) |
 | This PR fixes issue #1286 where mobile screens showed extra blank space | Easy | [#1289](https://github.com/recodehive/recode-website/pull/1289) |
-| chore: bump dotenv from 17.2.3 to 17.3.1 | Easy | [#1283](https://github.com/recodehive/recode-website/pull/1283) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump tailwindcss from 4.1.14 to 4.2.1 | Medium | [#1285](https://github.com/recodehive/recode-website/pull/1285) |
-| chore: bump eslint from 9.38.0 to 10.0.2 | Medium | [#1284](https://github.com/recodehive/recode-website/pull/1284) |
-| chore: bump @typescript-eslint/parser from 8.46.2 to 8.56.1 | Medium | [#1282](https://github.com/recodehive/recode-website/pull/1282) |
-| chore: bump lucide-react from 0.503.0 to 0.575.0 | Medium | [#1281](https://github.com/recodehive/recode-website/pull/1281) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.57.0 | Medium | [#1299](https://github.com/recodehive/recode-website/pull/1299) |
+| chore: bump firebase from 9.23.0 to 12.10.0 | Medium | [#1297](https://github.com/recodehive/recode-website/pull/1297) |
+| chore: bump lint-staged from 16.2.4 to 16.3.2 | Medium | [#1295](https://github.com/recodehive/recode-website/pull/1295) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
@@ -1303,24 +1303,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
 | Add Contact Page | Medium | [#4](https://github.com/subhadeeproy3902/mvpblocks/issues/4) |
-
----
-
-## 📌 Project: Smriti AI
-
-📝 **Description:** Smriti AI is an intelligent, all-in-one learning assistant that helps you organize, understand, and retain everything you study from notes and youtube videos.
-
-🔗 [View Project](https://github.com/vatsal-bhakodia/smriti-ai)
-
-💻 **Tech Stack:** Next.js, Prisma, PostgreSQL, Clerk Auth
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add missing payment integration documentation and setup guide for Stripe | Medium | [#229](https://github.com/vatsal-bhakodia/smriti-ai/issues/229) |
 
 ---
 
