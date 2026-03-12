@@ -79,30 +79,6 @@
 
 ---
 
-## 📌 Project: Brevity
-
-📝 **Description:** Brevity is an AI-powered news curation app that delivers seamless and concise news built with Flutter, Firebase, and upcoming with Chatbot and nodejs backend support. It aims to simplify how users consume news—through clean UI, fast performance, and future-ready AI features like summarization and myth-busting chatbot.
-
-🔗 [View Project](https://github.com/Yash159357/BREVITY)
-
-💻 **Tech Stack:** Flutter, Dart, Firebase, Node.js, Express.js, MongoDB, REST API, Shared Preferences
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added logs in settings.dart | Easy | [#328](https://github.com/Yash159357/BlyFt/pull/328) |
-| Added logs in search_result.dart | Easy | [#327](https://github.com/Yash159357/BlyFt/pull/327) |
-| Added logs in profile.dart | Easy | [#326](https://github.com/Yash159357/BlyFt/pull/326) |
-| Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
-| Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
-| Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
-| Logging in Core Models (Part 1) | Easy | [#299](https://github.com/Yash159357/BlyFt/issues/299) |
-
----
-
 ## 📌 Project: TextEditingApp
 
 📝 **Description:** This is a basic text editing app made for fun, any contributions are welcome, Let's make a fun app with a lot more cool features.
