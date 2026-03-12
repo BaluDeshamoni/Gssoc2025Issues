@@ -224,7 +224,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Remove Offline/Cache Warning Banner from Production UI | Medium | [#1506](https://github.com/omroy07/AgriTech/issues/1506) |
 | feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
 | Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
-| Add /examples directory for API documentation and Model usage | Medium | [#1442](https://github.com/omroy07/AgriTech/issues/1442) |
+| Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
 
 ---
 
