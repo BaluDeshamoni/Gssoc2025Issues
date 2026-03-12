@@ -197,7 +197,10 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| refactor: migrate ModuleNode to use strawberry-django decorator for consistency | Medium | [#4226](https://github.com/OWASP/Nest/issues/4226) |
+| Add OWASP Nest theme support for Swagger UI | Medium | [#4245](https://github.com/OWASP/Nest/pull/4245) |
+| feat: add OWASP Nest theme support for API Swagger UI | Medium | [#4244](https://github.com/OWASP/Nest/pull/4244) |
+| feat: Add custom dark/light theme to Swagger UI | Medium | [#4237](https://github.com/OWASP/Nest/pull/4237) |
+| Fix project selection clearing on blur in module form | Medium | [#4234](https://github.com/OWASP/Nest/pull/4234) |
 | Redesigns the Project Timeline section on the About page for better readability and interactivity. | Medium | [#4221](https://github.com/OWASP/Nest/pull/4221) |
 | fix: Improve ProgramForm validation to avoid duplicate backend requests | Medium | [#4216](https://github.com/OWASP/Nest/pull/4216) |
 | Make Nest Logos Clickable | Medium | [#4215](https://github.com/OWASP/Nest/issues/4215) |
@@ -206,8 +209,6 @@ Accessibility features like dark mode,white.
 | Feature/swagger UI theme support 4197 | Medium | [#4203](https://github.com/OWASP/Nest/pull/4203) |
 | feat: add reusable search component with category filter and sorting | Medium | [#4199](https://github.com/OWASP/Nest/pull/4199) |
 | Add a contributor profile edit option | Medium | [#4194](https://github.com/OWASP/Nest/issues/4194) |
-| Add Architectural Diagrams for OWASP Nest | Medium | [#4188](https://github.com/OWASP/Nest/issues/4188) |
-| feat: add country filter and sorting options in Chapters Page | Medium | [#4186](https://github.com/OWASP/Nest/pull/4186) |
 | refactor: simplify Event.parse_dates method | Medium | [#4176](https://github.com/OWASP/Nest/issues/4176) |
 | refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#4175](https://github.com/OWASP/Nest/issues/4175) |
 | feat(ai): add collaborative multi-agent flow for low-confidence queries | Medium | [#4170](https://github.com/OWASP/Nest/pull/4170) |
@@ -215,11 +216,7 @@ Accessibility features like dark mode,white.
 | Implement GraphQL Query Performance Monitoring and Optimization | Medium | [#4161](https://github.com/OWASP/Nest/issues/4161) |
 | Standardize Date/Time Handling Across Frontend to Eliminate Timezone Regressions | Medium | [#4158](https://github.com/OWASP/Nest/issues/4158) |
 | Implement Project Subscriptions & Subscription Frontend UI | Medium | [#4145](https://github.com/OWASP/Nest/issues/4145) |
-| feat: Extend Chapters Page Search with Country Filter and Sort Options | Medium | [#4143](https://github.com/OWASP/Nest/pull/4143) |
 | bug: strict validation for facet_filters list in core validators | Medium | [#4138](https://github.com/OWASP/Nest/issues/4138) |
-| perf(frontend): convert home page to server component for better SSR | Medium | [#4131](https://github.com/OWASP/Nest/pull/4131) |
-| fix: disable search auto-focus on mobile/touch devices | Medium | [#4128](https://github.com/OWASP/Nest/pull/4128) |
-| feat: Algolia config error handling | Medium | [#4126](https://github.com/OWASP/Nest/pull/4126) |
 
 ---
 
@@ -930,7 +927,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Unrealistic / Distracting Image Hover Effect | Easy | [#93](https://github.com/Sahilll94/Travel-Book/issues/93) |
-| Create `src/utils` Directory for Common Helper Functions | Easy | [#91](https://github.com/Sahilll94/Travel-Book/issues/91) |
+| Improve Contributors Button UI and Landing Page Visual Polish | Medium | [#128](https://github.com/Sahilll94/Travel-Book/pull/128) |
 | docs: add environment variables summary section | Medium | [#127](https://github.com/Sahilll94/Travel-Book/pull/127) |
 | Add Smart Search with Auto-Suggestions for Travel Stories | Medium | [#126](https://github.com/Sahilll94/Travel-Book/issues/126) |
 | Fixed Profile Picture not loading Error, Implemented uniform navbar and footer | Medium | [#125](https://github.com/Sahilll94/Travel-Book/pull/125) |
@@ -1010,30 +1007,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Insecure Password Reset Functionality | Medium | [#179](https://github.com/samarsajad/Hospital_Management_Website/issues/179) |
 | Make  Footer Visible on All Pages | Medium | [#176](https://github.com/samarsajad/Hospital_Management_Website/issues/176) |
 | UI enhancement | Medium | [#163](https://github.com/samarsajad/Hospital_Management_Website/issues/163) |
-
----
-
-## 📌 Project: Brevity
-
-📝 **Description:** Brevity is an AI-powered news curation app that delivers seamless and concise news built with Flutter, Firebase, and upcoming with Chatbot and nodejs backend support. It aims to simplify how users consume news—through clean UI, fast performance, and future-ready AI features like summarization and myth-busting chatbot.
-
-🔗 [View Project](https://github.com/Yash159357/BREVITY)
-
-💻 **Tech Stack:** Flutter, Dart, Firebase, Node.js, Express.js, MongoDB, REST API, Shared Preferences
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Added logs in settings.dart | Easy | [#328](https://github.com/Yash159357/BlyFt/pull/328) |
-| Added logs in search_result.dart | Easy | [#327](https://github.com/Yash159357/BlyFt/pull/327) |
-| Added logs in profile.dart | Easy | [#326](https://github.com/Yash159357/BlyFt/pull/326) |
-| Logging in Common Widgets (Part 2) | Easy | [#303](https://github.com/Yash159357/BlyFt/issues/303) |
-| Logging in Auth View Files | Easy | [#301](https://github.com/Yash159357/BlyFt/issues/301) |
-| Logging in Core Models (Part 2) | Easy | [#300](https://github.com/Yash159357/BlyFt/issues/300) |
-| Logging in Core Models (Part 1) | Easy | [#299](https://github.com/Yash159357/BlyFt/issues/299) |
 
 ---
 
@@ -1776,6 +1749,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Non-Atomic NFT Purchase in Marketplace | Medium | [#465](https://github.com/IndieHub25/GroqTales/issues/465) |
+| Add newsletter subscription feature for user engagement | Medium | [#464](https://github.com/IndieHub25/GroqTales/issues/464) |
+| Scroll-to-top button overlaps footer links on GroqTales website | Medium | [#463](https://github.com/IndieHub25/GroqTales/issues/463) |
 | feat: implement public shareable story pages with OpenGraph tags (Fix… | Medium | [#419](https://github.com/IndieHub25/GroqTales/pull/419) |
 | Setup Playwright E2E coverage for Wallet login and NFT Minting | Medium | [#410](https://github.com/IndieHub25/GroqTales/issues/410) |
 | Feat: Add multilingual generation support to Groq AI engine | Medium | [#409](https://github.com/IndieHub25/GroqTales/issues/409) |
