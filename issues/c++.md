@@ -14,10 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| # Fix Client-Side Exceptions on FAQ & Appointments Pages (Solved Issues #642 and #639) | Medium | [#647](https://github.com/Dipanita45/HEALCONNECT/pull/647) |
-| Enhancement: Implement Skeleton Loaders for Better UX | Medium | [#645](https://github.com/Dipanita45/HEALCONNECT/issues/645) |
-| Enhancement: Improve Footer with Useful Links and Resources | Medium | [#644](https://github.com/Dipanita45/HEALCONNECT/issues/644) |
-| Fix deployment step ID in GitHub Actions workflow | Medium | [#641](https://github.com/Dipanita45/HEALCONNECT/pull/641) |
+| Enhancement: Improve Footer with Useful Links and Resources | Medium | [#652](https://github.com/Dipanita45/HEALCONNECT/pull/652) |
+| Enhancement: Premium Prescription Management & Advanced Validations | Medium | [#651](https://github.com/Dipanita45/HEALCONNECT/pull/651) |
+| Enhancement: Implement Skeleton Loaders for Better UX | Medium | [#650](https://github.com/Dipanita45/HEALCONNECT/pull/650) |
 
 ---
 
