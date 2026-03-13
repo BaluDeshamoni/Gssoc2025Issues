@@ -15,7 +15,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhancement: Improve Footer with Useful Links and Resources | Medium | [#652](https://github.com/Dipanita45/HEALCONNECT/pull/652) |
-| Enhancement: Premium Prescription Management & Advanced Validations | Medium | [#651](https://github.com/Dipanita45/HEALCONNECT/pull/651) |
 | Enhancement: Implement Skeleton Loaders for Better UX | Medium | [#650](https://github.com/Dipanita45/HEALCONNECT/pull/650) |
 
 ---
@@ -56,6 +55,7 @@
 |----------|----------------|---------|
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
+| refactor(hybrid-storage): Add [[nodiscard]] and noexcept Attributes #166 | Medium | [#201](https://github.com/SharonIV0x86/CinderPeak/pull/201) |
 | fix: unresolved logger variables and batch script logicUpdate LogExample and tweak auto-format script | Medium | [#200](https://github.com/SharonIV0x86/CinderPeak/pull/200) |
 | refactor(adjacency-storage): replace LOG_ macro with policy handler logging | Medium | [#193](https://github.com/SharonIV0x86/CinderPeak/pull/193) |
 
