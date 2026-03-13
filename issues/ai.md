@@ -254,6 +254,11 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Refactor Infrastructure Code | Easy | [#4258](https://github.com/OWASP/Nest/pull/4258) |
+| refactor: migrate ModuleNode to use strawberry-django decorator for consistency | Medium | [#4256](https://github.com/OWASP/Nest/pull/4256) |
+| feat: Improve grouping and visual distinction of Project Timeline on the About  page | Medium | [#4255](https://github.com/OWASP/Nest/pull/4255) |
+| fix/allow program admins to set and clear issue deadlines | Medium | [#4254](https://github.com/OWASP/Nest/pull/4254) |
+| Add Nest themes (light/dark) to Swagger UI | Medium | [#4253](https://github.com/OWASP/Nest/pull/4253) |
 | Add OWASP Nest theme support for Swagger UI | Medium | [#4245](https://github.com/OWASP/Nest/pull/4245) |
 | feat: add OWASP Nest theme support for API Swagger UI | Medium | [#4244](https://github.com/OWASP/Nest/pull/4244) |
 | feat: Add custom dark/light theme to Swagger UI | Medium | [#4237](https://github.com/OWASP/Nest/pull/4237) |
@@ -267,13 +272,6 @@ Accessibility features like dark mode,white.
 | feat: add reusable search component with category filter and sorting | Medium | [#4199](https://github.com/OWASP/Nest/pull/4199) |
 | Add a contributor profile edit option | Medium | [#4194](https://github.com/OWASP/Nest/issues/4194) |
 | refactor: simplify Event.parse_dates method | Medium | [#4176](https://github.com/OWASP/Nest/issues/4176) |
-| refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#4175](https://github.com/OWASP/Nest/issues/4175) |
-| feat(ai): add collaborative multi-agent flow for low-confidence queries | Medium | [#4170](https://github.com/OWASP/Nest/pull/4170) |
-| Added category filter and unified sorting to Projects search component | Medium | [#4168](https://github.com/OWASP/Nest/pull/4168) |
-| Implement GraphQL Query Performance Monitoring and Optimization | Medium | [#4161](https://github.com/OWASP/Nest/issues/4161) |
-| Standardize Date/Time Handling Across Frontend to Eliminate Timezone Regressions | Medium | [#4158](https://github.com/OWASP/Nest/issues/4158) |
-| Implement Project Subscriptions & Subscription Frontend UI | Medium | [#4145](https://github.com/OWASP/Nest/issues/4145) |
-| bug: strict validation for facet_filters list in core validators | Medium | [#4138](https://github.com/OWASP/Nest/issues/4138) |
 
 ---
 
@@ -560,7 +558,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Enhancement: Improve Footer with Useful Links and Resources | Medium | [#652](https://github.com/Dipanita45/HEALCONNECT/pull/652) |
-| Enhancement: Premium Prescription Management & Advanced Validations | Medium | [#651](https://github.com/Dipanita45/HEALCONNECT/pull/651) |
 | Enhancement: Implement Skeleton Loaders for Better UX | Medium | [#650](https://github.com/Dipanita45/HEALCONNECT/pull/650) |
 
 ---
@@ -2568,6 +2565,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| update fumadocs dependencies to the exact versions | Medium | [#139](https://github.com/subhadeeproy3902/mvpblocks/pull/139) |
+| Missing lockfile causes broken dependency for new contributors | Medium | [#138](https://github.com/subhadeeproy3902/mvpblocks/issues/138) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
