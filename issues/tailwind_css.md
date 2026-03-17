@@ -100,7 +100,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump the npm_and_yarn group across 2 directories with 2 updates | Medium | [#748](https://github.com/abhisek2004/Dev-Elevate/pull/748) |
+| Bump the npm_and_yarn group across 2 directories with 6 updates | Medium | [#749](https://github.com/abhisek2004/Dev-Elevate/pull/749) |
 | Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -254,16 +254,22 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add OWASP Nest theme support for Swagger UI | Medium | [#4245](https://github.com/OWASP/Nest/pull/4245) |
-| feat: add OWASP Nest theme support for API Swagger UI | Medium | [#4244](https://github.com/OWASP/Nest/pull/4244) |
-| feat: Add custom dark/light theme to Swagger UI | Medium | [#4237](https://github.com/OWASP/Nest/pull/4237) |
-| Fix project selection clearing on blur in module form | Medium | [#4234](https://github.com/OWASP/Nest/pull/4234) |
-| Redesigns the Project Timeline section on the About page for better readability and interactivity. | Medium | [#4221](https://github.com/OWASP/Nest/pull/4221) |
+| Bug: Leaflet map throws TypeError on Chapters page | Medium | [#4286](https://github.com/OWASP/Nest/issues/4286) |
+| Feature/search bar UI | Medium | [#4285](https://github.com/OWASP/Nest/pull/4285) |
+| Prevent false project leader detection caused by substring matching | Medium | [#4283](https://github.com/OWASP/Nest/issues/4283) |
+| Chapters page not responsive and country filter input resets when clearing selection | Medium | [#4282](https://github.com/OWASP/Nest/issues/4282) |
+| Restrict access to Module Issues page | Medium | [#4281](https://github.com/OWASP/Nest/pull/4281) |
+| Optimize My Mentorship page by conditionally skipping GetMyPrograms query | Medium | [#4277](https://github.com/OWASP/Nest/issues/4277) |
+| Improved OWASP Nest member ranking algorithm | Medium | [#4273](https://github.com/OWASP/Nest/pull/4273) |
+| Introduce a Unified Domain Layer for Business Logic | Medium | [#4271](https://github.com/OWASP/Nest/issues/4271) |
+| Loading skeleton count does not match page size on Users and Organizations pages | Medium | [#4267](https://github.com/OWASP/Nest/issues/4267) |
+| Feat: Improve OWASP Nest member ranking by introducing calculated score–based algorithm | Medium | [#4266](https://github.com/OWASP/Nest/pull/4266) |
+| feat: implement multi-factor member scoring algorithm | Medium | [#4264](https://github.com/OWASP/Nest/pull/4264) |
+| refactor: migrate ModuleNode to use strawberry-django decorator for consistency | Medium | [#4256](https://github.com/OWASP/Nest/pull/4256) |
+| fix/allow program admins to set and clear issue deadlines | Medium | [#4254](https://github.com/OWASP/Nest/pull/4254) |
 | fix: Improve ProgramForm validation to avoid duplicate backend requests | Medium | [#4216](https://github.com/OWASP/Nest/pull/4216) |
 | Make Nest Logos Clickable | Medium | [#4215](https://github.com/OWASP/Nest/issues/4215) |
 | Track and capture OWASP contributions across platforms beyond GitHub | Medium | [#4208](https://github.com/OWASP/Nest/issues/4208) |
-| Introduced phase-based grouping that organizes timeline items into 4 meaningful project phases | Medium | [#4205](https://github.com/OWASP/Nest/pull/4205) |
-| Feature/swagger UI theme support 4197 | Medium | [#4203](https://github.com/OWASP/Nest/pull/4203) |
 | feat: add reusable search component with category filter and sorting | Medium | [#4199](https://github.com/OWASP/Nest/pull/4199) |
 | Add a contributor profile edit option | Medium | [#4194](https://github.com/OWASP/Nest/issues/4194) |
 | refactor: simplify Event.parse_dates method | Medium | [#4176](https://github.com/OWASP/Nest/issues/4176) |
@@ -271,9 +277,6 @@ Accessibility features like dark mode,white.
 | feat(ai): add collaborative multi-agent flow for low-confidence queries | Medium | [#4170](https://github.com/OWASP/Nest/pull/4170) |
 | Added category filter and unified sorting to Projects search component | Medium | [#4168](https://github.com/OWASP/Nest/pull/4168) |
 | Implement GraphQL Query Performance Monitoring and Optimization | Medium | [#4161](https://github.com/OWASP/Nest/issues/4161) |
-| Standardize Date/Time Handling Across Frontend to Eliminate Timezone Regressions | Medium | [#4158](https://github.com/OWASP/Nest/issues/4158) |
-| Implement Project Subscriptions & Subscription Frontend UI | Medium | [#4145](https://github.com/OWASP/Nest/issues/4145) |
-| bug: strict validation for facet_filters list in core validators | Medium | [#4138](https://github.com/OWASP/Nest/issues/4138) |
 
 ---
 
@@ -527,9 +530,7 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Improve Footer with Useful Links and Resources | Medium | [#652](https://github.com/Dipanita45/HEALCONNECT/pull/652) |
-| Enhancement: Premium Prescription Management & Advanced Validations | Medium | [#651](https://github.com/Dipanita45/HEALCONNECT/pull/651) |
-| Enhancement: Implement Skeleton Loaders for Better UX | Medium | [#650](https://github.com/Dipanita45/HEALCONNECT/pull/650) |
+| **Title:** [Bug/Performance]: Severe Memory Leak and CPU Spikes in ECG Real-time Chart Rendering | Medium | [#655](https://github.com/Dipanita45/HEALCONNECT/issues/655) |
 
 ---
 
@@ -1156,6 +1157,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added a new feature and the activty will be sync with github profile | Medium | [#73](https://github.com/karmveershubham/CodeStreak/pull/73) |
 | <title>Adding closing button in login page | Medium | [#72](https://github.com/karmveershubham/CodeStreak/issues/72) |
 | Bump winston from 3.17.0 to 3.19.0 | Medium | [#71](https://github.com/karmveershubham/CodeStreak/pull/71) |
 | Login Page Improvements | Medium | [#69](https://github.com/karmveershubham/CodeStreak/issues/69) |
