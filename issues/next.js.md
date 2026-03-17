@@ -163,24 +163,29 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor Infrastructure Code | Easy | [#4258](https://github.com/OWASP/Nest/pull/4258) |
+| Bug: Leaflet map throws TypeError on Chapters page | Medium | [#4286](https://github.com/OWASP/Nest/issues/4286) |
+| Feature/search bar UI | Medium | [#4285](https://github.com/OWASP/Nest/pull/4285) |
+| Prevent false project leader detection caused by substring matching | Medium | [#4283](https://github.com/OWASP/Nest/issues/4283) |
+| Chapters page not responsive and country filter input resets when clearing selection | Medium | [#4282](https://github.com/OWASP/Nest/issues/4282) |
+| Restrict access to Module Issues page | Medium | [#4281](https://github.com/OWASP/Nest/pull/4281) |
+| Optimize My Mentorship page by conditionally skipping GetMyPrograms query | Medium | [#4277](https://github.com/OWASP/Nest/issues/4277) |
+| Improved OWASP Nest member ranking algorithm | Medium | [#4273](https://github.com/OWASP/Nest/pull/4273) |
+| Introduce a Unified Domain Layer for Business Logic | Medium | [#4271](https://github.com/OWASP/Nest/issues/4271) |
+| Loading skeleton count does not match page size on Users and Organizations pages | Medium | [#4267](https://github.com/OWASP/Nest/issues/4267) |
+| Feat: Improve OWASP Nest member ranking by introducing calculated score–based algorithm | Medium | [#4266](https://github.com/OWASP/Nest/pull/4266) |
+| feat: implement multi-factor member scoring algorithm | Medium | [#4264](https://github.com/OWASP/Nest/pull/4264) |
 | refactor: migrate ModuleNode to use strawberry-django decorator for consistency | Medium | [#4256](https://github.com/OWASP/Nest/pull/4256) |
-| feat: Improve grouping and visual distinction of Project Timeline on the About  page | Medium | [#4255](https://github.com/OWASP/Nest/pull/4255) |
 | fix/allow program admins to set and clear issue deadlines | Medium | [#4254](https://github.com/OWASP/Nest/pull/4254) |
-| Add Nest themes (light/dark) to Swagger UI | Medium | [#4253](https://github.com/OWASP/Nest/pull/4253) |
-| Add OWASP Nest theme support for Swagger UI | Medium | [#4245](https://github.com/OWASP/Nest/pull/4245) |
-| feat: add OWASP Nest theme support for API Swagger UI | Medium | [#4244](https://github.com/OWASP/Nest/pull/4244) |
-| feat: Add custom dark/light theme to Swagger UI | Medium | [#4237](https://github.com/OWASP/Nest/pull/4237) |
-| Fix project selection clearing on blur in module form | Medium | [#4234](https://github.com/OWASP/Nest/pull/4234) |
-| Redesigns the Project Timeline section on the About page for better readability and interactivity. | Medium | [#4221](https://github.com/OWASP/Nest/pull/4221) |
 | fix: Improve ProgramForm validation to avoid duplicate backend requests | Medium | [#4216](https://github.com/OWASP/Nest/pull/4216) |
 | Make Nest Logos Clickable | Medium | [#4215](https://github.com/OWASP/Nest/issues/4215) |
 | Track and capture OWASP contributions across platforms beyond GitHub | Medium | [#4208](https://github.com/OWASP/Nest/issues/4208) |
-| Introduced phase-based grouping that organizes timeline items into 4 meaningful project phases | Medium | [#4205](https://github.com/OWASP/Nest/pull/4205) |
-| Feature/swagger UI theme support 4197 | Medium | [#4203](https://github.com/OWASP/Nest/pull/4203) |
 | feat: add reusable search component with category filter and sorting | Medium | [#4199](https://github.com/OWASP/Nest/pull/4199) |
 | Add a contributor profile edit option | Medium | [#4194](https://github.com/OWASP/Nest/issues/4194) |
 | refactor: simplify Event.parse_dates method | Medium | [#4176](https://github.com/OWASP/Nest/issues/4176) |
+| refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#4175](https://github.com/OWASP/Nest/issues/4175) |
+| feat(ai): add collaborative multi-agent flow for low-confidence queries | Medium | [#4170](https://github.com/OWASP/Nest/pull/4170) |
+| Added category filter and unified sorting to Projects search component | Medium | [#4168](https://github.com/OWASP/Nest/pull/4168) |
+| Implement GraphQL Query Performance Monitoring and Optimization | Medium | [#4161](https://github.com/OWASP/Nest/issues/4161) |
 
 ---
 
@@ -221,8 +226,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Improve Footer with Useful Links and Resources | Medium | [#652](https://github.com/Dipanita45/HEALCONNECT/pull/652) |
-| Enhancement: Implement Skeleton Loaders for Better UX | Medium | [#650](https://github.com/Dipanita45/HEALCONNECT/pull/650) |
+| **Title:** [Bug/Performance]: Severe Memory Leak and CPU Spikes in ECG Real-time Chart Rendering | Medium | [#655](https://github.com/Dipanita45/HEALCONNECT/issues/655) |
 
 ---
 
@@ -356,6 +360,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Making instructions clear about opening in localhost | Easy | [#397](https://github.com/Muneerali199/Draftdeckai/issues/397) |
+| fix: Resolve merge conflict between feature/productivity-engine and main | Medium | [#417](https://github.com/Muneerali199/Draftdeckai/pull/417) |
 | fix(diagram): implement share button functionality with clipboard copy and toast feedback (closes #410) | Medium | [#416](https://github.com/Muneerali199/Draftdeckai/pull/416) |
 | feat: add AI Cover Letter Generator from Resume (#411) | Medium | [#415](https://github.com/Muneerali199/Draftdeckai/pull/415) |
 | feat: Add Productivity Engine - Structured Document System | Medium | [#412](https://github.com/Muneerali199/Draftdeckai/pull/412) |
@@ -373,7 +378,6 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | feat: Add ImportProfile component and update page.tsx (Fixes #23) | Medium | [#330](https://github.com/Muneerali199/Draftdeckai/pull/330) |
 | added the animation of increasing numbers in dashboard | Medium | [#329](https://github.com/Muneerali199/Draftdeckai/pull/329) |
 | chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/Draftdeckai/pull/324) |
-| fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/Draftdeckai/pull/323) |
 
 ---
 
@@ -485,16 +489,16 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump react-icons from 5.5.0 to 5.6.0 | Easy | [#1298](https://github.com/recodehive/recode-website/pull/1298) |
-| chore: bump lucide-react from 0.503.0 to 0.577.0 | Easy | [#1296](https://github.com/recodehive/recode-website/pull/1296) |
 | Removed the UI Inconsistencies in Testimonials and FAQs Pages | Easy | [#1290](https://github.com/recodehive/recode-website/pull/1290) |
 | This PR fixes issue #1286 where mobile screens showed extra blank space | Easy | [#1289](https://github.com/recodehive/recode-website/pull/1289) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.57.0 | Medium | [#1299](https://github.com/recodehive/recode-website/pull/1299) |
-| chore: bump firebase from 9.23.0 to 12.10.0 | Medium | [#1297](https://github.com/recodehive/recode-website/pull/1297) |
-| chore: bump lint-staged from 16.2.4 to 16.3.2 | Medium | [#1295](https://github.com/recodehive/recode-website/pull/1295) |
+| chore: bump @floating-ui/react from 0.27.16 to 0.27.19 | Medium | [#1305](https://github.com/recodehive/recode-website/pull/1305) |
+| chore: bump @vercel/analytics from 1.5.0 to 2.0.1 | Medium | [#1304](https://github.com/recodehive/recode-website/pull/1304) |
+| chore: bump postcss from 8.5.6 to 8.5.8 | Medium | [#1303](https://github.com/recodehive/recode-website/pull/1303) |
+| chore: bump lint-staged from 16.2.4 to 16.4.0 | Medium | [#1302](https://github.com/recodehive/recode-website/pull/1302) |
+| chore: bump autoprefixer from 10.4.21 to 10.4.27 | Medium | [#1301](https://github.com/recodehive/recode-website/pull/1301) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
@@ -562,6 +566,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added a new feature and the activty will be sync with github profile | Medium | [#73](https://github.com/karmveershubham/CodeStreak/pull/73) |
 | <title>Adding closing button in login page | Medium | [#72](https://github.com/karmveershubham/CodeStreak/issues/72) |
 | Bump winston from 3.17.0 to 3.19.0 | Medium | [#71](https://github.com/karmveershubham/CodeStreak/pull/71) |
 | Login Page Improvements | Medium | [#69](https://github.com/karmveershubham/CodeStreak/issues/69) |
@@ -718,6 +723,16 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: improve marketing navigation and add go-to-top | Medium | [#119](https://github.com/LarytheLord/Adventurers-Guild/pull/119) |
+| feat: Squad-Aware Quest Board UI — party slots, join flow, and squad filtering | Medium | [#111](https://github.com/LarytheLord/Adventurers-Guild/issues/111) |
+| feat: Hackathon → Quest Continuation Pipeline — first-refusal window for hackathon teams | Medium | [#110](https://github.com/LarytheLord/Adventurers-Guild/issues/110) |
+| feat: Admin Revenue Dashboard — GMV, MRR, fill rate, and take rate charts | Medium | [#109](https://github.com/LarytheLord/Adventurers-Guild/issues/109) |
+| feat: Quest Event Audit Trail — EventLog model and admin quest timeline | Medium | [#108](https://github.com/LarytheLord/Adventurers-Guild/issues/108) |
+| feat: API Key Budget Tracking — per-user weekly spend log and admin view | Medium | [#107](https://github.com/LarytheLord/Adventurers-Guild/issues/107) |
+| feat: Stripe Connect — Adventurer payout onboarding and PaymentIntent flow | Medium | [#106](https://github.com/LarytheLord/Adventurers-Guild/issues/106) |
+| feat: Admin QA Mediation Layer — pending_admin_review state and QA queue | Medium | [#105](https://github.com/LarytheLord/Adventurers-Guild/issues/105) |
+| feat: Squad/Party System — Schema, API, and Party Panel UI [S-rank] | Medium | [#104](https://github.com/LarytheLord/Adventurers-Guild/issues/104) |
+| feat: Phase 0 + Phase 1 + Phase 2 — Two-Track Architecture, Bootcamp Integration & Payment Infrastructure | Medium | [#103](https://github.com/LarytheLord/Adventurers-Guild/pull/103) |
 | Phase 1 | Medium | [#102](https://github.com/LarytheLord/Adventurers-Guild/pull/102) |
 | Fixed: Footer Section UI | Medium | [#93](https://github.com/LarytheLord/Adventurers-Guild/pull/93) |
 | Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
@@ -999,30 +1014,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
-## 📌 Project: GroqTales
-
-📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
-
-🔗 [View Project](https://github.com/Drago-03/GroqTales)
-
-💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Non-Atomic NFT Purchase in Marketplace | Medium | [#465](https://github.com/IndieHub25/GroqTales/issues/465) |
-| Add newsletter subscription feature for user engagement | Medium | [#464](https://github.com/IndieHub25/GroqTales/issues/464) |
-| Scroll-to-top button overlaps footer links on GroqTales website | Medium | [#463](https://github.com/IndieHub25/GroqTales/issues/463) |
-| feat: implement public shareable story pages with OpenGraph tags (Fix… | Medium | [#419](https://github.com/IndieHub25/GroqTales/pull/419) |
-| Setup Playwright E2E coverage for Wallet login and NFT Minting | Medium | [#410](https://github.com/IndieHub25/GroqTales/issues/410) |
-| Feat: Add multilingual generation support to Groq AI engine | Medium | [#409](https://github.com/IndieHub25/GroqTales/issues/409) |
-| Chore: Refactor Story Creation Flow | Hard | [#443](https://github.com/IndieHub25/GroqTales/pull/443) |
-
----
-
 ## 📌 Project: tech event
 
 📝 **Description:** using CSV file filter the events
@@ -1295,8 +1286,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| update fumadocs dependencies to the exact versions | Medium | [#139](https://github.com/subhadeeproy3902/mvpblocks/pull/139) |
-| Missing lockfile causes broken dependency for new contributors | Medium | [#138](https://github.com/subhadeeproy3902/mvpblocks/issues/138) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
