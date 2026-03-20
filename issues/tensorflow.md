@@ -44,7 +44,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fixed double scrollbar issue and improved AOS animations | Medium | [#128](https://github.com/Bavanetha27/Refixly/pull/128) |
-| added responsive-dropdown menu when user not loged in | Medium | [#127](https://github.com/Bavanetha27/Refixly/pull/127) |
 | "Powerful Features" Section Not Adopting Light Mode Theme | Medium | [#126](https://github.com/Bavanetha27/Refixly/issues/126) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
@@ -77,7 +76,6 @@
 | Enhance README with Workflow Architecture & Visual Interface Guide | Medium | [#92](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/92) |
 | UI: Improve Streamlit onboarding, UX, and error handling | Medium | [#91](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/91) |
 | Enhancement: Add Loading Screen While Emotion Detection Model is Processing | Medium | [#90](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/90) |
-| Add temporal mood analytics engine and enhanced Streamlit dashboard | Medium | [#89](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/89) |
 | Add Temporal Mood Tracking and Energy Analytics Dashboard | Medium | [#88](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/88) |
 | Update README with structured Table of Contents | Medium | [#87](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/87) |
 | feat: Add Spotify and YouTube Music API integration | Medium | [#86](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/86) |
@@ -93,6 +91,7 @@
 | Add uplifting music option for "Sad" emotion + UI improvements | Medium | [#70](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/70) |
 | Integrate Gemini API for giving suggestions based on the detected mood | Medium | [#69](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/69) |
 | Enhance Camera Robustness: Add Error Handling and Shutter/Low-Light Detection | Medium | [#68](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/68) |
+| Added youtube search option for emotion | Medium | [#67](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/67) |
 
 ---
 
