@@ -100,7 +100,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump the npm_and_yarn group across 2 directories with 2 updates | Medium | [#748](https://github.com/abhisek2004/Dev-Elevate/pull/748) |
+| Bump the npm_and_yarn group across 2 directories with 6 updates | Medium | [#749](https://github.com/abhisek2004/Dev-Elevate/pull/749) |
 | Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -254,24 +254,28 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor Infrastructure Code | Easy | [#4258](https://github.com/OWASP/Nest/pull/4258) |
+| Migrate Production | Easy | [#4292](https://github.com/OWASP/Nest/pull/4292) |
+| fix(slack): NestBot async UX, Slack-safe AI replies, and deferred path hardening | Medium | [#4319](https://github.com/OWASP/Nest/pull/4319) |
+| bug: Navbar logo does not adapt to light/dark theme, causing poor visibility in light mode | Medium | [#4318](https://github.com/OWASP/Nest/issues/4318) |
+| Fix: Add rounded corners to map component for UI consistency | Medium | [#4314](https://github.com/OWASP/Nest/pull/4314) |
+| Frontend shows unclear error when GraphQL client is not configured | Medium | [#4308](https://github.com/OWASP/Nest/issues/4308) |
+| Fix frequent map locking on landing page (#4301) | Medium | [#4307](https://github.com/OWASP/Nest/pull/4307) |
+| Feature: Filter and Sort Support for Members Page | Medium | [#4306](https://github.com/OWASP/Nest/pull/4306) |
+| Implement Query Analyzer for NestBot | Medium | [#4303](https://github.com/OWASP/Nest/pull/4303) |
+| Bug: Slack Workspace model fails during Django initialization | Medium | [#4300](https://github.com/OWASP/Nest/issues/4300) |
+| fix: handle _leaflet_pos TypeError on chapters map | Medium | [#4296](https://github.com/OWASP/Nest/pull/4296) |
+| fix: calendar icon misaligned with timeline text in Card component | Medium | [#4293](https://github.com/OWASP/Nest/issues/4293) |
+| Prevent false project leader detection caused by substring matching | Medium | [#4283](https://github.com/OWASP/Nest/issues/4283) |
+| Chapters page not responsive and country filter input resets when clearing selection | Medium | [#4282](https://github.com/OWASP/Nest/issues/4282) |
+| Restrict access to Module Issues page | Medium | [#4281](https://github.com/OWASP/Nest/pull/4281) |
+| Optimize My Mentorship page by conditionally skipping GetMyPrograms query | Medium | [#4277](https://github.com/OWASP/Nest/issues/4277) |
+| Improved OWASP Nest member ranking algorithm | Medium | [#4273](https://github.com/OWASP/Nest/pull/4273) |
+| Introduce a Unified Domain Layer for Business Logic | Medium | [#4271](https://github.com/OWASP/Nest/issues/4271) |
+| Loading skeleton count does not match page size on Users and Organizations pages | Medium | [#4267](https://github.com/OWASP/Nest/issues/4267) |
+| Feat: Improve OWASP Nest member ranking by introducing calculated score–based algorithm | Medium | [#4266](https://github.com/OWASP/Nest/pull/4266) |
+| feat: implement multi-factor member scoring algorithm | Medium | [#4264](https://github.com/OWASP/Nest/pull/4264) |
 | refactor: migrate ModuleNode to use strawberry-django decorator for consistency | Medium | [#4256](https://github.com/OWASP/Nest/pull/4256) |
-| feat: Improve grouping and visual distinction of Project Timeline on the About  page | Medium | [#4255](https://github.com/OWASP/Nest/pull/4255) |
 | fix/allow program admins to set and clear issue deadlines | Medium | [#4254](https://github.com/OWASP/Nest/pull/4254) |
-| Add Nest themes (light/dark) to Swagger UI | Medium | [#4253](https://github.com/OWASP/Nest/pull/4253) |
-| Add OWASP Nest theme support for Swagger UI | Medium | [#4245](https://github.com/OWASP/Nest/pull/4245) |
-| feat: add OWASP Nest theme support for API Swagger UI | Medium | [#4244](https://github.com/OWASP/Nest/pull/4244) |
-| feat: Add custom dark/light theme to Swagger UI | Medium | [#4237](https://github.com/OWASP/Nest/pull/4237) |
-| Fix project selection clearing on blur in module form | Medium | [#4234](https://github.com/OWASP/Nest/pull/4234) |
-| Redesigns the Project Timeline section on the About page for better readability and interactivity. | Medium | [#4221](https://github.com/OWASP/Nest/pull/4221) |
-| fix: Improve ProgramForm validation to avoid duplicate backend requests | Medium | [#4216](https://github.com/OWASP/Nest/pull/4216) |
-| Make Nest Logos Clickable | Medium | [#4215](https://github.com/OWASP/Nest/issues/4215) |
-| Track and capture OWASP contributions across platforms beyond GitHub | Medium | [#4208](https://github.com/OWASP/Nest/issues/4208) |
-| Introduced phase-based grouping that organizes timeline items into 4 meaningful project phases | Medium | [#4205](https://github.com/OWASP/Nest/pull/4205) |
-| Feature/swagger UI theme support 4197 | Medium | [#4203](https://github.com/OWASP/Nest/pull/4203) |
-| feat: add reusable search component with category filter and sorting | Medium | [#4199](https://github.com/OWASP/Nest/pull/4199) |
-| Add a contributor profile edit option | Medium | [#4194](https://github.com/OWASP/Nest/issues/4194) |
-| refactor: simplify Event.parse_dates method | Medium | [#4176](https://github.com/OWASP/Nest/issues/4176) |
 
 ---
 
@@ -390,7 +394,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fixed double scrollbar issue and improved AOS animations | Medium | [#128](https://github.com/Bavanetha27/Refixly/pull/128) |
-| added responsive-dropdown menu when user not loged in | Medium | [#127](https://github.com/Bavanetha27/Refixly/pull/127) |
 | "Powerful Features" Section Not Adopting Light Mode Theme | Medium | [#126](https://github.com/Bavanetha27/Refixly/issues/126) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
@@ -557,8 +560,7 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhancement: Improve Footer with Useful Links and Resources | Medium | [#652](https://github.com/Dipanita45/HEALCONNECT/pull/652) |
-| Enhancement: Implement Skeleton Loaders for Better UX | Medium | [#650](https://github.com/Dipanita45/HEALCONNECT/pull/650) |
+| fix(api): resolve critical IDOR/RBAC vulnerability in patients API | Medium | [#661](https://github.com/Dipanita45/HEALCONNECT/pull/661) |
 
 ---
 
@@ -1232,6 +1234,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Added a new feature and the activty will be sync with github profile | Medium | [#73](https://github.com/karmveershubham/CodeStreak/pull/73) |
 | <title>Adding closing button in login page | Medium | [#72](https://github.com/karmveershubham/CodeStreak/issues/72) |
 | Bump winston from 3.17.0 to 3.19.0 | Medium | [#71](https://github.com/karmveershubham/CodeStreak/pull/71) |
 | Login Page Improvements | Medium | [#69](https://github.com/karmveershubham/CodeStreak/issues/69) |
@@ -1474,6 +1477,45 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Theme Toggle | Medium | [#185](https://github.com/Chandu6702/Anime-Ecstasy/issues/185) |
 | adding the watch later list | Medium | [#184](https://github.com/Chandu6702/Anime-Ecstasy/issues/184) |
 | Feature: Display Episode Count for Each Anime | Medium | [#180](https://github.com/Chandu6702/Anime-Ecstasy/issues/180) |
+
+---
+
+## 📌 Project: Product Ledger
+
+📝 **Description:** Its a Ledger Application for Reatilers to manage their services.
+
+🔗 [View Project](https://github.com/vishalmaurya850/Product-Ledger)
+
+💻 **Tech Stack:** Next.js, Tailwind CSS, Express.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Added Scroll to top button | Medium | [#84](https://github.com/vishalmaurya850/Product-Ledger/pull/84) |
+| about us page | Medium | [#83](https://github.com/vishalmaurya850/Product-Ledger/issues/83) |
+| Enhancement | Medium | [#82](https://github.com/vishalmaurya850/Product-Ledger/issues/82) |
+| Feature : FAQ Page Implementation | Medium | [#81](https://github.com/vishalmaurya850/Product-Ledger/issues/81) |
+| Feature : Contact Us Page Implementation | Medium | [#80](https://github.com/vishalmaurya850/Product-Ledger/issues/80) |
+| Feature : About Us Page Implementation | Medium | [#79](https://github.com/vishalmaurya850/Product-Ledger/issues/79) |
+| Home and Footer sections Not in perfect alignment | Medium | [#78](https://github.com/vishalmaurya850/Product-Ledger/issues/78) |
+| Added scroll to top button | Medium | [#77](https://github.com/vishalmaurya850/Product-Ledger/pull/77) |
+| Add CONTRIBUTING.md file | Medium | [#76](https://github.com/vishalmaurya850/Product-Ledger/issues/76) |
+| Smooth Scroll Timing Adjustment | Medium | [#75](https://github.com/vishalmaurya850/Product-Ledger/pull/75) |
+| Responsive UI for Landing Page on Mobiles | Medium | [#74](https://github.com/vishalmaurya850/Product-Ledger/pull/74) |
+| Landing Page Not Mobile-Friendly | Medium | [#73](https://github.com/vishalmaurya850/Product-Ledger/issues/73) |
+| 📧 Email Integration - Automated notifications and password reset | Medium | [#69](https://github.com/vishalmaurya850/Product-Ledger/issues/69) |
+| ♿ Accessibility Enhancement: Semantic HTML, ARIA Attributes & Keyboard Navigation | Medium | [#68](https://github.com/vishalmaurya850/Product-Ledger/issues/68) |
+| Missing of Footer in "Privacy Policy", "Terms of Service", "Cookie Policy" Pages | Medium | [#65](https://github.com/vishalmaurya850/Product-Ledger/issues/65) |
+| Add Dockerfile and .dockerignore for containerization setup | Medium | [#61](https://github.com/vishalmaurya850/Product-Ledger/pull/61) |
+| Profile Section Not Opening After Login | Medium | [#60](https://github.com/vishalmaurya850/Product-Ledger/issues/60) |
+| Create Implement Real-Time Inventory Tracking with Stock Alert | Medium | [#58](https://github.com/vishalmaurya850/Product-Ledger/pull/58) |
+| Completed Assigned tasks | Medium | [#56](https://github.com/vishalmaurya850/Product-Ledger/pull/56) |
+| Fix: Smooth scroll effect in home page | Medium | [#55](https://github.com/vishalmaurya850/Product-Ledger/pull/55) |
+| Add contributing md | Medium | [#54](https://github.com/vishalmaurya850/Product-Ledger/pull/54) |
+| migrate installation guide from npm to pnpm with comprehensive setup … | Medium | [#53](https://github.com/vishalmaurya850/Product-Ledger/pull/53) |
 
 ---
 
@@ -2278,6 +2320,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Mermaid.js architecture diagrams and HTML table formatting | Medium | [#267](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/267) |
 | FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 
@@ -2565,8 +2608,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| update fumadocs dependencies to the exact versions | Medium | [#139](https://github.com/subhadeeproy3902/mvpblocks/pull/139) |
-| Missing lockfile causes broken dependency for new contributors | Medium | [#138](https://github.com/subhadeeproy3902/mvpblocks/issues/138) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
