@@ -84,7 +84,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fixed double scrollbar issue and improved AOS animations | Medium | [#128](https://github.com/Bavanetha27/Refixly/pull/128) |
-| added responsive-dropdown menu when user not loged in | Medium | [#127](https://github.com/Bavanetha27/Refixly/pull/127) |
 | "Powerful Features" Section Not Adopting Light Mode Theme | Medium | [#126](https://github.com/Bavanetha27/Refixly/issues/126) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
@@ -106,8 +105,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 📱 PROFILE PAGE AFTER SIGNUP - MOBILE VIEW | Easy | [#294](https://github.com/WallGodds/WallGodds-Web/issues/294) |
+| 📱 SIGN IN PAGE - MOBILE VIEW | Easy | [#258](https://github.com/WallGodds/WallGodds-Web/issues/258) |
 | 🖼️ Design Wallpapers and Add Them to the Project | Easy | [#160](https://github.com/WallGodds/WallGodds-Web/issues/160) |
-| Added dark theme support for profile page after sign up | Medium | [#296](https://github.com/WallGodds/WallGodds-Web/pull/296) |
 
 ---
 
