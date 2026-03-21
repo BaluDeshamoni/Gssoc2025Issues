@@ -190,7 +190,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | ⚙️:Dark Mode Toggle with Persistent User Preference | Medium | [#48](https://github.com/Menthub-GSSoC/Menthub/issues/48) |
-| FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
 | Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
@@ -211,6 +210,22 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Migrate Production | Easy | [#4292](https://github.com/OWASP/Nest/pull/4292) |
+| Implement Collaborative Flow for Complex Queries | Medium | [#4324](https://github.com/OWASP/Nest/pull/4324) |
+| Update Global Search text with examples for easy navigation | Medium | [#4321](https://github.com/OWASP/Nest/issues/4321) |
+| fix(slack): NestBot async UX, Slack-safe AI replies, and deferred path hardening | Medium | [#4319](https://github.com/OWASP/Nest/pull/4319) |
+| bug: Navbar logo does not adapt to light/dark theme, causing poor visibility in light mode | Medium | [#4318](https://github.com/OWASP/Nest/issues/4318) |
+| Fix: Add rounded corners to map component for UI consistency | Medium | [#4314](https://github.com/OWASP/Nest/pull/4314) |
+| Frontend shows unclear error when GraphQL client is not configured | Medium | [#4308](https://github.com/OWASP/Nest/issues/4308) |
+| Fix frequent map locking on landing page (#4301) | Medium | [#4307](https://github.com/OWASP/Nest/pull/4307) |
+| Feature: Filter and Sort Support for Members Page | Medium | [#4306](https://github.com/OWASP/Nest/pull/4306) |
+| Implement Query Analyzer for NestBot | Medium | [#4303](https://github.com/OWASP/Nest/pull/4303) |
+| Bug: Slack Workspace model fails during Django initialization | Medium | [#4300](https://github.com/OWASP/Nest/issues/4300) |
+| fix: handle _leaflet_pos TypeError on chapters map | Medium | [#4296](https://github.com/OWASP/Nest/pull/4296) |
+| fix: calendar icon misaligned with timeline text in Card component | Medium | [#4293](https://github.com/OWASP/Nest/issues/4293) |
+| Prevent false project leader detection caused by substring matching | Medium | [#4283](https://github.com/OWASP/Nest/issues/4283) |
+| Chapters page not responsive and country filter input resets when clearing selection | Medium | [#4282](https://github.com/OWASP/Nest/issues/4282) |
+| Restrict access to Module Issues page | Medium | [#4281](https://github.com/OWASP/Nest/pull/4281) |
 | Optimize My Mentorship page by conditionally skipping GetMyPrograms query | Medium | [#4277](https://github.com/OWASP/Nest/issues/4277) |
 | Improved OWASP Nest member ranking algorithm | Medium | [#4273](https://github.com/OWASP/Nest/pull/4273) |
 | Introduce a Unified Domain Layer for Business Logic | Medium | [#4271](https://github.com/OWASP/Nest/issues/4271) |
@@ -218,22 +233,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Feat: Improve OWASP Nest member ranking by introducing calculated score–based algorithm | Medium | [#4266](https://github.com/OWASP/Nest/pull/4266) |
 | feat: implement multi-factor member scoring algorithm | Medium | [#4264](https://github.com/OWASP/Nest/pull/4264) |
 | refactor: migrate ModuleNode to use strawberry-django decorator for consistency | Medium | [#4256](https://github.com/OWASP/Nest/pull/4256) |
-| fix/allow program admins to set and clear issue deadlines | Medium | [#4254](https://github.com/OWASP/Nest/pull/4254) |
-| fix: Improve ProgramForm validation to avoid duplicate backend requests | Medium | [#4216](https://github.com/OWASP/Nest/pull/4216) |
-| Make Nest Logos Clickable | Medium | [#4215](https://github.com/OWASP/Nest/issues/4215) |
-| Track and capture OWASP contributions across platforms beyond GitHub | Medium | [#4208](https://github.com/OWASP/Nest/issues/4208) |
-| feat: add reusable search component with category filter and sorting | Medium | [#4199](https://github.com/OWASP/Nest/pull/4199) |
-| Add a contributor profile edit option | Medium | [#4194](https://github.com/OWASP/Nest/issues/4194) |
-| refactor: simplify Event.parse_dates method | Medium | [#4176](https://github.com/OWASP/Nest/issues/4176) |
-| refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#4175](https://github.com/OWASP/Nest/issues/4175) |
-| feat(ai): add collaborative multi-agent flow for low-confidence queries | Medium | [#4170](https://github.com/OWASP/Nest/pull/4170) |
-| Added category filter and unified sorting to Projects search component | Medium | [#4168](https://github.com/OWASP/Nest/pull/4168) |
-| Implement GraphQL Query Performance Monitoring and Optimization | Medium | [#4161](https://github.com/OWASP/Nest/issues/4161) |
-| Standardize Date/Time Handling Across Frontend to Eliminate Timezone Regressions | Medium | [#4158](https://github.com/OWASP/Nest/issues/4158) |
-| Implement Project Subscriptions & Subscription Frontend UI | Medium | [#4145](https://github.com/OWASP/Nest/issues/4145) |
-| bug: strict validation for facet_filters list in core validators | Medium | [#4138](https://github.com/OWASP/Nest/issues/4138) |
-| perf(frontend): convert home page to server component for better SSR | Medium | [#4131](https://github.com/OWASP/Nest/pull/4131) |
-| feat: Algolia config error handling | Medium | [#4126](https://github.com/OWASP/Nest/pull/4126) |
 
 ---
 
@@ -283,6 +282,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| enhance: Add skeleton loading for HomeScreen groups | Medium | [#303](https://github.com/Devasy/splitwiser/pull/303) |
+| style: consistent hover/focus states across all buttons | Medium | [#302](https://github.com/Devasy/splitwiser/pull/302) |
 | enhance: Complete skeleton loading for HomeScreen groups | Medium | [#301](https://github.com/Devasy/splitwiser/pull/301) |
 | style: Consistent hover/focus states across all components | Medium | [#300](https://github.com/Devasy/splitwiser/pull/300) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#299](https://github.com/Devasy/splitwiser/pull/299) |
@@ -311,8 +312,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#274](https://github.com/Devasy/splitwiser/pull/274) |
 | style: Add consistent focus-visible states to buttons | Medium | [#273](https://github.com/Devasy/splitwiser/pull/273) |
 | Mobile Swipe-to-Delete for Expenses | Medium | [#272](https://github.com/Devasy/splitwiser/pull/272) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#271](https://github.com/Devasy/splitwiser/pull/271) |
-| ux: Add animated success celebration when settled up | Medium | [#270](https://github.com/Devasy/splitwiser/pull/270) |
 
 ---
 
@@ -941,7 +940,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Enhance README with Workflow Architecture & Visual Interface Guide | Medium | [#92](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/92) |
 | UI: Improve Streamlit onboarding, UX, and error handling | Medium | [#91](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/91) |
 | Enhancement: Add Loading Screen While Emotion Detection Model is Processing | Medium | [#90](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/90) |
-| Add temporal mood analytics engine and enhanced Streamlit dashboard | Medium | [#89](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/89) |
 | Add Temporal Mood Tracking and Energy Analytics Dashboard | Medium | [#88](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/88) |
 | Update README with structured Table of Contents | Medium | [#87](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/87) |
 | feat: Add Spotify and YouTube Music API integration | Medium | [#86](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/86) |
@@ -957,6 +955,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add uplifting music option for "Sad" emotion + UI improvements | Medium | [#70](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/70) |
 | Integrate Gemini API for giving suggestions based on the detected mood | Medium | [#69](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/69) |
 | Enhance Camera Robustness: Add Error Handling and Shutter/Low-Light Detection | Medium | [#68](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/issues/68) |
+| Added youtube search option for emotion | Medium | [#67](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions/pull/67) |
 
 ---
 
@@ -1181,6 +1180,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump the dev-dependencies group across 1 directory with 4 updates | Medium | [#146](https://github.com/Xenonesis/code-guardian-report/pull/146) |
 | chore(deps): bump the production-dependencies group across 1 directory with 21 updates | Medium | [#145](https://github.com/Xenonesis/code-guardian-report/pull/145) |
 | Title: TypeScript: Replace implicit 'any' usage in core services | Medium | [#142](https://github.com/Xenonesis/code-guardian-report/issues/142) |
 | Title: Refactor: Remove legacy Jest dependencies and config | Medium | [#141](https://github.com/Xenonesis/code-guardian-report/issues/141) |
@@ -1190,12 +1190,9 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Fix: Notification Panel Overlay Visibility (#121) | Medium | [#135](https://github.com/Xenonesis/code-guardian-report/pull/135) |
 | Fix: Mobile Button Overlap in Legal Section (#120) | Medium | [#134](https://github.com/Xenonesis/code-guardian-report/pull/134) |
 | Fix Notification Panel Light Mode Contrast & Scrolling | Medium | [#133](https://github.com/Xenonesis/code-guardian-report/pull/133) |
-| chore(deps): bump the dev-dependencies group across 1 directory with 3 updates | Medium | [#131](https://github.com/Xenonesis/code-guardian-report/pull/131) |
 | Implement "Hide on Scroll Down, Show on Scroll Up" Navigation Bar | Medium | [#130](https://github.com/Xenonesis/code-guardian-report/issues/130) |
 | Automate the task of adding the OSCG labels to issue and PR | Medium | [#129](https://github.com/Xenonesis/code-guardian-report/issues/129) |
 | chore(deps): bump eslint from 9.39.2 to 10.0.1 | Medium | [#128](https://github.com/Xenonesis/code-guardian-report/pull/128) |
-| Add “Contact Us” Section in Footer with Support Details | Medium | [#122](https://github.com/Xenonesis/code-guardian-report/issues/122) |
-| Notifications Panel Not Clearly Visible Due to Overlay/Opacity Issue | Medium | [#121](https://github.com/Xenonesis/code-guardian-report/issues/121) |
 | 🐞 Bug: Buttons Overlapping in Legal Section on Mobile View | Medium | [#120](https://github.com/Xenonesis/code-guardian-report/issues/120) |
 | fix: resolve analysis progress state corruption and enhance history filtering | Medium | [#113](https://github.com/Xenonesis/code-guardian-report/pull/113) |
 | Add copy-to-clipboard functionality for code snippets in analysis results | Medium | [#109](https://github.com/Xenonesis/code-guardian-report/issues/109) |
@@ -1204,6 +1201,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 | UI Redesign: Homepage & Footer | Medium | [#104](https://github.com/Xenonesis/code-guardian-report/issues/104) |
 | docs: fix Getting Started instructions and clarify setup | Medium | [#102](https://github.com/Xenonesis/code-guardian-report/pull/102) |
 | chore(deps): bump eslint from 8.57.1 to 9.39.2 in /functions | Medium | [#84](https://github.com/Xenonesis/code-guardian-report/pull/84) |
+| chore(deps): bump firebase-functions from 7.0.0 to 7.0.2 in /functions | Medium | [#83](https://github.com/Xenonesis/code-guardian-report/pull/83) |
+| chore(deps): bump @types/node from 18.19.130 to 25.0.3 in /functions | Medium | [#82](https://github.com/Xenonesis/code-guardian-report/pull/82) |
 
 ---
 
@@ -1681,6 +1680,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Mermaid.js architecture diagrams and HTML table formatting | Medium | [#267](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/267) |
 | FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
 | FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 
