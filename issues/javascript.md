@@ -295,7 +295,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | ⚙️:Dark Mode Toggle with Persistent User Preference | Medium | [#48](https://github.com/Menthub-GSSoC/Menthub/issues/48) |
-| FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
 | Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
@@ -419,24 +418,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Add Keyboard Shortcut to Toggle Theme (Ctrl + K) | Medium | [#452](https://github.com/Bhavya1352/eventmappr/issues/452) |
 | Add Event Clustering on Map | Medium | [#450](https://github.com/Bhavya1352/eventmappr/issues/450) |
 | Nearby page dark theme not applying to middle section | Medium | [#411](https://github.com/Bhavya1352/eventmappr/issues/411) |
-
----
-
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| **Title:** [Bug/Performance]: Severe Memory Leak and CPU Spikes in ECG Real-time Chart Rendering | Medium | [#655](https://github.com/Dipanita45/HEALCONNECT/issues/655) |
 
 ---
 
@@ -1473,6 +1454,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump undici and wrangler in /fingerprint-oss-demo | Medium | [#84](https://github.com/IntegerAlex/fingerprint-oss/pull/84) |
 | chore(deps-dev): bump rollup from 4.57.1 to 4.59.0 | Medium | [#81](https://github.com/IntegerAlex/fingerprint-oss/pull/81) |
 | Add v0.9.5 robustness: config validation, structured errors, geo timeout, minimal preset | Medium | [#80](https://github.com/IntegerAlex/fingerprint-oss/pull/80) |
 | V0.9.5 | Medium | [#78](https://github.com/IntegerAlex/fingerprint-oss/pull/78) |
@@ -1640,13 +1622,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| service page navbar inconsistency solved | Medium | [#1256](https://github.com/gyanshankar1708/GrowCraft/pull/1256) |
 | Add Hackathon and Contribution Section Please Review | Medium | [#1251](https://github.com/gyanshankar1708/GrowCraft/pull/1251) |
 | Enhancement of Contributing.md | Medium | [#1250](https://github.com/gyanshankar1708/GrowCraft/pull/1250) |
 | Implement modern CSS variables and enhance styles | Medium | [#1247](https://github.com/gyanshankar1708/GrowCraft/pull/1247) |
 | Title: Fix Typos and Naming Inconsistencies Across Repository | Medium | [#1246](https://github.com/gyanshankar1708/GrowCraft/issues/1246) |
 | Fix Navbar Inconsistency on Services Page | Medium | [#1245](https://github.com/gyanshankar1708/GrowCraft/pull/1245) |
-| Issue: Navbar Inconsistency on Service Page | Medium | [#1242](https://github.com/gyanshankar1708/GrowCraft/issues/1242) |
 | Carousel section not responsive on smaller screen sizes | Medium | [#1241](https://github.com/gyanshankar1708/GrowCraft/issues/1241) |
 | Add boxes for Services, Quick Links, and Get In Touch in the footer | Medium | [#1240](https://github.com/gyanshankar1708/GrowCraft/issues/1240) |
 | BUG: service section footer background issue | Medium | [#1239](https://github.com/gyanshankar1708/GrowCraft/issues/1239) |
@@ -1667,6 +1647,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | to improve the overall syling of the service section in the home page and make the dark mode button functional | Medium | [#1187](https://github.com/gyanshankar1708/GrowCraft/issues/1187) |
 | unwanted login signup options | Medium | [#1186](https://github.com/gyanshankar1708/GrowCraft/issues/1186) |
 | invisible show password icon in login page | Medium | [#1185](https://github.com/gyanshankar1708/GrowCraft/issues/1185) |
+| missing back to home button in sign up page | Medium | [#1183](https://github.com/gyanshankar1708/GrowCraft/issues/1183) |
+| Missing back to home button in login page | Medium | [#1182](https://github.com/gyanshankar1708/GrowCraft/issues/1182) |
 
 ---
 
