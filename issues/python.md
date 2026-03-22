@@ -211,13 +211,15 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Migrate Production | Easy | [#4292](https://github.com/OWASP/Nest/pull/4292) |
+| Fix #4313 : Align footer content width with main page layout | Medium | [#4334](https://github.com/OWASP/Nest/pull/4334) |
+| docs: add local testing steps to NestBot development guide | Medium | [#4333](https://github.com/OWASP/Nest/issues/4333) |
+| Bug: SyntaxError in mentorship_sync_module_issues_test.py   unterminated string literal at line 241 | Medium | [#4331](https://github.com/OWASP/Nest/issues/4331) |
+| Add calculated_score field and basic scoring logic | Medium | [#4330](https://github.com/OWASP/Nest/pull/4330) |
 | Implement Collaborative Flow for Complex Queries | Medium | [#4324](https://github.com/OWASP/Nest/pull/4324) |
 | Update Global Search text with examples for easy navigation | Medium | [#4321](https://github.com/OWASP/Nest/issues/4321) |
 | fix(slack): NestBot async UX, Slack-safe AI replies, and deferred path hardening | Medium | [#4319](https://github.com/OWASP/Nest/pull/4319) |
 | bug: Navbar logo does not adapt to light/dark theme, causing poor visibility in light mode | Medium | [#4318](https://github.com/OWASP/Nest/issues/4318) |
-| Fix: Add rounded corners to map component for UI consistency | Medium | [#4314](https://github.com/OWASP/Nest/pull/4314) |
 | Frontend shows unclear error when GraphQL client is not configured | Medium | [#4308](https://github.com/OWASP/Nest/issues/4308) |
-| Fix frequent map locking on landing page (#4301) | Medium | [#4307](https://github.com/OWASP/Nest/pull/4307) |
 | Feature: Filter and Sort Support for Members Page | Medium | [#4306](https://github.com/OWASP/Nest/pull/4306) |
 | Implement Query Analyzer for NestBot | Medium | [#4303](https://github.com/OWASP/Nest/pull/4303) |
 | Bug: Slack Workspace model fails during Django initialization | Medium | [#4300](https://github.com/OWASP/Nest/issues/4300) |
@@ -1318,6 +1320,24 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add "Delete Student" Option to the CLI Menu | Medium | [#16](https://github.com/Archita0905/Student-Grade-Tracker/issues/16) |
 | Added MIT LICENSE | Medium | [#15](https://github.com/Archita0905/Student-Grade-Tracker/pull/15) |
 | Making a enhancement in the output | Medium | [#14](https://github.com/Archita0905/Student-Grade-Tracker/issues/14) |
+
+---
+
+## 📌 Project: Shakti app
+
+📝 **Description:** Shakti is a safe, anonymous, and multilingual platform empowering survivors and everyday heroes to share their truths — through voice or text — in their own words and languages.
+
+🔗 [View Project](https://github.com/my-projects-it/shakti-app)
+
+💻 **Tech Stack:** Python, Streamlit
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: enhance Streamlit UI and fix CI configuration | Medium | [#35](https://github.com/my-projects-it/Shakti-app/pull/35) |
 
 ---
 
