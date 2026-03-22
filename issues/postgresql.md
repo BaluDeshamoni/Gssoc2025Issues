@@ -64,7 +64,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | ⚙️:Dark Mode Toggle with Persistent User Preference | Medium | [#48](https://github.com/Menthub-GSSoC/Menthub/issues/48) |
-| FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
 | Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
@@ -115,6 +114,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Making instructions clear about opening in localhost | Easy | [#397](https://github.com/Muneerali199/Draftdeckai/issues/397) |
+| fix: Resolve merge conflict between feature/productivity-engine and main | Medium | [#417](https://github.com/Muneerali199/Draftdeckai/pull/417) |
 | fix(diagram): implement share button functionality with clipboard copy and toast feedback (closes #410) | Medium | [#416](https://github.com/Muneerali199/Draftdeckai/pull/416) |
 | feat: add AI Cover Letter Generator from Resume (#411) | Medium | [#415](https://github.com/Muneerali199/Draftdeckai/pull/415) |
 | feat: Add Productivity Engine - Structured Document System | Medium | [#412](https://github.com/Muneerali199/Draftdeckai/pull/412) |
@@ -132,7 +132,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | feat: Add ImportProfile component and update page.tsx (Fixes #23) | Medium | [#330](https://github.com/Muneerali199/Draftdeckai/pull/330) |
 | added the animation of increasing numbers in dashboard | Medium | [#329](https://github.com/Muneerali199/Draftdeckai/pull/329) |
 | chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/Draftdeckai/pull/324) |
-| fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/Draftdeckai/pull/323) |
 
 ---
 
