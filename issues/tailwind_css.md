@@ -254,31 +254,24 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add SPONSORSHIP.md with Phase 1 GitHub Sponsors setup guide | Easy | [#4337](https://github.com/OWASP/Nest/pull/4337) |
 | Migrate Production | Easy | [#4292](https://github.com/OWASP/Nest/pull/4292) |
+| feat: add sponsors program support | Medium | [#4342](https://github.com/OWASP/Nest/pull/4342) |
+| chore(deps): bump @heroui/react from 2.8.10 to 3.0.1 in /frontend | Medium | [#4341](https://github.com/OWASP/Nest/pull/4341) |
+| Member Profile Layout Revamp | Medium | [#4339](https://github.com/OWASP/Nest/issues/4339) |
+| OWASP Logo Rotates with Loading Spinner, Violating Branding Guidelines | Medium | [#4338](https://github.com/OWASP/Nest/issues/4338) |
 | Fix #4313 : Align footer content width with main page layout | Medium | [#4334](https://github.com/OWASP/Nest/pull/4334) |
-| docs: add local testing steps to NestBot development guide | Medium | [#4333](https://github.com/OWASP/Nest/issues/4333) |
-| Bug: SyntaxError in mentorship_sync_module_issues_test.py   unterminated string literal at line 241 | Medium | [#4331](https://github.com/OWASP/Nest/issues/4331) |
 | Add calculated_score field and basic scoring logic | Medium | [#4330](https://github.com/OWASP/Nest/pull/4330) |
 | Implement Collaborative Flow for Complex Queries | Medium | [#4324](https://github.com/OWASP/Nest/pull/4324) |
-| Update Global Search text with examples for easy navigation | Medium | [#4321](https://github.com/OWASP/Nest/issues/4321) |
 | fix(slack): NestBot async UX, Slack-safe AI replies, and deferred path hardening | Medium | [#4319](https://github.com/OWASP/Nest/pull/4319) |
-| bug: Navbar logo does not adapt to light/dark theme, causing poor visibility in light mode | Medium | [#4318](https://github.com/OWASP/Nest/issues/4318) |
-| Frontend shows unclear error when GraphQL client is not configured | Medium | [#4308](https://github.com/OWASP/Nest/issues/4308) |
 | Feature: Filter and Sort Support for Members Page | Medium | [#4306](https://github.com/OWASP/Nest/pull/4306) |
 | Implement Query Analyzer for NestBot | Medium | [#4303](https://github.com/OWASP/Nest/pull/4303) |
 | Bug: Slack Workspace model fails during Django initialization | Medium | [#4300](https://github.com/OWASP/Nest/issues/4300) |
 | fix: handle _leaflet_pos TypeError on chapters map | Medium | [#4296](https://github.com/OWASP/Nest/pull/4296) |
-| fix: calendar icon misaligned with timeline text in Card component | Medium | [#4293](https://github.com/OWASP/Nest/issues/4293) |
 | Prevent false project leader detection caused by substring matching | Medium | [#4283](https://github.com/OWASP/Nest/issues/4283) |
-| Chapters page not responsive and country filter input resets when clearing selection | Medium | [#4282](https://github.com/OWASP/Nest/issues/4282) |
 | Restrict access to Module Issues page | Medium | [#4281](https://github.com/OWASP/Nest/pull/4281) |
 | Optimize My Mentorship page by conditionally skipping GetMyPrograms query | Medium | [#4277](https://github.com/OWASP/Nest/issues/4277) |
 | Improved OWASP Nest member ranking algorithm | Medium | [#4273](https://github.com/OWASP/Nest/pull/4273) |
-| Introduce a Unified Domain Layer for Business Logic | Medium | [#4271](https://github.com/OWASP/Nest/issues/4271) |
-| Loading skeleton count does not match page size on Users and Organizations pages | Medium | [#4267](https://github.com/OWASP/Nest/issues/4267) |
-| Feat: Improve OWASP Nest member ranking by introducing calculated score–based algorithm | Medium | [#4266](https://github.com/OWASP/Nest/pull/4266) |
-| feat: implement multi-factor member scoring algorithm | Medium | [#4264](https://github.com/OWASP/Nest/pull/4264) |
-| refactor: migrate ModuleNode to use strawberry-django decorator for consistency | Medium | [#4256](https://github.com/OWASP/Nest/pull/4256) |
 
 ---
 
@@ -514,6 +507,24 @@ Schools, offices, and wellness centers looking to green their spaces
 | Pagination added to StudentsList | Medium | [#100](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/100) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
 | Enhance footer with centered sections, aligned icons, custom hover ef… | Medium | [#70](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/70) |
+
+---
+
+## 📌 Project: Healconnect 
+
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
+
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| fix(LiveMonitor): resolve memory leak and CPU spikes in ECG chart ren… | Medium | [#662](https://github.com/Dipanita45/HEALCONNECT/pull/662) |
 
 ---
 
@@ -1118,7 +1129,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Firebase import error - "Failed to resolve import 'firebase/auth'" | Medium | [#86](https://github.com/SCR01/scr-game/issues/86) |
-| fix: show 404 NotFound page | Medium | [#85](https://github.com/SCR01/scr-game/pull/85) |
 | fix video delay FCFS | Medium | [#79](https://github.com/SCR01/scr-game/issues/79) |
 | Fix/dependency cleanup | Medium | [#71](https://github.com/SCR01/scr-game/pull/71) |
 | created clickable header navigation | Medium | [#58](https://github.com/SCR01/scr-game/pull/58) |
