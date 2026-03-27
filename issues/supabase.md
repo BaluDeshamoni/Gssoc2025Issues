@@ -176,22 +176,21 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: Migrate all client fetch calls to fetchWithAuth — prevent silent 401 failures | Easy | [#150](https://github.com/LarytheLord/Adventurers-Guild/issues/150) |
+| feat: Achievement System — Milestone Badges and Unlock Notifications | Easy | [#149](https://github.com/LarytheLord/Adventurers-Guild/issues/149) |
 | feat: Quest Board Filters — Track, Difficulty, Category, and Search | Easy | [#138](https://github.com/LarytheLord/Adventurers-Guild/issues/138) |
 | feat: Party Panel UI — Squad Display on Quest Detail Page | Easy | [#137](https://github.com/LarytheLord/Adventurers-Guild/issues/137) |
 | feat: Quest Streak System — Daily/Weekly XP Multiplier for Retention | Easy | [#136](https://github.com/LarytheLord/Adventurers-Guild/issues/136) |
-| feat: Guild Card — Public Adventurer Profile Page | Easy | [#134](https://github.com/LarytheLord/Adventurers-Guild/issues/134) |
-| refactor: Split CompanyPortal.tsx (786 lines) into focused components | Easy | [#129](https://github.com/LarytheLord/Adventurers-Guild/issues/129) |
-| fix: Rankings table — horizontal overflow and mobile layout | Easy | [#127](https://github.com/LarytheLord/Adventurers-Guild/issues/127) |
-| feat: API Key Budget Tracking — per-user weekly spend log and admin view | Easy | [#107](https://github.com/LarytheLord/Adventurers-Guild/issues/107) |
 | feat: Stripe Connect — Adventurer payout onboarding and PaymentIntent flow | Easy | [#106](https://github.com/LarytheLord/Adventurers-Guild/issues/106) |
+| docs: Updated marketing automation plan — Guild Card launch content + LinkedIn company page | Medium | [#151](https://github.com/LarytheLord/Adventurers-Guild/pull/151) |
+| feat: Activity Logging System — Track All User Actions with Points | Medium | [#147](https://github.com/LarytheLord/Adventurers-Guild/issues/147) |
+| arch: Bootcamp Pipeline End-to-End Test — Dry Run with 5 Students | Medium | [#142](https://github.com/LarytheLord/Adventurers-Guild/issues/142) |
 | feat: Admin Analytics Dashboard — DAU, Quest Metrics, Rank Distribution | Medium | [#135](https://github.com/LarytheLord/Adventurers-Guild/issues/135) |
-| Phase 2: Two-Track Architecture, Party System, QA Mediation & Bug Fixes | Medium | [#133](https://github.com/LarytheLord/Adventurers-Guild/pull/133) |
-| Improve mobile baseline UX and complete dashboard issue set | Medium | [#131](https://github.com/LarytheLord/Adventurers-Guild/pull/131) |
 | feat: Squad-Aware Quest Board UI — party slots, join flow, and squad filtering | Medium | [#111](https://github.com/LarytheLord/Adventurers-Guild/issues/111) |
 | feat: Hackathon → Quest Continuation Pipeline — first-refusal window for hackathon teams | Medium | [#110](https://github.com/LarytheLord/Adventurers-Guild/issues/110) |
 | feat: Admin Revenue Dashboard — GMV, MRR, fill rate, and take rate charts | Medium | [#109](https://github.com/LarytheLord/Adventurers-Guild/issues/109) |
 | feat: Quest Event Audit Trail — EventLog model and admin quest timeline | Medium | [#108](https://github.com/LarytheLord/Adventurers-Guild/issues/108) |
-| refactor: Create useApiFetch hook — eliminate 9 duplicate fetch patterns | Hard | [#130](https://github.com/LarytheLord/Adventurers-Guild/issues/130) |
+| refactor: Extract Service Layer — Break Monolithic API Routes into Focused Services | Hard | [#148](https://github.com/LarytheLord/Adventurers-Guild/issues/148) |
 
 ---
 
