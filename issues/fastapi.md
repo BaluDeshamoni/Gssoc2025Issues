@@ -41,6 +41,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| enhance: Add animated success celebration when settled up | Medium | [#306](https://github.com/Devasy/splitwiser/pull/306) |
+| refactor: Use generic Skeleton component in FriendsScreen | Medium | [#305](https://github.com/Devasy/splitwiser/pull/305) |
+| style: Add consistent focus-visible states to buttons | Medium | [#304](https://github.com/Devasy/splitwiser/pull/304) |
 | enhance: Add skeleton loading for HomeScreen groups | Medium | [#303](https://github.com/Devasy/splitwiser/pull/303) |
 | style: consistent hover/focus states across all buttons | Medium | [#302](https://github.com/Devasy/splitwiser/pull/302) |
 | enhance: Complete skeleton loading for HomeScreen groups | Medium | [#301](https://github.com/Devasy/splitwiser/pull/301) |
@@ -68,9 +71,6 @@
 | Add mobile skeleton loading for Home Screen groups | Medium | [#279](https://github.com/Devasy/splitwiser/pull/279) |
 | enhance: Mobile biometric authentication | Medium | [#278](https://github.com/Devasy/splitwiser/pull/278) |
 | enhance: Add animated success celebration | Medium | [#275](https://github.com/Devasy/splitwiser/pull/275) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#274](https://github.com/Devasy/splitwiser/pull/274) |
-| style: Add consistent focus-visible states to buttons | Medium | [#273](https://github.com/Devasy/splitwiser/pull/273) |
-| Mobile Swipe-to-Delete for Expenses | Medium | [#272](https://github.com/Devasy/splitwiser/pull/272) |
 
 ---
 
