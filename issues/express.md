@@ -53,7 +53,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump the npm_and_yarn group across 2 directories with 2 updates | Medium | [#748](https://github.com/abhisek2004/Dev-Elevate/pull/748) |
+| Bump the npm_and_yarn group across 2 directories with 6 updates | Medium | [#749](https://github.com/abhisek2004/Dev-Elevate/pull/749) |
 | Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -191,7 +191,6 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fixed double scrollbar issue and improved AOS animations | Medium | [#128](https://github.com/Bavanetha27/Refixly/pull/128) |
-| added responsive-dropdown menu when user not loged in | Medium | [#127](https://github.com/Bavanetha27/Refixly/pull/127) |
 | "Powerful Features" Section Not Adopting Light Mode Theme | Medium | [#126](https://github.com/Bavanetha27/Refixly/issues/126) |
 | about us page | Medium | [#110](https://github.com/Bavanetha27/Refixly/issues/110) |
 | Missing server directory mentioned in README.md | Medium | [#37](https://github.com/Bavanetha27/Refixly/issues/37) |
@@ -388,6 +387,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Add Docker, Kubernetes, Terraform, and CI/CD support | Medium | [#884](https://github.com/HarshS16/Civix/pull/884) |
 | Adding stunning landing page | Medium | [#878](https://github.com/HarshS16/Civix/issues/878) |
 | Improve Navbar UI/UX | Medium | [#875](https://github.com/HarshS16/Civix/issues/875) |
 | Incomplete gradient on the newsletter subscribe button | Medium | [#874](https://github.com/HarshS16/Civix/issues/874) |
@@ -628,6 +628,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Unrealistic / Distracting Image Hover Effect | Easy | [#93](https://github.com/Sahilll94/Travel-Book/issues/93) |
+| feat: create Hero component for the landing page, including navigatio… | Medium | [#129](https://github.com/Sahilll94/Travel-Book/pull/129) |
 | Improve Contributors Button UI and Landing Page Visual Polish | Medium | [#128](https://github.com/Sahilll94/Travel-Book/pull/128) |
 | docs: add environment variables summary section | Medium | [#127](https://github.com/Sahilll94/Travel-Book/pull/127) |
 | Add Smart Search with Auto-Suggestions for Travel Stories | Medium | [#126](https://github.com/Sahilll94/Travel-Book/issues/126) |
@@ -638,7 +639,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Story content disappears after switching tabs (Story ↔ Photos) | Medium | [#114](https://github.com/Sahilll94/Travel-Book/issues/114) |
 | Add descriptive alt text to landing page images | Medium | [#113](https://github.com/Sahilll94/Travel-Book/pull/113) |
 | Enhance Footer UI for Better Visual Hierarchy and Modern Look | Medium | [#111](https://github.com/Sahilll94/Travel-Book/pull/111) |
-| Docs: add beginner setup checklist and troubleshooting tips | Medium | [#110](https://github.com/Sahilll94/Travel-Book/pull/110) |
 | Add social media icons to Contributors page footer | Medium | [#108](https://github.com/Sahilll94/Travel-Book/issues/108) |
 | Improve mobile responsiveness for navbar and hero section | Medium | [#101](https://github.com/Sahilll94/Travel-Book/pull/101) |
 | Corrected unordered list with list items | Medium | [#100](https://github.com/Sahilll94/Travel-Book/pull/100) |
@@ -901,6 +901,45 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Fix: Login, Signup, Forgot Password UI fixed | Medium | [#303](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/pull/303) |
 | Secure Google Sign-In Integration | Medium | [#267](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/267) |
 | 🔐 Add Google OAuth for Easy Signup and Signin | Medium | [#263](https://github.com/Agarwalvidu/ArdhNaariShakti_Taara_Frontend/issues/263) |
+
+---
+
+## 📌 Project: Product Ledger
+
+📝 **Description:** Its a Ledger Application for Reatilers to manage their services.
+
+🔗 [View Project](https://github.com/vishalmaurya850/Product-Ledger)
+
+💻 **Tech Stack:** Next.js, Tailwind CSS, Express.js
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Added Scroll to top button | Medium | [#84](https://github.com/vishalmaurya850/Product-Ledger/pull/84) |
+| about us page | Medium | [#83](https://github.com/vishalmaurya850/Product-Ledger/issues/83) |
+| Enhancement | Medium | [#82](https://github.com/vishalmaurya850/Product-Ledger/issues/82) |
+| Feature : FAQ Page Implementation | Medium | [#81](https://github.com/vishalmaurya850/Product-Ledger/issues/81) |
+| Feature : Contact Us Page Implementation | Medium | [#80](https://github.com/vishalmaurya850/Product-Ledger/issues/80) |
+| Feature : About Us Page Implementation | Medium | [#79](https://github.com/vishalmaurya850/Product-Ledger/issues/79) |
+| Home and Footer sections Not in perfect alignment | Medium | [#78](https://github.com/vishalmaurya850/Product-Ledger/issues/78) |
+| Added scroll to top button | Medium | [#77](https://github.com/vishalmaurya850/Product-Ledger/pull/77) |
+| Add CONTRIBUTING.md file | Medium | [#76](https://github.com/vishalmaurya850/Product-Ledger/issues/76) |
+| Smooth Scroll Timing Adjustment | Medium | [#75](https://github.com/vishalmaurya850/Product-Ledger/pull/75) |
+| Responsive UI for Landing Page on Mobiles | Medium | [#74](https://github.com/vishalmaurya850/Product-Ledger/pull/74) |
+| Landing Page Not Mobile-Friendly | Medium | [#73](https://github.com/vishalmaurya850/Product-Ledger/issues/73) |
+| 📧 Email Integration - Automated notifications and password reset | Medium | [#69](https://github.com/vishalmaurya850/Product-Ledger/issues/69) |
+| ♿ Accessibility Enhancement: Semantic HTML, ARIA Attributes & Keyboard Navigation | Medium | [#68](https://github.com/vishalmaurya850/Product-Ledger/issues/68) |
+| Missing of Footer in "Privacy Policy", "Terms of Service", "Cookie Policy" Pages | Medium | [#65](https://github.com/vishalmaurya850/Product-Ledger/issues/65) |
+| Add Dockerfile and .dockerignore for containerization setup | Medium | [#61](https://github.com/vishalmaurya850/Product-Ledger/pull/61) |
+| Profile Section Not Opening After Login | Medium | [#60](https://github.com/vishalmaurya850/Product-Ledger/issues/60) |
+| Create Implement Real-Time Inventory Tracking with Stock Alert | Medium | [#58](https://github.com/vishalmaurya850/Product-Ledger/pull/58) |
+| Completed Assigned tasks | Medium | [#56](https://github.com/vishalmaurya850/Product-Ledger/pull/56) |
+| Fix: Smooth scroll effect in home page | Medium | [#55](https://github.com/vishalmaurya850/Product-Ledger/pull/55) |
+| Add contributing md | Medium | [#54](https://github.com/vishalmaurya850/Product-Ledger/pull/54) |
+| migrate installation guide from npm to pnpm with comprehensive setup … | Medium | [#53](https://github.com/vishalmaurya850/Product-Ledger/pull/53) |
 
 ---
 
@@ -1248,11 +1287,6 @@ Fast Workflow Tools
 | High TTI due to Synchronous Imports and Duplicate Routing | Medium | [#955](https://github.com/Premkolte/AnimateHub/issues/955) |
 | Missing Rate Limiting and Input Validation in Backend | Medium | [#954](https://github.com/Premkolte/AnimateHub/issues/954) |
 | fixed issue 951 : Improved the UI/UX of privacy policy page | Medium | [#952](https://github.com/Premkolte/AnimateHub/pull/952) |
-| Update README File Structure Section After Refactor | Medium | [#950](https://github.com/Premkolte/AnimateHub/issues/950) |
-| Organize Documentation Files into Dedicated /docs Directory | Medium | [#949](https://github.com/Premkolte/AnimateHub/issues/949) |
-| Centralize Image Assets into Structured assets/images Directory | Medium | [#948](https://github.com/Premkolte/AnimateHub/issues/948) |
-| Remove Duplicate Tailwind Configuration File | Medium | [#947](https://github.com/Premkolte/AnimateHub/issues/947) |
-| 🧹 [Refactor] Remove Accidental GitHub Conflict Dump Files | Medium | [#946](https://github.com/Premkolte/AnimateHub/issues/946) |
 | Feature Request: Implement Pagination for Contributors List | Medium | [#945](https://github.com/Premkolte/AnimateHub/issues/945) |
 | feat: add shadow pluse button animation | Medium | [#944](https://github.com/Premkolte/AnimateHub/pull/944) |
 | Fix: Navbar overflow on desktop and mobile #494 #433 | Medium | [#943](https://github.com/Premkolte/AnimateHub/pull/943) |
@@ -1272,6 +1306,8 @@ Fast Workflow Tools
 | fix the hover effect for the smooth transitioning | Medium | [#928](https://github.com/Premkolte/AnimateHub/pull/928) |
 | Add Terms and condition page . | Medium | [#927](https://github.com/Premkolte/AnimateHub/issues/927) |
 | Update the readme with the latest images from website | Medium | [#926](https://github.com/Premkolte/AnimateHub/issues/926) |
+| Update primary color and adjust color scale | Medium | [#920](https://github.com/Premkolte/AnimateHub/pull/920) |
+| Add hero section with header and call-to-action | Medium | [#918](https://github.com/Premkolte/AnimateHub/pull/918) |
 
 ---
 
