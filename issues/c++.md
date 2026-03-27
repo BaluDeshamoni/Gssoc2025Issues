@@ -14,7 +14,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| **Title:** [Bug/Performance]: Severe Memory Leak and CPU Spikes in ECG Real-time Chart Rendering | Medium | [#655](https://github.com/Dipanita45/HEALCONNECT/issues/655) |
+| Replace Hardcoded Dashboard Stats with Firestore Counts | Medium | [#670](https://github.com/Dipanita45/HEALCONNECT/issues/670) |
+| ## [Bug] Hardcoded Device and Patient IDs in Live Monitoring Logic | Medium | [#669](https://github.com/Dipanita45/HEALCONNECT/issues/669) |
+| ## [Bug] Invalid HTML Structure in Doctor Dashboard Table | Medium | [#668](https://github.com/Dipanita45/HEALCONNECT/issues/668) |
+| Pull Request: Implement Date-Based Filtering for Vitals API (Fixes #665) | Medium | [#667](https://github.com/Dipanita45/HEALCONNECT/pull/667) |
+| Standardize Next.js API middleware across all routes | Medium | [#666](https://github.com/Dipanita45/HEALCONNECT/issues/666) |
+| ## Feature: Support Patient-Specific Vital Thresholds | Medium | [#664](https://github.com/Dipanita45/HEALCONNECT/issues/664) |
 
 ---
 
@@ -54,6 +59,7 @@
 |----------|----------------|---------|
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
+| feat(adjlist): Add logging calls in Adjacency List | Medium | [#203](https://github.com/SharonIV0x86/CinderPeak/issues/203) |
 | fix: unresolved logger variables and batch script logicUpdate LogExample and tweak auto-format script | Medium | [#200](https://github.com/SharonIV0x86/CinderPeak/pull/200) |
 | refactor(adjacency-storage): replace LOG_ macro with policy handler logging | Medium | [#193](https://github.com/SharonIV0x86/CinderPeak/pull/193) |
 
