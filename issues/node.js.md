@@ -436,6 +436,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Add Docker, Kubernetes, Terraform, and CI/CD support | Medium | [#884](https://github.com/HarshS16/Civix/pull/884) |
 | Adding stunning landing page | Medium | [#878](https://github.com/HarshS16/Civix/issues/878) |
 | Improve Navbar UI/UX | Medium | [#875](https://github.com/HarshS16/Civix/issues/875) |
 | Incomplete gradient on the newsletter subscribe button | Medium | [#874](https://github.com/HarshS16/Civix/issues/874) |
@@ -1549,6 +1550,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fixed FAQ light theme | Medium | [#111](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/111) |
 | Modern Issue Templates | Medium | [#109](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/109) |
 | # 🔍 Add Real-Time FAQ Search & Filter Functionality [GSSoC 2025] | Medium | [#101](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/101) |
 | feat: add elegant loading skeleton states for improved UX   [GSSoC 2025] | Medium | [#100](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/100) |
