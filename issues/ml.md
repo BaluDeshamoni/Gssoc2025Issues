@@ -115,6 +115,7 @@
 | Winner Section: Oversized Images and Misaligned Text | Medium | [#674](https://github.com/opensource-society/CodeClip/issues/674) |
 | Add animation and details in the home page | Medium | [#673](https://github.com/opensource-society/CodeClip/issues/673) |
 | User security vunerabilty before login (feature enhancement also | Medium | [#672](https://github.com/opensource-society/CodeClip/issues/672) |
+| Add “Dark Mode / Light Mode” toggle switch in top navbar | Medium | [#671](https://github.com/opensource-society/CodeClip/issues/671) |
 
 ---
 
@@ -132,6 +133,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixes #1068 Improved the README.md with enhanced setup instructions and a comprehensive troubleshooting section | Medium | [#1071](https://github.com/opensource-society/notesvault/pull/1071) |
+| Fixes #1069 Added "Testing Your Changes" Section in CONTRIBUTING.md | Medium | [#1070](https://github.com/opensource-society/notesvault/pull/1070) |
 | Improve contributing guide with testing section and formatting | Medium | [#1069](https://github.com/opensource-society/notesvault/pull/1069) |
 | Improve README with local run instructions | Medium | [#1068](https://github.com/opensource-society/notesvault/pull/1068) |
 | Fix download issue | Medium | [#1043](https://github.com/opensource-society/notesvault/pull/1043) |
@@ -214,7 +217,6 @@ User Profile: BMI calculator and fitness analytics.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Change ball color to blue | Medium | [#243](https://github.com/Akki-jaiswal/pong-game/pull/243) |
-| Add Claude Code GitHub Workflow | Medium | [#242](https://github.com/Akki-jaiswal/pong-game/issues/242) |
 | Fixed AI paddle movement to be smoother | Medium | [#241](https://github.com/Akki-jaiswal/pong-game/pull/241) |
 | Update script.js | Medium | [#236](https://github.com/Akki-jaiswal/pong-game/pull/236) |
 | Enhancing the overall UI and adding New Features | Medium | [#235](https://github.com/Akki-jaiswal/pong-game/issues/235) |
@@ -238,6 +240,7 @@ User Profile: BMI calculator and fitness analytics.
 | theme selection does not change UI; duplicate theme systems in code | Medium | [#207](https://github.com/Akki-jaiswal/pong-game/issues/207) |
 | How to Play” button does not open instructions modal  Description | Medium | [#206](https://github.com/Akki-jaiswal/pong-game/issues/206) |
 | Navbar UI/UX Improvements | Medium | [#205](https://github.com/Akki-jaiswal/pong-game/issues/205) |
+| changed the design after winning | Medium | [#204](https://github.com/Akki-jaiswal/pong-game/pull/204) |
 
 ---
 
@@ -323,8 +326,8 @@ User Profile: BMI calculator and fitness analytics.
 | Add Voice Assistant Feature Using Speech Recognition | Medium | [#44](https://github.com/Ansikka/KrishiMitra.py/issues/44) |
 | Daily Task & Mandi Price Implementation | Medium | [#43](https://github.com/Ansikka/KrishiMitra.py/issues/43) |
 | Chatbot With multi-language support with voice inputs and outputs | Medium | [#42](https://github.com/Ansikka/KrishiMitra.py/issues/42) |
-| Feature: Integrated Chatbot with Weather and Translation APIs | Medium | [#41](https://github.com/Ansikka/KrishiMitra.py/pull/41) |
 | Enhance Weather Alerts Section to Support More States and Custom City Input | Medium | [#40](https://github.com/Ansikka/KrishiMitra.py/issues/40) |
+| There is no license file in the code | Medium | [#39](https://github.com/Ansikka/KrishiMitra.py/issues/39) |
 
 ---
 
@@ -397,7 +400,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#71](https://github.com/Menthub-GSSoC/Menthub/issues/71) |
 | Add GSSoC'25 Banner | Medium | [#70](https://github.com/Menthub-GSSoC/Menthub/issues/70) |
 | ⚙️: | Medium | [#69](https://github.com/Menthub-GSSoC/Menthub/issues/69) |
 | 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
@@ -408,10 +410,10 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Navigation Enhancement (top-bottom, bottom-top button) | Medium | [#56](https://github.com/Menthub-GSSoC/Menthub/pull/56) |
 | Implement password visibility toggle | Medium | [#53](https://github.com/Menthub-GSSoC/Menthub/pull/53) |
 | ⚙️:Dark Mode Toggle with Persistent User Preference | Medium | [#48](https://github.com/Menthub-GSSoC/Menthub/issues/48) |
-| FEAT: ADDED dark/light toggle mode on the website | Medium | [#44](https://github.com/Menthub-GSSoC/Menthub/pull/44) |
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
 | Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
+| Prevent Duplicate Mentorship Requests (mentee_id + mentor_id) | Medium | [#23](https://github.com/Menthub-GSSoC/Menthub/issues/23) |
 
 ---
 
@@ -430,6 +432,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ✈️ Risezonic Travel – Trusted Travel Partner for Domestic & International Trips | Medium | [#1942](https://github.com/apu52/Travel_Website/issues/1942) |
 | Organize Image Assets into a Dedicated Folder | Medium | [#1941](https://github.com/apu52/Travel_Website/issues/1941) |
 | Fix hero section overlap and heading alignment issue | Medium | [#1940](https://github.com/apu52/Travel_Website/pull/1940) |
 | Scroll-to-Top Progress Indicator | Medium | [#1939](https://github.com/apu52/Travel_Website/issues/1939) |
@@ -459,7 +462,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Replace "Login/SignUp" and "View" Buttons with Icons for a Modern UI | Medium | [#1915](https://github.com/apu52/Travel_Website/issues/1915) |
 | Images displayed with incorrect aspect ratio | Medium | [#1914](https://github.com/apu52/Travel_Website/issues/1914) |
 | Accessibility: <li> elements not wrapped in <ul> or <ol> | Medium | [#1913](https://github.com/apu52/Travel_Website/issues/1913) |
-| Added Blog_review section | Medium | [#1912](https://github.com/apu52/Travel_Website/pull/1912) |
 
 ---
 
@@ -1227,16 +1229,14 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump react-icons from 5.5.0 to 5.6.0 | Easy | [#1298](https://github.com/recodehive/recode-website/pull/1298) |
-| chore: bump lucide-react from 0.503.0 to 0.577.0 | Easy | [#1296](https://github.com/recodehive/recode-website/pull/1296) |
-| Removed the UI Inconsistencies in Testimonials and FAQs Pages | Easy | [#1290](https://github.com/recodehive/recode-website/pull/1290) |
-| This PR fixes issue #1286 where mobile screens showed extra blank space | Easy | [#1289](https://github.com/recodehive/recode-website/pull/1289) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.57.0 | Medium | [#1299](https://github.com/recodehive/recode-website/pull/1299) |
-| chore: bump firebase from 9.23.0 to 12.10.0 | Medium | [#1297](https://github.com/recodehive/recode-website/pull/1297) |
-| chore: bump lint-staged from 16.2.4 to 16.3.2 | Medium | [#1295](https://github.com/recodehive/recode-website/pull/1295) |
+| chore: bump @floating-ui/react from 0.27.16 to 0.27.19 | Medium | [#1305](https://github.com/recodehive/recode-website/pull/1305) |
+| chore: bump @vercel/analytics from 1.5.0 to 2.0.1 | Medium | [#1304](https://github.com/recodehive/recode-website/pull/1304) |
+| chore: bump postcss from 8.5.6 to 8.5.8 | Medium | [#1303](https://github.com/recodehive/recode-website/pull/1303) |
+| chore: bump lint-staged from 16.2.4 to 16.4.0 | Medium | [#1302](https://github.com/recodehive/recode-website/pull/1302) |
+| chore: bump autoprefixer from 10.4.21 to 10.4.27 | Medium | [#1301](https://github.com/recodehive/recode-website/pull/1301) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
@@ -1666,6 +1666,24 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
+## 📌 Project: Canvas-Editor
+
+📝 **Description:** This is a simple beginner friendly web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
+
+🔗 [View Project](https://github.com/vishanurag/Canvas-Editor/)
+
+💻 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Major README Overhaul & Documentation Polish | Medium | [#1374](https://github.com/vishanurag/Canvas-Editor/issues/1374) |
+
+---
+
 ## 📌 Project: Netflix Clone
 
 📝 **Description:** This netflix clone is prepared by using HTML, CSS, and Javascript
@@ -1719,6 +1737,24 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | Feature Request: Multi-AI Provider Backend with Load Balancing & Failover | Medium | [#2](https://github.com/itsaryanchauhan/ThinkDSA-Extension/issues/2) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#1](https://github.com/itsaryanchauhan/ThinkDSA-Extension/issues/1) |
+
+---
+
+## 📌 Project: Shakti app
+
+📝 **Description:** Shakti is a safe, anonymous, and multilingual platform empowering survivors and everyday heroes to share their truths — through voice or text — in their own words and languages.
+
+🔗 [View Project](https://github.com/my-projects-it/shakti-app)
+
+💻 **Tech Stack:** Python, Streamlit
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: enhance Streamlit UI and fix CI configuration | Medium | [#35](https://github.com/my-projects-it/Shakti-app/pull/35) |
 
 ---
 
@@ -1787,13 +1823,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| service page navbar inconsistency solved | Medium | [#1256](https://github.com/gyanshankar1708/GrowCraft/pull/1256) |
 | Add Hackathon and Contribution Section Please Review | Medium | [#1251](https://github.com/gyanshankar1708/GrowCraft/pull/1251) |
 | Enhancement of Contributing.md | Medium | [#1250](https://github.com/gyanshankar1708/GrowCraft/pull/1250) |
 | Implement modern CSS variables and enhance styles | Medium | [#1247](https://github.com/gyanshankar1708/GrowCraft/pull/1247) |
 | Title: Fix Typos and Naming Inconsistencies Across Repository | Medium | [#1246](https://github.com/gyanshankar1708/GrowCraft/issues/1246) |
 | Fix Navbar Inconsistency on Services Page | Medium | [#1245](https://github.com/gyanshankar1708/GrowCraft/pull/1245) |
-| Issue: Navbar Inconsistency on Service Page | Medium | [#1242](https://github.com/gyanshankar1708/GrowCraft/issues/1242) |
 | Carousel section not responsive on smaller screen sizes | Medium | [#1241](https://github.com/gyanshankar1708/GrowCraft/issues/1241) |
 | Add boxes for Services, Quick Links, and Get In Touch in the footer | Medium | [#1240](https://github.com/gyanshankar1708/GrowCraft/issues/1240) |
 | BUG: service section footer background issue | Medium | [#1239](https://github.com/gyanshankar1708/GrowCraft/issues/1239) |
@@ -1814,6 +1848,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | to improve the overall syling of the service section in the home page and make the dark mode button functional | Medium | [#1187](https://github.com/gyanshankar1708/GrowCraft/issues/1187) |
 | unwanted login signup options | Medium | [#1186](https://github.com/gyanshankar1708/GrowCraft/issues/1186) |
 | invisible show password icon in login page | Medium | [#1185](https://github.com/gyanshankar1708/GrowCraft/issues/1185) |
+| missing back to home button in sign up page | Medium | [#1183](https://github.com/gyanshankar1708/GrowCraft/issues/1183) |
+| Missing back to home button in login page | Medium | [#1182](https://github.com/gyanshankar1708/GrowCraft/issues/1182) |
 
 ---
 
@@ -2085,6 +2121,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Would like to make this website responsive | Medium | [#229](https://github.com/Varshitha713/first-contrib-placement/issues/229) |
 | Add interactive Resume Tips and Company Resume Samples sections | Medium | [#227](https://github.com/Varshitha713/first-contrib-placement/pull/227) |
 | Footer Redesign for first-contrib-placement | Medium | [#226](https://github.com/Varshitha713/first-contrib-placement/pull/226) |
 | Improve footer | Medium | [#225](https://github.com/Varshitha713/first-contrib-placement/issues/225) |
@@ -2103,7 +2140,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Bug: Card description text disappears on hover | Medium | [#195](https://github.com/Varshitha713/first-contrib-placement/issues/195) |
 | feat : Added Open Source Contribution Study Resources in the coding section | Medium | [#194](https://github.com/Varshitha713/first-contrib-placement/pull/194) |
 | Added a page of CS Core Concepts | Medium | [#193](https://github.com/Varshitha713/first-contrib-placement/pull/193) |
-| Resources Added | Medium | [#176](https://github.com/Varshitha713/first-contrib-placement/pull/176) |
 
 ---
 
@@ -2403,7 +2439,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Add Feedback Form to DevTinder | Medium | [#36](https://github.com/coder-writes/devTinder-frontend-main/issues/36) |
 | Adding a static navbar containing all the features + making all navigation route fixed | Medium | [#35](https://github.com/coder-writes/devTinder-frontend-main/issues/35) |
 | added pages for forgot password, reset password and updated login page | Medium | [#33](https://github.com/coder-writes/devTinder-frontend-main/pull/33) |
-| Added Contact Page with Functional Email Form Using EmailJS | Medium | [#32](https://github.com/coder-writes/devTinder-frontend-main/pull/32) |
 | Feature Request: Implement “Project Ideas Hub” Section | Medium | [#27](https://github.com/coder-writes/devTinder-frontend-main/issues/27) |
 | Feature Request: Add Backend Functionality (Login & Signup with Authentication) | Medium | [#15](https://github.com/coder-writes/devTinder-frontend-main/issues/15) |
 
@@ -2552,24 +2587,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Create a beautiful readme for this project | Medium | [#4](https://github.com/imshashi365/IPURanker/issues/4) |
 | Implement a dark mode toggle | Medium | [#3](https://github.com/imshashi365/IPURanker/issues/3) |
 | 📝 Pull Request: Add Code of Conduct for IPURanker | GSSoC’25 | Medium | [#2](https://github.com/imshashi365/IPURanker/pull/2) |
-
----
-
-## 📌 Project: Your trip planner
-
-📝 **Description:** A travel planning web app that lets users filter destinations by region and track journey expenses.
-
-🔗 [View Project](https://github.com/code-well0/trip-planner)
-
-💻 **Tech Stack:** React.js, JavaScript, CSS, HTML
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add mermaid diagrams | Medium | [#408](https://github.com/code-well0/trip-planner/pull/408) |
 
 ---
 
