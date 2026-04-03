@@ -17,7 +17,6 @@
 | Feature/348 add claude code workflow | Medium | [#349](https://github.com/Amarjha01/InfantCareCompass/pull/349) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
-| Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
 | Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
 | Add document.md and performance.md | Medium | [#297](https://github.com/Amarjha01/InfantCareCompass/issues/297) |
@@ -41,6 +40,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| a11y: Complete keyboard navigation for Dashboard and Friends pages | Medium | [#310](https://github.com/Devasy/splitwiser/pull/310) |
+| Add biometric authentication option (FaceID/TouchID) | Medium | [#309](https://github.com/Devasy/splitwiser/pull/309) |
+| enhance: Add skeleton loading for HomeScreen groups | Medium | [#308](https://github.com/Devasy/splitwiser/pull/308) |
+| perf: Implement lazy loading and code splitting for routes | Medium | [#307](https://github.com/Devasy/splitwiser/pull/307) |
 | enhance: Add animated success celebration when settled up | Medium | [#306](https://github.com/Devasy/splitwiser/pull/306) |
 | refactor: Use generic Skeleton component in FriendsScreen | Medium | [#305](https://github.com/Devasy/splitwiser/pull/305) |
 | style: Add consistent focus-visible states to buttons | Medium | [#304](https://github.com/Devasy/splitwiser/pull/304) |
@@ -67,10 +70,6 @@
 | enhance: Add skeleton loading to mobile Home screen | Medium | [#283](https://github.com/Devasy/splitwiser/pull/283) |
 | ux: Add skeleton loading for mobile home screen | Medium | [#282](https://github.com/Devasy/splitwiser/pull/282) |
 | Add swipe-to-delete for expenses with undo functionality | Medium | [#281](https://github.com/Devasy/splitwiser/pull/281) |
-| enhance: Add swipe-to-delete for expenses with undo | Medium | [#280](https://github.com/Devasy/splitwiser/pull/280) |
-| Add mobile skeleton loading for Home Screen groups | Medium | [#279](https://github.com/Devasy/splitwiser/pull/279) |
-| enhance: Mobile biometric authentication | Medium | [#278](https://github.com/Devasy/splitwiser/pull/278) |
-| enhance: Add animated success celebration | Medium | [#275](https://github.com/Devasy/splitwiser/pull/275) |
 
 ---
 
