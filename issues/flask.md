@@ -274,7 +274,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | enhanced services page | Medium | [#217](https://github.com/aayushraj1010/med-genie/pull/217) |
 | Add privacy policy page and  cookies page | Medium | [#215](https://github.com/aayushraj1010/med-genie/pull/215) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
-| Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
 
 ---
