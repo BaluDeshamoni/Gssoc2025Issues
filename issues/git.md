@@ -17,7 +17,6 @@
 | Feature/348 add claude code workflow | Medium | [#349](https://github.com/Amarjha01/InfantCareCompass/pull/349) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
-| Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
 | Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
 | Add document.md and performance.md | Medium | [#297](https://github.com/Amarjha01/InfantCareCompass/issues/297) |
@@ -82,7 +81,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#123](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/123) |
 | Feature/terms | Medium | [#122](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/122) |
 | Added Privacy Policy component and updated Footer and App | Medium | [#121](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/121) |
 | Improve Footer UI and Add Missing Links | Medium | [#120](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/120) |
@@ -101,6 +99,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Pagination added to StudentsList | Medium | [#100](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/100) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
 | Enhance footer with centered sections, aligned icons, custom hover ef… | Medium | [#70](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/70) |
+| Feature/testimonials | Medium | [#69](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/69) |
 
 ---
 
@@ -163,7 +162,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
-| chore(deps): bump picomatch from 2.3.1 to 2.3.2 in /SortVision in the npm_and_yarn group across 1 directory | Medium | [#786](https://github.com/alienx5499/SortVision/pull/786) |
 | Add Step-by-Step Explanation Mode Alongside Sorting Visualization | Medium | [#710](https://github.com/alienx5499/SortVision/issues/710) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
 | Show Random Numbers in Sorting Visualization | Medium | [#656](https://github.com/alienx5499/SortVision/issues/656) |
@@ -256,7 +254,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | enhanced services page | Medium | [#217](https://github.com/aayushraj1010/med-genie/pull/217) |
 | Add privacy policy page and  cookies page | Medium | [#215](https://github.com/aayushraj1010/med-genie/pull/215) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
-| Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
 
 ---
@@ -606,13 +603,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🤖 Auto-unassignment Summary - Fri Nov 07 2025 | Easy | [#814](https://github.com/SandeepVashishtha/Eventra/issues/814) |
 | Event Analytics Dashboard (Organizer View) | Easy | [#799](https://github.com/SandeepVashishtha/Eventra/issues/799) |
 | Feature Enhancement: Add Chatbot to Eventra Platform | Easy | [#702](https://github.com/SandeepVashishtha/Eventra/issues/702) |
 | Contact Form Validation: Name, Message and Subject Fields Accept Insufficient (Single-Character) and Non-Descriptive Inputs | Easy | [#681](https://github.com/SandeepVashishtha/Eventra/issues/681) |
-| Add buttons for filing patent, copyright, trademark, and design | Medium | [#816](https://github.com/SandeepVashishtha/Eventra/pull/816) |
 | Filter section is inconsistent in dark mode; some text not visible | Medium | [#599](https://github.com/SandeepVashishtha/Eventra/issues/599) |
-| emoji not aligned | Medium | [#542](https://github.com/SandeepVashishtha/Eventra/issues/542) |
 | Enhance UI of “Create your first event” section | Medium | [#410](https://github.com/SandeepVashishtha/Eventra/issues/410) |
 
 ---
