@@ -14,12 +14,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Replace Hardcoded Dashboard Stats with Firestore Counts | Medium | [#670](https://github.com/Dipanita45/HEALCONNECT/issues/670) |
-| ## [Bug] Hardcoded Device and Patient IDs in Live Monitoring Logic | Medium | [#669](https://github.com/Dipanita45/HEALCONNECT/issues/669) |
-| ## [Bug] Invalid HTML Structure in Doctor Dashboard Table | Medium | [#668](https://github.com/Dipanita45/HEALCONNECT/issues/668) |
-| Pull Request: Implement Date-Based Filtering for Vitals API (Fixes #665) | Medium | [#667](https://github.com/Dipanita45/HEALCONNECT/pull/667) |
+| Fix Hardcoded Device and Patient IDs in Live Monitoring #669 | Medium | [#692](https://github.com/Dipanita45/HEALCONNECT/pull/692) |
+| Replace Hardcoded Dashboard Stats with Firestore Counts #670 | Medium | [#691](https://github.com/Dipanita45/HEALCONNECT/pull/691) |
+| Refactor: Move Authorization Logic to Declarative RBAC Middleware | Medium | [#690](https://github.com/Dipanita45/HEALCONNECT/issues/690) |
+| Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
+| Enhancement: Implement Unit of Work Pattern for Atomic Multi-Document Operations | Medium | [#688](https://github.com/Dipanita45/HEALCONNECT/issues/688) |
+| Enhancement: Move Alert Generation to Asynchronous Background Processing | Medium | [#687](https://github.com/Dipanita45/HEALCONNECT/issues/687) |
+| Bug: Rate Limiting Fails in Serverless Environment Due to In-Memory Storage | Medium | [#686](https://github.com/Dipanita45/HEALCONNECT/issues/686) |
+| 🛠️ [CODE QUALITY] Redundant and Manual Validation Logic | Medium | [#682](https://github.com/Dipanita45/HEALCONNECT/issues/682) |
+| Missing RBAC in Vitals API | Medium | [#680](https://github.com/Dipanita45/HEALCONNECT/issues/680) |
+| Fix the appointment section | Medium | [#674](https://github.com/Dipanita45/HEALCONNECT/issues/674) |
 | Standardize Next.js API middleware across all routes | Medium | [#666](https://github.com/Dipanita45/HEALCONNECT/issues/666) |
-| ## Feature: Support Patient-Specific Vital Thresholds | Medium | [#664](https://github.com/Dipanita45/HEALCONNECT/issues/664) |
 
 ---
 
