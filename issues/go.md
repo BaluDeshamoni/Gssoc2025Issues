@@ -102,7 +102,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Claude Code GitHub Workflow | Medium | [#92](https://github.com/AdityaRalhan/Aluma/issues/92) |
 | issue create automate message added | Medium | [#91](https://github.com/AdityaRalhan/Aluma/pull/91) |
 | Adding issue template | Medium | [#90](https://github.com/AdityaRalhan/Aluma/issues/90) |
 | Improve README with setup instructions | Medium | [#89](https://github.com/AdityaRalhan/Aluma/issues/89) |
@@ -173,7 +172,6 @@ Accessibility features like dark mode,white.
 | Feature/348 add claude code workflow | Medium | [#349](https://github.com/Amarjha01/InfantCareCompass/pull/349) |
 | Fix contact form text visibility issue (#314) | Medium | [#318](https://github.com/Amarjha01/InfantCareCompass/pull/318) |
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
-| Feature 1 | Medium | [#304](https://github.com/Amarjha01/InfantCareCompass/pull/304) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
 | Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
 | Add document.md and performance.md | Medium | [#297](https://github.com/Amarjha01/InfantCareCompass/issues/297) |
@@ -197,28 +195,31 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Migrate Production | Easy | [#4292](https://github.com/OWASP/Nest/pull/4292) |
-| fix(slack): NestBot async UX, Slack-safe AI replies, and deferred path hardening | Medium | [#4319](https://github.com/OWASP/Nest/pull/4319) |
-| bug: Navbar logo does not adapt to light/dark theme, causing poor visibility in light mode | Medium | [#4318](https://github.com/OWASP/Nest/issues/4318) |
-| Fix: Add rounded corners to map component for UI consistency | Medium | [#4314](https://github.com/OWASP/Nest/pull/4314) |
-| Frontend shows unclear error when GraphQL client is not configured | Medium | [#4308](https://github.com/OWASP/Nest/issues/4308) |
-| Fix frequent map locking on landing page (#4301) | Medium | [#4307](https://github.com/OWASP/Nest/pull/4307) |
-| Feature: Filter and Sort Support for Members Page | Medium | [#4306](https://github.com/OWASP/Nest/pull/4306) |
-| Implement Query Analyzer for NestBot | Medium | [#4303](https://github.com/OWASP/Nest/pull/4303) |
-| Bug: Slack Workspace model fails during Django initialization | Medium | [#4300](https://github.com/OWASP/Nest/issues/4300) |
-| fix: handle _leaflet_pos TypeError on chapters map | Medium | [#4296](https://github.com/OWASP/Nest/pull/4296) |
-| fix: calendar icon misaligned with timeline text in Card component | Medium | [#4293](https://github.com/OWASP/Nest/issues/4293) |
-| Prevent false project leader detection caused by substring matching | Medium | [#4283](https://github.com/OWASP/Nest/issues/4283) |
-| Chapters page not responsive and country filter input resets when clearing selection | Medium | [#4282](https://github.com/OWASP/Nest/issues/4282) |
-| Restrict access to Module Issues page | Medium | [#4281](https://github.com/OWASP/Nest/pull/4281) |
-| Optimize My Mentorship page by conditionally skipping GetMyPrograms query | Medium | [#4277](https://github.com/OWASP/Nest/issues/4277) |
-| Improved OWASP Nest member ranking algorithm | Medium | [#4273](https://github.com/OWASP/Nest/pull/4273) |
-| Introduce a Unified Domain Layer for Business Logic | Medium | [#4271](https://github.com/OWASP/Nest/issues/4271) |
-| Loading skeleton count does not match page size on Users and Organizations pages | Medium | [#4267](https://github.com/OWASP/Nest/issues/4267) |
-| Feat: Improve OWASP Nest member ranking by introducing calculated score–based algorithm | Medium | [#4266](https://github.com/OWASP/Nest/pull/4266) |
-| feat: implement multi-factor member scoring algorithm | Medium | [#4264](https://github.com/OWASP/Nest/pull/4264) |
-| refactor: migrate ModuleNode to use strawberry-django decorator for consistency | Medium | [#4256](https://github.com/OWASP/Nest/pull/4256) |
-| fix/allow program admins to set and clear issue deadlines | Medium | [#4254](https://github.com/OWASP/Nest/pull/4254) |
+| docs: add local testing steps to NestBot development guide | Easy | [#4440](https://github.com/OWASP/Nest/pull/4440) |
+| ChapterMap: Incorrect cursor display on non-interactive areas | Easy | [#4419](https://github.com/OWASP/Nest/issues/4419) |
+| chore(deps-dev): bump typescript from 5.9.3 to 6.0.2 in /frontend | Medium | [#4466](https://github.com/OWASP/Nest/pull/4466) |
+| Switch GitHub Actions runners from ubuntu-latest to Blacksmith for faster CI | Medium | [#4455](https://github.com/OWASP/Nest/issues/4455) |
+| feat(notifications): add EDA-based idempotent processing and DLQ for chapter/event updates | Medium | [#4454](https://github.com/OWASP/Nest/pull/4454) |
+| fix(api-keys): prevent same-day expiry rejection by sending end-of-day UTC | Medium | [#4447](https://github.com/OWASP/Nest/pull/4447) |
+| feat: added PR count indicator to issue cards on Contribute and Mentee pages | Medium | [#4446](https://github.com/OWASP/Nest/pull/4446) |
+| Bug: Member profile displays closed PR while merged PRs are missing from pull requests section | Medium | [#4445](https://github.com/OWASP/Nest/issues/4445) |
+| feat: Add PR count and merged PR stats to member profile page | Medium | [#4444](https://github.com/OWASP/Nest/issues/4444) |
+| Implement Structured Skeletons and Fix Responsive Map Overflows | Medium | [#4439](https://github.com/OWASP/Nest/issues/4439) |
+| bug : Standardize Design Tokens and Resolve Navigation Accessibility Gaps | Medium | [#4436](https://github.com/OWASP/Nest/issues/4436) |
+| feat(a11y): Add skip-to-main-content link for keyboard accessibility (WCAG 2.4.1) | Medium | [#4435](https://github.com/OWASP/Nest/issues/4435) |
+| feat(frontend): bump @heroui/react from 2.8.10 to 3.0.1 and fix failing tests | Medium | [#4434](https://github.com/OWASP/Nest/pull/4434) |
+| feat: add Playwright smoke test for board candidates page | Medium | [#4424](https://github.com/OWASP/Nest/pull/4424) |
+| Mobile Navigation Menu lacks backdrop overlay and body scroll lock | Medium | [#4423](https://github.com/OWASP/Nest/issues/4423) |
+| Improve GraphQL and backend connectivity error messaging in frontend | Medium | [#4421](https://github.com/OWASP/Nest/pull/4421) |
+| Remove unused timeline/calendar feature from Card component | Medium | [#4420](https://github.com/OWASP/Nest/pull/4420) |
+| Improve onboarding experience for first time contributors | Medium | [#4401](https://github.com/OWASP/Nest/issues/4401) |
+| Improve error handling in CalendarButton component | Medium | [#4399](https://github.com/OWASP/Nest/issues/4399) |
+| Milestone and Evidence Tracking for the Mentorship Module (GSoC 2026) | Medium | [#4385](https://github.com/OWASP/Nest/issues/4385) |
+| Improve navbar button hierarchy and visual balance | Medium | [#4381](https://github.com/OWASP/Nest/issues/4381) |
+| Proposal: Enhance Project Scraper Robustness and Observability (GSoC 2026) | Medium | [#4380](https://github.com/OWASP/Nest/issues/4380) |
+| Improve navbar hover and active state visibility | Medium | [#4379](https://github.com/OWASP/Nest/pull/4379) |
+| Fixed header Nest logo adaption to theme(light/dark) | Medium | [#4374](https://github.com/OWASP/Nest/pull/4374) |
+| Made OWASP Nest logo dynamically toggle in dark and light theme | Medium | [#4370](https://github.com/OWASP/Nest/pull/4370) |
 
 ---
 
@@ -276,7 +277,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Backend: Implement Private Project Notes with Role-Based Access Control | Medium | [#1325](https://github.com/code-a2z/code-a2z/issues/1325) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/code-a2z/code-a2z/issues/1211) |
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/code-a2z/code-a2z/issues/1182) |
-| 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/code-a2z/code-a2z/issues/1178) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/code-a2z/code-a2z/issues/1116) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/code-a2z/code-a2z/issues/788) |
 | 📃: Notes app | Medium | [#249](https://github.com/code-a2z/code-a2z/issues/249) |
@@ -331,8 +331,8 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Adding Global Error Handling and 404 Route Handler to Express Server | Easy | [#133](https://github.com/BhaktiMore18/Pouranik/issues/133) |
-| Add Claude Code GitHub Workflow | Medium | [#301](https://github.com/BhaktiMore18/Pouranik/issues/301) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#268](https://github.com/BhaktiMore18/Pouranik/issues/268) |
+| Group Chat for Book Club Members | Medium | [#121](https://github.com/BhaktiMore18/Pouranik/issues/121) |
 
 ---
 
@@ -421,6 +421,13 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| a11y: Complete keyboard navigation for Dashboard and Friends pages | Medium | [#310](https://github.com/Devasy/splitwiser/pull/310) |
+| Add biometric authentication option (FaceID/TouchID) | Medium | [#309](https://github.com/Devasy/splitwiser/pull/309) |
+| enhance: Add skeleton loading for HomeScreen groups | Medium | [#308](https://github.com/Devasy/splitwiser/pull/308) |
+| perf: Implement lazy loading and code splitting for routes | Medium | [#307](https://github.com/Devasy/splitwiser/pull/307) |
+| enhance: Add animated success celebration when settled up | Medium | [#306](https://github.com/Devasy/splitwiser/pull/306) |
+| refactor: Use generic Skeleton component in FriendsScreen | Medium | [#305](https://github.com/Devasy/splitwiser/pull/305) |
+| style: Add consistent focus-visible states to buttons | Medium | [#304](https://github.com/Devasy/splitwiser/pull/304) |
 | enhance: Add skeleton loading for HomeScreen groups | Medium | [#303](https://github.com/Devasy/splitwiser/pull/303) |
 | style: consistent hover/focus states across all buttons | Medium | [#302](https://github.com/Devasy/splitwiser/pull/302) |
 | enhance: Complete skeleton loading for HomeScreen groups | Medium | [#301](https://github.com/Devasy/splitwiser/pull/301) |
@@ -444,13 +451,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | enhance: Add skeleton loading to mobile Home screen | Medium | [#283](https://github.com/Devasy/splitwiser/pull/283) |
 | ux: Add skeleton loading for mobile home screen | Medium | [#282](https://github.com/Devasy/splitwiser/pull/282) |
 | Add swipe-to-delete for expenses with undo functionality | Medium | [#281](https://github.com/Devasy/splitwiser/pull/281) |
-| enhance: Add swipe-to-delete for expenses with undo | Medium | [#280](https://github.com/Devasy/splitwiser/pull/280) |
-| Add mobile skeleton loading for Home Screen groups | Medium | [#279](https://github.com/Devasy/splitwiser/pull/279) |
-| enhance: Mobile biometric authentication | Medium | [#278](https://github.com/Devasy/splitwiser/pull/278) |
-| enhance: Add animated success celebration | Medium | [#275](https://github.com/Devasy/splitwiser/pull/275) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#274](https://github.com/Devasy/splitwiser/pull/274) |
-| style: Add consistent focus-visible states to buttons | Medium | [#273](https://github.com/Devasy/splitwiser/pull/273) |
-| Mobile Swipe-to-Delete for Expenses | Medium | [#272](https://github.com/Devasy/splitwiser/pull/272) |
 
 ---
 
@@ -468,7 +468,6 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#123](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/123) |
 | Feature/terms | Medium | [#122](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/122) |
 | Added Privacy Policy component and updated Footer and App | Medium | [#121](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/121) |
 | Improve Footer UI and Add Missing Links | Medium | [#120](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/120) |
@@ -487,6 +486,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | Pagination added to StudentsList | Medium | [#100](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/100) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
 | Enhance footer with centered sections, aligned icons, custom hover ef… | Medium | [#70](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/70) |
+| Feature/testimonials | Medium | [#69](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/69) |
 
 ---
 
