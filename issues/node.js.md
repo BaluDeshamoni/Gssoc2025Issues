@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#85](https://github.com/Abhinavhaldiya/FinPilot/issues/85) |
 | DOCS: Fix Formatting in README.md and Enhance with Dynamic Status Badges | Medium | [#84](https://github.com/Abhinavhaldiya/FinPilot/issues/84) |
 | Updated readme | Medium | [#83](https://github.com/Abhinavhaldiya/FinPilot/pull/83) |
 | Add theme switch button | Medium | [#82](https://github.com/Abhinavhaldiya/FinPilot/issues/82) |
@@ -182,7 +181,6 @@ Accessibility features like dark mode,white.
 | Backend: Implement Private Project Notes with Role-Based Access Control | Medium | [#1325](https://github.com/code-a2z/code-a2z/issues/1325) |
 | AI-Driven Recommendation: Personalized Learning Feed for Code-A2Z Users | Medium | [#1211](https://github.com/code-a2z/code-a2z/issues/1211) |
 | Real-time Dashboard Feature | Medium | [#1182](https://github.com/code-a2z/code-a2z/issues/1182) |
-| 🚨 Key Performance Issues Identified | Medium | [#1178](https://github.com/code-a2z/code-a2z/issues/1178) |
 | Website & GitHub PR Workflow Setup | Medium | [#1116](https://github.com/code-a2z/code-a2z/issues/1116) |
 | 📃: Scalable Real Time Chat Application | Medium | [#788](https://github.com/code-a2z/code-a2z/issues/788) |
 | 📃: Notes app | Medium | [#249](https://github.com/code-a2z/code-a2z/issues/249) |
@@ -260,8 +258,8 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Adding Global Error Handling and 404 Route Handler to Express Server | Easy | [#133](https://github.com/BhaktiMore18/Pouranik/issues/133) |
-| Add Claude Code GitHub Workflow | Medium | [#301](https://github.com/BhaktiMore18/Pouranik/issues/301) |
 | Add GSSoC Label for Auto labels assignment | Medium | [#268](https://github.com/BhaktiMore18/Pouranik/issues/268) |
+| Group Chat for Book Club Members | Medium | [#121](https://github.com/BhaktiMore18/Pouranik/issues/121) |
 
 ---
 
@@ -350,7 +348,6 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#123](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/123) |
 | Feature/terms | Medium | [#122](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/122) |
 | Added Privacy Policy component and updated Footer and App | Medium | [#121](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/121) |
 | Improve Footer UI and Add Missing Links | Medium | [#120](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/120) |
@@ -369,6 +366,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | Pagination added to StudentsList | Medium | [#100](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/100) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
 | Enhance footer with centered sections, aligned icons, custom hover ef… | Medium | [#70](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/70) |
+| Feature/testimonials | Medium | [#69](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/69) |
 
 ---
 
@@ -1732,7 +1730,6 @@ Fast Workflow Tools
 | Add Feedback Form to DevTinder | Medium | [#36](https://github.com/coder-writes/devTinder-frontend-main/issues/36) |
 | Adding a static navbar containing all the features + making all navigation route fixed | Medium | [#35](https://github.com/coder-writes/devTinder-frontend-main/issues/35) |
 | added pages for forgot password, reset password and updated login page | Medium | [#33](https://github.com/coder-writes/devTinder-frontend-main/pull/33) |
-| Added Contact Page with Functional Email Form Using EmailJS | Medium | [#32](https://github.com/coder-writes/devTinder-frontend-main/pull/32) |
 | Feature Request: Implement “Project Ideas Hub” Section | Medium | [#27](https://github.com/coder-writes/devTinder-frontend-main/issues/27) |
 | Feature Request: Add Backend Functionality (Login & Signup with Authentication) | Medium | [#15](https://github.com/coder-writes/devTinder-frontend-main/issues/15) |
 
