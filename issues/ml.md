@@ -356,7 +356,6 @@ User Profile: BMI calculator and fitness analytics.
 | Aman Singh Kushwah | Medium | [#1725](https://github.com/AnujShrivastava01/AnimateItNow/pull/1725) |
 | I have added a extra member Bio wiht all the social media handles | Medium | [#1723](https://github.com/AnujShrivastava01/AnimateItNow/pull/1723) |
 | Template Size | Medium | [#1722](https://github.com/AnujShrivastava01/AnimateItNow/pull/1722) |
-| Centered the Navbar LInks and and added the Name in my Front - Love M… | Medium | [#1721](https://github.com/AnujShrivastava01/AnimateItNow/pull/1721) |
 | blog to blogs by ishika prajapati | Medium | [#1720](https://github.com/AnujShrivastava01/AnimateItNow/pull/1720) |
 | Update chatbot-data.json | Medium | [#1719](https://github.com/AnujShrivastava01/AnimateItNow/pull/1719) |
 | update in index.css styles | Medium | [#1718](https://github.com/AnujShrivastava01/AnimateItNow/pull/1718) |
@@ -375,6 +374,7 @@ User Profile: BMI calculator and fitness analytics.
 | Refine Dark Mode Theme & UI Consistency for Feedback Page | Medium | [#1704](https://github.com/AnujShrivastava01/AnimateItNow/issues/1704) |
 | contributor page enhancement | Medium | [#1703](https://github.com/AnujShrivastava01/AnimateItNow/issues/1703) |
 | Contact Page UI/UX with Modern Interactions and Animations | Medium | [#1702](https://github.com/AnujShrivastava01/AnimateItNow/issues/1702) |
+| Enhancing feedback page | Medium | [#1701](https://github.com/AnujShrivastava01/AnimateItNow/issues/1701) |
 
 ---
 
@@ -1232,11 +1232,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump @floating-ui/react from 0.27.16 to 0.27.19 | Medium | [#1305](https://github.com/recodehive/recode-website/pull/1305) |
-| chore: bump @vercel/analytics from 1.5.0 to 2.0.1 | Medium | [#1304](https://github.com/recodehive/recode-website/pull/1304) |
-| chore: bump postcss from 8.5.6 to 8.5.8 | Medium | [#1303](https://github.com/recodehive/recode-website/pull/1303) |
-| chore: bump lint-staged from 16.2.4 to 16.4.0 | Medium | [#1302](https://github.com/recodehive/recode-website/pull/1302) |
-| chore: bump autoprefixer from 10.4.21 to 10.4.27 | Medium | [#1301](https://github.com/recodehive/recode-website/pull/1301) |
+| chore: bump lucide-react from 0.503.0 to 1.7.0 | Medium | [#1311](https://github.com/recodehive/recode-website/pull/1311) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.58.0 | Medium | [#1310](https://github.com/recodehive/recode-website/pull/1310) |
+| chore: bump typescript from 5.3.3 to 6.0.2 | Medium | [#1309](https://github.com/recodehive/recode-website/pull/1309) |
+| chore: bump @tailwindcss/postcss from 4.1.14 to 4.2.2 | Medium | [#1308](https://github.com/recodehive/recode-website/pull/1308) |
+| chore: bump firebase from 9.23.0 to 12.11.0 | Medium | [#1307](https://github.com/recodehive/recode-website/pull/1307) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
@@ -1498,7 +1498,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | enhanced services page | Medium | [#217](https://github.com/aayushraj1010/med-genie/pull/217) |
 | Add privacy policy page and  cookies page | Medium | [#215](https://github.com/aayushraj1010/med-genie/pull/215) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
-| Favicon update | Medium | [#190](https://github.com/aayushraj1010/med-genie/pull/190) |
 | Fix the View at Home Page | Medium | [#166](https://github.com/aayushraj1010/med-genie/issues/166) |
 
 ---
@@ -1663,24 +1662,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Dark mode for FAQ section | Medium | [#556](https://github.com/Creators-Space/Creators-Space/issues/556) |
 | Search functionality implemented for faq | Medium | [#554](https://github.com/Creators-Space/Creators-Space/pull/554) |
 | social media app links working in projects page | Medium | [#553](https://github.com/Creators-Space/Creators-Space/pull/553) |
-
----
-
-## 📌 Project: Canvas-Editor
-
-📝 **Description:** This is a simple beginner friendly web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
-
-🔗 [View Project](https://github.com/vishanurag/Canvas-Editor/)
-
-💻 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Major README Overhaul & Documentation Polish | Medium | [#1374](https://github.com/vishanurag/Canvas-Editor/issues/1374) |
 
 ---
 
@@ -2415,6 +2396,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix invalid opacity value in contributor card hover | Medium | [#1519](https://github.com/Rakesh9100/Beautiify/pull/1519) |
 | <FAQs section> | Medium | [#1518](https://github.com/Rakesh9100/Beautiify/issues/1518) |
 | Implement Login & Signup System with Modern and User-Friendly UI | Medium | [#1517](https://github.com/Rakesh9100/Beautiify/issues/1517) |
 | Fix The Allignment Of The Content Of The Footer | Medium | [#1516](https://github.com/Rakesh9100/Beautiify/issues/1516) |
