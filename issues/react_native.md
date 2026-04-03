@@ -14,6 +14,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| a11y: Complete keyboard navigation for Dashboard and Friends pages | Medium | [#310](https://github.com/Devasy/splitwiser/pull/310) |
+| Add biometric authentication option (FaceID/TouchID) | Medium | [#309](https://github.com/Devasy/splitwiser/pull/309) |
+| enhance: Add skeleton loading for HomeScreen groups | Medium | [#308](https://github.com/Devasy/splitwiser/pull/308) |
+| perf: Implement lazy loading and code splitting for routes | Medium | [#307](https://github.com/Devasy/splitwiser/pull/307) |
+| enhance: Add animated success celebration when settled up | Medium | [#306](https://github.com/Devasy/splitwiser/pull/306) |
+| refactor: Use generic Skeleton component in FriendsScreen | Medium | [#305](https://github.com/Devasy/splitwiser/pull/305) |
+| style: Add consistent focus-visible states to buttons | Medium | [#304](https://github.com/Devasy/splitwiser/pull/304) |
+| enhance: Add skeleton loading for HomeScreen groups | Medium | [#303](https://github.com/Devasy/splitwiser/pull/303) |
+| style: consistent hover/focus states across all buttons | Medium | [#302](https://github.com/Devasy/splitwiser/pull/302) |
+| enhance: Complete skeleton loading for HomeScreen groups | Medium | [#301](https://github.com/Devasy/splitwiser/pull/301) |
+| style: Consistent hover/focus states across all components | Medium | [#300](https://github.com/Devasy/splitwiser/pull/300) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#299](https://github.com/Devasy/splitwiser/pull/299) |
 | enhance: Add skeleton loading to mobile Home screen | Medium | [#298](https://github.com/Devasy/splitwiser/pull/298) |
 | enhance: Add complete skeleton loading for GroupDetails page | Medium | [#297](https://github.com/Devasy/splitwiser/pull/297) |
@@ -33,17 +44,6 @@
 | enhance: Add skeleton loading to mobile Home screen | Medium | [#283](https://github.com/Devasy/splitwiser/pull/283) |
 | ux: Add skeleton loading for mobile home screen | Medium | [#282](https://github.com/Devasy/splitwiser/pull/282) |
 | Add swipe-to-delete for expenses with undo functionality | Medium | [#281](https://github.com/Devasy/splitwiser/pull/281) |
-| enhance: Add swipe-to-delete for expenses with undo | Medium | [#280](https://github.com/Devasy/splitwiser/pull/280) |
-| Add mobile skeleton loading for Home Screen groups | Medium | [#279](https://github.com/Devasy/splitwiser/pull/279) |
-| enhance: Mobile biometric authentication | Medium | [#278](https://github.com/Devasy/splitwiser/pull/278) |
-| enhance: Add animated success celebration | Medium | [#275](https://github.com/Devasy/splitwiser/pull/275) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#274](https://github.com/Devasy/splitwiser/pull/274) |
-| style: Add consistent focus-visible states to buttons | Medium | [#273](https://github.com/Devasy/splitwiser/pull/273) |
-| Mobile Swipe-to-Delete for Expenses | Medium | [#272](https://github.com/Devasy/splitwiser/pull/272) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#271](https://github.com/Devasy/splitwiser/pull/271) |
-| ux: Add animated success celebration when settled up | Medium | [#270](https://github.com/Devasy/splitwiser/pull/270) |
-| style: Consistent hover/focus states | Medium | [#267](https://github.com/Devasy/splitwiser/pull/267) |
-| Mobile HomeScreen Skeleton Loading | Medium | [#265](https://github.com/Devasy/splitwiser/pull/265) |
 
 ---
 
@@ -93,10 +93,21 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Phase 1 | Medium | [#102](https://github.com/LarytheLord/Adventurers-Guild/pull/102) |
-| Fixed: Footer Section UI | Medium | [#93](https://github.com/LarytheLord/Adventurers-Guild/pull/93) |
-| Profile and skill map | Medium | [#71](https://github.com/LarytheLord/Adventurers-Guild/pull/71) |
-| SEO related optimization | Medium | [#48](https://github.com/LarytheLord/Adventurers-Guild/issues/48) |
+| fix: Migrate all client fetch calls to fetchWithAuth — prevent silent 401 failures | Easy | [#150](https://github.com/LarytheLord/Adventurers-Guild/issues/150) |
+| feat: Achievement System — Milestone Badges and Unlock Notifications | Easy | [#149](https://github.com/LarytheLord/Adventurers-Guild/issues/149) |
+| feat: Quest Board Filters — Track, Difficulty, Category, and Search | Easy | [#138](https://github.com/LarytheLord/Adventurers-Guild/issues/138) |
+| feat: Party Panel UI — Squad Display on Quest Detail Page | Easy | [#137](https://github.com/LarytheLord/Adventurers-Guild/issues/137) |
+| feat: Quest Streak System — Daily/Weekly XP Multiplier for Retention | Easy | [#136](https://github.com/LarytheLord/Adventurers-Guild/issues/136) |
+| feat: Stripe Connect — Adventurer payout onboarding and PaymentIntent flow | Easy | [#106](https://github.com/LarytheLord/Adventurers-Guild/issues/106) |
+| add quest workflow event trail | Medium | [#152](https://github.com/LarytheLord/Adventurers-Guild/pull/152) |
+| feat: Activity Logging System — Track All User Actions with Points | Medium | [#147](https://github.com/LarytheLord/Adventurers-Guild/issues/147) |
+| arch: Bootcamp Pipeline End-to-End Test — Dry Run with 5 Students | Medium | [#142](https://github.com/LarytheLord/Adventurers-Guild/issues/142) |
+| feat: Admin Analytics Dashboard — DAU, Quest Metrics, Rank Distribution | Medium | [#135](https://github.com/LarytheLord/Adventurers-Guild/issues/135) |
+| feat: Squad-Aware Quest Board UI — party slots, join flow, and squad filtering | Medium | [#111](https://github.com/LarytheLord/Adventurers-Guild/issues/111) |
+| feat: Hackathon → Quest Continuation Pipeline — first-refusal window for hackathon teams | Medium | [#110](https://github.com/LarytheLord/Adventurers-Guild/issues/110) |
+| feat: Admin Revenue Dashboard — GMV, MRR, fill rate, and take rate charts | Medium | [#109](https://github.com/LarytheLord/Adventurers-Guild/issues/109) |
+| feat: Quest Event Audit Trail — EventLog model and admin quest timeline | Medium | [#108](https://github.com/LarytheLord/Adventurers-Guild/issues/108) |
+| refactor: Extract Service Layer — Break Monolithic API Routes into Focused Services | Hard | [#148](https://github.com/LarytheLord/Adventurers-Guild/issues/148) |
 
 ---
 
