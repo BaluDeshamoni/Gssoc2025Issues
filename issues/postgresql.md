@@ -14,7 +14,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#85](https://github.com/Abhinavhaldiya/FinPilot/issues/85) |
 | DOCS: Fix Formatting in README.md and Enhance with Dynamic Status Badges | Medium | [#84](https://github.com/Abhinavhaldiya/FinPilot/issues/84) |
 | Updated readme | Medium | [#83](https://github.com/Abhinavhaldiya/FinPilot/pull/83) |
 | Add theme switch button | Medium | [#82](https://github.com/Abhinavhaldiya/FinPilot/issues/82) |
@@ -53,7 +52,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: welcome-new-contributors job skips during manual workflow_dispatch | Medium | [#71](https://github.com/Menthub-GSSoC/Menthub/issues/71) |
 | Add GSSoC'25 Banner | Medium | [#70](https://github.com/Menthub-GSSoC/Menthub/issues/70) |
 | ⚙️: | Medium | [#69](https://github.com/Menthub-GSSoC/Menthub/issues/69) |
 | 📑: Interactive Demo | Medium | [#67](https://github.com/Menthub-GSSoC/Menthub/issues/67) |
@@ -67,6 +65,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Updated readme file under issue #24 | Medium | [#42](https://github.com/Menthub-GSSoC/Menthub/pull/42) |
 | Improve Contributor Onboarding & Project Structure Guide | Medium | [#35](https://github.com/Menthub-GSSoC/Menthub/issues/35) |
 | Some database columns should not be nullable. | Medium | [#25](https://github.com/Menthub-GSSoC/Menthub/issues/25) |
+| Prevent Duplicate Mentorship Requests (mentee_id + mentor_id) | Medium | [#23](https://github.com/Menthub-GSSoC/Menthub/issues/23) |
 
 ---
 
@@ -87,6 +86,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Add Docker, Kubernetes, Terraform, and CI/CD support | Medium | [#884](https://github.com/HarshS16/Civix/pull/884) |
 | Adding stunning landing page | Medium | [#878](https://github.com/HarshS16/Civix/issues/878) |
 | Improve Navbar UI/UX | Medium | [#875](https://github.com/HarshS16/Civix/issues/875) |
 | Incomplete gradient on the newsletter subscribe button | Medium | [#874](https://github.com/HarshS16/Civix/issues/874) |
@@ -342,12 +342,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🤖 Auto-unassignment Summary - Fri Nov 07 2025 | Easy | [#814](https://github.com/SandeepVashishtha/Eventra/issues/814) |
 | Event Analytics Dashboard (Organizer View) | Easy | [#799](https://github.com/SandeepVashishtha/Eventra/issues/799) |
 | Feature Enhancement: Add Chatbot to Eventra Platform | Easy | [#702](https://github.com/SandeepVashishtha/Eventra/issues/702) |
 | Contact Form Validation: Name, Message and Subject Fields Accept Insufficient (Single-Character) and Non-Descriptive Inputs | Easy | [#681](https://github.com/SandeepVashishtha/Eventra/issues/681) |
 | Filter section is inconsistent in dark mode; some text not visible | Medium | [#599](https://github.com/SandeepVashishtha/Eventra/issues/599) |
-| emoji not aligned | Medium | [#542](https://github.com/SandeepVashishtha/Eventra/issues/542) |
 | Enhance UI of “Create your first event” section | Medium | [#410](https://github.com/SandeepVashishtha/Eventra/issues/410) |
 
 ---
