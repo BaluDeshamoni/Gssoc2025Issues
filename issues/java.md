@@ -174,10 +174,8 @@
 |----------|----------------|---------|
 | Change ball color to blue | Medium | [#243](https://github.com/Akki-jaiswal/pong-game/pull/243) |
 | Fixed AI paddle movement to be smoother | Medium | [#241](https://github.com/Akki-jaiswal/pong-game/pull/241) |
-| Update script.js | Medium | [#236](https://github.com/Akki-jaiswal/pong-game/pull/236) |
 | Enhancing the overall UI and adding New Features | Medium | [#235](https://github.com/Akki-jaiswal/pong-game/issues/235) |
 | Feature Request: Add Blog section for Pong game | Medium | [#234](https://github.com/Akki-jaiswal/pong-game/issues/234) |
-| Update script.js | Medium | [#233](https://github.com/Akki-jaiswal/pong-game/pull/233) |
 | IMPROVING HEADER SECTION OF HOME PAGE | Medium | [#232](https://github.com/Akki-jaiswal/pong-game/issues/232) |
 | Enhanced UI , fixed issues and added many more new fetaures in the pong game. I have given the brief explanation of the newly added features in the ping pong game in the description part along with the existing features | Medium | [#231](https://github.com/Akki-jaiswal/pong-game/pull/231) |
 | Dropdown text not clearly visible due to background color conflict | Medium | [#229](https://github.com/Akki-jaiswal/pong-game/issues/229) |
@@ -197,6 +195,7 @@
 | How to Play” button does not open instructions modal  Description | Medium | [#206](https://github.com/Akki-jaiswal/pong-game/issues/206) |
 | Navbar UI/UX Improvements | Medium | [#205](https://github.com/Akki-jaiswal/pong-game/issues/205) |
 | changed the design after winning | Medium | [#204](https://github.com/Akki-jaiswal/pong-game/pull/204) |
+| add welcome page with ui enhancement | Medium | [#202](https://github.com/Akki-jaiswal/pong-game/pull/202) |
 
 ---
 
@@ -438,11 +437,16 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Hardcoded Device and Patient IDs in Live Monitoring #669 | Medium | [#692](https://github.com/Dipanita45/HEALCONNECT/pull/692) |
-| Replace Hardcoded Dashboard Stats with Firestore Counts #670 | Medium | [#691](https://github.com/Dipanita45/HEALCONNECT/pull/691) |
+| Fix the invisible dropdown issue on the Prescription page (Fixes #694) | Medium | [#703](https://github.com/Dipanita45/HEALCONNECT/pull/703) |
+| Feature/db unit of work (Fixes #688) | Medium | [#702](https://github.com/Dipanita45/HEALCONNECT/pull/702) |
+| Feature/prescription dropdown fix(Fixes #694) | Medium | [#701](https://github.com/Dipanita45/HEALCONNECT/pull/701) |
+| Fix alert timestamp updates with single transaction (Fixes #696) | Medium | [#700](https://github.com/Dipanita45/HEALCONNECT/pull/700) |
+| Revert "Base" | Medium | [#699](https://github.com/Dipanita45/HEALCONNECT/pull/699) |
+| Bug: Hydration Mismatch & Cache Fallback Causes Stale or Null Patient State | Medium | [#697](https://github.com/Dipanita45/HEALCONNECT/issues/697) |
+| Bug: Race Condition in Vitals API Can Cause Silent Alert Failures | Medium | [#695](https://github.com/Dipanita45/HEALCONNECT/issues/695) |
+| # Improve Vitals API Validation & Background Alert Logging | Medium | [#693](https://github.com/Dipanita45/HEALCONNECT/issues/693) |
 | Refactor: Move Authorization Logic to Declarative RBAC Middleware | Medium | [#690](https://github.com/Dipanita45/HEALCONNECT/issues/690) |
 | Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
-| Enhancement: Implement Unit of Work Pattern for Atomic Multi-Document Operations | Medium | [#688](https://github.com/Dipanita45/HEALCONNECT/issues/688) |
 | Enhancement: Move Alert Generation to Asynchronous Background Processing | Medium | [#687](https://github.com/Dipanita45/HEALCONNECT/issues/687) |
 | Bug: Rate Limiting Fails in Serverless Environment Due to In-Memory Storage | Medium | [#686](https://github.com/Dipanita45/HEALCONNECT/issues/686) |
 | 🛠️ [CODE QUALITY] Redundant and Manual Validation Logic | Medium | [#682](https://github.com/Dipanita45/HEALCONNECT/issues/682) |
@@ -1107,14 +1111,17 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump dotenv from 17.2.3 to 17.4.0 | Easy | [#1318](https://github.com/recodehive/recode-website/pull/1318) |
+| Revamp : Redesign the merge page | Easy | [#1314](https://github.com/recodehive/recode-website/issues/1314) |
+| Redesign the Community home cards | Easy | [#1313](https://github.com/recodehive/recode-website/issues/1313) |
+| [Feature]: Use Dynamic mappinf for discussions section . | Easy | [#1312](https://github.com/recodehive/recode-website/issues/1312) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump lucide-react from 0.503.0 to 1.7.0 | Medium | [#1311](https://github.com/recodehive/recode-website/pull/1311) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.58.0 | Medium | [#1310](https://github.com/recodehive/recode-website/pull/1310) |
-| chore: bump typescript from 5.3.3 to 6.0.2 | Medium | [#1309](https://github.com/recodehive/recode-website/pull/1309) |
-| chore: bump @tailwindcss/postcss from 4.1.14 to 4.2.2 | Medium | [#1308](https://github.com/recodehive/recode-website/pull/1308) |
-| chore: bump firebase from 9.23.0 to 12.11.0 | Medium | [#1307](https://github.com/recodehive/recode-website/pull/1307) |
+| chore: bump @typescript-eslint/parser from 8.46.2 to 8.58.0 | Medium | [#1319](https://github.com/recodehive/recode-website/pull/1319) |
+| chore: bump tailwindcss from 4.1.14 to 4.2.2 | Medium | [#1317](https://github.com/recodehive/recode-website/pull/1317) |
+| chore: bump styled-components from 6.1.19 to 6.3.12 | Medium | [#1316](https://github.com/recodehive/recode-website/pull/1316) |
+| chore: bump eslint from 9.38.0 to 10.2.0 | Medium | [#1315](https://github.com/recodehive/recode-website/pull/1315) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
