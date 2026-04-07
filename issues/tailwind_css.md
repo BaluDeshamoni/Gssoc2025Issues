@@ -252,7 +252,15 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | docs: add local testing steps to NestBot development guide | Easy | [#4440](https://github.com/OWASP/Nest/pull/4440) |
-| ChapterMap: Incorrect cursor display on non-interactive areas | Easy | [#4419](https://github.com/OWASP/Nest/issues/4419) |
+| Add /infrastructure @rudransh-shrivastava as a code owner. | Medium | [#4513](https://github.com/OWASP/Nest/pull/4513) |
+| added HealthCheck container to ECS Tasks | Medium | [#4512](https://github.com/OWASP/Nest/pull/4512) |
+| Added sponsor support | Medium | [#4511](https://github.com/OWASP/Nest/pull/4511) |
+| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4509](https://github.com/OWASP/Nest/pull/4509) |
+| fix/Loader to follow OWASP branding Guidelines | Medium | [#4508](https://github.com/OWASP/Nest/pull/4508) |
+| Fix Sonar `typescript:S4123`: `Updated capturedSetStatus` type to return a Promise, allowing proper use of await. | Medium | [#4507](https://github.com/OWASP/Nest/issues/4507) |
+| Improve frontend README documentation | Medium | [#4503](https://github.com/OWASP/Nest/issues/4503) |
+| Projects page: Add the number of open issues, open PRs and last-updated-date to the project details 'card' | Medium | [#4480](https://github.com/OWASP/Nest/issues/4480) |
+| Projects page: Add a separate filter for Project Level | Medium | [#4479](https://github.com/OWASP/Nest/issues/4479) |
 | chore(deps-dev): bump typescript from 5.9.3 to 6.0.2 in /frontend | Medium | [#4466](https://github.com/OWASP/Nest/pull/4466) |
 | Switch GitHub Actions runners from ubuntu-latest to Blacksmith for faster CI | Medium | [#4455](https://github.com/OWASP/Nest/issues/4455) |
 | feat(notifications): add EDA-based idempotent processing and DLQ for chapter/event updates | Medium | [#4454](https://github.com/OWASP/Nest/pull/4454) |
@@ -266,16 +274,6 @@ Accessibility features like dark mode,white.
 | feat(frontend): bump @heroui/react from 2.8.10 to 3.0.1 and fix failing tests | Medium | [#4434](https://github.com/OWASP/Nest/pull/4434) |
 | feat: add Playwright smoke test for board candidates page | Medium | [#4424](https://github.com/OWASP/Nest/pull/4424) |
 | Mobile Navigation Menu lacks backdrop overlay and body scroll lock | Medium | [#4423](https://github.com/OWASP/Nest/issues/4423) |
-| Improve GraphQL and backend connectivity error messaging in frontend | Medium | [#4421](https://github.com/OWASP/Nest/pull/4421) |
-| Remove unused timeline/calendar feature from Card component | Medium | [#4420](https://github.com/OWASP/Nest/pull/4420) |
-| Improve onboarding experience for first time contributors | Medium | [#4401](https://github.com/OWASP/Nest/issues/4401) |
-| Improve error handling in CalendarButton component | Medium | [#4399](https://github.com/OWASP/Nest/issues/4399) |
-| Milestone and Evidence Tracking for the Mentorship Module (GSoC 2026) | Medium | [#4385](https://github.com/OWASP/Nest/issues/4385) |
-| Improve navbar button hierarchy and visual balance | Medium | [#4381](https://github.com/OWASP/Nest/issues/4381) |
-| Proposal: Enhance Project Scraper Robustness and Observability (GSoC 2026) | Medium | [#4380](https://github.com/OWASP/Nest/issues/4380) |
-| Improve navbar hover and active state visibility | Medium | [#4379](https://github.com/OWASP/Nest/pull/4379) |
-| Fixed header Nest logo adaption to theme(light/dark) | Medium | [#4374](https://github.com/OWASP/Nest/pull/4374) |
-| Made OWASP Nest logo dynamically toggle in dark and light theme | Medium | [#4370](https://github.com/OWASP/Nest/pull/4370) |
 
 ---
 
@@ -527,11 +525,16 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Hardcoded Device and Patient IDs in Live Monitoring #669 | Medium | [#692](https://github.com/Dipanita45/HEALCONNECT/pull/692) |
-| Replace Hardcoded Dashboard Stats with Firestore Counts #670 | Medium | [#691](https://github.com/Dipanita45/HEALCONNECT/pull/691) |
+| Fix the invisible dropdown issue on the Prescription page (Fixes #694) | Medium | [#703](https://github.com/Dipanita45/HEALCONNECT/pull/703) |
+| Feature/db unit of work (Fixes #688) | Medium | [#702](https://github.com/Dipanita45/HEALCONNECT/pull/702) |
+| Feature/prescription dropdown fix(Fixes #694) | Medium | [#701](https://github.com/Dipanita45/HEALCONNECT/pull/701) |
+| Fix alert timestamp updates with single transaction (Fixes #696) | Medium | [#700](https://github.com/Dipanita45/HEALCONNECT/pull/700) |
+| Revert "Base" | Medium | [#699](https://github.com/Dipanita45/HEALCONNECT/pull/699) |
+| Bug: Hydration Mismatch & Cache Fallback Causes Stale or Null Patient State | Medium | [#697](https://github.com/Dipanita45/HEALCONNECT/issues/697) |
+| Bug: Race Condition in Vitals API Can Cause Silent Alert Failures | Medium | [#695](https://github.com/Dipanita45/HEALCONNECT/issues/695) |
+| # Improve Vitals API Validation & Background Alert Logging | Medium | [#693](https://github.com/Dipanita45/HEALCONNECT/issues/693) |
 | Refactor: Move Authorization Logic to Declarative RBAC Middleware | Medium | [#690](https://github.com/Dipanita45/HEALCONNECT/issues/690) |
 | Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
-| Enhancement: Implement Unit of Work Pattern for Atomic Multi-Document Operations | Medium | [#688](https://github.com/Dipanita45/HEALCONNECT/issues/688) |
 | Enhancement: Move Alert Generation to Asynchronous Background Processing | Medium | [#687](https://github.com/Dipanita45/HEALCONNECT/issues/687) |
 | Bug: Rate Limiting Fails in Serverless Environment Due to In-Memory Storage | Medium | [#686](https://github.com/Dipanita45/HEALCONNECT/issues/686) |
 | 🛠️ [CODE QUALITY] Redundant and Manual Validation Logic | Medium | [#682](https://github.com/Dipanita45/HEALCONNECT/issues/682) |
@@ -2344,6 +2347,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Incorrect arguments parsing in CLI commands | Medium | [#140](https://github.com/subhadeeproy3902/mvpblocks/issues/140) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
@@ -2455,17 +2459,17 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Feedback Button Above Footer | Medium | [#42](https://github.com/Vishv04/RupeeFi/issues/42) |
-| animating the sidebar(mobile view) | Medium | [#41](https://github.com/Vishv04/RupeeFi/issues/41) |
-| Feature: Implement Loan Management Feature for Personal Finance Section | Medium | [#40](https://github.com/Vishv04/RupeeFi/issues/40) |
-| Update README.md (Fix content table links) | Medium | [#39](https://github.com/Vishv04/RupeeFi/pull/39) |
-| Enhance blog page UI with hover effects and styling improvements | Medium | [#38](https://github.com/Vishv04/RupeeFi/pull/38) |
-| Fix: Learn More button now navigates to Blog page | Medium | [#37](https://github.com/Vishv04/RupeeFi/pull/37) |
-| Enhance Dashboard UI to Align with Website Aesthetics | Medium | [#36](https://github.com/Vishv04/RupeeFi/issues/36) |
-| Feature Request: Savings Jar (Round-Up Savings) | Medium | [#35](https://github.com/Vishv04/RupeeFi/issues/35) |
-| Added GitHub Issue Templates for Problem Reports | Medium | [#32](https://github.com/Vishv04/RupeeFi/pull/32) |
-| To assign task as completed! | Medium | [#25](https://github.com/Vishv04/RupeeFi/pull/25) |
-| Create License | Medium | [#8](https://github.com/Vishv04/RupeeFi/pull/8) |
+| Add Feedback Button Above Footer | Medium | [#42](https://github.com/vishvboda/RupeeFi/issues/42) |
+| animating the sidebar(mobile view) | Medium | [#41](https://github.com/vishvboda/RupeeFi/issues/41) |
+| Feature: Implement Loan Management Feature for Personal Finance Section | Medium | [#40](https://github.com/vishvboda/RupeeFi/issues/40) |
+| Update README.md (Fix content table links) | Medium | [#39](https://github.com/vishvboda/RupeeFi/pull/39) |
+| Enhance blog page UI with hover effects and styling improvements | Medium | [#38](https://github.com/vishvboda/RupeeFi/pull/38) |
+| Fix: Learn More button now navigates to Blog page | Medium | [#37](https://github.com/vishvboda/RupeeFi/pull/37) |
+| Enhance Dashboard UI to Align with Website Aesthetics | Medium | [#36](https://github.com/vishvboda/RupeeFi/issues/36) |
+| Feature Request: Savings Jar (Round-Up Savings) | Medium | [#35](https://github.com/vishvboda/RupeeFi/issues/35) |
+| Added GitHub Issue Templates for Problem Reports | Medium | [#32](https://github.com/vishvboda/RupeeFi/pull/32) |
+| To assign task as completed! | Medium | [#25](https://github.com/vishvboda/RupeeFi/pull/25) |
+| Create License | Medium | [#8](https://github.com/vishvboda/RupeeFi/pull/8) |
 
 ---
 
