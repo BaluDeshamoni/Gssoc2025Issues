@@ -163,7 +163,15 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | docs: add local testing steps to NestBot development guide | Easy | [#4440](https://github.com/OWASP/Nest/pull/4440) |
-| ChapterMap: Incorrect cursor display on non-interactive areas | Easy | [#4419](https://github.com/OWASP/Nest/issues/4419) |
+| Add /infrastructure @rudransh-shrivastava as a code owner. | Medium | [#4513](https://github.com/OWASP/Nest/pull/4513) |
+| added HealthCheck container to ECS Tasks | Medium | [#4512](https://github.com/OWASP/Nest/pull/4512) |
+| Added sponsor support | Medium | [#4511](https://github.com/OWASP/Nest/pull/4511) |
+| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4509](https://github.com/OWASP/Nest/pull/4509) |
+| fix/Loader to follow OWASP branding Guidelines | Medium | [#4508](https://github.com/OWASP/Nest/pull/4508) |
+| Fix Sonar `typescript:S4123`: `Updated capturedSetStatus` type to return a Promise, allowing proper use of await. | Medium | [#4507](https://github.com/OWASP/Nest/issues/4507) |
+| Improve frontend README documentation | Medium | [#4503](https://github.com/OWASP/Nest/issues/4503) |
+| Projects page: Add the number of open issues, open PRs and last-updated-date to the project details 'card' | Medium | [#4480](https://github.com/OWASP/Nest/issues/4480) |
+| Projects page: Add a separate filter for Project Level | Medium | [#4479](https://github.com/OWASP/Nest/issues/4479) |
 | chore(deps-dev): bump typescript from 5.9.3 to 6.0.2 in /frontend | Medium | [#4466](https://github.com/OWASP/Nest/pull/4466) |
 | Switch GitHub Actions runners from ubuntu-latest to Blacksmith for faster CI | Medium | [#4455](https://github.com/OWASP/Nest/issues/4455) |
 | feat(notifications): add EDA-based idempotent processing and DLQ for chapter/event updates | Medium | [#4454](https://github.com/OWASP/Nest/pull/4454) |
@@ -177,16 +185,6 @@
 | feat(frontend): bump @heroui/react from 2.8.10 to 3.0.1 and fix failing tests | Medium | [#4434](https://github.com/OWASP/Nest/pull/4434) |
 | feat: add Playwright smoke test for board candidates page | Medium | [#4424](https://github.com/OWASP/Nest/pull/4424) |
 | Mobile Navigation Menu lacks backdrop overlay and body scroll lock | Medium | [#4423](https://github.com/OWASP/Nest/issues/4423) |
-| Improve GraphQL and backend connectivity error messaging in frontend | Medium | [#4421](https://github.com/OWASP/Nest/pull/4421) |
-| Remove unused timeline/calendar feature from Card component | Medium | [#4420](https://github.com/OWASP/Nest/pull/4420) |
-| Improve onboarding experience for first time contributors | Medium | [#4401](https://github.com/OWASP/Nest/issues/4401) |
-| Improve error handling in CalendarButton component | Medium | [#4399](https://github.com/OWASP/Nest/issues/4399) |
-| Milestone and Evidence Tracking for the Mentorship Module (GSoC 2026) | Medium | [#4385](https://github.com/OWASP/Nest/issues/4385) |
-| Improve navbar button hierarchy and visual balance | Medium | [#4381](https://github.com/OWASP/Nest/issues/4381) |
-| Proposal: Enhance Project Scraper Robustness and Observability (GSoC 2026) | Medium | [#4380](https://github.com/OWASP/Nest/issues/4380) |
-| Improve navbar hover and active state visibility | Medium | [#4379](https://github.com/OWASP/Nest/pull/4379) |
-| Fixed header Nest logo adaption to theme(light/dark) | Medium | [#4374](https://github.com/OWASP/Nest/pull/4374) |
-| Made OWASP Nest logo dynamically toggle in dark and light theme | Medium | [#4370](https://github.com/OWASP/Nest/pull/4370) |
 
 ---
 
@@ -227,11 +225,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Hardcoded Device and Patient IDs in Live Monitoring #669 | Medium | [#692](https://github.com/Dipanita45/HEALCONNECT/pull/692) |
-| Replace Hardcoded Dashboard Stats with Firestore Counts #670 | Medium | [#691](https://github.com/Dipanita45/HEALCONNECT/pull/691) |
+| Fix the invisible dropdown issue on the Prescription page (Fixes #694) | Medium | [#703](https://github.com/Dipanita45/HEALCONNECT/pull/703) |
+| Feature/db unit of work (Fixes #688) | Medium | [#702](https://github.com/Dipanita45/HEALCONNECT/pull/702) |
+| Feature/prescription dropdown fix(Fixes #694) | Medium | [#701](https://github.com/Dipanita45/HEALCONNECT/pull/701) |
+| Fix alert timestamp updates with single transaction (Fixes #696) | Medium | [#700](https://github.com/Dipanita45/HEALCONNECT/pull/700) |
+| Revert "Base" | Medium | [#699](https://github.com/Dipanita45/HEALCONNECT/pull/699) |
+| Bug: Hydration Mismatch & Cache Fallback Causes Stale or Null Patient State | Medium | [#697](https://github.com/Dipanita45/HEALCONNECT/issues/697) |
+| Bug: Race Condition in Vitals API Can Cause Silent Alert Failures | Medium | [#695](https://github.com/Dipanita45/HEALCONNECT/issues/695) |
+| # Improve Vitals API Validation & Background Alert Logging | Medium | [#693](https://github.com/Dipanita45/HEALCONNECT/issues/693) |
 | Refactor: Move Authorization Logic to Declarative RBAC Middleware | Medium | [#690](https://github.com/Dipanita45/HEALCONNECT/issues/690) |
 | Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
-| Enhancement: Implement Unit of Work Pattern for Atomic Multi-Document Operations | Medium | [#688](https://github.com/Dipanita45/HEALCONNECT/issues/688) |
 | Enhancement: Move Alert Generation to Asynchronous Background Processing | Medium | [#687](https://github.com/Dipanita45/HEALCONNECT/issues/687) |
 | Bug: Rate Limiting Fails in Serverless Environment Due to In-Memory Storage | Medium | [#686](https://github.com/Dipanita45/HEALCONNECT/issues/686) |
 | 🛠️ [CODE QUALITY] Redundant and Manual Validation Logic | Medium | [#682](https://github.com/Dipanita45/HEALCONNECT/issues/682) |
@@ -500,14 +503,17 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump dotenv from 17.2.3 to 17.4.0 | Easy | [#1318](https://github.com/recodehive/recode-website/pull/1318) |
+| Revamp : Redesign the merge page | Easy | [#1314](https://github.com/recodehive/recode-website/issues/1314) |
+| Redesign the Community home cards | Easy | [#1313](https://github.com/recodehive/recode-website/issues/1313) |
+| [Feature]: Use Dynamic mappinf for discussions section . | Easy | [#1312](https://github.com/recodehive/recode-website/issues/1312) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump lucide-react from 0.503.0 to 1.7.0 | Medium | [#1311](https://github.com/recodehive/recode-website/pull/1311) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.58.0 | Medium | [#1310](https://github.com/recodehive/recode-website/pull/1310) |
-| chore: bump typescript from 5.3.3 to 6.0.2 | Medium | [#1309](https://github.com/recodehive/recode-website/pull/1309) |
-| chore: bump @tailwindcss/postcss from 4.1.14 to 4.2.2 | Medium | [#1308](https://github.com/recodehive/recode-website/pull/1308) |
-| chore: bump firebase from 9.23.0 to 12.11.0 | Medium | [#1307](https://github.com/recodehive/recode-website/pull/1307) |
+| chore: bump @typescript-eslint/parser from 8.46.2 to 8.58.0 | Medium | [#1319](https://github.com/recodehive/recode-website/pull/1319) |
+| chore: bump tailwindcss from 4.1.14 to 4.2.2 | Medium | [#1317](https://github.com/recodehive/recode-website/pull/1317) |
+| chore: bump styled-components from 6.1.19 to 6.3.12 | Medium | [#1316](https://github.com/recodehive/recode-website/pull/1316) |
+| chore: bump eslint from 9.38.0 to 10.2.0 | Medium | [#1315](https://github.com/recodehive/recode-website/pull/1315) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 
 ---
@@ -776,6 +782,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | feat: Party Panel UI — Squad Display on Quest Detail Page | Easy | [#137](https://github.com/LarytheLord/Adventurers-Guild/issues/137) |
 | feat: Quest Streak System — Daily/Weekly XP Multiplier for Retention | Easy | [#136](https://github.com/LarytheLord/Adventurers-Guild/issues/136) |
 | feat: Stripe Connect — Adventurer payout onboarding and PaymentIntent flow | Easy | [#106](https://github.com/LarytheLord/Adventurers-Guild/issues/106) |
+| feat: Activity Logging System — Track All User Actions with Points #147 | Medium | [#153](https://github.com/LarytheLord/Adventurers-Guild/pull/153) |
 | add quest workflow event trail | Medium | [#152](https://github.com/LarytheLord/Adventurers-Guild/pull/152) |
 | feat: Activity Logging System — Track All User Actions with Points | Medium | [#147](https://github.com/LarytheLord/Adventurers-Guild/issues/147) |
 | arch: Bootcamp Pipeline End-to-End Test — Dry Run with 5 Students | Medium | [#142](https://github.com/LarytheLord/Adventurers-Guild/issues/142) |
@@ -1335,6 +1342,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Incorrect arguments parsing in CLI commands | Medium | [#140](https://github.com/subhadeeproy3902/mvpblocks/issues/140) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
