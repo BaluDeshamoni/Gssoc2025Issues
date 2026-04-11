@@ -1910,11 +1910,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 | Issue: Fix Hamburger Menu Overlap & Homepage Visibility on Small Screens | Medium | [#16](https://github.com/imshashi365/IPURanker/issues/16) |
 | bug | Medium | [#15](https://github.com/imshashi365/IPURanker/issues/15) |
 | I will create the readme file | Medium | [#13](https://github.com/imshashi365/IPURanker/issues/13) |
-| Create a sample env file for development process | Medium | [#12](https://github.com/imshashi365/IPURanker/issues/12) |
 | PDF Result Card Generation & Downloadable Certificates | Medium | [#10](https://github.com/imshashi365/IPURanker/issues/10) |
-| Implement a real time news instead of nothing | Medium | [#6](https://github.com/imshashi365/IPURanker/issues/6) |
-| Create a beautiful readme for this project | Medium | [#4](https://github.com/imshashi365/IPURanker/issues/4) |
-| Implement a dark mode toggle | Medium | [#3](https://github.com/imshashi365/IPURanker/issues/3) |
 | 📝 Pull Request: Add Code of Conduct for IPURanker | GSSoC’25 | Medium | [#2](https://github.com/imshashi365/IPURanker/pull/2) |
 
 ---
