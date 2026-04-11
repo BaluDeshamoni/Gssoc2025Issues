@@ -19,7 +19,6 @@
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
 | Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
-| Add document.md and performance.md | Medium | [#297](https://github.com/Amarjha01/InfantCareCompass/issues/297) |
 | Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
 | Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
@@ -40,6 +39,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| style: Consistent hover/focus states across all buttons | Medium | [#318](https://github.com/Devasy/splitwiser/pull/318) |
+| style: Consistent hover/focus states across all buttons | Medium | [#317](https://github.com/Devasy/splitwiser/pull/317) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#316](https://github.com/Devasy/splitwiser/pull/316) |
+| style: Consistent hover/focus states across all buttons | Medium | [#315](https://github.com/Devasy/splitwiser/pull/315) |
+| ux: Swipe-to-delete for expenses with undo option | Medium | [#314](https://github.com/Devasy/splitwiser/pull/314) |
+| enhance: Add skeleton loading state for HomeScreen groups | Medium | [#313](https://github.com/Devasy/splitwiser/pull/313) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#312](https://github.com/Devasy/splitwiser/pull/312) |
 | a11y: Complete keyboard navigation for Dashboard and Friends pages | Medium | [#310](https://github.com/Devasy/splitwiser/pull/310) |
 | Add biometric authentication option (FaceID/TouchID) | Medium | [#309](https://github.com/Devasy/splitwiser/pull/309) |
 | enhance: Add skeleton loading for HomeScreen groups | Medium | [#308](https://github.com/Devasy/splitwiser/pull/308) |
@@ -63,13 +69,6 @@
 | enhance: Add skeleton loading for mobile home screen | Medium | [#290](https://github.com/Devasy/splitwiser/pull/290) |
 | Implement lazy loading and code splitting for routes | Medium | [#289](https://github.com/Devasy/splitwiser/pull/289) |
 | ux: Add skeleton loading state to HomeScreen | Medium | [#288](https://github.com/Devasy/splitwiser/pull/288) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#287](https://github.com/Devasy/splitwiser/pull/287) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#286](https://github.com/Devasy/splitwiser/pull/286) |
-| Mobile HomeScreen Skeleton Loading | Medium | [#285](https://github.com/Devasy/splitwiser/pull/285) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#284](https://github.com/Devasy/splitwiser/pull/284) |
-| enhance: Add skeleton loading to mobile Home screen | Medium | [#283](https://github.com/Devasy/splitwiser/pull/283) |
-| ux: Add skeleton loading for mobile home screen | Medium | [#282](https://github.com/Devasy/splitwiser/pull/282) |
-| Add swipe-to-delete for expenses with undo functionality | Medium | [#281](https://github.com/Devasy/splitwiser/pull/281) |
 
 ---
 
