@@ -41,9 +41,8 @@
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
 | course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
-| Template | Medium | [#253](https://github.com/iaadillatif/techxninjas-client/pull/253) |
-| Performance | Medium | [#252](https://github.com/iaadillatif/techxninjas-client/pull/252) |
-| Added documentation | Medium | [#251](https://github.com/iaadillatif/techxninjas-client/pull/251) |
+| Add search button to Events page for better UX (Issue #243) | Medium | [#249](https://github.com/iaadillatif/techxninjas-client/pull/249) |
+| fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
 
 ---
 
@@ -99,7 +98,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump the npm_and_yarn group across 2 directories with 6 updates | Medium | [#749](https://github.com/abhisek2004/Dev-Elevate/pull/749) |
 | Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -190,7 +188,6 @@ Accessibility features like dark mode,white.
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
 | Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
-| Add document.md and performance.md | Medium | [#297](https://github.com/Amarjha01/InfantCareCompass/issues/297) |
 | Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
 | Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
@@ -251,14 +248,14 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: add local testing steps to NestBot development guide | Easy | [#4440](https://github.com/OWASP/Nest/pull/4440) |
-| Add /infrastructure @rudransh-shrivastava as a code owner. | Medium | [#4513](https://github.com/OWASP/Nest/pull/4513) |
-| added HealthCheck container to ECS Tasks | Medium | [#4512](https://github.com/OWASP/Nest/pull/4512) |
+| Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
+| Add poetry as pre requisite | Medium | [#4536](https://github.com/OWASP/Nest/issues/4536) |
+| Make run throws errors and exits nest backend | Medium | [#4535](https://github.com/OWASP/Nest/issues/4535) |
+| /bin/bash breaks on NIXOS | Medium | [#4534](https://github.com/OWASP/Nest/issues/4534) |
+| Feat: Implement Sponsors Program Support | Medium | [#4525](https://github.com/OWASP/Nest/pull/4525) |
+| Implement Sponsors Program Support | Medium | [#4520](https://github.com/OWASP/Nest/pull/4520) |
+| Refactored CardDetailsPage into smaller components | Medium | [#4519](https://github.com/OWASP/Nest/pull/4519) |
 | Added sponsor support | Medium | [#4511](https://github.com/OWASP/Nest/pull/4511) |
-| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4509](https://github.com/OWASP/Nest/pull/4509) |
-| fix/Loader to follow OWASP branding Guidelines | Medium | [#4508](https://github.com/OWASP/Nest/pull/4508) |
-| Fix Sonar `typescript:S4123`: `Updated capturedSetStatus` type to return a Promise, allowing proper use of await. | Medium | [#4507](https://github.com/OWASP/Nest/issues/4507) |
-| Improve frontend README documentation | Medium | [#4503](https://github.com/OWASP/Nest/issues/4503) |
 | Projects page: Add the number of open issues, open PRs and last-updated-date to the project details 'card' | Medium | [#4480](https://github.com/OWASP/Nest/issues/4480) |
 | Projects page: Add a separate filter for Project Level | Medium | [#4479](https://github.com/OWASP/Nest/issues/4479) |
 | chore(deps-dev): bump typescript from 5.9.3 to 6.0.2 in /frontend | Medium | [#4466](https://github.com/OWASP/Nest/pull/4466) |
@@ -272,8 +269,8 @@ Accessibility features like dark mode,white.
 | bug : Standardize Design Tokens and Resolve Navigation Accessibility Gaps | Medium | [#4436](https://github.com/OWASP/Nest/issues/4436) |
 | feat(a11y): Add skip-to-main-content link for keyboard accessibility (WCAG 2.4.1) | Medium | [#4435](https://github.com/OWASP/Nest/issues/4435) |
 | feat(frontend): bump @heroui/react from 2.8.10 to 3.0.1 and fix failing tests | Medium | [#4434](https://github.com/OWASP/Nest/pull/4434) |
-| feat: add Playwright smoke test for board candidates page | Medium | [#4424](https://github.com/OWASP/Nest/pull/4424) |
 | Mobile Navigation Menu lacks backdrop overlay and body scroll lock | Medium | [#4423](https://github.com/OWASP/Nest/issues/4423) |
+| Improve GraphQL and backend connectivity error messaging in frontend | Medium | [#4421](https://github.com/OWASP/Nest/pull/4421) |
 
 ---
 
@@ -330,7 +327,6 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Add Quick Add Habit Button on Home Page | Medium | [#167](https://github.com/BaraniVA/Habitheat/issues/167) |
 | OAuth via google failed | Medium | [#166](https://github.com/BaraniVA/Habitheat/issues/166) |
-| Add a proper issue template folder in the .github | Medium | [#165](https://github.com/BaraniVA/Habitheat/issues/165) |
 | Update README.md file | Medium | [#163](https://github.com/BaraniVA/Habitheat/issues/163) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#162](https://github.com/BaraniVA/Habitheat/issues/162) |
 | Docs : Added Table of contents with Toggle Button in README | Medium | [#160](https://github.com/BaraniVA/Habitheat/pull/160) |
@@ -525,9 +521,6 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix the invisible dropdown issue on the Prescription page (Fixes #694) | Medium | [#703](https://github.com/Dipanita45/HEALCONNECT/pull/703) |
-| Feature/db unit of work (Fixes #688) | Medium | [#702](https://github.com/Dipanita45/HEALCONNECT/pull/702) |
-| Feature/prescription dropdown fix(Fixes #694) | Medium | [#701](https://github.com/Dipanita45/HEALCONNECT/pull/701) |
 | Fix alert timestamp updates with single transaction (Fixes #696) | Medium | [#700](https://github.com/Dipanita45/HEALCONNECT/pull/700) |
 | Revert "Base" | Medium | [#699](https://github.com/Dipanita45/HEALCONNECT/pull/699) |
 | Bug: Hydration Mismatch & Cache Fallback Causes Stale or Null Patient State | Medium | [#697](https://github.com/Dipanita45/HEALCONNECT/issues/697) |
@@ -1461,6 +1454,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed the AI like UI to a professional UI and upgraded toggle animations for theme | Medium | [#260](https://github.com/openml-stack/SentiLog-AI/pull/260) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
 | Feature Request: Add Emoji Mood Selector in Journal Section | Medium | [#195](https://github.com/openml-stack/SentiLog-AI/issues/195) |
@@ -2225,11 +2219,7 @@ Fast Workflow Tools
 | Issue: Fix Hamburger Menu Overlap & Homepage Visibility on Small Screens | Medium | [#16](https://github.com/imshashi365/IPURanker/issues/16) |
 | bug | Medium | [#15](https://github.com/imshashi365/IPURanker/issues/15) |
 | I will create the readme file | Medium | [#13](https://github.com/imshashi365/IPURanker/issues/13) |
-| Create a sample env file for development process | Medium | [#12](https://github.com/imshashi365/IPURanker/issues/12) |
 | PDF Result Card Generation & Downloadable Certificates | Medium | [#10](https://github.com/imshashi365/IPURanker/issues/10) |
-| Implement a real time news instead of nothing | Medium | [#6](https://github.com/imshashi365/IPURanker/issues/6) |
-| Create a beautiful readme for this project | Medium | [#4](https://github.com/imshashi365/IPURanker/issues/4) |
-| Implement a dark mode toggle | Medium | [#3](https://github.com/imshashi365/IPURanker/issues/3) |
 | 📝 Pull Request: Add Code of Conduct for IPURanker | GSSoC’25 | Medium | [#2](https://github.com/imshashi365/IPURanker/pull/2) |
 
 ---
@@ -2347,7 +2337,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Incorrect arguments parsing in CLI commands | Medium | [#140](https://github.com/subhadeeproy3902/mvpblocks/issues/140) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
