@@ -22,7 +22,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump the npm_and_yarn group across 2 directories with 6 updates | Medium | [#749](https://github.com/abhisek2004/Dev-Elevate/pull/749) |
 | Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -295,6 +294,13 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| style: Consistent hover/focus states across all buttons | Medium | [#318](https://github.com/Devasy/splitwiser/pull/318) |
+| style: Consistent hover/focus states across all buttons | Medium | [#317](https://github.com/Devasy/splitwiser/pull/317) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#316](https://github.com/Devasy/splitwiser/pull/316) |
+| style: Consistent hover/focus states across all buttons | Medium | [#315](https://github.com/Devasy/splitwiser/pull/315) |
+| ux: Swipe-to-delete for expenses with undo option | Medium | [#314](https://github.com/Devasy/splitwiser/pull/314) |
+| enhance: Add skeleton loading state for HomeScreen groups | Medium | [#313](https://github.com/Devasy/splitwiser/pull/313) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#312](https://github.com/Devasy/splitwiser/pull/312) |
 | a11y: Complete keyboard navigation for Dashboard and Friends pages | Medium | [#310](https://github.com/Devasy/splitwiser/pull/310) |
 | Add biometric authentication option (FaceID/TouchID) | Medium | [#309](https://github.com/Devasy/splitwiser/pull/309) |
 | enhance: Add skeleton loading for HomeScreen groups | Medium | [#308](https://github.com/Devasy/splitwiser/pull/308) |
@@ -318,13 +324,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | enhance: Add skeleton loading for mobile home screen | Medium | [#290](https://github.com/Devasy/splitwiser/pull/290) |
 | Implement lazy loading and code splitting for routes | Medium | [#289](https://github.com/Devasy/splitwiser/pull/289) |
 | ux: Add skeleton loading state to HomeScreen | Medium | [#288](https://github.com/Devasy/splitwiser/pull/288) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#287](https://github.com/Devasy/splitwiser/pull/287) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#286](https://github.com/Devasy/splitwiser/pull/286) |
-| Mobile HomeScreen Skeleton Loading | Medium | [#285](https://github.com/Devasy/splitwiser/pull/285) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#284](https://github.com/Devasy/splitwiser/pull/284) |
-| enhance: Add skeleton loading to mobile Home screen | Medium | [#283](https://github.com/Devasy/splitwiser/pull/283) |
-| ux: Add skeleton loading for mobile home screen | Medium | [#282](https://github.com/Devasy/splitwiser/pull/282) |
-| Add swipe-to-delete for expenses with undo functionality | Medium | [#281](https://github.com/Devasy/splitwiser/pull/281) |
 
 ---
 
@@ -838,6 +837,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fixed the AI like UI to a professional UI and upgraded toggle animations for theme | Medium | [#260](https://github.com/openml-stack/SentiLog-AI/pull/260) |
 | Toxicity Detection for Journal & News Analysis | Medium | [#222](https://github.com/openml-stack/SentiLog-AI/pull/222) |
 | Enhance Dashboard with Mood Calendar and Charts | Medium | [#196](https://github.com/openml-stack/SentiLog-AI/issues/196) |
 | Feature Request: Add Emoji Mood Selector in Journal Section | Medium | [#195](https://github.com/openml-stack/SentiLog-AI/issues/195) |
@@ -1481,11 +1481,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 | Issue: Fix Hamburger Menu Overlap & Homepage Visibility on Small Screens | Medium | [#16](https://github.com/imshashi365/IPURanker/issues/16) |
 | bug | Medium | [#15](https://github.com/imshashi365/IPURanker/issues/15) |
 | I will create the readme file | Medium | [#13](https://github.com/imshashi365/IPURanker/issues/13) |
-| Create a sample env file for development process | Medium | [#12](https://github.com/imshashi365/IPURanker/issues/12) |
 | PDF Result Card Generation & Downloadable Certificates | Medium | [#10](https://github.com/imshashi365/IPURanker/issues/10) |
-| Implement a real time news instead of nothing | Medium | [#6](https://github.com/imshashi365/IPURanker/issues/6) |
-| Create a beautiful readme for this project | Medium | [#4](https://github.com/imshashi365/IPURanker/issues/4) |
-| Implement a dark mode toggle | Medium | [#3](https://github.com/imshashi365/IPURanker/issues/3) |
 | 📝 Pull Request: Add Code of Conduct for IPURanker | GSSoC’25 | Medium | [#2](https://github.com/imshashi365/IPURanker/pull/2) |
 
 ---
@@ -1617,17 +1613,17 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Feedback Button Above Footer | Medium | [#42](https://github.com/Vishv04/RupeeFi/issues/42) |
-| animating the sidebar(mobile view) | Medium | [#41](https://github.com/Vishv04/RupeeFi/issues/41) |
-| Feature: Implement Loan Management Feature for Personal Finance Section | Medium | [#40](https://github.com/Vishv04/RupeeFi/issues/40) |
-| Update README.md (Fix content table links) | Medium | [#39](https://github.com/Vishv04/RupeeFi/pull/39) |
-| Enhance blog page UI with hover effects and styling improvements | Medium | [#38](https://github.com/Vishv04/RupeeFi/pull/38) |
-| Fix: Learn More button now navigates to Blog page | Medium | [#37](https://github.com/Vishv04/RupeeFi/pull/37) |
-| Enhance Dashboard UI to Align with Website Aesthetics | Medium | [#36](https://github.com/Vishv04/RupeeFi/issues/36) |
-| Feature Request: Savings Jar (Round-Up Savings) | Medium | [#35](https://github.com/Vishv04/RupeeFi/issues/35) |
-| Added GitHub Issue Templates for Problem Reports | Medium | [#32](https://github.com/Vishv04/RupeeFi/pull/32) |
-| To assign task as completed! | Medium | [#25](https://github.com/Vishv04/RupeeFi/pull/25) |
-| Create License | Medium | [#8](https://github.com/Vishv04/RupeeFi/pull/8) |
+| Add Feedback Button Above Footer | Medium | [#42](https://github.com/vishvboda/RupeeFi/issues/42) |
+| animating the sidebar(mobile view) | Medium | [#41](https://github.com/vishvboda/RupeeFi/issues/41) |
+| Feature: Implement Loan Management Feature for Personal Finance Section | Medium | [#40](https://github.com/vishvboda/RupeeFi/issues/40) |
+| Update README.md (Fix content table links) | Medium | [#39](https://github.com/vishvboda/RupeeFi/pull/39) |
+| Enhance blog page UI with hover effects and styling improvements | Medium | [#38](https://github.com/vishvboda/RupeeFi/pull/38) |
+| Fix: Learn More button now navigates to Blog page | Medium | [#37](https://github.com/vishvboda/RupeeFi/pull/37) |
+| Enhance Dashboard UI to Align with Website Aesthetics | Medium | [#36](https://github.com/vishvboda/RupeeFi/issues/36) |
+| Feature Request: Savings Jar (Round-Up Savings) | Medium | [#35](https://github.com/vishvboda/RupeeFi/issues/35) |
+| Added GitHub Issue Templates for Problem Reports | Medium | [#32](https://github.com/vishvboda/RupeeFi/pull/32) |
+| To assign task as completed! | Medium | [#25](https://github.com/vishvboda/RupeeFi/pull/25) |
+| Create License | Medium | [#8](https://github.com/vishvboda/RupeeFi/pull/8) |
 
 ---
 
