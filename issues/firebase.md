@@ -15,7 +15,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add GSSoC'25 Banner. | Medium | [#118](https://github.com/ShishuCard/Vaccination_Portal/issues/118) |
-| Document API / backend endpoints in README | Medium | [#117](https://github.com/ShishuCard/Vaccination_Portal/issues/117) |
 | Added CONTRIBUTING.md guidelines | Medium | [#116](https://github.com/ShishuCard/Vaccination_Portal/pull/116) |
 | Problem with setup the project. | Medium | [#113](https://github.com/ShishuCard/Vaccination_Portal/issues/113) |
 | No data validation | Medium | [#112](https://github.com/ShishuCard/Vaccination_Portal/issues/112) |
