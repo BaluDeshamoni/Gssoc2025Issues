@@ -14,17 +14,22 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: add local testing steps to NestBot development guide | Easy | [#4440](https://github.com/OWASP/Nest/pull/4440) |
-| Add /infrastructure @rudransh-shrivastava as a code owner. | Medium | [#4513](https://github.com/OWASP/Nest/pull/4513) |
-| added HealthCheck container to ECS Tasks | Medium | [#4512](https://github.com/OWASP/Nest/pull/4512) |
+| Populate version tags in comments for SHA-pinned GitHub Actions | Easy | [#4542](https://github.com/OWASP/Nest/issues/4542) |
+| Add Semantic Caching and CrewAI Config | Medium | [#4548](https://github.com/OWASP/Nest/pull/4548) |
+| Add actionable links to Ways to Engage cards on Community page | Medium | [#4546](https://github.com/OWASP/Nest/issues/4546) |
+| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4545](https://github.com/OWASP/Nest/pull/4545) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4544](https://github.com/OWASP/Nest/pull/4544) |
+| Remove redundant assert detector is not None check | Medium | [#4543](https://github.com/OWASP/Nest/issues/4543) |
+| Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
+| Add poetry as pre requisite | Medium | [#4536](https://github.com/OWASP/Nest/issues/4536) |
+| Make run throws errors and exits nest backend | Medium | [#4535](https://github.com/OWASP/Nest/issues/4535) |
+| /bin/bash breaks on NIXOS | Medium | [#4534](https://github.com/OWASP/Nest/issues/4534) |
+| Feat: Implement Sponsors Program Support | Medium | [#4525](https://github.com/OWASP/Nest/pull/4525) |
+| Implement Sponsors Program Support | Medium | [#4520](https://github.com/OWASP/Nest/pull/4520) |
+| Refactored CardDetailsPage into smaller components | Medium | [#4519](https://github.com/OWASP/Nest/pull/4519) |
 | Added sponsor support | Medium | [#4511](https://github.com/OWASP/Nest/pull/4511) |
-| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4509](https://github.com/OWASP/Nest/pull/4509) |
-| fix/Loader to follow OWASP branding Guidelines | Medium | [#4508](https://github.com/OWASP/Nest/pull/4508) |
-| Fix Sonar `typescript:S4123`: `Updated capturedSetStatus` type to return a Promise, allowing proper use of await. | Medium | [#4507](https://github.com/OWASP/Nest/issues/4507) |
-| Improve frontend README documentation | Medium | [#4503](https://github.com/OWASP/Nest/issues/4503) |
 | Projects page: Add the number of open issues, open PRs and last-updated-date to the project details 'card' | Medium | [#4480](https://github.com/OWASP/Nest/issues/4480) |
 | Projects page: Add a separate filter for Project Level | Medium | [#4479](https://github.com/OWASP/Nest/issues/4479) |
-| chore(deps-dev): bump typescript from 5.9.3 to 6.0.2 in /frontend | Medium | [#4466](https://github.com/OWASP/Nest/pull/4466) |
 | Switch GitHub Actions runners from ubuntu-latest to Blacksmith for faster CI | Medium | [#4455](https://github.com/OWASP/Nest/issues/4455) |
 | feat(notifications): add EDA-based idempotent processing and DLQ for chapter/event updates | Medium | [#4454](https://github.com/OWASP/Nest/pull/4454) |
 | fix(api-keys): prevent same-day expiry rejection by sending end-of-day UTC | Medium | [#4447](https://github.com/OWASP/Nest/pull/4447) |
@@ -35,8 +40,6 @@
 | bug : Standardize Design Tokens and Resolve Navigation Accessibility Gaps | Medium | [#4436](https://github.com/OWASP/Nest/issues/4436) |
 | feat(a11y): Add skip-to-main-content link for keyboard accessibility (WCAG 2.4.1) | Medium | [#4435](https://github.com/OWASP/Nest/issues/4435) |
 | feat(frontend): bump @heroui/react from 2.8.10 to 3.0.1 and fix failing tests | Medium | [#4434](https://github.com/OWASP/Nest/pull/4434) |
-| feat: add Playwright smoke test for board candidates page | Medium | [#4424](https://github.com/OWASP/Nest/pull/4424) |
-| Mobile Navigation Menu lacks backdrop overlay and body scroll lock | Medium | [#4423](https://github.com/OWASP/Nest/issues/4423) |
 
 ---
 
