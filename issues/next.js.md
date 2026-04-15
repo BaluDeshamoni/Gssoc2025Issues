@@ -41,9 +41,8 @@
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
 | course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
-| Template | Medium | [#253](https://github.com/iaadillatif/techxninjas-client/pull/253) |
-| Performance | Medium | [#252](https://github.com/iaadillatif/techxninjas-client/pull/252) |
-| Added documentation | Medium | [#251](https://github.com/iaadillatif/techxninjas-client/pull/251) |
+| Add search button to Events page for better UX (Issue #243) | Medium | [#249](https://github.com/iaadillatif/techxninjas-client/pull/249) |
+| fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
 
 ---
 
@@ -63,7 +62,6 @@
 |----------|----------------|---------|
 | issue create automate message added | Medium | [#91](https://github.com/AdityaRalhan/Aluma/pull/91) |
 | Adding issue template | Medium | [#90](https://github.com/AdityaRalhan/Aluma/issues/90) |
-| Improve README with setup instructions | Medium | [#89](https://github.com/AdityaRalhan/Aluma/issues/89) |
 | Bug: Suggestions Logic & Validation Issues in Assessment Controller | Medium | [#87](https://github.com/AdityaRalhan/Aluma/issues/87) |
 | NLP Keyword/Topic Extraction for User Journals | Medium | [#86](https://github.com/AdityaRalhan/Aluma/issues/86) |
 | Add Social Login Options on Signup Page | Medium | [#85](https://github.com/AdityaRalhan/Aluma/issues/85) |
@@ -129,9 +127,7 @@
 | ui enhancement | Medium | [#135](https://github.com/amitkumardemo/EdgeCareer/issues/135) |
 | Implement PDF export for generated resumes (#111) | Medium | [#134](https://github.com/amitkumardemo/EdgeCareer/pull/134) |
 | fix: improved the file's structure, user engagement, and maintainability | Medium | [#133](https://github.com/amitkumardemo/EdgeCareer/pull/133) |
-| Make Header fully responsive across all devices | Medium | [#132](https://github.com/amitkumardemo/EdgeCareer/pull/132) |
 | AI-powered job recommendations | Medium | [#131](https://github.com/amitkumardemo/EdgeCareer/issues/131) |
-| Make Navbar Fully Responsive Across All Mobile Devices | Medium | [#130](https://github.com/amitkumardemo/EdgeCareer/issues/130) |
 | Add Password Strength Indicator and Category Feature | Medium | [#129](https://github.com/amitkumardemo/EdgeCareer/issues/129) |
 | Add Placeholder for Username Field | Medium | [#128](https://github.com/amitkumardemo/EdgeCareer/issues/128) |
 | Add Navigation Bar for Home, About, Features, How it Works, FAQ | Medium | [#127](https://github.com/amitkumardemo/EdgeCareer/issues/127) |
@@ -145,6 +141,8 @@
 | Make footer copyright year dynamic to always show current year | Medium | [#116](https://github.com/amitkumardemo/EdgeCareer/issues/116) |
 | Add scroll-to-top behavior on clicking the logo | Medium | [#115](https://github.com/amitkumardemo/EdgeCareer/issues/115) |
 | Enhanced the Visual Formatting of CODE_OF_CONDUCT.md file | Medium | [#113](https://github.com/amitkumardemo/EdgeCareer/pull/113) |
+| feat: add AI-powered career guidance feature with new page and lib module | Medium | [#109](https://github.com/amitkumardemo/EdgeCareer/pull/109) |
+| Fix: Improve icon visibility for theme toggle (issue #63) | Medium | [#108](https://github.com/amitkumardemo/EdgeCareer/pull/108) |
 
 ---
 
@@ -162,17 +160,22 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: add local testing steps to NestBot development guide | Easy | [#4440](https://github.com/OWASP/Nest/pull/4440) |
-| Add /infrastructure @rudransh-shrivastava as a code owner. | Medium | [#4513](https://github.com/OWASP/Nest/pull/4513) |
-| added HealthCheck container to ECS Tasks | Medium | [#4512](https://github.com/OWASP/Nest/pull/4512) |
+| Populate version tags in comments for SHA-pinned GitHub Actions | Easy | [#4542](https://github.com/OWASP/Nest/issues/4542) |
+| Add Semantic Caching and CrewAI Config | Medium | [#4548](https://github.com/OWASP/Nest/pull/4548) |
+| Add actionable links to Ways to Engage cards on Community page | Medium | [#4546](https://github.com/OWASP/Nest/issues/4546) |
+| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4545](https://github.com/OWASP/Nest/pull/4545) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4544](https://github.com/OWASP/Nest/pull/4544) |
+| Remove redundant assert detector is not None check | Medium | [#4543](https://github.com/OWASP/Nest/issues/4543) |
+| Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
+| Add poetry as pre requisite | Medium | [#4536](https://github.com/OWASP/Nest/issues/4536) |
+| Make run throws errors and exits nest backend | Medium | [#4535](https://github.com/OWASP/Nest/issues/4535) |
+| /bin/bash breaks on NIXOS | Medium | [#4534](https://github.com/OWASP/Nest/issues/4534) |
+| Feat: Implement Sponsors Program Support | Medium | [#4525](https://github.com/OWASP/Nest/pull/4525) |
+| Implement Sponsors Program Support | Medium | [#4520](https://github.com/OWASP/Nest/pull/4520) |
+| Refactored CardDetailsPage into smaller components | Medium | [#4519](https://github.com/OWASP/Nest/pull/4519) |
 | Added sponsor support | Medium | [#4511](https://github.com/OWASP/Nest/pull/4511) |
-| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4509](https://github.com/OWASP/Nest/pull/4509) |
-| fix/Loader to follow OWASP branding Guidelines | Medium | [#4508](https://github.com/OWASP/Nest/pull/4508) |
-| Fix Sonar `typescript:S4123`: `Updated capturedSetStatus` type to return a Promise, allowing proper use of await. | Medium | [#4507](https://github.com/OWASP/Nest/issues/4507) |
-| Improve frontend README documentation | Medium | [#4503](https://github.com/OWASP/Nest/issues/4503) |
 | Projects page: Add the number of open issues, open PRs and last-updated-date to the project details 'card' | Medium | [#4480](https://github.com/OWASP/Nest/issues/4480) |
 | Projects page: Add a separate filter for Project Level | Medium | [#4479](https://github.com/OWASP/Nest/issues/4479) |
-| chore(deps-dev): bump typescript from 5.9.3 to 6.0.2 in /frontend | Medium | [#4466](https://github.com/OWASP/Nest/pull/4466) |
 | Switch GitHub Actions runners from ubuntu-latest to Blacksmith for faster CI | Medium | [#4455](https://github.com/OWASP/Nest/issues/4455) |
 | feat(notifications): add EDA-based idempotent processing and DLQ for chapter/event updates | Medium | [#4454](https://github.com/OWASP/Nest/pull/4454) |
 | fix(api-keys): prevent same-day expiry rejection by sending end-of-day UTC | Medium | [#4447](https://github.com/OWASP/Nest/pull/4447) |
@@ -183,8 +186,6 @@
 | bug : Standardize Design Tokens and Resolve Navigation Accessibility Gaps | Medium | [#4436](https://github.com/OWASP/Nest/issues/4436) |
 | feat(a11y): Add skip-to-main-content link for keyboard accessibility (WCAG 2.4.1) | Medium | [#4435](https://github.com/OWASP/Nest/issues/4435) |
 | feat(frontend): bump @heroui/react from 2.8.10 to 3.0.1 and fix failing tests | Medium | [#4434](https://github.com/OWASP/Nest/pull/4434) |
-| feat: add Playwright smoke test for board candidates page | Medium | [#4424](https://github.com/OWASP/Nest/pull/4424) |
-| Mobile Navigation Menu lacks backdrop overlay and body scroll lock | Medium | [#4423](https://github.com/OWASP/Nest/issues/4423) |
 
 ---
 
@@ -225,21 +226,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix the invisible dropdown issue on the Prescription page (Fixes #694) | Medium | [#703](https://github.com/Dipanita45/HEALCONNECT/pull/703) |
-| Feature/db unit of work (Fixes #688) | Medium | [#702](https://github.com/Dipanita45/HEALCONNECT/pull/702) |
-| Feature/prescription dropdown fix(Fixes #694) | Medium | [#701](https://github.com/Dipanita45/HEALCONNECT/pull/701) |
-| Fix alert timestamp updates with single transaction (Fixes #696) | Medium | [#700](https://github.com/Dipanita45/HEALCONNECT/pull/700) |
-| Revert "Base" | Medium | [#699](https://github.com/Dipanita45/HEALCONNECT/pull/699) |
-| Bug: Hydration Mismatch & Cache Fallback Causes Stale or Null Patient State | Medium | [#697](https://github.com/Dipanita45/HEALCONNECT/issues/697) |
-| Bug: Race Condition in Vitals API Can Cause Silent Alert Failures | Medium | [#695](https://github.com/Dipanita45/HEALCONNECT/issues/695) |
-| # Improve Vitals API Validation & Background Alert Logging | Medium | [#693](https://github.com/Dipanita45/HEALCONNECT/issues/693) |
+| Revert "Revert "Fix deployment step ID in GitHub Actions workflow"" | Medium | [#708](https://github.com/Dipanita45/HEALCONNECT/pull/708) |
 | Refactor: Move Authorization Logic to Declarative RBAC Middleware | Medium | [#690](https://github.com/Dipanita45/HEALCONNECT/issues/690) |
 | Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
-| Enhancement: Move Alert Generation to Asynchronous Background Processing | Medium | [#687](https://github.com/Dipanita45/HEALCONNECT/issues/687) |
 | Bug: Rate Limiting Fails in Serverless Environment Due to In-Memory Storage | Medium | [#686](https://github.com/Dipanita45/HEALCONNECT/issues/686) |
-| 🛠️ [CODE QUALITY] Redundant and Manual Validation Logic | Medium | [#682](https://github.com/Dipanita45/HEALCONNECT/issues/682) |
-| Missing RBAC in Vitals API | Medium | [#680](https://github.com/Dipanita45/HEALCONNECT/issues/680) |
-| Fix the appointment section | Medium | [#674](https://github.com/Dipanita45/HEALCONNECT/issues/674) |
 | Standardize Next.js API middleware across all routes | Medium | [#666](https://github.com/Dipanita45/HEALCONNECT/issues/666) |
 
 ---
@@ -503,18 +493,25 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump dotenv from 17.2.3 to 17.4.0 | Easy | [#1318](https://github.com/recodehive/recode-website/pull/1318) |
 | Revamp : Redesign the merge page | Easy | [#1314](https://github.com/recodehive/recode-website/issues/1314) |
 | Redesign the Community home cards | Easy | [#1313](https://github.com/recodehive/recode-website/issues/1313) |
 | [Feature]: Use Dynamic mappinf for discussions section . | Easy | [#1312](https://github.com/recodehive/recode-website/issues/1312) |
+| UI Inconsistencies in Testimonials and FAQs Pages | Easy | [#1287](https://github.com/recodehive/recode-website/issues/1287) |
+| 🐞[Bug]: Mobile header has unnecessary top whitespace (<768px) | Easy | [#1286](https://github.com/recodehive/recode-website/issues/1286) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump @typescript-eslint/parser from 8.46.2 to 8.58.0 | Medium | [#1319](https://github.com/recodehive/recode-website/pull/1319) |
-| chore: bump tailwindcss from 4.1.14 to 4.2.2 | Medium | [#1317](https://github.com/recodehive/recode-website/pull/1317) |
-| chore: bump styled-components from 6.1.19 to 6.3.12 | Medium | [#1316](https://github.com/recodehive/recode-website/pull/1316) |
-| chore: bump eslint from 9.38.0 to 10.2.0 | Medium | [#1315](https://github.com/recodehive/recode-website/pull/1315) |
+| Add More content for docker tutorials | Easy | [#1180](https://github.com/recodehive/recode-website/issues/1180) |
+| Social Sharing Buttons for Blog Posts | Easy | [#1127](https://github.com/recodehive/recode-website/issues/1127) |
+| [Feature]: our project section is not looking good on mobile | Easy | [#937](https://github.com/recodehive/recode-website/issues/937) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.58.2 | Medium | [#1328](https://github.com/recodehive/recode-website/pull/1328) |
+| chore: bump lucide-react from 0.503.0 to 1.8.0 | Medium | [#1327](https://github.com/recodehive/recode-website/pull/1327) |
+| chore: bump react-slot-counter from 3.3.1 to 3.3.3 | Medium | [#1326](https://github.com/recodehive/recode-website/pull/1326) |
+| chore: bump @docusaurus/plugin-content-docs from 3.9.2 to 3.10.0 | Medium | [#1324](https://github.com/recodehive/recode-website/pull/1324) |
+| chore: bump @docusaurus/preset-classic from 3.9.1 to 3.10.0 | Medium | [#1323](https://github.com/recodehive/recode-website/pull/1323) |
+| 🐞[Bug]: Email should triggered on query | Medium | [#393](https://github.com/recodehive/recode-website/issues/393) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
+| [Feature]: Change to community page | Hard | [#339](https://github.com/recodehive/recode-website/issues/339) |
 
 ---
 
@@ -749,8 +746,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Go To Top Button | Medium | [#110](https://github.com/yashvikram30/legalease/issues/110) |
 | Resources, and Company Links Unresponsive/Incorrectly Redirecte | Medium | [#108](https://github.com/yashvikram30/legalease/issues/108) |
 | Fix Response Handling & Add Input Validation | Medium | [#107](https://github.com/yashvikram30/legalease/issues/107) |
-| feat: add route-keyed page transitions with Framer Motion | Medium | [#100](https://github.com/yashvikram30/legalease/pull/100) |
-| Implement Route-Keyed Page Transitions with Framer Motion | Medium | [#99](https://github.com/yashvikram30/legalease/issues/99) |
 | Made the footer links functionable | Medium | [#90](https://github.com/yashvikram30/legalease/pull/90) |
 | AI-Powered Case Outcome Predictor | Medium | [#80](https://github.com/yashvikram30/legalease/issues/80) |
 | New Landing page and fixed dark mode toggle | Medium | [#74](https://github.com/yashvikram30/legalease/pull/74) |
@@ -776,13 +771,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: Migrate all client fetch calls to fetchWithAuth — prevent silent 401 failures | Easy | [#150](https://github.com/LarytheLord/Adventurers-Guild/issues/150) |
-| feat: Achievement System — Milestone Badges and Unlock Notifications | Easy | [#149](https://github.com/LarytheLord/Adventurers-Guild/issues/149) |
 | feat: Quest Board Filters — Track, Difficulty, Category, and Search | Easy | [#138](https://github.com/LarytheLord/Adventurers-Guild/issues/138) |
 | feat: Party Panel UI — Squad Display on Quest Detail Page | Easy | [#137](https://github.com/LarytheLord/Adventurers-Guild/issues/137) |
 | feat: Quest Streak System — Daily/Weekly XP Multiplier for Retention | Easy | [#136](https://github.com/LarytheLord/Adventurers-Guild/issues/136) |
 | feat: Stripe Connect — Adventurer payout onboarding and PaymentIntent flow | Easy | [#106](https://github.com/LarytheLord/Adventurers-Guild/issues/106) |
-| feat: Activity Logging System — Track All User Actions with Points #147 | Medium | [#153](https://github.com/LarytheLord/Adventurers-Guild/pull/153) |
 | add quest workflow event trail | Medium | [#152](https://github.com/LarytheLord/Adventurers-Guild/pull/152) |
 | feat: Activity Logging System — Track All User Actions with Points | Medium | [#147](https://github.com/LarytheLord/Adventurers-Guild/issues/147) |
 | arch: Bootcamp Pipeline End-to-End Test — Dry Run with 5 Students | Medium | [#142](https://github.com/LarytheLord/Adventurers-Guild/issues/142) |
@@ -845,6 +837,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| fix: increase navbar title font size to improve visibility (closes #114) | Medium | [#121](https://github.com/ajaynegi45/Old-School-Game/pull/121) |
 | feat: Implement new 'Brain Train' UI redesign with pure CSS | Medium | [#119](https://github.com/ajaynegi45/Old-School-Game/pull/119) |
 | <Word Ladder> | Medium | [#117](https://github.com/ajaynegi45/Old-School-Game/issues/117) |
 | Homepage title text looks too small | Medium | [#114](https://github.com/ajaynegi45/Old-School-Game/issues/114) |
@@ -1244,11 +1237,7 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 | Issue: Fix Hamburger Menu Overlap & Homepage Visibility on Small Screens | Medium | [#16](https://github.com/imshashi365/IPURanker/issues/16) |
 | bug | Medium | [#15](https://github.com/imshashi365/IPURanker/issues/15) |
 | I will create the readme file | Medium | [#13](https://github.com/imshashi365/IPURanker/issues/13) |
-| Create a sample env file for development process | Medium | [#12](https://github.com/imshashi365/IPURanker/issues/12) |
 | PDF Result Card Generation & Downloadable Certificates | Medium | [#10](https://github.com/imshashi365/IPURanker/issues/10) |
-| Implement a real time news instead of nothing | Medium | [#6](https://github.com/imshashi365/IPURanker/issues/6) |
-| Create a beautiful readme for this project | Medium | [#4](https://github.com/imshashi365/IPURanker/issues/4) |
-| Implement a dark mode toggle | Medium | [#3](https://github.com/imshashi365/IPURanker/issues/3) |
 | 📝 Pull Request: Add Code of Conduct for IPURanker | GSSoC’25 | Medium | [#2](https://github.com/imshashi365/IPURanker/pull/2) |
 
 ---
@@ -1342,7 +1331,6 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Incorrect arguments parsing in CLI commands | Medium | [#140](https://github.com/subhadeeproy3902/mvpblocks/issues/140) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
