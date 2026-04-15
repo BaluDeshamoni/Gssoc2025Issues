@@ -21,7 +21,6 @@
 | Sign in issue | Medium | [#122](https://github.com/abhirajadhikary06/eventstack/issues/122) |
 | Add a 'Skip Login' option | Medium | [#121](https://github.com/abhirajadhikary06/eventstack/issues/121) |
 | Fix the utility page of the website | Medium | [#120](https://github.com/abhirajadhikary06/eventstack/issues/120) |
-| Add alt attributes to images in templates | Medium | [#119](https://github.com/abhirajadhikary06/eventstack/issues/119) |
 | misaligned footer | Medium | [#118](https://github.com/abhirajadhikary06/eventstack/issues/118) |
 | Improving the Overall UI rendering and Functioning of the Website | Medium | [#117](https://github.com/abhirajadhikary06/eventstack/issues/117) |
 | Add Contributor's Page 💡 | Medium | [#116](https://github.com/abhirajadhikary06/eventstack/issues/116) |
@@ -115,7 +114,7 @@
 | Winner Section: Oversized Images and Misaligned Text | Medium | [#674](https://github.com/opensource-society/CodeClip/issues/674) |
 | Add animation and details in the home page | Medium | [#673](https://github.com/opensource-society/CodeClip/issues/673) |
 | User security vunerabilty before login (feature enhancement also | Medium | [#672](https://github.com/opensource-society/CodeClip/issues/672) |
-| Add “Dark Mode / Light Mode” toggle switch in top navbar | Medium | [#671](https://github.com/opensource-society/CodeClip/issues/671) |
+| Implement Dark mode feature | Medium | [#670](https://github.com/opensource-society/CodeClip/issues/670) |
 
 ---
 
@@ -437,21 +436,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix the invisible dropdown issue on the Prescription page (Fixes #694) | Medium | [#703](https://github.com/Dipanita45/HEALCONNECT/pull/703) |
-| Feature/db unit of work (Fixes #688) | Medium | [#702](https://github.com/Dipanita45/HEALCONNECT/pull/702) |
-| Feature/prescription dropdown fix(Fixes #694) | Medium | [#701](https://github.com/Dipanita45/HEALCONNECT/pull/701) |
-| Fix alert timestamp updates with single transaction (Fixes #696) | Medium | [#700](https://github.com/Dipanita45/HEALCONNECT/pull/700) |
-| Revert "Base" | Medium | [#699](https://github.com/Dipanita45/HEALCONNECT/pull/699) |
-| Bug: Hydration Mismatch & Cache Fallback Causes Stale or Null Patient State | Medium | [#697](https://github.com/Dipanita45/HEALCONNECT/issues/697) |
-| Bug: Race Condition in Vitals API Can Cause Silent Alert Failures | Medium | [#695](https://github.com/Dipanita45/HEALCONNECT/issues/695) |
-| # Improve Vitals API Validation & Background Alert Logging | Medium | [#693](https://github.com/Dipanita45/HEALCONNECT/issues/693) |
+| Revert "Revert "Fix deployment step ID in GitHub Actions workflow"" | Medium | [#708](https://github.com/Dipanita45/HEALCONNECT/pull/708) |
 | Refactor: Move Authorization Logic to Declarative RBAC Middleware | Medium | [#690](https://github.com/Dipanita45/HEALCONNECT/issues/690) |
 | Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
-| Enhancement: Move Alert Generation to Asynchronous Background Processing | Medium | [#687](https://github.com/Dipanita45/HEALCONNECT/issues/687) |
 | Bug: Rate Limiting Fails in Serverless Environment Due to In-Memory Storage | Medium | [#686](https://github.com/Dipanita45/HEALCONNECT/issues/686) |
-| 🛠️ [CODE QUALITY] Redundant and Manual Validation Logic | Medium | [#682](https://github.com/Dipanita45/HEALCONNECT/issues/682) |
-| Missing RBAC in Vitals API | Medium | [#680](https://github.com/Dipanita45/HEALCONNECT/issues/680) |
-| Fix the appointment section | Medium | [#674](https://github.com/Dipanita45/HEALCONNECT/issues/674) |
 | Standardize Next.js API middleware across all routes | Medium | [#666](https://github.com/Dipanita45/HEALCONNECT/issues/666) |
 
 ---
@@ -1122,10 +1110,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add More content for docker tutorials | Easy | [#1180](https://github.com/recodehive/recode-website/issues/1180) |
 | Social Sharing Buttons for Blog Posts | Easy | [#1127](https://github.com/recodehive/recode-website/issues/1127) |
 | [Feature]: our project section is not looking good on mobile | Easy | [#937](https://github.com/recodehive/recode-website/issues/937) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.58.2 | Medium | [#1328](https://github.com/recodehive/recode-website/pull/1328) |
+| chore: bump lucide-react from 0.503.0 to 1.8.0 | Medium | [#1327](https://github.com/recodehive/recode-website/pull/1327) |
+| chore: bump react-slot-counter from 3.3.1 to 3.3.3 | Medium | [#1326](https://github.com/recodehive/recode-website/pull/1326) |
 | chore: bump @docusaurus/plugin-content-docs from 3.9.2 to 3.10.0 | Medium | [#1324](https://github.com/recodehive/recode-website/pull/1324) |
 | chore: bump @docusaurus/preset-classic from 3.9.1 to 3.10.0 | Medium | [#1323](https://github.com/recodehive/recode-website/pull/1323) |
-| chore: bump @docusaurus/theme-mermaid from 3.9.1 to 3.10.0 | Medium | [#1322](https://github.com/recodehive/recode-website/pull/1322) |
-| chore: bump @docusaurus/module-type-aliases from 3.9.1 to 3.10.0 | Medium | [#1321](https://github.com/recodehive/recode-website/pull/1321) |
 | 🐞[Bug]: Email should triggered on query | Medium | [#393](https://github.com/recodehive/recode-website/issues/393) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 | [Feature]: Change to community page | Hard | [#339](https://github.com/recodehive/recode-website/issues/339) |
@@ -1476,6 +1465,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| fix: increase navbar title font size to improve visibility (closes #114) | Medium | [#121](https://github.com/ajaynegi45/Old-School-Game/pull/121) |
 | feat: Implement new 'Brain Train' UI redesign with pure CSS | Medium | [#119](https://github.com/ajaynegi45/Old-School-Game/pull/119) |
 | <Word Ladder> | Medium | [#117](https://github.com/ajaynegi45/Old-School-Game/issues/117) |
 | Homepage title text looks too small | Medium | [#114](https://github.com/ajaynegi45/Old-School-Game/issues/114) |
@@ -2192,10 +2182,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix invalid opacity value in contributor card hover | Medium | [#1519](https://github.com/Rakesh9100/Beautiify/pull/1519) |
-| <FAQs section> | Medium | [#1518](https://github.com/Rakesh9100/Beautiify/issues/1518) |
-| Implement Login & Signup System with Modern and User-Friendly UI | Medium | [#1517](https://github.com/Rakesh9100/Beautiify/issues/1517) |
-| Fix The Allignment Of The Content Of The Footer | Medium | [#1516](https://github.com/Rakesh9100/Beautiify/issues/1516) |
 | Add Checkboxes Category and several Components | Medium | [#1070](https://github.com/Rakesh9100/Beautiify/issues/1070) |
 
 ---
