@@ -14,16 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Hardcoded Device and Patient IDs in Live Monitoring #669 | Medium | [#692](https://github.com/Dipanita45/HEALCONNECT/pull/692) |
-| Replace Hardcoded Dashboard Stats with Firestore Counts #670 | Medium | [#691](https://github.com/Dipanita45/HEALCONNECT/pull/691) |
+| Revert "Revert "Fix deployment step ID in GitHub Actions workflow"" | Medium | [#708](https://github.com/Dipanita45/HEALCONNECT/pull/708) |
 | Refactor: Move Authorization Logic to Declarative RBAC Middleware | Medium | [#690](https://github.com/Dipanita45/HEALCONNECT/issues/690) |
 | Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
-| Enhancement: Implement Unit of Work Pattern for Atomic Multi-Document Operations | Medium | [#688](https://github.com/Dipanita45/HEALCONNECT/issues/688) |
-| Enhancement: Move Alert Generation to Asynchronous Background Processing | Medium | [#687](https://github.com/Dipanita45/HEALCONNECT/issues/687) |
 | Bug: Rate Limiting Fails in Serverless Environment Due to In-Memory Storage | Medium | [#686](https://github.com/Dipanita45/HEALCONNECT/issues/686) |
-| 🛠️ [CODE QUALITY] Redundant and Manual Validation Logic | Medium | [#682](https://github.com/Dipanita45/HEALCONNECT/issues/682) |
-| Missing RBAC in Vitals API | Medium | [#680](https://github.com/Dipanita45/HEALCONNECT/issues/680) |
-| Fix the appointment section | Medium | [#674](https://github.com/Dipanita45/HEALCONNECT/issues/674) |
 | Standardize Next.js API middleware across all routes | Medium | [#666](https://github.com/Dipanita45/HEALCONNECT/issues/666) |
 
 ---
@@ -62,9 +56,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(graph): Update getEdge method's return type. | Easy | [#206](https://github.com/SharonIV0x86/CinderPeak/issues/206) |
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
-| feat(adjlist): Add logging calls in Adjacency List | Medium | [#203](https://github.com/SharonIV0x86/CinderPeak/issues/203) |
+| chore(logging): Deprecate and fully remove setConsoleLoggin method | Medium | [#207](https://github.com/SharonIV0x86/CinderPeak/issues/207) |
+| feat: implement comprehensive logging for AdjacencyList storage (#203) | Medium | [#204](https://github.com/SharonIV0x86/CinderPeak/pull/204) |
 | fix: unresolved logger variables and batch script logicUpdate LogExample and tweak auto-format script | Medium | [#200](https://github.com/SharonIV0x86/CinderPeak/pull/200) |
 | refactor(adjacency-storage): replace LOG_ macro with policy handler logging | Medium | [#193](https://github.com/SharonIV0x86/CinderPeak/pull/193) |
 
