@@ -22,6 +22,7 @@
 | Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
 | Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
+| heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
 
 ---
 
@@ -604,7 +605,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | Event Analytics Dashboard (Organizer View) | Easy | [#799](https://github.com/SandeepVashishtha/Eventra/issues/799) |
 | Feature Enhancement: Add Chatbot to Eventra Platform | Easy | [#702](https://github.com/SandeepVashishtha/Eventra/issues/702) |
-| Contact Form Validation: Name, Message and Subject Fields Accept Insufficient (Single-Character) and Non-Descriptive Inputs | Easy | [#681](https://github.com/SandeepVashishtha/Eventra/issues/681) |
 | Filter section is inconsistent in dark mode; some text not visible | Medium | [#599](https://github.com/SandeepVashishtha/Eventra/issues/599) |
 | Enhance UI of “Create your first event” section | Medium | [#410](https://github.com/SandeepVashishtha/Eventra/issues/410) |
 
