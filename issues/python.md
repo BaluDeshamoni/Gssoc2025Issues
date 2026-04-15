@@ -62,10 +62,10 @@
 | Fix Sign In crash and Consultation navigation issues (#316) | Medium | [#317](https://github.com/Amarjha01/InfantCareCompass/pull/317) |
 | Modification in header of the project for better UI | Medium | [#302](https://github.com/Amarjha01/InfantCareCompass/pull/302) |
 | Feature Request: Add Chatbot for improved user engagement | Medium | [#299](https://github.com/Amarjha01/InfantCareCompass/issues/299) |
-| Add document.md and performance.md | Medium | [#297](https://github.com/Amarjha01/InfantCareCompass/issues/297) |
 | Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
 | Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
+| heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
 
 ---
 
@@ -84,7 +84,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add GSSoC'25 Banner | Medium | [#44](https://github.com/Ananya-te/MusicTrackerAPI/issues/44) |
-| Document API Endpoints in README | Medium | [#43](https://github.com/Ananya-te/MusicTrackerAPI/issues/43) |
 | Improve README: Added prerequisites, database reset instructions, and contributing guide | Medium | [#42](https://github.com/Ananya-te/MusicTrackerAPI/pull/42) |
 | Enhanced UI and added search functionality to MusicAPI.html | Medium | [#41](https://github.com/Ananya-te/MusicTrackerAPI/pull/41) |
 | Improve UI and add search button in the website | Medium | [#40](https://github.com/Ananya-te/MusicTrackerAPI/issues/40) |
@@ -209,9 +208,22 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: add local testing steps to NestBot development guide | Easy | [#4440](https://github.com/OWASP/Nest/pull/4440) |
-| ChapterMap: Incorrect cursor display on non-interactive areas | Easy | [#4419](https://github.com/OWASP/Nest/issues/4419) |
-| chore(deps-dev): bump typescript from 5.9.3 to 6.0.2 in /frontend | Medium | [#4466](https://github.com/OWASP/Nest/pull/4466) |
+| Populate version tags in comments for SHA-pinned GitHub Actions | Easy | [#4542](https://github.com/OWASP/Nest/issues/4542) |
+| Add Semantic Caching and CrewAI Config | Medium | [#4548](https://github.com/OWASP/Nest/pull/4548) |
+| Add actionable links to Ways to Engage cards on Community page | Medium | [#4546](https://github.com/OWASP/Nest/issues/4546) |
+| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4545](https://github.com/OWASP/Nest/pull/4545) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4544](https://github.com/OWASP/Nest/pull/4544) |
+| Remove redundant assert detector is not None check | Medium | [#4543](https://github.com/OWASP/Nest/issues/4543) |
+| Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
+| Add poetry as pre requisite | Medium | [#4536](https://github.com/OWASP/Nest/issues/4536) |
+| Make run throws errors and exits nest backend | Medium | [#4535](https://github.com/OWASP/Nest/issues/4535) |
+| /bin/bash breaks on NIXOS | Medium | [#4534](https://github.com/OWASP/Nest/issues/4534) |
+| Feat: Implement Sponsors Program Support | Medium | [#4525](https://github.com/OWASP/Nest/pull/4525) |
+| Implement Sponsors Program Support | Medium | [#4520](https://github.com/OWASP/Nest/pull/4520) |
+| Refactored CardDetailsPage into smaller components | Medium | [#4519](https://github.com/OWASP/Nest/pull/4519) |
+| Added sponsor support | Medium | [#4511](https://github.com/OWASP/Nest/pull/4511) |
+| Projects page: Add the number of open issues, open PRs and last-updated-date to the project details 'card' | Medium | [#4480](https://github.com/OWASP/Nest/issues/4480) |
+| Projects page: Add a separate filter for Project Level | Medium | [#4479](https://github.com/OWASP/Nest/issues/4479) |
 | Switch GitHub Actions runners from ubuntu-latest to Blacksmith for faster CI | Medium | [#4455](https://github.com/OWASP/Nest/issues/4455) |
 | feat(notifications): add EDA-based idempotent processing and DLQ for chapter/event updates | Medium | [#4454](https://github.com/OWASP/Nest/pull/4454) |
 | fix(api-keys): prevent same-day expiry rejection by sending end-of-day UTC | Medium | [#4447](https://github.com/OWASP/Nest/pull/4447) |
@@ -222,18 +234,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | bug : Standardize Design Tokens and Resolve Navigation Accessibility Gaps | Medium | [#4436](https://github.com/OWASP/Nest/issues/4436) |
 | feat(a11y): Add skip-to-main-content link for keyboard accessibility (WCAG 2.4.1) | Medium | [#4435](https://github.com/OWASP/Nest/issues/4435) |
 | feat(frontend): bump @heroui/react from 2.8.10 to 3.0.1 and fix failing tests | Medium | [#4434](https://github.com/OWASP/Nest/pull/4434) |
-| feat: add Playwright smoke test for board candidates page | Medium | [#4424](https://github.com/OWASP/Nest/pull/4424) |
-| Mobile Navigation Menu lacks backdrop overlay and body scroll lock | Medium | [#4423](https://github.com/OWASP/Nest/issues/4423) |
-| Improve GraphQL and backend connectivity error messaging in frontend | Medium | [#4421](https://github.com/OWASP/Nest/pull/4421) |
-| Remove unused timeline/calendar feature from Card component | Medium | [#4420](https://github.com/OWASP/Nest/pull/4420) |
-| Improve onboarding experience for first time contributors | Medium | [#4401](https://github.com/OWASP/Nest/issues/4401) |
-| Improve error handling in CalendarButton component | Medium | [#4399](https://github.com/OWASP/Nest/issues/4399) |
-| Milestone and Evidence Tracking for the Mentorship Module (GSoC 2026) | Medium | [#4385](https://github.com/OWASP/Nest/issues/4385) |
-| Improve navbar button hierarchy and visual balance | Medium | [#4381](https://github.com/OWASP/Nest/issues/4381) |
-| Proposal: Enhance Project Scraper Robustness and Observability (GSoC 2026) | Medium | [#4380](https://github.com/OWASP/Nest/issues/4380) |
-| Improve navbar hover and active state visibility | Medium | [#4379](https://github.com/OWASP/Nest/pull/4379) |
-| Fixed header Nest logo adaption to theme(light/dark) | Medium | [#4374](https://github.com/OWASP/Nest/pull/4374) |
-| Made OWASP Nest logo dynamically toggle in dark and light theme | Medium | [#4370](https://github.com/OWASP/Nest/pull/4370) |
 
 ---
 
@@ -283,6 +283,14 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| enhance: Add error boundary with retry mechanism for mobile app | Medium | [#319](https://github.com/Devasy/splitwiser/pull/319) |
+| style: Consistent hover/focus states across all buttons | Medium | [#318](https://github.com/Devasy/splitwiser/pull/318) |
+| style: Consistent hover/focus states across all buttons | Medium | [#317](https://github.com/Devasy/splitwiser/pull/317) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#316](https://github.com/Devasy/splitwiser/pull/316) |
+| style: Consistent hover/focus states across all buttons | Medium | [#315](https://github.com/Devasy/splitwiser/pull/315) |
+| ux: Swipe-to-delete for expenses with undo option | Medium | [#314](https://github.com/Devasy/splitwiser/pull/314) |
+| enhance: Add skeleton loading state for HomeScreen groups | Medium | [#313](https://github.com/Devasy/splitwiser/pull/313) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#312](https://github.com/Devasy/splitwiser/pull/312) |
 | a11y: Complete keyboard navigation for Dashboard and Friends pages | Medium | [#310](https://github.com/Devasy/splitwiser/pull/310) |
 | Add biometric authentication option (FaceID/TouchID) | Medium | [#309](https://github.com/Devasy/splitwiser/pull/309) |
 | enhance: Add skeleton loading for HomeScreen groups | Medium | [#308](https://github.com/Devasy/splitwiser/pull/308) |
@@ -305,14 +313,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | Mobile Home Screen Skeleton Loading | Medium | [#291](https://github.com/Devasy/splitwiser/pull/291) |
 | enhance: Add skeleton loading for mobile home screen | Medium | [#290](https://github.com/Devasy/splitwiser/pull/290) |
 | Implement lazy loading and code splitting for routes | Medium | [#289](https://github.com/Devasy/splitwiser/pull/289) |
-| ux: Add skeleton loading state to HomeScreen | Medium | [#288](https://github.com/Devasy/splitwiser/pull/288) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#287](https://github.com/Devasy/splitwiser/pull/287) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#286](https://github.com/Devasy/splitwiser/pull/286) |
-| Mobile HomeScreen Skeleton Loading | Medium | [#285](https://github.com/Devasy/splitwiser/pull/285) |
-| ux: Complete skeleton loading for HomeScreen groups | Medium | [#284](https://github.com/Devasy/splitwiser/pull/284) |
-| enhance: Add skeleton loading to mobile Home screen | Medium | [#283](https://github.com/Devasy/splitwiser/pull/283) |
-| ux: Add skeleton loading for mobile home screen | Medium | [#282](https://github.com/Devasy/splitwiser/pull/282) |
-| Add swipe-to-delete for expenses with undo functionality | Medium | [#281](https://github.com/Devasy/splitwiser/pull/281) |
 
 ---
 
@@ -374,6 +374,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Leaked OpenAI API Key detected in .env | Medium | [#54](https://github.com/Jotthecode/CITY-PULSE/issues/54) |
 | Add Contributors Section in README | Medium | [#53](https://github.com/Jotthecode/CITY-PULSE/issues/53) |
 | fix: Remove hardcoded API keys security vulnerability | Medium | [#52](https://github.com/Jotthecode/CITY-PULSE/pull/52) |
 | Hard-coded API Keys in Source Code (Security Vulnerability) GSSOC-25 | Medium | [#51](https://github.com/Jotthecode/CITY-PULSE/issues/51) |
@@ -393,7 +394,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | “Last Viewed City” Memory Using Local Storage | Medium | [#26](https://github.com/Jotthecode/CITY-PULSE/issues/26) |
 | Add Contribution.md file(Level 2) | Medium | [#21](https://github.com/Jotthecode/CITY-PULSE/issues/21) |
 | 🚫 License Missing from Repository | Medium | [#20](https://github.com/Jotthecode/CITY-PULSE/issues/20) |
-| Add License and Update README | Medium | [#16](https://github.com/Jotthecode/CITY-PULSE/pull/16) |
 
 ---
 
@@ -692,7 +692,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add New Project - Stock Turnover Ratio Dataset Analysis | Medium | [#809](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/809) |
 | Add New Project — Stock Market Turnover Ratio Analysis (GSSoC'25) | Medium | [#807](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/807) |
 | Add Big Tech Giant Stocks Visualization App Project | Medium | [#799](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/799) |
-| vidya | Medium | [#798](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/798) |
 | Add Interactive Chatbot for DataSentience-AIML Project Info | Medium | [#796](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/796) |
 | Add ITC Stocks Visualization App Project | Medium | [#792](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/792) |
 | EDA Notebook Submission for Review | Medium | [#786](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/786) |
@@ -765,8 +764,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add Input Validation in app.py to Prevent Invalid Predictions | Medium | [#25](https://github.com/ritikka06/Tariff-Fashion/issues/25) |
 | Missing Columns in Dataset Summary and Mismatched price chart | Medium | [#24](https://github.com/ritikka06/Tariff-Fashion/issues/24) |
 | Add POWERBI Dashboard | Medium | [#16](https://github.com/ritikka06/Tariff-Fashion/pull/16) |
-| Complete Fashion Tariff Predictor with Enhanced UI/UX | Medium | [#15](https://github.com/ritikka06/Tariff-Fashion/pull/15) |
-| Complete Initial Project Setup with README, Model, and Web Interface | Medium | [#14](https://github.com/ritikka06/Tariff-Fashion/issues/14) |
 | Adding Informative readme | Medium | [#12](https://github.com/ritikka06/Tariff-Fashion/issues/12) |
 | Adding a CodeOfConduct.md file | Medium | [#11](https://github.com/ritikka06/Tariff-Fashion/issues/11) |
 | Create Proper README.md and Add License | Medium | [#9](https://github.com/ritikka06/Tariff-Fashion/issues/9) |
@@ -777,29 +774,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Create Initial Seed Dataset for Fashion Products | Medium | [#4](https://github.com/ritikka06/Tariff-Fashion/issues/4) |
 | Add a CONTRIBUTING.md File for New Contributors | Medium | [#2](https://github.com/ritikka06/Tariff-Fashion/issues/2) |
 | Improve Documentation: Add Clear Overview and Project Workflow Explanation | Medium | [#1](https://github.com/ritikka06/Tariff-Fashion/issues/1) |
-
----
-
-## 📌 Project: TalkHeal
-
-📝 **Description:** • A compassionate AI-based mental health assistant
-• 24/7 support with smart chat history
-• Mood slider and AI-based coping tips
-• Mental health resources and helplines
-• Location-based center search (Google Maps)
-• Clean 3D-inspired pink/magenta UI and mobile-ready responsive design
-
-🔗 [View Project](https://github.com/eccentriccoder01/TalkHeal)
-
-💻 **Tech Stack:** Python, Streamlit, Gemini API, CSS3
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Typo in the word "Exercise" on the website | Easy | [#636](https://github.com/eccentriccoder01/TalkHeal/issues/636) |
 
 ---
 
@@ -820,9 +794,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Backend Feature: Automated Data Preprocessing & Model Evaluation Pipeline | Medium | [#52](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/52) |
 | Issue 42 - fix | Medium | [#51](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/51) |
 | solved #5 Added CSV validation for user uploads an d handling the error | Medium | [#49](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/49) |
-| Update views.py | Medium | [#48](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/48) |
-| Update greetings.yml | Medium | [#47](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/47) |
-| Added EDA & Data Summary Report Generator | Medium | [#45](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/45) |
 | Suggestion: Using N-BEATS / N-HITS for Enhanced Sneaker Price Prediction | Medium | [#43](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/43) |
 | Added initial EDA notebook: Contributes to progress on #24 | Medium | [#40](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/40) |
 | Linear Regression for price [GSSoC 25] | Medium | [#21](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/21) |
@@ -1180,11 +1151,10 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the production-dependencies group across 1 directory with 19 updates | Medium | [#154](https://github.com/Xenonesis/code-guardian-report/pull/154) |
+| chore(deps): bump the production-dependencies group across 1 directory with 15 updates | Medium | [#158](https://github.com/Xenonesis/code-guardian-report/pull/158) |
+| chore(deps): bump the dev-dependencies group across 1 directory with 5 updates | Medium | [#157](https://github.com/Xenonesis/code-guardian-report/pull/157) |
 | implement parallel file processing using Web Workers | Medium | [#153](https://github.com/Xenonesis/code-guardian-report/pull/153) |
 | Implement Parallel File Processing for Large Codebases | Medium | [#152](https://github.com/Xenonesis/code-guardian-report/issues/152) |
-| chore(deps): bump the dev-dependencies group across 1 directory with 4 updates | Medium | [#150](https://github.com/Xenonesis/code-guardian-report/pull/150) |
-| chore(deps): bump eslint from 9.39.2 to 10.1.0 | Medium | [#149](https://github.com/Xenonesis/code-guardian-report/pull/149) |
 | Title: TypeScript: Replace implicit 'any' usage in core services | Medium | [#142](https://github.com/Xenonesis/code-guardian-report/issues/142) |
 | Title: Refactor: Remove legacy Jest dependencies and config | Medium | [#141](https://github.com/Xenonesis/code-guardian-report/issues/141) |
 | Title: Docs: Synchronize CONTRIBUTING.md with current Next.js/React stack | Medium | [#140](https://github.com/Xenonesis/code-guardian-report/issues/140) |
@@ -1203,6 +1173,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | UI Redesign: Homepage & Footer | Medium | [#104](https://github.com/Xenonesis/code-guardian-report/issues/104) |
 | docs: fix Getting Started instructions and clarify setup | Medium | [#102](https://github.com/Xenonesis/code-guardian-report/pull/102) |
 | chore(deps): bump eslint from 8.57.1 to 9.39.2 in /functions | Medium | [#84](https://github.com/Xenonesis/code-guardian-report/pull/84) |
+| chore(deps): bump firebase-functions from 7.0.0 to 7.0.2 in /functions | Medium | [#83](https://github.com/Xenonesis/code-guardian-report/pull/83) |
 
 ---
 
@@ -1565,24 +1536,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | PROPER README.md & CONTRIBUTING.md is needed [GSSoC'25] | Medium | [#4](https://github.com/MukulSha-afk/Weather-App/issues/4) |
 | Making the README.md | Medium | [#3](https://github.com/MukulSha-afk/Weather-App/issues/3) |
 | Weather-App | Medium | [#1](https://github.com/MukulSha-afk/Weather-App/pull/1) |
-
----
-
-## 📌 Project: AI powered health assistant
-
-📝 **Description:** This project focuses on AI POWERED HEALTH ASSISTANT that provides users with health related guidance, symptom analysis and basic medical recommendations.This project helps to develop an AI-powered assistant that can analyze symptoms and provide preliminary health suggestions. It integrates a user-friendly chatbot that responds to health- related queries using natural language processing. It enhance accessibility to basic healthcare advice, especially for those without immediate access to medical professionals.
-
-🔗 [View Project](https://github.com/CharithaReddy18/AI-health-chatbot)
-
-💻 **Tech Stack:** Python, Machine Learning, NLP
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Improved chatbot | Medium | [#52](https://github.com/CharithaReddy18/AI-health-chatbot/pull/52) |
 
 ---
 
