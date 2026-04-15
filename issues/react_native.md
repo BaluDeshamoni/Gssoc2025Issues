@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| enhance: Add error boundary with retry mechanism for mobile app | Medium | [#319](https://github.com/Devasy/splitwiser/pull/319) |
 | style: Consistent hover/focus states across all buttons | Medium | [#318](https://github.com/Devasy/splitwiser/pull/318) |
 | style: Consistent hover/focus states across all buttons | Medium | [#317](https://github.com/Devasy/splitwiser/pull/317) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#316](https://github.com/Devasy/splitwiser/pull/316) |
@@ -43,7 +44,6 @@
 | Mobile Home Screen Skeleton Loading | Medium | [#291](https://github.com/Devasy/splitwiser/pull/291) |
 | enhance: Add skeleton loading for mobile home screen | Medium | [#290](https://github.com/Devasy/splitwiser/pull/290) |
 | Implement lazy loading and code splitting for routes | Medium | [#289](https://github.com/Devasy/splitwiser/pull/289) |
-| ux: Add skeleton loading state to HomeScreen | Medium | [#288](https://github.com/Devasy/splitwiser/pull/288) |
 
 ---
 
@@ -93,13 +93,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: Migrate all client fetch calls to fetchWithAuth — prevent silent 401 failures | Easy | [#150](https://github.com/LarytheLord/Adventurers-Guild/issues/150) |
-| feat: Achievement System — Milestone Badges and Unlock Notifications | Easy | [#149](https://github.com/LarytheLord/Adventurers-Guild/issues/149) |
 | feat: Quest Board Filters — Track, Difficulty, Category, and Search | Easy | [#138](https://github.com/LarytheLord/Adventurers-Guild/issues/138) |
 | feat: Party Panel UI — Squad Display on Quest Detail Page | Easy | [#137](https://github.com/LarytheLord/Adventurers-Guild/issues/137) |
 | feat: Quest Streak System — Daily/Weekly XP Multiplier for Retention | Easy | [#136](https://github.com/LarytheLord/Adventurers-Guild/issues/136) |
 | feat: Stripe Connect — Adventurer payout onboarding and PaymentIntent flow | Easy | [#106](https://github.com/LarytheLord/Adventurers-Guild/issues/106) |
-| feat: Activity Logging System — Track All User Actions with Points #147 | Medium | [#153](https://github.com/LarytheLord/Adventurers-Guild/pull/153) |
 | add quest workflow event trail | Medium | [#152](https://github.com/LarytheLord/Adventurers-Guild/pull/152) |
 | feat: Activity Logging System — Track All User Actions with Points | Medium | [#147](https://github.com/LarytheLord/Adventurers-Guild/issues/147) |
 | arch: Bootcamp Pipeline End-to-End Test — Dry Run with 5 Students | Medium | [#142](https://github.com/LarytheLord/Adventurers-Guild/issues/142) |
