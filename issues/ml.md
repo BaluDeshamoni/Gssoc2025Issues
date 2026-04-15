@@ -21,7 +21,6 @@
 | Sign in issue | Medium | [#122](https://github.com/abhirajadhikary06/eventstack/issues/122) |
 | Add a 'Skip Login' option | Medium | [#121](https://github.com/abhirajadhikary06/eventstack/issues/121) |
 | Fix the utility page of the website | Medium | [#120](https://github.com/abhirajadhikary06/eventstack/issues/120) |
-| Add alt attributes to images in templates | Medium | [#119](https://github.com/abhirajadhikary06/eventstack/issues/119) |
 | misaligned footer | Medium | [#118](https://github.com/abhirajadhikary06/eventstack/issues/118) |
 | Improving the Overall UI rendering and Functioning of the Website | Medium | [#117](https://github.com/abhirajadhikary06/eventstack/issues/117) |
 | Add Contributor's Page 💡 | Medium | [#116](https://github.com/abhirajadhikary06/eventstack/issues/116) |
@@ -115,7 +114,7 @@
 | Winner Section: Oversized Images and Misaligned Text | Medium | [#674](https://github.com/opensource-society/CodeClip/issues/674) |
 | Add animation and details in the home page | Medium | [#673](https://github.com/opensource-society/CodeClip/issues/673) |
 | User security vunerabilty before login (feature enhancement also | Medium | [#672](https://github.com/opensource-society/CodeClip/issues/672) |
-| Add “Dark Mode / Light Mode” toggle switch in top navbar | Medium | [#671](https://github.com/opensource-society/CodeClip/issues/671) |
+| Implement Dark mode feature | Medium | [#670](https://github.com/opensource-society/CodeClip/issues/670) |
 
 ---
 
@@ -178,8 +177,6 @@ User Profile: BMI calculator and fitness analytics.
 | 🚫 License Missing from Repository | Easy | [#3](https://github.com/akshtshrma/KinetiX/issues/3) |
 | Contributor Covenant Code of Conduct - GSSoC 2025 | Easy | [#2](https://github.com/akshtshrma/KinetiX/issues/2) |
 | Adding a README File | Easy | [#1](https://github.com/akshtshrma/KinetiX/issues/1) |
-| Improve README with setup & build instructions | Medium | [#31](https://github.com/akshtshrma/KinetiX/issues/31) |
-| feat: Add GoalAchievedDialog | Medium | [#30](https://github.com/akshtshrma/KinetiX/pull/30) |
 | Add GitHub Issue & PR Templates | Medium | [#29](https://github.com/akshtshrma/KinetiX/issues/29) |
 | 🧠 [Feature Suggestion] Add Progress Visualization for Better Tracking & Motivation | Medium | [#28](https://github.com/akshtshrma/KinetiX/issues/28) |
 | Improve Posture Detection Accuracy Using Angle Checks and Feedback Smoothing | Medium | [#27](https://github.com/akshtshrma/KinetiX/pull/27) |
@@ -218,10 +215,8 @@ User Profile: BMI calculator and fitness analytics.
 |----------|----------------|---------|
 | Change ball color to blue | Medium | [#243](https://github.com/Akki-jaiswal/pong-game/pull/243) |
 | Fixed AI paddle movement to be smoother | Medium | [#241](https://github.com/Akki-jaiswal/pong-game/pull/241) |
-| Update script.js | Medium | [#236](https://github.com/Akki-jaiswal/pong-game/pull/236) |
 | Enhancing the overall UI and adding New Features | Medium | [#235](https://github.com/Akki-jaiswal/pong-game/issues/235) |
 | Feature Request: Add Blog section for Pong game | Medium | [#234](https://github.com/Akki-jaiswal/pong-game/issues/234) |
-| Update script.js | Medium | [#233](https://github.com/Akki-jaiswal/pong-game/pull/233) |
 | IMPROVING HEADER SECTION OF HOME PAGE | Medium | [#232](https://github.com/Akki-jaiswal/pong-game/issues/232) |
 | Enhanced UI , fixed issues and added many more new fetaures in the pong game. I have given the brief explanation of the newly added features in the ping pong game in the description part along with the existing features | Medium | [#231](https://github.com/Akki-jaiswal/pong-game/pull/231) |
 | Dropdown text not clearly visible due to background color conflict | Medium | [#229](https://github.com/Akki-jaiswal/pong-game/issues/229) |
@@ -241,6 +236,7 @@ User Profile: BMI calculator and fitness analytics.
 | How to Play” button does not open instructions modal  Description | Medium | [#206](https://github.com/Akki-jaiswal/pong-game/issues/206) |
 | Navbar UI/UX Improvements | Medium | [#205](https://github.com/Akki-jaiswal/pong-game/issues/205) |
 | changed the design after winning | Medium | [#204](https://github.com/Akki-jaiswal/pong-game/pull/204) |
+| add welcome page with ui enhancement | Medium | [#202](https://github.com/Akki-jaiswal/pong-game/pull/202) |
 
 ---
 
@@ -259,7 +255,6 @@ User Profile: BMI calculator and fitness analytics.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add GSSoC'25 Banner | Medium | [#44](https://github.com/Ananya-te/MusicTrackerAPI/issues/44) |
-| Document API Endpoints in README | Medium | [#43](https://github.com/Ananya-te/MusicTrackerAPI/issues/43) |
 | Improve README: Added prerequisites, database reset instructions, and contributing guide | Medium | [#42](https://github.com/Ananya-te/MusicTrackerAPI/pull/42) |
 | Enhanced UI and added search functionality to MusicAPI.html | Medium | [#41](https://github.com/Ananya-te/MusicTrackerAPI/pull/41) |
 | Improve UI and add search button in the website | Medium | [#40](https://github.com/Ananya-te/MusicTrackerAPI/issues/40) |
@@ -674,6 +669,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Leaked OpenAI API Key detected in .env | Medium | [#54](https://github.com/Jotthecode/CITY-PULSE/issues/54) |
 | Add Contributors Section in README | Medium | [#53](https://github.com/Jotthecode/CITY-PULSE/issues/53) |
 | fix: Remove hardcoded API keys security vulnerability | Medium | [#52](https://github.com/Jotthecode/CITY-PULSE/pull/52) |
 | Hard-coded API Keys in Source Code (Security Vulnerability) GSSOC-25 | Medium | [#51](https://github.com/Jotthecode/CITY-PULSE/issues/51) |
@@ -693,7 +689,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | “Last Viewed City” Memory Using Local Storage | Medium | [#26](https://github.com/Jotthecode/CITY-PULSE/issues/26) |
 | Add Contribution.md file(Level 2) | Medium | [#21](https://github.com/Jotthecode/CITY-PULSE/issues/21) |
 | 🚫 License Missing from Repository | Medium | [#20](https://github.com/Jotthecode/CITY-PULSE/issues/20) |
-| Add License and Update README | Medium | [#16](https://github.com/Jotthecode/CITY-PULSE/pull/16) |
 
 ---
 
@@ -1101,7 +1096,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | fix: scroll to Projects section on 'Surprise Me' / 'All Projects' click | Medium | [#805](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/805) |
 | Bug Fix / scoreboard and logic | Medium | [#803](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/803) |
 | Feat/improve the css in flappy bird game (Fixes #731) | Medium | [#802](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/802) |
-| Added requirements | Medium | [#801](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/801) |
 | Improve Footer Layout and Design | Medium | [#797](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/797) |
 | New Frontend Project : Card Flipping Puzzle (Memory Match) Game | Medium | [#793](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/793) |
 | Fix: Resolve inconsistent footer behavior in Light Mode | Medium | [#792](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/792) |
@@ -1110,29 +1104,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | DAY 59 - Introducing CLICKBAIT (The memory game) | Medium | [#789](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/789) |
 | Fix: Resolve inconsistent alignment in header search bar and button | Medium | [#787](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/787) |
 | Add Expense Tracker Project | Medium | [#785](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/785) |
-
----
-
-## 📌 Project: TalkHeal
-
-📝 **Description:** • A compassionate AI-based mental health assistant
-• 24/7 support with smart chat history
-• Mood slider and AI-based coping tips
-• Mental health resources and helplines
-• Location-based center search (Google Maps)
-• Clean 3D-inspired pink/magenta UI and mobile-ready responsive design
-
-🔗 [View Project](https://github.com/eccentriccoder01/TalkHeal)
-
-💻 **Tech Stack:** Python, Streamlit, Gemini API, CSS3
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Typo in the word "Exercise" on the website | Easy | [#636](https://github.com/eccentriccoder01/TalkHeal/issues/636) |
+| Suggestion: Introduce Day 33 – Maze Runner | Medium | [#783](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/783) |
 
 ---
 
@@ -1153,9 +1125,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Backend Feature: Automated Data Preprocessing & Model Evaluation Pipeline | Medium | [#52](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/52) |
 | Issue 42 - fix | Medium | [#51](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/51) |
 | solved #5 Added CSV validation for user uploads an d handling the error | Medium | [#49](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/49) |
-| Update views.py | Medium | [#48](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/48) |
-| Update greetings.yml | Medium | [#47](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/47) |
-| Added EDA & Data Summary Report Generator | Medium | [#45](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/45) |
 | Suggestion: Using N-BEATS / N-HITS for Enhanced Sneaker Price Prediction | Medium | [#43](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/43) |
 | Added initial EDA notebook: Contributes to progress on #24 | Medium | [#40](https://github.com/sahithinandikula/Sneaker-price-prediction/pull/40) |
 | Linear Regression for price [GSSoC 25] | Medium | [#21](https://github.com/sahithinandikula/Sneaker-price-prediction/issues/21) |
@@ -1229,15 +1198,25 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Revamp : Redesign the merge page | Easy | [#1314](https://github.com/recodehive/recode-website/issues/1314) |
+| Redesign the Community home cards | Easy | [#1313](https://github.com/recodehive/recode-website/issues/1313) |
+| [Feature]: Use Dynamic mappinf for discussions section . | Easy | [#1312](https://github.com/recodehive/recode-website/issues/1312) |
+| UI Inconsistencies in Testimonials and FAQs Pages | Easy | [#1287](https://github.com/recodehive/recode-website/issues/1287) |
+| 🐞[Bug]: Mobile header has unnecessary top whitespace (<768px) | Easy | [#1286](https://github.com/recodehive/recode-website/issues/1286) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
 | [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| chore: bump lucide-react from 0.503.0 to 1.7.0 | Medium | [#1311](https://github.com/recodehive/recode-website/pull/1311) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.58.0 | Medium | [#1310](https://github.com/recodehive/recode-website/pull/1310) |
-| chore: bump typescript from 5.3.3 to 6.0.2 | Medium | [#1309](https://github.com/recodehive/recode-website/pull/1309) |
-| chore: bump @tailwindcss/postcss from 4.1.14 to 4.2.2 | Medium | [#1308](https://github.com/recodehive/recode-website/pull/1308) |
-| chore: bump firebase from 9.23.0 to 12.11.0 | Medium | [#1307](https://github.com/recodehive/recode-website/pull/1307) |
+| Add More content for docker tutorials | Easy | [#1180](https://github.com/recodehive/recode-website/issues/1180) |
+| Social Sharing Buttons for Blog Posts | Easy | [#1127](https://github.com/recodehive/recode-website/issues/1127) |
+| [Feature]: our project section is not looking good on mobile | Easy | [#937](https://github.com/recodehive/recode-website/issues/937) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.58.2 | Medium | [#1328](https://github.com/recodehive/recode-website/pull/1328) |
+| chore: bump lucide-react from 0.503.0 to 1.8.0 | Medium | [#1327](https://github.com/recodehive/recode-website/pull/1327) |
+| chore: bump react-slot-counter from 3.3.1 to 3.3.3 | Medium | [#1326](https://github.com/recodehive/recode-website/pull/1326) |
+| chore: bump @docusaurus/plugin-content-docs from 3.9.2 to 3.10.0 | Medium | [#1324](https://github.com/recodehive/recode-website/pull/1324) |
+| chore: bump @docusaurus/preset-classic from 3.9.1 to 3.10.0 | Medium | [#1323](https://github.com/recodehive/recode-website/pull/1323) |
+| 🐞[Bug]: Email should triggered on query | Medium | [#393](https://github.com/recodehive/recode-website/issues/393) |
 | Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
+| [Feature]: Change to community page | Hard | [#339](https://github.com/recodehive/recode-website/issues/339) |
 
 ---
 
@@ -1567,6 +1546,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| fix: increase navbar title font size to improve visibility (closes #114) | Medium | [#121](https://github.com/ajaynegi45/Old-School-Game/pull/121) |
 | feat: Implement new 'Brain Train' UI redesign with pure CSS | Medium | [#119](https://github.com/ajaynegi45/Old-School-Game/pull/119) |
 | <Word Ladder> | Medium | [#117](https://github.com/ajaynegi45/Old-School-Game/issues/117) |
 | Homepage title text looks too small | Medium | [#114](https://github.com/ajaynegi45/Old-School-Game/issues/114) |
@@ -2102,6 +2082,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| README file | Medium | [#230](https://github.com/Varshitha713/first-contrib-placement/issues/230) |
 | Would like to make this website responsive | Medium | [#229](https://github.com/Varshitha713/first-contrib-placement/issues/229) |
 | Add interactive Resume Tips and Company Resume Samples sections | Medium | [#227](https://github.com/Varshitha713/first-contrib-placement/pull/227) |
 | Footer Redesign for first-contrib-placement | Medium | [#226](https://github.com/Varshitha713/first-contrib-placement/pull/226) |
@@ -2396,10 +2377,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix invalid opacity value in contributor card hover | Medium | [#1519](https://github.com/Rakesh9100/Beautiify/pull/1519) |
-| <FAQs section> | Medium | [#1518](https://github.com/Rakesh9100/Beautiify/issues/1518) |
-| Implement Login & Signup System with Modern and User-Friendly UI | Medium | [#1517](https://github.com/Rakesh9100/Beautiify/issues/1517) |
-| Fix The Allignment Of The Content Of The Footer | Medium | [#1516](https://github.com/Rakesh9100/Beautiify/issues/1516) |
 | Add Checkboxes Category and several Components | Medium | [#1070](https://github.com/Rakesh9100/Beautiify/issues/1070) |
 
 ---
@@ -2563,11 +2540,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Issue: Fix Hamburger Menu Overlap & Homepage Visibility on Small Screens | Medium | [#16](https://github.com/imshashi365/IPURanker/issues/16) |
 | bug | Medium | [#15](https://github.com/imshashi365/IPURanker/issues/15) |
 | I will create the readme file | Medium | [#13](https://github.com/imshashi365/IPURanker/issues/13) |
-| Create a sample env file for development process | Medium | [#12](https://github.com/imshashi365/IPURanker/issues/12) |
 | PDF Result Card Generation & Downloadable Certificates | Medium | [#10](https://github.com/imshashi365/IPURanker/issues/10) |
-| Implement a real time news instead of nothing | Medium | [#6](https://github.com/imshashi365/IPURanker/issues/6) |
-| Create a beautiful readme for this project | Medium | [#4](https://github.com/imshashi365/IPURanker/issues/4) |
-| Implement a dark mode toggle | Medium | [#3](https://github.com/imshashi365/IPURanker/issues/3) |
 | 📝 Pull Request: Add Code of Conduct for IPURanker | GSSoC’25 | Medium | [#2](https://github.com/imshashi365/IPURanker/pull/2) |
 
 ---
