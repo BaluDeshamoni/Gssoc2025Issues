@@ -51,6 +51,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump the npm_and_yarn group across 2 directories with 1 update | Medium | [#751](https://github.com/abhisek2004/Dev-Elevate/pull/751) |
 | Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
@@ -831,11 +832,11 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Enhance Register/Login UI and Improve Navbar for Student & Teacher Pages | Medium | [#13](https://github.com/sailaja-adapa/GuruShish/issues/13) |
 | Redesign landing page with minimalistic UI and Framer Motion animations | Medium | [#12](https://github.com/sailaja-adapa/GuruShish/pull/12) |
 | Enhancing the login page like the register page has | Medium | [#11](https://github.com/sailaja-adapa/GuruShish/issues/11) |
-| Add a dark theme option to improve the user experience, especially for browsing in low-light or nighttime conditions. | Medium | [#10](https://github.com/sailaja-adapa/GuruShish/issues/10) |
 | Feature: Addition of AI tutor | Medium | [#9](https://github.com/sailaja-adapa/GuruShish/issues/9) |
 | UI Enhancement : Student Page | Medium | [#7](https://github.com/sailaja-adapa/GuruShish/issues/7) |
 | UI enhancement: Landing Page | Medium | [#5](https://github.com/sailaja-adapa/GuruShish/issues/5) |
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
+| Glassy Navbar Contribution | Medium | [#3](https://github.com/sailaja-adapa/GuruShish/issues/3) |
 
 ---
 
