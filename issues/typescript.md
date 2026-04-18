@@ -41,9 +41,8 @@
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
 | course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
-| Template | Medium | [#253](https://github.com/iaadillatif/techxninjas-client/pull/253) |
-| Performance | Medium | [#252](https://github.com/iaadillatif/techxninjas-client/pull/252) |
-| Added documentation | Medium | [#251](https://github.com/iaadillatif/techxninjas-client/pull/251) |
+| Add search button to Events page for better UX (Issue #243) | Medium | [#249](https://github.com/iaadillatif/techxninjas-client/pull/249) |
+| fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
 
 ---
 
@@ -69,8 +68,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump the npm_and_yarn group across 2 directories with 6 updates | Medium | [#749](https://github.com/abhisek2004/Dev-Elevate/pull/749) |
-| Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
+| Bump dompurify from 3.3.3 to 3.4.0 in /DevElevate/Client in the npm_and_yarn group across 1 directory | Medium | [#752](https://github.com/abhisek2004/Dev-Elevate/pull/752) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -94,17 +92,22 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: add local testing steps to NestBot development guide | Easy | [#4440](https://github.com/OWASP/Nest/pull/4440) |
-| Add /infrastructure @rudransh-shrivastava as a code owner. | Medium | [#4513](https://github.com/OWASP/Nest/pull/4513) |
-| added HealthCheck container to ECS Tasks | Medium | [#4512](https://github.com/OWASP/Nest/pull/4512) |
+| Populate version tags in comments for SHA-pinned GitHub Actions | Easy | [#4542](https://github.com/OWASP/Nest/issues/4542) |
+| fix: add actionable links to Ways to Engage cards on Community page | Medium | [#4559](https://github.com/OWASP/Nest/pull/4559) |
+| `icon!` assertion is unnecessary | Medium | [#4557](https://github.com/OWASP/Nest/issues/4557) |
+| Add Semantic Caching and CrewAI Config | Medium | [#4548](https://github.com/OWASP/Nest/pull/4548) |
+| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4545](https://github.com/OWASP/Nest/pull/4545) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4544](https://github.com/OWASP/Nest/pull/4544) |
+| Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
+| Add poetry as pre requisite | Medium | [#4536](https://github.com/OWASP/Nest/issues/4536) |
+| Make run throws errors and exits nest backend | Medium | [#4535](https://github.com/OWASP/Nest/issues/4535) |
+| /bin/bash breaks on NIXOS | Medium | [#4534](https://github.com/OWASP/Nest/issues/4534) |
+| Feat: Implement Sponsors Program Support | Medium | [#4525](https://github.com/OWASP/Nest/pull/4525) |
+| Implement Sponsors Program Support | Medium | [#4520](https://github.com/OWASP/Nest/pull/4520) |
+| Refactored CardDetailsPage into smaller components | Medium | [#4519](https://github.com/OWASP/Nest/pull/4519) |
 | Added sponsor support | Medium | [#4511](https://github.com/OWASP/Nest/pull/4511) |
-| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4509](https://github.com/OWASP/Nest/pull/4509) |
-| fix/Loader to follow OWASP branding Guidelines | Medium | [#4508](https://github.com/OWASP/Nest/pull/4508) |
-| Fix Sonar `typescript:S4123`: `Updated capturedSetStatus` type to return a Promise, allowing proper use of await. | Medium | [#4507](https://github.com/OWASP/Nest/issues/4507) |
-| Improve frontend README documentation | Medium | [#4503](https://github.com/OWASP/Nest/issues/4503) |
 | Projects page: Add the number of open issues, open PRs and last-updated-date to the project details 'card' | Medium | [#4480](https://github.com/OWASP/Nest/issues/4480) |
 | Projects page: Add a separate filter for Project Level | Medium | [#4479](https://github.com/OWASP/Nest/issues/4479) |
-| chore(deps-dev): bump typescript from 5.9.3 to 6.0.2 in /frontend | Medium | [#4466](https://github.com/OWASP/Nest/pull/4466) |
 | Switch GitHub Actions runners from ubuntu-latest to Blacksmith for faster CI | Medium | [#4455](https://github.com/OWASP/Nest/issues/4455) |
 | feat(notifications): add EDA-based idempotent processing and DLQ for chapter/event updates | Medium | [#4454](https://github.com/OWASP/Nest/pull/4454) |
 | fix(api-keys): prevent same-day expiry rejection by sending end-of-day UTC | Medium | [#4447](https://github.com/OWASP/Nest/pull/4447) |
@@ -114,9 +117,6 @@ Accessibility features like dark mode,white.
 | Implement Structured Skeletons and Fix Responsive Map Overflows | Medium | [#4439](https://github.com/OWASP/Nest/issues/4439) |
 | bug : Standardize Design Tokens and Resolve Navigation Accessibility Gaps | Medium | [#4436](https://github.com/OWASP/Nest/issues/4436) |
 | feat(a11y): Add skip-to-main-content link for keyboard accessibility (WCAG 2.4.1) | Medium | [#4435](https://github.com/OWASP/Nest/issues/4435) |
-| feat(frontend): bump @heroui/react from 2.8.10 to 3.0.1 and fix failing tests | Medium | [#4434](https://github.com/OWASP/Nest/pull/4434) |
-| feat: add Playwright smoke test for board candidates page | Medium | [#4424](https://github.com/OWASP/Nest/pull/4424) |
-| Mobile Navigation Menu lacks backdrop overlay and body scroll lock | Medium | [#4423](https://github.com/OWASP/Nest/issues/4423) |
 
 ---
 
@@ -136,7 +136,6 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Add Quick Add Habit Button on Home Page | Medium | [#167](https://github.com/BaraniVA/Habitheat/issues/167) |
 | OAuth via google failed | Medium | [#166](https://github.com/BaraniVA/Habitheat/issues/166) |
-| Add a proper issue template folder in the .github | Medium | [#165](https://github.com/BaraniVA/Habitheat/issues/165) |
 | Update README.md file | Medium | [#163](https://github.com/BaraniVA/Habitheat/issues/163) |
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#162](https://github.com/BaraniVA/Habitheat/issues/162) |
 | Docs : Added Table of contents with Toggle Button in README | Medium | [#160](https://github.com/BaraniVA/Habitheat/pull/160) |
@@ -441,11 +440,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Enhance Register/Login UI and Improve Navbar for Student & Teacher Pages | Medium | [#13](https://github.com/sailaja-adapa/GuruShish/issues/13) |
 | Redesign landing page with minimalistic UI and Framer Motion animations | Medium | [#12](https://github.com/sailaja-adapa/GuruShish/pull/12) |
 | Enhancing the login page like the register page has | Medium | [#11](https://github.com/sailaja-adapa/GuruShish/issues/11) |
-| Add a dark theme option to improve the user experience, especially for browsing in low-light or nighttime conditions. | Medium | [#10](https://github.com/sailaja-adapa/GuruShish/issues/10) |
 | Feature: Addition of AI tutor | Medium | [#9](https://github.com/sailaja-adapa/GuruShish/issues/9) |
 | UI Enhancement : Student Page | Medium | [#7](https://github.com/sailaja-adapa/GuruShish/issues/7) |
 | UI enhancement: Landing Page | Medium | [#5](https://github.com/sailaja-adapa/GuruShish/issues/5) |
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
+| Glassy Navbar Contribution | Medium | [#3](https://github.com/sailaja-adapa/GuruShish/issues/3) |
 
 ---
 
@@ -617,8 +616,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Go To Top Button | Medium | [#110](https://github.com/yashvikram30/legalease/issues/110) |
 | Resources, and Company Links Unresponsive/Incorrectly Redirecte | Medium | [#108](https://github.com/yashvikram30/legalease/issues/108) |
 | Fix Response Handling & Add Input Validation | Medium | [#107](https://github.com/yashvikram30/legalease/issues/107) |
-| feat: add route-keyed page transitions with Framer Motion | Medium | [#100](https://github.com/yashvikram30/legalease/pull/100) |
-| Implement Route-Keyed Page Transitions with Framer Motion | Medium | [#99](https://github.com/yashvikram30/legalease/issues/99) |
 | Made the footer links functionable | Medium | [#90](https://github.com/yashvikram30/legalease/pull/90) |
 | AI-Powered Case Outcome Predictor | Medium | [#80](https://github.com/yashvikram30/legalease/issues/80) |
 | New Landing page and fixed dark mode toggle | Medium | [#74](https://github.com/yashvikram30/legalease/pull/74) |
@@ -644,15 +641,17 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: Migrate all client fetch calls to fetchWithAuth — prevent silent 401 failures | Easy | [#150](https://github.com/LarytheLord/Adventurers-Guild/issues/150) |
-| feat: Achievement System — Milestone Badges and Unlock Notifications | Easy | [#149](https://github.com/LarytheLord/Adventurers-Guild/issues/149) |
-| feat: Quest Board Filters — Track, Difficulty, Category, and Search | Easy | [#138](https://github.com/LarytheLord/Adventurers-Guild/issues/138) |
+| Enhance the faq section | Easy | [#171](https://github.com/LarytheLord/Adventurers-Guild/issues/171) |
+| How It Works Section | Easy | [#170](https://github.com/LarytheLord/Adventurers-Guild/issues/170) |
+| feat: OG image for Guild Card — LinkedIn/X share preview | Easy | [#169](https://github.com/LarytheLord/Adventurers-Guild/issues/169) |
+| fix: Admin bypasses bootcamp tutorial requirement when testing | Easy | [#168](https://github.com/LarytheLord/Adventurers-Guild/issues/168) |
+| feat: Guild Card — username required at registration + profile share flow | Easy | [#166](https://github.com/LarytheLord/Adventurers-Guild/issues/166) |
+| feat: Completed Quests page — /dashboard/completed-quests | Easy | [#164](https://github.com/LarytheLord/Adventurers-Guild/issues/164) |
 | feat: Party Panel UI — Squad Display on Quest Detail Page | Easy | [#137](https://github.com/LarytheLord/Adventurers-Guild/issues/137) |
 | feat: Quest Streak System — Daily/Weekly XP Multiplier for Retention | Easy | [#136](https://github.com/LarytheLord/Adventurers-Guild/issues/136) |
 | feat: Stripe Connect — Adventurer payout onboarding and PaymentIntent flow | Easy | [#106](https://github.com/LarytheLord/Adventurers-Guild/issues/106) |
-| feat: Activity Logging System — Track All User Actions with Points #147 | Medium | [#153](https://github.com/LarytheLord/Adventurers-Guild/pull/153) |
-| add quest workflow event trail | Medium | [#152](https://github.com/LarytheLord/Adventurers-Guild/pull/152) |
-| feat: Activity Logging System — Track All User Actions with Points | Medium | [#147](https://github.com/LarytheLord/Adventurers-Guild/issues/147) |
+| refactor: Refactor quests api to service layer pattern | Medium | [#175](https://github.com/LarytheLord/Adventurers-Guild/pull/175) |
+| fix: Streak fields never update on quest completion | Medium | [#165](https://github.com/LarytheLord/Adventurers-Guild/issues/165) |
 | arch: Bootcamp Pipeline End-to-End Test — Dry Run with 5 Students | Medium | [#142](https://github.com/LarytheLord/Adventurers-Guild/issues/142) |
 | feat: Admin Analytics Dashboard — DAU, Quest Metrics, Rank Distribution | Medium | [#135](https://github.com/LarytheLord/Adventurers-Guild/issues/135) |
 | feat: Squad-Aware Quest Board UI — party slots, join flow, and squad filtering | Medium | [#111](https://github.com/LarytheLord/Adventurers-Guild/issues/111) |
@@ -678,6 +677,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| fix: increase navbar title font size to improve visibility (closes #114) | Medium | [#121](https://github.com/ajaynegi45/Old-School-Game/pull/121) |
 | feat: Implement new 'Brain Train' UI redesign with pure CSS | Medium | [#119](https://github.com/ajaynegi45/Old-School-Game/pull/119) |
 | <Word Ladder> | Medium | [#117](https://github.com/ajaynegi45/Old-School-Game/issues/117) |
 | Homepage title text looks too small | Medium | [#114](https://github.com/ajaynegi45/Old-School-Game/issues/114) |
@@ -1263,7 +1263,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Incorrect arguments parsing in CLI commands | Medium | [#140](https://github.com/subhadeeproy3902/mvpblocks/issues/140) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
