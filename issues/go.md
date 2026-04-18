@@ -22,7 +22,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
+| Bump dompurify from 3.3.3 to 3.4.0 in /DevElevate/Client in the npm_and_yarn group across 1 directory | Medium | [#752](https://github.com/abhisek2004/Dev-Elevate/pull/752) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -194,11 +194,11 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Populate version tags in comments for SHA-pinned GitHub Actions | Easy | [#4542](https://github.com/OWASP/Nest/issues/4542) |
+| fix: add actionable links to Ways to Engage cards on Community page | Medium | [#4559](https://github.com/OWASP/Nest/pull/4559) |
+| `icon!` assertion is unnecessary | Medium | [#4557](https://github.com/OWASP/Nest/issues/4557) |
 | Add Semantic Caching and CrewAI Config | Medium | [#4548](https://github.com/OWASP/Nest/pull/4548) |
-| Add actionable links to Ways to Engage cards on Community page | Medium | [#4546](https://github.com/OWASP/Nest/issues/4546) |
 | chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4545](https://github.com/OWASP/Nest/pull/4545) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4544](https://github.com/OWASP/Nest/pull/4544) |
-| Remove redundant assert detector is not None check | Medium | [#4543](https://github.com/OWASP/Nest/issues/4543) |
 | Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
 | Add poetry as pre requisite | Medium | [#4536](https://github.com/OWASP/Nest/issues/4536) |
 | Make run throws errors and exits nest backend | Medium | [#4535](https://github.com/OWASP/Nest/issues/4535) |
@@ -218,7 +218,6 @@ Accessibility features like dark mode,white.
 | Implement Structured Skeletons and Fix Responsive Map Overflows | Medium | [#4439](https://github.com/OWASP/Nest/issues/4439) |
 | bug : Standardize Design Tokens and Resolve Navigation Accessibility Gaps | Medium | [#4436](https://github.com/OWASP/Nest/issues/4436) |
 | feat(a11y): Add skip-to-main-content link for keyboard accessibility (WCAG 2.4.1) | Medium | [#4435](https://github.com/OWASP/Nest/issues/4435) |
-| feat(frontend): bump @heroui/react from 2.8.10 to 3.0.1 and fix failing tests | Medium | [#4434](https://github.com/OWASP/Nest/pull/4434) |
 
 ---
 
@@ -420,6 +419,8 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#321](https://github.com/Devasy/splitwiser/pull/321) |
+| enhance: Add global Toast notification system for mobile | Medium | [#320](https://github.com/Devasy/splitwiser/pull/320) |
 | enhance: Add error boundary with retry mechanism for mobile app | Medium | [#319](https://github.com/Devasy/splitwiser/pull/319) |
 | style: Consistent hover/focus states across all buttons | Medium | [#318](https://github.com/Devasy/splitwiser/pull/318) |
 | style: Consistent hover/focus states across all buttons | Medium | [#317](https://github.com/Devasy/splitwiser/pull/317) |
@@ -448,8 +449,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | ux: Add skeleton loading to mobile HomeScreen | Medium | [#293](https://github.com/Devasy/splitwiser/pull/293) |
 | ux: Complete skeleton loading system for Friends page | Medium | [#292](https://github.com/Devasy/splitwiser/pull/292) |
 | Mobile Home Screen Skeleton Loading | Medium | [#291](https://github.com/Devasy/splitwiser/pull/291) |
-| enhance: Add skeleton loading for mobile home screen | Medium | [#290](https://github.com/Devasy/splitwiser/pull/290) |
-| Implement lazy loading and code splitting for routes | Medium | [#289](https://github.com/Devasy/splitwiser/pull/289) |
 
 ---
 
