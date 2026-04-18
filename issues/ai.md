@@ -97,7 +97,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add centralized backend API error handling with consistent JSON responses | Medium | [#744](https://github.com/abhisek2004/Dev-Elevate/issues/744) |
+| Bump dompurify from 3.3.3 to 3.4.0 in /DevElevate/Client in the npm_and_yarn group across 1 directory | Medium | [#752](https://github.com/abhisek2004/Dev-Elevate/pull/752) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -248,11 +248,11 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Populate version tags in comments for SHA-pinned GitHub Actions | Easy | [#4542](https://github.com/OWASP/Nest/issues/4542) |
+| fix: add actionable links to Ways to Engage cards on Community page | Medium | [#4559](https://github.com/OWASP/Nest/pull/4559) |
+| `icon!` assertion is unnecessary | Medium | [#4557](https://github.com/OWASP/Nest/issues/4557) |
 | Add Semantic Caching and CrewAI Config | Medium | [#4548](https://github.com/OWASP/Nest/pull/4548) |
-| Add actionable links to Ways to Engage cards on Community page | Medium | [#4546](https://github.com/OWASP/Nest/issues/4546) |
 | chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4545](https://github.com/OWASP/Nest/pull/4545) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4544](https://github.com/OWASP/Nest/pull/4544) |
-| Remove redundant assert detector is not None check | Medium | [#4543](https://github.com/OWASP/Nest/issues/4543) |
 | Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
 | Add poetry as pre requisite | Medium | [#4536](https://github.com/OWASP/Nest/issues/4536) |
 | Make run throws errors and exits nest backend | Medium | [#4535](https://github.com/OWASP/Nest/issues/4535) |
@@ -272,7 +272,6 @@ Accessibility features like dark mode,white.
 | Implement Structured Skeletons and Fix Responsive Map Overflows | Medium | [#4439](https://github.com/OWASP/Nest/issues/4439) |
 | bug : Standardize Design Tokens and Resolve Navigation Accessibility Gaps | Medium | [#4436](https://github.com/OWASP/Nest/issues/4436) |
 | feat(a11y): Add skip-to-main-content link for keyboard accessibility (WCAG 2.4.1) | Medium | [#4435](https://github.com/OWASP/Nest/issues/4435) |
-| feat(frontend): bump @heroui/react from 2.8.10 to 3.0.1 and fix failing tests | Medium | [#4434](https://github.com/OWASP/Nest/pull/4434) |
 
 ---
 
@@ -555,11 +554,8 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Revert "Revert "Fix deployment step ID in GitHub Actions workflow"" | Medium | [#708](https://github.com/Dipanita45/HEALCONNECT/pull/708) |
 | Refactor: Move Authorization Logic to Declarative RBAC Middleware | Medium | [#690](https://github.com/Dipanita45/HEALCONNECT/issues/690) |
 | Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
-| Bug: Rate Limiting Fails in Serverless Environment Due to In-Memory Storage | Medium | [#686](https://github.com/Dipanita45/HEALCONNECT/issues/686) |
-| Standardize Next.js API middleware across all routes | Medium | [#666](https://github.com/Dipanita45/HEALCONNECT/issues/666) |
 
 ---
 
@@ -1157,11 +1153,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Enhance Register/Login UI and Improve Navbar for Student & Teacher Pages | Medium | [#13](https://github.com/sailaja-adapa/GuruShish/issues/13) |
 | Redesign landing page with minimalistic UI and Framer Motion animations | Medium | [#12](https://github.com/sailaja-adapa/GuruShish/pull/12) |
 | Enhancing the login page like the register page has | Medium | [#11](https://github.com/sailaja-adapa/GuruShish/issues/11) |
-| Add a dark theme option to improve the user experience, especially for browsing in low-light or nighttime conditions. | Medium | [#10](https://github.com/sailaja-adapa/GuruShish/issues/10) |
 | Feature: Addition of AI tutor | Medium | [#9](https://github.com/sailaja-adapa/GuruShish/issues/9) |
 | UI Enhancement : Student Page | Medium | [#7](https://github.com/sailaja-adapa/GuruShish/issues/7) |
 | UI enhancement: Landing Page | Medium | [#5](https://github.com/sailaja-adapa/GuruShish/issues/5) |
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
+| Glassy Navbar Contribution | Medium | [#3](https://github.com/sailaja-adapa/GuruShish/issues/3) |
 
 ---
 
