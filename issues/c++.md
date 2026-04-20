@@ -14,11 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Revert "Revert "Fix deployment step ID in GitHub Actions workflow"" | Medium | [#708](https://github.com/Dipanita45/HEALCONNECT/pull/708) |
-| Refactor: Move Authorization Logic to Declarative RBAC Middleware | Medium | [#690](https://github.com/Dipanita45/HEALCONNECT/issues/690) |
 | Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
-| Bug: Rate Limiting Fails in Serverless Environment Due to In-Memory Storage | Medium | [#686](https://github.com/Dipanita45/HEALCONNECT/issues/686) |
-| Standardize Next.js API middleware across all routes | Medium | [#666](https://github.com/Dipanita45/HEALCONNECT/issues/666) |
 
 ---
 
@@ -56,13 +52,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(graph): Update getEdge method's return type. | Easy | [#206](https://github.com/SharonIV0x86/CinderPeak/issues/206) |
+| feat(logging): Add logging in CinderGraph class. | Easy | [#219](https://github.com/SharonIV0x86/CinderPeak/issues/219) |
+| feat(logs): Add dbg() Utility for Generic Debug Logging (C++17) | Easy | [#205](https://github.com/SharonIV0x86/CinderPeak/issues/205) |
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
-| chore(logging): Deprecate and fully remove setConsoleLoggin method | Medium | [#207](https://github.com/SharonIV0x86/CinderPeak/issues/207) |
-| feat: implement comprehensive logging for AdjacencyList storage (#203) | Medium | [#204](https://github.com/SharonIV0x86/CinderPeak/pull/204) |
-| fix: unresolved logger variables and batch script logicUpdate LogExample and tweak auto-format script | Medium | [#200](https://github.com/SharonIV0x86/CinderPeak/pull/200) |
-| refactor(adjacency-storage): replace LOG_ macro with policy handler logging | Medium | [#193](https://github.com/SharonIV0x86/CinderPeak/pull/193) |
+| feat: add logging to CinderGraph class functions | Medium | [#220](https://github.com/SharonIV0x86/CinderPeak/pull/220) |
+| The "Essential" Feature: Graph Serialization & I/O Module | Medium | [#199](https://github.com/SharonIV0x86/CinderPeak/issues/199) |
+| feat: Add core graph algorithm implementations (Dijkstra, MST, Topological Sort, etc.) | Medium | [#197](https://github.com/SharonIV0x86/CinderPeak/issues/197) |
+| feat(storage): Add Graph Serialization / Deserialization Support | Medium | [#170](https://github.com/SharonIV0x86/CinderPeak/issues/170) |
 
 ---
 
