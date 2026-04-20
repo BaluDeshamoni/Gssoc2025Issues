@@ -22,7 +22,6 @@
 | Register improve | Medium | [#295](https://github.com/Amarjha01/InfantCareCompass/pull/295) |
 | Added AI Chatbot #269 | Medium | [#292](https://github.com/Amarjha01/InfantCareCompass/pull/292) |
 | Responsive Layout Improvements (Navbar, Main Content, Footer) | Medium | [#291](https://github.com/Amarjha01/InfantCareCompass/pull/291) |
-| heading improvements | Medium | [#276](https://github.com/Amarjha01/InfantCareCompass/pull/276) |
 
 ---
 
@@ -40,6 +39,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add biometric authentication option (FaceID/TouchID) | Medium | [#322](https://github.com/Devasy/splitwiser/pull/322) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#321](https://github.com/Devasy/splitwiser/pull/321) |
 | enhance: Add global Toast notification system for mobile | Medium | [#320](https://github.com/Devasy/splitwiser/pull/320) |
 | enhance: Add error boundary with retry mechanism for mobile app | Medium | [#319](https://github.com/Devasy/splitwiser/pull/319) |
@@ -69,7 +69,6 @@
 | Add skeleton loading to HomeScreen | Medium | [#294](https://github.com/Devasy/splitwiser/pull/294) |
 | ux: Add skeleton loading to mobile HomeScreen | Medium | [#293](https://github.com/Devasy/splitwiser/pull/293) |
 | ux: Complete skeleton loading system for Friends page | Medium | [#292](https://github.com/Devasy/splitwiser/pull/292) |
-| Mobile Home Screen Skeleton Loading | Medium | [#291](https://github.com/Devasy/splitwiser/pull/291) |
 
 ---
 
