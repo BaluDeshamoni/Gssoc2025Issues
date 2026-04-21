@@ -738,6 +738,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix: Issue #1665 - Resolve broken images & restore dashboard charts | Medium | [#1707](https://github.com/omroy07/AgriTech/pull/1707) |
 | fix: Remove redundant offline/online alert popups from production | Medium | [#1706](https://github.com/omroy07/AgriTech/pull/1706) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | Livestock Management System | Medium | [#1682](https://github.com/omroy07/AgriTech/pull/1682) |
@@ -1090,8 +1091,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| style: enhance FAQ and testimonial components with improved layout and styling | Easy | [#1330](https://github.com/recodehive/recode-website/pull/1330) |
 | [Feature]: Use Dynamic mappinf for discussions section . | Easy | [#1312](https://github.com/recodehive/recode-website/issues/1312) |
-| UI Inconsistencies in Testimonials and FAQs Pages | Easy | [#1287](https://github.com/recodehive/recode-website/issues/1287) |
 | 🐞[Bug]: Mobile header has unnecessary top whitespace (<768px) | Easy | [#1286](https://github.com/recodehive/recode-website/issues/1286) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
