@@ -99,16 +99,12 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Fixes #74: add validation annotations to DTOs to prevent invalid data submission | Medium | [#80](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/80) |
-| Fixes #72 : add pull request template for contribution guidelines | Medium | [#79](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/79) |
-| Fixes #61 : add system architecture section to README | Medium | [#78](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/78) |
-| Fixes #68 : add table of contents to README for improved navigation | Medium | [#77](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/77) |
 | Add Structured Logging to Service Layer for Better Observability | Medium | [#75](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/75) |
 | Add Validation Annotations to DTOs to Prevent Invalid Data Submission | Medium | [#74](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/74) |
 | Implement role-based access control (Admin, Doctor, Patient) for API endpoints #64 | Medium | [#73](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/73) |
 | Implement Pull Request Template for Backend Quality Assurance | Medium | [#72](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/72) |
 | Add Structured Issue Templates for Backend & API Support | Medium | [#71](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/71) |
 | README Overhaul — Add System Architecture & API Visualizer | Medium | [#70](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/70) |
-| docs: update README with API details and project structure. | Medium | [#69](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/69) |
 | Add table of content for better navigation in Readme.md | Medium | [#68](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/68) |
 | Add Form Validation and User-Friendly Error Messages to Patient & Appointment Forms | Medium | [#67](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/issues/67) |
 | Add smart appointment slot suggestion feature | Medium | [#66](https://github.com/aashut0xhkr/MediMate-Your-Digital-Hospital-Management-System/pull/66) |
@@ -135,6 +131,7 @@
 |----------|----------------|---------|
 | Event Analytics Dashboard (Organizer View) | Easy | [#799](https://github.com/SandeepVashishtha/Eventra/issues/799) |
 | Feature Enhancement: Add Chatbot to Eventra Platform | Easy | [#702](https://github.com/SandeepVashishtha/Eventra/issues/702) |
+| Jhalak | Medium | [#826](https://github.com/SandeepVashishtha/Eventra/pull/826) |
 | Filter section is inconsistent in dark mode; some text not visible | Medium | [#599](https://github.com/SandeepVashishtha/Eventra/issues/599) |
 | Enhance UI of “Create your first event” section | Medium | [#410](https://github.com/SandeepVashishtha/Eventra/issues/410) |
 
