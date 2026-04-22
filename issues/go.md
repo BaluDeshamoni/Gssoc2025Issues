@@ -194,6 +194,9 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/infrastructure docs autogen | Easy | [#4562](https://github.com/OWASP/Nest/pull/4562) |
+| Using an optional chain expression instead of redundant && checks. | Medium | [#4574](https://github.com/OWASP/Nest/pull/4574) |
+| fix import in multiple test files | Medium | [#4571](https://github.com/OWASP/Nest/issues/4571) |
+| Limit releases to only show most recent ones | Medium | [#4570](https://github.com/OWASP/Nest/pull/4570) |
 | Updated dependancies to fix security vulnerabilities | Medium | [#4569](https://github.com/OWASP/Nest/pull/4569) |
 | Mobile responsiveness broken on Issues page | Medium | [#4568](https://github.com/OWASP/Nest/issues/4568) |
 | Detect whether signed in github user has starred Nest repo or not | Medium | [#4566](https://github.com/OWASP/Nest/issues/4566) |
@@ -211,10 +214,6 @@ Accessibility features like dark mode,white.
 | Refactored CardDetailsPage into smaller components | Medium | [#4519](https://github.com/OWASP/Nest/pull/4519) |
 | Added sponsor support | Medium | [#4511](https://github.com/OWASP/Nest/pull/4511) |
 | Projects page: Add the number of open issues, open PRs and last-updated-date to the project details 'card' | Medium | [#4480](https://github.com/OWASP/Nest/issues/4480) |
-| Projects page: Add a separate filter for Project Level | Medium | [#4479](https://github.com/OWASP/Nest/issues/4479) |
-| Switch GitHub Actions runners from ubuntu-latest to Blacksmith for faster CI | Medium | [#4455](https://github.com/OWASP/Nest/issues/4455) |
-| feat(notifications): add EDA-based idempotent processing and DLQ for chapter/event updates | Medium | [#4454](https://github.com/OWASP/Nest/pull/4454) |
-| fix(api-keys): prevent same-day expiry rejection by sending end-of-day UTC | Medium | [#4447](https://github.com/OWASP/Nest/pull/4447) |
 
 ---
 
@@ -1066,7 +1065,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix React Server Components CVE vulnerabilities | Medium | [#43](https://github.com/singodiyashubham87/bodhika/pull/43) |
 | Add Computer Networks to Learning Roadmaps | Medium | [#41](https://github.com/singodiyashubham87/bodhika/issues/41) |
 | Implement Dark/Light Mode Toggle | Medium | [#37](https://github.com/singodiyashubham87/bodhika/issues/37) |
 | Enhance Roadmap Section with Visual Layout, Progress Tracking & Interactive Elements | Medium | [#35](https://github.com/singodiyashubham87/bodhika/issues/35) |
