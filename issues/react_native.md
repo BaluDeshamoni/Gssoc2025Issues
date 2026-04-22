@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add biometric authentication option (FaceID/TouchID) | Medium | [#322](https://github.com/Devasy/splitwiser/pull/322) |
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#321](https://github.com/Devasy/splitwiser/pull/321) |
+| enhance: Add global Toast notification system for mobile | Medium | [#320](https://github.com/Devasy/splitwiser/pull/320) |
 | enhance: Add error boundary with retry mechanism for mobile app | Medium | [#319](https://github.com/Devasy/splitwiser/pull/319) |
 | style: Consistent hover/focus states across all buttons | Medium | [#318](https://github.com/Devasy/splitwiser/pull/318) |
 | style: Consistent hover/focus states across all buttons | Medium | [#317](https://github.com/Devasy/splitwiser/pull/317) |
@@ -41,9 +44,6 @@
 | Add skeleton loading to HomeScreen | Medium | [#294](https://github.com/Devasy/splitwiser/pull/294) |
 | ux: Add skeleton loading to mobile HomeScreen | Medium | [#293](https://github.com/Devasy/splitwiser/pull/293) |
 | ux: Complete skeleton loading system for Friends page | Medium | [#292](https://github.com/Devasy/splitwiser/pull/292) |
-| Mobile Home Screen Skeleton Loading | Medium | [#291](https://github.com/Devasy/splitwiser/pull/291) |
-| enhance: Add skeleton loading for mobile home screen | Medium | [#290](https://github.com/Devasy/splitwiser/pull/290) |
-| Implement lazy loading and code splitting for routes | Medium | [#289](https://github.com/Devasy/splitwiser/pull/289) |
 
 ---
 
@@ -93,12 +93,20 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Quest Board Filters — Track, Difficulty, Category, and Search | Easy | [#138](https://github.com/LarytheLord/Adventurers-Guild/issues/138) |
+| How It Works Section | Easy | [#170](https://github.com/LarytheLord/Adventurers-Guild/issues/170) |
+| feat: OG image for Guild Card — LinkedIn/X share preview | Easy | [#169](https://github.com/LarytheLord/Adventurers-Guild/issues/169) |
+| fix: Admin bypasses bootcamp tutorial requirement when testing | Easy | [#168](https://github.com/LarytheLord/Adventurers-Guild/issues/168) |
+| feat: Guild Card — username required at registration + profile share flow | Easy | [#166](https://github.com/LarytheLord/Adventurers-Guild/issues/166) |
+| feat: Completed Quests page — /dashboard/completed-quests | Easy | [#164](https://github.com/LarytheLord/Adventurers-Guild/issues/164) |
 | feat: Party Panel UI — Squad Display on Quest Detail Page | Easy | [#137](https://github.com/LarytheLord/Adventurers-Guild/issues/137) |
 | feat: Quest Streak System — Daily/Weekly XP Multiplier for Retention | Easy | [#136](https://github.com/LarytheLord/Adventurers-Guild/issues/136) |
-| feat: Stripe Connect — Adventurer payout onboarding and PaymentIntent flow | Easy | [#106](https://github.com/LarytheLord/Adventurers-Guild/issues/106) |
-| add quest workflow event trail | Medium | [#152](https://github.com/LarytheLord/Adventurers-Guild/pull/152) |
-| feat: Activity Logging System — Track All User Actions with Points | Medium | [#147](https://github.com/LarytheLord/Adventurers-Guild/issues/147) |
+| How It Works Section | Medium | [#183](https://github.com/LarytheLord/Adventurers-Guild/pull/183) |
+| Enhance the faq section | Medium | [#182](https://github.com/LarytheLord/Adventurers-Guild/pull/182) |
+| Improve the chatbot | Medium | [#181](https://github.com/LarytheLord/Adventurers-Guild/issues/181) |
+| feat: Razorpay payout onboarding and transfer flow (#106) | Medium | [#180](https://github.com/LarytheLord/Adventurers-Guild/pull/180) |
+| Internal Server Error on Registration | Medium | [#177](https://github.com/LarytheLord/Adventurers-Guild/issues/177) |
+| refactor: Refactor quests api to service layer pattern | Medium | [#175](https://github.com/LarytheLord/Adventurers-Guild/pull/175) |
+| fix: Streak fields never update on quest completion | Medium | [#165](https://github.com/LarytheLord/Adventurers-Guild/issues/165) |
 | arch: Bootcamp Pipeline End-to-End Test — Dry Run with 5 Students | Medium | [#142](https://github.com/LarytheLord/Adventurers-Guild/issues/142) |
 | feat: Admin Analytics Dashboard — DAU, Quest Metrics, Rank Distribution | Medium | [#135](https://github.com/LarytheLord/Adventurers-Guild/issues/135) |
 | feat: Squad-Aware Quest Board UI — party slots, join flow, and squad filtering | Medium | [#111](https://github.com/LarytheLord/Adventurers-Guild/issues/111) |
