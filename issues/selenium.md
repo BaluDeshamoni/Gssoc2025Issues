@@ -18,7 +18,6 @@ This project is perfect for beginners and intermediate contributors who want han
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Cleaned and Preprocessed Text Data with Lemmatization | Medium | [#16](https://github.com/Yash22222/BMC-Product-Reviews-Web-Scrapping-Sentiment-Analysis/pull/16) |
 | There is no link in the license on the readme file | Medium | [#12](https://github.com/Yash22222/BMC-Product-Reviews-Web-Scrapping-Sentiment-Analysis/issues/12) |
 | Export Sentiment Summary as PDF Report | Medium | [#9](https://github.com/Yash22222/BMC-Product-Reviews-Web-Scrapping-Sentiment-Analysis/issues/9) |
 
