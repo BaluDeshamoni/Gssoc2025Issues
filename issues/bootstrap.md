@@ -1,5 +1,23 @@
 # 🚀 Projects using Bootstrap
 
+## 📌 Project: Canvas-Editor
+
+📝 **Description:** This is a simple beginner friendly web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
+
+🔗 [View Project](https://github.com/vishanurag/Canvas-Editor/)
+
+💻 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Complete README overhaul with modern UI/UX and visual hierarchy | Medium | [#1375](https://github.com/vishanurag/Canvas-Editor/pull/1375) |
+
+---
+
 ## 📌 Project: GrowCraft
 
 📝 **Description:** GrowCraft is a service-based web platform that offers digital solutions to businesses while providing training and internship opportunities to students. The platform features services like Website Development, Graphic Design, Content Writing, Social Media Management, and Digital Marketing.
