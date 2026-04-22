@@ -56,6 +56,7 @@
 | feat(logs): Add dbg() Utility for Generic Debug Logging (C++17) | Easy | [#205](https://github.com/SharonIV0x86/CinderPeak/issues/205) |
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
+| Update logging levels and flow in CinderGraph | Medium | [#224](https://github.com/SharonIV0x86/CinderPeak/pull/224) |
 | feat: Update source code folder structure | Medium | [#223](https://github.com/SharonIV0x86/CinderPeak/pull/223) |
 | The "Essential" Feature: Graph Serialization & I/O Module | Medium | [#199](https://github.com/SharonIV0x86/CinderPeak/issues/199) |
 | feat: Add core graph algorithm implementations (Dijkstra, MST, Topological Sort, etc.) | Medium | [#197](https://github.com/SharonIV0x86/CinderPeak/issues/197) |
