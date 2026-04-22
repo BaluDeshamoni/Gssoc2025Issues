@@ -89,24 +89,6 @@
 
 ---
 
-## 📌 Project: FailUForward 
-
-📝 **Description:** FailUForward is a community driven platform where users share their biggest failures and the lessons they learned. Using AI, it curates and tags stories, highlights common themes and recommends relatable experiences to help users grow through others’ mistakes. It encourages vulnerability, resilience and real talk like turning failure into fuel. Users mint their failure story as an NFT or anonymous soulbound badge to own their growth journey.
-
-🔗 [View Project](https://github.com/mansiruhil/fail-u-forward)
-
-💻 **Tech Stack:** Next.js, TypeScript, Firebase, Firestore, Firebase Auth, Gemini API
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Fix React Server Components CVE vulnerabilities | Medium | [#283](https://github.com/ruhilmansi/fail-u-forward/pull/283) |
-
----
-
 ## 📌 Project: WallGodds Web
 
 📝 **Description:** WallGodds is a open-source wallpaper platform tailored for individuals who love to personalize their devices. Whether you're looking for the perfect wallpaper for your mobile, tablet, or desktop, or you're a designer wanting to share your creativity with the world, WallGodds has you covered.
