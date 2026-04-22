@@ -15,6 +15,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Removing locals files from .env file | Medium | [#290](https://github.com/iaadillatif/techxninjas-client/pull/290) |
+| Add Claude Code GitHub Workflow | Medium | [#289](https://github.com/iaadillatif/techxninjas-client/issues/289) |
 | Feature Request: Add a Gamified Leaderboard to Ignite Daily Engagement & Community | Medium | [#285](https://github.com/iaadillatif/techxninjas-client/issues/285) |
 | Buttons on Home Page (“Build Projects”, “Free Certificates”, etc.) are not clickable | Medium | [#282](https://github.com/iaadillatif/techxninjas-client/issues/282) |
 | Feature: Secure Notifications Center with RLS and Theming (Closes Issue #31) | Medium | [#281](https://github.com/iaadillatif/techxninjas-client/pull/281) |
@@ -42,7 +43,6 @@
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
 | course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
 | Add search button to Events page for better UX (Issue #243) | Medium | [#249](https://github.com/iaadillatif/techxninjas-client/pull/249) |
-| fix: Add standard 'line-clamp' property for cross-browser compatibility | Medium | [#247](https://github.com/iaadillatif/techxninjas-client/pull/247) |
 
 ---
 
@@ -60,6 +60,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Claude Code GitHub Workflow | Medium | [#92](https://github.com/AdityaRalhan/Aluma/issues/92) |
 | issue create automate message added | Medium | [#91](https://github.com/AdityaRalhan/Aluma/pull/91) |
 | Adding issue template | Medium | [#90](https://github.com/AdityaRalhan/Aluma/issues/90) |
 | Bug: Suggestions Logic & Validation Issues in Assessment Controller | Medium | [#87](https://github.com/AdityaRalhan/Aluma/issues/87) |
@@ -101,8 +102,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Update pollination apis as new doc | Easy | [#126](https://github.com/huamanraj/aitoolbox.software/issues/126) |
-| New Logo | Medium | [#128](https://github.com/huamanraj/aitoolbox.software/pull/128) |
-| Pollination | Medium | [#127](https://github.com/huamanraj/aitoolbox.software/pull/127) |
 
 ---
 
@@ -160,32 +159,27 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Populate version tags in comments for SHA-pinned GitHub Actions | Easy | [#4542](https://github.com/OWASP/Nest/issues/4542) |
+| Feature/infrastructure docs autogen | Easy | [#4562](https://github.com/OWASP/Nest/pull/4562) |
+| Using an optional chain expression instead of redundant && checks. | Medium | [#4574](https://github.com/OWASP/Nest/pull/4574) |
+| fix import in multiple test files | Medium | [#4571](https://github.com/OWASP/Nest/issues/4571) |
+| Limit releases to only show most recent ones | Medium | [#4570](https://github.com/OWASP/Nest/pull/4570) |
+| Updated dependancies to fix security vulnerabilities | Medium | [#4569](https://github.com/OWASP/Nest/pull/4569) |
+| Mobile responsiveness broken on Issues page | Medium | [#4568](https://github.com/OWASP/Nest/issues/4568) |
+| Detect whether signed in github user has starred Nest repo or not | Medium | [#4566](https://github.com/OWASP/Nest/issues/4566) |
+| Resposity name as label or filter to look at issues based on repository | Medium | [#4565](https://github.com/OWASP/Nest/issues/4565) |
+| Incorrect map of India | Medium | [#4564](https://github.com/OWASP/Nest/issues/4564) |
+| fix: add actionable links to Ways to Engage cards on Community page | Medium | [#4559](https://github.com/OWASP/Nest/pull/4559) |
 | Add Semantic Caching and CrewAI Config | Medium | [#4548](https://github.com/OWASP/Nest/pull/4548) |
-| Add actionable links to Ways to Engage cards on Community page | Medium | [#4546](https://github.com/OWASP/Nest/issues/4546) |
 | chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4545](https://github.com/OWASP/Nest/pull/4545) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4544](https://github.com/OWASP/Nest/pull/4544) |
-| Remove redundant assert detector is not None check | Medium | [#4543](https://github.com/OWASP/Nest/issues/4543) |
 | Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
 | Add poetry as pre requisite | Medium | [#4536](https://github.com/OWASP/Nest/issues/4536) |
-| Make run throws errors and exits nest backend | Medium | [#4535](https://github.com/OWASP/Nest/issues/4535) |
 | /bin/bash breaks on NIXOS | Medium | [#4534](https://github.com/OWASP/Nest/issues/4534) |
 | Feat: Implement Sponsors Program Support | Medium | [#4525](https://github.com/OWASP/Nest/pull/4525) |
 | Implement Sponsors Program Support | Medium | [#4520](https://github.com/OWASP/Nest/pull/4520) |
 | Refactored CardDetailsPage into smaller components | Medium | [#4519](https://github.com/OWASP/Nest/pull/4519) |
 | Added sponsor support | Medium | [#4511](https://github.com/OWASP/Nest/pull/4511) |
 | Projects page: Add the number of open issues, open PRs and last-updated-date to the project details 'card' | Medium | [#4480](https://github.com/OWASP/Nest/issues/4480) |
-| Projects page: Add a separate filter for Project Level | Medium | [#4479](https://github.com/OWASP/Nest/issues/4479) |
-| Switch GitHub Actions runners from ubuntu-latest to Blacksmith for faster CI | Medium | [#4455](https://github.com/OWASP/Nest/issues/4455) |
-| feat(notifications): add EDA-based idempotent processing and DLQ for chapter/event updates | Medium | [#4454](https://github.com/OWASP/Nest/pull/4454) |
-| fix(api-keys): prevent same-day expiry rejection by sending end-of-day UTC | Medium | [#4447](https://github.com/OWASP/Nest/pull/4447) |
-| feat: added PR count indicator to issue cards on Contribute and Mentee pages | Medium | [#4446](https://github.com/OWASP/Nest/pull/4446) |
-| Bug: Member profile displays closed PR while merged PRs are missing from pull requests section | Medium | [#4445](https://github.com/OWASP/Nest/issues/4445) |
-| feat: Add PR count and merged PR stats to member profile page | Medium | [#4444](https://github.com/OWASP/Nest/issues/4444) |
-| Implement Structured Skeletons and Fix Responsive Map Overflows | Medium | [#4439](https://github.com/OWASP/Nest/issues/4439) |
-| bug : Standardize Design Tokens and Resolve Navigation Accessibility Gaps | Medium | [#4436](https://github.com/OWASP/Nest/issues/4436) |
-| feat(a11y): Add skip-to-main-content link for keyboard accessibility (WCAG 2.4.1) | Medium | [#4435](https://github.com/OWASP/Nest/issues/4435) |
-| feat(frontend): bump @heroui/react from 2.8.10 to 3.0.1 and fix failing tests | Medium | [#4434](https://github.com/OWASP/Nest/pull/4434) |
 
 ---
 
@@ -226,11 +220,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Revert "Revert "Fix deployment step ID in GitHub Actions workflow"" | Medium | [#708](https://github.com/Dipanita45/HEALCONNECT/pull/708) |
-| Refactor: Move Authorization Logic to Declarative RBAC Middleware | Medium | [#690](https://github.com/Dipanita45/HEALCONNECT/issues/690) |
 | Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
-| Bug: Rate Limiting Fails in Serverless Environment Due to In-Memory Storage | Medium | [#686](https://github.com/Dipanita45/HEALCONNECT/issues/686) |
-| Standardize Next.js API middleware across all routes | Medium | [#666](https://github.com/Dipanita45/HEALCONNECT/issues/666) |
 
 ---
 
@@ -326,6 +316,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix React Server Components CVE vulnerabilities | Medium | [#122](https://github.com/MinavKaria/Notes-Aid/pull/122) |
 | add other sections or tab to add question papers | Medium | [#121](https://github.com/MinavKaria/Notes-Aid/issues/121) |
 | Create AGENTS.md for repository guidelines | Medium | [#117](https://github.com/MinavKaria/Notes-Aid/issues/117) |
 | Addition of pr create automate message | Medium | [#116](https://github.com/MinavKaria/Notes-Aid/issues/116) |
@@ -382,6 +373,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | feat: Add ImportProfile component and update page.tsx (Fixes #23) | Medium | [#330](https://github.com/Muneerali199/Draftdeckai/pull/330) |
 | added the animation of increasing numbers in dashboard | Medium | [#329](https://github.com/Muneerali199/Draftdeckai/pull/329) |
 | chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/Draftdeckai/pull/324) |
+| fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/Draftdeckai/pull/323) |
 
 ---
 
@@ -471,11 +463,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Enhance Register/Login UI and Improve Navbar for Student & Teacher Pages | Medium | [#13](https://github.com/sailaja-adapa/GuruShish/issues/13) |
 | Redesign landing page with minimalistic UI and Framer Motion animations | Medium | [#12](https://github.com/sailaja-adapa/GuruShish/pull/12) |
 | Enhancing the login page like the register page has | Medium | [#11](https://github.com/sailaja-adapa/GuruShish/issues/11) |
-| Add a dark theme option to improve the user experience, especially for browsing in low-light or nighttime conditions. | Medium | [#10](https://github.com/sailaja-adapa/GuruShish/issues/10) |
 | Feature: Addition of AI tutor | Medium | [#9](https://github.com/sailaja-adapa/GuruShish/issues/9) |
 | UI Enhancement : Student Page | Medium | [#7](https://github.com/sailaja-adapa/GuruShish/issues/7) |
 | UI enhancement: Landing Page | Medium | [#5](https://github.com/sailaja-adapa/GuruShish/issues/5) |
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
+| Glassy Navbar Contribution | Medium | [#3](https://github.com/sailaja-adapa/GuruShish/issues/3) |
 
 ---
 
@@ -493,10 +485,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Revamp : Redesign the merge page | Easy | [#1314](https://github.com/recodehive/recode-website/issues/1314) |
-| Redesign the Community home cards | Easy | [#1313](https://github.com/recodehive/recode-website/issues/1313) |
+| style: enhance FAQ and testimonial components with improved layout and styling | Easy | [#1330](https://github.com/recodehive/recode-website/pull/1330) |
 | [Feature]: Use Dynamic mappinf for discussions section . | Easy | [#1312](https://github.com/recodehive/recode-website/issues/1312) |
-| UI Inconsistencies in Testimonials and FAQs Pages | Easy | [#1287](https://github.com/recodehive/recode-website/issues/1287) |
 | 🐞[Bug]: Mobile header has unnecessary top whitespace (<768px) | Easy | [#1286](https://github.com/recodehive/recode-website/issues/1286) |
 | # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
 | 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
@@ -615,7 +605,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix React Server Components CVE vulnerabilities | Medium | [#43](https://github.com/singodiyashubham87/bodhika/pull/43) |
 | Add Computer Networks to Learning Roadmaps | Medium | [#41](https://github.com/singodiyashubham87/bodhika/issues/41) |
 | Implement Dark/Light Mode Toggle | Medium | [#37](https://github.com/singodiyashubham87/bodhika/issues/37) |
 | Enhance Roadmap Section with Visual Layout, Progress Tracking & Interactive Elements | Medium | [#35](https://github.com/singodiyashubham87/bodhika/issues/35) |
@@ -771,12 +760,20 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Quest Board Filters — Track, Difficulty, Category, and Search | Easy | [#138](https://github.com/LarytheLord/Adventurers-Guild/issues/138) |
+| How It Works Section | Easy | [#170](https://github.com/LarytheLord/Adventurers-Guild/issues/170) |
+| feat: OG image for Guild Card — LinkedIn/X share preview | Easy | [#169](https://github.com/LarytheLord/Adventurers-Guild/issues/169) |
+| fix: Admin bypasses bootcamp tutorial requirement when testing | Easy | [#168](https://github.com/LarytheLord/Adventurers-Guild/issues/168) |
+| feat: Guild Card — username required at registration + profile share flow | Easy | [#166](https://github.com/LarytheLord/Adventurers-Guild/issues/166) |
+| feat: Completed Quests page — /dashboard/completed-quests | Easy | [#164](https://github.com/LarytheLord/Adventurers-Guild/issues/164) |
 | feat: Party Panel UI — Squad Display on Quest Detail Page | Easy | [#137](https://github.com/LarytheLord/Adventurers-Guild/issues/137) |
 | feat: Quest Streak System — Daily/Weekly XP Multiplier for Retention | Easy | [#136](https://github.com/LarytheLord/Adventurers-Guild/issues/136) |
-| feat: Stripe Connect — Adventurer payout onboarding and PaymentIntent flow | Easy | [#106](https://github.com/LarytheLord/Adventurers-Guild/issues/106) |
-| add quest workflow event trail | Medium | [#152](https://github.com/LarytheLord/Adventurers-Guild/pull/152) |
-| feat: Activity Logging System — Track All User Actions with Points | Medium | [#147](https://github.com/LarytheLord/Adventurers-Guild/issues/147) |
+| How It Works Section | Medium | [#183](https://github.com/LarytheLord/Adventurers-Guild/pull/183) |
+| Enhance the faq section | Medium | [#182](https://github.com/LarytheLord/Adventurers-Guild/pull/182) |
+| Improve the chatbot | Medium | [#181](https://github.com/LarytheLord/Adventurers-Guild/issues/181) |
+| feat: Razorpay payout onboarding and transfer flow (#106) | Medium | [#180](https://github.com/LarytheLord/Adventurers-Guild/pull/180) |
+| Internal Server Error on Registration | Medium | [#177](https://github.com/LarytheLord/Adventurers-Guild/issues/177) |
+| refactor: Refactor quests api to service layer pattern | Medium | [#175](https://github.com/LarytheLord/Adventurers-Guild/pull/175) |
+| fix: Streak fields never update on quest completion | Medium | [#165](https://github.com/LarytheLord/Adventurers-Guild/issues/165) |
 | arch: Bootcamp Pipeline End-to-End Test — Dry Run with 5 Students | Medium | [#142](https://github.com/LarytheLord/Adventurers-Guild/issues/142) |
 | feat: Admin Analytics Dashboard — DAU, Quest Metrics, Rank Distribution | Medium | [#135](https://github.com/LarytheLord/Adventurers-Guild/issues/135) |
 | feat: Squad-Aware Quest Board UI — party slots, join flow, and squad filtering | Medium | [#111](https://github.com/LarytheLord/Adventurers-Guild/issues/111) |
@@ -1336,6 +1333,24 @@ Thank you! | Medium | [#46](https://github.com/ThePlator/NPMChat/issues/46) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
 | Add About us section | Medium | [#5](https://github.com/subhadeeproy3902/mvpblocks/issues/5) |
 | Add Contact Page | Medium | [#4](https://github.com/subhadeeproy3902/mvpblocks/issues/4) |
+
+---
+
+## 📌 Project: Smriti AI
+
+📝 **Description:** Smriti AI is an intelligent, all-in-one learning assistant that helps you organize, understand, and retain everything you study from notes and youtube videos.
+
+🔗 [View Project](https://github.com/vatsal-bhakodia/smriti-ai)
+
+💻 **Tech Stack:** Next.js, Prisma, PostgreSQL, Clerk Auth
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Bump @clerk/nextjs from 6.36.5 to 6.39.2 | Medium | [#237](https://github.com/vatsal-bhakodia/smriti-ai/pull/237) |
 
 ---
 
