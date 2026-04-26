@@ -98,7 +98,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump dompurify from 3.3.3 to 3.4.0 in /DevElevate/Client in the npm_and_yarn group across 1 directory | Medium | [#752](https://github.com/abhisek2004/Dev-Elevate/pull/752) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -123,7 +122,6 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Claude Code GitHub Workflow | Medium | [#92](https://github.com/AdityaRalhan/Aluma/issues/92) |
-| issue create automate message added | Medium | [#91](https://github.com/AdityaRalhan/Aluma/pull/91) |
 | Adding issue template | Medium | [#90](https://github.com/AdityaRalhan/Aluma/issues/90) |
 | Bug: Suggestions Logic & Validation Issues in Assessment Controller | Medium | [#87](https://github.com/AdityaRalhan/Aluma/issues/87) |
 | NLP Keyword/Topic Extraction for User Journals | Medium | [#86](https://github.com/AdityaRalhan/Aluma/issues/86) |
@@ -247,26 +245,29 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/infrastructure docs autogen | Easy | [#4562](https://github.com/OWASP/Nest/pull/4562) |
+| Populate version tags in comments for SHA-pinned GitHub Actions | Easy | [#4542](https://github.com/OWASP/Nest/issues/4542) |
+| Ternary operators should not be nested | Medium | [#4582](https://github.com/OWASP/Nest/issues/4582) |
+| dockerize fetch-nest-dump to avoid local dependency on poetry | Medium | [#4581](https://github.com/OWASP/Nest/pull/4581) |
 | NestBot Content Reporting & Moderation Workflow | Medium | [#4577](https://github.com/OWASP/Nest/issues/4577) |
 | Number value being assigned to string | Medium | [#4575](https://github.com/OWASP/Nest/issues/4575) |
 | fix import in multiple test files | Medium | [#4571](https://github.com/OWASP/Nest/issues/4571) |
 | Limit releases to only show most recent ones | Medium | [#4570](https://github.com/OWASP/Nest/pull/4570) |
-| Updated dependancies to fix security vulnerabilities | Medium | [#4569](https://github.com/OWASP/Nest/pull/4569) |
 | Mobile responsiveness broken on Issues page | Medium | [#4568](https://github.com/OWASP/Nest/issues/4568) |
 | Detect whether signed in github user has starred Nest repo or not | Medium | [#4566](https://github.com/OWASP/Nest/issues/4566) |
 | Resposity name as label or filter to look at issues based on repository | Medium | [#4565](https://github.com/OWASP/Nest/issues/4565) |
 | Incorrect map of India | Medium | [#4564](https://github.com/OWASP/Nest/issues/4564) |
-| fix: add actionable links to Ways to Engage cards on Community page | Medium | [#4559](https://github.com/OWASP/Nest/pull/4559) |
 | Add Semantic Caching and CrewAI Config | Medium | [#4548](https://github.com/OWASP/Nest/pull/4548) |
 | chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4545](https://github.com/OWASP/Nest/pull/4545) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4544](https://github.com/OWASP/Nest/pull/4544) |
 | Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
-| /bin/bash breaks on NIXOS | Medium | [#4534](https://github.com/OWASP/Nest/issues/4534) |
 | Feat: Implement Sponsors Program Support | Medium | [#4525](https://github.com/OWASP/Nest/pull/4525) |
 | Implement Sponsors Program Support | Medium | [#4520](https://github.com/OWASP/Nest/pull/4520) |
 | Refactored CardDetailsPage into smaller components | Medium | [#4519](https://github.com/OWASP/Nest/pull/4519) |
 | Added sponsor support | Medium | [#4511](https://github.com/OWASP/Nest/pull/4511) |
 | Projects page: Add the number of open issues, open PRs and last-updated-date to the project details 'card' | Medium | [#4480](https://github.com/OWASP/Nest/issues/4480) |
+| Projects page: Add a separate filter for Project Level | Medium | [#4479](https://github.com/OWASP/Nest/issues/4479) |
+| Switch GitHub Actions runners from ubuntu-latest to Blacksmith for faster CI | Medium | [#4455](https://github.com/OWASP/Nest/issues/4455) |
+| feat(notifications): add EDA-based idempotent processing and DLQ for chapter/event updates | Medium | [#4454](https://github.com/OWASP/Nest/pull/4454) |
 
 ---
 
@@ -2357,6 +2358,7 @@ Fast Workflow Tools
 | Standardize and Professionalize Font Text and Size Across Eventra | Easy | [#828](https://github.com/SandeepVashishtha/Eventra/issues/828) |
 | Make the application background more professional and aligned with the button color scheme | Easy | [#827](https://github.com/SandeepVashishtha/Eventra/issues/827) |
 | Event Analytics Dashboard (Organizer View) | Easy | [#799](https://github.com/SandeepVashishtha/Eventra/issues/799) |
+| Added Dark mode Button | Medium | [#830](https://github.com/SandeepVashishtha/Eventra/pull/830) |
 | Filter section is inconsistent in dark mode; some text not visible | Medium | [#599](https://github.com/SandeepVashishtha/Eventra/issues/599) |
 | Enhance UI of “Create your first event” section | Medium | [#410](https://github.com/SandeepVashishtha/Eventra/issues/410) |
 
