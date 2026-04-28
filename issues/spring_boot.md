@@ -76,7 +76,6 @@
 | Refactor GameSport Screen to Use ViewModel | Medium | [#8](https://github.com/AnshulPanwarr/g1new/issues/8) |
 | ViewModel for DiscoverScreen | Medium | [#7](https://github.com/AnshulPanwarr/g1new/issues/7) |
 | Notification | Medium | [#6](https://github.com/AnshulPanwarr/g1new/issues/6) |
-| Add detailed README with contribution guidelines and setup instructions | Medium | [#5](https://github.com/AnshulPanwarr/g1new/pull/5) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#4](https://github.com/AnshulPanwarr/g1new/issues/4) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#3](https://github.com/AnshulPanwarr/g1new/issues/3) |
 | 🚫 License Missing from Repository | Medium | [#2](https://github.com/AnshulPanwarr/g1new/issues/2) |
@@ -132,6 +131,9 @@
 | Standardize and Professionalize Font Text and Size Across Eventra | Easy | [#828](https://github.com/SandeepVashishtha/Eventra/issues/828) |
 | Make the application background more professional and aligned with the button color scheme | Easy | [#827](https://github.com/SandeepVashishtha/Eventra/issues/827) |
 | Event Analytics Dashboard (Organizer View) | Easy | [#799](https://github.com/SandeepVashishtha/Eventra/issues/799) |
+| Add Toggle to Enable/Disable Fluid Cursor Animation | Medium | [#833](https://github.com/SandeepVashishtha/Eventra/pull/833) |
+| Feature Request: Provide Option to Disable Fluid Cursor Animation | Medium | [#832](https://github.com/SandeepVashishtha/Eventra/issues/832) |
+| Added Dark mode Button | Medium | [#830](https://github.com/SandeepVashishtha/Eventra/pull/830) |
 | Filter section is inconsistent in dark mode; some text not visible | Medium | [#599](https://github.com/SandeepVashishtha/Eventra/issues/599) |
 | Enhance UI of “Create your first event” section | Medium | [#410](https://github.com/SandeepVashishtha/Eventra/issues/410) |
 
