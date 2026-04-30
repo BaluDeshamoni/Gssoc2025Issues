@@ -266,7 +266,6 @@
 | Fixed profile image issue | Medium | [#83](https://github.com/VJLIVE/Athletix/pull/83) |
 | Fixed add players for organizations . | Medium | [#82](https://github.com/VJLIVE/Athletix/pull/82) |
 | Add Empty State UI for No Performance Records | Medium | [#63](https://github.com/VJLIVE/Athletix/issues/63) |
-| Optimize Splash Screen Performance with Authentication Check in Parallel with Animation | Medium | [#60](https://github.com/VJLIVE/Athletix/issues/60) |
 
 ---
 
