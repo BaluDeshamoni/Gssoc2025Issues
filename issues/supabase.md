@@ -86,7 +86,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Making instructions clear about opening in localhost | Easy | [#397](https://github.com/Muneerali199/Draftdeckai/issues/397) |
-| fix: Resolve merge conflict between feature/productivity-engine and main | Medium | [#417](https://github.com/Muneerali199/Draftdeckai/pull/417) |
 | fix(diagram): implement share button functionality with clipboard copy and toast feedback (closes #410) | Medium | [#416](https://github.com/Muneerali199/Draftdeckai/pull/416) |
 | feat: add AI Cover Letter Generator from Resume (#411) | Medium | [#415](https://github.com/Muneerali199/Draftdeckai/pull/415) |
 | feat: Add Productivity Engine - Structured Document System | Medium | [#412](https://github.com/Muneerali199/Draftdeckai/pull/412) |
@@ -105,6 +104,7 @@
 | added the animation of increasing numbers in dashboard | Medium | [#329](https://github.com/Muneerali199/Draftdeckai/pull/329) |
 | chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/Draftdeckai/pull/324) |
 | fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/Draftdeckai/pull/323) |
+| Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/Draftdeckai/pull/320) |
 
 ---
 
@@ -177,27 +177,31 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| How It Works Section | Easy | [#170](https://github.com/LarytheLord/Adventurers-Guild/issues/170) |
-| feat: OG image for Guild Card — LinkedIn/X share preview | Easy | [#169](https://github.com/LarytheLord/Adventurers-Guild/issues/169) |
-| fix: Admin bypasses bootcamp tutorial requirement when testing | Easy | [#168](https://github.com/LarytheLord/Adventurers-Guild/issues/168) |
 | feat: Guild Card — username required at registration + profile share flow | Easy | [#166](https://github.com/LarytheLord/Adventurers-Guild/issues/166) |
 | feat: Completed Quests page — /dashboard/completed-quests | Easy | [#164](https://github.com/LarytheLord/Adventurers-Guild/issues/164) |
-| feat: Party Panel UI — Squad Display on Quest Detail Page | Easy | [#137](https://github.com/LarytheLord/Adventurers-Guild/issues/137) |
-| feat: Quest Streak System — Daily/Weekly XP Multiplier for Retention | Easy | [#136](https://github.com/LarytheLord/Adventurers-Guild/issues/136) |
-| How It Works Section | Medium | [#183](https://github.com/LarytheLord/Adventurers-Guild/pull/183) |
+| refactor: Quest service layer — Stage 2 of 3 (getQuests + createQuest) | Medium | [#205](https://github.com/LarytheLord/Adventurers-Guild/pull/205) |
+| fix: redesign: Landing Page Mid-Section - Trust Bar, Product Preview, Why AG, Rank Journey #145 | Medium | [#204](https://github.com/LarytheLord/Adventurers-Guild/pull/204) |
+| fix: feat: Quest Board Filters - Track, Difficulty, Category, and Search #138 | Medium | [#203](https://github.com/LarytheLord/Adventurers-Guild/pull/203) |
+| fix: feat: Party Panel UI - Squad Display on Quest Detail Page #137 | Medium | [#202](https://github.com/LarytheLord/Adventurers-Guild/pull/202) |
+| fix: feat: Quest Streak System - Daily/Weekly XP Multiplier for Retention #136 | Medium | [#201](https://github.com/LarytheLord/Adventurers-Guild/pull/201) |
+| fix: feat: Admin Analytics Dashboard - DAU, Quest Metrics, Rank Distribution #135 | Medium | [#200](https://github.com/LarytheLord/Adventurers-Guild/pull/200) |
+| fix: feat: Squad-Aware Quest Board UI - party slots, join flow, and squad filtering #111 | Medium | [#199](https://github.com/LarytheLord/Adventurers-Guild/pull/199) |
+| fix: feat: Admin Revenue Dashboard - GMV, MRR, fill rate, and take rate charts #109 | Medium | [#198](https://github.com/LarytheLord/Adventurers-Guild/pull/198) |
+| fix: feat: Stripe Connect - Adventurer payout onboarding and PaymentIntent flow #106 | Medium | [#197](https://github.com/LarytheLord/Adventurers-Guild/pull/197) |
+| fix: Mobile Responsiveness Audit — Dashboard, Quest Board, and Profile pages | Medium | [#196](https://github.com/LarytheLord/Adventurers-Guild/issues/196) |
+| feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
+| refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
+| Improve the privacy page | Medium | [#192](https://github.com/LarytheLord/Adventurers-Guild/pull/192) |
+| Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
+| feat: squad-aware quest board with party indicators and join flow closes #111 | Medium | [#189](https://github.com/LarytheLord/Adventurers-Guild/pull/189) |
+| Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
+| Adventurers Guild page improvement | Medium | [#186](https://github.com/LarytheLord/Adventurers-Guild/issues/186) |
+| NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
 | Enhance the faq section | Medium | [#182](https://github.com/LarytheLord/Adventurers-Guild/pull/182) |
-| Improve the chatbot | Medium | [#181](https://github.com/LarytheLord/Adventurers-Guild/issues/181) |
-| feat: Razorpay payout onboarding and transfer flow (#106) | Medium | [#180](https://github.com/LarytheLord/Adventurers-Guild/pull/180) |
-| Fix/issue 168 admin bypass tutorial gate | Medium | [#179](https://github.com/LarytheLord/Adventurers-Guild/pull/179) |
-| Internal Server Error on Registration | Medium | [#177](https://github.com/LarytheLord/Adventurers-Guild/issues/177) |
-| refactor: Refactor quests api to service layer pattern | Medium | [#175](https://github.com/LarytheLord/Adventurers-Guild/pull/175) |
-| fix: Streak fields never update on quest completion | Medium | [#165](https://github.com/LarytheLord/Adventurers-Guild/issues/165) |
+| Add the chatbot | Medium | [#181](https://github.com/LarytheLord/Adventurers-Guild/issues/181) |
 | arch: Bootcamp Pipeline End-to-End Test — Dry Run with 5 Students | Medium | [#142](https://github.com/LarytheLord/Adventurers-Guild/issues/142) |
 | feat: Admin Analytics Dashboard — DAU, Quest Metrics, Rank Distribution | Medium | [#135](https://github.com/LarytheLord/Adventurers-Guild/issues/135) |
 | feat: Squad-Aware Quest Board UI — party slots, join flow, and squad filtering | Medium | [#111](https://github.com/LarytheLord/Adventurers-Guild/issues/111) |
-| feat: Hackathon → Quest Continuation Pipeline — first-refusal window for hackathon teams | Medium | [#110](https://github.com/LarytheLord/Adventurers-Guild/issues/110) |
-| feat: Admin Revenue Dashboard — GMV, MRR, fill rate, and take rate charts | Medium | [#109](https://github.com/LarytheLord/Adventurers-Guild/issues/109) |
-| feat: Quest Event Audit Trail — EventLog model and admin quest timeline | Medium | [#108](https://github.com/LarytheLord/Adventurers-Guild/issues/108) |
 | refactor: Extract Service Layer — Break Monolithic API Routes into Focused Services | Hard | [#148](https://github.com/LarytheLord/Adventurers-Guild/issues/148) |
 
 ---
