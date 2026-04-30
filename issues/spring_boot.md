@@ -76,6 +76,7 @@
 | Refactor GameSport Screen to Use ViewModel | Medium | [#8](https://github.com/AnshulPanwarr/g1new/issues/8) |
 | ViewModel for DiscoverScreen | Medium | [#7](https://github.com/AnshulPanwarr/g1new/issues/7) |
 | Notification | Medium | [#6](https://github.com/AnshulPanwarr/g1new/issues/6) |
+| Add detailed README with contribution guidelines and setup instructions | Medium | [#5](https://github.com/AnshulPanwarr/g1new/pull/5) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#4](https://github.com/AnshulPanwarr/g1new/issues/4) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#3](https://github.com/AnshulPanwarr/g1new/issues/3) |
 | 🚫 License Missing from Repository | Medium | [#2](https://github.com/AnshulPanwarr/g1new/issues/2) |
