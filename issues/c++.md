@@ -1,23 +1,5 @@
 # 🚀 Projects using C++
 
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
-
----
-
 ## 📌 Project: cpp-sdk-appwrite
 
 📝 **Description:** The first ever C++ SDK for Appwrite, build from scratch!
@@ -52,12 +34,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(logging): Add logging in CinderGraph class. | Easy | [#219](https://github.com/SharonIV0x86/CinderPeak/issues/219) |
+| feat(graph): Add support for graph names. | Easy | [#211](https://github.com/SharonIV0x86/CinderPeak/issues/211) |
 | feat(logs): Add dbg() Utility for Generic Debug Logging (C++17) | Easy | [#205](https://github.com/SharonIV0x86/CinderPeak/issues/205) |
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
-| Update logging levels and flow in CinderGraph | Medium | [#224](https://github.com/SharonIV0x86/CinderPeak/pull/224) |
-| feat: Update source code folder structure | Medium | [#223](https://github.com/SharonIV0x86/CinderPeak/pull/223) |
+| refactor(graph): simplify getEdge return type using std::optional<EdgeType> | Medium | [#225](https://github.com/SharonIV0x86/CinderPeak/pull/225) |
 | The "Essential" Feature: Graph Serialization & I/O Module | Medium | [#199](https://github.com/SharonIV0x86/CinderPeak/issues/199) |
 | feat: Add core graph algorithm implementations (Dijkstra, MST, Topological Sort, etc.) | Medium | [#197](https://github.com/SharonIV0x86/CinderPeak/issues/197) |
 | feat(storage): Add Graph Serialization / Deserialization Support | Medium | [#170](https://github.com/SharonIV0x86/CinderPeak/issues/170) |
