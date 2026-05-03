@@ -211,6 +211,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Card text becomes unreadable on hover in dark mode | Medium | [#230](https://github.com/SrigadaAkshayKumar/stock/issues/230) |
 | Search functionality doesn't trigger on Enter key | Medium | [#216](https://github.com/SrigadaAkshayKumar/stock/issues/216) |
 
 ---
@@ -416,24 +417,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Add Keyboard Shortcut to Toggle Theme (Ctrl + K) | Medium | [#452](https://github.com/Bhavya1352/eventmappr/issues/452) |
 | Add Event Clustering on Map | Medium | [#450](https://github.com/Bhavya1352/eventmappr/issues/450) |
 | Nearby page dark theme not applying to middle section | Medium | [#411](https://github.com/Bhavya1352/eventmappr/issues/411) |
-
----
-
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
 
 ---
 
@@ -738,10 +721,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Issue #1665 - Resolve broken images & restore dashboard charts | Medium | [#1707](https://github.com/omroy07/AgriTech/pull/1707) |
-| fix: Remove redundant offline/online alert popups from production | Medium | [#1706](https://github.com/omroy07/AgriTech/pull/1706) |
+| chore: Consolidate image/ into images/ and remove empty folder | Medium | [#1710](https://github.com/omroy07/AgriTech/issues/1710) |
+| Duplicate License Files | Medium | [#1709](https://github.com/omroy07/AgriTech/issues/1709) |
+| Add workflow in github actions which automatically adds NSOC'26 label to each issue opend | Medium | [#1708](https://github.com/omroy07/AgriTech/issues/1708) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
-| Livestock Management System | Medium | [#1682](https://github.com/omroy07/AgriTech/pull/1682) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
 | Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
@@ -1003,6 +986,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve HTML structure, accessibility, and UI in index.html | Medium | [#833](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/833) |
 | Day 63 - CyberCut Barbershop complete | Medium | [#832](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/832) |
 | #759 -Day63 Expense splitter - Added Frontend Project | Medium | [#829](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/829) |
 | Add a email masker project | Medium | [#822](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/822) |
@@ -1024,7 +1008,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | DAY 59 - Introducing CLICKBAIT (The memory game) | Medium | [#789](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/789) |
 | Fix: Resolve inconsistent alignment in header search bar and button | Medium | [#787](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/787) |
 | Add Expense Tracker Project | Medium | [#785](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/785) |
-| Suggestion: Introduce Day 33 – Maze Runner | Medium | [#783](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/783) |
 
 ---
 
@@ -1091,22 +1074,14 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| style: enhance FAQ and testimonial components with improved layout and styling | Easy | [#1330](https://github.com/recodehive/recode-website/pull/1330) |
-| [Feature]: Use Dynamic mappinf for discussions section . | Easy | [#1312](https://github.com/recodehive/recode-website/issues/1312) |
-| 🐞[Bug]: Mobile header has unnecessary top whitespace (<768px) | Easy | [#1286](https://github.com/recodehive/recode-website/issues/1286) |
-| # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
-| 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
-| [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| Add More content for docker tutorials | Easy | [#1180](https://github.com/recodehive/recode-website/issues/1180) |
-| Social Sharing Buttons for Blog Posts | Easy | [#1127](https://github.com/recodehive/recode-website/issues/1127) |
-| [Feature]: our project section is not looking good on mobile | Easy | [#937](https://github.com/recodehive/recode-website/issues/937) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.58.2 | Medium | [#1328](https://github.com/recodehive/recode-website/pull/1328) |
-| chore: bump lucide-react from 0.503.0 to 1.8.0 | Medium | [#1327](https://github.com/recodehive/recode-website/pull/1327) |
-| chore: bump react-slot-counter from 3.3.1 to 3.3.3 | Medium | [#1326](https://github.com/recodehive/recode-website/pull/1326) |
-| chore: bump @docusaurus/plugin-content-docs from 3.9.2 to 3.10.0 | Medium | [#1324](https://github.com/recodehive/recode-website/pull/1324) |
-| chore: bump @docusaurus/preset-classic from 3.9.1 to 3.10.0 | Medium | [#1323](https://github.com/recodehive/recode-website/pull/1323) |
-| 🐞[Bug]: Email should triggered on query | Medium | [#393](https://github.com/recodehive/recode-website/issues/393) |
-| Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
+| alignment mismatch on github badges page | Easy | [#1368](https://github.com/recodehive/recode-website/issues/1368) |
+| Public repo appear on Organisation | Easy | [#1363](https://github.com/recodehive/recode-website/issues/1363) |
+| chore: bump tailwind-merge from 3.3.1 to 3.5.0 | Easy | [#1354](https://github.com/recodehive/recode-website/pull/1354) |
+| 🐞[Bug]: Dicussion tab not expanding/non functional | Easy | [#1346](https://github.com/recodehive/recode-website/issues/1346) |
+| chore: bump postcss from 8.5.6 to 8.5.13 | Medium | [#1375](https://github.com/recodehive/recode-website/pull/1375) |
+| chore: bump @docusaurus/plugin-google-analytics from 3.10.0 to 3.10.1 | Medium | [#1374](https://github.com/recodehive/recode-website/pull/1374) |
+| chore: bump typescript from 5.3.3 to 6.0.3 | Medium | [#1356](https://github.com/recodehive/recode-website/pull/1356) |
+| chore: bump react and @types/react | Medium | [#1355](https://github.com/recodehive/recode-website/pull/1355) |
 | [Feature]: Change to community page | Hard | [#339](https://github.com/recodehive/recode-website/issues/339) |
 
 ---
@@ -1348,7 +1323,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fixed profile image issue | Medium | [#83](https://github.com/VJLIVE/Athletix/pull/83) |
 | Fixed add players for organizations . | Medium | [#82](https://github.com/VJLIVE/Athletix/pull/82) |
 | Add Empty State UI for No Performance Records | Medium | [#63](https://github.com/VJLIVE/Athletix/issues/63) |
-| Optimize Splash Screen Performance with Authentication Check in Parallel with Animation | Medium | [#60](https://github.com/VJLIVE/Athletix/issues/60) |
 
 ---
 
@@ -2009,6 +1983,30 @@ Fast Workflow Tools
 | Feature Request: Add Profile Page with Google Sign-In (Firebase Auth) | Medium | [#96](https://github.com/Varshitha713/CodeCanvas/issues/96) |
 | ## 🚨 Feature Request: Add Login/Signup Functionality | Medium | [#87](https://github.com/Varshitha713/CodeCanvas/issues/87) |
 | Add login and logout page | Medium | [#60](https://github.com/Varshitha713/CodeCanvas/issues/60) |
+
+---
+
+## 📌 Project: GroqTales
+
+📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
+
+🔗 [View Project](https://github.com/Drago-03/GroqTales)
+
+💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Non-Atomic NFT Purchase in Marketplace | Medium | [#465](https://github.com/IndieHub25/GroqTales/issues/465) |
+| Add newsletter subscription feature for user engagement | Medium | [#464](https://github.com/IndieHub25/GroqTales/issues/464) |
+| Scroll-to-top button overlaps footer links on GroqTales website | Medium | [#463](https://github.com/IndieHub25/GroqTales/issues/463) |
+| feat: implement public shareable story pages with OpenGraph tags (Fix… | Medium | [#419](https://github.com/IndieHub25/GroqTales/pull/419) |
+| Setup Playwright E2E coverage for Wallet login and NFT Minting | Medium | [#410](https://github.com/IndieHub25/GroqTales/issues/410) |
+| Feat: Add multilingual generation support to Groq AI engine | Medium | [#409](https://github.com/IndieHub25/GroqTales/issues/409) |
+| Chore: Refactor Story Creation Flow | Hard | [#443](https://github.com/IndieHub25/GroqTales/pull/443) |
 
 ---
 
