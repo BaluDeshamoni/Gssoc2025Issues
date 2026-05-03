@@ -44,7 +44,9 @@
 | Carousel section not responsive on smaller screen sizes | Medium | [#1241](https://github.com/gyanshankar1708/GrowCraft/issues/1241) |
 | Add boxes for Services, Quick Links, and Get In Touch in the footer | Medium | [#1240](https://github.com/gyanshankar1708/GrowCraft/issues/1240) |
 | BUG: service section footer background issue | Medium | [#1239](https://github.com/gyanshankar1708/GrowCraft/issues/1239) |
+| Redesign the about us page | Medium | [#1238](https://github.com/gyanshankar1708/GrowCraft/pull/1238) |
 | UI Change | Medium | [#1233](https://github.com/gyanshankar1708/GrowCraft/issues/1233) |
+| Navbar styled properly for our work page. | Medium | [#1230](https://github.com/gyanshankar1708/GrowCraft/pull/1230) |
 | Fix UI sections -> those have incosistent UI | Medium | [#1226](https://github.com/gyanshankar1708/GrowCraft/issues/1226) |
 | We can add hover effect on certain cards | Medium | [#1224](https://github.com/gyanshankar1708/GrowCraft/issues/1224) |
 | The Contact Us page doesn't match with the theme of the website | Medium | [#1223](https://github.com/gyanshankar1708/GrowCraft/issues/1223) |
@@ -61,7 +63,6 @@
 | invisible show password icon in login page | Medium | [#1185](https://github.com/gyanshankar1708/GrowCraft/issues/1185) |
 | missing back to home button in sign up page | Medium | [#1183](https://github.com/gyanshankar1708/GrowCraft/issues/1183) |
 | Missing back to home button in login page | Medium | [#1182](https://github.com/gyanshankar1708/GrowCraft/issues/1182) |
-| Footer missing in blogs page | Medium | [#1180](https://github.com/gyanshankar1708/GrowCraft/issues/1180) |
 
 ---
 
@@ -99,6 +100,27 @@
 | Chatbot UI/UX Improvements | Medium | [#110](https://github.com/Pujan-sarkar/FARMLOC/issues/110) |
 | <short summary> | Medium | [#101](https://github.com/Pujan-sarkar/FARMLOC/issues/101) |
 | Issue: No Loading/Feedback State on Page Navigation | Medium | [#83](https://github.com/Pujan-sarkar/FARMLOC/issues/83) |
+
+---
+
+## 📌 Project: sachiva
+
+📝 **Description:** Sachiva is a frontend-focused project that lets you work on a real-world business website using HTML, CSS, JavaScript & Bootstrap. Perfect for beginners and intermediate devs to practice responsive design, clean layouts, and modern UI development!
+
+🔗 [View Project](https://github.com/sachiva1/sachiva)
+
+💻 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Redesign of the Community forum page | Medium | [#291](https://github.com/sachiva1/sachiva/pull/291) |
+| Added AI-powered FAQ Chatbot | Medium | [#290](https://github.com/sachiva1/sachiva/pull/290) |
+| Add Login/Signup UI with enhanced styles and functionality | Medium | [#289](https://github.com/sachiva1/sachiva/pull/289) |
+| Updated footer | Medium | [#288](https://github.com/sachiva1/sachiva/pull/288) |
 
 ---
 
