@@ -39,6 +39,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Card text becomes unreadable on hover in dark mode | Medium | [#230](https://github.com/SrigadaAkshayKumar/stock/issues/230) |
 | Search functionality doesn't trigger on Enter key | Medium | [#216](https://github.com/SrigadaAkshayKumar/stock/issues/216) |
 
 ---
@@ -208,26 +209,30 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/infrastructure docs autogen | Easy | [#4562](https://github.com/OWASP/Nest/pull/4562) |
-| Using an optional chain expression instead of redundant && checks. | Medium | [#4574](https://github.com/OWASP/Nest/pull/4574) |
+| Remove this redundant | Medium | [#4588](https://github.com/OWASP/Nest/issues/4588) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4586](https://github.com/OWASP/Nest/pull/4586) |
+| Ternary operators should not be nested | Medium | [#4582](https://github.com/OWASP/Nest/issues/4582) |
+| NestBot Content Reporting & Moderation Workflow | Medium | [#4577](https://github.com/OWASP/Nest/issues/4577) |
+| Number value being assigned to string | Medium | [#4575](https://github.com/OWASP/Nest/issues/4575) |
 | fix import in multiple test files | Medium | [#4571](https://github.com/OWASP/Nest/issues/4571) |
 | Limit releases to only show most recent ones | Medium | [#4570](https://github.com/OWASP/Nest/pull/4570) |
-| Updated dependancies to fix security vulnerabilities | Medium | [#4569](https://github.com/OWASP/Nest/pull/4569) |
 | Mobile responsiveness broken on Issues page | Medium | [#4568](https://github.com/OWASP/Nest/issues/4568) |
 | Detect whether signed in github user has starred Nest repo or not | Medium | [#4566](https://github.com/OWASP/Nest/issues/4566) |
 | Resposity name as label or filter to look at issues based on repository | Medium | [#4565](https://github.com/OWASP/Nest/issues/4565) |
 | Incorrect map of India | Medium | [#4564](https://github.com/OWASP/Nest/issues/4564) |
-| fix: add actionable links to Ways to Engage cards on Community page | Medium | [#4559](https://github.com/OWASP/Nest/pull/4559) |
 | Add Semantic Caching and CrewAI Config | Medium | [#4548](https://github.com/OWASP/Nest/pull/4548) |
 | chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4545](https://github.com/OWASP/Nest/pull/4545) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4544](https://github.com/OWASP/Nest/pull/4544) |
 | Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
-| Add poetry as pre requisite | Medium | [#4536](https://github.com/OWASP/Nest/issues/4536) |
-| /bin/bash breaks on NIXOS | Medium | [#4534](https://github.com/OWASP/Nest/issues/4534) |
 | Feat: Implement Sponsors Program Support | Medium | [#4525](https://github.com/OWASP/Nest/pull/4525) |
 | Implement Sponsors Program Support | Medium | [#4520](https://github.com/OWASP/Nest/pull/4520) |
 | Refactored CardDetailsPage into smaller components | Medium | [#4519](https://github.com/OWASP/Nest/pull/4519) |
 | Added sponsor support | Medium | [#4511](https://github.com/OWASP/Nest/pull/4511) |
 | Projects page: Add the number of open issues, open PRs and last-updated-date to the project details 'card' | Medium | [#4480](https://github.com/OWASP/Nest/issues/4480) |
+| Projects page: Add a separate filter for Project Level | Medium | [#4479](https://github.com/OWASP/Nest/issues/4479) |
+| Switch GitHub Actions runners from ubuntu-latest to Blacksmith for faster CI | Medium | [#4455](https://github.com/OWASP/Nest/issues/4455) |
+| feat(notifications): add EDA-based idempotent processing and DLQ for chapter/event updates | Medium | [#4454](https://github.com/OWASP/Nest/pull/4454) |
+| fix(api-keys): prevent same-day expiry rejection by sending end-of-day UTC | Medium | [#4447](https://github.com/OWASP/Nest/pull/4447) |
+| feat: added PR count indicator to issue cards on Contribute and Mentee pages | Medium | [#4446](https://github.com/OWASP/Nest/pull/4446) |
 
 ---
 
@@ -277,6 +282,7 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#323](https://github.com/Devasy/splitwiser/pull/323) |
 | Add biometric authentication option (FaceID/TouchID) | Medium | [#322](https://github.com/Devasy/splitwiser/pull/322) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#321](https://github.com/Devasy/splitwiser/pull/321) |
 | enhance: Add global Toast notification system for mobile | Medium | [#320](https://github.com/Devasy/splitwiser/pull/320) |
@@ -306,7 +312,6 @@ Educational Use: Designed for educational purposes to assist in healthcare decis
 | style: Consistent hover/focus states across buttons | Medium | [#295](https://github.com/Devasy/splitwiser/pull/295) |
 | Add skeleton loading to HomeScreen | Medium | [#294](https://github.com/Devasy/splitwiser/pull/294) |
 | ux: Add skeleton loading to mobile HomeScreen | Medium | [#293](https://github.com/Devasy/splitwiser/pull/293) |
-| ux: Complete skeleton loading system for Friends page | Medium | [#292](https://github.com/Devasy/splitwiser/pull/292) |
 
 ---
 
@@ -575,10 +580,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Issue #1665 - Resolve broken images & restore dashboard charts | Medium | [#1707](https://github.com/omroy07/AgriTech/pull/1707) |
-| fix: Remove redundant offline/online alert popups from production | Medium | [#1706](https://github.com/omroy07/AgriTech/pull/1706) |
+| chore: Consolidate image/ into images/ and remove empty folder | Medium | [#1710](https://github.com/omroy07/AgriTech/issues/1710) |
+| Duplicate License Files | Medium | [#1709](https://github.com/omroy07/AgriTech/issues/1709) |
+| Add workflow in github actions which automatically adds NSOC'26 label to each issue opend | Medium | [#1708](https://github.com/omroy07/AgriTech/issues/1708) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
-| Livestock Management System | Medium | [#1682](https://github.com/omroy07/AgriTech/pull/1682) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
 | Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
@@ -1143,10 +1148,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the dev-dependencies group across 1 directory with 6 updates | Medium | [#159](https://github.com/Xenonesis/code-guardian-report/pull/159) |
-| chore(deps): bump the production-dependencies group across 1 directory with 15 updates | Medium | [#158](https://github.com/Xenonesis/code-guardian-report/pull/158) |
+| chore(deps): bump prettier-plugin-tailwindcss from 0.7.4 to 0.8.0 in the production-dependencies group across 1 directory | Medium | [#167](https://github.com/Xenonesis/code-guardian-report/pull/167) |
 | implement parallel file processing using Web Workers | Medium | [#153](https://github.com/Xenonesis/code-guardian-report/pull/153) |
-| Implement Parallel File Processing for Large Codebases | Medium | [#152](https://github.com/Xenonesis/code-guardian-report/issues/152) |
 | Title: TypeScript: Replace implicit 'any' usage in core services | Medium | [#142](https://github.com/Xenonesis/code-guardian-report/issues/142) |
 | Title: Refactor: Remove legacy Jest dependencies and config | Medium | [#141](https://github.com/Xenonesis/code-guardian-report/issues/141) |
 | Title: Docs: Synchronize CONTRIBUTING.md with current Next.js/React stack | Medium | [#140](https://github.com/Xenonesis/code-guardian-report/issues/140) |
@@ -1166,6 +1169,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | docs: fix Getting Started instructions and clarify setup | Medium | [#102](https://github.com/Xenonesis/code-guardian-report/pull/102) |
 | chore(deps): bump eslint from 8.57.1 to 9.39.2 in /functions | Medium | [#84](https://github.com/Xenonesis/code-guardian-report/pull/84) |
 | chore(deps): bump firebase-functions from 7.0.0 to 7.0.2 in /functions | Medium | [#83](https://github.com/Xenonesis/code-guardian-report/pull/83) |
+| chore(deps): bump @types/node from 18.19.130 to 25.0.3 in /functions | Medium | [#82](https://github.com/Xenonesis/code-guardian-report/pull/82) |
 
 ---
 
@@ -1494,6 +1498,30 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | add phi-4 model (14B parameter) | Medium | [#28](https://github.com/manideepBotsaa/streamlit_application/issues/28) |
+
+---
+
+## 📌 Project: GroqTales
+
+📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
+
+🔗 [View Project](https://github.com/Drago-03/GroqTales)
+
+💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Non-Atomic NFT Purchase in Marketplace | Medium | [#465](https://github.com/IndieHub25/GroqTales/issues/465) |
+| Add newsletter subscription feature for user engagement | Medium | [#464](https://github.com/IndieHub25/GroqTales/issues/464) |
+| Scroll-to-top button overlaps footer links on GroqTales website | Medium | [#463](https://github.com/IndieHub25/GroqTales/issues/463) |
+| feat: implement public shareable story pages with OpenGraph tags (Fix… | Medium | [#419](https://github.com/IndieHub25/GroqTales/pull/419) |
+| Setup Playwright E2E coverage for Wallet login and NFT Minting | Medium | [#410](https://github.com/IndieHub25/GroqTales/issues/410) |
+| Feat: Add multilingual generation support to Groq AI engine | Medium | [#409](https://github.com/IndieHub25/GroqTales/issues/409) |
+| Chore: Refactor Story Creation Flow | Hard | [#443](https://github.com/IndieHub25/GroqTales/pull/443) |
 
 ---
 
