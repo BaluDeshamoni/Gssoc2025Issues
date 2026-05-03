@@ -22,6 +22,8 @@
 | Missing Dependency: InsightFace | Medium | [#52](https://github.com/kaushav07/VisionMate/issues/52) |
 | add robustness and file handling | Medium | [#50](https://github.com/kaushav07/VisionMate/pull/50) |
 | updated README.md file with prerequisites required, command to run the project and the voice and keyboard controls used in this project | Medium | [#32](https://github.com/kaushav07/VisionMate/pull/32) |
+| fixed the text-to-speech (TTS) audio playback compatibility issue | Medium | [#31](https://github.com/kaushav07/VisionMate/pull/31) |
+| Feature/scan_logger | Medium | [#30](https://github.com/kaushav07/VisionMate/pull/30) |
 | Create Updated Readme | Medium | [#25](https://github.com/kaushav07/VisionMate/pull/25) |
 | Real-Time Object Detection with Audio Feedback | Medium | [#23](https://github.com/kaushav07/VisionMate/issues/23) |
 | Add option to switch between pyttsx3 and gTTS for better TTS voice quality | Medium | [#12](https://github.com/kaushav07/VisionMate/issues/12) |
