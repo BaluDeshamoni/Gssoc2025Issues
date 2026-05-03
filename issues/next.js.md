@@ -159,7 +159,6 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/infrastructure docs autogen | Easy | [#4562](https://github.com/OWASP/Nest/pull/4562) |
-| chore: add version comments to SHA-pinned GitHub Actions | Medium | [#4591](https://github.com/OWASP/Nest/pull/4591) |
 | Remove this redundant | Medium | [#4588](https://github.com/OWASP/Nest/issues/4588) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4586](https://github.com/OWASP/Nest/pull/4586) |
 | Ternary operators should not be nested | Medium | [#4582](https://github.com/OWASP/Nest/issues/4582) |
@@ -182,6 +181,8 @@
 | Projects page: Add a separate filter for Project Level | Medium | [#4479](https://github.com/OWASP/Nest/issues/4479) |
 | Switch GitHub Actions runners from ubuntu-latest to Blacksmith for faster CI | Medium | [#4455](https://github.com/OWASP/Nest/issues/4455) |
 | feat(notifications): add EDA-based idempotent processing and DLQ for chapter/event updates | Medium | [#4454](https://github.com/OWASP/Nest/pull/4454) |
+| fix(api-keys): prevent same-day expiry rejection by sending end-of-day UTC | Medium | [#4447](https://github.com/OWASP/Nest/pull/4447) |
+| feat: added PR count indicator to issue cards on Contribute and Mentee pages | Medium | [#4446](https://github.com/OWASP/Nest/pull/4446) |
 
 ---
 
@@ -205,24 +206,6 @@
 | Feature/accessibility improvements [GSSoC 2025] | Medium | [#127](https://github.com/AyushSharma72/Skill_Trade/pull/127) |
 | Add GSSoC'25 Banner. | Medium | [#126](https://github.com/AyushSharma72/Skill_Trade/issues/126) |
 | Fix the mobile responsiveness of contact form on contact page | Medium | [#123](https://github.com/AyushSharma72/Skill_Trade/issues/123) |
-
----
-
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
 
 ---
 
@@ -487,14 +470,14 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| alignment mismatch on github badges page | Easy | [#1368](https://github.com/recodehive/recode-website/issues/1368) |
 | Public repo appear on Organisation | Easy | [#1363](https://github.com/recodehive/recode-website/issues/1363) |
 | chore: bump tailwind-merge from 3.3.1 to 3.5.0 | Easy | [#1354](https://github.com/recodehive/recode-website/pull/1354) |
 | 🐞[Bug]: Dicussion tab not expanding/non functional | Easy | [#1346](https://github.com/recodehive/recode-website/issues/1346) |
+| chore: bump postcss from 8.5.6 to 8.5.13 | Medium | [#1375](https://github.com/recodehive/recode-website/pull/1375) |
+| chore: bump @docusaurus/plugin-google-analytics from 3.10.0 to 3.10.1 | Medium | [#1374](https://github.com/recodehive/recode-website/pull/1374) |
 | chore: bump typescript from 5.3.3 to 6.0.3 | Medium | [#1356](https://github.com/recodehive/recode-website/pull/1356) |
 | chore: bump react and @types/react | Medium | [#1355](https://github.com/recodehive/recode-website/pull/1355) |
-| chore: bump postcss from 8.5.6 to 8.5.12 | Medium | [#1353](https://github.com/recodehive/recode-website/pull/1353) |
-| chore: bump @typescript-eslint/parser from 8.59.0 to 8.59.1 | Medium | [#1352](https://github.com/recodehive/recode-website/pull/1352) |
-| Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
 | [Feature]: Change to community page | Hard | [#339](https://github.com/recodehive/recode-website/issues/339) |
 
 ---
@@ -514,6 +497,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
+| Improve navigation menu responsiveness and user experience | Medium | [#459](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/459) |
 | OAuth Sign-In Fails with Firebase | Medium | [#452](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/452) |
 | Add PasswordGenerator component for password management | Medium | [#451](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/451) |
 | Add PasswordGenerator component for password management | Medium | [#450](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/450) |
@@ -754,9 +738,14 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Guild Card — username required at registration + profile share flow | Easy | [#166](https://github.com/LarytheLord/Adventurers-Guild/issues/166) |
-| feat: Completed Quests page — /dashboard/completed-quests | Easy | [#164](https://github.com/LarytheLord/Adventurers-Guild/issues/164) |
-| refactor: Quest service layer — Stage 2 of 3 (getQuests + createQuest) | Medium | [#205](https://github.com/LarytheLord/Adventurers-Guild/pull/205) |
+| Adventurers Guild page improvement | Medium | [#217](https://github.com/LarytheLord/Adventurers-Guild/pull/217) |
+| Completed Quests page — /dashboard/completed-quests | Medium | [#216](https://github.com/LarytheLord/Adventurers-Guild/pull/216) |
+| fix: security hardening — TLS production guard, PII log removal, URL sanitization | Medium | [#215](https://github.com/LarytheLord/Adventurers-Guild/pull/215) |
+| Feat/guild card UI | Medium | [#214](https://github.com/LarytheLord/Adventurers-Guild/pull/214) |
+| Feat/landing redesign | Medium | [#213](https://github.com/LarytheLord/Adventurers-Guild/pull/213) |
+| feat: implement Admin Analytics Dashboard and fix pre-existing TypeSc… | Medium | [#212](https://github.com/LarytheLord/Adventurers-Guild/pull/212) |
+| Add the chatbot | Medium | [#210](https://github.com/LarytheLord/Adventurers-Guild/pull/210) |
+| Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
 | fix: redesign: Landing Page Mid-Section - Trust Bar, Product Preview, Why AG, Rank Journey #145 | Medium | [#204](https://github.com/LarytheLord/Adventurers-Guild/pull/204) |
 | fix: feat: Quest Board Filters - Track, Difficulty, Category, and Search #138 | Medium | [#203](https://github.com/LarytheLord/Adventurers-Guild/pull/203) |
 | fix: feat: Party Panel UI - Squad Display on Quest Detail Page #137 | Medium | [#202](https://github.com/LarytheLord/Adventurers-Guild/pull/202) |
@@ -764,22 +753,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | fix: feat: Admin Analytics Dashboard - DAU, Quest Metrics, Rank Distribution #135 | Medium | [#200](https://github.com/LarytheLord/Adventurers-Guild/pull/200) |
 | fix: feat: Squad-Aware Quest Board UI - party slots, join flow, and squad filtering #111 | Medium | [#199](https://github.com/LarytheLord/Adventurers-Guild/pull/199) |
 | fix: feat: Admin Revenue Dashboard - GMV, MRR, fill rate, and take rate charts #109 | Medium | [#198](https://github.com/LarytheLord/Adventurers-Guild/pull/198) |
-| fix: feat: Stripe Connect - Adventurer payout onboarding and PaymentIntent flow #106 | Medium | [#197](https://github.com/LarytheLord/Adventurers-Guild/pull/197) |
-| fix: Mobile Responsiveness Audit — Dashboard, Quest Board, and Profile pages | Medium | [#196](https://github.com/LarytheLord/Adventurers-Guild/issues/196) |
 | feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
-| Improve the privacy page | Medium | [#192](https://github.com/LarytheLord/Adventurers-Guild/pull/192) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
 | feat: squad-aware quest board with party indicators and join flow closes #111 | Medium | [#189](https://github.com/LarytheLord/Adventurers-Guild/pull/189) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
-| Adventurers Guild page improvement | Medium | [#186](https://github.com/LarytheLord/Adventurers-Guild/issues/186) |
 | NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
 | Enhance the faq section | Medium | [#182](https://github.com/LarytheLord/Adventurers-Guild/pull/182) |
-| Add the chatbot | Medium | [#181](https://github.com/LarytheLord/Adventurers-Guild/issues/181) |
-| arch: Bootcamp Pipeline End-to-End Test — Dry Run with 5 Students | Medium | [#142](https://github.com/LarytheLord/Adventurers-Guild/issues/142) |
-| feat: Admin Analytics Dashboard — DAU, Quest Metrics, Rank Distribution | Medium | [#135](https://github.com/LarytheLord/Adventurers-Guild/issues/135) |
-| feat: Squad-Aware Quest Board UI — party slots, join flow, and squad filtering | Medium | [#111](https://github.com/LarytheLord/Adventurers-Guild/issues/111) |
-| refactor: Extract Service Layer — Break Monolithic API Routes into Focused Services | Hard | [#148](https://github.com/LarytheLord/Adventurers-Guild/issues/148) |
 
 ---
 
