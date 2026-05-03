@@ -39,6 +39,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ux: Complete skeleton loading for HomeScreen groups | Medium | [#323](https://github.com/Devasy/splitwiser/pull/323) |
 | Add biometric authentication option (FaceID/TouchID) | Medium | [#322](https://github.com/Devasy/splitwiser/pull/322) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#321](https://github.com/Devasy/splitwiser/pull/321) |
 | enhance: Add global Toast notification system for mobile | Medium | [#320](https://github.com/Devasy/splitwiser/pull/320) |
@@ -68,7 +69,6 @@
 | style: Consistent hover/focus states across buttons | Medium | [#295](https://github.com/Devasy/splitwiser/pull/295) |
 | Add skeleton loading to HomeScreen | Medium | [#294](https://github.com/Devasy/splitwiser/pull/294) |
 | ux: Add skeleton loading to mobile HomeScreen | Medium | [#293](https://github.com/Devasy/splitwiser/pull/293) |
-| ux: Complete skeleton loading system for Friends page | Medium | [#292](https://github.com/Devasy/splitwiser/pull/292) |
 
 ---
 
