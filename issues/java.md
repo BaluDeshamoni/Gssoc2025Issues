@@ -1060,32 +1060,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
-## 📌 Project: recode-website
-
-📝 **Description:** community blog website 
-
-🔗 [View Project](https://github.com/recodehive/recode-website)
-
-💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| alignment mismatch on github badges page | Easy | [#1368](https://github.com/recodehive/recode-website/issues/1368) |
-| Public repo appear on Organisation | Easy | [#1363](https://github.com/recodehive/recode-website/issues/1363) |
-| chore: bump tailwind-merge from 3.3.1 to 3.5.0 | Easy | [#1354](https://github.com/recodehive/recode-website/pull/1354) |
-| 🐞[Bug]: Dicussion tab not expanding/non functional | Easy | [#1346](https://github.com/recodehive/recode-website/issues/1346) |
-| chore: bump postcss from 8.5.6 to 8.5.13 | Medium | [#1375](https://github.com/recodehive/recode-website/pull/1375) |
-| chore: bump @docusaurus/plugin-google-analytics from 3.10.0 to 3.10.1 | Medium | [#1374](https://github.com/recodehive/recode-website/pull/1374) |
-| chore: bump typescript from 5.3.3 to 6.0.3 | Medium | [#1356](https://github.com/recodehive/recode-website/pull/1356) |
-| chore: bump react and @types/react | Medium | [#1355](https://github.com/recodehive/recode-website/pull/1355) |
-| [Feature]: Change to community page | Hard | [#339](https://github.com/recodehive/recode-website/issues/339) |
-
----
-
 ## 📌 Project: faculty publication management 
 
 📝 **Description:** faculty publication  management 
