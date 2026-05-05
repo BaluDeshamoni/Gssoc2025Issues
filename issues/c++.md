@@ -34,7 +34,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(graph): Add support for graph names. | Easy | [#211](https://github.com/SharonIV0x86/CinderPeak/issues/211) |
 | feat(logs): Add dbg() Utility for Generic Debug Logging (C++17) | Easy | [#205](https://github.com/SharonIV0x86/CinderPeak/issues/205) |
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
