@@ -814,10 +814,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix: Issue #1665 - Resolve broken images & restore dashboard charts | Medium | [#1707](https://github.com/omroy07/AgriTech/pull/1707) |
-| fix: Remove redundant offline/online alert popups from production | Medium | [#1706](https://github.com/omroy07/AgriTech/pull/1706) |
+| chore: Consolidate image/ into images/ and remove empty folder | Medium | [#1710](https://github.com/omroy07/AgriTech/issues/1710) |
+| Duplicate License Files | Medium | [#1709](https://github.com/omroy07/AgriTech/issues/1709) |
+| Add workflow in github actions which automatically adds NSOC'26 label to each issue opend | Medium | [#1708](https://github.com/omroy07/AgriTech/issues/1708) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
-| Livestock Management System | Medium | [#1682](https://github.com/omroy07/AgriTech/pull/1682) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
 | Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
@@ -1079,6 +1079,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve HTML structure, accessibility, and UI in index.html | Medium | [#833](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/833) |
 | Day 63 - CyberCut Barbershop complete | Medium | [#832](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/832) |
 | #759 -Day63 Expense splitter - Added Frontend Project | Medium | [#829](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/829) |
 | Add a email masker project | Medium | [#822](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/822) |
@@ -1100,7 +1101,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | DAY 59 - Introducing CLICKBAIT (The memory game) | Medium | [#789](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/789) |
 | Fix: Resolve inconsistent alignment in header search bar and button | Medium | [#787](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/787) |
 | Add Expense Tracker Project | Medium | [#785](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/785) |
-| Suggestion: Introduce Day 33 – Maze Runner | Medium | [#783](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/783) |
 
 ---
 
@@ -1177,40 +1177,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Add Live Deployment for Project | Medium | [#74](https://github.com/sania28/clubmate/issues/74) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
-
----
-
-## 📌 Project: recode-website
-
-📝 **Description:** community blog website 
-
-🔗 [View Project](https://github.com/recodehive/recode-website)
-
-💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| style: enhance FAQ and testimonial components with improved layout and styling | Easy | [#1330](https://github.com/recodehive/recode-website/pull/1330) |
-| [Feature]: Use Dynamic mappinf for discussions section . | Easy | [#1312](https://github.com/recodehive/recode-website/issues/1312) |
-| 🐞[Bug]: Mobile header has unnecessary top whitespace (<768px) | Easy | [#1286](https://github.com/recodehive/recode-website/issues/1286) |
-| # 💡 [Feature]: Website Polish: Update Tagline and Populate Footer | Easy | [#1273](https://github.com/recodehive/recode-website/issues/1273) |
-| 🐞[Bug]: Dark theme not working on the technical page | Easy | [#1254](https://github.com/recodehive/recode-website/issues/1254) |
-| [Feature]: Fully Functional “Explore Courses” System With Categories & Detailed Course Pages | Easy | [#1240](https://github.com/recodehive/recode-website/issues/1240) |
-| Add More content for docker tutorials | Easy | [#1180](https://github.com/recodehive/recode-website/issues/1180) |
-| Social Sharing Buttons for Blog Posts | Easy | [#1127](https://github.com/recodehive/recode-website/issues/1127) |
-| [Feature]: our project section is not looking good on mobile | Easy | [#937](https://github.com/recodehive/recode-website/issues/937) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.46.2 to 8.58.2 | Medium | [#1328](https://github.com/recodehive/recode-website/pull/1328) |
-| chore: bump lucide-react from 0.503.0 to 1.8.0 | Medium | [#1327](https://github.com/recodehive/recode-website/pull/1327) |
-| chore: bump react-slot-counter from 3.3.1 to 3.3.3 | Medium | [#1326](https://github.com/recodehive/recode-website/pull/1326) |
-| chore: bump @docusaurus/plugin-content-docs from 3.9.2 to 3.10.0 | Medium | [#1324](https://github.com/recodehive/recode-website/pull/1324) |
-| chore: bump @docusaurus/preset-classic from 3.9.1 to 3.10.0 | Medium | [#1323](https://github.com/recodehive/recode-website/pull/1323) |
-| 🐞[Bug]: Email should triggered on query | Medium | [#393](https://github.com/recodehive/recode-website/issues/393) |
-| Agolia implementation. | Medium | [#44](https://github.com/recodehive/recode-website/issues/44) |
-| [Feature]: Change to community page | Hard | [#339](https://github.com/recodehive/recode-website/issues/339) |
 
 ---
 
@@ -2097,7 +2063,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | README file | Medium | [#230](https://github.com/Varshitha713/first-contrib-placement/issues/230) |
 | Would like to make this website responsive | Medium | [#229](https://github.com/Varshitha713/first-contrib-placement/issues/229) |
 | Add interactive Resume Tips and Company Resume Samples sections | Medium | [#227](https://github.com/Varshitha713/first-contrib-placement/pull/227) |
-| Footer Redesign for first-contrib-placement | Medium | [#226](https://github.com/Varshitha713/first-contrib-placement/pull/226) |
 | Improve footer | Medium | [#225](https://github.com/Varshitha713/first-contrib-placement/issues/225) |
 | Redesign of the contact us page | Medium | [#224](https://github.com/Varshitha713/first-contrib-placement/issues/224) |
 | Logo Not Visible on Website | Medium | [#223](https://github.com/Varshitha713/first-contrib-placement/issues/223) |
@@ -2114,6 +2079,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Bug: Card description text disappears on hover | Medium | [#195](https://github.com/Varshitha713/first-contrib-placement/issues/195) |
 | feat : Added Open Source Contribution Study Resources in the coding section | Medium | [#194](https://github.com/Varshitha713/first-contrib-placement/pull/194) |
 | Added a page of CS Core Concepts | Medium | [#193](https://github.com/Varshitha713/first-contrib-placement/pull/193) |
+| Resources Added | Medium | [#176](https://github.com/Varshitha713/first-contrib-placement/pull/176) |
 
 ---
 
