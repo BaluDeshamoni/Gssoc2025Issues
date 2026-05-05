@@ -266,6 +266,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Feature/infrastructure docs autogen | Easy | [#4562](https://github.com/OWASP/Nest/pull/4562) |
+| Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
 | Remove this redundant | Medium | [#4588](https://github.com/OWASP/Nest/issues/4588) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4586](https://github.com/OWASP/Nest/pull/4586) |
 | Ternary operators should not be nested | Medium | [#4582](https://github.com/OWASP/Nest/issues/4582) |
@@ -283,13 +284,6 @@
 | Feat: Implement Sponsors Program Support | Medium | [#4525](https://github.com/OWASP/Nest/pull/4525) |
 | Implement Sponsors Program Support | Medium | [#4520](https://github.com/OWASP/Nest/pull/4520) |
 | Refactored CardDetailsPage into smaller components | Medium | [#4519](https://github.com/OWASP/Nest/pull/4519) |
-| Added sponsor support | Medium | [#4511](https://github.com/OWASP/Nest/pull/4511) |
-| Projects page: Add the number of open issues, open PRs and last-updated-date to the project details 'card' | Medium | [#4480](https://github.com/OWASP/Nest/issues/4480) |
-| Projects page: Add a separate filter for Project Level | Medium | [#4479](https://github.com/OWASP/Nest/issues/4479) |
-| Switch GitHub Actions runners from ubuntu-latest to Blacksmith for faster CI | Medium | [#4455](https://github.com/OWASP/Nest/issues/4455) |
-| feat(notifications): add EDA-based idempotent processing and DLQ for chapter/event updates | Medium | [#4454](https://github.com/OWASP/Nest/pull/4454) |
-| fix(api-keys): prevent same-day expiry rejection by sending end-of-day UTC | Medium | [#4447](https://github.com/OWASP/Nest/pull/4447) |
-| feat: added PR count indicator to issue cards on Contribute and Mentee pages | Medium | [#4446](https://github.com/OWASP/Nest/pull/4446) |
 
 ---
 
@@ -1916,10 +1910,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Adventurers Guild page improvement | Medium | [#217](https://github.com/LarytheLord/Adventurers-Guild/pull/217) |
-| Completed Quests page — /dashboard/completed-quests | Medium | [#216](https://github.com/LarytheLord/Adventurers-Guild/pull/216) |
-| fix: security hardening — TLS production guard, PII log removal, URL sanitization | Medium | [#215](https://github.com/LarytheLord/Adventurers-Guild/pull/215) |
-| Feat/guild card UI | Medium | [#214](https://github.com/LarytheLord/Adventurers-Guild/pull/214) |
+| feat: Landing Page Improvements - Social Proof & FAQ Sections | Medium | [#222](https://github.com/LarytheLord/Adventurers-Guild/pull/222) |
+| feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
+| feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
 | Feat/landing redesign | Medium | [#213](https://github.com/LarytheLord/Adventurers-Guild/pull/213) |
 | feat: implement Admin Analytics Dashboard and fix pre-existing TypeSc… | Medium | [#212](https://github.com/LarytheLord/Adventurers-Guild/pull/212) |
 | Add the chatbot | Medium | [#210](https://github.com/LarytheLord/Adventurers-Guild/pull/210) |
@@ -1934,7 +1927,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
-| feat: squad-aware quest board with party indicators and join flow closes #111 | Medium | [#189](https://github.com/LarytheLord/Adventurers-Guild/pull/189) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 | NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
 | Enhance the faq section | Medium | [#182](https://github.com/LarytheLord/Adventurers-Guild/pull/182) |
@@ -1955,7 +1947,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump prettier-plugin-tailwindcss from 0.7.4 to 0.8.0 in the production-dependencies group across 1 directory | Medium | [#167](https://github.com/Xenonesis/code-guardian-report/pull/167) |
+| chore(deps): bump the production-dependencies group across 1 directory with 5 updates | Medium | [#172](https://github.com/Xenonesis/code-guardian-report/pull/172) |
+| chore(deps): bump @types/bcryptjs from 2.4.6 to 3.0.0 | Medium | [#171](https://github.com/Xenonesis/code-guardian-report/pull/171) |
+| chore(deps): bump @eslint/js from 9.39.4 to 10.0.1 | Medium | [#170](https://github.com/Xenonesis/code-guardian-report/pull/170) |
+| chore(deps): bump @eslint/markdown from 7.5.1 to 8.0.1 | Medium | [#169](https://github.com/Xenonesis/code-guardian-report/pull/169) |
+| chore(deps): bump eslint from 9.39.4 to 10.3.0 | Medium | [#168](https://github.com/Xenonesis/code-guardian-report/pull/168) |
 | implement parallel file processing using Web Workers | Medium | [#153](https://github.com/Xenonesis/code-guardian-report/pull/153) |
 | Title: TypeScript: Replace implicit 'any' usage in core services | Medium | [#142](https://github.com/Xenonesis/code-guardian-report/issues/142) |
 | Title: Refactor: Remove legacy Jest dependencies and config | Medium | [#141](https://github.com/Xenonesis/code-guardian-report/issues/141) |
@@ -1973,10 +1969,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Add SECURITY.md to Define Vulnerability Reporting Process | Medium | [#106](https://github.com/Xenonesis/code-guardian-report/issues/106) |
 | 🐞 UI/UX Issue: Login / Get Started Opens Blurred Overlay Modal Instead of Dedicated Auth Page | Medium | [#105](https://github.com/Xenonesis/code-guardian-report/issues/105) |
 | UI Redesign: Homepage & Footer | Medium | [#104](https://github.com/Xenonesis/code-guardian-report/issues/104) |
-| docs: fix Getting Started instructions and clarify setup | Medium | [#102](https://github.com/Xenonesis/code-guardian-report/pull/102) |
-| chore(deps): bump eslint from 8.57.1 to 9.39.2 in /functions | Medium | [#84](https://github.com/Xenonesis/code-guardian-report/pull/84) |
-| chore(deps): bump firebase-functions from 7.0.0 to 7.0.2 in /functions | Medium | [#83](https://github.com/Xenonesis/code-guardian-report/pull/83) |
-| chore(deps): bump @types/node from 18.19.130 to 25.0.3 in /functions | Medium | [#82](https://github.com/Xenonesis/code-guardian-report/pull/82) |
 
 ---
 
@@ -2741,13 +2733,13 @@ Fast Workflow Tools
 | Improve Readability of Header Text on Main Page | Medium | [#116](https://github.com/Rohit-Dnath/LOL-URL/issues/116) |
 | Improve the footer | Medium | [#115](https://github.com/Rohit-Dnath/LOL-URL/issues/115) |
 | Add Supabase setup instructions | Medium | [#114](https://github.com/Rohit-Dnath/LOL-URL/issues/114) |
-| Added email verification with OTP handling | Medium | [#112](https://github.com/Rohit-Dnath/LOL-URL/pull/112) |
 | implemented requested changes | Medium | [#111](https://github.com/Rohit-Dnath/LOL-URL/pull/111) |
 | Bump axios from 1.7.9 to 1.8.2 in the npm_and_yarn group across 1 directory | Medium | [#104](https://github.com/Rohit-Dnath/LOL-URL/pull/104) |
 | feat(auth): added Google OAuth2 login with Supabase | Medium | [#103](https://github.com/Rohit-Dnath/LOL-URL/pull/103) |
 | 📅 Add Calendar View for Link Activity | Medium | [#102](https://github.com/Rohit-Dnath/LOL-URL/issues/102) |
 | 🌍 Add Internationalization (i18n) Support | Medium | [#97](https://github.com/Rohit-Dnath/LOL-URL/issues/97) |
 | 🔔 Add Push Notifications for Important Events | Medium | [#94](https://github.com/Rohit-Dnath/LOL-URL/issues/94) |
+| 🔑 Add Apple Login (OAuth2) Support | Medium | [#90](https://github.com/Rohit-Dnath/LOL-URL/issues/90) |
 | 🧑‍💼 Add Admin Panel for User & Link Moderation | Hard | [#96](https://github.com/Rohit-Dnath/LOL-URL/issues/96) |
 | 🛡️ Add Rate Limiting to Public APIs | Hard | [#95](https://github.com/Rohit-Dnath/LOL-URL/issues/95) |
 | 🔒 Add Two-Factor Authentication (2FA) | Hard | [#92](https://github.com/Rohit-Dnath/LOL-URL/issues/92) |
@@ -2986,6 +2978,42 @@ Fast Workflow Tools
 | Add more Articles in Web Development Domain | Medium | [#579](https://github.com/SumitGorai01/TechieBlog/issues/579) |
 | UI Issue: Community Stats Section Overflows on Medium Screens (768px) | Medium | [#577](https://github.com/SumitGorai01/TechieBlog/issues/577) |
 | Enhancement in UI of Contact us Page | Medium | [#573](https://github.com/SumitGorai01/TechieBlog/issues/573) |
+
+---
+
+## 📌 Project: CampusTrack
+
+📝 **Description:** CampusTrack is a full-stack web application designed to help students and staff of a college report, find, and manage lost and found items on campus. The system enables seamless tracking of lost belongings, efficient moderation, and easy communication between finders and owners.
+
+🔗 [View Project](https://github.com/Swastik007sharma/CampusTrack)
+
+💻 **Tech Stack:** MERN, React, Vite, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Documentation : Add Code Of Conduct File to project | Easy | [#30](https://github.com/Swastik007sharma/CampusTrack/issues/30) |
+| build(deps-dev): bump tailwindcss from 4.1.11 to 4.1.16 in /frontend | Medium | [#121](https://github.com/Swastik007sharma/CampusTrack/pull/121) |
+| build(deps-dev): bump @tailwindcss/vite from 4.1.11 to 4.1.16 in /frontend | Medium | [#120](https://github.com/Swastik007sharma/CampusTrack/pull/120) |
+| build(deps-dev): bump vite from 7.1.1 to 7.1.12 in /frontend | Medium | [#119](https://github.com/Swastik007sharma/CampusTrack/pull/119) |
+| build(deps): bump axios from 1.8.3 to 1.13.0 in /backend | Medium | [#118](https://github.com/Swastik007sharma/CampusTrack/pull/118) |
+| build(deps): bump nodemailer from 7.0.5 to 7.0.10 in /backend | Medium | [#117](https://github.com/Swastik007sharma/CampusTrack/pull/117) |
+| build(deps-dev): bump @eslint/js from 9.32.0 to 9.38.0 in /frontend | Medium | [#113](https://github.com/Swastik007sharma/CampusTrack/pull/113) |
+| build(deps): bump mongoose from 8.17.1 to 8.19.2 in /backend | Medium | [#112](https://github.com/Swastik007sharma/CampusTrack/pull/112) |
+| build(deps): bump react-router-dom from 7.8.0 to 7.9.4 in /frontend | Medium | [#111](https://github.com/Swastik007sharma/CampusTrack/pull/111) |
+| build(deps): bump zod from 4.0.17 to 4.1.12 in /backend | Medium | [#104](https://github.com/Swastik007sharma/CampusTrack/pull/104) |
+| Bug : Fixing the Issue when the user is registering | Medium | [#101](https://github.com/Swastik007sharma/CampusTrack/issues/101) |
+| Added project files with MIT License | Medium | [#98](https://github.com/Swastik007sharma/CampusTrack/pull/98) |
+| build(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#90](https://github.com/Swastik007sharma/CampusTrack/pull/90) |
+| build(deps): bump axios from 1.8.3 to 1.12.0 in /backend in the npm_and_yarn group across 1 directory | Medium | [#89](https://github.com/Swastik007sharma/CampusTrack/pull/89) |
+| build(deps): bump express-rate-limit from 8.0.1 to 8.1.0 in /backend | Medium | [#84](https://github.com/Swastik007sharma/CampusTrack/pull/84) |
+| New Feature: Leaderboard | Medium | [#82](https://github.com/Swastik007sharma/CampusTrack/issues/82) |
+| Changed the Button Name | Medium | [#43](https://github.com/Swastik007sharma/CampusTrack/pull/43) |
+| Login with Google functionality | Medium | [#42](https://github.com/Swastik007sharma/CampusTrack/issues/42) |
+| feat: Add Google OAuth login integration | Medium | [#36](https://github.com/Swastik007sharma/CampusTrack/pull/36) |
 
 ---
 
