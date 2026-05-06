@@ -98,7 +98,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump dompurify from 3.3.3 to 3.4.0 in /DevElevate/Client in the npm_and_yarn group across 1 directory | Medium | [#752](https://github.com/abhisek2004/Dev-Elevate/pull/752) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -123,7 +122,6 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Claude Code GitHub Workflow | Medium | [#92](https://github.com/AdityaRalhan/Aluma/issues/92) |
-| issue create automate message added | Medium | [#91](https://github.com/AdityaRalhan/Aluma/pull/91) |
 | Adding issue template | Medium | [#90](https://github.com/AdityaRalhan/Aluma/issues/90) |
 | Bug: Suggestions Logic & Validation Issues in Assessment Controller | Medium | [#87](https://github.com/AdityaRalhan/Aluma/issues/87) |
 | NLP Keyword/Topic Extraction for User Journals | Medium | [#86](https://github.com/AdityaRalhan/Aluma/issues/86) |
@@ -246,27 +244,25 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump React to 19.2.5 | Easy | [#4613](https://github.com/OWASP/Nest/issues/4613) |
 | Feature/infrastructure docs autogen | Easy | [#4562](https://github.com/OWASP/Nest/pull/4562) |
-| Using an optional chain expression instead of redundant && checks. | Medium | [#4574](https://github.com/OWASP/Nest/pull/4574) |
+| chore(deps): bump react in /frontend | Medium | [#4612](https://github.com/OWASP/Nest/pull/4612) |
+| Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
+| Remove this redundant | Medium | [#4588](https://github.com/OWASP/Nest/issues/4588) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4586](https://github.com/OWASP/Nest/pull/4586) |
+| Ternary operators should not be nested | Medium | [#4582](https://github.com/OWASP/Nest/issues/4582) |
+| NestBot Content Reporting & Moderation Workflow | Medium | [#4577](https://github.com/OWASP/Nest/issues/4577) |
+| Number value being assigned to string | Medium | [#4575](https://github.com/OWASP/Nest/issues/4575) |
 | fix import in multiple test files | Medium | [#4571](https://github.com/OWASP/Nest/issues/4571) |
 | Limit releases to only show most recent ones | Medium | [#4570](https://github.com/OWASP/Nest/pull/4570) |
-| Updated dependancies to fix security vulnerabilities | Medium | [#4569](https://github.com/OWASP/Nest/pull/4569) |
 | Mobile responsiveness broken on Issues page | Medium | [#4568](https://github.com/OWASP/Nest/issues/4568) |
 | Detect whether signed in github user has starred Nest repo or not | Medium | [#4566](https://github.com/OWASP/Nest/issues/4566) |
 | Resposity name as label or filter to look at issues based on repository | Medium | [#4565](https://github.com/OWASP/Nest/issues/4565) |
 | Incorrect map of India | Medium | [#4564](https://github.com/OWASP/Nest/issues/4564) |
-| fix: add actionable links to Ways to Engage cards on Community page | Medium | [#4559](https://github.com/OWASP/Nest/pull/4559) |
 | Add Semantic Caching and CrewAI Config | Medium | [#4548](https://github.com/OWASP/Nest/pull/4548) |
 | chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4545](https://github.com/OWASP/Nest/pull/4545) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4544](https://github.com/OWASP/Nest/pull/4544) |
 | Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
-| Add poetry as pre requisite | Medium | [#4536](https://github.com/OWASP/Nest/issues/4536) |
-| /bin/bash breaks on NIXOS | Medium | [#4534](https://github.com/OWASP/Nest/issues/4534) |
 | Feat: Implement Sponsors Program Support | Medium | [#4525](https://github.com/OWASP/Nest/pull/4525) |
-| Implement Sponsors Program Support | Medium | [#4520](https://github.com/OWASP/Nest/pull/4520) |
-| Refactored CardDetailsPage into smaller components | Medium | [#4519](https://github.com/OWASP/Nest/pull/4519) |
-| Added sponsor support | Medium | [#4511](https://github.com/OWASP/Nest/pull/4511) |
-| Projects page: Add the number of open issues, open PRs and last-updated-date to the project details 'card' | Medium | [#4480](https://github.com/OWASP/Nest/issues/4480) |
 
 ---
 
@@ -501,24 +497,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Pagination added to StudentsList | Medium | [#100](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/100) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
 | Enhance footer with centered sections, aligned icons, custom hover ef… | Medium | [#70](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/70) |
-
----
-
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Feature: Implement Real-Time Push Notification Pipeline for Critical Alerts | Medium | [#689](https://github.com/Dipanita45/HEALCONNECT/issues/689) |
 
 ---
 
@@ -1096,6 +1074,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Create a custom DSAMate logo | Easy | [#4](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/4) |
+| Improve navigation menu responsiveness and user experience | Medium | [#459](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/459) |
 | OAuth Sign-In Fails with Firebase | Medium | [#452](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/issues/452) |
 | Add PasswordGenerator component for password management | Medium | [#451](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/451) |
 | Add PasswordGenerator component for password management | Medium | [#450](https://github.com/saumyayadav25/cpp-dsa-sheet-testing/pull/450) |
@@ -2063,13 +2042,13 @@ Fast Workflow Tools
 | Improve Readability of Header Text on Main Page | Medium | [#116](https://github.com/Rohit-Dnath/LOL-URL/issues/116) |
 | Improve the footer | Medium | [#115](https://github.com/Rohit-Dnath/LOL-URL/issues/115) |
 | Add Supabase setup instructions | Medium | [#114](https://github.com/Rohit-Dnath/LOL-URL/issues/114) |
-| Added email verification with OTP handling | Medium | [#112](https://github.com/Rohit-Dnath/LOL-URL/pull/112) |
 | implemented requested changes | Medium | [#111](https://github.com/Rohit-Dnath/LOL-URL/pull/111) |
 | Bump axios from 1.7.9 to 1.8.2 in the npm_and_yarn group across 1 directory | Medium | [#104](https://github.com/Rohit-Dnath/LOL-URL/pull/104) |
 | feat(auth): added Google OAuth2 login with Supabase | Medium | [#103](https://github.com/Rohit-Dnath/LOL-URL/pull/103) |
 | 📅 Add Calendar View for Link Activity | Medium | [#102](https://github.com/Rohit-Dnath/LOL-URL/issues/102) |
 | 🌍 Add Internationalization (i18n) Support | Medium | [#97](https://github.com/Rohit-Dnath/LOL-URL/issues/97) |
 | 🔔 Add Push Notifications for Important Events | Medium | [#94](https://github.com/Rohit-Dnath/LOL-URL/issues/94) |
+| 🔑 Add Apple Login (OAuth2) Support | Medium | [#90](https://github.com/Rohit-Dnath/LOL-URL/issues/90) |
 | 🧑‍💼 Add Admin Panel for User & Link Moderation | Hard | [#96](https://github.com/Rohit-Dnath/LOL-URL/issues/96) |
 | 🛡️ Add Rate Limiting to Public APIs | Hard | [#95](https://github.com/Rohit-Dnath/LOL-URL/issues/95) |
 | 🔒 Add Two-Factor Authentication (2FA) | Hard | [#92](https://github.com/Rohit-Dnath/LOL-URL/issues/92) |
@@ -2137,7 +2116,12 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Standardize and Professionalize Font Text and Size Across Eventra | Easy | [#828](https://github.com/SandeepVashishtha/Eventra/issues/828) |
+| Make the application background more professional and aligned with the button color scheme | Easy | [#827](https://github.com/SandeepVashishtha/Eventra/issues/827) |
 | Event Analytics Dashboard (Organizer View) | Easy | [#799](https://github.com/SandeepVashishtha/Eventra/issues/799) |
+| Add Toggle to Enable/Disable Fluid Cursor Animation | Medium | [#833](https://github.com/SandeepVashishtha/Eventra/pull/833) |
+| Feature Request: Provide Option to Disable Fluid Cursor Animation | Medium | [#832](https://github.com/SandeepVashishtha/Eventra/issues/832) |
+| Added Dark mode Button | Medium | [#830](https://github.com/SandeepVashishtha/Eventra/pull/830) |
 | Filter section is inconsistent in dark mode; some text not visible | Medium | [#599](https://github.com/SandeepVashishtha/Eventra/issues/599) |
 | Enhance UI of “Create your first event” section | Medium | [#410](https://github.com/SandeepVashishtha/Eventra/issues/410) |
 
