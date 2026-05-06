@@ -265,7 +265,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump React to 19.2.5 | Easy | [#4613](https://github.com/OWASP/Nest/issues/4613) |
 | Feature/infrastructure docs autogen | Easy | [#4562](https://github.com/OWASP/Nest/pull/4562) |
+| chore(deps): bump react in /frontend | Medium | [#4612](https://github.com/OWASP/Nest/pull/4612) |
 | Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
 | Remove this redundant | Medium | [#4588](https://github.com/OWASP/Nest/issues/4588) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4586](https://github.com/OWASP/Nest/pull/4586) |
@@ -282,8 +284,6 @@
 | chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4545](https://github.com/OWASP/Nest/pull/4545) |
 | Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
 | Feat: Implement Sponsors Program Support | Medium | [#4525](https://github.com/OWASP/Nest/pull/4525) |
-| Implement Sponsors Program Support | Medium | [#4520](https://github.com/OWASP/Nest/pull/4520) |
-| Refactored CardDetailsPage into smaller components | Medium | [#4519](https://github.com/OWASP/Nest/pull/4519) |
 
 ---
 
@@ -1910,6 +1910,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: admin payment trigger — initiate Razorpay payout from QA queue … | Medium | [#223](https://github.com/LarytheLord/Adventurers-Guild/pull/223) |
 | feat: Landing Page Improvements - Social Proof & FAQ Sections | Medium | [#222](https://github.com/LarytheLord/Adventurers-Guild/pull/222) |
 | feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
@@ -1947,6 +1948,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: update user profile page to display complete user information | Medium | [#173](https://github.com/Xenonesis/code-guardian-report/pull/173) |
 | chore(deps): bump the production-dependencies group across 1 directory with 5 updates | Medium | [#172](https://github.com/Xenonesis/code-guardian-report/pull/172) |
 | chore(deps): bump @types/bcryptjs from 2.4.6 to 3.0.0 | Medium | [#171](https://github.com/Xenonesis/code-guardian-report/pull/171) |
 | chore(deps): bump @eslint/js from 9.39.4 to 10.0.1 | Medium | [#170](https://github.com/Xenonesis/code-guardian-report/pull/170) |
@@ -2198,7 +2200,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| AddED demo video link to README | Medium | [#51](https://github.com/Jyotibrat/AI-Flow/pull/51) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
 ---
