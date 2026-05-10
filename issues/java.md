@@ -420,6 +420,24 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
+## 📌 Project: Healconnect 
+
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
+
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: Add AI Medical Assistant Chat UI for patients | Medium | [#728](https://github.com/Dipanita45/HEALCONNECT/pull/728) |
+
+---
+
 ## 📌 Project: Blogging Platform
 
 📝 **Description:** User friendly Interface where users can create accounts and post blogs on any topic and also allows users to read other blogs based on preference and intrest ,also allows sharing 
@@ -695,15 +713,15 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Beginner-Friendly Examples in Docs | Medium | [#9](https://github.com/lohithya143/Eco-Finder-App/issues/9) |
-| Add SECURITY.md file | Medium | [#8](https://github.com/lohithya143/Eco-Finder-App/issues/8) |
-| Update CONTRIBUTING.md file. | Medium | [#7](https://github.com/lohithya143/Eco-Finder-App/issues/7) |
-| My name is Karuna i want to contribute in this | Medium | [#6](https://github.com/lohithya143/Eco-Finder-App/issues/6) |
-| Regarding changes | Medium | [#5](https://github.com/lohithya143/Eco-Finder-App/issues/5) |
-| Add a CodeOfConduct.md file | Medium | [#4](https://github.com/lohithya143/Eco-Finder-App/issues/4) |
-| Enhance README with Project Screenshots and Tech Stack Section | Medium | [#3](https://github.com/lohithya143/Eco-Finder-App/issues/3) |
-| Improve Folder Structure and Add Project Tree to README | Medium | [#2](https://github.com/lohithya143/Eco-Finder-App/pull/2) |
-| Improve Project Folder Structure and Add Project Tree to README | Medium | [#1](https://github.com/lohithya143/Eco-Finder-App/issues/1) |
+| Improve Beginner-Friendly Examples in Docs | Medium | [#9](https://github.com/Lohithya05/Eco-Finder-App/issues/9) |
+| Add SECURITY.md file | Medium | [#8](https://github.com/Lohithya05/Eco-Finder-App/issues/8) |
+| Update CONTRIBUTING.md file. | Medium | [#7](https://github.com/Lohithya05/Eco-Finder-App/issues/7) |
+| My name is Karuna i want to contribute in this | Medium | [#6](https://github.com/Lohithya05/Eco-Finder-App/issues/6) |
+| Regarding changes | Medium | [#5](https://github.com/Lohithya05/Eco-Finder-App/issues/5) |
+| Add a CodeOfConduct.md file | Medium | [#4](https://github.com/Lohithya05/Eco-Finder-App/issues/4) |
+| Enhance README with Project Screenshots and Tech Stack Section | Medium | [#3](https://github.com/Lohithya05/Eco-Finder-App/issues/3) |
+| Improve Folder Structure and Add Project Tree to README | Medium | [#2](https://github.com/Lohithya05/Eco-Finder-App/pull/2) |
+| Improve Project Folder Structure and Add Project Tree to README | Medium | [#1](https://github.com/Lohithya05/Eco-Finder-App/issues/1) |
 
 ---
 
@@ -721,9 +739,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: Consolidate image/ into images/ and remove empty folder | Medium | [#1710](https://github.com/omroy07/AgriTech/issues/1710) |
-| Duplicate License Files | Medium | [#1709](https://github.com/omroy07/AgriTech/issues/1709) |
-| Add workflow in github actions which automatically adds NSOC'26 label to each issue opend | Medium | [#1708](https://github.com/omroy07/AgriTech/issues/1708) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
@@ -1074,9 +1089,13 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| replace the banner in the course page | Easy | [#1413](https://github.com/recodehive/recode-website/issues/1413) |
-| Check the discord link is working | Easy | [#1410](https://github.com/recodehive/recode-website/issues/1410) |
-| Redirect the Get start button on the main page | Easy | [#1409](https://github.com/recodehive/recode-website/issues/1409) |
+| Removing Loading Text | Easy | [#1472](https://github.com/recodehive/recode-website/pull/1472) |
+| chore: bump tailwindcss from 4.2.4 to 4.3.0 | Easy | [#1470](https://github.com/recodehive/recode-website/pull/1470) |
+| chore: bump lint-staged from 17.0.2 to 17.0.3 | Easy | [#1469](https://github.com/recodehive/recode-website/pull/1469) |
+| chore: bump @tailwindcss/postcss from 4.2.4 to 4.3.0 | Easy | [#1468](https://github.com/recodehive/recode-website/pull/1468) |
+| chore: bump react-dom and @types/react-dom | Easy | [#1467](https://github.com/recodehive/recode-website/pull/1467) |
+| Redirects get started button to docs without deleting anything else | Easy | [#1465](https://github.com/recodehive/recode-website/pull/1465) |
+| blog for batch vs stream processing | Easy | [#1463](https://github.com/recodehive/recode-website/pull/1463) |
 
 ---
 
@@ -1216,7 +1235,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fix layout misalignment in main section (image and content overlapping) | Medium | [#410](https://github.com/multiverseweb/Dataverse/issues/410) |
 | Add a "Getting Started" section to the README | Medium | [#409](https://github.com/multiverseweb/Dataverse/issues/409) |
 | Implement data import/export module + user-friendly CSV/Excel UI for visualizations | Medium | [#408](https://github.com/multiverseweb/Dataverse/issues/408) |
-| Add ToolTip hints for buttons and Charts | Medium | [#407](https://github.com/multiverseweb/Dataverse/issues/407) |
 | Documentation Add Code of Conduct for Dataverse – GSSOC'25 (Open Source Contributions) | Medium | [#406](https://github.com/multiverseweb/Dataverse/issues/406) |
 | 🔐 Password Strength Checker | Medium | [#405](https://github.com/multiverseweb/Dataverse/issues/405) |
 | Sticky and Glassy Navbar | Medium | [#404](https://github.com/multiverseweb/Dataverse/issues/404) |
@@ -1226,6 +1244,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | improving the UI/UX of the authentication pages | Medium | [#400](https://github.com/multiverseweb/Dataverse/issues/400) |
 | Feature Request: Language Toggle for Multilingual UI | Medium | [#399](https://github.com/multiverseweb/Dataverse/issues/399) |
 | Improved UI: Dark Mode Toggle, Corrected the stunning visuals page by solving 4044 error | Medium | [#398](https://github.com/multiverseweb/Dataverse/pull/398) |
+| Add styles to Login and go to home buttons | Medium | [#397](https://github.com/multiverseweb/Dataverse/issues/397) |
 
 ---
 
@@ -1244,7 +1263,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Redesign of Contributing.md | Medium | [#115](https://github.com/KOMARAUDAYKIRAN/E-commerce-AgriGro-Website-Project/issues/115) |
-| # 🌓 Implement Comprehensive Dark Mode System for AgriBazaar [GSSoC 2025] | Medium | [#114](https://github.com/KOMARAUDAYKIRAN/E-commerce-AgriGro-Website-Project/pull/114) |
 | UI/UX Enhancements: Loading Spinners, Toast Notifications, Form Validation & 404 Page [GSSoC 2025] | Medium | [#113](https://github.com/KOMARAUDAYKIRAN/E-commerce-AgriGro-Website-Project/pull/113) |
 | Frontend not sending POST requests to backend (Spring Boot 8083) | Medium | [#86](https://github.com/KOMARAUDAYKIRAN/E-commerce-AgriGro-Website-Project/issues/86) |
 | Add dark mode toggle feature and update navbar listing | Medium | [#81](https://github.com/KOMARAUDAYKIRAN/E-commerce-AgriGro-Website-Project/pull/81) |
