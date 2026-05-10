@@ -208,25 +208,18 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump React to 19.2.5 | Easy | [#4613](https://github.com/OWASP/Nest/issues/4613) |
-| Feature/infrastructure docs autogen | Easy | [#4562](https://github.com/OWASP/Nest/pull/4562) |
-| chore(deps): bump react in /frontend | Medium | [#4612](https://github.com/OWASP/Nest/pull/4612) |
+| deadlineUtil frontend unit test fails | Medium | [#4632](https://github.com/OWASP/Nest/issues/4632) |
 | Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
 | Remove this redundant | Medium | [#4588](https://github.com/OWASP/Nest/issues/4588) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4586](https://github.com/OWASP/Nest/pull/4586) |
 | Ternary operators should not be nested | Medium | [#4582](https://github.com/OWASP/Nest/issues/4582) |
 | NestBot Content Reporting & Moderation Workflow | Medium | [#4577](https://github.com/OWASP/Nest/issues/4577) |
 | Number value being assigned to string | Medium | [#4575](https://github.com/OWASP/Nest/issues/4575) |
-| fix import in multiple test files | Medium | [#4571](https://github.com/OWASP/Nest/issues/4571) |
 | Limit releases to only show most recent ones | Medium | [#4570](https://github.com/OWASP/Nest/pull/4570) |
 | Mobile responsiveness broken on Issues page | Medium | [#4568](https://github.com/OWASP/Nest/issues/4568) |
 | Detect whether signed in github user has starred Nest repo or not | Medium | [#4566](https://github.com/OWASP/Nest/issues/4566) |
 | Resposity name as label or filter to look at issues based on repository | Medium | [#4565](https://github.com/OWASP/Nest/issues/4565) |
 | Incorrect map of India | Medium | [#4564](https://github.com/OWASP/Nest/issues/4564) |
-| Add Semantic Caching and CrewAI Config | Medium | [#4548](https://github.com/OWASP/Nest/pull/4548) |
-| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4545](https://github.com/OWASP/Nest/pull/4545) |
-| Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
-| Feat: Implement Sponsors Program Support | Medium | [#4525](https://github.com/OWASP/Nest/pull/4525) |
 
 ---
 
@@ -574,9 +567,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: Consolidate image/ into images/ and remove empty folder | Medium | [#1710](https://github.com/omroy07/AgriTech/issues/1710) |
-| Duplicate License Files | Medium | [#1709](https://github.com/omroy07/AgriTech/issues/1709) |
-| Add workflow in github actions which automatically adds NSOC'26 label to each issue opend | Medium | [#1708](https://github.com/omroy07/AgriTech/issues/1708) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
@@ -662,7 +652,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| made few chnages and added new models | Medium | [#864](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/864) |
 | Added MAT-CLASSIFY (closes #754) | Medium | [#863](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/863) |
 | Add Project — Stock Market Bubble Detection | Medium | [#860](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/860) |
 | Add Project — Smart Financial Advisory | Medium | [#858](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/858) |
@@ -981,7 +970,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Fix layout misalignment in main section (image and content overlapping) | Medium | [#410](https://github.com/multiverseweb/Dataverse/issues/410) |
 | Add a "Getting Started" section to the README | Medium | [#409](https://github.com/multiverseweb/Dataverse/issues/409) |
 | Implement data import/export module + user-friendly CSV/Excel UI for visualizations | Medium | [#408](https://github.com/multiverseweb/Dataverse/issues/408) |
-| Add ToolTip hints for buttons and Charts | Medium | [#407](https://github.com/multiverseweb/Dataverse/issues/407) |
 | Documentation Add Code of Conduct for Dataverse – GSSOC'25 (Open Source Contributions) | Medium | [#406](https://github.com/multiverseweb/Dataverse/issues/406) |
 | 🔐 Password Strength Checker | Medium | [#405](https://github.com/multiverseweb/Dataverse/issues/405) |
 | Sticky and Glassy Navbar | Medium | [#404](https://github.com/multiverseweb/Dataverse/issues/404) |
@@ -991,6 +979,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | improving the UI/UX of the authentication pages | Medium | [#400](https://github.com/multiverseweb/Dataverse/issues/400) |
 | Feature Request: Language Toggle for Multilingual UI | Medium | [#399](https://github.com/multiverseweb/Dataverse/issues/399) |
 | Improved UI: Dark Mode Toggle, Corrected the stunning visuals page by solving 4044 error | Medium | [#398](https://github.com/multiverseweb/Dataverse/pull/398) |
+| Add styles to Login and go to home buttons | Medium | [#397](https://github.com/multiverseweb/Dataverse/issues/397) |
 
 ---
 
