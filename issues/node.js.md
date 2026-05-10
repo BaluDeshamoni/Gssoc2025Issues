@@ -52,6 +52,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump the npm_and_yarn group across 2 directories with 3 updates | Medium | [#755](https://github.com/abhisek2004/Dev-Elevate/pull/755) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -715,7 +716,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Shree | Medium | [#103](https://github.com/RamakrushnaBiswal/HonorBox/pull/103) |
 | Navbar lacks essential navigation options | Medium | [#101](https://github.com/RamakrushnaBiswal/HonorBox/issues/101) |
 | Design an animated menubar for mobile view | Medium | [#100](https://github.com/RamakrushnaBiswal/HonorBox/issues/100) |
-| Enhanced Authentication Form  with Success Messages | Medium | [#95](https://github.com/RamakrushnaBiswal/HonorBox/pull/95) |
 | Certificate page UI #72 | Medium | [#82](https://github.com/RamakrushnaBiswal/HonorBox/pull/82) |
 | fixed the error | Medium | [#75](https://github.com/RamakrushnaBiswal/HonorBox/pull/75) |
 | feat: Add website visitor counter (issue#63) | Medium | [#71](https://github.com/RamakrushnaBiswal/HonorBox/pull/71) |
