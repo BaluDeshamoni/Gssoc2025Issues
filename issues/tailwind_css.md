@@ -98,6 +98,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump the npm_and_yarn group across 2 directories with 3 updates | Medium | [#755](https://github.com/abhisek2004/Dev-Elevate/pull/755) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -244,25 +245,18 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump React to 19.2.5 | Easy | [#4613](https://github.com/OWASP/Nest/issues/4613) |
-| Feature/infrastructure docs autogen | Easy | [#4562](https://github.com/OWASP/Nest/pull/4562) |
-| chore(deps): bump react in /frontend | Medium | [#4612](https://github.com/OWASP/Nest/pull/4612) |
+| deadlineUtil frontend unit test fails | Medium | [#4632](https://github.com/OWASP/Nest/issues/4632) |
 | Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
 | Remove this redundant | Medium | [#4588](https://github.com/OWASP/Nest/issues/4588) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4586](https://github.com/OWASP/Nest/pull/4586) |
 | Ternary operators should not be nested | Medium | [#4582](https://github.com/OWASP/Nest/issues/4582) |
 | NestBot Content Reporting & Moderation Workflow | Medium | [#4577](https://github.com/OWASP/Nest/issues/4577) |
 | Number value being assigned to string | Medium | [#4575](https://github.com/OWASP/Nest/issues/4575) |
-| fix import in multiple test files | Medium | [#4571](https://github.com/OWASP/Nest/issues/4571) |
 | Limit releases to only show most recent ones | Medium | [#4570](https://github.com/OWASP/Nest/pull/4570) |
 | Mobile responsiveness broken on Issues page | Medium | [#4568](https://github.com/OWASP/Nest/issues/4568) |
 | Detect whether signed in github user has starred Nest repo or not | Medium | [#4566](https://github.com/OWASP/Nest/issues/4566) |
 | Resposity name as label or filter to look at issues based on repository | Medium | [#4565](https://github.com/OWASP/Nest/issues/4565) |
 | Incorrect map of India | Medium | [#4564](https://github.com/OWASP/Nest/issues/4564) |
-| Add Semantic Caching and CrewAI Config | Medium | [#4548](https://github.com/OWASP/Nest/pull/4548) |
-| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4545](https://github.com/OWASP/Nest/pull/4545) |
-| Enhancement: Show Status of Issues and Pull Requests on Member Profiles | Medium | [#4537](https://github.com/OWASP/Nest/issues/4537) |
-| Feat: Implement Sponsors Program Support | Medium | [#4525](https://github.com/OWASP/Nest/pull/4525) |
 
 ---
 
@@ -500,6 +494,24 @@ Schools, offices, and wellness centers looking to green their spaces
 
 ---
 
+## 📌 Project: Healconnect 
+
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
+
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: Add AI Medical Assistant Chat UI for patients | Medium | [#728](https://github.com/Dipanita45/HEALCONNECT/pull/728) |
+
+---
+
 ## 📌 Project: MindJournal 
 
 📝 **Description:** A full-featured mental health journal app built with React.js, Tailwind CSS, and Vite.
@@ -649,7 +661,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | with font colour and font alignment | Medium | [#162](https://github.com/Vaishnavi-Manne/LetsDoDsaTogether/issues/162) |
 | add  a visuval streak track page | Medium | [#161](https://github.com/Vaishnavi-Manne/LetsDoDsaTogether/issues/161) |
 | Feature request : Add DSA Problem of the Day Widget  (Floating Button) | Medium | [#159](https://github.com/Vaishnavi-Manne/LetsDoDsaTogether/issues/159) |
-| Added Logo Image Before Navbar Title | Medium | [#157](https://github.com/Vaishnavi-Manne/LetsDoDsaTogether/pull/157) |
 | Implementing Roadmap in Beginner Page. | Medium | [#156](https://github.com/Vaishnavi-Manne/LetsDoDsaTogether/issues/156) |
 | Issue 3: Buttons in Beginner, Advance, and All-in-One Sections Not Implemented | Medium | [#152](https://github.com/Vaishnavi-Manne/LetsDoDsaTogether/issues/152) |
 | Issue 2: Login Functionality Not Working | Medium | [#151](https://github.com/Vaishnavi-Manne/LetsDoDsaTogether/issues/151) |
@@ -657,6 +668,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | Beginner Page Content Not Visible in Light Mode | Medium | [#148](https://github.com/Vaishnavi-Manne/LetsDoDsaTogether/issues/148) |
 | Dark Mode Not Synced on About Page | Medium | [#147](https://github.com/Vaishnavi-Manne/LetsDoDsaTogether/issues/147) |
 | Navbar in the login section overlaps or hides content | Medium | [#143](https://github.com/Vaishnavi-Manne/LetsDoDsaTogether/issues/143) |
+| “Beginner,” “Advanced,” and “All-in-One” sections all display the same topics | Medium | [#142](https://github.com/Vaishnavi-Manne/LetsDoDsaTogether/issues/142) |
 
 ---
 
@@ -1004,7 +1016,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Shree | Medium | [#103](https://github.com/RamakrushnaBiswal/HonorBox/pull/103) |
 | Navbar lacks essential navigation options | Medium | [#101](https://github.com/RamakrushnaBiswal/HonorBox/issues/101) |
 | Design an animated menubar for mobile view | Medium | [#100](https://github.com/RamakrushnaBiswal/HonorBox/issues/100) |
-| Enhanced Authentication Form  with Success Messages | Medium | [#95](https://github.com/RamakrushnaBiswal/HonorBox/pull/95) |
 | Certificate page UI #72 | Medium | [#82](https://github.com/RamakrushnaBiswal/HonorBox/pull/82) |
 | fixed the error | Medium | [#75](https://github.com/RamakrushnaBiswal/HonorBox/pull/75) |
 | feat: Add website visitor counter (issue#63) | Medium | [#71](https://github.com/RamakrushnaBiswal/HonorBox/pull/71) |
