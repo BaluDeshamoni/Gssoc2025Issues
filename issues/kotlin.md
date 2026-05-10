@@ -73,7 +73,6 @@ User Profile: BMI calculator and fitness analytics.
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#22](https://github.com/akshtshrma/KinetiX/issues/22) |
 | Add CODE_OF_CONDUCT.md file | Medium | [#21](https://github.com/akshtshrma/KinetiX/issues/21) |
 | Add README.md file | Medium | [#20](https://github.com/akshtshrma/KinetiX/issues/20) |
-| AI-Enhanced Form Analysis & Comprehensive App Improvements | Medium | [#18](https://github.com/akshtshrma/KinetiX/pull/18) |
 | Feature Request: Add Personalized AI Coach for Dynamic Workout Suggestions | Medium | [#17](https://github.com/akshtshrma/KinetiX/issues/17) |
 | docs: add comprehensive README with project overview, features, and contribution guidelines ( closes #1 ) | Medium | [#16](https://github.com/akshtshrma/KinetiX/pull/16) |
 | Add Dynamic Images in the "Login/SignUp" screen | Medium | [#13](https://github.com/akshtshrma/KinetiX/issues/13) |
