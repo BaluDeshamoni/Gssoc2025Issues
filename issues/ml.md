@@ -186,7 +186,6 @@ User Profile: BMI calculator and fitness analytics.
 | Add a SECURITY.md file for responsible disclosure guidelines | Medium | [#22](https://github.com/akshtshrma/KinetiX/issues/22) |
 | Add CODE_OF_CONDUCT.md file | Medium | [#21](https://github.com/akshtshrma/KinetiX/issues/21) |
 | Add README.md file | Medium | [#20](https://github.com/akshtshrma/KinetiX/issues/20) |
-| AI-Enhanced Form Analysis & Comprehensive App Improvements | Medium | [#18](https://github.com/akshtshrma/KinetiX/pull/18) |
 | Feature Request: Add Personalized AI Coach for Dynamic Workout Suggestions | Medium | [#17](https://github.com/akshtshrma/KinetiX/issues/17) |
 | docs: add comprehensive README with project overview, features, and contribution guidelines ( closes #1 ) | Medium | [#16](https://github.com/akshtshrma/KinetiX/pull/16) |
 | Add Dynamic Images in the "Login/SignUp" screen | Medium | [#13](https://github.com/akshtshrma/KinetiX/issues/13) |
@@ -814,9 +813,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: Consolidate image/ into images/ and remove empty folder | Medium | [#1710](https://github.com/omroy07/AgriTech/issues/1710) |
-| Duplicate License Files | Medium | [#1709](https://github.com/omroy07/AgriTech/issues/1709) |
-| Add workflow in github actions which automatically adds NSOC'26 label to each issue opend | Medium | [#1708](https://github.com/omroy07/AgriTech/issues/1708) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
@@ -1194,9 +1190,13 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| replace the banner in the course page | Easy | [#1413](https://github.com/recodehive/recode-website/issues/1413) |
-| Check the discord link is working | Easy | [#1410](https://github.com/recodehive/recode-website/issues/1410) |
-| Redirect the Get start button on the main page | Easy | [#1409](https://github.com/recodehive/recode-website/issues/1409) |
+| Removing Loading Text | Easy | [#1472](https://github.com/recodehive/recode-website/pull/1472) |
+| chore: bump tailwindcss from 4.2.4 to 4.3.0 | Easy | [#1470](https://github.com/recodehive/recode-website/pull/1470) |
+| chore: bump lint-staged from 17.0.2 to 17.0.3 | Easy | [#1469](https://github.com/recodehive/recode-website/pull/1469) |
+| chore: bump @tailwindcss/postcss from 4.2.4 to 4.3.0 | Easy | [#1468](https://github.com/recodehive/recode-website/pull/1468) |
+| chore: bump react-dom and @types/react-dom | Easy | [#1467](https://github.com/recodehive/recode-website/pull/1467) |
+| Redirects get started button to docs without deleting anything else | Easy | [#1465](https://github.com/recodehive/recode-website/pull/1465) |
+| blog for batch vs stream processing | Easy | [#1463](https://github.com/recodehive/recode-website/pull/1463) |
 
 ---
 
@@ -1337,7 +1337,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Fix layout misalignment in main section (image and content overlapping) | Medium | [#410](https://github.com/multiverseweb/Dataverse/issues/410) |
 | Add a "Getting Started" section to the README | Medium | [#409](https://github.com/multiverseweb/Dataverse/issues/409) |
 | Implement data import/export module + user-friendly CSV/Excel UI for visualizations | Medium | [#408](https://github.com/multiverseweb/Dataverse/issues/408) |
-| Add ToolTip hints for buttons and Charts | Medium | [#407](https://github.com/multiverseweb/Dataverse/issues/407) |
 | Documentation Add Code of Conduct for Dataverse – GSSOC'25 (Open Source Contributions) | Medium | [#406](https://github.com/multiverseweb/Dataverse/issues/406) |
 | 🔐 Password Strength Checker | Medium | [#405](https://github.com/multiverseweb/Dataverse/issues/405) |
 | Sticky and Glassy Navbar | Medium | [#404](https://github.com/multiverseweb/Dataverse/issues/404) |
@@ -1347,6 +1346,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | improving the UI/UX of the authentication pages | Medium | [#400](https://github.com/multiverseweb/Dataverse/issues/400) |
 | Feature Request: Language Toggle for Multilingual UI | Medium | [#399](https://github.com/multiverseweb/Dataverse/issues/399) |
 | Improved UI: Dark Mode Toggle, Corrected the stunning visuals page by solving 4044 error | Medium | [#398](https://github.com/multiverseweb/Dataverse/pull/398) |
+| Add styles to Login and go to home buttons | Medium | [#397](https://github.com/multiverseweb/Dataverse/issues/397) |
 
 ---
 
