@@ -93,6 +93,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: make username required and add Share Guild Card button | Medium | [#229](https://github.com/LarytheLord/Adventurers-Guild/pull/229) |
+| fix: quest board not loading for adventurers | Medium | [#228](https://github.com/LarytheLord/Adventurers-Guild/pull/228) |
+| chore: integrate party panel improvements from PR #199 | Medium | [#227](https://github.com/LarytheLord/Adventurers-Guild/pull/227) |
+| fix: resolve issue #109 - admin revenue dashboard | Medium | [#226](https://github.com/LarytheLord/Adventurers-Guild/pull/226) |
 | feat: admin payment trigger — initiate Razorpay payout from QA queue … | Medium | [#223](https://github.com/LarytheLord/Adventurers-Guild/pull/223) |
 | feat: Landing Page Improvements - Social Proof & FAQ Sections | Medium | [#222](https://github.com/LarytheLord/Adventurers-Guild/pull/222) |
 | feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
@@ -113,7 +117,6 @@
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 | NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
-| Enhance the faq section | Medium | [#182](https://github.com/LarytheLord/Adventurers-Guild/pull/182) |
 
 ---
 
