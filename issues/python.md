@@ -208,18 +208,13 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#4646](https://github.com/OWASP/Nest/pull/4646) |
+| chore(deps): bump the version-updates group across 1 directory with 10 updates | Medium | [#4645](https://github.com/OWASP/Nest/pull/4645) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4642](https://github.com/OWASP/Nest/pull/4642) |
+| chore(deps): bump algoliasearch in /backend | Medium | [#4641](https://github.com/OWASP/Nest/pull/4641) |
+| Extract backend tests workflow and remove docker layer | Medium | [#4635](https://github.com/OWASP/Nest/pull/4635) |
 | deadlineUtil frontend unit test fails | Medium | [#4632](https://github.com/OWASP/Nest/issues/4632) |
 | Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
-| Remove this redundant | Medium | [#4588](https://github.com/OWASP/Nest/issues/4588) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4586](https://github.com/OWASP/Nest/pull/4586) |
-| Ternary operators should not be nested | Medium | [#4582](https://github.com/OWASP/Nest/issues/4582) |
-| NestBot Content Reporting & Moderation Workflow | Medium | [#4577](https://github.com/OWASP/Nest/issues/4577) |
-| Number value being assigned to string | Medium | [#4575](https://github.com/OWASP/Nest/issues/4575) |
-| Limit releases to only show most recent ones | Medium | [#4570](https://github.com/OWASP/Nest/pull/4570) |
-| Mobile responsiveness broken on Issues page | Medium | [#4568](https://github.com/OWASP/Nest/issues/4568) |
-| Detect whether signed in github user has starred Nest repo or not | Medium | [#4566](https://github.com/OWASP/Nest/issues/4566) |
-| Resposity name as label or filter to look at issues based on repository | Medium | [#4565](https://github.com/OWASP/Nest/issues/4565) |
-| Incorrect map of India | Medium | [#4564](https://github.com/OWASP/Nest/issues/4564) |
 
 ---
 
@@ -567,6 +562,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add workflow in github actions which automatically adds NSOC'26 label to each issue opend | Medium | [#1712](https://github.com/omroy07/AgriTech/pull/1712) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
@@ -1044,6 +1040,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Specialist Recommendation returns generic/empty results for valid inputs | Medium | [#223](https://github.com/aayushraj1010/med-genie/issues/223) |
+| The production level app is falling | Medium | [#222](https://github.com/aayushraj1010/med-genie/issues/222) |
 | enhanced services page | Medium | [#217](https://github.com/aayushraj1010/med-genie/pull/217) |
 | Add privacy policy page and  cookies page | Medium | [#215](https://github.com/aayushraj1010/med-genie/pull/215) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
