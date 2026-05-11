@@ -158,18 +158,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#4646](https://github.com/OWASP/Nest/pull/4646) |
+| chore(deps): bump the version-updates group across 1 directory with 10 updates | Medium | [#4645](https://github.com/OWASP/Nest/pull/4645) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4642](https://github.com/OWASP/Nest/pull/4642) |
+| chore(deps): bump algoliasearch in /backend | Medium | [#4641](https://github.com/OWASP/Nest/pull/4641) |
+| Extract backend tests workflow and remove docker layer | Medium | [#4635](https://github.com/OWASP/Nest/pull/4635) |
 | deadlineUtil frontend unit test fails | Medium | [#4632](https://github.com/OWASP/Nest/issues/4632) |
 | Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
-| Remove this redundant | Medium | [#4588](https://github.com/OWASP/Nest/issues/4588) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4586](https://github.com/OWASP/Nest/pull/4586) |
-| Ternary operators should not be nested | Medium | [#4582](https://github.com/OWASP/Nest/issues/4582) |
-| NestBot Content Reporting & Moderation Workflow | Medium | [#4577](https://github.com/OWASP/Nest/issues/4577) |
-| Number value being assigned to string | Medium | [#4575](https://github.com/OWASP/Nest/issues/4575) |
-| Limit releases to only show most recent ones | Medium | [#4570](https://github.com/OWASP/Nest/pull/4570) |
-| Mobile responsiveness broken on Issues page | Medium | [#4568](https://github.com/OWASP/Nest/issues/4568) |
-| Detect whether signed in github user has starred Nest repo or not | Medium | [#4566](https://github.com/OWASP/Nest/issues/4566) |
-| Resposity name as label or filter to look at issues based on repository | Medium | [#4565](https://github.com/OWASP/Nest/issues/4565) |
-| Incorrect map of India | Medium | [#4564](https://github.com/OWASP/Nest/issues/4564) |
 
 ---
 
@@ -345,6 +340,12 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Making instructions clear about opening in localhost | Easy | [#397](https://github.com/Muneerali199/Draftdeckai/issues/397) |
+| using docker to avoid install of dependencies | Medium | [#423](https://github.com/Muneerali199/Draftdeckai/issues/423) |
+| Fix theme toggle #206 #gssoc26 | Medium | [#422](https://github.com/Muneerali199/Draftdeckai/pull/422) |
+| Connect the shareDiagram logic to the Header button in Diagram Studio. | Medium | [#421](https://github.com/Muneerali199/Draftdeckai/issues/421) |
+| Add Client-Side Search and Filtering to AI Systems Dashboard | Medium | [#420](https://github.com/Muneerali199/Draftdeckai/issues/420) |
+| Enforce Password Constraints and Harden Default Server Configurations | Medium | [#419](https://github.com/Muneerali199/Draftdeckai/issues/419) |
+| Fix Broken Routing and Missing Navigation Links | Medium | [#418](https://github.com/Muneerali199/Draftdeckai/issues/418) |
 | fix(diagram): implement share button functionality with clipboard copy and toast feedback (closes #410) | Medium | [#416](https://github.com/Muneerali199/Draftdeckai/pull/416) |
 | feat: add AI Cover Letter Generator from Resume (#411) | Medium | [#415](https://github.com/Muneerali199/Draftdeckai/pull/415) |
 | feat: Add Productivity Engine - Structured Document System | Medium | [#412](https://github.com/Muneerali199/Draftdeckai/pull/412) |
@@ -360,10 +361,6 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | contact form implementation | Medium | [#345](https://github.com/Muneerali199/Draftdeckai/pull/345) |
 | Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/Draftdeckai/issues/331) |
 | feat: Add ImportProfile component and update page.tsx (Fixes #23) | Medium | [#330](https://github.com/Muneerali199/Draftdeckai/pull/330) |
-| added the animation of increasing numbers in dashboard | Medium | [#329](https://github.com/Muneerali199/Draftdeckai/pull/329) |
-| chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/Draftdeckai/pull/324) |
-| fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/Draftdeckai/pull/323) |
-| Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/Draftdeckai/pull/320) |
 
 ---
 
@@ -458,30 +455,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | UI enhancement: Landing Page | Medium | [#5](https://github.com/sailaja-adapa/GuruShish/issues/5) |
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
 | Glassy Navbar Contribution | Medium | [#3](https://github.com/sailaja-adapa/GuruShish/issues/3) |
-
----
-
-## 📌 Project: recode-website
-
-📝 **Description:** community blog website 
-
-🔗 [View Project](https://github.com/recodehive/recode-website)
-
-💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Removing Loading Text | Easy | [#1472](https://github.com/recodehive/recode-website/pull/1472) |
-| chore: bump tailwindcss from 4.2.4 to 4.3.0 | Easy | [#1470](https://github.com/recodehive/recode-website/pull/1470) |
-| chore: bump lint-staged from 17.0.2 to 17.0.3 | Easy | [#1469](https://github.com/recodehive/recode-website/pull/1469) |
-| chore: bump @tailwindcss/postcss from 4.2.4 to 4.3.0 | Easy | [#1468](https://github.com/recodehive/recode-website/pull/1468) |
-| chore: bump react-dom and @types/react-dom | Easy | [#1467](https://github.com/recodehive/recode-website/pull/1467) |
-| Redirects get started button to docs without deleting anything else | Easy | [#1465](https://github.com/recodehive/recode-website/pull/1465) |
-| blog for batch vs stream processing | Easy | [#1463](https://github.com/recodehive/recode-website/pull/1463) |
 
 ---
 
