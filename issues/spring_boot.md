@@ -129,14 +129,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Standardize and Professionalize Font Text and Size Across Eventra | Easy | [#828](https://github.com/SandeepVashishtha/Eventra/issues/828) |
-| Make the application background more professional and aligned with the button color scheme | Easy | [#827](https://github.com/SandeepVashishtha/Eventra/issues/827) |
+| Event Analytics Dashboard for Organizers | Easy | [#834](https://github.com/SandeepVashishtha/Eventra/issues/834) |
 | Event Analytics Dashboard (Organizer View) | Easy | [#799](https://github.com/SandeepVashishtha/Eventra/issues/799) |
-| Add Toggle to Enable/Disable Fluid Cursor Animation | Medium | [#833](https://github.com/SandeepVashishtha/Eventra/pull/833) |
-| Feature Request: Provide Option to Disable Fluid Cursor Animation | Medium | [#832](https://github.com/SandeepVashishtha/Eventra/issues/832) |
-| Added Dark mode Button | Medium | [#830](https://github.com/SandeepVashishtha/Eventra/pull/830) |
 | Filter section is inconsistent in dark mode; some text not visible | Medium | [#599](https://github.com/SandeepVashishtha/Eventra/issues/599) |
+| About page content reduced compared to earlier version | Medium | [#562](https://github.com/SandeepVashishtha/Eventra/issues/562) |
+| Stats Section Does Not Hide After Performing a Search | Medium | [#549](https://github.com/SandeepVashishtha/Eventra/issues/549) |
+| Modernize Hackathon Page Filter Dropdown | Medium | [#503](https://github.com/SandeepVashishtha/Eventra/issues/503) |
 | Enhance UI of “Create your first event” section | Medium | [#410](https://github.com/SandeepVashishtha/Eventra/issues/410) |
+| Bug | Medium | [#400](https://github.com/SandeepVashishtha/Eventra/issues/400) |
 
 ---
 
