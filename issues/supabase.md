@@ -86,6 +86,12 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Making instructions clear about opening in localhost | Easy | [#397](https://github.com/Muneerali199/Draftdeckai/issues/397) |
+| using docker to avoid install of dependencies | Medium | [#423](https://github.com/Muneerali199/Draftdeckai/issues/423) |
+| Fix theme toggle #206 #gssoc26 | Medium | [#422](https://github.com/Muneerali199/Draftdeckai/pull/422) |
+| Connect the shareDiagram logic to the Header button in Diagram Studio. | Medium | [#421](https://github.com/Muneerali199/Draftdeckai/issues/421) |
+| Add Client-Side Search and Filtering to AI Systems Dashboard | Medium | [#420](https://github.com/Muneerali199/Draftdeckai/issues/420) |
+| Enforce Password Constraints and Harden Default Server Configurations | Medium | [#419](https://github.com/Muneerali199/Draftdeckai/issues/419) |
+| Fix Broken Routing and Missing Navigation Links | Medium | [#418](https://github.com/Muneerali199/Draftdeckai/issues/418) |
 | fix(diagram): implement share button functionality with clipboard copy and toast feedback (closes #410) | Medium | [#416](https://github.com/Muneerali199/Draftdeckai/pull/416) |
 | feat: add AI Cover Letter Generator from Resume (#411) | Medium | [#415](https://github.com/Muneerali199/Draftdeckai/pull/415) |
 | feat: Add Productivity Engine - Structured Document System | Medium | [#412](https://github.com/Muneerali199/Draftdeckai/pull/412) |
@@ -101,10 +107,6 @@
 | contact form implementation | Medium | [#345](https://github.com/Muneerali199/Draftdeckai/pull/345) |
 | Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/Draftdeckai/issues/331) |
 | feat: Add ImportProfile component and update page.tsx (Fixes #23) | Medium | [#330](https://github.com/Muneerali199/Draftdeckai/pull/330) |
-| added the animation of increasing numbers in dashboard | Medium | [#329](https://github.com/Muneerali199/Draftdeckai/pull/329) |
-| chore(deps): bump nodemailer and @types/nodemailer | Medium | [#324](https://github.com/Muneerali199/Draftdeckai/pull/324) |
-| fix: Supabase Auth Helpers import in ResumeGenerator | Medium | [#323](https://github.com/Muneerali199/Draftdeckai/pull/323) |
-| Replaced the navbar by hamburger bar(changes fixed) | Medium | [#320](https://github.com/Muneerali199/Draftdeckai/pull/320) |
 
 ---
 
