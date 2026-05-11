@@ -92,18 +92,13 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#4646](https://github.com/OWASP/Nest/pull/4646) |
+| chore(deps): bump the version-updates group across 1 directory with 10 updates | Medium | [#4645](https://github.com/OWASP/Nest/pull/4645) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4642](https://github.com/OWASP/Nest/pull/4642) |
+| chore(deps): bump algoliasearch in /backend | Medium | [#4641](https://github.com/OWASP/Nest/pull/4641) |
+| Extract backend tests workflow and remove docker layer | Medium | [#4635](https://github.com/OWASP/Nest/pull/4635) |
 | deadlineUtil frontend unit test fails | Medium | [#4632](https://github.com/OWASP/Nest/issues/4632) |
 | Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
-| Remove this redundant | Medium | [#4588](https://github.com/OWASP/Nest/issues/4588) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4586](https://github.com/OWASP/Nest/pull/4586) |
-| Ternary operators should not be nested | Medium | [#4582](https://github.com/OWASP/Nest/issues/4582) |
-| NestBot Content Reporting & Moderation Workflow | Medium | [#4577](https://github.com/OWASP/Nest/issues/4577) |
-| Number value being assigned to string | Medium | [#4575](https://github.com/OWASP/Nest/issues/4575) |
-| Limit releases to only show most recent ones | Medium | [#4570](https://github.com/OWASP/Nest/pull/4570) |
-| Mobile responsiveness broken on Issues page | Medium | [#4568](https://github.com/OWASP/Nest/issues/4568) |
-| Detect whether signed in github user has starred Nest repo or not | Medium | [#4566](https://github.com/OWASP/Nest/issues/4566) |
-| Resposity name as label or filter to look at issues based on repository | Medium | [#4565](https://github.com/OWASP/Nest/issues/4565) |
-| Incorrect map of India | Medium | [#4564](https://github.com/OWASP/Nest/issues/4564) |
 
 ---
 
@@ -168,6 +163,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Refactored the code to enable the use of plugins. Considering new features (This is still a WIP, See below for more info) | Medium | [#84](https://github.com/harshendram/Advanced-Discord-Bot/pull/84) |
 | Deploying the bot | Medium | [#82](https://github.com/harshendram/Advanced-Discord-Bot/issues/82) |
 | Add Login Page for User Authentication | Medium | [#80](https://github.com/harshendram/Advanced-Discord-Bot/issues/80) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
@@ -305,31 +301,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add Mute/Unmute Toggle Button | Medium | [#3](https://github.com/Anjaliavv51/TuneCrate/issues/3) |
 | Improve UX: Scroll long Track titles in popup by continuous scrolling horizontally to view full name | Medium | [#2](https://github.com/Anjaliavv51/TuneCrate/issues/2) |
 | Improve Mobile & Chrome Extension View + UI Polish | Medium | [#1](https://github.com/Anjaliavv51/TuneCrate/issues/1) |
-
----
-
-## 📌 Project: NBG (NEET Battleground)
-
-📝 **Description:** NEET Battleground (NBG) is a real-time, multiplayer web app that gamifies NEET exam practice with timed MCQ quizzes and a Skribbl.io-style drawing game. It features private room creation, live chat, custom usernames, and round-based gameplay with scoring. The app is built using React 18 with TypeScript, Tailwind CSS, Socket.IO, Zustand for state management, and React Router for navigation. Designed with a responsive, mobile-first layout and a medical/educational theme, NBG aims to make learning competitive, fun, and interactive.
-
-🔗 [View Project](https://github.com/Piyush-t24/NBG)
-
-💻 **Tech Stack:** React 18, TypeScript, Tailwind CSS, React Router, Socket.IO, Node.js, Express.js, MongoDB, JWT
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Implement Dark/Light Mode Toggle | Medium | [#17](https://github.com/Piyush-t24/NBG/issues/17) |
-| feat: Enhanced homepage with dynamic gaming UI/UX | Medium | [#15](https://github.com/Piyush-t24/NBG/pull/15) |
-| Code of Conduct & README Update for NBG under GSSoC'25 | Medium | [#14](https://github.com/Piyush-t24/NBG/issues/14) |
-| Implement a Dark/Light Mode Theme Toggle | Medium | [#13](https://github.com/Piyush-t24/NBG/issues/13) |
-| docs: add CONTRIBUTING.md to guide new contributors | Medium | [#12](https://github.com/Piyush-t24/NBG/pull/12) |
-| Adding a CodeOfConduct.md file | Medium | [#7](https://github.com/Piyush-t24/NBG/issues/7) |
-| Enhance Game Room UX & Homepage Interaction Flow 📌 | Medium | [#4](https://github.com/Piyush-t24/NBG/issues/4) |
-| Improve Quiz Section UI – Add Navbar, Game Room, and Enhance UI | Medium | [#2](https://github.com/Piyush-t24/NBG/issues/2) |
 
 ---
 
