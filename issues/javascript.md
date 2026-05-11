@@ -420,6 +420,24 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
+## 📌 Project: Healconnect 
+
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
+
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: Add AI Medical Assistant Chat UI for patients | Medium | [#728](https://github.com/Dipanita45/HEALCONNECT/pull/728) |
+
+---
+
 ## 📌 Project: Blogging Platform
 
 📝 **Description:** User friendly Interface where users can create accounts and post blogs on any topic and also allows users to read other blogs based on preference and intrest ,also allows sharing 
@@ -483,6 +501,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Refactored the code to enable the use of plugins. Considering new features (This is still a WIP, See below for more info) | Medium | [#84](https://github.com/harshendram/Advanced-Discord-Bot/pull/84) |
 | Deploying the bot | Medium | [#82](https://github.com/harshendram/Advanced-Discord-Bot/issues/82) |
 | Add Login Page for User Authentication | Medium | [#80](https://github.com/harshendram/Advanced-Discord-Bot/issues/80) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
@@ -640,47 +659,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
-## 📌 Project: CoffeeShop
-
-📝 **Description:** MsCafe was founded with a simple mission: to serve the best coffee in town. Our passion for quality beans and expert brewing techniques has made us a favorite among coffee enthusiasts. We source our beans from sustainable farms around the world, ensuring that every cup of coffee you enjoy is not only delicious but also ethically produced.
-
-🔗 [View Project](https://github.com/Mujtabaa07/coffeeShop)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, HTML, CSS, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| feat(footer): add clickable preview box for location (#588) | Medium | [#589](https://github.com/Mujtabaa07/coffeeShop/pull/589) |
-| Adding More coffee recipes | Medium | [#587](https://github.com/Mujtabaa07/coffeeShop/issues/587) |
-| Implement OpenCV Order Receipt Scanner | Medium | [#586](https://github.com/Mujtabaa07/coffeeShop/pull/586) |
-| Fix: Add Password Visibility Toggle and Update Regex to Allow | Medium | [#585](https://github.com/Mujtabaa07/coffeeShop/pull/585) |
-| feat: added dark/light theme toggle | Medium | [#584](https://github.com/Mujtabaa07/coffeeShop/pull/584) |
-| Enhance the customer say page | Medium | [#582](https://github.com/Mujtabaa07/coffeeShop/issues/582) |
-| Search Functionality Fails to Display Results or No-Result Popup; AI Chatbot Gives Irrelevant Responses to Product Queries | Medium | [#580](https://github.com/Mujtabaa07/coffeeShop/issues/580) |
-| Tea images (Green Tea, Lemon Tea, Black Tea) appear identical | Medium | [#579](https://github.com/Mujtabaa07/coffeeShop/issues/579) |
-| Issue: "Back to Top" Button Overlaps Chatbot | Medium | [#577](https://github.com/Mujtabaa07/coffeeShop/issues/577) |
-| Unmatched Navbar Element 'mean' | Medium | [#576](https://github.com/Mujtabaa07/coffeeShop/issues/576) |
-| Feature Request: Add Recipe Sharing (Social Media / Copy Link) | Medium | [#575](https://github.com/Mujtabaa07/coffeeShop/issues/575) |
-| Smooth scrolling effect | Medium | [#574](https://github.com/Mujtabaa07/coffeeShop/issues/574) |
-| Fixed: Enhancement: Modernize and Improve Footer Section Design | Medium | [#573](https://github.com/Mujtabaa07/coffeeShop/pull/573) |
-| <the feedback take us to login page> | Medium | [#572](https://github.com/Mujtabaa07/coffeeShop/issues/572) |
-| Contact Us page | Medium | [#571](https://github.com/Mujtabaa07/coffeeShop/issues/571) |
-| <Avoid repeating client reviews in multiple sections> | Medium | [#570](https://github.com/Mujtabaa07/coffeeShop/issues/570) |
-| Review need for "Learn More" button in About section | Medium | [#569](https://github.com/Mujtabaa07/coffeeShop/issues/569) |
-| "Menu" link has different color from other navbar links | Medium | [#568](https://github.com/Mujtabaa07/coffeeShop/issues/568) |
-| Remove reviews section from Login page | Medium | [#567](https://github.com/Mujtabaa07/coffeeShop/issues/567) |
-| Bug: Password field on registration page needs show/hide toggle and regex fix | Medium | [#565](https://github.com/Mujtabaa07/coffeeShop/issues/565) |
-| Inconsistent image styles in feature cards - Mix of photos and illustrations | Medium | [#562](https://github.com/Mujtabaa07/coffeeShop/issues/562) |
-| Fixed the Menu button UI display issue as reported in #547. | Medium | [#561](https://github.com/Mujtabaa07/coffeeShop/pull/561) |
-| <search functionality not working on shop page> | Medium | [#550](https://github.com/Mujtabaa07/coffeeShop/issues/550) |
-| Move social media icons to bottom of footer | Medium | [#549](https://github.com/Mujtabaa07/coffeeShop/issues/549) |
-
----
-
 ## 📌 Project: Eco finder
 
 📝 **Description:** Eco Career Finder is a full-stack web app that helps students and job seekers discover eco-friendly jobs, internships, and career guidance. It includes login/signup with Firebase, an easy-to-use dashboard, and a feedback system for user input.
@@ -695,15 +673,15 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Beginner-Friendly Examples in Docs | Medium | [#9](https://github.com/lohithya143/Eco-Finder-App/issues/9) |
-| Add SECURITY.md file | Medium | [#8](https://github.com/lohithya143/Eco-Finder-App/issues/8) |
-| Update CONTRIBUTING.md file. | Medium | [#7](https://github.com/lohithya143/Eco-Finder-App/issues/7) |
-| My name is Karuna i want to contribute in this | Medium | [#6](https://github.com/lohithya143/Eco-Finder-App/issues/6) |
-| Regarding changes | Medium | [#5](https://github.com/lohithya143/Eco-Finder-App/issues/5) |
-| Add a CodeOfConduct.md file | Medium | [#4](https://github.com/lohithya143/Eco-Finder-App/issues/4) |
-| Enhance README with Project Screenshots and Tech Stack Section | Medium | [#3](https://github.com/lohithya143/Eco-Finder-App/issues/3) |
-| Improve Folder Structure and Add Project Tree to README | Medium | [#2](https://github.com/lohithya143/Eco-Finder-App/pull/2) |
-| Improve Project Folder Structure and Add Project Tree to README | Medium | [#1](https://github.com/lohithya143/Eco-Finder-App/issues/1) |
+| Improve Beginner-Friendly Examples in Docs | Medium | [#9](https://github.com/Lohithya05/Eco-Finder-App/issues/9) |
+| Add SECURITY.md file | Medium | [#8](https://github.com/Lohithya05/Eco-Finder-App/issues/8) |
+| Update CONTRIBUTING.md file. | Medium | [#7](https://github.com/Lohithya05/Eco-Finder-App/issues/7) |
+| My name is Karuna i want to contribute in this | Medium | [#6](https://github.com/Lohithya05/Eco-Finder-App/issues/6) |
+| Regarding changes | Medium | [#5](https://github.com/Lohithya05/Eco-Finder-App/issues/5) |
+| Add a CodeOfConduct.md file | Medium | [#4](https://github.com/Lohithya05/Eco-Finder-App/issues/4) |
+| Enhance README with Project Screenshots and Tech Stack Section | Medium | [#3](https://github.com/Lohithya05/Eco-Finder-App/issues/3) |
+| Improve Folder Structure and Add Project Tree to README | Medium | [#2](https://github.com/Lohithya05/Eco-Finder-App/pull/2) |
+| Improve Project Folder Structure and Add Project Tree to README | Medium | [#1](https://github.com/Lohithya05/Eco-Finder-App/issues/1) |
 
 ---
 
@@ -721,9 +699,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: Consolidate image/ into images/ and remove empty folder | Medium | [#1710](https://github.com/omroy07/AgriTech/issues/1710) |
-| Duplicate License Files | Medium | [#1709](https://github.com/omroy07/AgriTech/issues/1709) |
-| Add workflow in github actions which automatically adds NSOC'26 label to each issue opend | Medium | [#1708](https://github.com/omroy07/AgriTech/issues/1708) |
+| Add workflow in github actions which automatically adds NSOC'26 label to each issue opend | Medium | [#1712](https://github.com/omroy07/AgriTech/pull/1712) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
@@ -1060,26 +1036,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
-## 📌 Project: recode-website
-
-📝 **Description:** community blog website 
-
-🔗 [View Project](https://github.com/recodehive/recode-website)
-
-💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| replace the banner in the course page | Easy | [#1413](https://github.com/recodehive/recode-website/issues/1413) |
-| Check the discord link is working | Easy | [#1410](https://github.com/recodehive/recode-website/issues/1410) |
-| Redirect the Get start button on the main page | Easy | [#1409](https://github.com/recodehive/recode-website/issues/1409) |
-
----
-
 ## 📌 Project: faculty publication management 
 
 📝 **Description:** faculty publication  management 
@@ -1216,7 +1172,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fix layout misalignment in main section (image and content overlapping) | Medium | [#410](https://github.com/multiverseweb/Dataverse/issues/410) |
 | Add a "Getting Started" section to the README | Medium | [#409](https://github.com/multiverseweb/Dataverse/issues/409) |
 | Implement data import/export module + user-friendly CSV/Excel UI for visualizations | Medium | [#408](https://github.com/multiverseweb/Dataverse/issues/408) |
-| Add ToolTip hints for buttons and Charts | Medium | [#407](https://github.com/multiverseweb/Dataverse/issues/407) |
 | Documentation Add Code of Conduct for Dataverse – GSSOC'25 (Open Source Contributions) | Medium | [#406](https://github.com/multiverseweb/Dataverse/issues/406) |
 | 🔐 Password Strength Checker | Medium | [#405](https://github.com/multiverseweb/Dataverse/issues/405) |
 | Sticky and Glassy Navbar | Medium | [#404](https://github.com/multiverseweb/Dataverse/issues/404) |
@@ -1226,6 +1181,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | improving the UI/UX of the authentication pages | Medium | [#400](https://github.com/multiverseweb/Dataverse/issues/400) |
 | Feature Request: Language Toggle for Multilingual UI | Medium | [#399](https://github.com/multiverseweb/Dataverse/issues/399) |
 | Improved UI: Dark Mode Toggle, Corrected the stunning visuals page by solving 4044 error | Medium | [#398](https://github.com/multiverseweb/Dataverse/pull/398) |
+| Add styles to Login and go to home buttons | Medium | [#397](https://github.com/multiverseweb/Dataverse/issues/397) |
 
 ---
 
@@ -1845,13 +1801,17 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Incorrect PDF File Size Displayed | Medium | [#113](https://github.com/lovelymahor/StudyMatePlus/issues/113) |
+| Fixed button alignment and syllabus action functionality | Medium | [#112](https://github.com/lovelymahor/StudyMatePlus/pull/112) |
+| UI:Results area is blank until all 4 filters are selected | Medium | [#111](https://github.com/lovelymahor/StudyMatePlus/issues/111) |
+| UI:Download button is silent when "all subjects" is selected | Medium | [#110](https://github.com/lovelymahor/StudyMatePlus/issues/110) |
+| Add undo/redo support to MindMapEditor | Medium | [#109](https://github.com/lovelymahor/StudyMatePlus/issues/109) |
+| Button Alignment and Functionality Issues | Medium | [#107](https://github.com/lovelymahor/StudyMatePlus/issues/107) |
 | Redesign of Contact Us Page | Medium | [#106](https://github.com/lovelymahor/StudyMatePlus/pull/106) |
-| Dark and light theme toggle button | Medium | [#99](https://github.com/lovelymahor/StudyMatePlus/issues/99) |
 | Created login page | Medium | [#81](https://github.com/lovelymahor/StudyMatePlus/pull/81) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
-| CTA Section Styling Does Not Match Site Theme | Medium | [#14](https://github.com/lovelymahor/StudyMatePlus/issues/14) |
 
 ---
 
