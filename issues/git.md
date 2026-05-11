@@ -250,6 +250,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Specialist Recommendation returns generic/empty results for valid inputs | Medium | [#223](https://github.com/aayushraj1010/med-genie/issues/223) |
+| The production level app is falling | Medium | [#222](https://github.com/aayushraj1010/med-genie/issues/222) |
 | enhanced services page | Medium | [#217](https://github.com/aayushraj1010/med-genie/pull/217) |
 | Add privacy policy page and  cookies page | Medium | [#215](https://github.com/aayushraj1010/med-genie/pull/215) |
 | Improve footer | Medium | [#196](https://github.com/aayushraj1010/med-genie/issues/196) |
@@ -536,13 +538,17 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Incorrect PDF File Size Displayed | Medium | [#113](https://github.com/lovelymahor/StudyMatePlus/issues/113) |
+| Fixed button alignment and syllabus action functionality | Medium | [#112](https://github.com/lovelymahor/StudyMatePlus/pull/112) |
+| UI:Results area is blank until all 4 filters are selected | Medium | [#111](https://github.com/lovelymahor/StudyMatePlus/issues/111) |
+| UI:Download button is silent when "all subjects" is selected | Medium | [#110](https://github.com/lovelymahor/StudyMatePlus/issues/110) |
+| Add undo/redo support to MindMapEditor | Medium | [#109](https://github.com/lovelymahor/StudyMatePlus/issues/109) |
+| Button Alignment and Functionality Issues | Medium | [#107](https://github.com/lovelymahor/StudyMatePlus/issues/107) |
 | Redesign of Contact Us Page | Medium | [#106](https://github.com/lovelymahor/StudyMatePlus/pull/106) |
-| Dark and light theme toggle button | Medium | [#99](https://github.com/lovelymahor/StudyMatePlus/issues/99) |
 | Created login page | Medium | [#81](https://github.com/lovelymahor/StudyMatePlus/pull/81) |
 | Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
 | Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
 | Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
-| CTA Section Styling Does Not Match Site Theme | Medium | [#14](https://github.com/lovelymahor/StudyMatePlus/issues/14) |
 
 ---
 
@@ -598,14 +604,14 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Standardize and Professionalize Font Text and Size Across Eventra | Easy | [#828](https://github.com/SandeepVashishtha/Eventra/issues/828) |
-| Make the application background more professional and aligned with the button color scheme | Easy | [#827](https://github.com/SandeepVashishtha/Eventra/issues/827) |
+| Event Analytics Dashboard for Organizers | Easy | [#834](https://github.com/SandeepVashishtha/Eventra/issues/834) |
 | Event Analytics Dashboard (Organizer View) | Easy | [#799](https://github.com/SandeepVashishtha/Eventra/issues/799) |
-| Add Toggle to Enable/Disable Fluid Cursor Animation | Medium | [#833](https://github.com/SandeepVashishtha/Eventra/pull/833) |
-| Feature Request: Provide Option to Disable Fluid Cursor Animation | Medium | [#832](https://github.com/SandeepVashishtha/Eventra/issues/832) |
-| Added Dark mode Button | Medium | [#830](https://github.com/SandeepVashishtha/Eventra/pull/830) |
 | Filter section is inconsistent in dark mode; some text not visible | Medium | [#599](https://github.com/SandeepVashishtha/Eventra/issues/599) |
+| About page content reduced compared to earlier version | Medium | [#562](https://github.com/SandeepVashishtha/Eventra/issues/562) |
+| Stats Section Does Not Hide After Performing a Search | Medium | [#549](https://github.com/SandeepVashishtha/Eventra/issues/549) |
+| Modernize Hackathon Page Filter Dropdown | Medium | [#503](https://github.com/SandeepVashishtha/Eventra/issues/503) |
 | Enhance UI of “Create your first event” section | Medium | [#410](https://github.com/SandeepVashishtha/Eventra/issues/410) |
+| Bug | Medium | [#400](https://github.com/SandeepVashishtha/Eventra/issues/400) |
 
 ---
 
