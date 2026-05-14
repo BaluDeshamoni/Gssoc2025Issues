@@ -158,11 +158,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#4646](https://github.com/OWASP/Nest/pull/4646) |
-| chore(deps): bump the version-updates group across 1 directory with 10 updates | Medium | [#4645](https://github.com/OWASP/Nest/pull/4645) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4642](https://github.com/OWASP/Nest/pull/4642) |
-| chore(deps): bump algoliasearch in /backend | Medium | [#4641](https://github.com/OWASP/Nest/pull/4641) |
-| Extract backend tests workflow and remove docker layer | Medium | [#4635](https://github.com/OWASP/Nest/pull/4635) |
+| feat(projects): add health indicators to project cards | Medium | [#4678](https://github.com/OWASP/Nest/pull/4678) |
+| Merge the updates from main | Medium | [#4677](https://github.com/OWASP/Nest/pull/4677) |
+| Remove docker layer from fuzz tests workflow | Medium | [#4663](https://github.com/OWASP/Nest/pull/4663) |
 | deadlineUtil frontend unit test fails | Medium | [#4632](https://github.com/OWASP/Nest/issues/4632) |
 | Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
 
@@ -205,7 +203,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add AI Medical Assistant Chat UI for patients | Medium | [#728](https://github.com/Dipanita45/HEALCONNECT/pull/728) |
+| fix: add error handling to ChatBox handleSend to prevent UI freeze | Medium | [#732](https://github.com/Dipanita45/HEALCONNECT/pull/732) |
 
 ---
 
@@ -339,28 +337,30 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Making instructions clear about opening in localhost | Easy | [#397](https://github.com/Muneerali199/Draftdeckai/issues/397) |
-| using docker to avoid install of dependencies | Medium | [#423](https://github.com/Muneerali199/Draftdeckai/issues/423) |
-| Fix theme toggle #206 #gssoc26 | Medium | [#422](https://github.com/Muneerali199/Draftdeckai/pull/422) |
-| Connect the shareDiagram logic to the Header button in Diagram Studio. | Medium | [#421](https://github.com/Muneerali199/Draftdeckai/issues/421) |
-| Add Client-Side Search and Filtering to AI Systems Dashboard | Medium | [#420](https://github.com/Muneerali199/Draftdeckai/issues/420) |
-| Enforce Password Constraints and Harden Default Server Configurations | Medium | [#419](https://github.com/Muneerali199/Draftdeckai/issues/419) |
-| Fix Broken Routing and Missing Navigation Links | Medium | [#418](https://github.com/Muneerali199/Draftdeckai/issues/418) |
-| fix(diagram): implement share button functionality with clipboard copy and toast feedback (closes #410) | Medium | [#416](https://github.com/Muneerali199/Draftdeckai/pull/416) |
-| feat: add AI Cover Letter Generator from Resume (#411) | Medium | [#415](https://github.com/Muneerali199/Draftdeckai/pull/415) |
-| feat: Add Productivity Engine - Structured Document System | Medium | [#412](https://github.com/Muneerali199/Draftdeckai/pull/412) |
-| UI Issue: Back-to-top button not visible on light background | Medium | [#399](https://github.com/Muneerali199/Draftdeckai/issues/399) |
-| Update CONTRIBUTING.md with environment setup details | Medium | [#398](https://github.com/Muneerali199/Draftdeckai/pull/398) |
-| Making the email button clickable | Medium | [#396](https://github.com/Muneerali199/Draftdeckai/issues/396) |
-| We can add url to the buttons to make it more engaing | Medium | [#395](https://github.com/Muneerali199/Draftdeckai/issues/395) |
-| Added editable skills section in resume | Medium | [#393](https://github.com/Muneerali199/Draftdeckai/pull/393) |
-| Not having Certificates and projects editable section in the template | Medium | [#392](https://github.com/Muneerali199/Draftdeckai/issues/392) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 58 updates | Medium | [#376](https://github.com/Muneerali199/Draftdeckai/pull/376) |
-| Fix : Verification for the responsiveness of the Homepage components | Medium | [#363](https://github.com/Muneerali199/Draftdeckai/pull/363) |
-| Added Back to Top button across all pages with consistent design and … | Medium | [#362](https://github.com/Muneerali199/Draftdeckai/pull/362) |
-| contact form implementation | Medium | [#345](https://github.com/Muneerali199/Draftdeckai/pull/345) |
-| Fixing the navbar and enhancing the navbar | Medium | [#331](https://github.com/Muneerali199/Draftdeckai/issues/331) |
-| feat: Add ImportProfile component and update page.tsx (Fixes #23) | Medium | [#330](https://github.com/Muneerali199/Draftdeckai/pull/330) |
+| Create health/readiness/version endpoints | Easy | [#465](https://github.com/Muneerali199/Draftdeckai/issues/465) |
+| Add config loader and environment validation | Easy | [#464](https://github.com/Muneerali199/Draftdeckai/issues/464) |
+| Initialize Go workspace and project skeleton | Easy | [#463](https://github.com/Muneerali199/Draftdeckai/issues/463) |
+| Add API route checklist template for secure PRs | Easy | [#460](https://github.com/Muneerali199/Draftdeckai/issues/460) |
+| Remove stale backup/temp artifacts from tracked source tree | Easy | [#459](https://github.com/Muneerali199/Draftdeckai/issues/459) |
+| Contributor quick-start matrix by area (frontend/backend/docs) | Easy | [#458](https://github.com/Muneerali199/Draftdeckai/issues/458) |
+| Enforce semantic list structure in footer/navigation blocks | Easy | [#454](https://github.com/Muneerali199/Draftdeckai/issues/454) |
+| Centralize external links in a single config module | Easy | [#453](https://github.com/Muneerali199/Draftdeckai/issues/453) |
+| feat: implement /healthz, /readyz, and /version observability endpoints | Medium | [#478](https://github.com/Muneerali199/Draftdeckai/pull/478) |
+| Race Condition in Credit Deduction Allows Users to Bypass Credit Limits | Medium | [#477](https://github.com/Muneerali199/Draftdeckai/issues/477) |
+| fix: replace getSession() with getUser() in server-side routes | Medium | [#476](https://github.com/Muneerali199/Draftdeckai/pull/476) |
+| fix: add authentication to unauthenticated AI routes (fixes #461) | Medium | [#475](https://github.com/Muneerali199/Draftdeckai/pull/475) |
+| CI workflow and Docker setup for backend branch | Medium | [#472](https://github.com/Muneerali199/Draftdeckai/issues/472) |
+| Add observability (structured logs, metrics, request IDs) | Medium | [#471](https://github.com/Muneerali199/Draftdeckai/issues/471) |
+| Add PostgreSQL access layer and repository pattern | Medium | [#468](https://github.com/Muneerali199/Draftdeckai/issues/468) |
+| Add Supabase JWT auth middleware (token verification) | Medium | [#467](https://github.com/Muneerali199/Draftdeckai/issues/467) |
+| Implement HTTP router and middleware foundation | Medium | [#466](https://github.com/Muneerali199/Draftdeckai/issues/466) |
+| Migrate backend to Go in separate backend branch | Medium | [#462](https://github.com/Muneerali199/Draftdeckai/issues/462) |
+| Add shared input sanitization wrapper for email/document routes | Medium | [#457](https://github.com/Muneerali199/Draftdeckai/issues/457) |
+| Accessibility pass for header controls and focus states | Medium | [#456](https://github.com/Muneerali199/Draftdeckai/issues/456) |
+| Add per-user rate limit helper reusable by API routes | Medium | [#452](https://github.com/Muneerali199/Draftdeckai/issues/452) |
+| Reliability + UX Improvement Sprint (10 sub-issues) | Medium | [#450](https://github.com/Muneerali199/Draftdeckai/issues/450) |
+| Build AI provider service abstraction (Gemini/Mistral/Qwen) | Hard | [#470](https://github.com/Muneerali199/Draftdeckai/issues/470) |
+| Port send-email API with validation, auth, and rate-limit | Hard | [#469](https://github.com/Muneerali199/Draftdeckai/issues/469) |
 
 ---
 
@@ -455,6 +455,32 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | UI enhancement: Landing Page | Medium | [#5](https://github.com/sailaja-adapa/GuruShish/issues/5) |
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
 | Glassy Navbar Contribution | Medium | [#3](https://github.com/sailaja-adapa/GuruShish/issues/3) |
+
+---
+
+## 📌 Project: recode-website
+
+📝 **Description:** community blog website 
+
+🔗 [View Project](https://github.com/recodehive/recode-website)
+
+💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Critical HTML5, ARIA & CSS Validation Errors Across Multiple Pages | Easy | [#1510](https://github.com/recodehive/recode-website/issues/1510) |
+| Issue completeness: GitHub workflow Implementation | Easy | [#1505](https://github.com/recodehive/recode-website/issues/1505) |
+| Automatic issue deduplication : Github Workflow Implementaion | Easy | [#1504](https://github.com/recodehive/recode-website/issues/1504) |
+| Blog page changes | Easy | [#1496](https://github.com/recodehive/recode-website/issues/1496) |
+| Improving the Navbar UI for the website | Easy | [#1494](https://github.com/recodehive/recode-website/issues/1494) |
+| We need pagination on the main blog post | Easy | [#1493](https://github.com/recodehive/recode-website/issues/1493) |
+| Blog article read time change UI | Easy | [#1491](https://github.com/recodehive/recode-website/issues/1491) |
+| Clickable area on blog posts | Easy | [#1490](https://github.com/recodehive/recode-website/issues/1490) |
+| table of content color change | Easy | [#1487](https://github.com/recodehive/recode-website/issues/1487) |
 
 ---
 
