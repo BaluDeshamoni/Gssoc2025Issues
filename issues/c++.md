@@ -14,7 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add AI Medical Assistant Chat UI for patients | Medium | [#728](https://github.com/Dipanita45/HEALCONNECT/pull/728) |
+| fix: add error handling to ChatBox handleSend to prevent UI freeze | Medium | [#732](https://github.com/Dipanita45/HEALCONNECT/pull/732) |
 
 ---
 
@@ -52,10 +52,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(logging): Add graph logging helper utilities to DebugUtils.hpp | Easy | [#229](https://github.com/SharonIV0x86/CinderPeak/issues/229) |
-| Add Comprehensive API Documentation with Doxygen | Easy | [#226](https://github.com/SharonIV0x86/CinderPeak/issues/226) |
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
 | Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
+| feat(logging): Add looging helper utilities | Medium | [#230](https://github.com/SharonIV0x86/CinderPeak/pull/230) |
 | The "Essential" Feature: Graph Serialization & I/O Module | Medium | [#199](https://github.com/SharonIV0x86/CinderPeak/issues/199) |
 | feat: Add core graph algorithm implementations (Dijkstra, MST, Topological Sort, etc.) | Medium | [#197](https://github.com/SharonIV0x86/CinderPeak/issues/197) |
 | feat(storage): Add Graph Serialization / Deserialization Support | Medium | [#170](https://github.com/SharonIV0x86/CinderPeak/issues/170) |
