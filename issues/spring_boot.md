@@ -115,28 +115,3 @@
 
 ---
 
-## 📌 Project: Eventra - Full Stack Event Management System
-
-📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
-
-🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
-
-💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Event Analytics Dashboard for Organizers | Easy | [#834](https://github.com/SandeepVashishtha/Eventra/issues/834) |
-| Event Analytics Dashboard (Organizer View) | Easy | [#799](https://github.com/SandeepVashishtha/Eventra/issues/799) |
-| Filter section is inconsistent in dark mode; some text not visible | Medium | [#599](https://github.com/SandeepVashishtha/Eventra/issues/599) |
-| About page content reduced compared to earlier version | Medium | [#562](https://github.com/SandeepVashishtha/Eventra/issues/562) |
-| Stats Section Does Not Hide After Performing a Search | Medium | [#549](https://github.com/SandeepVashishtha/Eventra/issues/549) |
-| Modernize Hackathon Page Filter Dropdown | Medium | [#503](https://github.com/SandeepVashishtha/Eventra/issues/503) |
-| Enhance UI of “Create your first event” section | Medium | [#410](https://github.com/SandeepVashishtha/Eventra/issues/410) |
-| Bug | Medium | [#400](https://github.com/SandeepVashishtha/Eventra/issues/400) |
-
----
-
