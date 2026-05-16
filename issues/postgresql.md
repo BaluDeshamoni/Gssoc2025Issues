@@ -86,6 +86,8 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/notify | Medium | [#886](https://github.com/HarshS16/Civix/pull/886) |
+| feat: adding smooth animations | Medium | [#885](https://github.com/HarshS16/Civix/pull/885) |
 | feat: Add Docker, Kubernetes, Terraform, and CI/CD support | Medium | [#884](https://github.com/HarshS16/Civix/pull/884) |
 | Adding stunning landing page | Medium | [#878](https://github.com/HarshS16/Civix/issues/878) |
 | Improve Navbar UI/UX | Medium | [#875](https://github.com/HarshS16/Civix/issues/875) |
@@ -113,30 +115,27 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create health/readiness/version endpoints | Easy | [#465](https://github.com/Muneerali199/Draftdeckai/issues/465) |
-| Add config loader and environment validation | Easy | [#464](https://github.com/Muneerali199/Draftdeckai/issues/464) |
-| Initialize Go workspace and project skeleton | Easy | [#463](https://github.com/Muneerali199/Draftdeckai/issues/463) |
-| Add API route checklist template for secure PRs | Easy | [#460](https://github.com/Muneerali199/Draftdeckai/issues/460) |
-| Remove stale backup/temp artifacts from tracked source tree | Easy | [#459](https://github.com/Muneerali199/Draftdeckai/issues/459) |
-| Contributor quick-start matrix by area (frontend/backend/docs) | Easy | [#458](https://github.com/Muneerali199/Draftdeckai/issues/458) |
-| Enforce semantic list structure in footer/navigation blocks | Easy | [#454](https://github.com/Muneerali199/Draftdeckai/issues/454) |
-| Centralize external links in a single config module | Easy | [#453](https://github.com/Muneerali199/Draftdeckai/issues/453) |
-| feat: implement /healthz, /readyz, and /version observability endpoints | Medium | [#478](https://github.com/Muneerali199/Draftdeckai/pull/478) |
-| Race Condition in Credit Deduction Allows Users to Bypass Credit Limits | Medium | [#477](https://github.com/Muneerali199/Draftdeckai/issues/477) |
-| fix: replace getSession() with getUser() in server-side routes | Medium | [#476](https://github.com/Muneerali199/Draftdeckai/pull/476) |
-| fix: add authentication to unauthenticated AI routes (fixes #461) | Medium | [#475](https://github.com/Muneerali199/Draftdeckai/pull/475) |
-| CI workflow and Docker setup for backend branch | Medium | [#472](https://github.com/Muneerali199/Draftdeckai/issues/472) |
-| Add observability (structured logs, metrics, request IDs) | Medium | [#471](https://github.com/Muneerali199/Draftdeckai/issues/471) |
-| Add PostgreSQL access layer and repository pattern | Medium | [#468](https://github.com/Muneerali199/Draftdeckai/issues/468) |
-| Add Supabase JWT auth middleware (token verification) | Medium | [#467](https://github.com/Muneerali199/Draftdeckai/issues/467) |
-| Implement HTTP router and middleware foundation | Medium | [#466](https://github.com/Muneerali199/Draftdeckai/issues/466) |
-| Migrate backend to Go in separate backend branch | Medium | [#462](https://github.com/Muneerali199/Draftdeckai/issues/462) |
-| Add shared input sanitization wrapper for email/document routes | Medium | [#457](https://github.com/Muneerali199/Draftdeckai/issues/457) |
-| Accessibility pass for header controls and focus states | Medium | [#456](https://github.com/Muneerali199/Draftdeckai/issues/456) |
-| Add per-user rate limit helper reusable by API routes | Medium | [#452](https://github.com/Muneerali199/Draftdeckai/issues/452) |
-| Reliability + UX Improvement Sprint (10 sub-issues) | Medium | [#450](https://github.com/Muneerali199/Draftdeckai/issues/450) |
-| Build AI provider service abstraction (Gemini/Mistral/Qwen) | Hard | [#470](https://github.com/Muneerali199/Draftdeckai/issues/470) |
-| Port send-email API with validation, auth, and rate-limit | Hard | [#469](https://github.com/Muneerali199/Draftdeckai/issues/469) |
+| chore: Remove deprecated Supabase auth-helpers and duplicate client | Medium | [#521](https://github.com/Muneerali199/Draftdeckai/pull/521) |
+| Remove deprecated Supabase auth-helpers and duplicate client implementation | Medium | [#520](https://github.com/Muneerali199/Draftdeckai/issues/520) |
+| Maint/project cleanup isolated | Medium | [#519](https://github.com/Muneerali199/Draftdeckai/pull/519) |
+| fix: resolve sign-up, callback, and redirect issues with database sch… | Medium | [#518](https://github.com/Muneerali199/Draftdeckai/pull/518) |
+| feat: implement document analytics dashboard and tracking | Medium | [#517](https://github.com/Muneerali199/Draftdeckai/pull/517) |
+| docs(faq): create FAQ.md for users and contributors | Medium | [#516](https://github.com/Muneerali199/Draftdeckai/pull/516) |
+| feat: add Go router and middleware foundation | Medium | [#515](https://github.com/Muneerali199/Draftdeckai/pull/515) |
+| feat: add centralized Go config loader | Medium | [#514](https://github.com/Muneerali199/Draftdeckai/pull/514) |
+| App crashes on boot if `STRIPE_SECRET_KEY` is missing or uses the placeholder value | Medium | [#512](https://github.com/Muneerali199/Draftdeckai/issues/512) |
+| feat: initialize Go backend module and JWT auth middleware | Medium | [#509](https://github.com/Muneerali199/Draftdeckai/pull/509) |
+| Fix: Connect share logic to Diagram Studio header (Issue #421) | Medium | [#499](https://github.com/Muneerali199/Draftdeckai/pull/499) |
+| Fix: Dark theme text contrast in Resume/ATS analyzer (Issue #314) | Medium | [#498](https://github.com/Muneerali199/Draftdeckai/pull/498) |
+| Comprehensive Code Audit: 20 Architectural and Security Enhancements | Medium | [#496](https://github.com/Muneerali199/Draftdeckai/issues/496) |
+| using docker to avoid install of dependencies #423 | Medium | [#495](https://github.com/Muneerali199/Draftdeckai/pull/495) |
+| feat: add health readiness and version endpoints | Medium | [#494](https://github.com/Muneerali199/Draftdeckai/pull/494) |
+| feat(backend): add Go CI workflow and Docker setup | Medium | [#493](https://github.com/Muneerali199/Draftdeckai/pull/493) |
+| Conversion-Focused Section Redesign (Features, Social Proof, CTA) | Medium | [#486](https://github.com/Muneerali199/Draftdeckai/issues/486) |
+| Premium Visual Direction (Color, Type, Spacing, Components) in Figma | Medium | [#484](https://github.com/Muneerali199/Draftdeckai/issues/484) |
+| Figma IA + Wireframe System for New Landing Page | Medium | [#483](https://github.com/Muneerali199/Draftdeckai/issues/483) |
+| Premium Landing Page Redesign (Figma + Video-to-Frames Smooth Scroll) | Medium | [#482](https://github.com/Muneerali199/Draftdeckai/issues/482) |
+| Hero Redesign with Video-to-Frames Smooth Scroll Concept | Hard | [#485](https://github.com/Muneerali199/Draftdeckai/issues/485) |
 
 ---
 
@@ -330,6 +329,28 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Add Contributing.md | Medium | [#4](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/4) |
 | update README.md | Medium | [#3](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/3) |
 | Enhance chatbot with query logging, result caching, and user authentication | Medium | [#2](https://github.com/Kumud-hasija/AI-powered-data-query-Chatbot/issues/2) |
+
+---
+
+## 📌 Project: Eventra - Full Stack Event Management System
+
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
+
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Redesign navbar layout | Medium | [#967](https://github.com/SandeepVashishtha/Eventra/pull/967) |
+| Refactor navbar bumpy road logic | Medium | [#965](https://github.com/SandeepVashishtha/Eventra/pull/965) |
+| Fix responsive navbar spacing and mobile menu overflow | Medium | [#964](https://github.com/SandeepVashishtha/Eventra/pull/964) |
+| Improved hackathon filters UI and UX | Medium | [#963](https://github.com/SandeepVashishtha/Eventra/pull/963) |
+| fix: resolve dark/light mode text contrast issues across routes | Medium | [#961](https://github.com/SandeepVashishtha/Eventra/pull/961) |
 
 ---
 
