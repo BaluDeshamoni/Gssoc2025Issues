@@ -158,11 +158,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix Silent Infrastructure Test Skip | Medium | [#4686](https://github.com/OWASP/Nest/pull/4686) |
+| Fix unauthorized access to mentorship admin | Medium | [#4682](https://github.com/OWASP/Nest/pull/4682) |
+| Extract frontend tests into a separate workflow | Medium | [#4681](https://github.com/OWASP/Nest/pull/4681) |
+| Extract infrastructure tests into a separate workflow | Medium | [#4679](https://github.com/OWASP/Nest/pull/4679) |
 | feat(projects): add health indicators to project cards | Medium | [#4678](https://github.com/OWASP/Nest/pull/4678) |
-| Merge the updates from main | Medium | [#4677](https://github.com/OWASP/Nest/pull/4677) |
-| Remove docker layer from fuzz tests workflow | Medium | [#4663](https://github.com/OWASP/Nest/pull/4663) |
 | deadlineUtil frontend unit test fails | Medium | [#4632](https://github.com/OWASP/Nest/issues/4632) |
-| Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
 
 ---
 
@@ -337,30 +338,27 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create health/readiness/version endpoints | Easy | [#465](https://github.com/Muneerali199/Draftdeckai/issues/465) |
-| Add config loader and environment validation | Easy | [#464](https://github.com/Muneerali199/Draftdeckai/issues/464) |
-| Initialize Go workspace and project skeleton | Easy | [#463](https://github.com/Muneerali199/Draftdeckai/issues/463) |
-| Add API route checklist template for secure PRs | Easy | [#460](https://github.com/Muneerali199/Draftdeckai/issues/460) |
-| Remove stale backup/temp artifacts from tracked source tree | Easy | [#459](https://github.com/Muneerali199/Draftdeckai/issues/459) |
-| Contributor quick-start matrix by area (frontend/backend/docs) | Easy | [#458](https://github.com/Muneerali199/Draftdeckai/issues/458) |
-| Enforce semantic list structure in footer/navigation blocks | Easy | [#454](https://github.com/Muneerali199/Draftdeckai/issues/454) |
-| Centralize external links in a single config module | Easy | [#453](https://github.com/Muneerali199/Draftdeckai/issues/453) |
-| feat: implement /healthz, /readyz, and /version observability endpoints | Medium | [#478](https://github.com/Muneerali199/Draftdeckai/pull/478) |
-| Race Condition in Credit Deduction Allows Users to Bypass Credit Limits | Medium | [#477](https://github.com/Muneerali199/Draftdeckai/issues/477) |
-| fix: replace getSession() with getUser() in server-side routes | Medium | [#476](https://github.com/Muneerali199/Draftdeckai/pull/476) |
-| fix: add authentication to unauthenticated AI routes (fixes #461) | Medium | [#475](https://github.com/Muneerali199/Draftdeckai/pull/475) |
-| CI workflow and Docker setup for backend branch | Medium | [#472](https://github.com/Muneerali199/Draftdeckai/issues/472) |
-| Add observability (structured logs, metrics, request IDs) | Medium | [#471](https://github.com/Muneerali199/Draftdeckai/issues/471) |
-| Add PostgreSQL access layer and repository pattern | Medium | [#468](https://github.com/Muneerali199/Draftdeckai/issues/468) |
-| Add Supabase JWT auth middleware (token verification) | Medium | [#467](https://github.com/Muneerali199/Draftdeckai/issues/467) |
-| Implement HTTP router and middleware foundation | Medium | [#466](https://github.com/Muneerali199/Draftdeckai/issues/466) |
-| Migrate backend to Go in separate backend branch | Medium | [#462](https://github.com/Muneerali199/Draftdeckai/issues/462) |
-| Add shared input sanitization wrapper for email/document routes | Medium | [#457](https://github.com/Muneerali199/Draftdeckai/issues/457) |
-| Accessibility pass for header controls and focus states | Medium | [#456](https://github.com/Muneerali199/Draftdeckai/issues/456) |
-| Add per-user rate limit helper reusable by API routes | Medium | [#452](https://github.com/Muneerali199/Draftdeckai/issues/452) |
-| Reliability + UX Improvement Sprint (10 sub-issues) | Medium | [#450](https://github.com/Muneerali199/Draftdeckai/issues/450) |
-| Build AI provider service abstraction (Gemini/Mistral/Qwen) | Hard | [#470](https://github.com/Muneerali199/Draftdeckai/issues/470) |
-| Port send-email API with validation, auth, and rate-limit | Hard | [#469](https://github.com/Muneerali199/Draftdeckai/issues/469) |
+| chore: Remove deprecated Supabase auth-helpers and duplicate client | Medium | [#521](https://github.com/Muneerali199/Draftdeckai/pull/521) |
+| Remove deprecated Supabase auth-helpers and duplicate client implementation | Medium | [#520](https://github.com/Muneerali199/Draftdeckai/issues/520) |
+| Maint/project cleanup isolated | Medium | [#519](https://github.com/Muneerali199/Draftdeckai/pull/519) |
+| fix: resolve sign-up, callback, and redirect issues with database sch… | Medium | [#518](https://github.com/Muneerali199/Draftdeckai/pull/518) |
+| feat: implement document analytics dashboard and tracking | Medium | [#517](https://github.com/Muneerali199/Draftdeckai/pull/517) |
+| docs(faq): create FAQ.md for users and contributors | Medium | [#516](https://github.com/Muneerali199/Draftdeckai/pull/516) |
+| feat: add Go router and middleware foundation | Medium | [#515](https://github.com/Muneerali199/Draftdeckai/pull/515) |
+| feat: add centralized Go config loader | Medium | [#514](https://github.com/Muneerali199/Draftdeckai/pull/514) |
+| App crashes on boot if `STRIPE_SECRET_KEY` is missing or uses the placeholder value | Medium | [#512](https://github.com/Muneerali199/Draftdeckai/issues/512) |
+| feat: initialize Go backend module and JWT auth middleware | Medium | [#509](https://github.com/Muneerali199/Draftdeckai/pull/509) |
+| Fix: Connect share logic to Diagram Studio header (Issue #421) | Medium | [#499](https://github.com/Muneerali199/Draftdeckai/pull/499) |
+| Fix: Dark theme text contrast in Resume/ATS analyzer (Issue #314) | Medium | [#498](https://github.com/Muneerali199/Draftdeckai/pull/498) |
+| Comprehensive Code Audit: 20 Architectural and Security Enhancements | Medium | [#496](https://github.com/Muneerali199/Draftdeckai/issues/496) |
+| using docker to avoid install of dependencies #423 | Medium | [#495](https://github.com/Muneerali199/Draftdeckai/pull/495) |
+| feat: add health readiness and version endpoints | Medium | [#494](https://github.com/Muneerali199/Draftdeckai/pull/494) |
+| feat(backend): add Go CI workflow and Docker setup | Medium | [#493](https://github.com/Muneerali199/Draftdeckai/pull/493) |
+| Conversion-Focused Section Redesign (Features, Social Proof, CTA) | Medium | [#486](https://github.com/Muneerali199/Draftdeckai/issues/486) |
+| Premium Visual Direction (Color, Type, Spacing, Components) in Figma | Medium | [#484](https://github.com/Muneerali199/Draftdeckai/issues/484) |
+| Figma IA + Wireframe System for New Landing Page | Medium | [#483](https://github.com/Muneerali199/Draftdeckai/issues/483) |
+| Premium Landing Page Redesign (Figma + Video-to-Frames Smooth Scroll) | Medium | [#482](https://github.com/Muneerali199/Draftdeckai/issues/482) |
+| Hero Redesign with Video-to-Frames Smooth Scroll Concept | Hard | [#485](https://github.com/Muneerali199/Draftdeckai/issues/485) |
 
 ---
 
@@ -472,15 +470,10 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Critical HTML5, ARIA & CSS Validation Errors Across Multiple Pages | Easy | [#1510](https://github.com/recodehive/recode-website/issues/1510) |
-| Issue completeness: GitHub workflow Implementation | Easy | [#1505](https://github.com/recodehive/recode-website/issues/1505) |
-| Automatic issue deduplication : Github Workflow Implementaion | Easy | [#1504](https://github.com/recodehive/recode-website/issues/1504) |
-| Blog page changes | Easy | [#1496](https://github.com/recodehive/recode-website/issues/1496) |
-| Improving the Navbar UI for the website | Easy | [#1494](https://github.com/recodehive/recode-website/issues/1494) |
-| We need pagination on the main blog post | Easy | [#1493](https://github.com/recodehive/recode-website/issues/1493) |
-| Blog article read time change UI | Easy | [#1491](https://github.com/recodehive/recode-website/issues/1491) |
-| Clickable area on blog posts | Easy | [#1490](https://github.com/recodehive/recode-website/issues/1490) |
-| table of content color change | Easy | [#1487](https://github.com/recodehive/recode-website/issues/1487) |
+| chore: bump lint-staged from 16.4.0 to 17.0.4 | Easy | [#1525](https://github.com/recodehive/recode-website/pull/1525) |
+| chore: bump eslint from 9.38.0 to 10.4.0 | Easy | [#1524](https://github.com/recodehive/recode-website/pull/1524) |
+| chore: bump @tsparticles/slim from 3.9.1 to 4.0.0 | Easy | [#1523](https://github.com/recodehive/recode-website/pull/1523) |
+| feat(careers): enhance UI/UX with lucide icons and micro-animations | Easy | [#1521](https://github.com/recodehive/recode-website/pull/1521) |
 
 ---
 
@@ -740,6 +733,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Dynamic OG Image generation for quest pages | Medium | [#241](https://github.com/LarytheLord/Adventurers-Guild/pull/241) |
+| feat: Dynamic OG Image generation for quest pages | Medium | [#240](https://github.com/LarytheLord/Adventurers-Guild/pull/240) |
 | feat: make username required and add Share Guild Card button | Medium | [#229](https://github.com/LarytheLord/Adventurers-Guild/pull/229) |
 | fix: quest board not loading for adventurers | Medium | [#228](https://github.com/LarytheLord/Adventurers-Guild/pull/228) |
 | chore: integrate party panel improvements from PR #199 | Medium | [#227](https://github.com/LarytheLord/Adventurers-Guild/pull/227) |
@@ -756,14 +751,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | fix: feat: Quest Board Filters - Track, Difficulty, Category, and Search #138 | Medium | [#203](https://github.com/LarytheLord/Adventurers-Guild/pull/203) |
 | fix: feat: Party Panel UI - Squad Display on Quest Detail Page #137 | Medium | [#202](https://github.com/LarytheLord/Adventurers-Guild/pull/202) |
 | fix: feat: Quest Streak System - Daily/Weekly XP Multiplier for Retention #136 | Medium | [#201](https://github.com/LarytheLord/Adventurers-Guild/pull/201) |
-| fix: feat: Admin Analytics Dashboard - DAU, Quest Metrics, Rank Distribution #135 | Medium | [#200](https://github.com/LarytheLord/Adventurers-Guild/pull/200) |
-| fix: feat: Squad-Aware Quest Board UI - party slots, join flow, and squad filtering #111 | Medium | [#199](https://github.com/LarytheLord/Adventurers-Guild/pull/199) |
-| fix: feat: Admin Revenue Dashboard - GMV, MRR, fill rate, and take rate charts #109 | Medium | [#198](https://github.com/LarytheLord/Adventurers-Guild/pull/198) |
-| feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
-| refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
-| Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
-| Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
-| NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
 
 ---
 
