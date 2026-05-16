@@ -93,6 +93,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Dynamic OG Image generation for quest pages | Medium | [#241](https://github.com/LarytheLord/Adventurers-Guild/pull/241) |
+| feat: Dynamic OG Image generation for quest pages | Medium | [#240](https://github.com/LarytheLord/Adventurers-Guild/pull/240) |
 | feat: make username required and add Share Guild Card button | Medium | [#229](https://github.com/LarytheLord/Adventurers-Guild/pull/229) |
 | fix: quest board not loading for adventurers | Medium | [#228](https://github.com/LarytheLord/Adventurers-Guild/pull/228) |
 | chore: integrate party panel improvements from PR #199 | Medium | [#227](https://github.com/LarytheLord/Adventurers-Guild/pull/227) |
@@ -109,14 +111,6 @@
 | fix: feat: Quest Board Filters - Track, Difficulty, Category, and Search #138 | Medium | [#203](https://github.com/LarytheLord/Adventurers-Guild/pull/203) |
 | fix: feat: Party Panel UI - Squad Display on Quest Detail Page #137 | Medium | [#202](https://github.com/LarytheLord/Adventurers-Guild/pull/202) |
 | fix: feat: Quest Streak System - Daily/Weekly XP Multiplier for Retention #136 | Medium | [#201](https://github.com/LarytheLord/Adventurers-Guild/pull/201) |
-| fix: feat: Admin Analytics Dashboard - DAU, Quest Metrics, Rank Distribution #135 | Medium | [#200](https://github.com/LarytheLord/Adventurers-Guild/pull/200) |
-| fix: feat: Squad-Aware Quest Board UI - party slots, join flow, and squad filtering #111 | Medium | [#199](https://github.com/LarytheLord/Adventurers-Guild/pull/199) |
-| fix: feat: Admin Revenue Dashboard - GMV, MRR, fill rate, and take rate charts #109 | Medium | [#198](https://github.com/LarytheLord/Adventurers-Guild/pull/198) |
-| feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
-| refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
-| Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
-| Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
-| NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
 
 ---
 
