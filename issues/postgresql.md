@@ -115,27 +115,31 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| External target="_blank" links missing rel="noopener noreferrer" (tabnabbing risk) | Medium | [#550](https://github.com/Muneerali199/Draftdeckai/issues/550) |
+| feat: add AI diagram insert to editor toolbar | Medium | [#549](https://github.com/Muneerali199/Draftdeckai/pull/549) |
+| fix: resolve production build crashes on API routes | Medium | [#548](https://github.com/Muneerali199/Draftdeckai/pull/548) |
+| Implement Standard AI Response Processing Layer | Medium | [#547](https://github.com/Muneerali199/Draftdeckai/pull/547) |
+| feat: add request-id tracing for API responses | Medium | [#546](https://github.com/Muneerali199/Draftdeckai/pull/546) |
+| Implement Webhook System & Event Streaming | Medium | [#544](https://github.com/Muneerali199/Draftdeckai/issues/544) |
+| Implement Feature Flags & A/B Testing Infrastructure | Medium | [#541](https://github.com/Muneerali199/Draftdeckai/issues/541) |
+| Implement API Versioning & Backward Compatibility Strategy | Medium | [#539](https://github.com/Muneerali199/Draftdeckai/issues/539) |
+| Feat/standardized rate limiting | Medium | [#536](https://github.com/Muneerali199/Draftdeckai/pull/536) |
+| feat: implement consistent sanitization with reusable helper | Medium | [#534](https://github.com/Muneerali199/Draftdeckai/pull/534) |
+| fix: remove hardcoded debug label from resume builder UI | Medium | [#525](https://github.com/Muneerali199/Draftdeckai/pull/525) |
+| fix: Prevent app crash on boot when Stripe secret key is missing | Medium | [#522](https://github.com/Muneerali199/Draftdeckai/pull/522) |
 | chore: Remove deprecated Supabase auth-helpers and duplicate client | Medium | [#521](https://github.com/Muneerali199/Draftdeckai/pull/521) |
-| Remove deprecated Supabase auth-helpers and duplicate client implementation | Medium | [#520](https://github.com/Muneerali199/Draftdeckai/issues/520) |
 | Maint/project cleanup isolated | Medium | [#519](https://github.com/Muneerali199/Draftdeckai/pull/519) |
 | fix: resolve sign-up, callback, and redirect issues with database sch… | Medium | [#518](https://github.com/Muneerali199/Draftdeckai/pull/518) |
 | feat: implement document analytics dashboard and tracking | Medium | [#517](https://github.com/Muneerali199/Draftdeckai/pull/517) |
 | docs(faq): create FAQ.md for users and contributors | Medium | [#516](https://github.com/Muneerali199/Draftdeckai/pull/516) |
 | feat: add Go router and middleware foundation | Medium | [#515](https://github.com/Muneerali199/Draftdeckai/pull/515) |
 | feat: add centralized Go config loader | Medium | [#514](https://github.com/Muneerali199/Draftdeckai/pull/514) |
-| App crashes on boot if `STRIPE_SECRET_KEY` is missing or uses the placeholder value | Medium | [#512](https://github.com/Muneerali199/Draftdeckai/issues/512) |
 | feat: initialize Go backend module and JWT auth middleware | Medium | [#509](https://github.com/Muneerali199/Draftdeckai/pull/509) |
-| Fix: Connect share logic to Diagram Studio header (Issue #421) | Medium | [#499](https://github.com/Muneerali199/Draftdeckai/pull/499) |
-| Fix: Dark theme text contrast in Resume/ATS analyzer (Issue #314) | Medium | [#498](https://github.com/Muneerali199/Draftdeckai/pull/498) |
-| Comprehensive Code Audit: 20 Architectural and Security Enhancements | Medium | [#496](https://github.com/Muneerali199/Draftdeckai/issues/496) |
-| using docker to avoid install of dependencies #423 | Medium | [#495](https://github.com/Muneerali199/Draftdeckai/pull/495) |
-| feat: add health readiness and version endpoints | Medium | [#494](https://github.com/Muneerali199/Draftdeckai/pull/494) |
-| feat(backend): add Go CI workflow and Docker setup | Medium | [#493](https://github.com/Muneerali199/Draftdeckai/pull/493) |
-| Conversion-Focused Section Redesign (Features, Social Proof, CTA) | Medium | [#486](https://github.com/Muneerali199/Draftdeckai/issues/486) |
-| Premium Visual Direction (Color, Type, Spacing, Components) in Figma | Medium | [#484](https://github.com/Muneerali199/Draftdeckai/issues/484) |
-| Figma IA + Wireframe System for New Landing Page | Medium | [#483](https://github.com/Muneerali199/Draftdeckai/issues/483) |
-| Premium Landing Page Redesign (Figma + Video-to-Frames Smooth Scroll) | Medium | [#482](https://github.com/Muneerali199/Draftdeckai/issues/482) |
-| Hero Redesign with Video-to-Frames Smooth Scroll Concept | Hard | [#485](https://github.com/Muneerali199/Draftdeckai/issues/485) |
+| Implement Database Query Optimization & Caching Layer | Hard | [#545](https://github.com/Muneerali199/Draftdeckai/issues/545) |
+| Implement Full-Text Search & Elasticsearch Integration | Hard | [#543](https://github.com/Muneerali199/Draftdeckai/issues/543) |
+| Implement Security Audit & Compliance Framework | Hard | [#542](https://github.com/Muneerali199/Draftdeckai/issues/542) |
+| Implement E2E Test Suite with Playwright & Coverage Enforcement | Hard | [#540](https://github.com/Muneerali199/Draftdeckai/issues/540) |
+| Implement Distributed Error Tracking & Alert System | Hard | [#538](https://github.com/Muneerali199/Draftdeckai/issues/538) |
 
 ---
 
@@ -346,6 +350,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🤖 Auto-unassignment Summary - Sun May 17 2026 | Easy | [#1046](https://github.com/SandeepVashishtha/Eventra/issues/1046) |
+| 🤖 Auto-unassignment Summary - Sun May 17 2026 | Easy | [#1045](https://github.com/SandeepVashishtha/Eventra/issues/1045) |
+| Requirement of maintainers | Medium | [#1043](https://github.com/SandeepVashishtha/Eventra/issues/1043) |
 | Redesign navbar layout | Medium | [#967](https://github.com/SandeepVashishtha/Eventra/pull/967) |
 | Refactor navbar bumpy road logic | Medium | [#965](https://github.com/SandeepVashishtha/Eventra/pull/965) |
 | Fix responsive navbar spacing and mobile menu overflow | Medium | [#964](https://github.com/SandeepVashishtha/Eventra/pull/964) |
