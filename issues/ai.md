@@ -245,7 +245,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Silent Infrastructure Test Skip | Medium | [#4686](https://github.com/OWASP/Nest/pull/4686) |
+| Add Task Level Admin Functionality to Mentorship Portal | Medium | [#4689](https://github.com/OWASP/Nest/issues/4689) |
+| Extract e2e tests into a separate workflow | Medium | [#4687](https://github.com/OWASP/Nest/pull/4687) |
 | Fix unauthorized access to mentorship admin | Medium | [#4682](https://github.com/OWASP/Nest/pull/4682) |
 | Extract frontend tests into a separate workflow | Medium | [#4681](https://github.com/OWASP/Nest/pull/4681) |
 | Extract infrastructure tests into a separate workflow | Medium | [#4679](https://github.com/OWASP/Nest/pull/4679) |
@@ -534,6 +535,7 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Solved Issue #733 UI/UX Improvement of Navbar | Medium | [#734](https://github.com/Dipanita45/HEALCONNECT/pull/734) |
 | fix: add error handling to ChatBox handleSend to prevent UI freeze | Medium | [#732](https://github.com/Dipanita45/HEALCONNECT/pull/732) |
 
 ---
@@ -796,6 +798,15 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add responsive footer with navigation, branding, and dark mode support (#284) | Medium | [#287](https://github.com/GitMetricsLab/github_tracker/pull/287) |
+| fix: resolve failing backend tests for auth routes and user model (#278) | Medium | [#286](https://github.com/GitMetricsLab/github_tracker/pull/286) |
+| feat: add modern cards to how it works section | Medium | [#283](https://github.com/GitMetricsLab/github_tracker/pull/283) |
+| fix: improve navbar hover contrast readability | Medium | [#282](https://github.com/GitMetricsLab/github_tracker/pull/282) |
+| feat: add backend input validation using Zod for auth routes | Medium | [#279](https://github.com/GitMetricsLab/github_tracker/pull/279) |
+| set up vitest + RTL, added Navbar tests | Medium | [#277](https://github.com/GitMetricsLab/github_tracker/pull/277) |
+| Added Live GitHub Activity Feed using GitHub Events API. | Medium | [#276](https://github.com/GitMetricsLab/github_tracker/pull/276) |
+| feat: add issues tracking page with filters and sorting | Medium | [#273](https://github.com/GitMetricsLab/github_tracker/pull/273) |
+| Fix duplicate ThemeProvider causing unnecessary re-renders and context conflicts (#271) | Medium | [#272](https://github.com/GitMetricsLab/github_tracker/pull/272) |
 | Bring SignUp page up to par with Login dark mode, loading state, password toggle | Medium | [#269](https://github.com/GitMetricsLab/github_tracker/pull/269) |
 | Added [feature]: PAT helper link for token generation guide | Medium | [#267](https://github.com/GitMetricsLab/github_tracker/pull/267) |
 | feat: implement basic commit classification system and tracking tab | Medium | [#266](https://github.com/GitMetricsLab/github_tracker/pull/266) |
@@ -803,13 +814,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | improved navbar UI for better user experience | Medium | [#262](https://github.com/GitMetricsLab/github_tracker/pull/262) |
 | feat: add glassmorphism navbar with theme support | Medium | [#260](https://github.com/GitMetricsLab/github_tracker/pull/260) |
 | feat: implement analytics dashboard and fix server-side filtering | Medium | [#255](https://github.com/GitMetricsLab/github_tracker/pull/255) |
-| Fix session cookies with proper CORS and credentialed auth requests | Medium | [#254](https://github.com/GitMetricsLab/github_tracker/pull/254) |
-| Fix/signup duplicate username | Medium | [#252](https://github.com/GitMetricsLab/github_tracker/pull/252) |
-| fix: correct post-login redirect route | Medium | [#250](https://github.com/GitMetricsLab/github_tracker/pull/250) |
-| Bugfix/login redirect 404 | Medium | [#248](https://github.com/GitMetricsLab/github_tracker/pull/248) |
-| fix: install dev deps before build in Dockerfile.prod | Medium | [#247](https://github.com/GitMetricsLab/github_tracker/pull/247) |
-| feat: add skeleton loading UI for tracker data | Medium | [#246](https://github.com/GitMetricsLab/github_tracker/pull/246) |
-| Enhance dashboard UX with loading skeletons and empty states | Medium | [#242](https://github.com/GitMetricsLab/github_tracker/pull/242) |
 
 ---
 
@@ -2002,36 +2006,34 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Create Dedicated Mentorship Page for StudyMate Plus | Medium | [#201](https://github.com/lovelymahor/StudyMatePlus/issues/201) |
-| Feature enhancement request | Medium | [#200](https://github.com/lovelymahor/StudyMatePlus/issues/200) |
-| Create Dedicated Help Center Page for StudyMate Plus | Medium | [#199](https://github.com/lovelymahor/StudyMatePlus/issues/199) |
-| Fix navbar layout and improve homepage responsiveness | Medium | [#198](https://github.com/lovelymahor/StudyMatePlus/pull/198) |
-| Improve Homepage UI Alignment, Button Design & Section Spacing | Medium | [#197](https://github.com/lovelymahor/StudyMatePlus/issues/197) |
-| Claiming Issue #170: Contact Form Component & Email Integration | Medium | [#196](https://github.com/lovelymahor/StudyMatePlus/issues/196) |
-| Claiming Issue: UI Fixes for Syllabus & CTA | Medium | [#195](https://github.com/lovelymahor/StudyMatePlus/issues/195) |
-| fix: add scroll-to-top functionality across all pages #117 | Medium | [#194](https://github.com/lovelymahor/StudyMatePlus/pull/194) |
-| THE HOME PAGE UI | Medium | [#193](https://github.com/lovelymahor/StudyMatePlus/issues/193) |
-| chore: add github issue and pr templates | Medium | [#192](https://github.com/lovelymahor/StudyMatePlus/pull/192) |
-| Standardize GitHub Issue and PR templates | Medium | [#191](https://github.com/lovelymahor/StudyMatePlus/issues/191) |
-| style: standardize typography and spacing variables | Medium | [#190](https://github.com/lovelymahor/StudyMatePlus/pull/190) |
-| Standardize Typography and Spacing across the application | Medium | [#189](https://github.com/lovelymahor/StudyMatePlus/issues/189) |
-| feat: add loading skeleton components | Medium | [#188](https://github.com/lovelymahor/StudyMatePlus/pull/188) |
-| Implement Loading Skeleton components for better perceived performance | Medium | [#187](https://github.com/lovelymahor/StudyMatePlus/issues/187) |
-| enhancement: improve task form validation and ux | Medium | [#186](https://github.com/lovelymahor/StudyMatePlus/pull/186) |
-| Enhance task creation form with validation and better UX | Medium | [#185](https://github.com/lovelymahor/StudyMatePlus/issues/185) |
-| feat: add global back to top component | Medium | [#184](https://github.com/lovelymahor/StudyMatePlus/pull/184) |
-| Create a reusable Back to Top button component | Medium | [#183](https://github.com/lovelymahor/StudyMatePlus/issues/183) |
-| enhancement: add reusable empty state component | Medium | [#182](https://github.com/lovelymahor/StudyMatePlus/pull/182) |
-| Add professional Empty State components for data-driven pages | Medium | [#181](https://github.com/lovelymahor/StudyMatePlus/issues/181) |
-| refactor: modularize todo page components | Medium | [#180](https://github.com/lovelymahor/StudyMatePlus/pull/180) |
-| Refactor Todo page to extract reusable components | Medium | [#179](https://github.com/lovelymahor/StudyMatePlus/issues/179) |
-| feat: extract reusable footer component | Medium | [#178](https://github.com/lovelymahor/StudyMatePlus/pull/178) |
-| Extract Home footer into a reusable Footer component | Medium | [#177](https://github.com/lovelymahor/StudyMatePlus/issues/177) |
-| a11y: improve navbar accessibility with aria attributes | Medium | [#176](https://github.com/lovelymahor/StudyMatePlus/pull/176) |
-| Improve Navbar accessibility with ARIA attributes | Medium | [#175](https://github.com/lovelymahor/StudyMatePlus/issues/175) |
-| enhancement: replace legacy emojis with professional lucide icons | Medium | [#174](https://github.com/lovelymahor/StudyMatePlus/pull/174) |
-| Replace legacy emojis with professional Lucide icons | Medium | [#173](https://github.com/lovelymahor/StudyMatePlus/issues/173) |
-| Improve User Profile Page Design, Responsiveness, and User Experience | Medium | [#172](https://github.com/lovelymahor/StudyMatePlus/issues/172) |
+| Feedback button does not respond when clicked — no action triggered | Medium | [#234](https://github.com/lovelymahor/StudyMatePlus/issues/234) |
+| Add swagger UI for the api end points | Medium | [#233](https://github.com/lovelymahor/StudyMatePlus/issues/233) |
+| Bug: Feedback submission fails due to hardcoded localhost API endpoint | Medium | [#232](https://github.com/lovelymahor/StudyMatePlus/issues/232) |
+| Bug: Inconsistent footer rendering and mismatched platform logo across pages | Medium | [#231](https://github.com/lovelymahor/StudyMatePlus/issues/231) |
+| Bug: Notes download button downloads HTML file instead of opening PDF | Medium | [#230](https://github.com/lovelymahor/StudyMatePlus/issues/230) |
+| Bug: "/help" route displays blank page due to missing route configuration | Medium | [#229](https://github.com/lovelymahor/StudyMatePlus/issues/229) |
+| Bug: “View ➜” button in PYQs page does not trigger any action | Medium | [#228](https://github.com/lovelymahor/StudyMatePlus/issues/228) |
+| Bug: Broken route navigation for "/mentorship" page | Medium | [#227](https://github.com/lovelymahor/StudyMatePlus/issues/227) |
+| Feature: Add Dark/Light Mode Toggle for Improved User Experience | Medium | [#226](https://github.com/lovelymahor/StudyMatePlus/issues/226) |
+| Feature Request : Add user authentication and persistent note-saving system for personalized progress tracking | Medium | [#225](https://github.com/lovelymahor/StudyMatePlus/issues/225) |
+| feat(ui): enhance UX for feature cards and resolve API port conflict | Medium | [#224](https://github.com/lovelymahor/StudyMatePlus/pull/224) |
+| Fix unordered semester options on syllabus page | Medium | [#223](https://github.com/lovelymahor/StudyMatePlus/pull/223) |
+| Fix landing page alignment and spacing issues | Medium | [#221](https://github.com/lovelymahor/StudyMatePlus/issues/221) |
+| Issue #183 | Medium | [#220](https://github.com/lovelymahor/StudyMatePlus/issues/220) |
+| Fix Home button navigation not scrolling to top on landing page | Medium | [#219](https://github.com/lovelymahor/StudyMatePlus/issues/219) |
+| Active navigation item is not highlighted | Medium | [#218](https://github.com/lovelymahor/StudyMatePlus/issues/218) |
+| [type:design] Fix missing mobile menu links & make Mind Map responsive | Medium | [#217](https://github.com/lovelymahor/StudyMatePlus/issues/217) |
+| Semester dropdown options are unordered in Syllabus page | Medium | [#216](https://github.com/lovelymahor/StudyMatePlus/issues/216) |
+| Issue: Improve Overall UI/UX and User Experience of the Platform | Medium | [#215](https://github.com/lovelymahor/StudyMatePlus/issues/215) |
+| Enhance UI/UX of “How StudyMatePlus Works” Section | Medium | [#214](https://github.com/lovelymahor/StudyMatePlus/issues/214) |
+| Title: Mobile responsiveness issue causing hero section text overflow on smaller screens | Medium | [#213](https://github.com/lovelymahor/StudyMatePlus/issues/213) |
+| Syllabus Preview Button Not Working | Medium | [#212](https://github.com/lovelymahor/StudyMatePlus/issues/212) |
+| readability and color combinations are up to the mark | Medium | [#211](https://github.com/lovelymahor/StudyMatePlus/issues/211) |
+| add dark mode option in the top right corner for the better experience.. | Medium | [#210](https://github.com/lovelymahor/StudyMatePlus/issues/210) |
+| Bug: Search bar is not responsive in "Syllabus" Page | Medium | [#209](https://github.com/lovelymahor/StudyMatePlus/issues/209) |
+| feat: Add Exam Countdown Timer widget for students | Medium | [#207](https://github.com/lovelymahor/StudyMatePlus/issues/207) |
+| Card should fully clickable insdead of only text/button (Browse PYQs, Explore Syllabus etc) | Medium | [#205](https://github.com/lovelymahor/StudyMatePlus/issues/205) |
+| Improve Testimonials Section UI/UX | Medium | [#204](https://github.com/lovelymahor/StudyMatePlus/pull/204) |
 
 ---
 
@@ -2324,6 +2326,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🤖 Auto-unassignment Summary - Sun May 17 2026 | Easy | [#1046](https://github.com/SandeepVashishtha/Eventra/issues/1046) |
+| 🤖 Auto-unassignment Summary - Sun May 17 2026 | Easy | [#1045](https://github.com/SandeepVashishtha/Eventra/issues/1045) |
+| Requirement of maintainers | Medium | [#1043](https://github.com/SandeepVashishtha/Eventra/issues/1043) |
 | Redesign navbar layout | Medium | [#967](https://github.com/SandeepVashishtha/Eventra/pull/967) |
 | Refactor navbar bumpy road logic | Medium | [#965](https://github.com/SandeepVashishtha/Eventra/pull/965) |
 | Fix responsive navbar spacing and mobile menu overflow | Medium | [#964](https://github.com/SandeepVashishtha/Eventra/pull/964) |
