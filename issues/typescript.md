@@ -92,11 +92,13 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Task Level Admin Functionality to Mentorship Portal | Medium | [#4689](https://github.com/OWASP/Nest/issues/4689) |
+| Extract e2e tests into a separate workflow | Medium | [#4687](https://github.com/OWASP/Nest/pull/4687) |
+| Fix unauthorized access to mentorship admin | Medium | [#4682](https://github.com/OWASP/Nest/pull/4682) |
+| Extract frontend tests into a separate workflow | Medium | [#4681](https://github.com/OWASP/Nest/pull/4681) |
+| Extract infrastructure tests into a separate workflow | Medium | [#4679](https://github.com/OWASP/Nest/pull/4679) |
 | feat(projects): add health indicators to project cards | Medium | [#4678](https://github.com/OWASP/Nest/pull/4678) |
-| Merge the updates from main | Medium | [#4677](https://github.com/OWASP/Nest/pull/4677) |
-| Remove docker layer from fuzz tests workflow | Medium | [#4663](https://github.com/OWASP/Nest/pull/4663) |
 | deadlineUtil frontend unit test fails | Medium | [#4632](https://github.com/OWASP/Nest/issues/4632) |
-| Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
 
 ---
 
@@ -626,6 +628,14 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat/quest category pages | Medium | [#247](https://github.com/LarytheLord/Adventurers-Guild/pull/247) |
+| feat: create public quest pages with stats, polish, and edge cases (#… | Medium | [#246](https://github.com/LarytheLord/Adventurers-Guild/pull/246) |
+| feat: dynamic OG image generation for quest pages (#236) | Medium | [#245](https://github.com/LarytheLord/Adventurers-Guild/pull/245) |
+| feat: add quest sharing and referral tracking (#239) | Medium | [#244](https://github.com/LarytheLord/Adventurers-Guild/pull/244) |
+| Feat/landing mid section redesign | Medium | [#243](https://github.com/LarytheLord/Adventurers-Guild/pull/243) |
+| feat: integrate streak system into dashboard and quest submission flo… | Medium | [#242](https://github.com/LarytheLord/Adventurers-Guild/pull/242) |
+| feat: Dynamic OG Image generation for quest pages | Medium | [#241](https://github.com/LarytheLord/Adventurers-Guild/pull/241) |
+| feat: Dynamic OG Image generation for quest pages | Medium | [#240](https://github.com/LarytheLord/Adventurers-Guild/pull/240) |
 | feat: make username required and add Share Guild Card button | Medium | [#229](https://github.com/LarytheLord/Adventurers-Guild/pull/229) |
 | fix: quest board not loading for adventurers | Medium | [#228](https://github.com/LarytheLord/Adventurers-Guild/pull/228) |
 | chore: integrate party panel improvements from PR #199 | Medium | [#227](https://github.com/LarytheLord/Adventurers-Guild/pull/227) |
@@ -637,19 +647,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Feat/landing redesign | Medium | [#213](https://github.com/LarytheLord/Adventurers-Guild/pull/213) |
 | feat: implement Admin Analytics Dashboard and fix pre-existing TypeSc… | Medium | [#212](https://github.com/LarytheLord/Adventurers-Guild/pull/212) |
 | Add the chatbot | Medium | [#210](https://github.com/LarytheLord/Adventurers-Guild/pull/210) |
-| Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
-| fix: redesign: Landing Page Mid-Section - Trust Bar, Product Preview, Why AG, Rank Journey #145 | Medium | [#204](https://github.com/LarytheLord/Adventurers-Guild/pull/204) |
-| fix: feat: Quest Board Filters - Track, Difficulty, Category, and Search #138 | Medium | [#203](https://github.com/LarytheLord/Adventurers-Guild/pull/203) |
-| fix: feat: Party Panel UI - Squad Display on Quest Detail Page #137 | Medium | [#202](https://github.com/LarytheLord/Adventurers-Guild/pull/202) |
-| fix: feat: Quest Streak System - Daily/Weekly XP Multiplier for Retention #136 | Medium | [#201](https://github.com/LarytheLord/Adventurers-Guild/pull/201) |
-| fix: feat: Admin Analytics Dashboard - DAU, Quest Metrics, Rank Distribution #135 | Medium | [#200](https://github.com/LarytheLord/Adventurers-Guild/pull/200) |
-| fix: feat: Squad-Aware Quest Board UI - party slots, join flow, and squad filtering #111 | Medium | [#199](https://github.com/LarytheLord/Adventurers-Guild/pull/199) |
-| fix: feat: Admin Revenue Dashboard - GMV, MRR, fill rate, and take rate charts #109 | Medium | [#198](https://github.com/LarytheLord/Adventurers-Guild/pull/198) |
-| feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
-| refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
-| Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
-| Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
-| NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
 
 ---
 
@@ -690,7 +687,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump next from 15.5.15 to 15.5.18 in /fingerprint-oss-demo | Medium | [#93](https://github.com/IntegerAlex/fingerprint-oss/pull/93) |
 | feat: enhance fingerprinting system with audio_v2, canvas_v2, WebGL2, and spoofing detection | Medium | [#91](https://github.com/IntegerAlex/fingerprint-oss/pull/91) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
 | Stabilization in Hash generation | Hard | [#61](https://github.com/IntegerAlex/fingerprint-oss/pull/61) |
