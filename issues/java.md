@@ -85,6 +85,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| add first file | Medium | [#725](https://github.com/opensource-society/CodeClip/pull/725) |
 | <Short bug description> And additional suggestion for attractive leaderboard | Medium | [#721](https://github.com/opensource-society/CodeClip/issues/721) |
 | ui enhancement | Medium | [#718](https://github.com/opensource-society/CodeClip/issues/718) |
 | UI Enhancement: Improve About & Contact Section Layout | Medium | [#715](https://github.com/opensource-society/CodeClip/issues/715) |
@@ -113,7 +114,6 @@
 | Invisible nav-bar and not working links in the footer | Medium | [#675](https://github.com/opensource-society/CodeClip/issues/675) |
 | Winner Section: Oversized Images and Misaligned Text | Medium | [#674](https://github.com/opensource-society/CodeClip/issues/674) |
 | Add animation and details in the home page | Medium | [#673](https://github.com/opensource-society/CodeClip/issues/673) |
-| User security vunerabilty before login (feature enhancement also | Medium | [#672](https://github.com/opensource-society/CodeClip/issues/672) |
 
 ---
 
@@ -315,6 +315,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: responsiveness not implemented correctly (#1715) | Medium | [#1943](https://github.com/apu52/Travel_Website/pull/1943) |
 | ✈️ Risezonic Travel – Trusted Travel Partner for Domestic & International Trips | Medium | [#1942](https://github.com/apu52/Travel_Website/issues/1942) |
 | Organize Image Assets into a Dedicated Folder | Medium | [#1941](https://github.com/apu52/Travel_Website/issues/1941) |
 | Fix hero section overlap and heading alignment issue | Medium | [#1940](https://github.com/apu52/Travel_Website/pull/1940) |
@@ -344,7 +345,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | style: enhance navbar with icon-text buttons and add favicon | Medium | [#1916](https://github.com/apu52/Travel_Website/pull/1916) |
 | Replace "Login/SignUp" and "View" Buttons with Icons for a Modern UI | Medium | [#1915](https://github.com/apu52/Travel_Website/issues/1915) |
 | Images displayed with incorrect aspect ratio | Medium | [#1914](https://github.com/apu52/Travel_Website/issues/1914) |
-| Accessibility: <li> elements not wrapped in <ul> or <ol> | Medium | [#1913](https://github.com/apu52/Travel_Website/issues/1913) |
 
 ---
 
@@ -434,7 +434,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add AI Medical Assistant Chat UI for patients | Medium | [#728](https://github.com/Dipanita45/HEALCONNECT/pull/728) |
+| Solved Issue #733 UI/UX Improvement of Navbar | Medium | [#734](https://github.com/Dipanita45/HEALCONNECT/pull/734) |
+| fix: add error handling to ChatBox handleSend to prevent UI freeze | Medium | [#732](https://github.com/Dipanita45/HEALCONNECT/pull/732) |
 
 ---
 
@@ -621,20 +622,20 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add GSSoC'25 Banner | Medium | [#180](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/180) |
-| Enhance Success Stories section with background overlay and fix compilation issues (#175) | Medium | [#179](https://github.com/lolpanda2004/Amour-Editorial-Website/pull/179) |
-| Issue: “Business Hours” Card Misaligned in Contact Section | Medium | [#178](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/178) |
-| Issue: Orange Popup Overlapping Article Headings in Blog Section | Medium | [#177](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/177) |
-| Issue: Services Section UI Looks Too Simple — Needs Enhancement | Medium | [#176](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/176) |
-| Enhance Success Stories section with background overlay and fix compi… | Medium | [#175](https://github.com/lolpanda2004/Amour-Editorial-Website/pull/175) |
-| Deployment link doesn't work | Medium | [#174](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/174) |
-| Add Contributors Section in README | Medium | [#173](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/173) |
-| Add Pull Request (PR) Template | Medium | [#172](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/172) |
-| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#171](https://github.com/lolpanda2004/Amour-Editorial-Website/issues/171) |
-| fix: #154 resolve blog page images not displaying | Medium | [#168](https://github.com/lolpanda2004/Amour-Editorial-Website/pull/168) |
-| Add backend validation, file upload, and Nodemailer for contact form | Medium | [#167](https://github.com/lolpanda2004/Amour-Editorial-Website/pull/167) |
-| Issue #129 Resolved – Services Module Expansion & UI Enhancements | Medium | [#158](https://github.com/lolpanda2004/Amour-Editorial-Website/pull/158) |
-| Fix meet our team section - avatar and style team member's card | Medium | [#156](https://github.com/lolpanda2004/Amour-Editorial-Website/pull/156) |
+| Add GSSoC'25 Banner | Medium | [#180](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/180) |
+| Enhance Success Stories section with background overlay and fix compilation issues (#175) | Medium | [#179](https://github.com/GreenFlower7154/Amour-Editorial-Website/pull/179) |
+| Issue: “Business Hours” Card Misaligned in Contact Section | Medium | [#178](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/178) |
+| Issue: Orange Popup Overlapping Article Headings in Blog Section | Medium | [#177](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/177) |
+| Issue: Services Section UI Looks Too Simple — Needs Enhancement | Medium | [#176](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/176) |
+| Enhance Success Stories section with background overlay and fix compi… | Medium | [#175](https://github.com/GreenFlower7154/Amour-Editorial-Website/pull/175) |
+| Deployment link doesn't work | Medium | [#174](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/174) |
+| Add Contributors Section in README | Medium | [#173](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/173) |
+| Add Pull Request (PR) Template | Medium | [#172](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/172) |
+| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#171](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/171) |
+| fix: #154 resolve blog page images not displaying | Medium | [#168](https://github.com/GreenFlower7154/Amour-Editorial-Website/pull/168) |
+| Add backend validation, file upload, and Nodemailer for contact form | Medium | [#167](https://github.com/GreenFlower7154/Amour-Editorial-Website/pull/167) |
+| Issue #129 Resolved – Services Module Expansion & UI Enhancements | Medium | [#158](https://github.com/GreenFlower7154/Amour-Editorial-Website/pull/158) |
+| Fix meet our team section - avatar and style team member's card | Medium | [#156](https://github.com/GreenFlower7154/Amour-Editorial-Website/pull/156) |
 
 ---
 
@@ -699,23 +700,17 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: remove backup .bak files and update gitignore | Medium | [#1747](https://github.com/omroy07/AgriTech/pull/1747) |
 | Add workflow in github actions which automatically adds NSOC'26 label to each issue opend | Medium | [#1712](https://github.com/omroy07/AgriTech/pull/1712) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
 | Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
-| Add Cursor Trail Effect on FAQ Page | Medium | [#1666](https://github.com/omroy07/AgriTech/issues/1666) |
-| Make Navigation Bar Static Across Pages | Medium | [#1644](https://github.com/omroy07/AgriTech/issues/1644) |
-| KeyError crash in POST /api/v1/farms/id/assets when request body is missing required fields | Medium | [#1636](https://github.com/omroy07/AgriTech/issues/1636) |
 | Photo Upload Feature Mentioned but Not Functionally Available | Medium | [#1618](https://github.com/omroy07/AgriTech/issues/1618) |
-| Chat History Not Persisting After Page Reload | Medium | [#1617](https://github.com/omroy07/AgriTech/issues/1617) |
-| Favorites Page Shows “0 Saved Articles” Despite Adding Blogs to Favorites | Medium | [#1616](https://github.com/omroy07/AgriTech/issues/1616) |
-| Scheme Eligibility Form Produces No Output | Medium | [#1509](https://github.com/omroy07/AgriTech/issues/1509) |
-| Duplicate Theme Toggle Button on Login Page | Medium | [#1508](https://github.com/omroy07/AgriTech/issues/1508) |
-| Marketplace Page UI Alignment and Layout Issue | Medium | [#1507](https://github.com/omroy07/AgriTech/issues/1507) |
 | feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
 | Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
+| Add "Back to Home" Navigation on Contact Page | Medium | [#1146](https://github.com/omroy07/AgriTech/issues/1146) |
 
 ---
 
@@ -1036,6 +1031,25 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 ---
 
+## 📌 Project: recode-website
+
+📝 **Description:** community blog website 
+
+🔗 [View Project](https://github.com/recodehive/recode-website)
+
+💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Blog refractor : Azure Data Pipeline | Easy | [#1532](https://github.com/recodehive/recode-website/issues/1532) |
+| fix of hero CTA links render without navigation targets | Easy | [#1526](https://github.com/recodehive/recode-website/pull/1526) |
+
+---
+
 ## 📌 Project: faculty publication management 
 
 📝 **Description:** faculty publication  management 
@@ -1172,6 +1186,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fix layout misalignment in main section (image and content overlapping) | Medium | [#410](https://github.com/multiverseweb/Dataverse/issues/410) |
 | Add a "Getting Started" section to the README | Medium | [#409](https://github.com/multiverseweb/Dataverse/issues/409) |
 | Implement data import/export module + user-friendly CSV/Excel UI for visualizations | Medium | [#408](https://github.com/multiverseweb/Dataverse/issues/408) |
+| Add ToolTip hints for buttons and Charts | Medium | [#407](https://github.com/multiverseweb/Dataverse/issues/407) |
 | Documentation Add Code of Conduct for Dataverse – GSSOC'25 (Open Source Contributions) | Medium | [#406](https://github.com/multiverseweb/Dataverse/issues/406) |
 | 🔐 Password Strength Checker | Medium | [#405](https://github.com/multiverseweb/Dataverse/issues/405) |
 | Sticky and Glassy Navbar | Medium | [#404](https://github.com/multiverseweb/Dataverse/issues/404) |
@@ -1181,7 +1196,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | improving the UI/UX of the authentication pages | Medium | [#400](https://github.com/multiverseweb/Dataverse/issues/400) |
 | Feature Request: Language Toggle for Multilingual UI | Medium | [#399](https://github.com/multiverseweb/Dataverse/issues/399) |
 | Improved UI: Dark Mode Toggle, Corrected the stunning visuals page by solving 4044 error | Medium | [#398](https://github.com/multiverseweb/Dataverse/pull/398) |
-| Add styles to Login and go to home buttons | Medium | [#397](https://github.com/multiverseweb/Dataverse/issues/397) |
 
 ---
 
@@ -1886,17 +1900,34 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Incorrect PDF File Size Displayed | Medium | [#113](https://github.com/lovelymahor/StudyMatePlus/issues/113) |
-| Fixed button alignment and syllabus action functionality | Medium | [#112](https://github.com/lovelymahor/StudyMatePlus/pull/112) |
-| UI:Results area is blank until all 4 filters are selected | Medium | [#111](https://github.com/lovelymahor/StudyMatePlus/issues/111) |
-| UI:Download button is silent when "all subjects" is selected | Medium | [#110](https://github.com/lovelymahor/StudyMatePlus/issues/110) |
-| Add undo/redo support to MindMapEditor | Medium | [#109](https://github.com/lovelymahor/StudyMatePlus/issues/109) |
-| Button Alignment and Functionality Issues | Medium | [#107](https://github.com/lovelymahor/StudyMatePlus/issues/107) |
-| Redesign of Contact Us Page | Medium | [#106](https://github.com/lovelymahor/StudyMatePlus/pull/106) |
-| Created login page | Medium | [#81](https://github.com/lovelymahor/StudyMatePlus/pull/81) |
-| Contact Us Form Accepts Invalid Short Inputs | Medium | [#58](https://github.com/lovelymahor/StudyMatePlus/issues/58) |
-| Design Custom 404 Error Page with Navigation to Home | Medium | [#37](https://github.com/lovelymahor/StudyMatePlus/issues/37) |
-| Implement Functional /help Pages #32 | Medium | [#36](https://github.com/lovelymahor/StudyMatePlus/pull/36) |
+| Feedback button does not respond when clicked — no action triggered | Medium | [#234](https://github.com/lovelymahor/StudyMatePlus/issues/234) |
+| Add swagger UI for the api end points | Medium | [#233](https://github.com/lovelymahor/StudyMatePlus/issues/233) |
+| Bug: Feedback submission fails due to hardcoded localhost API endpoint | Medium | [#232](https://github.com/lovelymahor/StudyMatePlus/issues/232) |
+| Bug: Inconsistent footer rendering and mismatched platform logo across pages | Medium | [#231](https://github.com/lovelymahor/StudyMatePlus/issues/231) |
+| Bug: Notes download button downloads HTML file instead of opening PDF | Medium | [#230](https://github.com/lovelymahor/StudyMatePlus/issues/230) |
+| Bug: "/help" route displays blank page due to missing route configuration | Medium | [#229](https://github.com/lovelymahor/StudyMatePlus/issues/229) |
+| Bug: “View ➜” button in PYQs page does not trigger any action | Medium | [#228](https://github.com/lovelymahor/StudyMatePlus/issues/228) |
+| Bug: Broken route navigation for "/mentorship" page | Medium | [#227](https://github.com/lovelymahor/StudyMatePlus/issues/227) |
+| Feature: Add Dark/Light Mode Toggle for Improved User Experience | Medium | [#226](https://github.com/lovelymahor/StudyMatePlus/issues/226) |
+| Feature Request : Add user authentication and persistent note-saving system for personalized progress tracking | Medium | [#225](https://github.com/lovelymahor/StudyMatePlus/issues/225) |
+| feat(ui): enhance UX for feature cards and resolve API port conflict | Medium | [#224](https://github.com/lovelymahor/StudyMatePlus/pull/224) |
+| Fix unordered semester options on syllabus page | Medium | [#223](https://github.com/lovelymahor/StudyMatePlus/pull/223) |
+| Fix landing page alignment and spacing issues | Medium | [#221](https://github.com/lovelymahor/StudyMatePlus/issues/221) |
+| Issue #183 | Medium | [#220](https://github.com/lovelymahor/StudyMatePlus/issues/220) |
+| Fix Home button navigation not scrolling to top on landing page | Medium | [#219](https://github.com/lovelymahor/StudyMatePlus/issues/219) |
+| Active navigation item is not highlighted | Medium | [#218](https://github.com/lovelymahor/StudyMatePlus/issues/218) |
+| [type:design] Fix missing mobile menu links & make Mind Map responsive | Medium | [#217](https://github.com/lovelymahor/StudyMatePlus/issues/217) |
+| Semester dropdown options are unordered in Syllabus page | Medium | [#216](https://github.com/lovelymahor/StudyMatePlus/issues/216) |
+| Issue: Improve Overall UI/UX and User Experience of the Platform | Medium | [#215](https://github.com/lovelymahor/StudyMatePlus/issues/215) |
+| Enhance UI/UX of “How StudyMatePlus Works” Section | Medium | [#214](https://github.com/lovelymahor/StudyMatePlus/issues/214) |
+| Title: Mobile responsiveness issue causing hero section text overflow on smaller screens | Medium | [#213](https://github.com/lovelymahor/StudyMatePlus/issues/213) |
+| Syllabus Preview Button Not Working | Medium | [#212](https://github.com/lovelymahor/StudyMatePlus/issues/212) |
+| readability and color combinations are up to the mark | Medium | [#211](https://github.com/lovelymahor/StudyMatePlus/issues/211) |
+| add dark mode option in the top right corner for the better experience.. | Medium | [#210](https://github.com/lovelymahor/StudyMatePlus/issues/210) |
+| Bug: Search bar is not responsive in "Syllabus" Page | Medium | [#209](https://github.com/lovelymahor/StudyMatePlus/issues/209) |
+| feat: Add Exam Countdown Timer widget for students | Medium | [#207](https://github.com/lovelymahor/StudyMatePlus/issues/207) |
+| Card should fully clickable insdead of only text/button (Browse PYQs, Explore Syllabus etc) | Medium | [#205](https://github.com/lovelymahor/StudyMatePlus/issues/205) |
+| Improve Testimonials Section UI/UX | Medium | [#204](https://github.com/lovelymahor/StudyMatePlus/pull/204) |
 
 ---
 
