@@ -208,11 +208,13 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Task Level Admin Functionality to Mentorship Portal | Medium | [#4689](https://github.com/OWASP/Nest/issues/4689) |
+| Extract e2e tests into a separate workflow | Medium | [#4687](https://github.com/OWASP/Nest/pull/4687) |
+| Fix unauthorized access to mentorship admin | Medium | [#4682](https://github.com/OWASP/Nest/pull/4682) |
+| Extract frontend tests into a separate workflow | Medium | [#4681](https://github.com/OWASP/Nest/pull/4681) |
+| Extract infrastructure tests into a separate workflow | Medium | [#4679](https://github.com/OWASP/Nest/pull/4679) |
 | feat(projects): add health indicators to project cards | Medium | [#4678](https://github.com/OWASP/Nest/pull/4678) |
-| Merge the updates from main | Medium | [#4677](https://github.com/OWASP/Nest/pull/4677) |
-| Remove docker layer from fuzz tests workflow | Medium | [#4663](https://github.com/OWASP/Nest/pull/4663) |
 | deadlineUtil frontend unit test fails | Medium | [#4632](https://github.com/OWASP/Nest/issues/4632) |
-| Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
 
 ---
 
@@ -560,21 +562,17 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve "Create New Post" Button UI/UX | Easy | [#1264](https://github.com/omroy07/AgriTech/issues/1264) |
+| chore: remove backup .bak files and update gitignore | Medium | [#1747](https://github.com/omroy07/AgriTech/pull/1747) |
 | Add workflow in github actions which automatically adds NSOC'26 label to each issue opend | Medium | [#1712](https://github.com/omroy07/AgriTech/pull/1712) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
 | Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
-| Add Cursor Trail Effect on FAQ Page | Medium | [#1666](https://github.com/omroy07/AgriTech/issues/1666) |
-| KeyError crash in POST /api/v1/farms/id/assets when request body is missing required fields | Medium | [#1636](https://github.com/omroy07/AgriTech/issues/1636) |
 | Photo Upload Feature Mentioned but Not Functionally Available | Medium | [#1618](https://github.com/omroy07/AgriTech/issues/1618) |
-| Chat History Not Persisting After Page Reload | Medium | [#1617](https://github.com/omroy07/AgriTech/issues/1617) |
-| Favorites Page Shows “0 Saved Articles” Despite Adding Blogs to Favorites | Medium | [#1616](https://github.com/omroy07/AgriTech/issues/1616) |
-| Scheme Eligibility Form Produces No Output | Medium | [#1509](https://github.com/omroy07/AgriTech/issues/1509) |
 | feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
 | Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
+| Add "Back to Home" Navigation on Contact Page | Medium | [#1146](https://github.com/omroy07/AgriTech/issues/1146) |
 
 ---
 
@@ -1054,32 +1052,36 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| BUG : The chatbot encounters an error everytime a query is sent. | Medium | [#265](https://github.com/aayushraj1010/med-genie/issues/265) |
-| Navigation Issue: 'Our Process' Option Not Redirecting Properly | Medium | [#264](https://github.com/aayushraj1010/med-genie/issues/264) |
-| Google OAuth login failing with Error 400: invalid_request | Medium | [#263](https://github.com/aayushraj1010/med-genie/issues/263) |
-| fix: unify Google AI API key environment variable | Medium | [#262](https://github.com/aayushraj1010/med-genie/pull/262) |
-| Add AI Agent Memory Layer --> Persist User Health Context Across Sessions | Medium | [#260](https://github.com/aayushraj1010/med-genie/issues/260) |
-| Can't sign up to use the product | Medium | [#259](https://github.com/aayushraj1010/med-genie/issues/259) |
-| Implement or remove inactive "Our Process" navigation link on Services page | Medium | [#258](https://github.com/aayushraj1010/med-genie/issues/258) |
-| Fix: Missing Signup / register/ create account  button on the landing page | Medium | [#257](https://github.com/aayushraj1010/med-genie/pull/257) |
-| Add light mode support with system preference detection | Medium | [#256](https://github.com/aayushraj1010/med-genie/issues/256) |
-| Accessibility: Low contrast blue text fails accessibility standards | Medium | [#255](https://github.com/aayushraj1010/med-genie/issues/255) |
-| Navbar overlaps section heading on initial page load without scrolling | Medium | [#254](https://github.com/aayushraj1010/med-genie/issues/254) |
-| Feature Request: Multilingual Voice Input Support | Medium | [#253](https://github.com/aayushraj1010/med-genie/issues/253) |
-| FAQ Accordion shows unwanted spacing and laggy close animation | Medium | [#252](https://github.com/aayushraj1010/med-genie/issues/252) |
-| Responsive layout breaks due to oversized absolutely positioned div in Services page hero section | Medium | [#251](https://github.com/aayushraj1010/med-genie/issues/251) |
-| Navbar not properly functioning | Medium | [#249](https://github.com/aayushraj1010/med-genie/issues/249) |
-| No navbar  in login or signup page | Medium | [#246](https://github.com/aayushraj1010/med-genie/issues/246) |
-| Inconsistent Gemini API Environment Variable Names | Medium | [#245](https://github.com/aayushraj1010/med-genie/issues/245) |
-| Dark and light is mentioned in website features but not implemented | Medium | [#244](https://github.com/aayushraj1010/med-genie/issues/244) |
-| OAuth Authentication Error with Google Sign-In | Medium | [#241](https://github.com/aayushraj1010/med-genie/issues/241) |
-| BUG: Dropdown interaction triggers horizontal layout shift and navbar expansion | Medium | [#238](https://github.com/aayushraj1010/med-genie/issues/238) |
-| MedGenie logo not rendering correctly in Privacy Policy navbar | Medium | [#237](https://github.com/aayushraj1010/med-genie/issues/237) |
-| Implement functional AI Health Assisstant module | Medium | [#236](https://github.com/aayushraj1010/med-genie/issues/236) |
-| NavBar overlaps page contents on "Services" and "Find Specialist" pages | Medium | [#235](https://github.com/aayushraj1010/med-genie/issues/235) |
-| Footer social media links redirect incorrectly and “How it Works” / “FAQs” links are non-functional | Medium | [#233](https://github.com/aayushraj1010/med-genie/issues/233) |
-| To improve the webite | Medium | [#232](https://github.com/aayushraj1010/med-genie/issues/232) |
-| Authorization Error | Medium | [#231](https://github.com/aayushraj1010/med-genie/issues/231) |
+| fix: resolve navbar overlap on section navigation | Medium | [#321](https://github.com/aayushraj1010/med-genie/pull/321) |
+| Google OAuth Login Fails Due to Invalid/Missing redirect_uri Configuration (Error 400: invalid_request) | Medium | [#319](https://github.com/aayushraj1010/med-genie/issues/319) |
+| Bug: "Try Demo" button routes to a broken /chat page yielding 404 error | Medium | [#318](https://github.com/aayushraj1010/med-genie/issues/318) |
+| Bug: UI Overlaps, Navigation Menu Alignment, and Layout Discrepancies on Services Page | Medium | [#317](https://github.com/aayushraj1010/med-genie/issues/317) |
+| Hi, I am a GSSoC 2026 contributor and would like to work on this." Waiting for the admin  to respond avoids two contributors working on the same thing. | Medium | [#316](https://github.com/aayushraj1010/med-genie/issues/316) |
+| fix: Navbar overlaps page content on all routes | Medium | [#315](https://github.com/aayushraj1010/med-genie/issues/315) |
+| Improve AI Error Toast Handling and Add Better Loading States During AI Response Generation | Medium | [#314](https://github.com/aayushraj1010/med-genie/issues/314) |
+| Feature Suggestion: Optional Health Vitals/Profile Before AI Consultation | Medium | [#313](https://github.com/aayushraj1010/med-genie/issues/313) |
+| Fix: Added auto-scroll to validation errors on signup page | Medium | [#312](https://github.com/aayushraj1010/med-genie/pull/312) |
+| Feature Enhancement: AI Emergency Severity Detection System | Medium | [#311](https://github.com/aayushraj1010/med-genie/issues/311) |
+| UX Bug: Auto-scroll to validation errors on the signup page | Medium | [#310](https://github.com/aayushraj1010/med-genie/issues/310) |
+| Improving the UI of About page | Medium | [#309](https://github.com/aayushraj1010/med-genie/issues/309) |
+| Feature: Website is not maintaining user after login | Medium | [#308](https://github.com/aayushraj1010/med-genie/issues/308) |
+| Feature: Add AI Clarifying Questions Layer for Symptom Analysis | Medium | [#307](https://github.com/aayushraj1010/med-genie/issues/307) |
+| Added loading state support during AI response generation. | Medium | [#306](https://github.com/aayushraj1010/med-genie/pull/306) |
+| improving the user experience during AI response generation. | Medium | [#305](https://github.com/aayushraj1010/med-genie/issues/305) |
+| Create dedicated Profile and Settings pages for user account management | Medium | [#304](https://github.com/aayushraj1010/med-genie/issues/304) |
+| Add functional Contact Us section with contact information cards | Medium | [#303](https://github.com/aayushraj1010/med-genie/issues/303) |
+| Add visible dark/light theme toggle button to navbar | Medium | [#302](https://github.com/aayushraj1010/med-genie/issues/302) |
+| Add "Delete Individual Chat" option in Chat History | Medium | [#301](https://github.com/aayushraj1010/med-genie/issues/301) |
+| Persist Dark/Light Theme Preference Across Sessions | Medium | [#300](https://github.com/aayushraj1010/med-genie/issues/300) |
+| Feature Request: Add Empty-State UI for No Results and Error Conditions | Medium | [#299](https://github.com/aayushraj1010/med-genie/issues/299) |
+| Feature Request: Add Copy-to-Clipboard Functionality for AI Generated Responses | Medium | [#298](https://github.com/aayushraj1010/med-genie/issues/298) |
+| Feature Request: Add Skeleton Loaders & Better Loading States During AI Response Generation | Medium | [#297](https://github.com/aayushraj1010/med-genie/issues/297) |
+| Feature Request: Multi-Language Support for Health Conversations | Medium | [#296](https://github.com/aayushraj1010/med-genie/issues/296) |
+| Feature Request: User Health Profile with History Tracking | Medium | [#295](https://github.com/aayushraj1010/med-genie/issues/295) |
+| Feature Request: AI-Based Medical Report Summarization Tool | Medium | [#294](https://github.com/aayushraj1010/med-genie/issues/294) |
+| Feature Request: One-Click Emergency SOS Mode with Smart Response Flow | Medium | [#293](https://github.com/aayushraj1010/med-genie/issues/293) |
+| Feature Request: Complete Modern Redesign of Landing Page UI/UX | Medium | [#292](https://github.com/aayushraj1010/med-genie/issues/292) |
+| feat: add user audit logger with tree map visualization | Medium | [#291](https://github.com/aayushraj1010/med-genie/pull/291) |
 
 ---
 
