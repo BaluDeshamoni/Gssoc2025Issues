@@ -85,27 +85,31 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| External target="_blank" links missing rel="noopener noreferrer" (tabnabbing risk) | Medium | [#550](https://github.com/Muneerali199/Draftdeckai/issues/550) |
+| feat: add AI diagram insert to editor toolbar | Medium | [#549](https://github.com/Muneerali199/Draftdeckai/pull/549) |
+| fix: resolve production build crashes on API routes | Medium | [#548](https://github.com/Muneerali199/Draftdeckai/pull/548) |
+| Implement Standard AI Response Processing Layer | Medium | [#547](https://github.com/Muneerali199/Draftdeckai/pull/547) |
+| feat: add request-id tracing for API responses | Medium | [#546](https://github.com/Muneerali199/Draftdeckai/pull/546) |
+| Implement Webhook System & Event Streaming | Medium | [#544](https://github.com/Muneerali199/Draftdeckai/issues/544) |
+| Implement Feature Flags & A/B Testing Infrastructure | Medium | [#541](https://github.com/Muneerali199/Draftdeckai/issues/541) |
+| Implement API Versioning & Backward Compatibility Strategy | Medium | [#539](https://github.com/Muneerali199/Draftdeckai/issues/539) |
+| Feat/standardized rate limiting | Medium | [#536](https://github.com/Muneerali199/Draftdeckai/pull/536) |
+| feat: implement consistent sanitization with reusable helper | Medium | [#534](https://github.com/Muneerali199/Draftdeckai/pull/534) |
+| fix: remove hardcoded debug label from resume builder UI | Medium | [#525](https://github.com/Muneerali199/Draftdeckai/pull/525) |
+| fix: Prevent app crash on boot when Stripe secret key is missing | Medium | [#522](https://github.com/Muneerali199/Draftdeckai/pull/522) |
 | chore: Remove deprecated Supabase auth-helpers and duplicate client | Medium | [#521](https://github.com/Muneerali199/Draftdeckai/pull/521) |
-| Remove deprecated Supabase auth-helpers and duplicate client implementation | Medium | [#520](https://github.com/Muneerali199/Draftdeckai/issues/520) |
 | Maint/project cleanup isolated | Medium | [#519](https://github.com/Muneerali199/Draftdeckai/pull/519) |
 | fix: resolve sign-up, callback, and redirect issues with database sch… | Medium | [#518](https://github.com/Muneerali199/Draftdeckai/pull/518) |
 | feat: implement document analytics dashboard and tracking | Medium | [#517](https://github.com/Muneerali199/Draftdeckai/pull/517) |
 | docs(faq): create FAQ.md for users and contributors | Medium | [#516](https://github.com/Muneerali199/Draftdeckai/pull/516) |
 | feat: add Go router and middleware foundation | Medium | [#515](https://github.com/Muneerali199/Draftdeckai/pull/515) |
 | feat: add centralized Go config loader | Medium | [#514](https://github.com/Muneerali199/Draftdeckai/pull/514) |
-| App crashes on boot if `STRIPE_SECRET_KEY` is missing or uses the placeholder value | Medium | [#512](https://github.com/Muneerali199/Draftdeckai/issues/512) |
 | feat: initialize Go backend module and JWT auth middleware | Medium | [#509](https://github.com/Muneerali199/Draftdeckai/pull/509) |
-| Fix: Connect share logic to Diagram Studio header (Issue #421) | Medium | [#499](https://github.com/Muneerali199/Draftdeckai/pull/499) |
-| Fix: Dark theme text contrast in Resume/ATS analyzer (Issue #314) | Medium | [#498](https://github.com/Muneerali199/Draftdeckai/pull/498) |
-| Comprehensive Code Audit: 20 Architectural and Security Enhancements | Medium | [#496](https://github.com/Muneerali199/Draftdeckai/issues/496) |
-| using docker to avoid install of dependencies #423 | Medium | [#495](https://github.com/Muneerali199/Draftdeckai/pull/495) |
-| feat: add health readiness and version endpoints | Medium | [#494](https://github.com/Muneerali199/Draftdeckai/pull/494) |
-| feat(backend): add Go CI workflow and Docker setup | Medium | [#493](https://github.com/Muneerali199/Draftdeckai/pull/493) |
-| Conversion-Focused Section Redesign (Features, Social Proof, CTA) | Medium | [#486](https://github.com/Muneerali199/Draftdeckai/issues/486) |
-| Premium Visual Direction (Color, Type, Spacing, Components) in Figma | Medium | [#484](https://github.com/Muneerali199/Draftdeckai/issues/484) |
-| Figma IA + Wireframe System for New Landing Page | Medium | [#483](https://github.com/Muneerali199/Draftdeckai/issues/483) |
-| Premium Landing Page Redesign (Figma + Video-to-Frames Smooth Scroll) | Medium | [#482](https://github.com/Muneerali199/Draftdeckai/issues/482) |
-| Hero Redesign with Video-to-Frames Smooth Scroll Concept | Hard | [#485](https://github.com/Muneerali199/Draftdeckai/issues/485) |
+| Implement Database Query Optimization & Caching Layer | Hard | [#545](https://github.com/Muneerali199/Draftdeckai/issues/545) |
+| Implement Full-Text Search & Elasticsearch Integration | Hard | [#543](https://github.com/Muneerali199/Draftdeckai/issues/543) |
+| Implement Security Audit & Compliance Framework | Hard | [#542](https://github.com/Muneerali199/Draftdeckai/issues/542) |
+| Implement E2E Test Suite with Playwright & Coverage Enforcement | Hard | [#540](https://github.com/Muneerali199/Draftdeckai/issues/540) |
+| Implement Distributed Error Tracking & Alert System | Hard | [#538](https://github.com/Muneerali199/Draftdeckai/issues/538) |
 
 ---
 
@@ -178,6 +182,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat/quest category pages | Medium | [#247](https://github.com/LarytheLord/Adventurers-Guild/pull/247) |
+| feat: create public quest pages with stats, polish, and edge cases (#… | Medium | [#246](https://github.com/LarytheLord/Adventurers-Guild/pull/246) |
+| feat: dynamic OG image generation for quest pages (#236) | Medium | [#245](https://github.com/LarytheLord/Adventurers-Guild/pull/245) |
+| feat: add quest sharing and referral tracking (#239) | Medium | [#244](https://github.com/LarytheLord/Adventurers-Guild/pull/244) |
+| Feat/landing mid section redesign | Medium | [#243](https://github.com/LarytheLord/Adventurers-Guild/pull/243) |
+| feat: integrate streak system into dashboard and quest submission flo… | Medium | [#242](https://github.com/LarytheLord/Adventurers-Guild/pull/242) |
 | feat: Dynamic OG Image generation for quest pages | Medium | [#241](https://github.com/LarytheLord/Adventurers-Guild/pull/241) |
 | feat: Dynamic OG Image generation for quest pages | Medium | [#240](https://github.com/LarytheLord/Adventurers-Guild/pull/240) |
 | feat: make username required and add Share Guild Card button | Medium | [#229](https://github.com/LarytheLord/Adventurers-Guild/pull/229) |
@@ -191,11 +201,6 @@
 | Feat/landing redesign | Medium | [#213](https://github.com/LarytheLord/Adventurers-Guild/pull/213) |
 | feat: implement Admin Analytics Dashboard and fix pre-existing TypeSc… | Medium | [#212](https://github.com/LarytheLord/Adventurers-Guild/pull/212) |
 | Add the chatbot | Medium | [#210](https://github.com/LarytheLord/Adventurers-Guild/pull/210) |
-| Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
-| fix: redesign: Landing Page Mid-Section - Trust Bar, Product Preview, Why AG, Rank Journey #145 | Medium | [#204](https://github.com/LarytheLord/Adventurers-Guild/pull/204) |
-| fix: feat: Quest Board Filters - Track, Difficulty, Category, and Search #138 | Medium | [#203](https://github.com/LarytheLord/Adventurers-Guild/pull/203) |
-| fix: feat: Party Panel UI - Squad Display on Quest Detail Page #137 | Medium | [#202](https://github.com/LarytheLord/Adventurers-Guild/pull/202) |
-| fix: feat: Quest Streak System - Daily/Weekly XP Multiplier for Retention #136 | Medium | [#201](https://github.com/LarytheLord/Adventurers-Guild/pull/201) |
 
 ---
 
