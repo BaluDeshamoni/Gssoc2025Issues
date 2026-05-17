@@ -93,6 +93,12 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat/quest category pages | Medium | [#247](https://github.com/LarytheLord/Adventurers-Guild/pull/247) |
+| feat: create public quest pages with stats, polish, and edge cases (#… | Medium | [#246](https://github.com/LarytheLord/Adventurers-Guild/pull/246) |
+| feat: dynamic OG image generation for quest pages (#236) | Medium | [#245](https://github.com/LarytheLord/Adventurers-Guild/pull/245) |
+| feat: add quest sharing and referral tracking (#239) | Medium | [#244](https://github.com/LarytheLord/Adventurers-Guild/pull/244) |
+| Feat/landing mid section redesign | Medium | [#243](https://github.com/LarytheLord/Adventurers-Guild/pull/243) |
+| feat: integrate streak system into dashboard and quest submission flo… | Medium | [#242](https://github.com/LarytheLord/Adventurers-Guild/pull/242) |
 | feat: Dynamic OG Image generation for quest pages | Medium | [#241](https://github.com/LarytheLord/Adventurers-Guild/pull/241) |
 | feat: Dynamic OG Image generation for quest pages | Medium | [#240](https://github.com/LarytheLord/Adventurers-Guild/pull/240) |
 | feat: make username required and add Share Guild Card button | Medium | [#229](https://github.com/LarytheLord/Adventurers-Guild/pull/229) |
@@ -106,11 +112,6 @@
 | Feat/landing redesign | Medium | [#213](https://github.com/LarytheLord/Adventurers-Guild/pull/213) |
 | feat: implement Admin Analytics Dashboard and fix pre-existing TypeSc… | Medium | [#212](https://github.com/LarytheLord/Adventurers-Guild/pull/212) |
 | Add the chatbot | Medium | [#210](https://github.com/LarytheLord/Adventurers-Guild/pull/210) |
-| Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
-| fix: redesign: Landing Page Mid-Section - Trust Bar, Product Preview, Why AG, Rank Journey #145 | Medium | [#204](https://github.com/LarytheLord/Adventurers-Guild/pull/204) |
-| fix: feat: Quest Board Filters - Track, Difficulty, Category, and Search #138 | Medium | [#203](https://github.com/LarytheLord/Adventurers-Guild/pull/203) |
-| fix: feat: Party Panel UI - Squad Display on Quest Detail Page #137 | Medium | [#202](https://github.com/LarytheLord/Adventurers-Guild/pull/202) |
-| fix: feat: Quest Streak System - Daily/Weekly XP Multiplier for Retention #136 | Medium | [#201](https://github.com/LarytheLord/Adventurers-Guild/pull/201) |
 
 ---
 
