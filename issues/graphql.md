@@ -14,11 +14,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Task Level Admin Functionality to Mentorship Portal | Medium | [#4689](https://github.com/OWASP/Nest/issues/4689) |
+| Extract e2e tests into a separate workflow | Medium | [#4687](https://github.com/OWASP/Nest/pull/4687) |
+| Fix unauthorized access to mentorship admin | Medium | [#4682](https://github.com/OWASP/Nest/pull/4682) |
+| Extract frontend tests into a separate workflow | Medium | [#4681](https://github.com/OWASP/Nest/pull/4681) |
+| Extract infrastructure tests into a separate workflow | Medium | [#4679](https://github.com/OWASP/Nest/pull/4679) |
 | feat(projects): add health indicators to project cards | Medium | [#4678](https://github.com/OWASP/Nest/pull/4678) |
-| Merge the updates from main | Medium | [#4677](https://github.com/OWASP/Nest/pull/4677) |
-| Remove docker layer from fuzz tests workflow | Medium | [#4663](https://github.com/OWASP/Nest/pull/4663) |
 | deadlineUtil frontend unit test fails | Medium | [#4632](https://github.com/OWASP/Nest/issues/4632) |
-| Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
 
 ---
 
