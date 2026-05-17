@@ -50,6 +50,9 @@
 |----------|----------------|---------|
 | BUG: Google summer of code's filters are not working | Easy | [#319](https://github.com/andoriyaprashant/OpSo/issues/319) |
 | Feat: Add Winter of Code Program Screen (UI) | Easy | [#282](https://github.com/andoriyaprashant/OpSo/issues/282) |
+| Feat: Add Category Filter Tabs on Home Screen | Medium | [#431](https://github.com/andoriyaprashant/OpSo/issues/431) |
+| Refactor : Improve Homepage Consistency with Timeline Screen | Medium | [#430](https://github.com/andoriyaprashant/OpSo/issues/430) |
+| fix: resolve awesome_notifications dependency configuration issue | Medium | [#429](https://github.com/andoriyaprashant/OpSo/pull/429) |
 | BUG: The app is not running | Medium | [#418](https://github.com/andoriyaprashant/OpSo/issues/418) |
 | Use of Reusable widgets | Medium | [#379](https://github.com/andoriyaprashant/OpSo/issues/379) |
 | dark and light mode toggle | Medium | [#369](https://github.com/andoriyaprashant/OpSo/issues/369) |
