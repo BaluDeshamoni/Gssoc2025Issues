@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Solved Issue #733 UI/UX Improvement of Navbar | Medium | [#734](https://github.com/Dipanita45/HEALCONNECT/pull/734) |
 | fix: add error handling to ChatBox handleSend to prevent UI freeze | Medium | [#732](https://github.com/Dipanita45/HEALCONNECT/pull/732) |
 
 ---
@@ -53,11 +54,9 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
-| Tracking Issue: Refactoring of Hybrid CSR Storage Format | Easy | [#159](https://github.com/SharonIV0x86/CinderPeak/issues/159) |
-| feat(logging): Add looging helper utilities | Medium | [#230](https://github.com/SharonIV0x86/CinderPeak/pull/230) |
-| The "Essential" Feature: Graph Serialization & I/O Module | Medium | [#199](https://github.com/SharonIV0x86/CinderPeak/issues/199) |
-| feat: Add core graph algorithm implementations (Dijkstra, MST, Topological Sort, etc.) | Medium | [#197](https://github.com/SharonIV0x86/CinderPeak/issues/197) |
-| feat(storage): Add Graph Serialization / Deserialization Support | Medium | [#170](https://github.com/SharonIV0x86/CinderPeak/issues/170) |
+| feat(api): Expose `getNeighbors()` from PeakStore in CinderGraph public API | Medium | [#250](https://github.com/SharonIV0x86/CinderPeak/issues/250) |
+| Refactor logging in PeakStore and AdjacencyList to use dbg utility | Medium | [#248](https://github.com/SharonIV0x86/CinderPeak/pull/248) |
+| Handle invalid node access gracefully in graph operations | Medium | [#246](https://github.com/SharonIV0x86/CinderPeak/issues/246) |
 
 ---
 
