@@ -250,32 +250,36 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| BUG : The chatbot encounters an error everytime a query is sent. | Medium | [#265](https://github.com/aayushraj1010/med-genie/issues/265) |
-| Navigation Issue: 'Our Process' Option Not Redirecting Properly | Medium | [#264](https://github.com/aayushraj1010/med-genie/issues/264) |
-| Google OAuth login failing with Error 400: invalid_request | Medium | [#263](https://github.com/aayushraj1010/med-genie/issues/263) |
-| fix: unify Google AI API key environment variable | Medium | [#262](https://github.com/aayushraj1010/med-genie/pull/262) |
-| Add AI Agent Memory Layer --> Persist User Health Context Across Sessions | Medium | [#260](https://github.com/aayushraj1010/med-genie/issues/260) |
-| Can't sign up to use the product | Medium | [#259](https://github.com/aayushraj1010/med-genie/issues/259) |
-| Implement or remove inactive "Our Process" navigation link on Services page | Medium | [#258](https://github.com/aayushraj1010/med-genie/issues/258) |
-| Fix: Missing Signup / register/ create account  button on the landing page | Medium | [#257](https://github.com/aayushraj1010/med-genie/pull/257) |
-| Add light mode support with system preference detection | Medium | [#256](https://github.com/aayushraj1010/med-genie/issues/256) |
-| Accessibility: Low contrast blue text fails accessibility standards | Medium | [#255](https://github.com/aayushraj1010/med-genie/issues/255) |
-| Navbar overlaps section heading on initial page load without scrolling | Medium | [#254](https://github.com/aayushraj1010/med-genie/issues/254) |
-| Feature Request: Multilingual Voice Input Support | Medium | [#253](https://github.com/aayushraj1010/med-genie/issues/253) |
-| FAQ Accordion shows unwanted spacing and laggy close animation | Medium | [#252](https://github.com/aayushraj1010/med-genie/issues/252) |
-| Responsive layout breaks due to oversized absolutely positioned div in Services page hero section | Medium | [#251](https://github.com/aayushraj1010/med-genie/issues/251) |
-| Navbar not properly functioning | Medium | [#249](https://github.com/aayushraj1010/med-genie/issues/249) |
-| No navbar  in login or signup page | Medium | [#246](https://github.com/aayushraj1010/med-genie/issues/246) |
-| Inconsistent Gemini API Environment Variable Names | Medium | [#245](https://github.com/aayushraj1010/med-genie/issues/245) |
-| Dark and light is mentioned in website features but not implemented | Medium | [#244](https://github.com/aayushraj1010/med-genie/issues/244) |
-| OAuth Authentication Error with Google Sign-In | Medium | [#241](https://github.com/aayushraj1010/med-genie/issues/241) |
-| BUG: Dropdown interaction triggers horizontal layout shift and navbar expansion | Medium | [#238](https://github.com/aayushraj1010/med-genie/issues/238) |
-| MedGenie logo not rendering correctly in Privacy Policy navbar | Medium | [#237](https://github.com/aayushraj1010/med-genie/issues/237) |
-| Implement functional AI Health Assisstant module | Medium | [#236](https://github.com/aayushraj1010/med-genie/issues/236) |
-| NavBar overlaps page contents on "Services" and "Find Specialist" pages | Medium | [#235](https://github.com/aayushraj1010/med-genie/issues/235) |
-| Footer social media links redirect incorrectly and “How it Works” / “FAQs” links are non-functional | Medium | [#233](https://github.com/aayushraj1010/med-genie/issues/233) |
-| To improve the webite | Medium | [#232](https://github.com/aayushraj1010/med-genie/issues/232) |
-| Authorization Error | Medium | [#231](https://github.com/aayushraj1010/med-genie/issues/231) |
+| fix: resolve navbar overlap on section navigation | Medium | [#321](https://github.com/aayushraj1010/med-genie/pull/321) |
+| Google OAuth Login Fails Due to Invalid/Missing redirect_uri Configuration (Error 400: invalid_request) | Medium | [#319](https://github.com/aayushraj1010/med-genie/issues/319) |
+| Bug: "Try Demo" button routes to a broken /chat page yielding 404 error | Medium | [#318](https://github.com/aayushraj1010/med-genie/issues/318) |
+| Bug: UI Overlaps, Navigation Menu Alignment, and Layout Discrepancies on Services Page | Medium | [#317](https://github.com/aayushraj1010/med-genie/issues/317) |
+| Hi, I am a GSSoC 2026 contributor and would like to work on this." Waiting for the admin  to respond avoids two contributors working on the same thing. | Medium | [#316](https://github.com/aayushraj1010/med-genie/issues/316) |
+| fix: Navbar overlaps page content on all routes | Medium | [#315](https://github.com/aayushraj1010/med-genie/issues/315) |
+| Improve AI Error Toast Handling and Add Better Loading States During AI Response Generation | Medium | [#314](https://github.com/aayushraj1010/med-genie/issues/314) |
+| Feature Suggestion: Optional Health Vitals/Profile Before AI Consultation | Medium | [#313](https://github.com/aayushraj1010/med-genie/issues/313) |
+| Fix: Added auto-scroll to validation errors on signup page | Medium | [#312](https://github.com/aayushraj1010/med-genie/pull/312) |
+| Feature Enhancement: AI Emergency Severity Detection System | Medium | [#311](https://github.com/aayushraj1010/med-genie/issues/311) |
+| UX Bug: Auto-scroll to validation errors on the signup page | Medium | [#310](https://github.com/aayushraj1010/med-genie/issues/310) |
+| Improving the UI of About page | Medium | [#309](https://github.com/aayushraj1010/med-genie/issues/309) |
+| Feature: Website is not maintaining user after login | Medium | [#308](https://github.com/aayushraj1010/med-genie/issues/308) |
+| Feature: Add AI Clarifying Questions Layer for Symptom Analysis | Medium | [#307](https://github.com/aayushraj1010/med-genie/issues/307) |
+| Added loading state support during AI response generation. | Medium | [#306](https://github.com/aayushraj1010/med-genie/pull/306) |
+| improving the user experience during AI response generation. | Medium | [#305](https://github.com/aayushraj1010/med-genie/issues/305) |
+| Create dedicated Profile and Settings pages for user account management | Medium | [#304](https://github.com/aayushraj1010/med-genie/issues/304) |
+| Add functional Contact Us section with contact information cards | Medium | [#303](https://github.com/aayushraj1010/med-genie/issues/303) |
+| Add visible dark/light theme toggle button to navbar | Medium | [#302](https://github.com/aayushraj1010/med-genie/issues/302) |
+| Add "Delete Individual Chat" option in Chat History | Medium | [#301](https://github.com/aayushraj1010/med-genie/issues/301) |
+| Persist Dark/Light Theme Preference Across Sessions | Medium | [#300](https://github.com/aayushraj1010/med-genie/issues/300) |
+| Feature Request: Add Empty-State UI for No Results and Error Conditions | Medium | [#299](https://github.com/aayushraj1010/med-genie/issues/299) |
+| Feature Request: Add Copy-to-Clipboard Functionality for AI Generated Responses | Medium | [#298](https://github.com/aayushraj1010/med-genie/issues/298) |
+| Feature Request: Add Skeleton Loaders & Better Loading States During AI Response Generation | Medium | [#297](https://github.com/aayushraj1010/med-genie/issues/297) |
+| Feature Request: Multi-Language Support for Health Conversations | Medium | [#296](https://github.com/aayushraj1010/med-genie/issues/296) |
+| Feature Request: User Health Profile with History Tracking | Medium | [#295](https://github.com/aayushraj1010/med-genie/issues/295) |
+| Feature Request: AI-Based Medical Report Summarization Tool | Medium | [#294](https://github.com/aayushraj1010/med-genie/issues/294) |
+| Feature Request: One-Click Emergency SOS Mode with Smart Response Flow | Medium | [#293](https://github.com/aayushraj1010/med-genie/issues/293) |
+| Feature Request: Complete Modern Redesign of Landing Page UI/UX | Medium | [#292](https://github.com/aayushraj1010/med-genie/issues/292) |
+| feat: add user audit logger with tree map visualization | Medium | [#291](https://github.com/aayushraj1010/med-genie/pull/291) |
 
 ---
 
@@ -558,31 +562,34 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement User Authentication and Resource Upload System in StudyMatePlus | Medium | [#149](https://github.com/lovelymahor/StudyMatePlus/issues/149) |
-| UI/UX: Improve Button Consistency and Interactivity in "Ready to Ace Your Exams" Section | Medium | [#148](https://github.com/lovelymahor/StudyMatePlus/issues/148) |
-| Title: PYQ Resources Not Opening Due to Missing/Invalid PDF Links | Medium | [#147](https://github.com/lovelymahor/StudyMatePlus/issues/147) |
-| Hero section buttons are visually inconsistent and do not look cohesive | Medium | [#146](https://github.com/lovelymahor/StudyMatePlus/issues/146) |
-| CTA buttons at the bottom of the homepage are misaligned and inconsistent in styling | Medium | [#145](https://github.com/lovelymahor/StudyMatePlus/issues/145) |
-| fix(notes): improve text readability in light mode hero section | Medium | [#144](https://github.com/lovelymahor/StudyMatePlus/pull/144) |
-| Bug: "Submit Your Feedback" button is not working | Medium | [#143](https://github.com/lovelymahor/StudyMatePlus/issues/143) |
-| CTA section buttons have inconsistent styling and improper alignment | Medium | [#142](https://github.com/lovelymahor/StudyMatePlus/issues/142) |
-| Syllabus filters return no results for certain valid University, Department, and Semester combinations | Medium | [#141](https://github.com/lovelymahor/StudyMatePlus/issues/141) |
-| feat: improve homepage UI and responsiveness | Medium | [#140](https://github.com/lovelymahor/StudyMatePlus/pull/140) |
-| UI improvement for the FAQ page | Medium | [#139](https://github.com/lovelymahor/StudyMatePlus/issues/139) |
-| Expand the range of colleges for previous year question papers | Medium | [#138](https://github.com/lovelymahor/StudyMatePlus/issues/138) |
-| UI improvement for the home page of the website | Medium | [#137](https://github.com/lovelymahor/StudyMatePlus/issues/137) |
-| Frontend refurbish | Medium | [#136](https://github.com/lovelymahor/StudyMatePlus/issues/136) |
-| Inconsistent UI | Medium | [#135](https://github.com/lovelymahor/StudyMatePlus/issues/135) |
-| Optimize Hero Section Spacing and Vertical Alignment | Medium | [#134](https://github.com/lovelymahor/StudyMatePlus/issues/134) |
-| better UI desgin,animation  and hover effectof the button | Medium | [#133](https://github.com/lovelymahor/StudyMatePlus/issues/133) |
-| Enhance Mind Map into a Smart Study Planning and Revision Tool | Medium | [#132](https://github.com/lovelymahor/StudyMatePlus/issues/132) |
-| Inconsistent styling over all pages - Update UI/UX of the site | Medium | [#131](https://github.com/lovelymahor/StudyMatePlus/issues/131) |
-| Work upon the preview button. | Medium | [#130](https://github.com/lovelymahor/StudyMatePlus/issues/130) |
-| Add a simple daily study planner for students | Medium | [#125](https://github.com/lovelymahor/StudyMatePlus/issues/125) |
-| Add a New Task UI improvement | Medium | [#122](https://github.com/lovelymahor/StudyMatePlus/issues/122) |
-| realtime chat scaffold (Socket.IO, upload, UI) | Medium | [#120](https://github.com/lovelymahor/StudyMatePlus/pull/120) |
-| Implement real-time senior–student mentorship chat with persistence, moderation, and file attachments | Medium | [#119](https://github.com/lovelymahor/StudyMatePlus/issues/119) |
-| Implement JWT Authentication System with User Registration & Login | Medium | [#118](https://github.com/lovelymahor/StudyMatePlus/pull/118) |
+| Feedback button does not respond when clicked — no action triggered | Medium | [#234](https://github.com/lovelymahor/StudyMatePlus/issues/234) |
+| Add swagger UI for the api end points | Medium | [#233](https://github.com/lovelymahor/StudyMatePlus/issues/233) |
+| Bug: Feedback submission fails due to hardcoded localhost API endpoint | Medium | [#232](https://github.com/lovelymahor/StudyMatePlus/issues/232) |
+| Bug: Inconsistent footer rendering and mismatched platform logo across pages | Medium | [#231](https://github.com/lovelymahor/StudyMatePlus/issues/231) |
+| Bug: Notes download button downloads HTML file instead of opening PDF | Medium | [#230](https://github.com/lovelymahor/StudyMatePlus/issues/230) |
+| Bug: "/help" route displays blank page due to missing route configuration | Medium | [#229](https://github.com/lovelymahor/StudyMatePlus/issues/229) |
+| Bug: “View ➜” button in PYQs page does not trigger any action | Medium | [#228](https://github.com/lovelymahor/StudyMatePlus/issues/228) |
+| Bug: Broken route navigation for "/mentorship" page | Medium | [#227](https://github.com/lovelymahor/StudyMatePlus/issues/227) |
+| Feature: Add Dark/Light Mode Toggle for Improved User Experience | Medium | [#226](https://github.com/lovelymahor/StudyMatePlus/issues/226) |
+| Feature Request : Add user authentication and persistent note-saving system for personalized progress tracking | Medium | [#225](https://github.com/lovelymahor/StudyMatePlus/issues/225) |
+| feat(ui): enhance UX for feature cards and resolve API port conflict | Medium | [#224](https://github.com/lovelymahor/StudyMatePlus/pull/224) |
+| Fix unordered semester options on syllabus page | Medium | [#223](https://github.com/lovelymahor/StudyMatePlus/pull/223) |
+| Fix landing page alignment and spacing issues | Medium | [#221](https://github.com/lovelymahor/StudyMatePlus/issues/221) |
+| Issue #183 | Medium | [#220](https://github.com/lovelymahor/StudyMatePlus/issues/220) |
+| Fix Home button navigation not scrolling to top on landing page | Medium | [#219](https://github.com/lovelymahor/StudyMatePlus/issues/219) |
+| Active navigation item is not highlighted | Medium | [#218](https://github.com/lovelymahor/StudyMatePlus/issues/218) |
+| [type:design] Fix missing mobile menu links & make Mind Map responsive | Medium | [#217](https://github.com/lovelymahor/StudyMatePlus/issues/217) |
+| Semester dropdown options are unordered in Syllabus page | Medium | [#216](https://github.com/lovelymahor/StudyMatePlus/issues/216) |
+| Issue: Improve Overall UI/UX and User Experience of the Platform | Medium | [#215](https://github.com/lovelymahor/StudyMatePlus/issues/215) |
+| Enhance UI/UX of “How StudyMatePlus Works” Section | Medium | [#214](https://github.com/lovelymahor/StudyMatePlus/issues/214) |
+| Title: Mobile responsiveness issue causing hero section text overflow on smaller screens | Medium | [#213](https://github.com/lovelymahor/StudyMatePlus/issues/213) |
+| Syllabus Preview Button Not Working | Medium | [#212](https://github.com/lovelymahor/StudyMatePlus/issues/212) |
+| readability and color combinations are up to the mark | Medium | [#211](https://github.com/lovelymahor/StudyMatePlus/issues/211) |
+| add dark mode option in the top right corner for the better experience.. | Medium | [#210](https://github.com/lovelymahor/StudyMatePlus/issues/210) |
+| Bug: Search bar is not responsive in "Syllabus" Page | Medium | [#209](https://github.com/lovelymahor/StudyMatePlus/issues/209) |
+| feat: Add Exam Countdown Timer widget for students | Medium | [#207](https://github.com/lovelymahor/StudyMatePlus/issues/207) |
+| Card should fully clickable insdead of only text/button (Browse PYQs, Explore Syllabus etc) | Medium | [#205](https://github.com/lovelymahor/StudyMatePlus/issues/205) |
+| Improve Testimonials Section UI/UX | Medium | [#204](https://github.com/lovelymahor/StudyMatePlus/pull/204) |
 
 ---
 
@@ -621,6 +628,31 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Improve Explore Page with Filters for Tech Stack and Followed Users + Styling Enhancements | Medium | [#26](https://github.com/mr-rishikesh/DevConnect/issues/26) |
 | Fix Home Navigation Redirect and Navbar Logo Scroll-to-Top Behavior | Medium | [#22](https://github.com/mr-rishikesh/DevConnect/issues/22) |
 | Implement Message Logic with WebSocket (Frontend + Backend Integration) | Hard | [#27](https://github.com/mr-rishikesh/DevConnect/issues/27) |
+
+---
+
+## 📌 Project: Eventra - Full Stack Event Management System
+
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
+
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 🤖 Auto-unassignment Summary - Sun May 17 2026 | Easy | [#1046](https://github.com/SandeepVashishtha/Eventra/issues/1046) |
+| 🤖 Auto-unassignment Summary - Sun May 17 2026 | Easy | [#1045](https://github.com/SandeepVashishtha/Eventra/issues/1045) |
+| Requirement of maintainers | Medium | [#1043](https://github.com/SandeepVashishtha/Eventra/issues/1043) |
+| Redesign navbar layout | Medium | [#967](https://github.com/SandeepVashishtha/Eventra/pull/967) |
+| Refactor navbar bumpy road logic | Medium | [#965](https://github.com/SandeepVashishtha/Eventra/pull/965) |
+| Fix responsive navbar spacing and mobile menu overflow | Medium | [#964](https://github.com/SandeepVashishtha/Eventra/pull/964) |
+| Improved hackathon filters UI and UX | Medium | [#963](https://github.com/SandeepVashishtha/Eventra/pull/963) |
+| fix: resolve dark/light mode text contrast issues across routes | Medium | [#961](https://github.com/SandeepVashishtha/Eventra/pull/961) |
 
 ---
 
