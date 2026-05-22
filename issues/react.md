@@ -265,11 +265,20 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(projects): add health indicators to project cards | Medium | [#4678](https://github.com/OWASP/Nest/pull/4678) |
-| Merge the updates from main | Medium | [#4677](https://github.com/OWASP/Nest/pull/4677) |
-| Remove docker layer from fuzz tests workflow | Medium | [#4663](https://github.com/OWASP/Nest/pull/4663) |
-| deadlineUtil frontend unit test fails | Medium | [#4632](https://github.com/OWASP/Nest/issues/4632) |
-| Optimize GitHub app IssueNode | Medium | [#4609](https://github.com/OWASP/Nest/pull/4609) |
+| chore(deps): bump isomorphic-dompurify in /frontend | Medium | [#4729](https://github.com/OWASP/Nest/pull/4729) |
+| chore(deps): bump the version-updates group across 4 directories with 3 updates | Medium | [#4727](https://github.com/OWASP/Nest/pull/4727) |
+| Update dependency management | Medium | [#4726](https://github.com/OWASP/Nest/pull/4726) |
+| chore(deps): bump posthog-js in /frontend | Medium | [#4725](https://github.com/OWASP/Nest/pull/4725) |
+| chore(deps): bump dompurify in /frontend | Medium | [#4723](https://github.com/OWASP/Nest/pull/4723) |
+| chore(deps): bump reportlab in /backend | Medium | [#4722](https://github.com/OWASP/Nest/pull/4722) |
+| fix: improve mobile responsiveness on issues page | Medium | [#4712](https://github.com/OWASP/Nest/pull/4712) |
+| Extract bootstrap-nest-infrastructure into a separate workflow | Medium | [#4711](https://github.com/OWASP/Nest/pull/4711) |
+| Extract scan-images into a separate workflow | Medium | [#4710](https://github.com/OWASP/Nest/pull/4710) |
+| Extract build-images into a separate reusable worflow | Medium | [#4709](https://github.com/OWASP/Nest/pull/4709) |
+| Extract staging jobs into a separate workflow | Medium | [#4701](https://github.com/OWASP/Nest/pull/4701) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4697](https://github.com/OWASP/Nest/pull/4697) |
+| Tighten checks for project leaders on creating a Program | Medium | [#4695](https://github.com/OWASP/Nest/pull/4695) |
+| Add Task Level Admin Functionality to Mentorship Portal | Medium | [#4689](https://github.com/OWASP/Nest/issues/4689) |
 
 ---
 
@@ -746,6 +755,8 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature/notify | Medium | [#886](https://github.com/HarshS16/Civix/pull/886) |
+| feat: adding smooth animations | Medium | [#885](https://github.com/HarshS16/Civix/pull/885) |
 | feat: Add Docker, Kubernetes, Terraform, and CI/CD support | Medium | [#884](https://github.com/HarshS16/Civix/pull/884) |
 | Adding stunning landing page | Medium | [#878](https://github.com/HarshS16/Civix/issues/878) |
 | Improve Navbar UI/UX | Medium | [#875](https://github.com/HarshS16/Civix/issues/875) |
@@ -883,20 +894,20 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add GSSoC'25 Banner | Medium | [#180](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/180) |
-| Enhance Success Stories section with background overlay and fix compilation issues (#175) | Medium | [#179](https://github.com/GreenFlower7154/Amour-Editorial-Website/pull/179) |
-| Issue: “Business Hours” Card Misaligned in Contact Section | Medium | [#178](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/178) |
-| Issue: Orange Popup Overlapping Article Headings in Blog Section | Medium | [#177](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/177) |
-| Issue: Services Section UI Looks Too Simple — Needs Enhancement | Medium | [#176](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/176) |
-| Enhance Success Stories section with background overlay and fix compi… | Medium | [#175](https://github.com/GreenFlower7154/Amour-Editorial-Website/pull/175) |
-| Deployment link doesn't work | Medium | [#174](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/174) |
-| Add Contributors Section in README | Medium | [#173](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/173) |
-| Add Pull Request (PR) Template | Medium | [#172](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/172) |
-| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#171](https://github.com/GreenFlower7154/Amour-Editorial-Website/issues/171) |
-| fix: #154 resolve blog page images not displaying | Medium | [#168](https://github.com/GreenFlower7154/Amour-Editorial-Website/pull/168) |
-| Add backend validation, file upload, and Nodemailer for contact form | Medium | [#167](https://github.com/GreenFlower7154/Amour-Editorial-Website/pull/167) |
-| Issue #129 Resolved – Services Module Expansion & UI Enhancements | Medium | [#158](https://github.com/GreenFlower7154/Amour-Editorial-Website/pull/158) |
-| Fix meet our team section - avatar and style team member's card | Medium | [#156](https://github.com/GreenFlower7154/Amour-Editorial-Website/pull/156) |
+| Add GSSoC'25 Banner | Medium | [#180](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/180) |
+| Enhance Success Stories section with background overlay and fix compilation issues (#175) | Medium | [#179](https://github.com/LolPanda7154/Amour-Editorial-Website/pull/179) |
+| Issue: “Business Hours” Card Misaligned in Contact Section | Medium | [#178](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/178) |
+| Issue: Orange Popup Overlapping Article Headings in Blog Section | Medium | [#177](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/177) |
+| Issue: Services Section UI Looks Too Simple — Needs Enhancement | Medium | [#176](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/176) |
+| Enhance Success Stories section with background overlay and fix compi… | Medium | [#175](https://github.com/LolPanda7154/Amour-Editorial-Website/pull/175) |
+| Deployment link doesn't work | Medium | [#174](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/174) |
+| Add Contributors Section in README | Medium | [#173](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/173) |
+| Add Pull Request (PR) Template | Medium | [#172](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/172) |
+| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#171](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/171) |
+| fix: #154 resolve blog page images not displaying | Medium | [#168](https://github.com/LolPanda7154/Amour-Editorial-Website/pull/168) |
+| Add backend validation, file upload, and Nodemailer for contact form | Medium | [#167](https://github.com/LolPanda7154/Amour-Editorial-Website/pull/167) |
+| Issue #129 Resolved – Services Module Expansion & UI Enhancements | Medium | [#158](https://github.com/LolPanda7154/Amour-Editorial-Website/pull/158) |
+| Fix meet our team section - avatar and style team member's card | Medium | [#156](https://github.com/LolPanda7154/Amour-Editorial-Website/pull/156) |
 
 ---
 
@@ -986,15 +997,17 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: MongoDB auth, session history, and full-width UI | Medium | [#231](https://github.com/GitMetricsLab/github_tracker/pull/231) |
-| Enhance Features Section UI/UX with Improved Hover Effects and Readability | Medium | [#230](https://github.com/GitMetricsLab/github_tracker/pull/230) |
-| fix: enable dark mode support on signup page | Medium | [#229](https://github.com/GitMetricsLab/github_tracker/pull/229) |
-| Solved the broken progress bar issue | Medium | [#226](https://github.com/GitMetricsLab/github_tracker/pull/226) |
-| feat: Comprehensive UI/UX Overhaul & Premium Design System Refresh | Medium | [#218](https://github.com/GitMetricsLab/github_tracker/pull/218) |
-| Fix: ui improved | Medium | [#207](https://github.com/GitMetricsLab/github_tracker/pull/207) |
-| Fix: moved Github ID & Token to environmental variable | Medium | [#199](https://github.com/GitMetricsLab/github_tracker/pull/199) |
-| docs: add Quick Start for Contributors and clarify setup steps | Medium | [#198](https://github.com/GitMetricsLab/github_tracker/pull/198) |
-| Feature: Add bar/pie charts of issues/PRs | Medium | [#194](https://github.com/GitMetricsLab/github_tracker/issues/194) |
+| Improve footer social icon visibility in light mode | Medium | [#390](https://github.com/GitMetricsLab/github_tracker/pull/390) |
+| fix: validate env on startup | Medium | [#385](https://github.com/GitMetricsLab/github_tracker/pull/385) |
+| configured dynamic port and cors middleware for production | Medium | [#384](https://github.com/GitMetricsLab/github_tracker/pull/384) |
+| Added homepage navigation option to login and signup pages | Medium | [#383](https://github.com/GitMetricsLab/github_tracker/pull/383) |
+| Add rate limiting on login and signup to prevent brute-force attacks | Medium | [#381](https://github.com/GitMetricsLab/github_tracker/pull/381) |
+| Harden session cookie with HttpOnly, Secure, SameSite, and maxAge | Medium | [#380](https://github.com/GitMetricsLab/github_tracker/pull/380) |
+| Replace wildcard CORS with explicit ALLOWED_ORIGINS allowlist | Medium | [#379](https://github.com/GitMetricsLab/github_tracker/pull/379) |
+| Fix session fixation vulnerability and password hash exposure in login | Medium | [#378](https://github.com/GitMetricsLab/github_tracker/pull/378) |
+| feat: add password visibility toggle to login form | Medium | [#376](https://github.com/GitMetricsLab/github_tracker/pull/376) |
+| Adding google authentication | Medium | [#368](https://github.com/GitMetricsLab/github_tracker/pull/368) |
+| fix(auth): sanitize login response to exclude password hash | Medium | [#365](https://github.com/GitMetricsLab/github_tracker/pull/365) |
 
 ---
 
@@ -1052,6 +1065,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 |----------|----------------|---------|
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
+| I want this whole project to checked and clear all the errors | Hard | [#765](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/765) |
 
 ---
 
@@ -1208,6 +1222,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
+| feat: add live speed control and sorting step explanations | Medium | [#865](https://github.com/alienx5499/SortVision/pull/865) |
 | Add Step-by-Step Explanation Mode Alongside Sorting Visualization | Medium | [#710](https://github.com/alienx5499/SortVision/issues/710) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
 | Show Random Numbers in Sorting Visualization | Medium | [#656](https://github.com/alienx5499/SortVision/issues/656) |
@@ -1850,30 +1865,18 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: make username required and add Share Guild Card button | Medium | [#229](https://github.com/LarytheLord/Adventurers-Guild/pull/229) |
-| fix: quest board not loading for adventurers | Medium | [#228](https://github.com/LarytheLord/Adventurers-Guild/pull/228) |
-| chore: integrate party panel improvements from PR #199 | Medium | [#227](https://github.com/LarytheLord/Adventurers-Guild/pull/227) |
-| fix: resolve issue #109 - admin revenue dashboard | Medium | [#226](https://github.com/LarytheLord/Adventurers-Guild/pull/226) |
 | feat: admin payment trigger — initiate Razorpay payout from QA queue … | Medium | [#223](https://github.com/LarytheLord/Adventurers-Guild/pull/223) |
 | feat: Landing Page Improvements - Social Proof & FAQ Sections | Medium | [#222](https://github.com/LarytheLord/Adventurers-Guild/pull/222) |
 | feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
-| Feat/landing redesign | Medium | [#213](https://github.com/LarytheLord/Adventurers-Guild/pull/213) |
-| feat: implement Admin Analytics Dashboard and fix pre-existing TypeSc… | Medium | [#212](https://github.com/LarytheLord/Adventurers-Guild/pull/212) |
 | Add the chatbot | Medium | [#210](https://github.com/LarytheLord/Adventurers-Guild/pull/210) |
 | Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
-| fix: redesign: Landing Page Mid-Section - Trust Bar, Product Preview, Why AG, Rank Journey #145 | Medium | [#204](https://github.com/LarytheLord/Adventurers-Guild/pull/204) |
-| fix: feat: Quest Board Filters - Track, Difficulty, Category, and Search #138 | Medium | [#203](https://github.com/LarytheLord/Adventurers-Guild/pull/203) |
-| fix: feat: Party Panel UI - Squad Display on Quest Detail Page #137 | Medium | [#202](https://github.com/LarytheLord/Adventurers-Guild/pull/202) |
-| fix: feat: Quest Streak System - Daily/Weekly XP Multiplier for Retention #136 | Medium | [#201](https://github.com/LarytheLord/Adventurers-Guild/pull/201) |
-| fix: feat: Admin Analytics Dashboard - DAU, Quest Metrics, Rank Distribution #135 | Medium | [#200](https://github.com/LarytheLord/Adventurers-Guild/pull/200) |
-| fix: feat: Squad-Aware Quest Board UI - party slots, join flow, and squad filtering #111 | Medium | [#199](https://github.com/LarytheLord/Adventurers-Guild/pull/199) |
-| fix: feat: Admin Revenue Dashboard - GMV, MRR, fill rate, and take rate charts #109 | Medium | [#198](https://github.com/LarytheLord/Adventurers-Guild/pull/198) |
 | feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 | NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
+| Enhance the faq section | Medium | [#182](https://github.com/LarytheLord/Adventurers-Guild/pull/182) |
 
 ---
 
@@ -1891,13 +1894,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the production-dependencies group across 1 directory with 16 updates | Medium | [#175](https://github.com/Xenonesis/code-guardian-report/pull/175) |
-| chore(deps): bump the dev-dependencies group with 4 updates | Medium | [#174](https://github.com/Xenonesis/code-guardian-report/pull/174) |
+| chore(deps): bump the production-dependencies group across 1 directory with 5 updates | Medium | [#179](https://github.com/Xenonesis/code-guardian-report/pull/179) |
+| chore(deps): bump the dev-dependencies group across 1 directory with 3 updates | Medium | [#178](https://github.com/Xenonesis/code-guardian-report/pull/178) |
 | feat: update user profile page to display complete user information | Medium | [#173](https://github.com/Xenonesis/code-guardian-report/pull/173) |
 | chore(deps): bump @types/bcryptjs from 2.4.6 to 3.0.0 | Medium | [#171](https://github.com/Xenonesis/code-guardian-report/pull/171) |
 | chore(deps): bump @eslint/js from 9.39.4 to 10.0.1 | Medium | [#170](https://github.com/Xenonesis/code-guardian-report/pull/170) |
 | chore(deps): bump @eslint/markdown from 7.5.1 to 8.0.1 | Medium | [#169](https://github.com/Xenonesis/code-guardian-report/pull/169) |
-| chore(deps): bump eslint from 9.39.4 to 10.3.0 | Medium | [#168](https://github.com/Xenonesis/code-guardian-report/pull/168) |
+| chore(deps): bump eslint from 9.39.4 to 10.4.0 | Medium | [#168](https://github.com/Xenonesis/code-guardian-report/pull/168) |
 | implement parallel file processing using Web Workers | Medium | [#153](https://github.com/Xenonesis/code-guardian-report/pull/153) |
 | Title: TypeScript: Replace implicit 'any' usage in core services | Medium | [#142](https://github.com/Xenonesis/code-guardian-report/issues/142) |
 | Title: Refactor: Remove legacy Jest dependencies and config | Medium | [#141](https://github.com/Xenonesis/code-guardian-report/issues/141) |
@@ -2030,7 +2033,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/OpenVibes/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/OpenVibes/ScheduleX/issues/90) |
 | Account and Settings Page | Easy | [#7](https://github.com/OpenVibes/ScheduleX/issues/7) |
-| fix: prevent duplicate subject creation when Save is tapped rapidly(#106) | Medium | [#152](https://github.com/OpenVibes/ScheduleX/pull/152) |
 | made UI changes in the settings page | Medium | [#148](https://github.com/OpenVibes/ScheduleX/pull/148) |
 | Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/OpenVibes/ScheduleX/pull/147) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/OpenVibes/ScheduleX/issues/124) |
@@ -2380,31 +2382,36 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement User Authentication and Resource Upload System in StudyMatePlus | Medium | [#149](https://github.com/lovelymahor/StudyMatePlus/issues/149) |
-| UI/UX: Improve Button Consistency and Interactivity in "Ready to Ace Your Exams" Section | Medium | [#148](https://github.com/lovelymahor/StudyMatePlus/issues/148) |
-| Title: PYQ Resources Not Opening Due to Missing/Invalid PDF Links | Medium | [#147](https://github.com/lovelymahor/StudyMatePlus/issues/147) |
-| Hero section buttons are visually inconsistent and do not look cohesive | Medium | [#146](https://github.com/lovelymahor/StudyMatePlus/issues/146) |
-| CTA buttons at the bottom of the homepage are misaligned and inconsistent in styling | Medium | [#145](https://github.com/lovelymahor/StudyMatePlus/issues/145) |
-| fix(notes): improve text readability in light mode hero section | Medium | [#144](https://github.com/lovelymahor/StudyMatePlus/pull/144) |
-| Bug: "Submit Your Feedback" button is not working | Medium | [#143](https://github.com/lovelymahor/StudyMatePlus/issues/143) |
-| CTA section buttons have inconsistent styling and improper alignment | Medium | [#142](https://github.com/lovelymahor/StudyMatePlus/issues/142) |
-| Syllabus filters return no results for certain valid University, Department, and Semester combinations | Medium | [#141](https://github.com/lovelymahor/StudyMatePlus/issues/141) |
-| feat: improve homepage UI and responsiveness | Medium | [#140](https://github.com/lovelymahor/StudyMatePlus/pull/140) |
-| UI improvement for the FAQ page | Medium | [#139](https://github.com/lovelymahor/StudyMatePlus/issues/139) |
-| Expand the range of colleges for previous year question papers | Medium | [#138](https://github.com/lovelymahor/StudyMatePlus/issues/138) |
-| UI improvement for the home page of the website | Medium | [#137](https://github.com/lovelymahor/StudyMatePlus/issues/137) |
-| Frontend refurbish | Medium | [#136](https://github.com/lovelymahor/StudyMatePlus/issues/136) |
-| Inconsistent UI | Medium | [#135](https://github.com/lovelymahor/StudyMatePlus/issues/135) |
-| Optimize Hero Section Spacing and Vertical Alignment | Medium | [#134](https://github.com/lovelymahor/StudyMatePlus/issues/134) |
-| better UI desgin,animation  and hover effectof the button | Medium | [#133](https://github.com/lovelymahor/StudyMatePlus/issues/133) |
-| Enhance Mind Map into a Smart Study Planning and Revision Tool | Medium | [#132](https://github.com/lovelymahor/StudyMatePlus/issues/132) |
-| Inconsistent styling over all pages - Update UI/UX of the site | Medium | [#131](https://github.com/lovelymahor/StudyMatePlus/issues/131) |
-| Work upon the preview button. | Medium | [#130](https://github.com/lovelymahor/StudyMatePlus/issues/130) |
-| Add a simple daily study planner for students | Medium | [#125](https://github.com/lovelymahor/StudyMatePlus/issues/125) |
-| Add a New Task UI improvement | Medium | [#122](https://github.com/lovelymahor/StudyMatePlus/issues/122) |
-| realtime chat scaffold (Socket.IO, upload, UI) | Medium | [#120](https://github.com/lovelymahor/StudyMatePlus/pull/120) |
-| Implement real-time senior–student mentorship chat with persistence, moderation, and file attachments | Medium | [#119](https://github.com/lovelymahor/StudyMatePlus/issues/119) |
-| Implement JWT Authentication System with User Registration & Login | Medium | [#118](https://github.com/lovelymahor/StudyMatePlus/pull/118) |
+| Adding a google login authentication page | Medium | [#304](https://github.com/lovelymahor/StudyMatePlus/issues/304) |
+| Feature Request: Complete Redesign of Input & Dropdown Filter Section At Previous year question papers accesss | Medium | [#303](https://github.com/lovelymahor/StudyMatePlus/issues/303) |
+| Add undo/redo support to MindMapEditor | Medium | [#302](https://github.com/lovelymahor/StudyMatePlus/pull/302) |
+| fix: improve active navbar highlight behavior | Medium | [#301](https://github.com/lovelymahor/StudyMatePlus/pull/301) |
+| Fix download button disabled state | Medium | [#300](https://github.com/lovelymahor/StudyMatePlus/pull/300) |
+| Enhance Footer Hover Effects | Medium | [#299](https://github.com/lovelymahor/StudyMatePlus/issues/299) |
+| Fix dark mode visibility issues across analytics, syllabus, notes, an… | Medium | [#298](https://github.com/lovelymahor/StudyMatePlus/pull/298) |
+| Frontend issues and other UI and Visual Enhancement | Medium | [#297](https://github.com/lovelymahor/StudyMatePlus/issues/297) |
+| CTA buttons misaligned in Hero/Banner section | Medium | [#296](https://github.com/lovelymahor/StudyMatePlus/issues/296) |
+| Dark mode: Headings not visible on About page and other sections | Medium | [#295](https://github.com/lovelymahor/StudyMatePlus/issues/295) |
+| Fix semester dropdown ordering issue in syllabus filter | Medium | [#294](https://github.com/lovelymahor/StudyMatePlus/pull/294) |
+| help in enhancement of CSS and structure of website and content addition of Manipal university Jaipur | Medium | [#293](https://github.com/lovelymahor/StudyMatePlus/issues/293) |
+| Fix inconsistent Contact Us navigation flow | Medium | [#292](https://github.com/lovelymahor/StudyMatePlus/pull/292) |
+| Fix: Semester Dropdown Sorted Incorrectly (String vs Number) | Medium | [#291](https://github.com/lovelymahor/StudyMatePlus/issues/291) |
+| Fix: Mentorship Page is Blank / 404 When Accessed | Medium | [#290](https://github.com/lovelymahor/StudyMatePlus/issues/290) |
+| Feature Request: Add Login/Signup UI with Form Validation | Medium | [#289](https://github.com/lovelymahor/StudyMatePlus/issues/289) |
+| fix : Premium Design | Medium | [#288](https://github.com/lovelymahor/StudyMatePlus/pull/288) |
+| Fix: Sort semester dropdown options in syllabus page (#216) | Medium | [#287](https://github.com/lovelymahor/StudyMatePlus/pull/287) |
+| Fix broken profile avatar URL in Navbar | Medium | [#286](https://github.com/lovelymahor/StudyMatePlus/issues/286) |
+| Issue: Improve Landing Page Design & UX | Medium | [#285](https://github.com/lovelymahor/StudyMatePlus/issues/285) |
+| Bug: Add Task Allows Selecting Past Deadlines | Medium | [#284](https://github.com/lovelymahor/StudyMatePlus/issues/284) |
+| On clicking the mentorship through quick links section it shows a blank page. It could be made to display messages like "Mentors joining soon". | Medium | [#283](https://github.com/lovelymahor/StudyMatePlus/issues/283) |
+| UI Enhancement: Standardize sizing and alignment of statistics cards across sections | Medium | [#282](https://github.com/lovelymahor/StudyMatePlus/issues/282) |
+| UI Enhancement: Improve hero section layout alignment and visual spacing consistency | Medium | [#281](https://github.com/lovelymahor/StudyMatePlus/issues/281) |
+| UI Enhancement: Improve CTA button alignment and maintain consistent hover behavior | Medium | [#280](https://github.com/lovelymahor/StudyMatePlus/issues/280) |
+| Add loading skeleton animations for Notes, PYQs, and Syllabus pages | Medium | [#279](https://github.com/lovelymahor/StudyMatePlus/issues/279) |
+| Adding quiz section | Medium | [#278](https://github.com/lovelymahor/StudyMatePlus/issues/278) |
+| Fixed feedback submission API and CORS issues | Medium | [#277](https://github.com/lovelymahor/StudyMatePlus/pull/277) |
+| Fix navbar hover and focus underline styles | Medium | [#276](https://github.com/lovelymahor/StudyMatePlus/pull/276) |
+| Fix Login and Register Form Functionality | Medium | [#275](https://github.com/lovelymahor/StudyMatePlus/issues/275) |
 
 ---
 
@@ -2794,6 +2801,42 @@ Fast Workflow Tools
 | calculated and save marks obtained in db | Medium | [#9](https://github.com/msanchariii/evolver/issues/9) |
 | feat: add teacher dashboard | Medium | [#7](https://github.com/msanchariii/evolver/issues/7) |
 | fix: Exam starting even if already submitted by user | Medium | [#6](https://github.com/msanchariii/evolver/issues/6) |
+
+---
+
+## 📌 Project: Eventra - Full Stack Event Management System
+
+📝 **Description:** Eventra is a modern full-stack open-source event management system built to help communities, colleges, and organizations create, manage, and track events with ease. It includes features like event creation, RSVPs, QR-code-based check-ins, admin dashboard, feedback collection, and user roles. The project is designed to be beginner-friendly and modular for open-source contributions.
+
+🔗 [View Project](https://github.com/SandeepVashishtha/Eventra)
+
+💻 **Tech Stack:** React.js, Tailwind CSS, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| FAQ Page: Low Color Contrast and Accessibility Issues in Light Mode | Medium | [#1471](https://github.com/SandeepVashishtha/Eventra/issues/1471) |
+| feat: replace mock event data with live API integration | Medium | [#1470](https://github.com/SandeepVashishtha/Eventra/pull/1470) |
+| Upcoming filter on Events page shows ended/past events | Medium | [#1469](https://github.com/SandeepVashishtha/Eventra/issues/1469) |
+| Direct “Learn More / Join Now” buttons in “What’s Happening Now” section to respective event/hackathon detail pages | Medium | [#1468](https://github.com/SandeepVashishtha/Eventra/issues/1468) |
+| feat: implement frontend RBAC with protected routes and role-based access control | Medium | [#1467](https://github.com/SandeepVashishtha/Eventra/pull/1467) |
+| Feature Request: Add Live Event Countdown & Reminder System | Medium | [#1466](https://github.com/SandeepVashishtha/Eventra/issues/1466) |
+| fix: prevent event overbooking with frontend safeguards and capacity … | Medium | [#1465](https://github.com/SandeepVashishtha/Eventra/pull/1465) |
+| Fix build error and SVG path warning affecting registration flow (#1437) | Medium | [#1464](https://github.com/SandeepVashishtha/Eventra/pull/1464) |
+| Sensitive Data Stored in localStorage Without Protection | Medium | [#1463](https://github.com/SandeepVashishtha/Eventra/issues/1463) |
+| Multiple Non-Functional or Placeholder Links Across UI | Medium | [#1462](https://github.com/SandeepVashishtha/Eventra/issues/1462) |
+| Chatbot window overlaps bottom navigation buttons on mobile view | Medium | [#1461](https://github.com/SandeepVashishtha/Eventra/issues/1461) |
+| [UI/UX]: Inconsistent and Non-Real-Time Form Validation UX Across Application | Medium | [#1460](https://github.com/SandeepVashishtha/Eventra/issues/1460) |
+| Duplicate API Configuration Causing Inconsistent Network Handling | Medium | [#1459](https://github.com/SandeepVashishtha/Eventra/issues/1459) |
+| Smart Event Conflict Detection & Scheduling | Medium | [#1458](https://github.com/SandeepVashishtha/Eventra/issues/1458) |
+| Feature Request: Add Event Reminder Notifications for Saved and Registered Events | Medium | [#1457](https://github.com/SandeepVashishtha/Eventra/issues/1457) |
+| ## Bug: Footer social media links redirect to generic placeholder pages | Medium | [#1453](https://github.com/SandeepVashishtha/Eventra/issues/1453) |
+| perf: optimize frontend performance with code splitting, lazy loading, and bundle cleanup | Medium | [#1450](https://github.com/SandeepVashishtha/Eventra/pull/1450) |
+| fix: optimize markAllAsRead using bulk API endpoint | Medium | [#1441](https://github.com/SandeepVashishtha/Eventra/pull/1441) |
+| feat: chatbot fab stays fixed on scroll | Medium | [#1439](https://github.com/SandeepVashishtha/Eventra/pull/1439) |
 
 ---
 
