@@ -129,14 +129,25 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🤖 Auto-unassignment Summary - Sun May 17 2026 | Easy | [#1046](https://github.com/SandeepVashishtha/Eventra/issues/1046) |
-| 🤖 Auto-unassignment Summary - Sun May 17 2026 | Easy | [#1045](https://github.com/SandeepVashishtha/Eventra/issues/1045) |
-| Requirement of maintainers | Medium | [#1043](https://github.com/SandeepVashishtha/Eventra/issues/1043) |
-| Redesign navbar layout | Medium | [#967](https://github.com/SandeepVashishtha/Eventra/pull/967) |
-| Refactor navbar bumpy road logic | Medium | [#965](https://github.com/SandeepVashishtha/Eventra/pull/965) |
-| Fix responsive navbar spacing and mobile menu overflow | Medium | [#964](https://github.com/SandeepVashishtha/Eventra/pull/964) |
-| Improved hackathon filters UI and UX | Medium | [#963](https://github.com/SandeepVashishtha/Eventra/pull/963) |
-| fix: resolve dark/light mode text contrast issues across routes | Medium | [#961](https://github.com/SandeepVashishtha/Eventra/pull/961) |
+| FAQ Page: Low Color Contrast and Accessibility Issues in Light Mode | Medium | [#1471](https://github.com/SandeepVashishtha/Eventra/issues/1471) |
+| feat: replace mock event data with live API integration | Medium | [#1470](https://github.com/SandeepVashishtha/Eventra/pull/1470) |
+| Upcoming filter on Events page shows ended/past events | Medium | [#1469](https://github.com/SandeepVashishtha/Eventra/issues/1469) |
+| Direct “Learn More / Join Now” buttons in “What’s Happening Now” section to respective event/hackathon detail pages | Medium | [#1468](https://github.com/SandeepVashishtha/Eventra/issues/1468) |
+| feat: implement frontend RBAC with protected routes and role-based access control | Medium | [#1467](https://github.com/SandeepVashishtha/Eventra/pull/1467) |
+| Feature Request: Add Live Event Countdown & Reminder System | Medium | [#1466](https://github.com/SandeepVashishtha/Eventra/issues/1466) |
+| fix: prevent event overbooking with frontend safeguards and capacity … | Medium | [#1465](https://github.com/SandeepVashishtha/Eventra/pull/1465) |
+| Fix build error and SVG path warning affecting registration flow (#1437) | Medium | [#1464](https://github.com/SandeepVashishtha/Eventra/pull/1464) |
+| Sensitive Data Stored in localStorage Without Protection | Medium | [#1463](https://github.com/SandeepVashishtha/Eventra/issues/1463) |
+| Multiple Non-Functional or Placeholder Links Across UI | Medium | [#1462](https://github.com/SandeepVashishtha/Eventra/issues/1462) |
+| Chatbot window overlaps bottom navigation buttons on mobile view | Medium | [#1461](https://github.com/SandeepVashishtha/Eventra/issues/1461) |
+| [UI/UX]: Inconsistent and Non-Real-Time Form Validation UX Across Application | Medium | [#1460](https://github.com/SandeepVashishtha/Eventra/issues/1460) |
+| Duplicate API Configuration Causing Inconsistent Network Handling | Medium | [#1459](https://github.com/SandeepVashishtha/Eventra/issues/1459) |
+| Smart Event Conflict Detection & Scheduling | Medium | [#1458](https://github.com/SandeepVashishtha/Eventra/issues/1458) |
+| Feature Request: Add Event Reminder Notifications for Saved and Registered Events | Medium | [#1457](https://github.com/SandeepVashishtha/Eventra/issues/1457) |
+| ## Bug: Footer social media links redirect to generic placeholder pages | Medium | [#1453](https://github.com/SandeepVashishtha/Eventra/issues/1453) |
+| perf: optimize frontend performance with code splitting, lazy loading, and bundle cleanup | Medium | [#1450](https://github.com/SandeepVashishtha/Eventra/pull/1450) |
+| fix: optimize markAllAsRead using bulk API endpoint | Medium | [#1441](https://github.com/SandeepVashishtha/Eventra/pull/1441) |
+| feat: chatbot fab stays fixed on scroll | Medium | [#1439](https://github.com/SandeepVashishtha/Eventra/pull/1439) |
 
 ---
 
