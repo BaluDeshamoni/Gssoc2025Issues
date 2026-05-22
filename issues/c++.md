@@ -1,24 +1,5 @@
 # 🚀 Projects using C++
 
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Solved Issue #733 UI/UX Improvement of Navbar | Medium | [#734](https://github.com/Dipanita45/HEALCONNECT/pull/734) |
-| fix: add error handling to ChatBox handleSend to prevent UI freeze | Medium | [#732](https://github.com/Dipanita45/HEALCONNECT/pull/732) |
-
----
-
 ## 📌 Project: cpp-sdk-appwrite
 
 📝 **Description:** The first ever C++ SDK for Appwrite, build from scratch!
@@ -54,9 +35,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
-| feat(api): Expose `getNeighbors()` from PeakStore in CinderGraph public API | Medium | [#250](https://github.com/SharonIV0x86/CinderPeak/issues/250) |
-| Refactor logging in PeakStore and AdjacencyList to use dbg utility | Medium | [#248](https://github.com/SharonIV0x86/CinderPeak/pull/248) |
-| Handle invalid node access gracefully in graph operations | Medium | [#246](https://github.com/SharonIV0x86/CinderPeak/issues/246) |
+| fix: resolve potential subprocess deadlock in run_pipe | Medium | [#272](https://github.com/SharonIV0x86/CinderPeak/pull/272) |
 
 ---
 
