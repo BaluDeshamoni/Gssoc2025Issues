@@ -50,10 +50,11 @@
 |----------|----------------|---------|
 | BUG: Google summer of code's filters are not working | Easy | [#319](https://github.com/andoriyaprashant/OpSo/issues/319) |
 | Feat: Add Winter of Code Program Screen (UI) | Easy | [#282](https://github.com/andoriyaprashant/OpSo/issues/282) |
-| Feat: Add Category Filter Tabs on Home Screen | Medium | [#431](https://github.com/andoriyaprashant/OpSo/issues/431) |
-| Refactor : Improve Homepage Consistency with Timeline Screen | Medium | [#430](https://github.com/andoriyaprashant/OpSo/issues/430) |
+| feat: enhance app UI with improved home page and drawer design | Medium | [#439](https://github.com/andoriyaprashant/OpSo/pull/439) |
+| Refactor: update homepage by removing expired events | Medium | [#438](https://github.com/andoriyaprashant/OpSo/pull/438) |
+| Fix: Project widget tech stack background in dark mode | Medium | [#437](https://github.com/andoriyaprashant/OpSo/pull/437) |
+| Bug: Open source project showcase images have white background in dark mode | Medium | [#436](https://github.com/andoriyaprashant/OpSo/issues/436) |
 | fix: resolve awesome_notifications dependency configuration issue | Medium | [#429](https://github.com/andoriyaprashant/OpSo/pull/429) |
-| BUG: The app is not running | Medium | [#418](https://github.com/andoriyaprashant/OpSo/issues/418) |
 | Use of Reusable widgets | Medium | [#379](https://github.com/andoriyaprashant/OpSo/issues/379) |
 | dark and light mode toggle | Medium | [#369](https://github.com/andoriyaprashant/OpSo/issues/369) |
 
