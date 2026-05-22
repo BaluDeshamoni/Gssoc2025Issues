@@ -14,9 +14,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump isomorphic-dompurify in /frontend | Medium | [#4729](https://github.com/OWASP/Nest/pull/4729) |
+| chore(deps): bump the version-updates group across 4 directories with 3 updates | Medium | [#4727](https://github.com/OWASP/Nest/pull/4727) |
 | Update dependency management | Medium | [#4726](https://github.com/OWASP/Nest/pull/4726) |
 | chore(deps): bump posthog-js in /frontend | Medium | [#4725](https://github.com/OWASP/Nest/pull/4725) |
-| chore(deps): bump isomorphic-dompurify in /frontend | Medium | [#4724](https://github.com/OWASP/Nest/pull/4724) |
 | chore(deps): bump dompurify in /frontend | Medium | [#4723](https://github.com/OWASP/Nest/pull/4723) |
 | chore(deps): bump reportlab in /backend | Medium | [#4722](https://github.com/OWASP/Nest/pull/4722) |
 | fix: improve mobile responsiveness on issues page | Medium | [#4712](https://github.com/OWASP/Nest/pull/4712) |
@@ -27,7 +28,6 @@
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4697](https://github.com/OWASP/Nest/pull/4697) |
 | Tighten checks for project leaders on creating a Program | Medium | [#4695](https://github.com/OWASP/Nest/pull/4695) |
 | Add Task Level Admin Functionality to Mentorship Portal | Medium | [#4689](https://github.com/OWASP/Nest/issues/4689) |
-| feat(projects): add health indicators to project cards | Medium | [#4678](https://github.com/OWASP/Nest/pull/4678) |
 
 ---
 
