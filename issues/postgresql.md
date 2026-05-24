@@ -115,31 +115,36 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| External target="_blank" links missing rel="noopener noreferrer" (tabnabbing risk) | Medium | [#550](https://github.com/Muneerali199/Draftdeckai/issues/550) |
-| feat: add AI diagram insert to editor toolbar | Medium | [#549](https://github.com/Muneerali199/Draftdeckai/pull/549) |
-| fix: resolve production build crashes on API routes | Medium | [#548](https://github.com/Muneerali199/Draftdeckai/pull/548) |
-| Implement Standard AI Response Processing Layer | Medium | [#547](https://github.com/Muneerali199/Draftdeckai/pull/547) |
-| feat: add request-id tracing for API responses | Medium | [#546](https://github.com/Muneerali199/Draftdeckai/pull/546) |
-| Implement Webhook System & Event Streaming | Medium | [#544](https://github.com/Muneerali199/Draftdeckai/issues/544) |
-| Implement Feature Flags & A/B Testing Infrastructure | Medium | [#541](https://github.com/Muneerali199/Draftdeckai/issues/541) |
-| Implement API Versioning & Backward Compatibility Strategy | Medium | [#539](https://github.com/Muneerali199/Draftdeckai/issues/539) |
-| Feat/standardized rate limiting | Medium | [#536](https://github.com/Muneerali199/Draftdeckai/pull/536) |
-| feat: implement consistent sanitization with reusable helper | Medium | [#534](https://github.com/Muneerali199/Draftdeckai/pull/534) |
-| fix: remove hardcoded debug label from resume builder UI | Medium | [#525](https://github.com/Muneerali199/Draftdeckai/pull/525) |
-| fix: Prevent app crash on boot when Stripe secret key is missing | Medium | [#522](https://github.com/Muneerali199/Draftdeckai/pull/522) |
-| chore: Remove deprecated Supabase auth-helpers and duplicate client | Medium | [#521](https://github.com/Muneerali199/Draftdeckai/pull/521) |
-| Maint/project cleanup isolated | Medium | [#519](https://github.com/Muneerali199/Draftdeckai/pull/519) |
-| fix: resolve sign-up, callback, and redirect issues with database sch… | Medium | [#518](https://github.com/Muneerali199/Draftdeckai/pull/518) |
-| feat: implement document analytics dashboard and tracking | Medium | [#517](https://github.com/Muneerali199/Draftdeckai/pull/517) |
-| docs(faq): create FAQ.md for users and contributors | Medium | [#516](https://github.com/Muneerali199/Draftdeckai/pull/516) |
-| feat: add Go router and middleware foundation | Medium | [#515](https://github.com/Muneerali199/Draftdeckai/pull/515) |
-| feat: add centralized Go config loader | Medium | [#514](https://github.com/Muneerali199/Draftdeckai/pull/514) |
-| feat: initialize Go backend module and JWT auth middleware | Medium | [#509](https://github.com/Muneerali199/Draftdeckai/pull/509) |
-| Implement Database Query Optimization & Caching Layer | Hard | [#545](https://github.com/Muneerali199/Draftdeckai/issues/545) |
-| Implement Full-Text Search & Elasticsearch Integration | Hard | [#543](https://github.com/Muneerali199/Draftdeckai/issues/543) |
-| Implement Security Audit & Compliance Framework | Hard | [#542](https://github.com/Muneerali199/Draftdeckai/issues/542) |
-| Implement E2E Test Suite with Playwright & Coverage Enforcement | Hard | [#540](https://github.com/Muneerali199/Draftdeckai/issues/540) |
-| Implement Distributed Error Tracking & Alert System | Hard | [#538](https://github.com/Muneerali199/Draftdeckai/issues/538) |
+| feat: add AI speaker coach panel for presentations | Medium | [#720](https://github.com/Muneerali199/Draftdeckai/pull/720) |
+| feat: improve ATS explainability and section feedback | Medium | [#719](https://github.com/Muneerali199/Draftdeckai/pull/719) |
+| feat: add multi-select formatting actions in editor | Medium | [#718](https://github.com/Muneerali199/Draftdeckai/pull/718) |
+| dx: add stale PR and issue triage automation | Medium | [#717](https://github.com/Muneerali199/Draftdeckai/pull/717) |
+| test: add auth regression tests for protected API routestest: add auth regression tests | Medium | [#716](https://github.com/Muneerali199/Draftdeckai/pull/716) |
+| Fix/request validation security | Medium | [#715](https://github.com/Muneerali199/Draftdeckai/pull/715) |
+| feat: add showcase feed with ranking algorithm for resume/presentation discovery | Medium | [#714](https://github.com/Muneerali199/Draftdeckai/pull/714) |
+| feat: implement Plausible analytics, UTM capture, and signup attribution | Medium | [#713](https://github.com/Muneerali199/Draftdeckai/pull/713) |
+| fix(pricing): remove duplicate payment methods section | Medium | [#712](https://github.com/Muneerali199/Draftdeckai/pull/712) |
+| Fix/use shared Zod validation in Quick Resume Generate tab | Medium | [#711](https://github.com/Muneerali199/Draftdeckai/pull/711) |
+| [Security/Feature] 🔴 No rate limiting on AI API routes — unlimited requests can drain API credits and abuse the service | Medium | [#710](https://github.com/Muneerali199/Draftdeckai/issues/710) |
+| fix(diagram): improve mobile responsiveness of toolbar and export options | Medium | [#709](https://github.com/Muneerali199/Draftdeckai/pull/709) |
+| refactor(share): extract share logic to hook and clean up debug console logs | Medium | [#708](https://github.com/Muneerali199/Draftdeckai/pull/708) |
+| fix(theme): persist theme preference, respect system default, prevent FOUC (#654) | Medium | [#707](https://github.com/Muneerali199/Draftdeckai/pull/707) |
+| feat: add global and page-specific Next.js metadata and OG image | Medium | [#706](https://github.com/Muneerali199/Draftdeckai/pull/706) |
+| feat(hooks): add reusable useShare hook and refactor share duplication (#660) | Medium | [#705](https://github.com/Muneerali199/Draftdeckai/pull/705) |
+| refactor: optimize auto-save with state diffing, add fetch abort cont… | Medium | [#704](https://github.com/Muneerali199/Draftdeckai/pull/704) |
+| Add PDF export for presentations issue#652 | Medium | [#703](https://github.com/Muneerali199/Draftdeckai/pull/703) |
+| fix(search): replace sample index with Supabase query and add pagination (#661) | Medium | [#702](https://github.com/Muneerali199/Draftdeckai/pull/702) |
+| test: add unit tests for credit-operations and validation libraries (#663) | Medium | [#701](https://github.com/Muneerali199/Draftdeckai/pull/701) |
+| # 🔴 Raw console.error Used Across API Routes | Medium | [#700](https://github.com/Muneerali199/Draftdeckai/issues/700) |
+| # 🔴 dispatchErrorAlert Called Without Await (Unhandled Promise) | Medium | [#699](https://github.com/Muneerali199/Draftdeckai/issues/699) |
+| # 🔴  Global setInterval in Middleware Causes Memory/Worker Leak | Medium | [#698](https://github.com/Muneerali199/Draftdeckai/issues/698) |
+| # 🔴 Placeholder Allowed-Origin URL Shipped to Production | Medium | [#697](https://github.com/Muneerali199/Draftdeckai/issues/697) |
+| # 🔴Hardcoded Developer Email Bypass in Production | Medium | [#696](https://github.com/Muneerali199/Draftdeckai/issues/696) |
+| feat(testing): add automated accessibility testing with Playwright | Medium | [#695](https://github.com/Muneerali199/Draftdeckai/pull/695) |
+| Feature/dark mode persistence | Medium | [#694](https://github.com/Muneerali199/Draftdeckai/pull/694) |
+| Setup Go backend module structure for migration | Medium | [#693](https://github.com/Muneerali199/Draftdeckai/pull/693) |
+| Feat/ats explainability panel | Medium | [#692](https://github.com/Muneerali199/Draftdeckai/pull/692) |
+| Feature : Improve PDF export quality | Medium | [#691](https://github.com/Muneerali199/Draftdeckai/pull/691) |
 
 ---
 
@@ -350,14 +355,28 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🤖 Auto-unassignment Summary - Sun May 17 2026 | Easy | [#1046](https://github.com/SandeepVashishtha/Eventra/issues/1046) |
-| 🤖 Auto-unassignment Summary - Sun May 17 2026 | Easy | [#1045](https://github.com/SandeepVashishtha/Eventra/issues/1045) |
-| Requirement of maintainers | Medium | [#1043](https://github.com/SandeepVashishtha/Eventra/issues/1043) |
-| Redesign navbar layout | Medium | [#967](https://github.com/SandeepVashishtha/Eventra/pull/967) |
-| Refactor navbar bumpy road logic | Medium | [#965](https://github.com/SandeepVashishtha/Eventra/pull/965) |
-| Fix responsive navbar spacing and mobile menu overflow | Medium | [#964](https://github.com/SandeepVashishtha/Eventra/pull/964) |
-| Improved hackathon filters UI and UX | Medium | [#963](https://github.com/SandeepVashishtha/Eventra/pull/963) |
-| fix: resolve dark/light mode text contrast issues across routes | Medium | [#961](https://github.com/SandeepVashishtha/Eventra/pull/961) |
+| docs: Document the purpose of src/jhalak/ directory | Medium | [#1711](https://github.com/SandeepVashishtha/Eventra/issues/1711) |
+| Improve Header UI and Add User Information & Login Section | Medium | [#1710](https://github.com/SandeepVashishtha/Eventra/issues/1710) |
+| Add Reusable Copy Link Button with Clipboard API & Toast Feedback | Medium | [#1709](https://github.com/SandeepVashishtha/Eventra/pull/1709) |
+| fix(EventRecommendations): wrap localStorage parsing in try-catch to … | Medium | [#1708](https://github.com/SandeepVashishtha/Eventra/pull/1708) |
+| fix(AuthContext): resolve bracket syntax error and expose missing hel… | Medium | [#1707](https://github.com/SandeepVashishtha/Eventra/pull/1707) |
+| Add Unsaved Changes Protection & Draft Persistence Enhancement for Event Creation Form | Medium | [#1706](https://github.com/SandeepVashishtha/Eventra/pull/1706) |
+| Exposure of sensitive API secrets in client-side React bundle | Medium | [#1705](https://github.com/SandeepVashishtha/Eventra/issues/1705) |
+| Inconsistent hardcoded Azure Backend URLs across configuration files | Medium | [#1704](https://github.com/SandeepVashishtha/Eventra/issues/1704) |
+| Insecure storage of authentication tokens and plaintext encryption keys in localStorage | Medium | [#1703](https://github.com/SandeepVashishtha/Eventra/issues/1703) |
+| fix(EditProfile): wrap localstorage JSON parsing in try-catch to prev… | Medium | [#1701](https://github.com/SandeepVashishtha/Eventra/pull/1701) |
+| fix: replace native alert() and confirm() with react-toastify | Medium | [#1700](https://github.com/SandeepVashishtha/Eventra/pull/1700) |
+| 💫 Add Route-Aware Active Link Highlighting for Improved Navigation Experience | Medium | [#1698](https://github.com/SandeepVashishtha/Eventra/pull/1698) |
+| Fix/remove production api logs | Medium | [#1697](https://github.com/SandeepVashishtha/Eventra/pull/1697) |
+| fix: remove redundant empty beforeunload listener from SessionRecover… | Medium | [#1694](https://github.com/SandeepVashishtha/Eventra/pull/1694) |
+| fix: stabilize markAllAsRead dependency array to prevent context re-r… | Medium | [#1693](https://github.com/SandeepVashishtha/Eventra/pull/1693) |
+| fix: replace mock registration logic with real backend API integration | Medium | [#1692](https://github.com/SandeepVashishtha/Eventra/pull/1692) |
+| Enhanced reusable BackToTop component with smooth scrolling, accessibility improvements, and scroll progress indicator | Medium | [#1688](https://github.com/SandeepVashishtha/Eventra/pull/1688) |
+| fix: correct POINTS config keys to match normalized GSSoC label format in Leaderboard | Medium | [#1687](https://github.com/SandeepVashishtha/Eventra/pull/1687) |
+| fix: resolve infinite rebase abort loop in custom merge driver | Medium | [#1686](https://github.com/SandeepVashishtha/Eventra/pull/1686) |
+| feat: add sorting options for hackathons by deadline, popularity, newest, and prize amount | Medium | [#1684](https://github.com/SandeepVashishtha/Eventra/pull/1684) |
+| fix: remove unused imports and variables causing ESLint warnings | Medium | [#1683](https://github.com/SandeepVashishtha/Eventra/pull/1683) |
+| fix: move calculateTimeLeft inside useEffect to resolve exhaustive-deps warning | Medium | [#1682](https://github.com/SandeepVashishtha/Eventra/pull/1682) |
 
 ---
 
