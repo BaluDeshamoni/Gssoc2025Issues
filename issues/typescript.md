@@ -92,13 +92,14 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: improve mobile responsiveness on issues page | Medium | [#4712](https://github.com/OWASP/Nest/pull/4712) |
+| Extract bootstrap-nest-infrastructure into a separate workflow | Medium | [#4711](https://github.com/OWASP/Nest/pull/4711) |
+| Extract scan-images into a separate workflow | Medium | [#4710](https://github.com/OWASP/Nest/pull/4710) |
+| Extract staging jobs into a separate workflow | Medium | [#4701](https://github.com/OWASP/Nest/pull/4701) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4697](https://github.com/OWASP/Nest/pull/4697) |
+| Tighten checks for project leaders on creating a Program | Medium | [#4695](https://github.com/OWASP/Nest/pull/4695) |
 | Add Task Level Admin Functionality to Mentorship Portal | Medium | [#4689](https://github.com/OWASP/Nest/issues/4689) |
-| Extract e2e tests into a separate workflow | Medium | [#4687](https://github.com/OWASP/Nest/pull/4687) |
-| Fix unauthorized access to mentorship admin | Medium | [#4682](https://github.com/OWASP/Nest/pull/4682) |
-| Extract frontend tests into a separate workflow | Medium | [#4681](https://github.com/OWASP/Nest/pull/4681) |
-| Extract infrastructure tests into a separate workflow | Medium | [#4679](https://github.com/OWASP/Nest/pull/4679) |
 | feat(projects): add health indicators to project cards | Medium | [#4678](https://github.com/OWASP/Nest/pull/4678) |
-| deadlineUtil frontend unit test fails | Medium | [#4632](https://github.com/OWASP/Nest/issues/4632) |
 
 ---
 
@@ -628,25 +629,19 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feat/quest category pages | Medium | [#247](https://github.com/LarytheLord/Adventurers-Guild/pull/247) |
-| feat: create public quest pages with stats, polish, and edge cases (#… | Medium | [#246](https://github.com/LarytheLord/Adventurers-Guild/pull/246) |
-| feat: dynamic OG image generation for quest pages (#236) | Medium | [#245](https://github.com/LarytheLord/Adventurers-Guild/pull/245) |
-| feat: add quest sharing and referral tracking (#239) | Medium | [#244](https://github.com/LarytheLord/Adventurers-Guild/pull/244) |
-| Feat/landing mid section redesign | Medium | [#243](https://github.com/LarytheLord/Adventurers-Guild/pull/243) |
-| feat: integrate streak system into dashboard and quest submission flo… | Medium | [#242](https://github.com/LarytheLord/Adventurers-Guild/pull/242) |
-| feat: Dynamic OG Image generation for quest pages | Medium | [#241](https://github.com/LarytheLord/Adventurers-Guild/pull/241) |
-| feat: Dynamic OG Image generation for quest pages | Medium | [#240](https://github.com/LarytheLord/Adventurers-Guild/pull/240) |
-| feat: make username required and add Share Guild Card button | Medium | [#229](https://github.com/LarytheLord/Adventurers-Guild/pull/229) |
-| fix: quest board not loading for adventurers | Medium | [#228](https://github.com/LarytheLord/Adventurers-Guild/pull/228) |
-| chore: integrate party panel improvements from PR #199 | Medium | [#227](https://github.com/LarytheLord/Adventurers-Guild/pull/227) |
-| fix: resolve issue #109 - admin revenue dashboard | Medium | [#226](https://github.com/LarytheLord/Adventurers-Guild/pull/226) |
-| feat: admin payment trigger — initiate Razorpay payout from QA queue … | Medium | [#223](https://github.com/LarytheLord/Adventurers-Guild/pull/223) |
+| Feat/premium landing quests | Medium | [#253](https://github.com/LarytheLord/Adventurers-Guild/pull/253) |
 | feat: Landing Page Improvements - Social Proof & FAQ Sections | Medium | [#222](https://github.com/LarytheLord/Adventurers-Guild/pull/222) |
 | feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
-| Feat/landing redesign | Medium | [#213](https://github.com/LarytheLord/Adventurers-Guild/pull/213) |
-| feat: implement Admin Analytics Dashboard and fix pre-existing TypeSc… | Medium | [#212](https://github.com/LarytheLord/Adventurers-Guild/pull/212) |
 | Add the chatbot | Medium | [#210](https://github.com/LarytheLord/Adventurers-Guild/pull/210) |
+| Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
+| feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
+| refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
+| Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
+| Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
+| NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
+| Enhance the faq section | Medium | [#182](https://github.com/LarytheLord/Adventurers-Guild/pull/182) |
+| feat: admin payment trigger — initiate Razorpay payout from QA queue … | Hard | [#223](https://github.com/LarytheLord/Adventurers-Guild/pull/223) |
 
 ---
 
@@ -796,7 +791,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/OpenVibes/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/OpenVibes/ScheduleX/issues/90) |
 | Account and Settings Page | Easy | [#7](https://github.com/OpenVibes/ScheduleX/issues/7) |
-| fix: prevent duplicate subject creation when Save is tapped rapidly(#106) | Medium | [#152](https://github.com/OpenVibes/ScheduleX/pull/152) |
 | made UI changes in the settings page | Medium | [#148](https://github.com/OpenVibes/ScheduleX/pull/148) |
 | Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/OpenVibes/ScheduleX/pull/147) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/OpenVibes/ScheduleX/issues/124) |
