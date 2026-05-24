@@ -208,13 +208,14 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: improve mobile responsiveness on issues page | Medium | [#4712](https://github.com/OWASP/Nest/pull/4712) |
+| Extract bootstrap-nest-infrastructure into a separate workflow | Medium | [#4711](https://github.com/OWASP/Nest/pull/4711) |
+| Extract scan-images into a separate workflow | Medium | [#4710](https://github.com/OWASP/Nest/pull/4710) |
+| Extract staging jobs into a separate workflow | Medium | [#4701](https://github.com/OWASP/Nest/pull/4701) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4697](https://github.com/OWASP/Nest/pull/4697) |
+| Tighten checks for project leaders on creating a Program | Medium | [#4695](https://github.com/OWASP/Nest/pull/4695) |
 | Add Task Level Admin Functionality to Mentorship Portal | Medium | [#4689](https://github.com/OWASP/Nest/issues/4689) |
-| Extract e2e tests into a separate workflow | Medium | [#4687](https://github.com/OWASP/Nest/pull/4687) |
-| Fix unauthorized access to mentorship admin | Medium | [#4682](https://github.com/OWASP/Nest/pull/4682) |
-| Extract frontend tests into a separate workflow | Medium | [#4681](https://github.com/OWASP/Nest/pull/4681) |
-| Extract infrastructure tests into a separate workflow | Medium | [#4679](https://github.com/OWASP/Nest/pull/4679) |
 | feat(projects): add health indicators to project cards | Medium | [#4678](https://github.com/OWASP/Nest/pull/4678) |
-| deadlineUtil frontend unit test fails | Medium | [#4632](https://github.com/OWASP/Nest/issues/4632) |
 
 ---
 
@@ -545,6 +546,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 |----------|----------------|---------|
 | bonus points | Medium | [#421](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/421) |
 | week 5 linked in post | Medium | [#355](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/355) |
+| I want this whole project to checked and clear all the errors | Hard | [#765](https://github.com/MonishRaman/Placify-Smarter_Placements-Sharper_Talent/issues/765) |
 
 ---
 
@@ -562,8 +564,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: remove backup .bak files and update gitignore | Medium | [#1747](https://github.com/omroy07/AgriTech/pull/1747) |
-| Add workflow in github actions which automatically adds NSOC'26 label to each issue opend | Medium | [#1712](https://github.com/omroy07/AgriTech/pull/1712) |
+| Enhance footer link hover effects and add responsive scroll-to-top bu… | Medium | [#1781](https://github.com/omroy07/AgriTech/pull/1781) |
+| feat: add green sparkle cursor effect to diease page | Medium | [#1780](https://github.com/omroy07/AgriTech/pull/1780) |
+| fix: make user selector and action buttons responsive | Medium | [#1779](https://github.com/omroy07/AgriTech/pull/1779) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
@@ -572,7 +575,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
 | Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
-| Add "Back to Home" Navigation on Contact Page | Medium | [#1146](https://github.com/omroy07/AgriTech/issues/1146) |
+| Prediction Result Comparison (Current vs Previous) | Medium | [#1056](https://github.com/omroy07/AgriTech/issues/1056) |
 
 ---
 
@@ -642,6 +645,8 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Upgrade Airbnb Demand Prediction Pipeline with Feature Engineering and CatBoost-Based Gradient Boosting Model | Medium | [#867](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/867) |
+| Updated Training Pipeline with LightGBM Integration and Improved Documentation | Medium | [#866](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/866) |
 | Added MAT-CLASSIFY (closes #754) | Medium | [#863](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/863) |
 | Add Project — Stock Market Bubble Detection | Medium | [#860](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/860) |
 | Add Project — Smart Financial Advisory | Medium | [#858](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/858) |
@@ -986,6 +991,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🧑‍💻: Add README.md for a Beginner Python Project Folder | Medium | [#1817](https://github.com/UTSAVS26/PyVerse/issues/1817) |
 | 🧑‍💻: Add detailed README.md for Bird Image Classification project | Medium | [#1816](https://github.com/UTSAVS26/PyVerse/issues/1816) |
 | 🧑‍💻: Add README.md for Amazon Product Availability Checker | Medium | [#1815](https://github.com/UTSAVS26/PyVerse/issues/1815) |
 
@@ -1052,36 +1058,36 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve navbar overlap on section navigation | Medium | [#321](https://github.com/aayushraj1010/med-genie/pull/321) |
-| Google OAuth Login Fails Due to Invalid/Missing redirect_uri Configuration (Error 400: invalid_request) | Medium | [#319](https://github.com/aayushraj1010/med-genie/issues/319) |
-| Bug: "Try Demo" button routes to a broken /chat page yielding 404 error | Medium | [#318](https://github.com/aayushraj1010/med-genie/issues/318) |
-| Bug: UI Overlaps, Navigation Menu Alignment, and Layout Discrepancies on Services Page | Medium | [#317](https://github.com/aayushraj1010/med-genie/issues/317) |
-| Hi, I am a GSSoC 2026 contributor and would like to work on this." Waiting for the admin  to respond avoids two contributors working on the same thing. | Medium | [#316](https://github.com/aayushraj1010/med-genie/issues/316) |
-| fix: Navbar overlaps page content on all routes | Medium | [#315](https://github.com/aayushraj1010/med-genie/issues/315) |
-| Improve AI Error Toast Handling and Add Better Loading States During AI Response Generation | Medium | [#314](https://github.com/aayushraj1010/med-genie/issues/314) |
-| Feature Suggestion: Optional Health Vitals/Profile Before AI Consultation | Medium | [#313](https://github.com/aayushraj1010/med-genie/issues/313) |
-| Fix: Added auto-scroll to validation errors on signup page | Medium | [#312](https://github.com/aayushraj1010/med-genie/pull/312) |
-| Feature Enhancement: AI Emergency Severity Detection System | Medium | [#311](https://github.com/aayushraj1010/med-genie/issues/311) |
-| UX Bug: Auto-scroll to validation errors on the signup page | Medium | [#310](https://github.com/aayushraj1010/med-genie/issues/310) |
-| Improving the UI of About page | Medium | [#309](https://github.com/aayushraj1010/med-genie/issues/309) |
-| Feature: Website is not maintaining user after login | Medium | [#308](https://github.com/aayushraj1010/med-genie/issues/308) |
-| Feature: Add AI Clarifying Questions Layer for Symptom Analysis | Medium | [#307](https://github.com/aayushraj1010/med-genie/issues/307) |
-| Added loading state support during AI response generation. | Medium | [#306](https://github.com/aayushraj1010/med-genie/pull/306) |
-| improving the user experience during AI response generation. | Medium | [#305](https://github.com/aayushraj1010/med-genie/issues/305) |
-| Create dedicated Profile and Settings pages for user account management | Medium | [#304](https://github.com/aayushraj1010/med-genie/issues/304) |
-| Add functional Contact Us section with contact information cards | Medium | [#303](https://github.com/aayushraj1010/med-genie/issues/303) |
-| Add visible dark/light theme toggle button to navbar | Medium | [#302](https://github.com/aayushraj1010/med-genie/issues/302) |
-| Add "Delete Individual Chat" option in Chat History | Medium | [#301](https://github.com/aayushraj1010/med-genie/issues/301) |
-| Persist Dark/Light Theme Preference Across Sessions | Medium | [#300](https://github.com/aayushraj1010/med-genie/issues/300) |
-| Feature Request: Add Empty-State UI for No Results and Error Conditions | Medium | [#299](https://github.com/aayushraj1010/med-genie/issues/299) |
-| Feature Request: Add Copy-to-Clipboard Functionality for AI Generated Responses | Medium | [#298](https://github.com/aayushraj1010/med-genie/issues/298) |
-| Feature Request: Add Skeleton Loaders & Better Loading States During AI Response Generation | Medium | [#297](https://github.com/aayushraj1010/med-genie/issues/297) |
-| Feature Request: Multi-Language Support for Health Conversations | Medium | [#296](https://github.com/aayushraj1010/med-genie/issues/296) |
-| Feature Request: User Health Profile with History Tracking | Medium | [#295](https://github.com/aayushraj1010/med-genie/issues/295) |
-| Feature Request: AI-Based Medical Report Summarization Tool | Medium | [#294](https://github.com/aayushraj1010/med-genie/issues/294) |
-| Feature Request: One-Click Emergency SOS Mode with Smart Response Flow | Medium | [#293](https://github.com/aayushraj1010/med-genie/issues/293) |
-| Feature Request: Complete Modern Redesign of Landing Page UI/UX | Medium | [#292](https://github.com/aayushraj1010/med-genie/issues/292) |
-| feat: add user audit logger with tree map visualization | Medium | [#291](https://github.com/aayushraj1010/med-genie/pull/291) |
+| fix(auth) : populate user data during token refresh | Medium | [#395](https://github.com/aayushraj1010/med-genie/pull/395) |
+| [UI]: Add a 404 Not Found page for invalid routes | Medium | [#394](https://github.com/aayushraj1010/med-genie/issues/394) |
+| [GSSoC '26] Add Back Navigation to Cookies, Terms, and Privacy Pages | Medium | [#393](https://github.com/aayushraj1010/med-genie/issues/393) |
+| [GSSoC '26] cookies.html and terms.html shows 404 Despite Existing TSX Page | Medium | [#392](https://github.com/aayushraj1010/med-genie/issues/392) |
+| Enhance FAQ and Our Process sections with better UI/UX and interactive healthcare workflow presentation | Medium | [#391](https://github.com/aayushraj1010/med-genie/issues/391) |
+| Toggle does not show on the landing page | Medium | [#390](https://github.com/aayushraj1010/med-genie/issues/390) |
+| Improve Healthcare-Focused UI/UX, Readability & Accessibility for Better User Trust and Usability | Medium | [#389](https://github.com/aayushraj1010/med-genie/issues/389) |
+| User enumeration vulnerability in login endpoint — distinct error messages reveal whether an email is registered | Medium | [#388](https://github.com/aayushraj1010/med-genie/issues/388) |
+| Token refresh endpoint generates new access token with hardcoded empty email and name fields | Medium | [#387](https://github.com/aayushraj1010/med-genie/issues/387) |
+| verifyToken calls isTokenBlacklisted without await — async Promise treated as truthy, all authenticated routes always return 401 | Medium | [#386](https://github.com/aayushraj1010/med-genie/issues/386) |
+| Improve symptom-based specialist recommendation accuracy in Med-Genie with multilingual support and personalized diet planning | Medium | [#385](https://github.com/aayushraj1010/med-genie/issues/385) |
+| Age input field uses default number spinner and lacks user-friendly validation | Medium | [#384](https://github.com/aayushraj1010/med-genie/issues/384) |
+| UI Improvement: Replace Plain Black Background with Engaging Healthcare-Themed Design | Medium | [#383](https://github.com/aayushraj1010/med-genie/issues/383) |
+| Enhance Navigation Bar UI for Better Visual Appeal and User Experience | Medium | [#382](https://github.com/aayushraj1010/med-genie/issues/382) |
+| Scroll-to-Top Button Overlaps GitHub Link/Icon in Footer | Medium | [#381](https://github.com/aayushraj1010/med-genie/issues/381) |
+| Add Toggle/Close Functionality for AI Assistant Sidebar | Medium | [#380](https://github.com/aayushraj1010/med-genie/issues/380) |
+| Navbar Overlaps Hero Section Icon on Scroll/Page Load | Medium | [#379](https://github.com/aayushraj1010/med-genie/issues/379) |
+| Feature Proposal: Location-Based Health Risk Prediction & Environmental Disease Alerts | Medium | [#377](https://github.com/aayushraj1010/med-genie/issues/377) |
+| Internal server error | Medium | [#376](https://github.com/aayushraj1010/med-genie/issues/376) |
+| bug: Poor text visibility in user chat bubbles due to dark text on dark background | Medium | [#375](https://github.com/aayushraj1010/med-genie/issues/375) |
+| Add "Sign Up" / Register Option — Only Login Button Present in Navbar | Medium | [#374](https://github.com/aayushraj1010/med-genie/issues/374) |
+| Light Mode / Theme Toggle Missing — Listed as a Feature but Not Implemented | Medium | [#373](https://github.com/aayushraj1010/med-genie/issues/373) |
+| fix: Navbar overlaps section content on anchor scroll (Services, About, etc.) | Medium | [#372](https://github.com/aayushraj1010/med-genie/issues/372) |
+| "Our Process", "Contact Us", and "FAQ" Pages Not Working | Medium | [#371](https://github.com/aayushraj1010/med-genie/issues/371) |
+| Bug/Security: JWT Token blacklisting is unimplemented, allowing revoked tokens to remain active | Medium | [#370](https://github.com/aayushraj1010/med-genie/issues/370) |
+| Add Close (X) Icon on Login and Contribution Pages | Medium | [#369](https://github.com/aayushraj1010/med-genie/issues/369) |
+| add home in navigation pannel | Medium | [#368](https://github.com/aayushraj1010/med-genie/issues/368) |
+| Improve README Professionalism by Removing AI-Generated Residual Text | Medium | [#367](https://github.com/aayushraj1010/med-genie/issues/367) |
+| Add Dark Mode / Light Mode Toggle Support | Medium | [#366](https://github.com/aayushraj1010/med-genie/issues/366) |
+| Bug: Prescription reminder notification time incorrect | Medium | [#365](https://github.com/aayushraj1010/med-genie/issues/365) |
 
 ---
 
@@ -1166,13 +1172,13 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the production-dependencies group across 1 directory with 16 updates | Medium | [#175](https://github.com/Xenonesis/code-guardian-report/pull/175) |
-| chore(deps): bump the dev-dependencies group with 4 updates | Medium | [#174](https://github.com/Xenonesis/code-guardian-report/pull/174) |
+| chore(deps): bump the production-dependencies group across 1 directory with 5 updates | Medium | [#179](https://github.com/Xenonesis/code-guardian-report/pull/179) |
+| chore(deps): bump the dev-dependencies group across 1 directory with 3 updates | Medium | [#178](https://github.com/Xenonesis/code-guardian-report/pull/178) |
 | feat: update user profile page to display complete user information | Medium | [#173](https://github.com/Xenonesis/code-guardian-report/pull/173) |
 | chore(deps): bump @types/bcryptjs from 2.4.6 to 3.0.0 | Medium | [#171](https://github.com/Xenonesis/code-guardian-report/pull/171) |
 | chore(deps): bump @eslint/js from 9.39.4 to 10.0.1 | Medium | [#170](https://github.com/Xenonesis/code-guardian-report/pull/170) |
 | chore(deps): bump @eslint/markdown from 7.5.1 to 8.0.1 | Medium | [#169](https://github.com/Xenonesis/code-guardian-report/pull/169) |
-| chore(deps): bump eslint from 9.39.4 to 10.3.0 | Medium | [#168](https://github.com/Xenonesis/code-guardian-report/pull/168) |
+| chore(deps): bump eslint from 9.39.4 to 10.4.0 | Medium | [#168](https://github.com/Xenonesis/code-guardian-report/pull/168) |
 | implement parallel file processing using Web Workers | Medium | [#153](https://github.com/Xenonesis/code-guardian-report/pull/153) |
 | Title: TypeScript: Replace implicit 'any' usage in core services | Medium | [#142](https://github.com/Xenonesis/code-guardian-report/issues/142) |
 | Title: Refactor: Remove legacy Jest dependencies and config | Medium | [#141](https://github.com/Xenonesis/code-guardian-report/issues/141) |
