@@ -205,6 +205,9 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance footer link hover effects and add responsive scroll-to-top bu… | Medium | [#1781](https://github.com/omroy07/AgriTech/pull/1781) |
+| feat: add green sparkle cursor effect to diease page | Medium | [#1780](https://github.com/omroy07/AgriTech/pull/1780) |
+| fix: make user selector and action buttons responsive | Medium | [#1779](https://github.com/omroy07/AgriTech/pull/1779) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
@@ -213,9 +216,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
 | Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
-| Navbar UI Broken on main page | Medium | [#1084](https://github.com/omroy07/AgriTech/issues/1084) |
 | Prediction Result Comparison (Current vs Previous) | Medium | [#1056](https://github.com/omroy07/AgriTech/issues/1056) |
-| AgriTech – Blog Page Not Loading & Buttons Not Working | Medium | [#951](https://github.com/omroy07/AgriTech/issues/951) |
 
 ---
 
@@ -264,6 +265,28 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(auth) : populate user data during token refresh | Medium | [#395](https://github.com/aayushraj1010/med-genie/pull/395) |
+| [UI]: Add a 404 Not Found page for invalid routes | Medium | [#394](https://github.com/aayushraj1010/med-genie/issues/394) |
+| [GSSoC '26] Add Back Navigation to Cookies, Terms, and Privacy Pages | Medium | [#393](https://github.com/aayushraj1010/med-genie/issues/393) |
+| [GSSoC '26] cookies.html and terms.html shows 404 Despite Existing TSX Page | Medium | [#392](https://github.com/aayushraj1010/med-genie/issues/392) |
+| Enhance FAQ and Our Process sections with better UI/UX and interactive healthcare workflow presentation | Medium | [#391](https://github.com/aayushraj1010/med-genie/issues/391) |
+| Toggle does not show on the landing page | Medium | [#390](https://github.com/aayushraj1010/med-genie/issues/390) |
+| Improve Healthcare-Focused UI/UX, Readability & Accessibility for Better User Trust and Usability | Medium | [#389](https://github.com/aayushraj1010/med-genie/issues/389) |
+| User enumeration vulnerability in login endpoint — distinct error messages reveal whether an email is registered | Medium | [#388](https://github.com/aayushraj1010/med-genie/issues/388) |
+| Token refresh endpoint generates new access token with hardcoded empty email and name fields | Medium | [#387](https://github.com/aayushraj1010/med-genie/issues/387) |
+| verifyToken calls isTokenBlacklisted without await — async Promise treated as truthy, all authenticated routes always return 401 | Medium | [#386](https://github.com/aayushraj1010/med-genie/issues/386) |
+| Improve symptom-based specialist recommendation accuracy in Med-Genie with multilingual support and personalized diet planning | Medium | [#385](https://github.com/aayushraj1010/med-genie/issues/385) |
+| Age input field uses default number spinner and lacks user-friendly validation | Medium | [#384](https://github.com/aayushraj1010/med-genie/issues/384) |
+| UI Improvement: Replace Plain Black Background with Engaging Healthcare-Themed Design | Medium | [#383](https://github.com/aayushraj1010/med-genie/issues/383) |
+| Enhance Navigation Bar UI for Better Visual Appeal and User Experience | Medium | [#382](https://github.com/aayushraj1010/med-genie/issues/382) |
+| Scroll-to-Top Button Overlaps GitHub Link/Icon in Footer | Medium | [#381](https://github.com/aayushraj1010/med-genie/issues/381) |
+| Add Toggle/Close Functionality for AI Assistant Sidebar | Medium | [#380](https://github.com/aayushraj1010/med-genie/issues/380) |
+| Navbar Overlaps Hero Section Icon on Scroll/Page Load | Medium | [#379](https://github.com/aayushraj1010/med-genie/issues/379) |
+| Feature Proposal: Location-Based Health Risk Prediction & Environmental Disease Alerts | Medium | [#377](https://github.com/aayushraj1010/med-genie/issues/377) |
+| Internal server error | Medium | [#376](https://github.com/aayushraj1010/med-genie/issues/376) |
+| bug: Poor text visibility in user chat bubbles due to dark text on dark background | Medium | [#375](https://github.com/aayushraj1010/med-genie/issues/375) |
+| Add "Sign Up" / Register Option — Only Login Button Present in Navbar | Medium | [#374](https://github.com/aayushraj1010/med-genie/issues/374) |
+| Light Mode / Theme Toggle Missing — Listed as a Feature but Not Implemented | Medium | [#373](https://github.com/aayushraj1010/med-genie/issues/373) |
 | fix: Navbar overlaps section content on anchor scroll (Services, About, etc.) | Medium | [#372](https://github.com/aayushraj1010/med-genie/issues/372) |
 | "Our Process", "Contact Us", and "FAQ" Pages Not Working | Medium | [#371](https://github.com/aayushraj1010/med-genie/issues/371) |
 | Bug/Security: JWT Token blacklisting is unimplemented, allowing revoked tokens to remain active | Medium | [#370](https://github.com/aayushraj1010/med-genie/issues/370) |
@@ -272,28 +295,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Improve README Professionalism by Removing AI-Generated Residual Text | Medium | [#367](https://github.com/aayushraj1010/med-genie/issues/367) |
 | Add Dark Mode / Light Mode Toggle Support | Medium | [#366](https://github.com/aayushraj1010/med-genie/issues/366) |
 | Bug: Prescription reminder notification time incorrect | Medium | [#365](https://github.com/aayushraj1010/med-genie/issues/365) |
-| Bug: Medical report PDF download has wrong encoding | Medium | [#364](https://github.com/aayushraj1010/med-genie/issues/364) |
-| Bug: Medical report PDF download has wrong encoding | Medium | [#363](https://github.com/aayushraj1010/med-genie/issues/363) |
-| Enhance Scrollbar UI for Better Visual Consistency | Medium | [#362](https://github.com/aayushraj1010/med-genie/issues/362) |
-| "Try Demo" button on Services page leads to 404 error | Medium | [#361](https://github.com/aayushraj1010/med-genie/issues/361) |
-| bug: Med Genie chatbot returning Internal Server Error (500) | Medium | [#359](https://github.com/aayushraj1010/med-genie/issues/359) |
-| Input Box Not Responsive on Small Screen Sizes | Medium | [#358](https://github.com/aayushraj1010/med-genie/issues/358) |
-| Added copy to clipboard functionality for chat messages | Medium | [#357](https://github.com/aayushraj1010/med-genie/pull/357) |
-| UI Enhancement: Add hover animations and interactive feedback for CTA buttons | Medium | [#356](https://github.com/aayushraj1010/med-genie/issues/356) |
-| Fix Broken Social Links + Add Medical Disclaimer | Medium | [#355](https://github.com/aayushraj1010/med-genie/issues/355) |
-| feat(ai): add contextual wellness suggestions to health QA flows | Medium | [#354](https://github.com/aayushraj1010/med-genie/pull/354) |
-| fix(ui): Navbar z-index conflict and layout overlapping on sub-pages | Medium | [#352](https://github.com/aayushraj1010/med-genie/issues/352) |
-| CSS Is Still Too Monolithic, Security Issues, Privacy Policy Legal Problems | Medium | [#351](https://github.com/aayushraj1010/med-genie/issues/351) |
-| change public, script, and health-vault | Medium | [#350](https://github.com/aayushraj1010/med-genie/pull/350) |
-| UX Improvement: Show “Press Enter to Send” helper text in chat input | Medium | [#349](https://github.com/aayushraj1010/med-genie/issues/349) |
-| Responsive UI: Chat container touches screen edges on small mobile devices | Medium | [#348](https://github.com/aayushraj1010/med-genie/issues/348) |
-| UI Enhancement: Add skeleton loader during AI response generation | Medium | [#347](https://github.com/aayushraj1010/med-genie/issues/347) |
-| Feature: Add copy button for AI-generated medical responses | Medium | [#346](https://github.com/aayushraj1010/med-genie/issues/346) |
-| Feature: Add live character counter for symptom input box | Medium | [#345](https://github.com/aayushraj1010/med-genie/issues/345) |
-| Bug: Send button remains active for blank or whitespace-only prompts | Medium | [#344](https://github.com/aayushraj1010/med-genie/issues/344) |
-| fix: resolve legal pages routing | Medium | [#343](https://github.com/aayushraj1010/med-genie/pull/343) |
-| [FEAT]: Add Automatic Medical Disclaimer Popup before AI Chat Initiation | Medium | [#342](https://github.com/aayushraj1010/med-genie/issues/342) |
-| Add Contextual Health Guidance and Awareness Features | Medium | [#341](https://github.com/aayushraj1010/med-genie/issues/341) |
 
 ---
 
