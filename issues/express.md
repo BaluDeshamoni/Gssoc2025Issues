@@ -410,17 +410,18 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve footer social icon visibility in light mode | Medium | [#390](https://github.com/GitMetricsLab/github_tracker/pull/390) |
-| fix: validate env on startup | Medium | [#385](https://github.com/GitMetricsLab/github_tracker/pull/385) |
-| configured dynamic port and cors middleware for production | Medium | [#384](https://github.com/GitMetricsLab/github_tracker/pull/384) |
-| Added homepage navigation option to login and signup pages | Medium | [#383](https://github.com/GitMetricsLab/github_tracker/pull/383) |
-| Add rate limiting on login and signup to prevent brute-force attacks | Medium | [#381](https://github.com/GitMetricsLab/github_tracker/pull/381) |
-| Harden session cookie with HttpOnly, Secure, SameSite, and maxAge | Medium | [#380](https://github.com/GitMetricsLab/github_tracker/pull/380) |
-| Replace wildcard CORS with explicit ALLOWED_ORIGINS allowlist | Medium | [#379](https://github.com/GitMetricsLab/github_tracker/pull/379) |
-| Fix session fixation vulnerability and password hash exposure in login | Medium | [#378](https://github.com/GitMetricsLab/github_tracker/pull/378) |
-| feat: add password visibility toggle to login form | Medium | [#376](https://github.com/GitMetricsLab/github_tracker/pull/376) |
-| Adding google authentication | Medium | [#368](https://github.com/GitMetricsLab/github_tracker/pull/368) |
-| fix(auth): sanitize login response to exclude password hash | Medium | [#365](https://github.com/GitMetricsLab/github_tracker/pull/365) |
+| feat: Add Pull Request Review Intelligence & Bottleneck Analytics System (#468) | Medium | [#469](https://github.com/GitMetricsLab/github_tracker/pull/469) |
+| fix(security): replace wildcard CORS with allowlist and harden session cookies | Medium | [#467](https://github.com/GitMetricsLab/github_tracker/pull/467) |
+| fix: align frontend username validation with backend Zod schema | Medium | [#466](https://github.com/GitMetricsLab/github_tracker/pull/466) |
+| fix(signup): align frontend password validation with backend Zod schema | Medium | [#465](https://github.com/GitMetricsLab/github_tracker/pull/465) |
+| fix(auth): add withCredentials and fix CORS to persist session cookies | Medium | [#464](https://github.com/GitMetricsLab/github_tracker/pull/464) |
+| responsive style for signup | Medium | [#463](https://github.com/GitMetricsLab/github_tracker/pull/463) |
+| Implement custom scrollbar styles | Medium | [#462](https://github.com/GitMetricsLab/github_tracker/pull/462) |
+| Fix missing navbar on authentication pages | Medium | [#448](https://github.com/GitMetricsLab/github_tracker/pull/448) |
+| docs: improve Docker and local development setup documentation | Medium | [#444](https://github.com/GitMetricsLab/github_tracker/pull/444) |
+| Improve Contact Us Page UI/UX and Theme Consistency | Medium | [#441](https://github.com/GitMetricsLab/github_tracker/pull/441) |
+| enhance: modernize landing page feature and workflow sections | Medium | [#440](https://github.com/GitMetricsLab/github_tracker/pull/440) |
+| feat: add Privacy Policy and Terms & Conditions pages | Medium | [#426](https://github.com/GitMetricsLab/github_tracker/pull/426) |
 
 ---
 
@@ -1210,6 +1211,20 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| "Get Started" and "Learn More" buttons are misaligned in hero section | Medium | [#318](https://github.com/lovelymahor/StudyMatePlus/issues/318) |
+| Add Dark Mode support with theme toggle | Medium | [#317](https://github.com/lovelymahor/StudyMatePlus/issues/317) |
+| Comprehensive UI/UX Enhancements for the Home Page | Medium | [#316](https://github.com/lovelymahor/StudyMatePlus/issues/316) |
+| Improve Hero Statistics Card Alignment and Visual Consistency on Notes Page | Medium | [#315](https://github.com/lovelymahor/StudyMatePlus/issues/315) |
+| Fix Button Alignment in Hero Section | Medium | [#314](https://github.com/lovelymahor/StudyMatePlus/issues/314) |
+| Authentication & Resource Bookmarking Feature Enhancement | Medium | [#313](https://github.com/lovelymahor/StudyMatePlus/issues/313) |
+| Improve homepage and navbar UI | Medium | [#312](https://github.com/lovelymahor/StudyMatePlus/pull/312) |
+| Syllabus Download & Preview buttons are non-functional — no real PDF support | Medium | [#311](https://github.com/lovelymahor/StudyMatePlus/issues/311) |
+| "View" button on PYQ cards is non-functional & data is hardcoded with no year filter | Medium | [#310](https://github.com/lovelymahor/StudyMatePlus/issues/310) |
+| feat: add dedicated Help Center page with search, FAQ accordion, and … | Medium | [#309](https://github.com/lovelymahor/StudyMatePlus/pull/309) |
+| Backend Feature for Better Scalability | Medium | [#308](https://github.com/lovelymahor/StudyMatePlus/issues/308) |
+| Improve About page UI and dark mode styling | Medium | [#307](https://github.com/lovelymahor/StudyMatePlus/pull/307) |
+| Add “Back to Top” Button on About Us & Feedback Page | Medium | [#306](https://github.com/lovelymahor/StudyMatePlus/issues/306) |
+| Add More Universities/Departments and Fix PDF Viewing Issue | Medium | [#305](https://github.com/lovelymahor/StudyMatePlus/issues/305) |
 | Adding a google login authentication page | Medium | [#304](https://github.com/lovelymahor/StudyMatePlus/issues/304) |
 | Feature Request: Complete Redesign of Input & Dropdown Filter Section At Previous year question papers accesss | Medium | [#303](https://github.com/lovelymahor/StudyMatePlus/issues/303) |
 | Add undo/redo support to MindMapEditor | Medium | [#302](https://github.com/lovelymahor/StudyMatePlus/pull/302) |
@@ -1226,20 +1241,6 @@ Fast Workflow Tools
 | Fix: Semester Dropdown Sorted Incorrectly (String vs Number) | Medium | [#291](https://github.com/lovelymahor/StudyMatePlus/issues/291) |
 | Fix: Mentorship Page is Blank / 404 When Accessed | Medium | [#290](https://github.com/lovelymahor/StudyMatePlus/issues/290) |
 | Feature Request: Add Login/Signup UI with Form Validation | Medium | [#289](https://github.com/lovelymahor/StudyMatePlus/issues/289) |
-| fix : Premium Design | Medium | [#288](https://github.com/lovelymahor/StudyMatePlus/pull/288) |
-| Fix: Sort semester dropdown options in syllabus page (#216) | Medium | [#287](https://github.com/lovelymahor/StudyMatePlus/pull/287) |
-| Fix broken profile avatar URL in Navbar | Medium | [#286](https://github.com/lovelymahor/StudyMatePlus/issues/286) |
-| Issue: Improve Landing Page Design & UX | Medium | [#285](https://github.com/lovelymahor/StudyMatePlus/issues/285) |
-| Bug: Add Task Allows Selecting Past Deadlines | Medium | [#284](https://github.com/lovelymahor/StudyMatePlus/issues/284) |
-| On clicking the mentorship through quick links section it shows a blank page. It could be made to display messages like "Mentors joining soon". | Medium | [#283](https://github.com/lovelymahor/StudyMatePlus/issues/283) |
-| UI Enhancement: Standardize sizing and alignment of statistics cards across sections | Medium | [#282](https://github.com/lovelymahor/StudyMatePlus/issues/282) |
-| UI Enhancement: Improve hero section layout alignment and visual spacing consistency | Medium | [#281](https://github.com/lovelymahor/StudyMatePlus/issues/281) |
-| UI Enhancement: Improve CTA button alignment and maintain consistent hover behavior | Medium | [#280](https://github.com/lovelymahor/StudyMatePlus/issues/280) |
-| Add loading skeleton animations for Notes, PYQs, and Syllabus pages | Medium | [#279](https://github.com/lovelymahor/StudyMatePlus/issues/279) |
-| Adding quiz section | Medium | [#278](https://github.com/lovelymahor/StudyMatePlus/issues/278) |
-| Fixed feedback submission API and CORS issues | Medium | [#277](https://github.com/lovelymahor/StudyMatePlus/pull/277) |
-| Fix navbar hover and focus underline styles | Medium | [#276](https://github.com/lovelymahor/StudyMatePlus/pull/276) |
-| Fix Login and Register Form Functionality | Medium | [#275](https://github.com/lovelymahor/StudyMatePlus/issues/275) |
 
 ---
 
@@ -1532,17 +1533,18 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Documentation 404 Errors | Medium | [#98](https://github.com/ThePlator/NPMChat/issues/98) |
+| Forgot Password & Password Reset Flow | Medium | [#110](https://github.com/ThePlator/NPMChat/issues/110) |
+| Real-time Message Status (Ticks) | Medium | [#107](https://github.com/ThePlator/NPMChat/issues/107) |
 | Dark Theme Consistency Fix | Medium | [#97](https://github.com/ThePlator/NPMChat/issues/97) |
-| Setup ci pipeline | Medium | [#96](https://github.com/ThePlator/NPMChat/pull/96) |
 | fix: add centralized backend error handling | Medium | [#92](https://github.com/ThePlator/NPMChat/pull/92) |
 | Add persistent WebSocket backend deployment support | Medium | [#84](https://github.com/ThePlator/NPMChat/pull/84) |
 | AvatarUrl handling to correctly fetch the image url from payload | Medium | [#65](https://github.com/ThePlator/NPMChat/pull/65) |
 | Signup avatar isn’t persisted and does not store the Avatar image of the user | Medium | [#64](https://github.com/ThePlator/NPMChat/issues/64) |
-| Add Delete and Edit Message Functionality in chats | Medium | [#53](https://github.com/ThePlator/NPMChat/issues/53) |
 | Approve Before Messaging | Medium | [#52](https://github.com/ThePlator/NPMChat/issues/52) |
 | Add Extended Profile Details | Medium | [#49](https://github.com/ThePlator/NPMChat/issues/49) |
 | Improvement & Enhancement of the  "How It's Built & How You Can Contribute" section. | Medium | [#27](https://github.com/ThePlator/NPMChat/issues/27) |
+| feat: JWT Refresh Token + httpOnly Cookie Auth Flow | Hard | [#111](https://github.com/ThePlator/NPMChat/issues/111) |
+| Email OTP Verification during Signup | Hard | [#109](https://github.com/ThePlator/NPMChat/issues/109) |
 
 ---
 
