@@ -129,25 +129,28 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FAQ Page: Low Color Contrast and Accessibility Issues in Light Mode | Medium | [#1471](https://github.com/SandeepVashishtha/Eventra/issues/1471) |
-| feat: replace mock event data with live API integration | Medium | [#1470](https://github.com/SandeepVashishtha/Eventra/pull/1470) |
-| Upcoming filter on Events page shows ended/past events | Medium | [#1469](https://github.com/SandeepVashishtha/Eventra/issues/1469) |
-| Direct “Learn More / Join Now” buttons in “What’s Happening Now” section to respective event/hackathon detail pages | Medium | [#1468](https://github.com/SandeepVashishtha/Eventra/issues/1468) |
-| feat: implement frontend RBAC with protected routes and role-based access control | Medium | [#1467](https://github.com/SandeepVashishtha/Eventra/pull/1467) |
-| Feature Request: Add Live Event Countdown & Reminder System | Medium | [#1466](https://github.com/SandeepVashishtha/Eventra/issues/1466) |
-| fix: prevent event overbooking with frontend safeguards and capacity … | Medium | [#1465](https://github.com/SandeepVashishtha/Eventra/pull/1465) |
-| Fix build error and SVG path warning affecting registration flow (#1437) | Medium | [#1464](https://github.com/SandeepVashishtha/Eventra/pull/1464) |
-| Sensitive Data Stored in localStorage Without Protection | Medium | [#1463](https://github.com/SandeepVashishtha/Eventra/issues/1463) |
-| Multiple Non-Functional or Placeholder Links Across UI | Medium | [#1462](https://github.com/SandeepVashishtha/Eventra/issues/1462) |
-| Chatbot window overlaps bottom navigation buttons on mobile view | Medium | [#1461](https://github.com/SandeepVashishtha/Eventra/issues/1461) |
-| [UI/UX]: Inconsistent and Non-Real-Time Form Validation UX Across Application | Medium | [#1460](https://github.com/SandeepVashishtha/Eventra/issues/1460) |
-| Duplicate API Configuration Causing Inconsistent Network Handling | Medium | [#1459](https://github.com/SandeepVashishtha/Eventra/issues/1459) |
-| Smart Event Conflict Detection & Scheduling | Medium | [#1458](https://github.com/SandeepVashishtha/Eventra/issues/1458) |
-| Feature Request: Add Event Reminder Notifications for Saved and Registered Events | Medium | [#1457](https://github.com/SandeepVashishtha/Eventra/issues/1457) |
-| ## Bug: Footer social media links redirect to generic placeholder pages | Medium | [#1453](https://github.com/SandeepVashishtha/Eventra/issues/1453) |
-| perf: optimize frontend performance with code splitting, lazy loading, and bundle cleanup | Medium | [#1450](https://github.com/SandeepVashishtha/Eventra/pull/1450) |
-| fix: optimize markAllAsRead using bulk API endpoint | Medium | [#1441](https://github.com/SandeepVashishtha/Eventra/pull/1441) |
-| feat: chatbot fab stays fixed on scroll | Medium | [#1439](https://github.com/SandeepVashishtha/Eventra/pull/1439) |
+| docs: Document the purpose of src/jhalak/ directory | Medium | [#1711](https://github.com/SandeepVashishtha/Eventra/issues/1711) |
+| Improve Header UI and Add User Information & Login Section | Medium | [#1710](https://github.com/SandeepVashishtha/Eventra/issues/1710) |
+| Add Reusable Copy Link Button with Clipboard API & Toast Feedback | Medium | [#1709](https://github.com/SandeepVashishtha/Eventra/pull/1709) |
+| fix(EventRecommendations): wrap localStorage parsing in try-catch to … | Medium | [#1708](https://github.com/SandeepVashishtha/Eventra/pull/1708) |
+| fix(AuthContext): resolve bracket syntax error and expose missing hel… | Medium | [#1707](https://github.com/SandeepVashishtha/Eventra/pull/1707) |
+| Add Unsaved Changes Protection & Draft Persistence Enhancement for Event Creation Form | Medium | [#1706](https://github.com/SandeepVashishtha/Eventra/pull/1706) |
+| Exposure of sensitive API secrets in client-side React bundle | Medium | [#1705](https://github.com/SandeepVashishtha/Eventra/issues/1705) |
+| Inconsistent hardcoded Azure Backend URLs across configuration files | Medium | [#1704](https://github.com/SandeepVashishtha/Eventra/issues/1704) |
+| Insecure storage of authentication tokens and plaintext encryption keys in localStorage | Medium | [#1703](https://github.com/SandeepVashishtha/Eventra/issues/1703) |
+| fix(EditProfile): wrap localstorage JSON parsing in try-catch to prev… | Medium | [#1701](https://github.com/SandeepVashishtha/Eventra/pull/1701) |
+| fix: replace native alert() and confirm() with react-toastify | Medium | [#1700](https://github.com/SandeepVashishtha/Eventra/pull/1700) |
+| 💫 Add Route-Aware Active Link Highlighting for Improved Navigation Experience | Medium | [#1698](https://github.com/SandeepVashishtha/Eventra/pull/1698) |
+| Fix/remove production api logs | Medium | [#1697](https://github.com/SandeepVashishtha/Eventra/pull/1697) |
+| fix: remove redundant empty beforeunload listener from SessionRecover… | Medium | [#1694](https://github.com/SandeepVashishtha/Eventra/pull/1694) |
+| fix: stabilize markAllAsRead dependency array to prevent context re-r… | Medium | [#1693](https://github.com/SandeepVashishtha/Eventra/pull/1693) |
+| fix: replace mock registration logic with real backend API integration | Medium | [#1692](https://github.com/SandeepVashishtha/Eventra/pull/1692) |
+| Enhanced reusable BackToTop component with smooth scrolling, accessibility improvements, and scroll progress indicator | Medium | [#1688](https://github.com/SandeepVashishtha/Eventra/pull/1688) |
+| fix: correct POINTS config keys to match normalized GSSoC label format in Leaderboard | Medium | [#1687](https://github.com/SandeepVashishtha/Eventra/pull/1687) |
+| fix: resolve infinite rebase abort loop in custom merge driver | Medium | [#1686](https://github.com/SandeepVashishtha/Eventra/pull/1686) |
+| feat: add sorting options for hackathons by deadline, popularity, newest, and prize amount | Medium | [#1684](https://github.com/SandeepVashishtha/Eventra/pull/1684) |
+| fix: remove unused imports and variables causing ESLint warnings | Medium | [#1683](https://github.com/SandeepVashishtha/Eventra/pull/1683) |
+| fix: move calculateTimeLeft inside useEffect to resolve exhaustive-deps warning | Medium | [#1682](https://github.com/SandeepVashishtha/Eventra/pull/1682) |
 
 ---
 
