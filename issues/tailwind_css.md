@@ -245,20 +245,14 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump isomorphic-dompurify in /frontend | Medium | [#4729](https://github.com/OWASP/Nest/pull/4729) |
-| chore(deps): bump the version-updates group across 4 directories with 3 updates | Medium | [#4727](https://github.com/OWASP/Nest/pull/4727) |
-| Update dependency management | Medium | [#4726](https://github.com/OWASP/Nest/pull/4726) |
-| chore(deps): bump posthog-js in /frontend | Medium | [#4725](https://github.com/OWASP/Nest/pull/4725) |
-| chore(deps): bump dompurify in /frontend | Medium | [#4723](https://github.com/OWASP/Nest/pull/4723) |
-| chore(deps): bump reportlab in /backend | Medium | [#4722](https://github.com/OWASP/Nest/pull/4722) |
 | fix: improve mobile responsiveness on issues page | Medium | [#4712](https://github.com/OWASP/Nest/pull/4712) |
 | Extract bootstrap-nest-infrastructure into a separate workflow | Medium | [#4711](https://github.com/OWASP/Nest/pull/4711) |
 | Extract scan-images into a separate workflow | Medium | [#4710](https://github.com/OWASP/Nest/pull/4710) |
-| Extract build-images into a separate reusable worflow | Medium | [#4709](https://github.com/OWASP/Nest/pull/4709) |
 | Extract staging jobs into a separate workflow | Medium | [#4701](https://github.com/OWASP/Nest/pull/4701) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4697](https://github.com/OWASP/Nest/pull/4697) |
 | Tighten checks for project leaders on creating a Program | Medium | [#4695](https://github.com/OWASP/Nest/pull/4695) |
 | Add Task Level Admin Functionality to Mentorship Portal | Medium | [#4689](https://github.com/OWASP/Nest/issues/4689) |
+| feat(projects): add health indicators to project cards | Medium | [#4678](https://github.com/OWASP/Nest/pull/4678) |
 
 ---
 
@@ -496,6 +490,24 @@ Schools, offices, and wellness centers looking to green their spaces
 
 ---
 
+## 📌 Project: Healconnect 
+
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
+
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fix: Correct vital threshold checking range clinical logic bug and up… | Medium | [#738](https://github.com/Dipanita45/HEALCONNECT/pull/738) |
+
+---
+
 ## 📌 Project: MindJournal 
 
 📝 **Description:** A full-featured mental health journal app built with React.js, Tailwind CSS, and Vite.
@@ -706,17 +718,18 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve footer social icon visibility in light mode | Medium | [#390](https://github.com/GitMetricsLab/github_tracker/pull/390) |
-| fix: validate env on startup | Medium | [#385](https://github.com/GitMetricsLab/github_tracker/pull/385) |
-| configured dynamic port and cors middleware for production | Medium | [#384](https://github.com/GitMetricsLab/github_tracker/pull/384) |
-| Added homepage navigation option to login and signup pages | Medium | [#383](https://github.com/GitMetricsLab/github_tracker/pull/383) |
-| Add rate limiting on login and signup to prevent brute-force attacks | Medium | [#381](https://github.com/GitMetricsLab/github_tracker/pull/381) |
-| Harden session cookie with HttpOnly, Secure, SameSite, and maxAge | Medium | [#380](https://github.com/GitMetricsLab/github_tracker/pull/380) |
-| Replace wildcard CORS with explicit ALLOWED_ORIGINS allowlist | Medium | [#379](https://github.com/GitMetricsLab/github_tracker/pull/379) |
-| Fix session fixation vulnerability and password hash exposure in login | Medium | [#378](https://github.com/GitMetricsLab/github_tracker/pull/378) |
-| feat: add password visibility toggle to login form | Medium | [#376](https://github.com/GitMetricsLab/github_tracker/pull/376) |
-| Adding google authentication | Medium | [#368](https://github.com/GitMetricsLab/github_tracker/pull/368) |
-| fix(auth): sanitize login response to exclude password hash | Medium | [#365](https://github.com/GitMetricsLab/github_tracker/pull/365) |
+| feat: Add Pull Request Review Intelligence & Bottleneck Analytics System (#468) | Medium | [#469](https://github.com/GitMetricsLab/github_tracker/pull/469) |
+| fix(security): replace wildcard CORS with allowlist and harden session cookies | Medium | [#467](https://github.com/GitMetricsLab/github_tracker/pull/467) |
+| fix: align frontend username validation with backend Zod schema | Medium | [#466](https://github.com/GitMetricsLab/github_tracker/pull/466) |
+| fix(signup): align frontend password validation with backend Zod schema | Medium | [#465](https://github.com/GitMetricsLab/github_tracker/pull/465) |
+| fix(auth): add withCredentials and fix CORS to persist session cookies | Medium | [#464](https://github.com/GitMetricsLab/github_tracker/pull/464) |
+| responsive style for signup | Medium | [#463](https://github.com/GitMetricsLab/github_tracker/pull/463) |
+| Implement custom scrollbar styles | Medium | [#462](https://github.com/GitMetricsLab/github_tracker/pull/462) |
+| Fix missing navbar on authentication pages | Medium | [#448](https://github.com/GitMetricsLab/github_tracker/pull/448) |
+| docs: improve Docker and local development setup documentation | Medium | [#444](https://github.com/GitMetricsLab/github_tracker/pull/444) |
+| Improve Contact Us Page UI/UX and Theme Consistency | Medium | [#441](https://github.com/GitMetricsLab/github_tracker/pull/441) |
+| enhance: modernize landing page feature and workflow sections | Medium | [#440](https://github.com/GitMetricsLab/github_tracker/pull/440) |
+| feat: add Privacy Policy and Terms & Conditions pages | Medium | [#426](https://github.com/GitMetricsLab/github_tracker/pull/426) |
 
 ---
 
@@ -1794,6 +1807,20 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| "Get Started" and "Learn More" buttons are misaligned in hero section | Medium | [#318](https://github.com/lovelymahor/StudyMatePlus/issues/318) |
+| Add Dark Mode support with theme toggle | Medium | [#317](https://github.com/lovelymahor/StudyMatePlus/issues/317) |
+| Comprehensive UI/UX Enhancements for the Home Page | Medium | [#316](https://github.com/lovelymahor/StudyMatePlus/issues/316) |
+| Improve Hero Statistics Card Alignment and Visual Consistency on Notes Page | Medium | [#315](https://github.com/lovelymahor/StudyMatePlus/issues/315) |
+| Fix Button Alignment in Hero Section | Medium | [#314](https://github.com/lovelymahor/StudyMatePlus/issues/314) |
+| Authentication & Resource Bookmarking Feature Enhancement | Medium | [#313](https://github.com/lovelymahor/StudyMatePlus/issues/313) |
+| Improve homepage and navbar UI | Medium | [#312](https://github.com/lovelymahor/StudyMatePlus/pull/312) |
+| Syllabus Download & Preview buttons are non-functional — no real PDF support | Medium | [#311](https://github.com/lovelymahor/StudyMatePlus/issues/311) |
+| "View" button on PYQ cards is non-functional & data is hardcoded with no year filter | Medium | [#310](https://github.com/lovelymahor/StudyMatePlus/issues/310) |
+| feat: add dedicated Help Center page with search, FAQ accordion, and … | Medium | [#309](https://github.com/lovelymahor/StudyMatePlus/pull/309) |
+| Backend Feature for Better Scalability | Medium | [#308](https://github.com/lovelymahor/StudyMatePlus/issues/308) |
+| Improve About page UI and dark mode styling | Medium | [#307](https://github.com/lovelymahor/StudyMatePlus/pull/307) |
+| Add “Back to Top” Button on About Us & Feedback Page | Medium | [#306](https://github.com/lovelymahor/StudyMatePlus/issues/306) |
+| Add More Universities/Departments and Fix PDF Viewing Issue | Medium | [#305](https://github.com/lovelymahor/StudyMatePlus/issues/305) |
 | Adding a google login authentication page | Medium | [#304](https://github.com/lovelymahor/StudyMatePlus/issues/304) |
 | Feature Request: Complete Redesign of Input & Dropdown Filter Section At Previous year question papers accesss | Medium | [#303](https://github.com/lovelymahor/StudyMatePlus/issues/303) |
 | Add undo/redo support to MindMapEditor | Medium | [#302](https://github.com/lovelymahor/StudyMatePlus/pull/302) |
@@ -1810,20 +1837,6 @@ Fast Workflow Tools
 | Fix: Semester Dropdown Sorted Incorrectly (String vs Number) | Medium | [#291](https://github.com/lovelymahor/StudyMatePlus/issues/291) |
 | Fix: Mentorship Page is Blank / 404 When Accessed | Medium | [#290](https://github.com/lovelymahor/StudyMatePlus/issues/290) |
 | Feature Request: Add Login/Signup UI with Form Validation | Medium | [#289](https://github.com/lovelymahor/StudyMatePlus/issues/289) |
-| fix : Premium Design | Medium | [#288](https://github.com/lovelymahor/StudyMatePlus/pull/288) |
-| Fix: Sort semester dropdown options in syllabus page (#216) | Medium | [#287](https://github.com/lovelymahor/StudyMatePlus/pull/287) |
-| Fix broken profile avatar URL in Navbar | Medium | [#286](https://github.com/lovelymahor/StudyMatePlus/issues/286) |
-| Issue: Improve Landing Page Design & UX | Medium | [#285](https://github.com/lovelymahor/StudyMatePlus/issues/285) |
-| Bug: Add Task Allows Selecting Past Deadlines | Medium | [#284](https://github.com/lovelymahor/StudyMatePlus/issues/284) |
-| On clicking the mentorship through quick links section it shows a blank page. It could be made to display messages like "Mentors joining soon". | Medium | [#283](https://github.com/lovelymahor/StudyMatePlus/issues/283) |
-| UI Enhancement: Standardize sizing and alignment of statistics cards across sections | Medium | [#282](https://github.com/lovelymahor/StudyMatePlus/issues/282) |
-| UI Enhancement: Improve hero section layout alignment and visual spacing consistency | Medium | [#281](https://github.com/lovelymahor/StudyMatePlus/issues/281) |
-| UI Enhancement: Improve CTA button alignment and maintain consistent hover behavior | Medium | [#280](https://github.com/lovelymahor/StudyMatePlus/issues/280) |
-| Add loading skeleton animations for Notes, PYQs, and Syllabus pages | Medium | [#279](https://github.com/lovelymahor/StudyMatePlus/issues/279) |
-| Adding quiz section | Medium | [#278](https://github.com/lovelymahor/StudyMatePlus/issues/278) |
-| Fixed feedback submission API and CORS issues | Medium | [#277](https://github.com/lovelymahor/StudyMatePlus/pull/277) |
-| Fix navbar hover and focus underline styles | Medium | [#276](https://github.com/lovelymahor/StudyMatePlus/pull/276) |
-| Fix Login and Register Form Functionality | Medium | [#275](https://github.com/lovelymahor/StudyMatePlus/issues/275) |
 
 ---
 
@@ -2096,25 +2109,28 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FAQ Page: Low Color Contrast and Accessibility Issues in Light Mode | Medium | [#1471](https://github.com/SandeepVashishtha/Eventra/issues/1471) |
-| feat: replace mock event data with live API integration | Medium | [#1470](https://github.com/SandeepVashishtha/Eventra/pull/1470) |
-| Upcoming filter on Events page shows ended/past events | Medium | [#1469](https://github.com/SandeepVashishtha/Eventra/issues/1469) |
-| Direct “Learn More / Join Now” buttons in “What’s Happening Now” section to respective event/hackathon detail pages | Medium | [#1468](https://github.com/SandeepVashishtha/Eventra/issues/1468) |
-| feat: implement frontend RBAC with protected routes and role-based access control | Medium | [#1467](https://github.com/SandeepVashishtha/Eventra/pull/1467) |
-| Feature Request: Add Live Event Countdown & Reminder System | Medium | [#1466](https://github.com/SandeepVashishtha/Eventra/issues/1466) |
-| fix: prevent event overbooking with frontend safeguards and capacity … | Medium | [#1465](https://github.com/SandeepVashishtha/Eventra/pull/1465) |
-| Fix build error and SVG path warning affecting registration flow (#1437) | Medium | [#1464](https://github.com/SandeepVashishtha/Eventra/pull/1464) |
-| Sensitive Data Stored in localStorage Without Protection | Medium | [#1463](https://github.com/SandeepVashishtha/Eventra/issues/1463) |
-| Multiple Non-Functional or Placeholder Links Across UI | Medium | [#1462](https://github.com/SandeepVashishtha/Eventra/issues/1462) |
-| Chatbot window overlaps bottom navigation buttons on mobile view | Medium | [#1461](https://github.com/SandeepVashishtha/Eventra/issues/1461) |
-| [UI/UX]: Inconsistent and Non-Real-Time Form Validation UX Across Application | Medium | [#1460](https://github.com/SandeepVashishtha/Eventra/issues/1460) |
-| Duplicate API Configuration Causing Inconsistent Network Handling | Medium | [#1459](https://github.com/SandeepVashishtha/Eventra/issues/1459) |
-| Smart Event Conflict Detection & Scheduling | Medium | [#1458](https://github.com/SandeepVashishtha/Eventra/issues/1458) |
-| Feature Request: Add Event Reminder Notifications for Saved and Registered Events | Medium | [#1457](https://github.com/SandeepVashishtha/Eventra/issues/1457) |
-| ## Bug: Footer social media links redirect to generic placeholder pages | Medium | [#1453](https://github.com/SandeepVashishtha/Eventra/issues/1453) |
-| perf: optimize frontend performance with code splitting, lazy loading, and bundle cleanup | Medium | [#1450](https://github.com/SandeepVashishtha/Eventra/pull/1450) |
-| fix: optimize markAllAsRead using bulk API endpoint | Medium | [#1441](https://github.com/SandeepVashishtha/Eventra/pull/1441) |
-| feat: chatbot fab stays fixed on scroll | Medium | [#1439](https://github.com/SandeepVashishtha/Eventra/pull/1439) |
+| docs: Document the purpose of src/jhalak/ directory | Medium | [#1711](https://github.com/SandeepVashishtha/Eventra/issues/1711) |
+| Improve Header UI and Add User Information & Login Section | Medium | [#1710](https://github.com/SandeepVashishtha/Eventra/issues/1710) |
+| Add Reusable Copy Link Button with Clipboard API & Toast Feedback | Medium | [#1709](https://github.com/SandeepVashishtha/Eventra/pull/1709) |
+| fix(EventRecommendations): wrap localStorage parsing in try-catch to … | Medium | [#1708](https://github.com/SandeepVashishtha/Eventra/pull/1708) |
+| fix(AuthContext): resolve bracket syntax error and expose missing hel… | Medium | [#1707](https://github.com/SandeepVashishtha/Eventra/pull/1707) |
+| Add Unsaved Changes Protection & Draft Persistence Enhancement for Event Creation Form | Medium | [#1706](https://github.com/SandeepVashishtha/Eventra/pull/1706) |
+| Exposure of sensitive API secrets in client-side React bundle | Medium | [#1705](https://github.com/SandeepVashishtha/Eventra/issues/1705) |
+| Inconsistent hardcoded Azure Backend URLs across configuration files | Medium | [#1704](https://github.com/SandeepVashishtha/Eventra/issues/1704) |
+| Insecure storage of authentication tokens and plaintext encryption keys in localStorage | Medium | [#1703](https://github.com/SandeepVashishtha/Eventra/issues/1703) |
+| fix(EditProfile): wrap localstorage JSON parsing in try-catch to prev… | Medium | [#1701](https://github.com/SandeepVashishtha/Eventra/pull/1701) |
+| fix: replace native alert() and confirm() with react-toastify | Medium | [#1700](https://github.com/SandeepVashishtha/Eventra/pull/1700) |
+| 💫 Add Route-Aware Active Link Highlighting for Improved Navigation Experience | Medium | [#1698](https://github.com/SandeepVashishtha/Eventra/pull/1698) |
+| Fix/remove production api logs | Medium | [#1697](https://github.com/SandeepVashishtha/Eventra/pull/1697) |
+| fix: remove redundant empty beforeunload listener from SessionRecover… | Medium | [#1694](https://github.com/SandeepVashishtha/Eventra/pull/1694) |
+| fix: stabilize markAllAsRead dependency array to prevent context re-r… | Medium | [#1693](https://github.com/SandeepVashishtha/Eventra/pull/1693) |
+| fix: replace mock registration logic with real backend API integration | Medium | [#1692](https://github.com/SandeepVashishtha/Eventra/pull/1692) |
+| Enhanced reusable BackToTop component with smooth scrolling, accessibility improvements, and scroll progress indicator | Medium | [#1688](https://github.com/SandeepVashishtha/Eventra/pull/1688) |
+| fix: correct POINTS config keys to match normalized GSSoC label format in Leaderboard | Medium | [#1687](https://github.com/SandeepVashishtha/Eventra/pull/1687) |
+| fix: resolve infinite rebase abort loop in custom merge driver | Medium | [#1686](https://github.com/SandeepVashishtha/Eventra/pull/1686) |
+| feat: add sorting options for hackathons by deadline, popularity, newest, and prize amount | Medium | [#1684](https://github.com/SandeepVashishtha/Eventra/pull/1684) |
+| fix: remove unused imports and variables causing ESLint warnings | Medium | [#1683](https://github.com/SandeepVashishtha/Eventra/pull/1683) |
+| fix: move calculateTimeLeft inside useEffect to resolve exhaustive-deps warning | Medium | [#1682](https://github.com/SandeepVashishtha/Eventra/pull/1682) |
 
 ---
 
