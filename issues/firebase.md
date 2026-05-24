@@ -357,7 +357,6 @@
 | Shorten the paragraph for PR template | Easy | [#91](https://github.com/OpenVibes/ScheduleX/issues/91) |
 | Fix welcome workflow | Easy | [#90](https://github.com/OpenVibes/ScheduleX/issues/90) |
 | Account and Settings Page | Easy | [#7](https://github.com/OpenVibes/ScheduleX/issues/7) |
-| fix: prevent duplicate subject creation when Save is tapped rapidly(#106) | Medium | [#152](https://github.com/OpenVibes/ScheduleX/pull/152) |
 | made UI changes in the settings page | Medium | [#148](https://github.com/OpenVibes/ScheduleX/pull/148) |
 | Create GSSoC'25 Contribution Report Generator with Time Filtering | Medium | [#147](https://github.com/OpenVibes/ScheduleX/pull/147) |
 | Create Docker Setup for the App | Medium | [#124](https://github.com/OpenVibes/ScheduleX/issues/124) |
@@ -438,31 +437,36 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement User Authentication and Resource Upload System in StudyMatePlus | Medium | [#149](https://github.com/lovelymahor/StudyMatePlus/issues/149) |
-| UI/UX: Improve Button Consistency and Interactivity in "Ready to Ace Your Exams" Section | Medium | [#148](https://github.com/lovelymahor/StudyMatePlus/issues/148) |
-| Title: PYQ Resources Not Opening Due to Missing/Invalid PDF Links | Medium | [#147](https://github.com/lovelymahor/StudyMatePlus/issues/147) |
-| Hero section buttons are visually inconsistent and do not look cohesive | Medium | [#146](https://github.com/lovelymahor/StudyMatePlus/issues/146) |
-| CTA buttons at the bottom of the homepage are misaligned and inconsistent in styling | Medium | [#145](https://github.com/lovelymahor/StudyMatePlus/issues/145) |
-| fix(notes): improve text readability in light mode hero section | Medium | [#144](https://github.com/lovelymahor/StudyMatePlus/pull/144) |
-| Bug: "Submit Your Feedback" button is not working | Medium | [#143](https://github.com/lovelymahor/StudyMatePlus/issues/143) |
-| CTA section buttons have inconsistent styling and improper alignment | Medium | [#142](https://github.com/lovelymahor/StudyMatePlus/issues/142) |
-| Syllabus filters return no results for certain valid University, Department, and Semester combinations | Medium | [#141](https://github.com/lovelymahor/StudyMatePlus/issues/141) |
-| feat: improve homepage UI and responsiveness | Medium | [#140](https://github.com/lovelymahor/StudyMatePlus/pull/140) |
-| UI improvement for the FAQ page | Medium | [#139](https://github.com/lovelymahor/StudyMatePlus/issues/139) |
-| Expand the range of colleges for previous year question papers | Medium | [#138](https://github.com/lovelymahor/StudyMatePlus/issues/138) |
-| UI improvement for the home page of the website | Medium | [#137](https://github.com/lovelymahor/StudyMatePlus/issues/137) |
-| Frontend refurbish | Medium | [#136](https://github.com/lovelymahor/StudyMatePlus/issues/136) |
-| Inconsistent UI | Medium | [#135](https://github.com/lovelymahor/StudyMatePlus/issues/135) |
-| Optimize Hero Section Spacing and Vertical Alignment | Medium | [#134](https://github.com/lovelymahor/StudyMatePlus/issues/134) |
-| better UI desgin,animation  and hover effectof the button | Medium | [#133](https://github.com/lovelymahor/StudyMatePlus/issues/133) |
-| Enhance Mind Map into a Smart Study Planning and Revision Tool | Medium | [#132](https://github.com/lovelymahor/StudyMatePlus/issues/132) |
-| Inconsistent styling over all pages - Update UI/UX of the site | Medium | [#131](https://github.com/lovelymahor/StudyMatePlus/issues/131) |
-| Work upon the preview button. | Medium | [#130](https://github.com/lovelymahor/StudyMatePlus/issues/130) |
-| Add a simple daily study planner for students | Medium | [#125](https://github.com/lovelymahor/StudyMatePlus/issues/125) |
-| Add a New Task UI improvement | Medium | [#122](https://github.com/lovelymahor/StudyMatePlus/issues/122) |
-| realtime chat scaffold (Socket.IO, upload, UI) | Medium | [#120](https://github.com/lovelymahor/StudyMatePlus/pull/120) |
-| Implement real-time senior–student mentorship chat with persistence, moderation, and file attachments | Medium | [#119](https://github.com/lovelymahor/StudyMatePlus/issues/119) |
-| Implement JWT Authentication System with User Registration & Login | Medium | [#118](https://github.com/lovelymahor/StudyMatePlus/pull/118) |
+| "Get Started" and "Learn More" buttons are misaligned in hero section | Medium | [#318](https://github.com/lovelymahor/StudyMatePlus/issues/318) |
+| Add Dark Mode support with theme toggle | Medium | [#317](https://github.com/lovelymahor/StudyMatePlus/issues/317) |
+| Comprehensive UI/UX Enhancements for the Home Page | Medium | [#316](https://github.com/lovelymahor/StudyMatePlus/issues/316) |
+| Improve Hero Statistics Card Alignment and Visual Consistency on Notes Page | Medium | [#315](https://github.com/lovelymahor/StudyMatePlus/issues/315) |
+| Fix Button Alignment in Hero Section | Medium | [#314](https://github.com/lovelymahor/StudyMatePlus/issues/314) |
+| Authentication & Resource Bookmarking Feature Enhancement | Medium | [#313](https://github.com/lovelymahor/StudyMatePlus/issues/313) |
+| Improve homepage and navbar UI | Medium | [#312](https://github.com/lovelymahor/StudyMatePlus/pull/312) |
+| Syllabus Download & Preview buttons are non-functional — no real PDF support | Medium | [#311](https://github.com/lovelymahor/StudyMatePlus/issues/311) |
+| "View" button on PYQ cards is non-functional & data is hardcoded with no year filter | Medium | [#310](https://github.com/lovelymahor/StudyMatePlus/issues/310) |
+| feat: add dedicated Help Center page with search, FAQ accordion, and … | Medium | [#309](https://github.com/lovelymahor/StudyMatePlus/pull/309) |
+| Backend Feature for Better Scalability | Medium | [#308](https://github.com/lovelymahor/StudyMatePlus/issues/308) |
+| Improve About page UI and dark mode styling | Medium | [#307](https://github.com/lovelymahor/StudyMatePlus/pull/307) |
+| Add “Back to Top” Button on About Us & Feedback Page | Medium | [#306](https://github.com/lovelymahor/StudyMatePlus/issues/306) |
+| Add More Universities/Departments and Fix PDF Viewing Issue | Medium | [#305](https://github.com/lovelymahor/StudyMatePlus/issues/305) |
+| Adding a google login authentication page | Medium | [#304](https://github.com/lovelymahor/StudyMatePlus/issues/304) |
+| Feature Request: Complete Redesign of Input & Dropdown Filter Section At Previous year question papers accesss | Medium | [#303](https://github.com/lovelymahor/StudyMatePlus/issues/303) |
+| Add undo/redo support to MindMapEditor | Medium | [#302](https://github.com/lovelymahor/StudyMatePlus/pull/302) |
+| fix: improve active navbar highlight behavior | Medium | [#301](https://github.com/lovelymahor/StudyMatePlus/pull/301) |
+| Fix download button disabled state | Medium | [#300](https://github.com/lovelymahor/StudyMatePlus/pull/300) |
+| Enhance Footer Hover Effects | Medium | [#299](https://github.com/lovelymahor/StudyMatePlus/issues/299) |
+| Fix dark mode visibility issues across analytics, syllabus, notes, an… | Medium | [#298](https://github.com/lovelymahor/StudyMatePlus/pull/298) |
+| Frontend issues and other UI and Visual Enhancement | Medium | [#297](https://github.com/lovelymahor/StudyMatePlus/issues/297) |
+| CTA buttons misaligned in Hero/Banner section | Medium | [#296](https://github.com/lovelymahor/StudyMatePlus/issues/296) |
+| Dark mode: Headings not visible on About page and other sections | Medium | [#295](https://github.com/lovelymahor/StudyMatePlus/issues/295) |
+| Fix semester dropdown ordering issue in syllabus filter | Medium | [#294](https://github.com/lovelymahor/StudyMatePlus/pull/294) |
+| help in enhancement of CSS and structure of website and content addition of Manipal university Jaipur | Medium | [#293](https://github.com/lovelymahor/StudyMatePlus/issues/293) |
+| Fix inconsistent Contact Us navigation flow | Medium | [#292](https://github.com/lovelymahor/StudyMatePlus/pull/292) |
+| Fix: Semester Dropdown Sorted Incorrectly (String vs Number) | Medium | [#291](https://github.com/lovelymahor/StudyMatePlus/issues/291) |
+| Fix: Mentorship Page is Blank / 404 When Accessed | Medium | [#290](https://github.com/lovelymahor/StudyMatePlus/issues/290) |
+| Feature Request: Add Login/Signup UI with Form Validation | Medium | [#289](https://github.com/lovelymahor/StudyMatePlus/issues/289) |
 
 ---
 
