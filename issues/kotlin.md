@@ -85,26 +85,6 @@ User Profile: BMI calculator and fitness analytics.
 
 ---
 
-## 📌 Project: Canvas
-
-📝 **Description:** A Kotlin Multiplatform Paint application to pain and draw Sketch Doodle. This application uses local storage to store drawings and doesn't require any internet access.
-
-🔗 [View Project](https://github.com/Rajkumarbhakta/Canvas)
-
-💻 **Tech Stack:** Kotlin, Kotlin Multiplatform, Compose Multiplatform
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add dark mode canvas with drawing and bright brush colors | Medium | [#34](https://github.com/Rajkumarbhakta/Canvas/pull/34) |
-| Add Shape Drawing Tools (Circle, Square, Line) | Medium | [#32](https://github.com/Rajkumarbhakta/Canvas/issues/32) |
-| Made DrawingScreen mobile friendly | Medium | [#29](https://github.com/Rajkumarbhakta/Canvas/pull/29) |
-
----
-
 ## 📌 Project: ShopSmart
 
 📝 **Description:** By ShopSmart we provide Smart Shopping from Local Stores.
