@@ -1,5 +1,23 @@
 # 🚀 Projects using C++
 
+## 📌 Project: Healconnect 
+
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
+
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fix: Correct vital threshold checking range clinical logic bug and up… | Medium | [#738](https://github.com/Dipanita45/HEALCONNECT/pull/738) |
+
+---
+
 ## 📌 Project: cpp-sdk-appwrite
 
 📝 **Description:** The first ever C++ SDK for Appwrite, build from scratch!
@@ -35,7 +53,12 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
-| fix: resolve potential subprocess deadlock in run_pipe | Medium | [#272](https://github.com/SharonIV0x86/CinderPeak/pull/272) |
+| fix(warnings): resolve MSVC compiler warnings in PeakLogger and Concepts | Medium | [#283](https://github.com/SharonIV0x86/CinderPeak/pull/283) |
+| Implement Intelligent Recommendation Engine for User Actions and Resources | Medium | [#282](https://github.com/SharonIV0x86/CinderPeak/issues/282) |
+| Add Global Search and Quick Navigation Command Palette | Medium | [#281](https://github.com/SharonIV0x86/CinderPeak/issues/281) |
+| Fix [[nodiscard]] compiler warnings in AdjacencyShardMT | Medium | [#280](https://github.com/SharonIV0x86/CinderPeak/issues/280) |
+| feat(events): Add Vertex related events via event-driven system | Medium | [#278](https://github.com/SharonIV0x86/CinderPeak/pull/278) |
+| refactor(tests): resolve nodiscard compiler warnings in AdjacencyShardMT | Medium | [#277](https://github.com/SharonIV0x86/CinderPeak/pull/277) |
 
 ---
 
