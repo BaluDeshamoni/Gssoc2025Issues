@@ -420,6 +420,24 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
+## 📌 Project: Healconnect 
+
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
+
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Fix: Correct vital threshold checking range clinical logic bug and up… | Medium | [#738](https://github.com/Dipanita45/HEALCONNECT/pull/738) |
+
+---
+
 ## 📌 Project: Blogging Platform
 
 📝 **Description:** User friendly Interface where users can create accounts and post blogs on any topic and also allows users to read other blogs based on preference and intrest ,also allows sharing 
@@ -681,6 +699,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance footer link hover effects and add responsive scroll-to-top bu… | Medium | [#1781](https://github.com/omroy07/AgriTech/pull/1781) |
+| feat: add green sparkle cursor effect to diease page | Medium | [#1780](https://github.com/omroy07/AgriTech/pull/1780) |
+| fix: make user selector and action buttons responsive | Medium | [#1779](https://github.com/omroy07/AgriTech/pull/1779) |
 | Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
@@ -689,9 +710,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
 | Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
-| Navbar UI Broken on main page | Medium | [#1084](https://github.com/omroy07/AgriTech/issues/1084) |
 | Prediction Result Comparison (Current vs Previous) | Medium | [#1056](https://github.com/omroy07/AgriTech/issues/1056) |
-| AgriTech – Blog Page Not Loading & Buttons Not Working | Medium | [#951](https://github.com/omroy07/AgriTech/issues/951) |
 
 ---
 
@@ -1026,7 +1045,13 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Align blog post author card with reference layout in production | Medium | [#1634](https://github.com/recodehive/recode-website/pull/1634) |
+| fix dual color on dark theme | Easy | [#1696](https://github.com/recodehive/recode-website/pull/1696) |
+| Feature: Support dynamic testimonial avatar images on Careers page | Easy | [#1695](https://github.com/recodehive/recode-website/issues/1695) |
+| Make the same card on blog page to main page | Easy | [#1694](https://github.com/recodehive/recode-website/issues/1694) |
+| Text not readable | Easy | [#1693](https://github.com/recodehive/recode-website/issues/1693) |
+| Spacing on mobile view | Easy | [#1692](https://github.com/recodehive/recode-website/issues/1692) |
+| Fix mobile layout for footer component | Easy | [#1691](https://github.com/recodehive/recode-website/pull/1691) |
+| Fixed  dark mode readability issue | Easy | [#1677](https://github.com/recodehive/recode-website/pull/1677) |
 
 ---
 
@@ -1795,6 +1820,20 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| "Get Started" and "Learn More" buttons are misaligned in hero section | Medium | [#318](https://github.com/lovelymahor/StudyMatePlus/issues/318) |
+| Add Dark Mode support with theme toggle | Medium | [#317](https://github.com/lovelymahor/StudyMatePlus/issues/317) |
+| Comprehensive UI/UX Enhancements for the Home Page | Medium | [#316](https://github.com/lovelymahor/StudyMatePlus/issues/316) |
+| Improve Hero Statistics Card Alignment and Visual Consistency on Notes Page | Medium | [#315](https://github.com/lovelymahor/StudyMatePlus/issues/315) |
+| Fix Button Alignment in Hero Section | Medium | [#314](https://github.com/lovelymahor/StudyMatePlus/issues/314) |
+| Authentication & Resource Bookmarking Feature Enhancement | Medium | [#313](https://github.com/lovelymahor/StudyMatePlus/issues/313) |
+| Improve homepage and navbar UI | Medium | [#312](https://github.com/lovelymahor/StudyMatePlus/pull/312) |
+| Syllabus Download & Preview buttons are non-functional — no real PDF support | Medium | [#311](https://github.com/lovelymahor/StudyMatePlus/issues/311) |
+| "View" button on PYQ cards is non-functional & data is hardcoded with no year filter | Medium | [#310](https://github.com/lovelymahor/StudyMatePlus/issues/310) |
+| feat: add dedicated Help Center page with search, FAQ accordion, and … | Medium | [#309](https://github.com/lovelymahor/StudyMatePlus/pull/309) |
+| Backend Feature for Better Scalability | Medium | [#308](https://github.com/lovelymahor/StudyMatePlus/issues/308) |
+| Improve About page UI and dark mode styling | Medium | [#307](https://github.com/lovelymahor/StudyMatePlus/pull/307) |
+| Add “Back to Top” Button on About Us & Feedback Page | Medium | [#306](https://github.com/lovelymahor/StudyMatePlus/issues/306) |
+| Add More Universities/Departments and Fix PDF Viewing Issue | Medium | [#305](https://github.com/lovelymahor/StudyMatePlus/issues/305) |
 | Adding a google login authentication page | Medium | [#304](https://github.com/lovelymahor/StudyMatePlus/issues/304) |
 | Feature Request: Complete Redesign of Input & Dropdown Filter Section At Previous year question papers accesss | Medium | [#303](https://github.com/lovelymahor/StudyMatePlus/issues/303) |
 | Add undo/redo support to MindMapEditor | Medium | [#302](https://github.com/lovelymahor/StudyMatePlus/pull/302) |
@@ -1811,20 +1850,6 @@ Fast Workflow Tools
 | Fix: Semester Dropdown Sorted Incorrectly (String vs Number) | Medium | [#291](https://github.com/lovelymahor/StudyMatePlus/issues/291) |
 | Fix: Mentorship Page is Blank / 404 When Accessed | Medium | [#290](https://github.com/lovelymahor/StudyMatePlus/issues/290) |
 | Feature Request: Add Login/Signup UI with Form Validation | Medium | [#289](https://github.com/lovelymahor/StudyMatePlus/issues/289) |
-| fix : Premium Design | Medium | [#288](https://github.com/lovelymahor/StudyMatePlus/pull/288) |
-| Fix: Sort semester dropdown options in syllabus page (#216) | Medium | [#287](https://github.com/lovelymahor/StudyMatePlus/pull/287) |
-| Fix broken profile avatar URL in Navbar | Medium | [#286](https://github.com/lovelymahor/StudyMatePlus/issues/286) |
-| Issue: Improve Landing Page Design & UX | Medium | [#285](https://github.com/lovelymahor/StudyMatePlus/issues/285) |
-| Bug: Add Task Allows Selecting Past Deadlines | Medium | [#284](https://github.com/lovelymahor/StudyMatePlus/issues/284) |
-| On clicking the mentorship through quick links section it shows a blank page. It could be made to display messages like "Mentors joining soon". | Medium | [#283](https://github.com/lovelymahor/StudyMatePlus/issues/283) |
-| UI Enhancement: Standardize sizing and alignment of statistics cards across sections | Medium | [#282](https://github.com/lovelymahor/StudyMatePlus/issues/282) |
-| UI Enhancement: Improve hero section layout alignment and visual spacing consistency | Medium | [#281](https://github.com/lovelymahor/StudyMatePlus/issues/281) |
-| UI Enhancement: Improve CTA button alignment and maintain consistent hover behavior | Medium | [#280](https://github.com/lovelymahor/StudyMatePlus/issues/280) |
-| Add loading skeleton animations for Notes, PYQs, and Syllabus pages | Medium | [#279](https://github.com/lovelymahor/StudyMatePlus/issues/279) |
-| Adding quiz section | Medium | [#278](https://github.com/lovelymahor/StudyMatePlus/issues/278) |
-| Fixed feedback submission API and CORS issues | Medium | [#277](https://github.com/lovelymahor/StudyMatePlus/pull/277) |
-| Fix navbar hover and focus underline styles | Medium | [#276](https://github.com/lovelymahor/StudyMatePlus/pull/276) |
-| Fix Login and Register Form Functionality | Medium | [#275](https://github.com/lovelymahor/StudyMatePlus/issues/275) |
 
 ---
 
