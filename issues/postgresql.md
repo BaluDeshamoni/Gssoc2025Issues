@@ -115,36 +115,15 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add AI speaker coach panel for presentations | Medium | [#720](https://github.com/Muneerali199/Draftdeckai/pull/720) |
-| feat: improve ATS explainability and section feedback | Medium | [#719](https://github.com/Muneerali199/Draftdeckai/pull/719) |
-| feat: add multi-select formatting actions in editor | Medium | [#718](https://github.com/Muneerali199/Draftdeckai/pull/718) |
-| dx: add stale PR and issue triage automation | Medium | [#717](https://github.com/Muneerali199/Draftdeckai/pull/717) |
-| test: add auth regression tests for protected API routestest: add auth regression tests | Medium | [#716](https://github.com/Muneerali199/Draftdeckai/pull/716) |
-| Fix/request validation security | Medium | [#715](https://github.com/Muneerali199/Draftdeckai/pull/715) |
-| feat: add showcase feed with ranking algorithm for resume/presentation discovery | Medium | [#714](https://github.com/Muneerali199/Draftdeckai/pull/714) |
-| feat: implement Plausible analytics, UTM capture, and signup attribution | Medium | [#713](https://github.com/Muneerali199/Draftdeckai/pull/713) |
-| fix(pricing): remove duplicate payment methods section | Medium | [#712](https://github.com/Muneerali199/Draftdeckai/pull/712) |
-| Fix/use shared Zod validation in Quick Resume Generate tab | Medium | [#711](https://github.com/Muneerali199/Draftdeckai/pull/711) |
-| [Security/Feature] 🔴 No rate limiting on AI API routes — unlimited requests can drain API credits and abuse the service | Medium | [#710](https://github.com/Muneerali199/Draftdeckai/issues/710) |
-| fix(diagram): improve mobile responsiveness of toolbar and export options | Medium | [#709](https://github.com/Muneerali199/Draftdeckai/pull/709) |
-| refactor(share): extract share logic to hook and clean up debug console logs | Medium | [#708](https://github.com/Muneerali199/Draftdeckai/pull/708) |
-| fix(theme): persist theme preference, respect system default, prevent FOUC (#654) | Medium | [#707](https://github.com/Muneerali199/Draftdeckai/pull/707) |
-| feat: add global and page-specific Next.js metadata and OG image | Medium | [#706](https://github.com/Muneerali199/Draftdeckai/pull/706) |
-| feat(hooks): add reusable useShare hook and refactor share duplication (#660) | Medium | [#705](https://github.com/Muneerali199/Draftdeckai/pull/705) |
-| refactor: optimize auto-save with state diffing, add fetch abort cont… | Medium | [#704](https://github.com/Muneerali199/Draftdeckai/pull/704) |
-| Add PDF export for presentations issue#652 | Medium | [#703](https://github.com/Muneerali199/Draftdeckai/pull/703) |
-| fix(search): replace sample index with Supabase query and add pagination (#661) | Medium | [#702](https://github.com/Muneerali199/Draftdeckai/pull/702) |
-| test: add unit tests for credit-operations and validation libraries (#663) | Medium | [#701](https://github.com/Muneerali199/Draftdeckai/pull/701) |
-| # 🔴 Raw console.error Used Across API Routes | Medium | [#700](https://github.com/Muneerali199/Draftdeckai/issues/700) |
-| # 🔴 dispatchErrorAlert Called Without Await (Unhandled Promise) | Medium | [#699](https://github.com/Muneerali199/Draftdeckai/issues/699) |
-| # 🔴  Global setInterval in Middleware Causes Memory/Worker Leak | Medium | [#698](https://github.com/Muneerali199/Draftdeckai/issues/698) |
-| # 🔴 Placeholder Allowed-Origin URL Shipped to Production | Medium | [#697](https://github.com/Muneerali199/Draftdeckai/issues/697) |
-| # 🔴Hardcoded Developer Email Bypass in Production | Medium | [#696](https://github.com/Muneerali199/Draftdeckai/issues/696) |
-| feat(testing): add automated accessibility testing with Playwright | Medium | [#695](https://github.com/Muneerali199/Draftdeckai/pull/695) |
-| Feature/dark mode persistence | Medium | [#694](https://github.com/Muneerali199/Draftdeckai/pull/694) |
-| Setup Go backend module structure for migration | Medium | [#693](https://github.com/Muneerali199/Draftdeckai/pull/693) |
-| Feat/ats explainability panel | Medium | [#692](https://github.com/Muneerali199/Draftdeckai/pull/692) |
-| Feature : Improve PDF export quality | Medium | [#691](https://github.com/Muneerali199/Draftdeckai/pull/691) |
+| [Security] DEVELOPER_BYPASS_EMAILS can bypass credit checks without production guardrails | Medium | [#832](https://github.com/Muneerali199/Draftdeckai/issues/832) |
+| chore: add .editorconfig for consistent coding styles | Medium | [#831](https://github.com/Muneerali199/Draftdeckai/pull/831) |
+| fix: remove debug console.log statements from production code | Medium | [#812](https://github.com/Muneerali199/Draftdeckai/pull/812) |
+| feat: added data export feature | Medium | [#803](https://github.com/Muneerali199/Draftdeckai/pull/803) |
+| Fix/comprehensive code audit 20 issues | Medium | [#798](https://github.com/Muneerali199/Draftdeckai/pull/798) |
+| feat: configure CDN assetPrefix for self-hosted asset delivery | Medium | [#795](https://github.com/Muneerali199/Draftdeckai/pull/795) |
+| Fix/seo canonical urls and utm | Medium | [#769](https://github.com/Muneerali199/Draftdeckai/pull/769) |
+| feat: Add PPT slide quality guardrails before export (fixes #580) | Medium | [#761](https://github.com/Muneerali199/Draftdeckai/pull/761) |
+| In-memory rate limiter in middleware.ts resets on every serverless function cold start — rate limiting is completely ineffective in production | Hard | [#776](https://github.com/Muneerali199/Draftdeckai/issues/776) |
 
 ---
 
@@ -355,28 +334,17 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: Document the purpose of src/jhalak/ directory | Medium | [#1711](https://github.com/SandeepVashishtha/Eventra/issues/1711) |
-| Improve Header UI and Add User Information & Login Section | Medium | [#1710](https://github.com/SandeepVashishtha/Eventra/issues/1710) |
-| Add Reusable Copy Link Button with Clipboard API & Toast Feedback | Medium | [#1709](https://github.com/SandeepVashishtha/Eventra/pull/1709) |
-| fix(EventRecommendations): wrap localStorage parsing in try-catch to … | Medium | [#1708](https://github.com/SandeepVashishtha/Eventra/pull/1708) |
-| fix(AuthContext): resolve bracket syntax error and expose missing hel… | Medium | [#1707](https://github.com/SandeepVashishtha/Eventra/pull/1707) |
-| Add Unsaved Changes Protection & Draft Persistence Enhancement for Event Creation Form | Medium | [#1706](https://github.com/SandeepVashishtha/Eventra/pull/1706) |
-| Exposure of sensitive API secrets in client-side React bundle | Medium | [#1705](https://github.com/SandeepVashishtha/Eventra/issues/1705) |
-| Inconsistent hardcoded Azure Backend URLs across configuration files | Medium | [#1704](https://github.com/SandeepVashishtha/Eventra/issues/1704) |
-| Insecure storage of authentication tokens and plaintext encryption keys in localStorage | Medium | [#1703](https://github.com/SandeepVashishtha/Eventra/issues/1703) |
-| fix(EditProfile): wrap localstorage JSON parsing in try-catch to prev… | Medium | [#1701](https://github.com/SandeepVashishtha/Eventra/pull/1701) |
-| fix: replace native alert() and confirm() with react-toastify | Medium | [#1700](https://github.com/SandeepVashishtha/Eventra/pull/1700) |
-| 💫 Add Route-Aware Active Link Highlighting for Improved Navigation Experience | Medium | [#1698](https://github.com/SandeepVashishtha/Eventra/pull/1698) |
-| Fix/remove production api logs | Medium | [#1697](https://github.com/SandeepVashishtha/Eventra/pull/1697) |
-| fix: remove redundant empty beforeunload listener from SessionRecover… | Medium | [#1694](https://github.com/SandeepVashishtha/Eventra/pull/1694) |
-| fix: stabilize markAllAsRead dependency array to prevent context re-r… | Medium | [#1693](https://github.com/SandeepVashishtha/Eventra/pull/1693) |
-| fix: replace mock registration logic with real backend API integration | Medium | [#1692](https://github.com/SandeepVashishtha/Eventra/pull/1692) |
-| Enhanced reusable BackToTop component with smooth scrolling, accessibility improvements, and scroll progress indicator | Medium | [#1688](https://github.com/SandeepVashishtha/Eventra/pull/1688) |
-| fix: correct POINTS config keys to match normalized GSSoC label format in Leaderboard | Medium | [#1687](https://github.com/SandeepVashishtha/Eventra/pull/1687) |
-| fix: resolve infinite rebase abort loop in custom merge driver | Medium | [#1686](https://github.com/SandeepVashishtha/Eventra/pull/1686) |
-| feat: add sorting options for hackathons by deadline, popularity, newest, and prize amount | Medium | [#1684](https://github.com/SandeepVashishtha/Eventra/pull/1684) |
-| fix: remove unused imports and variables causing ESLint warnings | Medium | [#1683](https://github.com/SandeepVashishtha/Eventra/pull/1683) |
-| fix: move calculateTimeLeft inside useEffect to resolve exhaustive-deps warning | Medium | [#1682](https://github.com/SandeepVashishtha/Eventra/pull/1682) |
+| enhancement: standardize visible focus outlines across interactive forms | Medium | [#4846](https://github.com/SandeepVashishtha/Eventra/issues/4846) |
+| Rate limiting in ai-recommendations.js is inconsistent across serverless instances | Medium | [#4845](https://github.com/SandeepVashishtha/Eventra/issues/4845) |
+| Fix: Broken TOC anchor link in README | Medium | [#4843](https://github.com/SandeepVashishtha/Eventra/issues/4843) |
+| Fix runtime error in signup.js: crypto.randomUUID() used without importing crypto | Medium | [#4841](https://github.com/SandeepVashishtha/Eventra/issues/4841) |
+| test : add unit tests for validationApi response helpers | Medium | [#4837](https://github.com/SandeepVashishtha/Eventra/issues/4837) |
+| test : add unit tests for inputSanitization utilities | Medium | [#4834](https://github.com/SandeepVashishtha/Eventra/issues/4834) |
+| test : add unit tests for jsonUtils safeParseJson | Medium | [#4830](https://github.com/SandeepVashishtha/Eventra/issues/4830) |
+| test : add unit tests for advancedFilterUtils utility | Medium | [#4829](https://github.com/SandeepVashishtha/Eventra/issues/4829) |
+| test : add unit tests for notificationPreferences utility | Medium | [#4827](https://github.com/SandeepVashishtha/Eventra/issues/4827) |
+| test : add unit tests for errorLogger utility | Medium | [#4825](https://github.com/SandeepVashishtha/Eventra/issues/4825) |
+| test : add unit tests for asyncValidators utility | Medium | [#4823](https://github.com/SandeepVashishtha/Eventra/issues/4823) |
 
 ---
 
