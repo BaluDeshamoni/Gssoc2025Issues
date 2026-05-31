@@ -1,23 +1,5 @@
 # 🚀 Projects using C++
 
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Fix: Correct vital threshold checking range clinical logic bug and up… | Medium | [#738](https://github.com/Dipanita45/HEALCONNECT/pull/738) |
-
----
-
 ## 📌 Project: cpp-sdk-appwrite
 
 📝 **Description:** The first ever C++ SDK for Appwrite, build from scratch!
@@ -53,12 +35,14 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
-| fix(warnings): resolve MSVC compiler warnings in PeakLogger and Concepts | Medium | [#283](https://github.com/SharonIV0x86/CinderPeak/pull/283) |
-| Implement Intelligent Recommendation Engine for User Actions and Resources | Medium | [#282](https://github.com/SharonIV0x86/CinderPeak/issues/282) |
-| Add Global Search and Quick Navigation Command Palette | Medium | [#281](https://github.com/SharonIV0x86/CinderPeak/issues/281) |
-| Fix [[nodiscard]] compiler warnings in AdjacencyShardMT | Medium | [#280](https://github.com/SharonIV0x86/CinderPeak/issues/280) |
-| feat(events): Add Vertex related events via event-driven system | Medium | [#278](https://github.com/SharonIV0x86/CinderPeak/pull/278) |
-| refactor(tests): resolve nodiscard compiler warnings in AdjacencyShardMT | Medium | [#277](https://github.com/SharonIV0x86/CinderPeak/pull/277) |
+| Fixed incorrect impl_doesEdgeExist log messages in AdjacencyList | Medium | [#308](https://github.com/SharonIV0x86/CinderPeak/pull/308) |
+| style: Fix typos and grammatical errors in Adjacency List logging strings | Medium | [#307](https://github.com/SharonIV0x86/CinderPeak/issues/307) |
+| docs: add comprehensive docstrings to build.py | Medium | [#305](https://github.com/SharonIV0x86/CinderPeak/pull/305) |
+| fix(warnings): Resolve nodiscard compiler warnings in AdjacencyListTestBase.hpp | Medium | [#303](https://github.com/SharonIV0x86/CinderPeak/pull/303) |
+| fix: add missing optsU declaration in README example | Medium | [#301](https://github.com/SharonIV0x86/CinderPeak/pull/301) |
+| docs: Add beginner guide for new contributors | Medium | [#299](https://github.com/SharonIV0x86/CinderPeak/issues/299) |
+| fix: implement thread-safe visitor pattern to resolve iterator invali… | Medium | [#297](https://github.com/SharonIV0x86/CinderPeak/pull/297) |
+| docs: add beginner guide for CinderPeak | Medium | [#296](https://github.com/SharonIV0x86/CinderPeak/pull/296) |
 
 ---
 
