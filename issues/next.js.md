@@ -158,14 +158,20 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: improve mobile responsiveness on issues page | Medium | [#4712](https://github.com/OWASP/Nest/pull/4712) |
-| Extract bootstrap-nest-infrastructure into a separate workflow | Medium | [#4711](https://github.com/OWASP/Nest/pull/4711) |
-| Extract scan-images into a separate workflow | Medium | [#4710](https://github.com/OWASP/Nest/pull/4710) |
-| Extract staging jobs into a separate workflow | Medium | [#4701](https://github.com/OWASP/Nest/pull/4701) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4697](https://github.com/OWASP/Nest/pull/4697) |
-| Tighten checks for project leaders on creating a Program | Medium | [#4695](https://github.com/OWASP/Nest/pull/4695) |
-| Add Task Level Admin Functionality to Mentorship Portal | Medium | [#4689](https://github.com/OWASP/Nest/issues/4689) |
-| feat(projects): add health indicators to project cards | Medium | [#4678](https://github.com/OWASP/Nest/pull/4678) |
+| ci: disable credential persistence in checkout steps | Medium | [#4817](https://github.com/OWASP/Nest/pull/4817) |
+| Snapshot model field | Medium | [#4816](https://github.com/OWASP/Nest/pull/4816) |
+| chore(deps): bump tailwind-merge in /frontend | Medium | [#4815](https://github.com/OWASP/Nest/pull/4815) |
+| chore(deps): bump posthog-js in /frontend | Medium | [#4814](https://github.com/OWASP/Nest/pull/4814) |
+| chore(deps): bump apexcharts in /frontend | Medium | [#4813](https://github.com/OWASP/Nest/pull/4813) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4811](https://github.com/OWASP/Nest/pull/4811) |
+| Extract run-zap-baseline-scan into a reusable workflow | Medium | [#4808](https://github.com/OWASP/Nest/pull/4808) |
+| Implement GraphQL Queries and Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
+| Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
+| Improve header accessibility and keyboard navigation support | Medium | [#4804](https://github.com/OWASP/Nest/issues/4804) |
+| Feat/revamp member profile page | Medium | [#4797](https://github.com/OWASP/Nest/pull/4797) |
+| Introduce GitHub action/workflow files pre-commit checks | Medium | [#4746](https://github.com/OWASP/Nest/issues/4746) |
+| Add Django Models for Candidate Claim Data | Medium | [#4743](https://github.com/OWASP/Nest/pull/4743) |
+| Added contribution recognition core data models | Medium | [#4736](https://github.com/OWASP/Nest/pull/4736) |
 
 ---
 
@@ -189,24 +195,6 @@
 | Feature/accessibility improvements [GSSoC 2025] | Medium | [#127](https://github.com/AyushSharma72/Skill_Trade/pull/127) |
 | Add GSSoC'25 Banner. | Medium | [#126](https://github.com/AyushSharma72/Skill_Trade/issues/126) |
 | Fix the mobile responsiveness of contact form on contact page | Medium | [#123](https://github.com/AyushSharma72/Skill_Trade/issues/123) |
-
----
-
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Fix: Correct vital threshold checking range clinical logic bug and up… | Medium | [#738](https://github.com/Dipanita45/HEALCONNECT/pull/738) |
 
 ---
 
@@ -340,36 +328,36 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add AI speaker coach panel for presentations | Medium | [#720](https://github.com/Muneerali199/Draftdeckai/pull/720) |
-| feat: improve ATS explainability and section feedback | Medium | [#719](https://github.com/Muneerali199/Draftdeckai/pull/719) |
-| feat: add multi-select formatting actions in editor | Medium | [#718](https://github.com/Muneerali199/Draftdeckai/pull/718) |
-| dx: add stale PR and issue triage automation | Medium | [#717](https://github.com/Muneerali199/Draftdeckai/pull/717) |
-| test: add auth regression tests for protected API routestest: add auth regression tests | Medium | [#716](https://github.com/Muneerali199/Draftdeckai/pull/716) |
-| Fix/request validation security | Medium | [#715](https://github.com/Muneerali199/Draftdeckai/pull/715) |
-| feat: add showcase feed with ranking algorithm for resume/presentation discovery | Medium | [#714](https://github.com/Muneerali199/Draftdeckai/pull/714) |
-| feat: implement Plausible analytics, UTM capture, and signup attribution | Medium | [#713](https://github.com/Muneerali199/Draftdeckai/pull/713) |
-| fix(pricing): remove duplicate payment methods section | Medium | [#712](https://github.com/Muneerali199/Draftdeckai/pull/712) |
-| Fix/use shared Zod validation in Quick Resume Generate tab | Medium | [#711](https://github.com/Muneerali199/Draftdeckai/pull/711) |
-| [Security/Feature] 🔴 No rate limiting on AI API routes — unlimited requests can drain API credits and abuse the service | Medium | [#710](https://github.com/Muneerali199/Draftdeckai/issues/710) |
-| fix(diagram): improve mobile responsiveness of toolbar and export options | Medium | [#709](https://github.com/Muneerali199/Draftdeckai/pull/709) |
-| refactor(share): extract share logic to hook and clean up debug console logs | Medium | [#708](https://github.com/Muneerali199/Draftdeckai/pull/708) |
-| fix(theme): persist theme preference, respect system default, prevent FOUC (#654) | Medium | [#707](https://github.com/Muneerali199/Draftdeckai/pull/707) |
-| feat: add global and page-specific Next.js metadata and OG image | Medium | [#706](https://github.com/Muneerali199/Draftdeckai/pull/706) |
-| feat(hooks): add reusable useShare hook and refactor share duplication (#660) | Medium | [#705](https://github.com/Muneerali199/Draftdeckai/pull/705) |
-| refactor: optimize auto-save with state diffing, add fetch abort cont… | Medium | [#704](https://github.com/Muneerali199/Draftdeckai/pull/704) |
-| Add PDF export for presentations issue#652 | Medium | [#703](https://github.com/Muneerali199/Draftdeckai/pull/703) |
-| fix(search): replace sample index with Supabase query and add pagination (#661) | Medium | [#702](https://github.com/Muneerali199/Draftdeckai/pull/702) |
-| test: add unit tests for credit-operations and validation libraries (#663) | Medium | [#701](https://github.com/Muneerali199/Draftdeckai/pull/701) |
-| # 🔴 Raw console.error Used Across API Routes | Medium | [#700](https://github.com/Muneerali199/Draftdeckai/issues/700) |
-| # 🔴 dispatchErrorAlert Called Without Await (Unhandled Promise) | Medium | [#699](https://github.com/Muneerali199/Draftdeckai/issues/699) |
-| # 🔴  Global setInterval in Middleware Causes Memory/Worker Leak | Medium | [#698](https://github.com/Muneerali199/Draftdeckai/issues/698) |
-| # 🔴 Placeholder Allowed-Origin URL Shipped to Production | Medium | [#697](https://github.com/Muneerali199/Draftdeckai/issues/697) |
-| # 🔴Hardcoded Developer Email Bypass in Production | Medium | [#696](https://github.com/Muneerali199/Draftdeckai/issues/696) |
-| feat(testing): add automated accessibility testing with Playwright | Medium | [#695](https://github.com/Muneerali199/Draftdeckai/pull/695) |
-| Feature/dark mode persistence | Medium | [#694](https://github.com/Muneerali199/Draftdeckai/pull/694) |
-| Setup Go backend module structure for migration | Medium | [#693](https://github.com/Muneerali199/Draftdeckai/pull/693) |
-| Feat/ats explainability panel | Medium | [#692](https://github.com/Muneerali199/Draftdeckai/pull/692) |
-| Feature : Improve PDF export quality | Medium | [#691](https://github.com/Muneerali199/Draftdeckai/pull/691) |
+| Add a Local Development Troubleshooting section to FAQ.md | Easy | [#913](https://github.com/Muneerali199/Draftdeckai/issues/913) |
+| [Feature]: Add environment variable validation at startup | Easy | [#901](https://github.com/Muneerali199/Draftdeckai/issues/901) |
+| [Feature]: Complete docker-compose with PostgreSQL and Next.js services | Easy | [#896](https://github.com/Muneerali199/Draftdeckai/issues/896) |
+| [Cleanup]: Remove test/debug files from production extension bundle | Easy | [#889](https://github.com/Muneerali199/Draftdeckai/issues/889) |
+| [Bug]: Duplicate event listeners in popup.js — study plan handler registered twice | Easy | [#888](https://github.com/Muneerali199/Draftdeckai/issues/888) |
+| Bug: POST /api/analyze/resume has no authentication and no file size limit, enabling anonymous abuse and memory exhaustion | Medium | [#919](https://github.com/Muneerali199/Draftdeckai/issues/919) |
+| security: share CORS and security headers | Medium | [#918](https://github.com/Muneerali199/Draftdeckai/pull/918) |
+| fix: return created status for creation APIs | Medium | [#917](https://github.com/Muneerali199/Draftdeckai/pull/917) |
+| Fix/developer bypass guard | Medium | [#916](https://github.com/Muneerali199/Draftdeckai/pull/916) |
+| docs: add comprehensive local troubleshooting section to FAQ closes #913 | Medium | [#915](https://github.com/Muneerali199/Draftdeckai/pull/915) |
+| refactor: consolidate generation APIs under /api/v2/generate (#849) | Medium | [#914](https://github.com/Muneerali199/Draftdeckai/pull/914) |
+| feat: add team workspaces with shared templates and collaboration (#848) | Medium | [#912](https://github.com/Muneerali199/Draftdeckai/pull/912) |
+| feat: added validator that rejects unauthorized msgs | Medium | [#911](https://github.com/Muneerali199/Draftdeckai/pull/911) |
+| refactor: completely remove firebase dependencies and config (#858) | Medium | [#910](https://github.com/Muneerali199/Draftdeckai/pull/910) |
+| fix(extension): expose mcp server without module export | Medium | [#907](https://github.com/Muneerali199/Draftdeckai/pull/907) |
+| Implemented a lightweight Semantic Memory & Context Compression pipeline for long‑form document generation | Medium | [#906](https://github.com/Muneerali199/Draftdeckai/pull/906) |
+| Feature/ai resume translator | Medium | [#905](https://github.com/Muneerali199/Draftdeckai/pull/905) |
+| feat : add animated loading screens and skeletons for all route pages | Medium | [#904](https://github.com/Muneerali199/Draftdeckai/pull/904) |
+| security: share CORS and security header config | Medium | [#903](https://github.com/Muneerali199/Draftdeckai/pull/903) |
+| [Feature]: Add graceful shutdown with signal handling | Medium | [#902](https://github.com/Muneerali199/Draftdeckai/issues/902) |
+| [Feature]: Implement RBAC middleware for role-based access control | Medium | [#900](https://github.com/Muneerali199/Draftdeckai/issues/900) |
+| [Testing]: Write unit tests for auth middleware, error utils, and custom middleware | Medium | [#897](https://github.com/Muneerali199/Draftdeckai/issues/897) |
+| [Feature]: Make readyz endpoint actually check downstream dependencies | Medium | [#895](https://github.com/Muneerali199/Draftdeckai/issues/895) |
+| [UX]: Add opt-in consent for LinkedIn profile data extraction | Medium | [#892](https://github.com/Muneerali199/Draftdeckai/issues/892) |
+| [Refactor]: Add structured logging with slog | Hard | [#899](https://github.com/Muneerali199/Draftdeckai/issues/899) |
+| [Security]: Add JWT audience and issuer validation | Hard | [#898](https://github.com/Muneerali199/Draftdeckai/issues/898) |
+| [Feature]: Add rate limiting middleware | Hard | [#894](https://github.com/Muneerali199/Draftdeckai/issues/894) |
+| [Feature]: Add PostgreSQL database layer with pgx connection pooling | Hard | [#893](https://github.com/Muneerali199/Draftdeckai/issues/893) |
+| [Security]: Add sender ID validation to message handler to prevent cross-extension attacks | Hard | [#891](https://github.com/Muneerali199/Draftdeckai/issues/891) |
+| [Security]: Move Gemini API key from URL query param to HTTP header | Hard | [#890](https://github.com/Muneerali199/Draftdeckai/issues/890) |
 
 ---
 
@@ -481,13 +469,18 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix dual color on dark theme | Easy | [#1696](https://github.com/recodehive/recode-website/pull/1696) |
-| Feature: Support dynamic testimonial avatar images on Careers page | Easy | [#1695](https://github.com/recodehive/recode-website/issues/1695) |
-| Make the same card on blog page to main page | Easy | [#1694](https://github.com/recodehive/recode-website/issues/1694) |
-| Text not readable | Easy | [#1693](https://github.com/recodehive/recode-website/issues/1693) |
-| Spacing on mobile view | Easy | [#1692](https://github.com/recodehive/recode-website/issues/1692) |
-| Fix mobile layout for footer component | Easy | [#1691](https://github.com/recodehive/recode-website/pull/1691) |
-| Fixed  dark mode readability issue | Easy | [#1677](https://github.com/recodehive/recode-website/pull/1677) |
+| feat: extend scroll to top/bottom buttons to showcase in all the pages | Easy | [#1832](https://github.com/recodehive/recode-website/pull/1832) |
+| update in navbar | Easy | [#1825](https://github.com/recodehive/recode-website/pull/1825) |
+| feat: Add reading time to blog listing cards (#1766) | Easy | [#1824](https://github.com/recodehive/recode-website/pull/1824) |
+| Fixes #1798 : Home page UI layout broken on mobile viewports & duplicate hamburger menus | Easy | [#1820](https://github.com/recodehive/recode-website/pull/1820) |
+| fix: resolve TypeScript ESLint warnings | Easy | [#1818](https://github.com/recodehive/recode-website/pull/1818) |
+| 📝[Docs]: Add 5 outbound links to boost SEO ranking (Google Icon Update Blog) | Easy | [#1816](https://github.com/recodehive/recode-website/issues/1816) |
+| Check for possible plagiarism in AI narrative: Gradient icons and Google AI push | Easy | [#1812](https://github.com/recodehive/recode-website/issues/1812) |
+| 🐞[Bug]: Plagiarism detected in blog 'google-icon-update' section on icon changes | Easy | [#1811](https://github.com/recodehive/recode-website/issues/1811) |
+| UI: Improve Community Page Visual Consistency and Alignment | Easy | [#1796](https://github.com/recodehive/recode-website/pull/1796) |
+| Optimize mobile navigation sidebar responsiveness | Easy | [#1784](https://github.com/recodehive/recode-website/pull/1784) |
+| 🐞[Bug]: Production build failure during image processing | Easy | [#1782](https://github.com/recodehive/recode-website/issues/1782) |
+| markdown links build | Easy | [#1781](https://github.com/recodehive/recode-website/pull/1781) |
 
 ---
 
@@ -748,19 +741,16 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Admin Payment Trigger - initiate Razorpay bank transfer from QA queue UI | Medium | [#254](https://github.com/LarytheLord/Adventurers-Guild/pull/254) |
 | Feat/premium landing quests | Medium | [#253](https://github.com/LarytheLord/Adventurers-Guild/pull/253) |
-| feat: Landing Page Improvements - Social Proof & FAQ Sections | Medium | [#222](https://github.com/LarytheLord/Adventurers-Guild/pull/222) |
 | feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
-| Add the chatbot | Medium | [#210](https://github.com/LarytheLord/Adventurers-Guild/pull/210) |
 | Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
 | feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 | NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
-| Enhance the faq section | Medium | [#182](https://github.com/LarytheLord/Adventurers-Guild/pull/182) |
-| feat: admin payment trigger — initiate Razorpay payout from QA queue … | Hard | [#223](https://github.com/LarytheLord/Adventurers-Guild/pull/223) |
 
 ---
 
@@ -1158,18 +1148,19 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Forgot Password & Password Reset Flow | Medium | [#110](https://github.com/ThePlator/NPMChat/issues/110) |
-| Real-time Message Status (Ticks) | Medium | [#107](https://github.com/ThePlator/NPMChat/issues/107) |
-| Dark Theme Consistency Fix | Medium | [#97](https://github.com/ThePlator/NPMChat/issues/97) |
+| fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
+| Prevent duplicate socket reconnects caused by accumulated token refresh listeners | Medium | [#196](https://github.com/ThePlator/NPMChat/issues/196) |
+| Challenge correctness is derived from fragile output text | Medium | [#194](https://github.com/ThePlator/NPMChat/issues/194) |
+| Room socket events do not enforce room membership or host permissions | Medium | [#193](https://github.com/ThePlator/NPMChat/issues/193) |
+| Fix oauth ci passport guard | Medium | [#152](https://github.com/ThePlator/NPMChat/pull/152) |
+| Missing Receiver Verification on Message Send | Medium | [#141](https://github.com/ThePlator/NPMChat/issues/141) |
 | fix: add centralized backend error handling | Medium | [#92](https://github.com/ThePlator/NPMChat/pull/92) |
 | Add persistent WebSocket backend deployment support | Medium | [#84](https://github.com/ThePlator/NPMChat/pull/84) |
 | AvatarUrl handling to correctly fetch the image url from payload | Medium | [#65](https://github.com/ThePlator/NPMChat/pull/65) |
-| Signup avatar isn’t persisted and does not store the Avatar image of the user | Medium | [#64](https://github.com/ThePlator/NPMChat/issues/64) |
-| Approve Before Messaging | Medium | [#52](https://github.com/ThePlator/NPMChat/issues/52) |
-| Add Extended Profile Details | Medium | [#49](https://github.com/ThePlator/NPMChat/issues/49) |
-| Improvement & Enhancement of the  "How It's Built & How You Can Contribute" section. | Medium | [#27](https://github.com/ThePlator/NPMChat/issues/27) |
-| feat: JWT Refresh Token + httpOnly Cookie Auth Flow | Hard | [#111](https://github.com/ThePlator/NPMChat/issues/111) |
-| Email OTP Verification during Signup | Hard | [#109](https://github.com/ThePlator/NPMChat/issues/109) |
+| fix: require structured challenge test results | Hard | [#201](https://github.com/ThePlator/NPMChat/pull/201) |
+| security: enforce room socket membership | Hard | [#200](https://github.com/ThePlator/NPMChat/pull/200) |
+| O auth2 with cookie | Hard | [#197](https://github.com/ThePlator/NPMChat/pull/197) |
+| Fix file validation and add upload progress UI (#142) | Hard | [#173](https://github.com/ThePlator/NPMChat/pull/173) |
 
 ---
 
