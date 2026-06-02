@@ -85,36 +85,36 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add AI speaker coach panel for presentations | Medium | [#720](https://github.com/Muneerali199/Draftdeckai/pull/720) |
-| feat: improve ATS explainability and section feedback | Medium | [#719](https://github.com/Muneerali199/Draftdeckai/pull/719) |
-| feat: add multi-select formatting actions in editor | Medium | [#718](https://github.com/Muneerali199/Draftdeckai/pull/718) |
-| dx: add stale PR and issue triage automation | Medium | [#717](https://github.com/Muneerali199/Draftdeckai/pull/717) |
-| test: add auth regression tests for protected API routestest: add auth regression tests | Medium | [#716](https://github.com/Muneerali199/Draftdeckai/pull/716) |
-| Fix/request validation security | Medium | [#715](https://github.com/Muneerali199/Draftdeckai/pull/715) |
-| feat: add showcase feed with ranking algorithm for resume/presentation discovery | Medium | [#714](https://github.com/Muneerali199/Draftdeckai/pull/714) |
-| feat: implement Plausible analytics, UTM capture, and signup attribution | Medium | [#713](https://github.com/Muneerali199/Draftdeckai/pull/713) |
-| fix(pricing): remove duplicate payment methods section | Medium | [#712](https://github.com/Muneerali199/Draftdeckai/pull/712) |
-| Fix/use shared Zod validation in Quick Resume Generate tab | Medium | [#711](https://github.com/Muneerali199/Draftdeckai/pull/711) |
-| [Security/Feature] 🔴 No rate limiting on AI API routes — unlimited requests can drain API credits and abuse the service | Medium | [#710](https://github.com/Muneerali199/Draftdeckai/issues/710) |
-| fix(diagram): improve mobile responsiveness of toolbar and export options | Medium | [#709](https://github.com/Muneerali199/Draftdeckai/pull/709) |
-| refactor(share): extract share logic to hook and clean up debug console logs | Medium | [#708](https://github.com/Muneerali199/Draftdeckai/pull/708) |
-| fix(theme): persist theme preference, respect system default, prevent FOUC (#654) | Medium | [#707](https://github.com/Muneerali199/Draftdeckai/pull/707) |
-| feat: add global and page-specific Next.js metadata and OG image | Medium | [#706](https://github.com/Muneerali199/Draftdeckai/pull/706) |
-| feat(hooks): add reusable useShare hook and refactor share duplication (#660) | Medium | [#705](https://github.com/Muneerali199/Draftdeckai/pull/705) |
-| refactor: optimize auto-save with state diffing, add fetch abort cont… | Medium | [#704](https://github.com/Muneerali199/Draftdeckai/pull/704) |
-| Add PDF export for presentations issue#652 | Medium | [#703](https://github.com/Muneerali199/Draftdeckai/pull/703) |
-| fix(search): replace sample index with Supabase query and add pagination (#661) | Medium | [#702](https://github.com/Muneerali199/Draftdeckai/pull/702) |
-| test: add unit tests for credit-operations and validation libraries (#663) | Medium | [#701](https://github.com/Muneerali199/Draftdeckai/pull/701) |
-| # 🔴 Raw console.error Used Across API Routes | Medium | [#700](https://github.com/Muneerali199/Draftdeckai/issues/700) |
-| # 🔴 dispatchErrorAlert Called Without Await (Unhandled Promise) | Medium | [#699](https://github.com/Muneerali199/Draftdeckai/issues/699) |
-| # 🔴  Global setInterval in Middleware Causes Memory/Worker Leak | Medium | [#698](https://github.com/Muneerali199/Draftdeckai/issues/698) |
-| # 🔴 Placeholder Allowed-Origin URL Shipped to Production | Medium | [#697](https://github.com/Muneerali199/Draftdeckai/issues/697) |
-| # 🔴Hardcoded Developer Email Bypass in Production | Medium | [#696](https://github.com/Muneerali199/Draftdeckai/issues/696) |
-| feat(testing): add automated accessibility testing with Playwright | Medium | [#695](https://github.com/Muneerali199/Draftdeckai/pull/695) |
-| Feature/dark mode persistence | Medium | [#694](https://github.com/Muneerali199/Draftdeckai/pull/694) |
-| Setup Go backend module structure for migration | Medium | [#693](https://github.com/Muneerali199/Draftdeckai/pull/693) |
-| Feat/ats explainability panel | Medium | [#692](https://github.com/Muneerali199/Draftdeckai/pull/692) |
-| Feature : Improve PDF export quality | Medium | [#691](https://github.com/Muneerali199/Draftdeckai/pull/691) |
+| Add a Local Development Troubleshooting section to FAQ.md | Easy | [#913](https://github.com/Muneerali199/Draftdeckai/issues/913) |
+| [Feature]: Add environment variable validation at startup | Easy | [#901](https://github.com/Muneerali199/Draftdeckai/issues/901) |
+| [Feature]: Complete docker-compose with PostgreSQL and Next.js services | Easy | [#896](https://github.com/Muneerali199/Draftdeckai/issues/896) |
+| [Cleanup]: Remove test/debug files from production extension bundle | Easy | [#889](https://github.com/Muneerali199/Draftdeckai/issues/889) |
+| [Bug]: Duplicate event listeners in popup.js — study plan handler registered twice | Easy | [#888](https://github.com/Muneerali199/Draftdeckai/issues/888) |
+| Bug: POST /api/analyze/resume has no authentication and no file size limit, enabling anonymous abuse and memory exhaustion | Medium | [#919](https://github.com/Muneerali199/Draftdeckai/issues/919) |
+| security: share CORS and security headers | Medium | [#918](https://github.com/Muneerali199/Draftdeckai/pull/918) |
+| fix: return created status for creation APIs | Medium | [#917](https://github.com/Muneerali199/Draftdeckai/pull/917) |
+| Fix/developer bypass guard | Medium | [#916](https://github.com/Muneerali199/Draftdeckai/pull/916) |
+| docs: add comprehensive local troubleshooting section to FAQ closes #913 | Medium | [#915](https://github.com/Muneerali199/Draftdeckai/pull/915) |
+| refactor: consolidate generation APIs under /api/v2/generate (#849) | Medium | [#914](https://github.com/Muneerali199/Draftdeckai/pull/914) |
+| feat: add team workspaces with shared templates and collaboration (#848) | Medium | [#912](https://github.com/Muneerali199/Draftdeckai/pull/912) |
+| feat: added validator that rejects unauthorized msgs | Medium | [#911](https://github.com/Muneerali199/Draftdeckai/pull/911) |
+| refactor: completely remove firebase dependencies and config (#858) | Medium | [#910](https://github.com/Muneerali199/Draftdeckai/pull/910) |
+| fix(extension): expose mcp server without module export | Medium | [#907](https://github.com/Muneerali199/Draftdeckai/pull/907) |
+| Implemented a lightweight Semantic Memory & Context Compression pipeline for long‑form document generation | Medium | [#906](https://github.com/Muneerali199/Draftdeckai/pull/906) |
+| Feature/ai resume translator | Medium | [#905](https://github.com/Muneerali199/Draftdeckai/pull/905) |
+| feat : add animated loading screens and skeletons for all route pages | Medium | [#904](https://github.com/Muneerali199/Draftdeckai/pull/904) |
+| security: share CORS and security header config | Medium | [#903](https://github.com/Muneerali199/Draftdeckai/pull/903) |
+| [Feature]: Add graceful shutdown with signal handling | Medium | [#902](https://github.com/Muneerali199/Draftdeckai/issues/902) |
+| [Feature]: Implement RBAC middleware for role-based access control | Medium | [#900](https://github.com/Muneerali199/Draftdeckai/issues/900) |
+| [Testing]: Write unit tests for auth middleware, error utils, and custom middleware | Medium | [#897](https://github.com/Muneerali199/Draftdeckai/issues/897) |
+| [Feature]: Make readyz endpoint actually check downstream dependencies | Medium | [#895](https://github.com/Muneerali199/Draftdeckai/issues/895) |
+| [UX]: Add opt-in consent for LinkedIn profile data extraction | Medium | [#892](https://github.com/Muneerali199/Draftdeckai/issues/892) |
+| [Refactor]: Add structured logging with slog | Hard | [#899](https://github.com/Muneerali199/Draftdeckai/issues/899) |
+| [Security]: Add JWT audience and issuer validation | Hard | [#898](https://github.com/Muneerali199/Draftdeckai/issues/898) |
+| [Feature]: Add rate limiting middleware | Hard | [#894](https://github.com/Muneerali199/Draftdeckai/issues/894) |
+| [Feature]: Add PostgreSQL database layer with pgx connection pooling | Hard | [#893](https://github.com/Muneerali199/Draftdeckai/issues/893) |
+| [Security]: Add sender ID validation to message handler to prevent cross-extension attacks | Hard | [#891](https://github.com/Muneerali199/Draftdeckai/issues/891) |
+| [Security]: Move Gemini API key from URL query param to HTTP header | Hard | [#890](https://github.com/Muneerali199/Draftdeckai/issues/890) |
 
 ---
 
@@ -187,19 +187,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Admin Payment Trigger - initiate Razorpay bank transfer from QA queue UI | Medium | [#254](https://github.com/LarytheLord/Adventurers-Guild/pull/254) |
 | Feat/premium landing quests | Medium | [#253](https://github.com/LarytheLord/Adventurers-Guild/pull/253) |
-| feat: Landing Page Improvements - Social Proof & FAQ Sections | Medium | [#222](https://github.com/LarytheLord/Adventurers-Guild/pull/222) |
 | feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
-| Add the chatbot | Medium | [#210](https://github.com/LarytheLord/Adventurers-Guild/pull/210) |
 | Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
 | feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 | NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
-| Enhance the faq section | Medium | [#182](https://github.com/LarytheLord/Adventurers-Guild/pull/182) |
-| feat: admin payment trigger — initiate Razorpay payout from QA queue … | Hard | [#223](https://github.com/LarytheLord/Adventurers-Guild/pull/223) |
 
 ---
 
