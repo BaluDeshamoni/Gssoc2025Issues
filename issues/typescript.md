@@ -68,7 +68,6 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump the npm_and_yarn group across 2 directories with 3 updates | Medium | [#755](https://github.com/abhisek2004/Dev-Elevate/pull/755) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -92,14 +91,20 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: improve mobile responsiveness on issues page | Medium | [#4712](https://github.com/OWASP/Nest/pull/4712) |
-| Extract bootstrap-nest-infrastructure into a separate workflow | Medium | [#4711](https://github.com/OWASP/Nest/pull/4711) |
-| Extract scan-images into a separate workflow | Medium | [#4710](https://github.com/OWASP/Nest/pull/4710) |
-| Extract staging jobs into a separate workflow | Medium | [#4701](https://github.com/OWASP/Nest/pull/4701) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4697](https://github.com/OWASP/Nest/pull/4697) |
-| Tighten checks for project leaders on creating a Program | Medium | [#4695](https://github.com/OWASP/Nest/pull/4695) |
-| Add Task Level Admin Functionality to Mentorship Portal | Medium | [#4689](https://github.com/OWASP/Nest/issues/4689) |
-| feat(projects): add health indicators to project cards | Medium | [#4678](https://github.com/OWASP/Nest/pull/4678) |
+| ci: disable credential persistence in checkout steps | Medium | [#4817](https://github.com/OWASP/Nest/pull/4817) |
+| Snapshot model field | Medium | [#4816](https://github.com/OWASP/Nest/pull/4816) |
+| chore(deps): bump tailwind-merge in /frontend | Medium | [#4815](https://github.com/OWASP/Nest/pull/4815) |
+| chore(deps): bump posthog-js in /frontend | Medium | [#4814](https://github.com/OWASP/Nest/pull/4814) |
+| chore(deps): bump apexcharts in /frontend | Medium | [#4813](https://github.com/OWASP/Nest/pull/4813) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4811](https://github.com/OWASP/Nest/pull/4811) |
+| Extract run-zap-baseline-scan into a reusable workflow | Medium | [#4808](https://github.com/OWASP/Nest/pull/4808) |
+| Implement GraphQL Queries and Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
+| Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
+| Improve header accessibility and keyboard navigation support | Medium | [#4804](https://github.com/OWASP/Nest/issues/4804) |
+| Feat/revamp member profile page | Medium | [#4797](https://github.com/OWASP/Nest/pull/4797) |
+| Introduce GitHub action/workflow files pre-commit checks | Medium | [#4746](https://github.com/OWASP/Nest/issues/4746) |
+| Add Django Models for Candidate Claim Data | Medium | [#4743](https://github.com/OWASP/Nest/pull/4743) |
+| Added contribution recognition core data models | Medium | [#4736](https://github.com/OWASP/Nest/pull/4736) |
 
 ---
 
@@ -164,6 +169,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Shared module-level history array leaks all users' AI questions into each other's context | Medium | [#85](https://github.com/harshendram/Advanced-Discord-Bot/issues/85) |
 | Refactored the code to enable the use of plugins. Considering new features (This is still a WIP, See below for more info) | Medium | [#84](https://github.com/harshendram/Advanced-Discord-Bot/pull/84) |
 | Deploying the bot | Medium | [#82](https://github.com/harshendram/Advanced-Discord-Bot/issues/82) |
 | Add Login Page for User Authentication | Medium | [#80](https://github.com/harshendram/Advanced-Discord-Bot/issues/80) |
@@ -629,19 +635,16 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Admin Payment Trigger - initiate Razorpay bank transfer from QA queue UI | Medium | [#254](https://github.com/LarytheLord/Adventurers-Guild/pull/254) |
 | Feat/premium landing quests | Medium | [#253](https://github.com/LarytheLord/Adventurers-Guild/pull/253) |
-| feat: Landing Page Improvements - Social Proof & FAQ Sections | Medium | [#222](https://github.com/LarytheLord/Adventurers-Guild/pull/222) |
 | feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
-| Add the chatbot | Medium | [#210](https://github.com/LarytheLord/Adventurers-Guild/pull/210) |
 | Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
 | feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 | NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
-| Enhance the faq section | Medium | [#182](https://github.com/LarytheLord/Adventurers-Guild/pull/182) |
-| feat: admin payment trigger — initiate Razorpay payout from QA queue … | Hard | [#223](https://github.com/LarytheLord/Adventurers-Guild/pull/223) |
 
 ---
 
