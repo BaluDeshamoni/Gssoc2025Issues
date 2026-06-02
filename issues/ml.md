@@ -425,6 +425,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix map overflow issue in footer section | Medium | [#1946](https://github.com/apu52/Travel_Website/pull/1946) |
 | Advanced Accessibility: Fix contrast ratios and implement semantic HTML5 landmarks | Medium | [#1944](https://github.com/apu52/Travel_Website/issues/1944) |
 | fix: responsiveness not implemented correctly (#1715) | Medium | [#1943](https://github.com/apu52/Travel_Website/pull/1943) |
 | ✈️ Risezonic Travel – Trusted Travel Partner for Domestic & International Trips | Medium | [#1942](https://github.com/apu52/Travel_Website/issues/1942) |
@@ -454,7 +455,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Login does not work even after successful registration | Medium | [#1918](https://github.com/apu52/Travel_Website/issues/1918) |
 | 404 Error on Services link in Top Deals section | Medium | [#1917](https://github.com/apu52/Travel_Website/issues/1917) |
 | style: enhance navbar with icon-text buttons and add favicon | Medium | [#1916](https://github.com/apu52/Travel_Website/pull/1916) |
-| Replace "Login/SignUp" and "View" Buttons with Icons for a Modern UI | Medium | [#1915](https://github.com/apu52/Travel_Website/issues/1915) |
 
 ---
 
@@ -818,11 +818,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature Request 1: Lamp-Controlled Login/Signup Forms | Medium | [#1692](https://github.com/omroy07/AgriTech/issues/1692) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
 | Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
-| Photo Upload Feature Mentioned but Not Functionally Available | Medium | [#1618](https://github.com/omroy07/AgriTech/issues/1618) |
 | feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
 | Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
@@ -1089,11 +1087,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Improve Footer Layout and Design | Medium | [#797](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/797) |
 | New Frontend Project : Card Flipping Puzzle (Memory Match) Game | Medium | [#793](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/793) |
 | Fix: Resolve inconsistent footer behavior in Light Mode | Medium | [#792](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/792) |
-| Added appropriate font color to PROJECT SHOWCASE | Medium | [#791](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/791) |
 | fix: Day 59 - Introducing CLICKBAIT (The memory game) | Medium | [#790](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/790) |
 | DAY 59 - Introducing CLICKBAIT (The memory game) | Medium | [#789](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/789) |
 | Fix: Resolve inconsistent alignment in header search bar and button | Medium | [#787](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/787) |
 | Add Expense Tracker Project | Medium | [#785](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/785) |
+| Suggestion: Introduce Day 33 – Maze Runner | Medium | [#783](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/783) |
 
 ---
 
@@ -1187,16 +1185,18 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🐞[Bug]: Footer section has mobile responsiveness, icon alignment, and visual consistency issues | Easy | [#1814](https://github.com/recodehive/recode-website/issues/1814) |
-| 📝[Docs]: Remove or cite source for "3 billion Google Workspace users" in blog post | Easy | [#1813](https://github.com/recodehive/recode-website/issues/1813) |
+| feat: extend scroll to top/bottom buttons to showcase in all the pages | Easy | [#1832](https://github.com/recodehive/recode-website/pull/1832) |
+| update in navbar | Easy | [#1825](https://github.com/recodehive/recode-website/pull/1825) |
+| feat: Add reading time to blog listing cards (#1766) | Easy | [#1824](https://github.com/recodehive/recode-website/pull/1824) |
+| Fixes #1798 : Home page UI layout broken on mobile viewports & duplicate hamburger menus | Easy | [#1820](https://github.com/recodehive/recode-website/pull/1820) |
+| fix: resolve TypeScript ESLint warnings | Easy | [#1818](https://github.com/recodehive/recode-website/pull/1818) |
+| 📝[Docs]: Add 5 outbound links to boost SEO ranking (Google Icon Update Blog) | Easy | [#1816](https://github.com/recodehive/recode-website/issues/1816) |
 | Check for possible plagiarism in AI narrative: Gradient icons and Google AI push | Easy | [#1812](https://github.com/recodehive/recode-website/issues/1812) |
 | 🐞[Bug]: Plagiarism detected in blog 'google-icon-update' section on icon changes | Easy | [#1811](https://github.com/recodehive/recode-website/issues/1811) |
-| 📝[Docs]: Remove duplicate paragraph: "Two reasons. One practical, one strategic." | Easy | [#1809](https://github.com/recodehive/recode-website/issues/1809) |
 | UI: Improve Community Page Visual Consistency and Alignment | Easy | [#1796](https://github.com/recodehive/recode-website/pull/1796) |
 | Optimize mobile navigation sidebar responsiveness | Easy | [#1784](https://github.com/recodehive/recode-website/pull/1784) |
 | 🐞[Bug]: Production build failure during image processing | Easy | [#1782](https://github.com/recodehive/recode-website/issues/1782) |
 | markdown links build | Easy | [#1781](https://github.com/recodehive/recode-website/pull/1781) |
-| Minor readme change | Easy | [#1773](https://github.com/recodehive/recode-website/pull/1773) |
 
 ---
 
@@ -2033,6 +2033,18 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Contact Us form validation with inline error messages | Medium | [#387](https://github.com/lovelymahor/StudyMatePlus/issues/387) |
+| Spelling Mistake on Syllabus Page | Medium | [#386](https://github.com/lovelymahor/StudyMatePlus/issues/386) |
+| Add Dark / Light Theme Toggle | Medium | [#385](https://github.com/lovelymahor/StudyMatePlus/issues/385) |
+| Feedback cards appear interactive but do not provide any action when clicked | Medium | [#384](https://github.com/lovelymahor/StudyMatePlus/issues/384) |
+| Implement a Senior Mentorship Hub | Medium | [#383](https://github.com/lovelymahor/StudyMatePlus/issues/383) |
+| Add SECURITY.md with security policy | Medium | [#382](https://github.com/lovelymahor/StudyMatePlus/pull/382) |
+| improve navbar responsiveness and alignment issues | Medium | [#381](https://github.com/lovelymahor/StudyMatePlus/issues/381) |
+| Dark mode toggle button | Medium | [#380](https://github.com/lovelymahor/StudyMatePlus/issues/380) |
+| Add a theme switcher | Medium | [#379](https://github.com/lovelymahor/StudyMatePlus/issues/379) |
+| Replace Homepage Emojis with Professional Icons | Medium | [#378](https://github.com/lovelymahor/StudyMatePlus/issues/378) |
+| UI Improvements: Dark Mode Fixes, Extended Semesters, and Content Card Styling | Medium | [#377](https://github.com/lovelymahor/StudyMatePlus/pull/377) |
+|  | Medium | [#376](https://github.com/lovelymahor/StudyMatePlus/issues/376) |
 | Fix: Update GSSoC year from 2025 to 2026 in README | Medium | [#375](https://github.com/lovelymahor/StudyMatePlus/pull/375) |
 | Navigation bar + syllabus semesters + mind map confusion | Medium | [#374](https://github.com/lovelymahor/StudyMatePlus/issues/374) |
 | BUG on home page | Medium | [#372](https://github.com/lovelymahor/StudyMatePlus/issues/372) |
@@ -2051,18 +2063,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | feat: add reusable footer across multiple pages | Medium | [#358](https://github.com/lovelymahor/StudyMatePlus/pull/358) |
 | Add Advanced Productivity Analytics Dashboard | Medium | [#357](https://github.com/lovelymahor/StudyMatePlus/issues/357) |
 | Implement Focus Mode with Distraction-Free Study Environment | Medium | [#356](https://github.com/lovelymahor/StudyMatePlus/issues/356) |
-| feat: make feature cards fully clickable | Medium | [#355](https://github.com/lovelymahor/StudyMatePlus/pull/355) |
-| Make Homepage Cards Interactive & Improve Overall Landing Page UI | Medium | [#354](https://github.com/lovelymahor/StudyMatePlus/issues/354) |
-| fix: improve card text visibility. | Medium | [#353](https://github.com/lovelymahor/StudyMatePlus/issues/353) |
-| UI/UX Enhancement: Fix Unaligned Sections, Spacing Inconsistencies, and Layout Issues Across Homepage | Medium | [#352](https://github.com/lovelymahor/StudyMatePlus/issues/352) |
-| Add Dark Mode Support for Better Visibility and User Experience | Medium | [#351](https://github.com/lovelymahor/StudyMatePlus/issues/351) |
-| Add illustrative icons/images to "How StudyMatePlus Works" step section | Medium | [#350](https://github.com/lovelymahor/StudyMatePlus/issues/350) |
-| Replace system emojis with a consistent vector icon library (Lucide/React Icons) | Medium | [#349](https://github.com/lovelymahor/StudyMatePlus/issues/349) |
-| CTA banner gradient background clashes with the application's core color theme | Medium | [#348](https://github.com/lovelymahor/StudyMatePlus/issues/348) |
-| Footer missing across multiple pages (Syllabus, Notes, PYQs, Analytics, Mind Map, Feedback | Medium | [#347](https://github.com/lovelymahor/StudyMatePlus/issues/347) |
-| UI/UX Improvement: Footer Margin issues and Spacing issues leading to floating footer | Medium | [#346](https://github.com/lovelymahor/StudyMatePlus/issues/346) |
-| UI/UX Improvement: Footer Margin issues and Spacing issues leading to floating footer | Medium | [#345](https://github.com/lovelymahor/StudyMatePlus/issues/345) |
-| UI/UX Improvement: Improper Container Padding and Content Spacing | Medium | [#344](https://github.com/lovelymahor/StudyMatePlus/issues/344) |
 
 ---
 
