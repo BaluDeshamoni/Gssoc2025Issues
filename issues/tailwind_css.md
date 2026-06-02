@@ -244,14 +244,20 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ci: disable credential persistence in checkout steps | Medium | [#4817](https://github.com/OWASP/Nest/pull/4817) |
+| Snapshot model field | Medium | [#4816](https://github.com/OWASP/Nest/pull/4816) |
+| chore(deps): bump tailwind-merge in /frontend | Medium | [#4815](https://github.com/OWASP/Nest/pull/4815) |
+| chore(deps): bump posthog-js in /frontend | Medium | [#4814](https://github.com/OWASP/Nest/pull/4814) |
+| chore(deps): bump apexcharts in /frontend | Medium | [#4813](https://github.com/OWASP/Nest/pull/4813) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4811](https://github.com/OWASP/Nest/pull/4811) |
+| Extract run-zap-baseline-scan into a reusable workflow | Medium | [#4808](https://github.com/OWASP/Nest/pull/4808) |
+| Implement GraphQL Queries and Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
+| Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
+| Improve header accessibility and keyboard navigation support | Medium | [#4804](https://github.com/OWASP/Nest/issues/4804) |
 | Feat/revamp member profile page | Medium | [#4797](https://github.com/OWASP/Nest/pull/4797) |
-| Add Terraform test coverage for ALB deletion protection configuration | Medium | [#4792](https://github.com/OWASP/Nest/issues/4792) |
 | Introduce GitHub action/workflow files pre-commit checks | Medium | [#4746](https://github.com/OWASP/Nest/issues/4746) |
 | Add Django Models for Candidate Claim Data | Medium | [#4743](https://github.com/OWASP/Nest/pull/4743) |
 | Added contribution recognition core data models | Medium | [#4736](https://github.com/OWASP/Nest/pull/4736) |
-| fix: improve mobile responsiveness on issues page | Medium | [#4712](https://github.com/OWASP/Nest/pull/4712) |
-| Extract bootstrap-nest-infrastructure into a separate workflow | Medium | [#4711](https://github.com/OWASP/Nest/pull/4711) |
-| Extract scan-images into a separate workflow | Medium | [#4710](https://github.com/OWASP/Nest/pull/4710) |
 
 ---
 
@@ -699,21 +705,24 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: rename component from Home to Tracker in Tracker.tsx | Medium | [#627](https://github.com/GitMetricsLab/github_tracker/pull/627) |
-| fix: remove authError from useGitHubAuth destructure — always undefined | Medium | [#626](https://github.com/GitMetricsLab/github_tracker/pull/626) |
-| fix: handle GitHub API error response in ContributorProfile | Medium | [#623](https://github.com/GitMetricsLab/github_tracker/pull/623) |
-| feat: add repository growth analytics dashboard | Medium | [#620](https://github.com/GitMetricsLab/github_tracker/pull/620) |
-| #524:Add smooth section scroll navigation | Medium | [#618](https://github.com/GitMetricsLab/github_tracker/pull/618) |
-| enhance navbar | Medium | [#617](https://github.com/GitMetricsLab/github_tracker/pull/617) |
-| fix: allow valid GitHub usernames with hyphens and numbers | Medium | [#616](https://github.com/GitMetricsLab/github_tracker/pull/616) |
-| Frontend: integrate Vitest and React Testing Library architecture | Medium | [#615](https://github.com/GitMetricsLab/github_tracker/pull/615) |
-| feat: add Agentic AI Contribution Recommender Engine (Issue #611) | Medium | [#614](https://github.com/GitMetricsLab/github_tracker/pull/614) |
-| Add responsive navbar styles for various devices | Medium | [#610](https://github.com/GitMetricsLab/github_tracker/pull/610) |
-| Change signup success condition to response status | Medium | [#609](https://github.com/GitMetricsLab/github_tracker/pull/609) |
-| feat: add Features and About links to navbar | Medium | [#607](https://github.com/GitMetricsLab/github_tracker/pull/607) |
-| Revamp “What We Do” Section with Interactive Expandable Cards | Medium | [#605](https://github.com/GitMetricsLab/github_tracker/pull/605) |
-| Seo issue | Medium | [#602](https://github.com/GitMetricsLab/github_tracker/pull/602) |
-| improved Sign In button visibility on login page | Medium | [#600](https://github.com/GitMetricsLab/github_tracker/pull/600) |
+| feat: add search and sort filter for contributors | Medium | [#674](https://github.com/GitMetricsLab/github_tracker/pull/674) |
+| Fix/backend cors origin | Medium | [#673](https://github.com/GitMetricsLab/github_tracker/pull/673) |
+| feat(tracker): add Active Days analytics and contribution insights | Medium | [#671](https://github.com/GitMetricsLab/github_tracker/pull/671) |
+| fixed the moon icon & added animation | Medium | [#670](https://github.com/GitMetricsLab/github_tracker/pull/670) |
+| Added summary block | Medium | [#666](https://github.com/GitMetricsLab/github_tracker/pull/666) |
+| fix(contributor): show repository-specific pull requests | Medium | [#662](https://github.com/GitMetricsLab/github_tracker/pull/662) |
+| fix(contributor): distinguish API errors from user not found | Medium | [#661](https://github.com/GitMetricsLab/github_tracker/pull/661) |
+| feat: add recent search history for tracked GitHub profiles | Medium | [#660](https://github.com/GitMetricsLab/github_tracker/pull/660) |
+| feat(tracker): Improve Tracker page UI/UX & add Repositories tab | Medium | [#658](https://github.com/GitMetricsLab/github_tracker/pull/658) |
+| Memory Leak in SetInterval | Medium | [#657](https://github.com/GitMetricsLab/github_tracker/pull/657) |
+| Stale Dependency Version Conflict | Medium | [#656](https://github.com/GitMetricsLab/github_tracker/pull/656) |
+| Octokit Initialization in useGitHubAuth | Medium | [#655](https://github.com/GitMetricsLab/github_tracker/pull/655) |
+| Implement proper error state updates in the catch block. | Medium | [#654](https://github.com/GitMetricsLab/github_tracker/pull/654) |
+| Query Injection Vulnerability | Medium | [#653](https://github.com/GitMetricsLab/github_tracker/pull/653) |
+| Unhandled API Response in ActivityFeed | Medium | [#652](https://github.com/GitMetricsLab/github_tracker/pull/652) |
+| 2Array Index Used as React Key | Medium | [#651](https://github.com/GitMetricsLab/github_tracker/pull/651) |
+| missing HTTP response validation in the profile fetch logic | Medium | [#650](https://github.com/GitMetricsLab/github_tracker/pull/650) |
+| React Key Anti-Pattern in PR List | Medium | [#649](https://github.com/GitMetricsLab/github_tracker/pull/649) |
 
 ---
 
@@ -1597,7 +1606,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Fix: Enhance ScrollRevealWrapper with proper ref handling and variants | Medium | [#173](https://github.com/DevSyncx/DevSync/pull/173) |
 | Fix 75  Added AI assistant on the dashboard page | Medium | [#171](https://github.com/DevSyncx/DevSync/pull/171) |
 | Improve Dark Mode UI/UX on Dashboard Page | Medium | [#165](https://github.com/DevSyncx/DevSync/issues/165) |
-| feat(navbar): Implement full-screen mobile navigation overlay | Medium | [#164](https://github.com/DevSyncx/DevSync/pull/164) |
 | added a deactivating feature | Medium | [#154](https://github.com/DevSyncx/DevSync/pull/154) |
 | GitHub Actions CI workflow for project validation | Medium | [#153](https://github.com/DevSyncx/DevSync/issues/153) |
 | POMODORO timer restarts automatically after one session | Medium | [#150](https://github.com/DevSyncx/DevSync/issues/150) |
@@ -1834,6 +1842,18 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Contact Us form validation with inline error messages | Medium | [#387](https://github.com/lovelymahor/StudyMatePlus/issues/387) |
+| Spelling Mistake on Syllabus Page | Medium | [#386](https://github.com/lovelymahor/StudyMatePlus/issues/386) |
+| Add Dark / Light Theme Toggle | Medium | [#385](https://github.com/lovelymahor/StudyMatePlus/issues/385) |
+| Feedback cards appear interactive but do not provide any action when clicked | Medium | [#384](https://github.com/lovelymahor/StudyMatePlus/issues/384) |
+| Implement a Senior Mentorship Hub | Medium | [#383](https://github.com/lovelymahor/StudyMatePlus/issues/383) |
+| Add SECURITY.md with security policy | Medium | [#382](https://github.com/lovelymahor/StudyMatePlus/pull/382) |
+| improve navbar responsiveness and alignment issues | Medium | [#381](https://github.com/lovelymahor/StudyMatePlus/issues/381) |
+| Dark mode toggle button | Medium | [#380](https://github.com/lovelymahor/StudyMatePlus/issues/380) |
+| Add a theme switcher | Medium | [#379](https://github.com/lovelymahor/StudyMatePlus/issues/379) |
+| Replace Homepage Emojis with Professional Icons | Medium | [#378](https://github.com/lovelymahor/StudyMatePlus/issues/378) |
+| UI Improvements: Dark Mode Fixes, Extended Semesters, and Content Card Styling | Medium | [#377](https://github.com/lovelymahor/StudyMatePlus/pull/377) |
+|  | Medium | [#376](https://github.com/lovelymahor/StudyMatePlus/issues/376) |
 | Fix: Update GSSoC year from 2025 to 2026 in README | Medium | [#375](https://github.com/lovelymahor/StudyMatePlus/pull/375) |
 | Navigation bar + syllabus semesters + mind map confusion | Medium | [#374](https://github.com/lovelymahor/StudyMatePlus/issues/374) |
 | BUG on home page | Medium | [#372](https://github.com/lovelymahor/StudyMatePlus/issues/372) |
@@ -1852,18 +1872,6 @@ Fast Workflow Tools
 | feat: add reusable footer across multiple pages | Medium | [#358](https://github.com/lovelymahor/StudyMatePlus/pull/358) |
 | Add Advanced Productivity Analytics Dashboard | Medium | [#357](https://github.com/lovelymahor/StudyMatePlus/issues/357) |
 | Implement Focus Mode with Distraction-Free Study Environment | Medium | [#356](https://github.com/lovelymahor/StudyMatePlus/issues/356) |
-| feat: make feature cards fully clickable | Medium | [#355](https://github.com/lovelymahor/StudyMatePlus/pull/355) |
-| Make Homepage Cards Interactive & Improve Overall Landing Page UI | Medium | [#354](https://github.com/lovelymahor/StudyMatePlus/issues/354) |
-| fix: improve card text visibility. | Medium | [#353](https://github.com/lovelymahor/StudyMatePlus/issues/353) |
-| UI/UX Enhancement: Fix Unaligned Sections, Spacing Inconsistencies, and Layout Issues Across Homepage | Medium | [#352](https://github.com/lovelymahor/StudyMatePlus/issues/352) |
-| Add Dark Mode Support for Better Visibility and User Experience | Medium | [#351](https://github.com/lovelymahor/StudyMatePlus/issues/351) |
-| Add illustrative icons/images to "How StudyMatePlus Works" step section | Medium | [#350](https://github.com/lovelymahor/StudyMatePlus/issues/350) |
-| Replace system emojis with a consistent vector icon library (Lucide/React Icons) | Medium | [#349](https://github.com/lovelymahor/StudyMatePlus/issues/349) |
-| CTA banner gradient background clashes with the application's core color theme | Medium | [#348](https://github.com/lovelymahor/StudyMatePlus/issues/348) |
-| Footer missing across multiple pages (Syllabus, Notes, PYQs, Analytics, Mind Map, Feedback | Medium | [#347](https://github.com/lovelymahor/StudyMatePlus/issues/347) |
-| UI/UX Improvement: Footer Margin issues and Spacing issues leading to floating footer | Medium | [#346](https://github.com/lovelymahor/StudyMatePlus/issues/346) |
-| UI/UX Improvement: Footer Margin issues and Spacing issues leading to floating footer | Medium | [#345](https://github.com/lovelymahor/StudyMatePlus/issues/345) |
-| UI/UX Improvement: Improper Container Padding and Content Spacing | Medium | [#344](https://github.com/lovelymahor/StudyMatePlus/issues/344) |
 
 ---
 
@@ -2136,17 +2144,25 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| enhancement: standardize visible focus outlines across interactive forms | Medium | [#4846](https://github.com/SandeepVashishtha/Eventra/issues/4846) |
-| Rate limiting in ai-recommendations.js is inconsistent across serverless instances | Medium | [#4845](https://github.com/SandeepVashishtha/Eventra/issues/4845) |
-| Fix: Broken TOC anchor link in README | Medium | [#4843](https://github.com/SandeepVashishtha/Eventra/issues/4843) |
-| Fix runtime error in signup.js: crypto.randomUUID() used without importing crypto | Medium | [#4841](https://github.com/SandeepVashishtha/Eventra/issues/4841) |
-| test : add unit tests for validationApi response helpers | Medium | [#4837](https://github.com/SandeepVashishtha/Eventra/issues/4837) |
-| test : add unit tests for inputSanitization utilities | Medium | [#4834](https://github.com/SandeepVashishtha/Eventra/issues/4834) |
-| test : add unit tests for jsonUtils safeParseJson | Medium | [#4830](https://github.com/SandeepVashishtha/Eventra/issues/4830) |
-| test : add unit tests for advancedFilterUtils utility | Medium | [#4829](https://github.com/SandeepVashishtha/Eventra/issues/4829) |
-| test : add unit tests for notificationPreferences utility | Medium | [#4827](https://github.com/SandeepVashishtha/Eventra/issues/4827) |
-| test : add unit tests for errorLogger utility | Medium | [#4825](https://github.com/SandeepVashishtha/Eventra/issues/4825) |
-| test : add unit tests for asyncValidators utility | Medium | [#4823](https://github.com/SandeepVashishtha/Eventra/issues/4823) |
+| Implement offline queue processing pipeline — offlineQueue.js has no replay mechanism | Medium | [#5515](https://github.com/SandeepVashishtha/Eventra/issues/5515) |
+| Add backend ticket validation and check-in sync to TicketScanner.jsx | Medium | [#5514](https://github.com/SandeepVashishtha/Eventra/issues/5514) |
+| Replace mock data in AdminDashboard.js with real backend API integration and pagination | Medium | [#5513](https://github.com/SandeepVashishtha/Eventra/issues/5513) |
+| Further decompose EventCreation.jsx 1,270-line component — extract validation, fields, and form hook | Medium | [#5512](https://github.com/SandeepVashishtha/Eventra/issues/5512) |
+| Decompose FloorPlanDesigner.js 1,491-line monolith into focused sub-components and utilities | Medium | [#5511](https://github.com/SandeepVashishtha/Eventra/issues/5511) |
+| Activity level legend does not match node representation in collaboration network | Medium | [#5510](https://github.com/SandeepVashishtha/Eventra/issues/5510) |
+| perf: Script freezes indefinitely on heavy Git hooks or GPG passphrase prompts due to execSync loop | Medium | [#5509](https://github.com/SandeepVashishtha/Eventra/issues/5509) |
+| feature: Replace destructive local branch deletion with safety checks | Medium | [#5508](https://github.com/SandeepVashishtha/Eventra/issues/5508) |
+| Bug: Search functionality broken and input character limit enforced | Medium | [#5507](https://github.com/SandeepVashishtha/Eventra/issues/5507) |
+| bug: Replacement fallback logic pollutes Git diffs by converting entire file line endings | Medium | [#5506](https://github.com/SandeepVashishtha/Eventra/issues/5506) |
+| bug: Silent replacement failure and subsequent commit crashes on Windows platforms. | Medium | [#5505](https://github.com/SandeepVashishtha/Eventra/issues/5505) |
+| bug: Script crashes on consecutive loops if a branch creation fails or working directory becomes dirty | Medium | [#5504](https://github.com/SandeepVashishtha/Eventra/issues/5504) |
+| /feedback/survey-builder redirects unauthenticated users to /unauthorized instead of /login | Medium | [#5498](https://github.com/SandeepVashishtha/Eventra/issues/5498) |
+| getClientIp.js trusts X-Forwarded-For without verification — IP spoofing bypasses rate limiting | Medium | [#5491](https://github.com/SandeepVashishtha/Eventra/issues/5491) |
+| leaderboard.js uses GITHUB_TOKEN with no authentication — unauthenticated proxy drains GitHub API quota | Medium | [#5490](https://github.com/SandeepVashishtha/Eventra/issues/5490) |
+| signup.js includes permissions in JWT — inconsistent with login.js, stale permission grants | Medium | [#5489](https://github.com/SandeepVashishtha/Eventra/issues/5489) |
+| Service worker references undefined BACKGROUND_SYNC_TAG — background sync completely broken | Medium | [#5488](https://github.com/SandeepVashishtha/Eventra/issues/5488) |
+| /admin redirects unauthenticated users to /unauthorized instead of /login | Medium | [#5487](https://github.com/SandeepVashishtha/Eventra/issues/5487) |
+| rateLimit.js stores maxRequests in entry but never reads it — dead field | Medium | [#5486](https://github.com/SandeepVashishtha/Eventra/issues/5486) |
 
 ---
 
