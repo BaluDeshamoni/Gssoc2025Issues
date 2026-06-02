@@ -34,13 +34,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(graph): Add operator<< overload for CinderGraph to support printing graph info | Easy | [#317](https://github.com/SharonIV0x86/CinderPeak/issues/317) |
+| fix(warnings): Resolve [[nodiscard]] compiler warnings in HybridCSR_COO unit tests | Easy | [#312](https://github.com/SharonIV0x86/CinderPeak/issues/312) |
+| Mathematically Incorrect Density Calculation for Undirected Graphs (Exceeds 1.0) | Easy | [#310](https://github.com/SharonIV0x86/CinderPeak/issues/310) |
+| Data Race via Unprotected Reference Return in AdjacencyList Getters | Easy | [#309](https://github.com/SharonIV0x86/CinderPeak/issues/309) |
+| style: Fix typos and grammatical errors in Adjacency List logging strings | Easy | [#307](https://github.com/SharonIV0x86/CinderPeak/issues/307) |
+| docs: Add beginner guide for new contributors | Easy | [#299](https://github.com/SharonIV0x86/CinderPeak/issues/299) |
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
-| Fixed incorrect impl_doesEdgeExist log messages in AdjacencyList | Medium | [#308](https://github.com/SharonIV0x86/CinderPeak/pull/308) |
-| style: Fix typos and grammatical errors in Adjacency List logging strings | Medium | [#307](https://github.com/SharonIV0x86/CinderPeak/issues/307) |
+| Corrected `updateEdge` return value and propagate storage operation failures | Medium | [#319](https://github.com/SharonIV0x86/CinderPeak/pull/319) |
+| feat: structured exception mapping and contextual error reporting (#298) | Medium | [#318](https://github.com/SharonIV0x86/CinderPeak/pull/318) |
+| Fix: Add missing section 4 for duplicate edge handling in addEdge_usa… | Medium | [#315](https://github.com/SharonIV0x86/CinderPeak/pull/315) |
+| Fixed logger resource and concurrency leaks | Medium | [#311](https://github.com/SharonIV0x86/CinderPeak/pull/311) |
 | docs: add comprehensive docstrings to build.py | Medium | [#305](https://github.com/SharonIV0x86/CinderPeak/pull/305) |
-| fix(warnings): Resolve nodiscard compiler warnings in AdjacencyListTestBase.hpp | Medium | [#303](https://github.com/SharonIV0x86/CinderPeak/pull/303) |
 | fix: add missing optsU declaration in README example | Medium | [#301](https://github.com/SharonIV0x86/CinderPeak/pull/301) |
-| docs: Add beginner guide for new contributors | Medium | [#299](https://github.com/SharonIV0x86/CinderPeak/issues/299) |
 | fix: implement thread-safe visitor pattern to resolve iterator invali… | Medium | [#297](https://github.com/SharonIV0x86/CinderPeak/pull/297) |
 | docs: add beginner guide for CinderPeak | Medium | [#296](https://github.com/SharonIV0x86/CinderPeak/pull/296) |
 
