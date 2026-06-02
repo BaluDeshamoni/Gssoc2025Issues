@@ -115,15 +115,36 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| [Security] DEVELOPER_BYPASS_EMAILS can bypass credit checks without production guardrails | Medium | [#832](https://github.com/Muneerali199/Draftdeckai/issues/832) |
-| chore: add .editorconfig for consistent coding styles | Medium | [#831](https://github.com/Muneerali199/Draftdeckai/pull/831) |
-| fix: remove debug console.log statements from production code | Medium | [#812](https://github.com/Muneerali199/Draftdeckai/pull/812) |
-| feat: added data export feature | Medium | [#803](https://github.com/Muneerali199/Draftdeckai/pull/803) |
-| Fix/comprehensive code audit 20 issues | Medium | [#798](https://github.com/Muneerali199/Draftdeckai/pull/798) |
-| feat: configure CDN assetPrefix for self-hosted asset delivery | Medium | [#795](https://github.com/Muneerali199/Draftdeckai/pull/795) |
-| Fix/seo canonical urls and utm | Medium | [#769](https://github.com/Muneerali199/Draftdeckai/pull/769) |
-| feat: Add PPT slide quality guardrails before export (fixes #580) | Medium | [#761](https://github.com/Muneerali199/Draftdeckai/pull/761) |
-| In-memory rate limiter in middleware.ts resets on every serverless function cold start — rate limiting is completely ineffective in production | Hard | [#776](https://github.com/Muneerali199/Draftdeckai/issues/776) |
+| Add a Local Development Troubleshooting section to FAQ.md | Easy | [#913](https://github.com/Muneerali199/Draftdeckai/issues/913) |
+| [Feature]: Add environment variable validation at startup | Easy | [#901](https://github.com/Muneerali199/Draftdeckai/issues/901) |
+| [Feature]: Complete docker-compose with PostgreSQL and Next.js services | Easy | [#896](https://github.com/Muneerali199/Draftdeckai/issues/896) |
+| [Cleanup]: Remove test/debug files from production extension bundle | Easy | [#889](https://github.com/Muneerali199/Draftdeckai/issues/889) |
+| [Bug]: Duplicate event listeners in popup.js — study plan handler registered twice | Easy | [#888](https://github.com/Muneerali199/Draftdeckai/issues/888) |
+| Bug: POST /api/analyze/resume has no authentication and no file size limit, enabling anonymous abuse and memory exhaustion | Medium | [#919](https://github.com/Muneerali199/Draftdeckai/issues/919) |
+| security: share CORS and security headers | Medium | [#918](https://github.com/Muneerali199/Draftdeckai/pull/918) |
+| fix: return created status for creation APIs | Medium | [#917](https://github.com/Muneerali199/Draftdeckai/pull/917) |
+| Fix/developer bypass guard | Medium | [#916](https://github.com/Muneerali199/Draftdeckai/pull/916) |
+| docs: add comprehensive local troubleshooting section to FAQ closes #913 | Medium | [#915](https://github.com/Muneerali199/Draftdeckai/pull/915) |
+| refactor: consolidate generation APIs under /api/v2/generate (#849) | Medium | [#914](https://github.com/Muneerali199/Draftdeckai/pull/914) |
+| feat: add team workspaces with shared templates and collaboration (#848) | Medium | [#912](https://github.com/Muneerali199/Draftdeckai/pull/912) |
+| feat: added validator that rejects unauthorized msgs | Medium | [#911](https://github.com/Muneerali199/Draftdeckai/pull/911) |
+| refactor: completely remove firebase dependencies and config (#858) | Medium | [#910](https://github.com/Muneerali199/Draftdeckai/pull/910) |
+| fix(extension): expose mcp server without module export | Medium | [#907](https://github.com/Muneerali199/Draftdeckai/pull/907) |
+| Implemented a lightweight Semantic Memory & Context Compression pipeline for long‑form document generation | Medium | [#906](https://github.com/Muneerali199/Draftdeckai/pull/906) |
+| Feature/ai resume translator | Medium | [#905](https://github.com/Muneerali199/Draftdeckai/pull/905) |
+| feat : add animated loading screens and skeletons for all route pages | Medium | [#904](https://github.com/Muneerali199/Draftdeckai/pull/904) |
+| security: share CORS and security header config | Medium | [#903](https://github.com/Muneerali199/Draftdeckai/pull/903) |
+| [Feature]: Add graceful shutdown with signal handling | Medium | [#902](https://github.com/Muneerali199/Draftdeckai/issues/902) |
+| [Feature]: Implement RBAC middleware for role-based access control | Medium | [#900](https://github.com/Muneerali199/Draftdeckai/issues/900) |
+| [Testing]: Write unit tests for auth middleware, error utils, and custom middleware | Medium | [#897](https://github.com/Muneerali199/Draftdeckai/issues/897) |
+| [Feature]: Make readyz endpoint actually check downstream dependencies | Medium | [#895](https://github.com/Muneerali199/Draftdeckai/issues/895) |
+| [UX]: Add opt-in consent for LinkedIn profile data extraction | Medium | [#892](https://github.com/Muneerali199/Draftdeckai/issues/892) |
+| [Refactor]: Add structured logging with slog | Hard | [#899](https://github.com/Muneerali199/Draftdeckai/issues/899) |
+| [Security]: Add JWT audience and issuer validation | Hard | [#898](https://github.com/Muneerali199/Draftdeckai/issues/898) |
+| [Feature]: Add rate limiting middleware | Hard | [#894](https://github.com/Muneerali199/Draftdeckai/issues/894) |
+| [Feature]: Add PostgreSQL database layer with pgx connection pooling | Hard | [#893](https://github.com/Muneerali199/Draftdeckai/issues/893) |
+| [Security]: Add sender ID validation to message handler to prevent cross-extension attacks | Hard | [#891](https://github.com/Muneerali199/Draftdeckai/issues/891) |
+| [Security]: Move Gemini API key from URL query param to HTTP header | Hard | [#890](https://github.com/Muneerali199/Draftdeckai/issues/890) |
 
 ---
 
@@ -334,17 +355,25 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| enhancement: standardize visible focus outlines across interactive forms | Medium | [#4846](https://github.com/SandeepVashishtha/Eventra/issues/4846) |
-| Rate limiting in ai-recommendations.js is inconsistent across serverless instances | Medium | [#4845](https://github.com/SandeepVashishtha/Eventra/issues/4845) |
-| Fix: Broken TOC anchor link in README | Medium | [#4843](https://github.com/SandeepVashishtha/Eventra/issues/4843) |
-| Fix runtime error in signup.js: crypto.randomUUID() used without importing crypto | Medium | [#4841](https://github.com/SandeepVashishtha/Eventra/issues/4841) |
-| test : add unit tests for validationApi response helpers | Medium | [#4837](https://github.com/SandeepVashishtha/Eventra/issues/4837) |
-| test : add unit tests for inputSanitization utilities | Medium | [#4834](https://github.com/SandeepVashishtha/Eventra/issues/4834) |
-| test : add unit tests for jsonUtils safeParseJson | Medium | [#4830](https://github.com/SandeepVashishtha/Eventra/issues/4830) |
-| test : add unit tests for advancedFilterUtils utility | Medium | [#4829](https://github.com/SandeepVashishtha/Eventra/issues/4829) |
-| test : add unit tests for notificationPreferences utility | Medium | [#4827](https://github.com/SandeepVashishtha/Eventra/issues/4827) |
-| test : add unit tests for errorLogger utility | Medium | [#4825](https://github.com/SandeepVashishtha/Eventra/issues/4825) |
-| test : add unit tests for asyncValidators utility | Medium | [#4823](https://github.com/SandeepVashishtha/Eventra/issues/4823) |
+| Implement offline queue processing pipeline — offlineQueue.js has no replay mechanism | Medium | [#5515](https://github.com/SandeepVashishtha/Eventra/issues/5515) |
+| Add backend ticket validation and check-in sync to TicketScanner.jsx | Medium | [#5514](https://github.com/SandeepVashishtha/Eventra/issues/5514) |
+| Replace mock data in AdminDashboard.js with real backend API integration and pagination | Medium | [#5513](https://github.com/SandeepVashishtha/Eventra/issues/5513) |
+| Further decompose EventCreation.jsx 1,270-line component — extract validation, fields, and form hook | Medium | [#5512](https://github.com/SandeepVashishtha/Eventra/issues/5512) |
+| Decompose FloorPlanDesigner.js 1,491-line monolith into focused sub-components and utilities | Medium | [#5511](https://github.com/SandeepVashishtha/Eventra/issues/5511) |
+| Activity level legend does not match node representation in collaboration network | Medium | [#5510](https://github.com/SandeepVashishtha/Eventra/issues/5510) |
+| perf: Script freezes indefinitely on heavy Git hooks or GPG passphrase prompts due to execSync loop | Medium | [#5509](https://github.com/SandeepVashishtha/Eventra/issues/5509) |
+| feature: Replace destructive local branch deletion with safety checks | Medium | [#5508](https://github.com/SandeepVashishtha/Eventra/issues/5508) |
+| Bug: Search functionality broken and input character limit enforced | Medium | [#5507](https://github.com/SandeepVashishtha/Eventra/issues/5507) |
+| bug: Replacement fallback logic pollutes Git diffs by converting entire file line endings | Medium | [#5506](https://github.com/SandeepVashishtha/Eventra/issues/5506) |
+| bug: Silent replacement failure and subsequent commit crashes on Windows platforms. | Medium | [#5505](https://github.com/SandeepVashishtha/Eventra/issues/5505) |
+| bug: Script crashes on consecutive loops if a branch creation fails or working directory becomes dirty | Medium | [#5504](https://github.com/SandeepVashishtha/Eventra/issues/5504) |
+| /feedback/survey-builder redirects unauthenticated users to /unauthorized instead of /login | Medium | [#5498](https://github.com/SandeepVashishtha/Eventra/issues/5498) |
+| getClientIp.js trusts X-Forwarded-For without verification — IP spoofing bypasses rate limiting | Medium | [#5491](https://github.com/SandeepVashishtha/Eventra/issues/5491) |
+| leaderboard.js uses GITHUB_TOKEN with no authentication — unauthenticated proxy drains GitHub API quota | Medium | [#5490](https://github.com/SandeepVashishtha/Eventra/issues/5490) |
+| signup.js includes permissions in JWT — inconsistent with login.js, stale permission grants | Medium | [#5489](https://github.com/SandeepVashishtha/Eventra/issues/5489) |
+| Service worker references undefined BACKGROUND_SYNC_TAG — background sync completely broken | Medium | [#5488](https://github.com/SandeepVashishtha/Eventra/issues/5488) |
+| /admin redirects unauthenticated users to /unauthorized instead of /login | Medium | [#5487](https://github.com/SandeepVashishtha/Eventra/issues/5487) |
+| rateLimit.js stores maxRequests in entry but never reads it — dead field | Medium | [#5486](https://github.com/SandeepVashishtha/Eventra/issues/5486) |
 
 ---
 
