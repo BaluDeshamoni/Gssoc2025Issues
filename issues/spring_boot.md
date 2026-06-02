@@ -129,28 +129,25 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: Document the purpose of src/jhalak/ directory | Medium | [#1711](https://github.com/SandeepVashishtha/Eventra/issues/1711) |
-| Improve Header UI and Add User Information & Login Section | Medium | [#1710](https://github.com/SandeepVashishtha/Eventra/issues/1710) |
-| Add Reusable Copy Link Button with Clipboard API & Toast Feedback | Medium | [#1709](https://github.com/SandeepVashishtha/Eventra/pull/1709) |
-| fix(EventRecommendations): wrap localStorage parsing in try-catch to … | Medium | [#1708](https://github.com/SandeepVashishtha/Eventra/pull/1708) |
-| fix(AuthContext): resolve bracket syntax error and expose missing hel… | Medium | [#1707](https://github.com/SandeepVashishtha/Eventra/pull/1707) |
-| Add Unsaved Changes Protection & Draft Persistence Enhancement for Event Creation Form | Medium | [#1706](https://github.com/SandeepVashishtha/Eventra/pull/1706) |
-| Exposure of sensitive API secrets in client-side React bundle | Medium | [#1705](https://github.com/SandeepVashishtha/Eventra/issues/1705) |
-| Inconsistent hardcoded Azure Backend URLs across configuration files | Medium | [#1704](https://github.com/SandeepVashishtha/Eventra/issues/1704) |
-| Insecure storage of authentication tokens and plaintext encryption keys in localStorage | Medium | [#1703](https://github.com/SandeepVashishtha/Eventra/issues/1703) |
-| fix(EditProfile): wrap localstorage JSON parsing in try-catch to prev… | Medium | [#1701](https://github.com/SandeepVashishtha/Eventra/pull/1701) |
-| fix: replace native alert() and confirm() with react-toastify | Medium | [#1700](https://github.com/SandeepVashishtha/Eventra/pull/1700) |
-| 💫 Add Route-Aware Active Link Highlighting for Improved Navigation Experience | Medium | [#1698](https://github.com/SandeepVashishtha/Eventra/pull/1698) |
-| Fix/remove production api logs | Medium | [#1697](https://github.com/SandeepVashishtha/Eventra/pull/1697) |
-| fix: remove redundant empty beforeunload listener from SessionRecover… | Medium | [#1694](https://github.com/SandeepVashishtha/Eventra/pull/1694) |
-| fix: stabilize markAllAsRead dependency array to prevent context re-r… | Medium | [#1693](https://github.com/SandeepVashishtha/Eventra/pull/1693) |
-| fix: replace mock registration logic with real backend API integration | Medium | [#1692](https://github.com/SandeepVashishtha/Eventra/pull/1692) |
-| Enhanced reusable BackToTop component with smooth scrolling, accessibility improvements, and scroll progress indicator | Medium | [#1688](https://github.com/SandeepVashishtha/Eventra/pull/1688) |
-| fix: correct POINTS config keys to match normalized GSSoC label format in Leaderboard | Medium | [#1687](https://github.com/SandeepVashishtha/Eventra/pull/1687) |
-| fix: resolve infinite rebase abort loop in custom merge driver | Medium | [#1686](https://github.com/SandeepVashishtha/Eventra/pull/1686) |
-| feat: add sorting options for hackathons by deadline, popularity, newest, and prize amount | Medium | [#1684](https://github.com/SandeepVashishtha/Eventra/pull/1684) |
-| fix: remove unused imports and variables causing ESLint warnings | Medium | [#1683](https://github.com/SandeepVashishtha/Eventra/pull/1683) |
-| fix: move calculateTimeLeft inside useEffect to resolve exhaustive-deps warning | Medium | [#1682](https://github.com/SandeepVashishtha/Eventra/pull/1682) |
+| Implement offline queue processing pipeline — offlineQueue.js has no replay mechanism | Medium | [#5515](https://github.com/SandeepVashishtha/Eventra/issues/5515) |
+| Add backend ticket validation and check-in sync to TicketScanner.jsx | Medium | [#5514](https://github.com/SandeepVashishtha/Eventra/issues/5514) |
+| Replace mock data in AdminDashboard.js with real backend API integration and pagination | Medium | [#5513](https://github.com/SandeepVashishtha/Eventra/issues/5513) |
+| Further decompose EventCreation.jsx 1,270-line component — extract validation, fields, and form hook | Medium | [#5512](https://github.com/SandeepVashishtha/Eventra/issues/5512) |
+| Decompose FloorPlanDesigner.js 1,491-line monolith into focused sub-components and utilities | Medium | [#5511](https://github.com/SandeepVashishtha/Eventra/issues/5511) |
+| Activity level legend does not match node representation in collaboration network | Medium | [#5510](https://github.com/SandeepVashishtha/Eventra/issues/5510) |
+| perf: Script freezes indefinitely on heavy Git hooks or GPG passphrase prompts due to execSync loop | Medium | [#5509](https://github.com/SandeepVashishtha/Eventra/issues/5509) |
+| feature: Replace destructive local branch deletion with safety checks | Medium | [#5508](https://github.com/SandeepVashishtha/Eventra/issues/5508) |
+| Bug: Search functionality broken and input character limit enforced | Medium | [#5507](https://github.com/SandeepVashishtha/Eventra/issues/5507) |
+| bug: Replacement fallback logic pollutes Git diffs by converting entire file line endings | Medium | [#5506](https://github.com/SandeepVashishtha/Eventra/issues/5506) |
+| bug: Silent replacement failure and subsequent commit crashes on Windows platforms. | Medium | [#5505](https://github.com/SandeepVashishtha/Eventra/issues/5505) |
+| bug: Script crashes on consecutive loops if a branch creation fails or working directory becomes dirty | Medium | [#5504](https://github.com/SandeepVashishtha/Eventra/issues/5504) |
+| /feedback/survey-builder redirects unauthenticated users to /unauthorized instead of /login | Medium | [#5498](https://github.com/SandeepVashishtha/Eventra/issues/5498) |
+| getClientIp.js trusts X-Forwarded-For without verification — IP spoofing bypasses rate limiting | Medium | [#5491](https://github.com/SandeepVashishtha/Eventra/issues/5491) |
+| leaderboard.js uses GITHUB_TOKEN with no authentication — unauthenticated proxy drains GitHub API quota | Medium | [#5490](https://github.com/SandeepVashishtha/Eventra/issues/5490) |
+| signup.js includes permissions in JWT — inconsistent with login.js, stale permission grants | Medium | [#5489](https://github.com/SandeepVashishtha/Eventra/issues/5489) |
+| Service worker references undefined BACKGROUND_SYNC_TAG — background sync completely broken | Medium | [#5488](https://github.com/SandeepVashishtha/Eventra/issues/5488) |
+| /admin redirects unauthenticated users to /unauthorized instead of /login | Medium | [#5487](https://github.com/SandeepVashishtha/Eventra/issues/5487) |
+| rateLimit.js stores maxRequests in entry but never reads it — dead field | Medium | [#5486](https://github.com/SandeepVashishtha/Eventra/issues/5486) |
 
 ---
 
