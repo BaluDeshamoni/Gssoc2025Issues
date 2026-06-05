@@ -1,5 +1,23 @@
 # 🚀 Projects using C++
 
+## 📌 Project: Healconnect 
+
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
+
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: implement robust Edge RBAC route protection and unauthorized ac… | Medium | [#740](https://github.com/Dipanita45/HEALCONNECT/pull/740) |
+
+---
+
 ## 📌 Project: cpp-sdk-appwrite
 
 📝 **Description:** The first ever C++ SDK for Appwrite, build from scratch!
@@ -35,12 +53,14 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | feat(graph): Add operator<< overload for CinderGraph to support printing graph info | Easy | [#317](https://github.com/SharonIV0x86/CinderPeak/issues/317) |
-| fix(warnings): Resolve [[nodiscard]] compiler warnings in HybridCSR_COO unit tests | Easy | [#312](https://github.com/SharonIV0x86/CinderPeak/issues/312) |
-| Mathematically Incorrect Density Calculation for Undirected Graphs (Exceeds 1.0) | Easy | [#310](https://github.com/SharonIV0x86/CinderPeak/issues/310) |
-| Data Race via Unprotected Reference Return in AdjacencyList Getters | Easy | [#309](https://github.com/SharonIV0x86/CinderPeak/issues/309) |
-| style: Fix typos and grammatical errors in Adjacency List logging strings | Easy | [#307](https://github.com/SharonIV0x86/CinderPeak/issues/307) |
 | docs: Add beginner guide for new contributors | Easy | [#299](https://github.com/SharonIV0x86/CinderPeak/issues/299) |
+| Implement Intelligent Recommendation Engine for User Actions and Resources | Easy | [#282](https://github.com/SharonIV0x86/CinderPeak/issues/282) |
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
+| Thread-Safety Issue in CinderVertex/CinderEdge ID Generation | Medium | [#327](https://github.com/SharonIV0x86/CinderPeak/issues/327) |
+| fix(warnings): Resolve MSVC compiler warning C4996 in PeakLogger.hpp | Medium | [#326](https://github.com/SharonIV0x86/CinderPeak/issues/326) |
+| refactor: Resolve unused parameter warning in Events/DefaultListeners.hpp | Medium | [#325](https://github.com/SharonIV0x86/CinderPeak/issues/325) |
+| fix(warnings): resolve [[nodiscard]] compiler warnings in HybridCSR_C… | Medium | [#324](https://github.com/SharonIV0x86/CinderPeak/pull/324) |
+| Add SECURITY.md to define vulnerability reporting process | Medium | [#320](https://github.com/SharonIV0x86/CinderPeak/issues/320) |
 | Corrected `updateEdge` return value and propagate storage operation failures | Medium | [#319](https://github.com/SharonIV0x86/CinderPeak/pull/319) |
 | feat: structured exception mapping and contextual error reporting (#298) | Medium | [#318](https://github.com/SharonIV0x86/CinderPeak/pull/318) |
 | Fix: Add missing section 4 for duplicate edge handling in addEdge_usa… | Medium | [#315](https://github.com/SharonIV0x86/CinderPeak/pull/315) |
