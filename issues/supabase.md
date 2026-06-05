@@ -85,36 +85,32 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a Local Development Troubleshooting section to FAQ.md | Easy | [#913](https://github.com/Muneerali199/Draftdeckai/issues/913) |
-| [Feature]: Add environment variable validation at startup | Easy | [#901](https://github.com/Muneerali199/Draftdeckai/issues/901) |
-| [Feature]: Complete docker-compose with PostgreSQL and Next.js services | Easy | [#896](https://github.com/Muneerali199/Draftdeckai/issues/896) |
-| [Cleanup]: Remove test/debug files from production extension bundle | Easy | [#889](https://github.com/Muneerali199/Draftdeckai/issues/889) |
-| [Bug]: Duplicate event listeners in popup.js — study plan handler registered twice | Easy | [#888](https://github.com/Muneerali199/Draftdeckai/issues/888) |
-| Bug: POST /api/analyze/resume has no authentication and no file size limit, enabling anonymous abuse and memory exhaustion | Medium | [#919](https://github.com/Muneerali199/Draftdeckai/issues/919) |
-| security: share CORS and security headers | Medium | [#918](https://github.com/Muneerali199/Draftdeckai/pull/918) |
-| fix: return created status for creation APIs | Medium | [#917](https://github.com/Muneerali199/Draftdeckai/pull/917) |
-| Fix/developer bypass guard | Medium | [#916](https://github.com/Muneerali199/Draftdeckai/pull/916) |
-| docs: add comprehensive local troubleshooting section to FAQ closes #913 | Medium | [#915](https://github.com/Muneerali199/Draftdeckai/pull/915) |
-| refactor: consolidate generation APIs under /api/v2/generate (#849) | Medium | [#914](https://github.com/Muneerali199/Draftdeckai/pull/914) |
-| feat: add team workspaces with shared templates and collaboration (#848) | Medium | [#912](https://github.com/Muneerali199/Draftdeckai/pull/912) |
-| feat: added validator that rejects unauthorized msgs | Medium | [#911](https://github.com/Muneerali199/Draftdeckai/pull/911) |
-| refactor: completely remove firebase dependencies and config (#858) | Medium | [#910](https://github.com/Muneerali199/Draftdeckai/pull/910) |
-| fix(extension): expose mcp server without module export | Medium | [#907](https://github.com/Muneerali199/Draftdeckai/pull/907) |
-| Implemented a lightweight Semantic Memory & Context Compression pipeline for long‑form document generation | Medium | [#906](https://github.com/Muneerali199/Draftdeckai/pull/906) |
-| Feature/ai resume translator | Medium | [#905](https://github.com/Muneerali199/Draftdeckai/pull/905) |
-| feat : add animated loading screens and skeletons for all route pages | Medium | [#904](https://github.com/Muneerali199/Draftdeckai/pull/904) |
-| security: share CORS and security header config | Medium | [#903](https://github.com/Muneerali199/Draftdeckai/pull/903) |
-| [Feature]: Add graceful shutdown with signal handling | Medium | [#902](https://github.com/Muneerali199/Draftdeckai/issues/902) |
-| [Feature]: Implement RBAC middleware for role-based access control | Medium | [#900](https://github.com/Muneerali199/Draftdeckai/issues/900) |
-| [Testing]: Write unit tests for auth middleware, error utils, and custom middleware | Medium | [#897](https://github.com/Muneerali199/Draftdeckai/issues/897) |
-| [Feature]: Make readyz endpoint actually check downstream dependencies | Medium | [#895](https://github.com/Muneerali199/Draftdeckai/issues/895) |
-| [UX]: Add opt-in consent for LinkedIn profile data extraction | Medium | [#892](https://github.com/Muneerali199/Draftdeckai/issues/892) |
-| [Refactor]: Add structured logging with slog | Hard | [#899](https://github.com/Muneerali199/Draftdeckai/issues/899) |
-| [Security]: Add JWT audience and issuer validation | Hard | [#898](https://github.com/Muneerali199/Draftdeckai/issues/898) |
-| [Feature]: Add rate limiting middleware | Hard | [#894](https://github.com/Muneerali199/Draftdeckai/issues/894) |
-| [Feature]: Add PostgreSQL database layer with pgx connection pooling | Hard | [#893](https://github.com/Muneerali199/Draftdeckai/issues/893) |
-| [Security]: Add sender ID validation to message handler to prevent cross-extension attacks | Hard | [#891](https://github.com/Muneerali199/Draftdeckai/issues/891) |
-| [Security]: Move Gemini API key from URL query param to HTTP header | Hard | [#890](https://github.com/Muneerali199/Draftdeckai/issues/890) |
+| Consolidate toast notifications to use a single library | Easy | [#956](https://github.com/Muneerali199/Draftdeckai/issues/956) |
+| Write unit tests for core UI components with Vitest and Testing Library | Easy | [#954](https://github.com/Muneerali199/Draftdeckai/issues/954) |
+| Remove duplicate and legacy files across the codebase | Easy | [#949](https://github.com/Muneerali199/Draftdeckai/issues/949) |
+| Add skeleton loading.tsx to all missing page routes | Easy | [#947](https://github.com/Muneerali199/Draftdeckai/issues/947) |
+| Add dynamic Open Graph image generation for shared content | Easy | [#946](https://github.com/Muneerali199/Draftdeckai/issues/946) |
+| Add image optimization pipeline using sharp for all user uploads | Medium | [#955](https://github.com/Muneerali199/Draftdeckai/issues/955) |
+| Add dark mode support to all document editors and builders | Medium | [#952](https://github.com/Muneerali199/Draftdeckai/issues/952) |
+| Consolidate frontend data export and add data import functionality | Medium | [#951](https://github.com/Muneerali199/Draftdeckai/issues/951) |
+| Add PWA offline support with rich offline page and background sync | Medium | [#950](https://github.com/Muneerali199/Draftdeckai/issues/950) |
+| Write integration tests for Stripe webhook endpoint | Medium | [#948](https://github.com/Muneerali199/Draftdeckai/issues/948) |
+| Create new user onboarding wizard | Medium | [#945](https://github.com/Muneerali199/Draftdeckai/issues/945) |
+| refactor: replace ts-ignore directives with types | Medium | [#943](https://github.com/Muneerali199/Draftdeckai/pull/943) |
+| refactor: consolidate error display UI | Medium | [#942](https://github.com/Muneerali199/Draftdeckai/pull/942) |
+| refactor: move rate limit thresholds to config | Medium | [#941](https://github.com/Muneerali199/Draftdeckai/pull/941) |
+| feat: add usage dashboard with visual analytics breakdown (fixes #847) | Medium | [#940](https://github.com/Muneerali199/Draftdeckai/pull/940) |
+| feat: add empty and error states to data-driven UI | Medium | [#939](https://github.com/Muneerali199/Draftdeckai/pull/939) |
+| Fix: Add authentication and input size limits to resume analysis endpoint | Medium | [#938](https://github.com/Muneerali199/Draftdeckai/pull/938) |
+| test: add Go backend auth and middleware coverage | Medium | [#937](https://github.com/Muneerali199/Draftdeckai/pull/937) |
+| API Key Exposed in Frontend Bundle - Credentials Visible in Browser | Medium | [#934](https://github.com/Muneerali199/Draftdeckai/issues/934) |
+| Design Export Produces Incorrect Layer Order - Z-index Not Preserved | Medium | [#933](https://github.com/Muneerali199/Draftdeckai/issues/933) |
+| Real-time Collaboration Loses Changes on Network Reconnect - Race Condition | Medium | [#932](https://github.com/Muneerali199/Draftdeckai/issues/932) |
+| Design Rendering Freezes on Large Canvases - N+1 Layer Queries | Medium | [#931](https://github.com/Muneerali199/Draftdeckai/issues/931) |
+| Design File Upload Accepts Arbitrary File Types - RCE Risk | Medium | [#930](https://github.com/Muneerali199/Draftdeckai/issues/930) |
+| Add inline validation to key forms | Medium | [#923](https://github.com/Muneerali199/Draftdeckai/pull/923) |
+| Add structured logging system across the entire backend | Hard | [#953](https://github.com/Muneerali199/Draftdeckai/issues/953) |
+| Build admin dashboard for user and system management | Hard | [#944](https://github.com/Muneerali199/Draftdeckai/issues/944) |
 
 ---
 
@@ -214,6 +210,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add User Feedback and Rating System | Medium | [#56](https://github.com/Jyotibrat/AI-Flow/issues/56) |
+| chore: add unified lint, format, and concurrent dev workflows | Medium | [#55](https://github.com/Jyotibrat/AI-Flow/pull/55) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
 ---
