@@ -208,20 +208,20 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| ci: disable credential persistence in checkout steps | Medium | [#4817](https://github.com/OWASP/Nest/pull/4817) |
-| Snapshot model field | Medium | [#4816](https://github.com/OWASP/Nest/pull/4816) |
-| chore(deps): bump tailwind-merge in /frontend | Medium | [#4815](https://github.com/OWASP/Nest/pull/4815) |
-| chore(deps): bump posthog-js in /frontend | Medium | [#4814](https://github.com/OWASP/Nest/pull/4814) |
-| chore(deps): bump apexcharts in /frontend | Medium | [#4813](https://github.com/OWASP/Nest/pull/4813) |
+| chore(deps): bump github/codeql-action from 4.35.4 to 4.35.5 in the version-updates group across 1 directory | Medium | [#4837](https://github.com/OWASP/Nest/pull/4837) |
+| chore(deps): bump strawberry-graphql in / | Medium | [#4836](https://github.com/OWASP/Nest/pull/4836) |
+| Generalize production and staging workflows | Medium | [#4835](https://github.com/OWASP/Nest/pull/4835) |
+| Removing `undefined` type or `?` specifier. | Medium | [#4833](https://github.com/OWASP/Nest/issues/4833) |
+| Implement GraphQL Queries for Candidate Claim Data | Medium | [#4832](https://github.com/OWASP/Nest/pull/4832) |
+| Extend snapshot processing and GraphQL API for new entity types | Medium | [#4831](https://github.com/OWASP/Nest/pull/4831) |
+| NestBot auto reply re-processes AI responses before posting | Medium | [#4828](https://github.com/OWASP/Nest/issues/4828) |
+| Extract SBOMs generation and upload to a separate reusable workflow | Medium | [#4827](https://github.com/OWASP/Nest/pull/4827) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4811](https://github.com/OWASP/Nest/pull/4811) |
-| Extract run-zap-baseline-scan into a reusable workflow | Medium | [#4808](https://github.com/OWASP/Nest/pull/4808) |
-| Implement GraphQL Queries and Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
+| Implement GraphQL Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
 | Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
 | Improve header accessibility and keyboard navigation support | Medium | [#4804](https://github.com/OWASP/Nest/issues/4804) |
 | Feat/revamp member profile page | Medium | [#4797](https://github.com/OWASP/Nest/pull/4797) |
 | Introduce GitHub action/workflow files pre-commit checks | Medium | [#4746](https://github.com/OWASP/Nest/issues/4746) |
-| Add Django Models for Candidate Claim Data | Medium | [#4743](https://github.com/OWASP/Nest/pull/4743) |
-| Added contribution recognition core data models | Medium | [#4736](https://github.com/OWASP/Nest/pull/4736) |
 
 ---
 
@@ -570,6 +570,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add lamp indicator toggle for login and signup forms | Medium | [#1860](https://github.com/omroy07/AgriTech/pull/1860) |
+| Add prediction comparison feature | Medium | [#1859](https://github.com/omroy07/AgriTech/pull/1859) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
 | Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
@@ -1061,36 +1063,34 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Contributors section silently renders empty when GitHub fetch fails | Easy | [#424](https://github.com/aayushraj1010/med-genie/issues/424) |
+| feat: Add configurable chat history retention limit to reduce token usage | Medium | [#446](https://github.com/aayushraj1010/med-genie/issues/446) |
+| Contact Us navbar link is non-functional | Medium | [#445](https://github.com/aayushraj1010/med-genie/issues/445) |
+| Unauthenticated users can access the specialist recommendation system | Medium | [#444](https://github.com/aayushraj1010/med-genie/issues/444) |
+| Newsletter Subscribe Button in Footer Does Nothing | Medium | [#443](https://github.com/aayushraj1010/med-genie/issues/443) |
+| Specialist recommendations are generated for invalid or non-medical symptom inputs | Medium | [#442](https://github.com/aayushraj1010/med-genie/issues/442) |
+| implement Location-Based Hospital Search | Medium | [#441](https://github.com/aayushraj1010/med-genie/issues/441) |
+| Persist Dark/Light Theme Using Local Storage | Medium | [#440](https://github.com/aayushraj1010/med-genie/issues/440) |
+| Add Form Validation to Symptom Checker | Medium | [#439](https://github.com/aayushraj1010/med-genie/issues/439) |
+| Add Loading Indicator During AI Response Generation | Medium | [#438](https://github.com/aayushraj1010/med-genie/issues/438) |
+| Once logged in, the navbar again shows login button | Medium | [#437](https://github.com/aayushraj1010/med-genie/issues/437) |
+| Refactor Hero component to HeroSection with UI updates | Medium | [#436](https://github.com/aayushraj1010/med-genie/pull/436) |
+| Add light and dark theme toggle to the dashboard | Medium | [#435](https://github.com/aayushraj1010/med-genie/issues/435) |
+| Add Signup button to navbar and restrict login to registered users only | Medium | [#434](https://github.com/aayushraj1010/med-genie/issues/434) |
+| Add Dynamic Time-Based Greeting to the Hero Section | Medium | [#433](https://github.com/aayushraj1010/med-genie/issues/433) |
+| Enhance Hero Section with Relevant Medical Illustration and Visual Elements | Medium | [#432](https://github.com/aayushraj1010/med-genie/issues/432) |
+| Enhance Navbar UI with Modern Styling and Improved Visual Hierarchy | Medium | [#431](https://github.com/aayushraj1010/med-genie/issues/431) |
+| Enhancement: Add "View More" toggle to FAQ section | Medium | [#430](https://github.com/aayushraj1010/med-genie/issues/430) |
+| Medical Query Intent Classification | Medium | [#427](https://github.com/aayushraj1010/med-genie/issues/427) |
+| Feature Request: Implement Rate Limiting and Robust API Error Handling | Medium | [#426](https://github.com/aayushraj1010/med-genie/issues/426) |
+| Improve signup validation and account cleanup handling | Medium | [#425](https://github.com/aayushraj1010/med-genie/pull/425) |
+| Bug: BackgroundParticles animation loop is not fully cleaned up | Medium | [#423](https://github.com/aayushraj1010/med-genie/issues/423) |
+| Fix Dependency Resolution Conflict During npm Install | Medium | [#422](https://github.com/aayushraj1010/med-genie/issues/422) |
 | Contact Us Page Not Working from Nav bar ! | Medium | [#420](https://github.com/aayushraj1010/med-genie/issues/420) |
 | Add a Light Mode | Medium | [#419](https://github.com/aayushraj1010/med-genie/issues/419) |
 | # [ENHANCEMENT] Add Offline Detection & Automatic Recovery for Better Chat Reliability | Medium | [#418](https://github.com/aayushraj1010/med-genie/issues/418) |
 | fix: add back navigation to privacy, terms and cookie pages | Medium | [#417](https://github.com/aayushraj1010/med-genie/pull/417) |
-| Multiple UI and Functional Issues in Light Mode | Medium | [#416](https://github.com/aayushraj1010/med-genie/issues/416) |
 | Add navbar and responsive styles to background.css | Medium | [#415](https://github.com/aayushraj1010/med-genie/pull/415) |
-| Improve navbar responsiveness across all devices | Medium | [#414](https://github.com/aayushraj1010/med-genie/issues/414) |
-| Bug: AI chat requests fail with 500 Internal Server Error on homepage | Medium | [#413](https://github.com/aayushraj1010/med-genie/issues/413) |
-| Navbar Overlapping Page Content | Medium | [#412](https://github.com/aayushraj1010/med-genie/issues/412) |
-| Design a Customized Logo & Favicon for Better Branding | Medium | [#411](https://github.com/aayushraj1010/med-genie/issues/411) |
-| Forgot Password API crashes with 500 error due to Prisma schema mismatch | Medium | [#410](https://github.com/aayushraj1010/med-genie/issues/410) |
-| Chatbot response failure and broken routes in deployed application | Medium | [#409](https://github.com/aayushraj1010/med-genie/issues/409) |
-| Fix: Theme resets to default light mode when navigating via navbar | Medium | [#408](https://github.com/aayushraj1010/med-genie/pull/408) |
-| fix: README.md has duplicate content and structural errors | Medium | [#407](https://github.com/aayushraj1010/med-genie/issues/407) |
-| Fix Weak Signup Validation and Duplicate Username Registration Issues | Medium | [#406](https://github.com/aayushraj1010/med-genie/issues/406) |
-| Fix Google OAuth 2.0 Compliance Error (Error 400: invalid_request) | Medium | [#405](https://github.com/aayushraj1010/med-genie/issues/405) |
-| fix: improve chat readability and input bar UI in light theme | Medium | [#404](https://github.com/aayushraj1010/med-genie/pull/404) |
-| [GSSoC'26] Improve chat readability and input bar UI in light theme | Medium | [#403](https://github.com/aayushraj1010/med-genie/issues/403) |
-| Implementation of Rate Limiting and Brute-Force Protection for Authentication Endpoints | Medium | [#402](https://github.com/aayushraj1010/med-genie/issues/402) |
-| # Bug: AI assistant fails intermittently and login is requested repeatedly across tabs | Medium | [#400](https://github.com/aayushraj1010/med-genie/issues/400) |
-| Added initial project setup updates | Medium | [#399](https://github.com/aayushraj1010/med-genie/pull/399) |
-| Title: [BUG] [GSSoC '26] Chat Input Allows Empty or Only-Space Messages | Medium | [#398](https://github.com/aayushraj1010/med-genie/issues/398) |
-| Title: [ENHANCEMENT] [GSSoC '26] Add Copy Response Button for AI Chat Messages | Medium | [#397](https://github.com/aayushraj1010/med-genie/issues/397) |
-| feat: improve AI response feedback states in chat interface | Medium | [#396](https://github.com/aayushraj1010/med-genie/pull/396) |
-| fix(auth) : populate user data during token refresh | Medium | [#395](https://github.com/aayushraj1010/med-genie/pull/395) |
-| [UI]: Add a 404 Not Found page for invalid routes | Medium | [#394](https://github.com/aayushraj1010/med-genie/issues/394) |
-| [GSSoC '26] Add Back Navigation to Cookies, Terms, and Privacy Pages | Medium | [#393](https://github.com/aayushraj1010/med-genie/issues/393) |
-| [GSSoC '26] cookies.html and terms.html shows 404 Despite Existing TSX Page | Medium | [#392](https://github.com/aayushraj1010/med-genie/issues/392) |
-| Enhance FAQ and Our Process sections with better UI/UX and interactive healthcare workflow presentation | Medium | [#391](https://github.com/aayushraj1010/med-genie/issues/391) |
-| Toggle does not show on the landing page | Medium | [#390](https://github.com/aayushraj1010/med-genie/issues/390) |
 
 ---
 
