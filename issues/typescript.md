@@ -91,20 +91,20 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| ci: disable credential persistence in checkout steps | Medium | [#4817](https://github.com/OWASP/Nest/pull/4817) |
-| Snapshot model field | Medium | [#4816](https://github.com/OWASP/Nest/pull/4816) |
-| chore(deps): bump tailwind-merge in /frontend | Medium | [#4815](https://github.com/OWASP/Nest/pull/4815) |
-| chore(deps): bump posthog-js in /frontend | Medium | [#4814](https://github.com/OWASP/Nest/pull/4814) |
-| chore(deps): bump apexcharts in /frontend | Medium | [#4813](https://github.com/OWASP/Nest/pull/4813) |
+| chore(deps): bump github/codeql-action from 4.35.4 to 4.35.5 in the version-updates group across 1 directory | Medium | [#4837](https://github.com/OWASP/Nest/pull/4837) |
+| chore(deps): bump strawberry-graphql in / | Medium | [#4836](https://github.com/OWASP/Nest/pull/4836) |
+| Generalize production and staging workflows | Medium | [#4835](https://github.com/OWASP/Nest/pull/4835) |
+| Removing `undefined` type or `?` specifier. | Medium | [#4833](https://github.com/OWASP/Nest/issues/4833) |
+| Implement GraphQL Queries for Candidate Claim Data | Medium | [#4832](https://github.com/OWASP/Nest/pull/4832) |
+| Extend snapshot processing and GraphQL API for new entity types | Medium | [#4831](https://github.com/OWASP/Nest/pull/4831) |
+| NestBot auto reply re-processes AI responses before posting | Medium | [#4828](https://github.com/OWASP/Nest/issues/4828) |
+| Extract SBOMs generation and upload to a separate reusable workflow | Medium | [#4827](https://github.com/OWASP/Nest/pull/4827) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4811](https://github.com/OWASP/Nest/pull/4811) |
-| Extract run-zap-baseline-scan into a reusable workflow | Medium | [#4808](https://github.com/OWASP/Nest/pull/4808) |
-| Implement GraphQL Queries and Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
+| Implement GraphQL Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
 | Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
 | Improve header accessibility and keyboard navigation support | Medium | [#4804](https://github.com/OWASP/Nest/issues/4804) |
 | Feat/revamp member profile page | Medium | [#4797](https://github.com/OWASP/Nest/pull/4797) |
 | Introduce GitHub action/workflow files pre-commit checks | Medium | [#4746](https://github.com/OWASP/Nest/issues/4746) |
-| Add Django Models for Candidate Claim Data | Medium | [#4743](https://github.com/OWASP/Nest/pull/4743) |
-| Added contribution recognition core data models | Medium | [#4736](https://github.com/OWASP/Nest/pull/4736) |
 
 ---
 
@@ -599,6 +599,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Client Contact Info Exposed in Lawyer Dashboard - Privacy Leak | Medium | [#134](https://github.com/yashvikram30/legalease/issues/134) |
+| Payment Dispute Resolution Missing - No Recourse for Billing Disputes | Medium | [#133](https://github.com/yashvikram30/legalease/issues/133) |
+| Case Confidentiality Not Enforced - Case Details Visible to Other Lawyers | Medium | [#132](https://github.com/yashvikram30/legalease/issues/132) |
+| Lawyer Search Slow - No Indexing on Specialization | Medium | [#131](https://github.com/yashvikram30/legalease/issues/131) |
+| Lawyer Credentials Not Verified - Unqualified Practitioners Listed | Medium | [#130](https://github.com/yashvikram30/legalease/issues/130) |
 | AI Chatbot Not Responding to User Queries and Document Upload Feature Failing in LegalEase App | Medium | [#123](https://github.com/yashvikram30/legalease/issues/123) |
 | UI Issue: Footer Margin Problem | Medium | [#122](https://github.com/yashvikram30/legalease/issues/122) |
 | AI-Powered Legal Template Generator | Medium | [#121](https://github.com/yashvikram30/legalease/issues/121) |
@@ -616,8 +621,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Revamp Landing page | Medium | [#73](https://github.com/yashvikram30/legalease/pull/73) |
 | To add good Background | Medium | [#70](https://github.com/yashvikram30/legalease/issues/70) |
 | Bug: Dark Theme Not Working | Medium | [#69](https://github.com/yashvikram30/legalease/issues/69) |
-| Addition of a Appointment Booking System | Medium | [#68](https://github.com/yashvikram30/legalease/issues/68) |
-| refactor: improve Terms & Privacy line styling on signup page | Medium | [#66](https://github.com/yashvikram30/legalease/pull/66) |
 
 ---
 
@@ -663,6 +666,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| Fix React Server Components CVE vulnerabilities | Medium | [#124](https://github.com/ajaynegi45/Old-School-Game/pull/124) |
+| feat: add Sliding Puzzle (15 Puzzle) game (closes #4) | Medium | [#123](https://github.com/ajaynegi45/Old-School-Game/pull/123) |
 | Add new brain game: Word Ladder | Medium | [#122](https://github.com/ajaynegi45/Old-School-Game/pull/122) |
 | fix: increase navbar title font size to improve visibility (closes #114) | Medium | [#121](https://github.com/ajaynegi45/Old-School-Game/pull/121) |
 | feat: Implement new 'Brain Train' UI redesign with pure CSS | Medium | [#119](https://github.com/ajaynegi45/Old-School-Game/pull/119) |
@@ -872,6 +877,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add User Feedback and Rating System | Medium | [#56](https://github.com/Jyotibrat/AI-Flow/issues/56) |
+| chore: add unified lint, format, and concurrent dev workflows | Medium | [#55](https://github.com/Jyotibrat/AI-Flow/pull/55) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
 ---
