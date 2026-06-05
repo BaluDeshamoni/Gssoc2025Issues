@@ -158,20 +158,20 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| ci: disable credential persistence in checkout steps | Medium | [#4817](https://github.com/OWASP/Nest/pull/4817) |
-| Snapshot model field | Medium | [#4816](https://github.com/OWASP/Nest/pull/4816) |
-| chore(deps): bump tailwind-merge in /frontend | Medium | [#4815](https://github.com/OWASP/Nest/pull/4815) |
-| chore(deps): bump posthog-js in /frontend | Medium | [#4814](https://github.com/OWASP/Nest/pull/4814) |
-| chore(deps): bump apexcharts in /frontend | Medium | [#4813](https://github.com/OWASP/Nest/pull/4813) |
+| chore(deps): bump github/codeql-action from 4.35.4 to 4.35.5 in the version-updates group across 1 directory | Medium | [#4837](https://github.com/OWASP/Nest/pull/4837) |
+| chore(deps): bump strawberry-graphql in / | Medium | [#4836](https://github.com/OWASP/Nest/pull/4836) |
+| Generalize production and staging workflows | Medium | [#4835](https://github.com/OWASP/Nest/pull/4835) |
+| Removing `undefined` type or `?` specifier. | Medium | [#4833](https://github.com/OWASP/Nest/issues/4833) |
+| Implement GraphQL Queries for Candidate Claim Data | Medium | [#4832](https://github.com/OWASP/Nest/pull/4832) |
+| Extend snapshot processing and GraphQL API for new entity types | Medium | [#4831](https://github.com/OWASP/Nest/pull/4831) |
+| NestBot auto reply re-processes AI responses before posting | Medium | [#4828](https://github.com/OWASP/Nest/issues/4828) |
+| Extract SBOMs generation and upload to a separate reusable workflow | Medium | [#4827](https://github.com/OWASP/Nest/pull/4827) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4811](https://github.com/OWASP/Nest/pull/4811) |
-| Extract run-zap-baseline-scan into a reusable workflow | Medium | [#4808](https://github.com/OWASP/Nest/pull/4808) |
-| Implement GraphQL Queries and Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
+| Implement GraphQL Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
 | Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
 | Improve header accessibility and keyboard navigation support | Medium | [#4804](https://github.com/OWASP/Nest/issues/4804) |
 | Feat/revamp member profile page | Medium | [#4797](https://github.com/OWASP/Nest/pull/4797) |
 | Introduce GitHub action/workflow files pre-commit checks | Medium | [#4746](https://github.com/OWASP/Nest/issues/4746) |
-| Add Django Models for Candidate Claim Data | Medium | [#4743](https://github.com/OWASP/Nest/pull/4743) |
-| Added contribution recognition core data models | Medium | [#4736](https://github.com/OWASP/Nest/pull/4736) |
 
 ---
 
@@ -195,6 +195,24 @@
 | Feature/accessibility improvements [GSSoC 2025] | Medium | [#127](https://github.com/AyushSharma72/Skill_Trade/pull/127) |
 | Add GSSoC'25 Banner. | Medium | [#126](https://github.com/AyushSharma72/Skill_Trade/issues/126) |
 | Fix the mobile responsiveness of contact form on contact page | Medium | [#123](https://github.com/AyushSharma72/Skill_Trade/issues/123) |
+
+---
+
+## 📌 Project: Healconnect 
+
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
+
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| feat: implement robust Edge RBAC route protection and unauthorized ac… | Medium | [#740](https://github.com/Dipanita45/HEALCONNECT/pull/740) |
 
 ---
 
@@ -328,36 +346,32 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a Local Development Troubleshooting section to FAQ.md | Easy | [#913](https://github.com/Muneerali199/Draftdeckai/issues/913) |
-| [Feature]: Add environment variable validation at startup | Easy | [#901](https://github.com/Muneerali199/Draftdeckai/issues/901) |
-| [Feature]: Complete docker-compose with PostgreSQL and Next.js services | Easy | [#896](https://github.com/Muneerali199/Draftdeckai/issues/896) |
-| [Cleanup]: Remove test/debug files from production extension bundle | Easy | [#889](https://github.com/Muneerali199/Draftdeckai/issues/889) |
-| [Bug]: Duplicate event listeners in popup.js — study plan handler registered twice | Easy | [#888](https://github.com/Muneerali199/Draftdeckai/issues/888) |
-| Bug: POST /api/analyze/resume has no authentication and no file size limit, enabling anonymous abuse and memory exhaustion | Medium | [#919](https://github.com/Muneerali199/Draftdeckai/issues/919) |
-| security: share CORS and security headers | Medium | [#918](https://github.com/Muneerali199/Draftdeckai/pull/918) |
-| fix: return created status for creation APIs | Medium | [#917](https://github.com/Muneerali199/Draftdeckai/pull/917) |
-| Fix/developer bypass guard | Medium | [#916](https://github.com/Muneerali199/Draftdeckai/pull/916) |
-| docs: add comprehensive local troubleshooting section to FAQ closes #913 | Medium | [#915](https://github.com/Muneerali199/Draftdeckai/pull/915) |
-| refactor: consolidate generation APIs under /api/v2/generate (#849) | Medium | [#914](https://github.com/Muneerali199/Draftdeckai/pull/914) |
-| feat: add team workspaces with shared templates and collaboration (#848) | Medium | [#912](https://github.com/Muneerali199/Draftdeckai/pull/912) |
-| feat: added validator that rejects unauthorized msgs | Medium | [#911](https://github.com/Muneerali199/Draftdeckai/pull/911) |
-| refactor: completely remove firebase dependencies and config (#858) | Medium | [#910](https://github.com/Muneerali199/Draftdeckai/pull/910) |
-| fix(extension): expose mcp server without module export | Medium | [#907](https://github.com/Muneerali199/Draftdeckai/pull/907) |
-| Implemented a lightweight Semantic Memory & Context Compression pipeline for long‑form document generation | Medium | [#906](https://github.com/Muneerali199/Draftdeckai/pull/906) |
-| Feature/ai resume translator | Medium | [#905](https://github.com/Muneerali199/Draftdeckai/pull/905) |
-| feat : add animated loading screens and skeletons for all route pages | Medium | [#904](https://github.com/Muneerali199/Draftdeckai/pull/904) |
-| security: share CORS and security header config | Medium | [#903](https://github.com/Muneerali199/Draftdeckai/pull/903) |
-| [Feature]: Add graceful shutdown with signal handling | Medium | [#902](https://github.com/Muneerali199/Draftdeckai/issues/902) |
-| [Feature]: Implement RBAC middleware for role-based access control | Medium | [#900](https://github.com/Muneerali199/Draftdeckai/issues/900) |
-| [Testing]: Write unit tests for auth middleware, error utils, and custom middleware | Medium | [#897](https://github.com/Muneerali199/Draftdeckai/issues/897) |
-| [Feature]: Make readyz endpoint actually check downstream dependencies | Medium | [#895](https://github.com/Muneerali199/Draftdeckai/issues/895) |
-| [UX]: Add opt-in consent for LinkedIn profile data extraction | Medium | [#892](https://github.com/Muneerali199/Draftdeckai/issues/892) |
-| [Refactor]: Add structured logging with slog | Hard | [#899](https://github.com/Muneerali199/Draftdeckai/issues/899) |
-| [Security]: Add JWT audience and issuer validation | Hard | [#898](https://github.com/Muneerali199/Draftdeckai/issues/898) |
-| [Feature]: Add rate limiting middleware | Hard | [#894](https://github.com/Muneerali199/Draftdeckai/issues/894) |
-| [Feature]: Add PostgreSQL database layer with pgx connection pooling | Hard | [#893](https://github.com/Muneerali199/Draftdeckai/issues/893) |
-| [Security]: Add sender ID validation to message handler to prevent cross-extension attacks | Hard | [#891](https://github.com/Muneerali199/Draftdeckai/issues/891) |
-| [Security]: Move Gemini API key from URL query param to HTTP header | Hard | [#890](https://github.com/Muneerali199/Draftdeckai/issues/890) |
+| Consolidate toast notifications to use a single library | Easy | [#956](https://github.com/Muneerali199/Draftdeckai/issues/956) |
+| Write unit tests for core UI components with Vitest and Testing Library | Easy | [#954](https://github.com/Muneerali199/Draftdeckai/issues/954) |
+| Remove duplicate and legacy files across the codebase | Easy | [#949](https://github.com/Muneerali199/Draftdeckai/issues/949) |
+| Add skeleton loading.tsx to all missing page routes | Easy | [#947](https://github.com/Muneerali199/Draftdeckai/issues/947) |
+| Add dynamic Open Graph image generation for shared content | Easy | [#946](https://github.com/Muneerali199/Draftdeckai/issues/946) |
+| Add image optimization pipeline using sharp for all user uploads | Medium | [#955](https://github.com/Muneerali199/Draftdeckai/issues/955) |
+| Add dark mode support to all document editors and builders | Medium | [#952](https://github.com/Muneerali199/Draftdeckai/issues/952) |
+| Consolidate frontend data export and add data import functionality | Medium | [#951](https://github.com/Muneerali199/Draftdeckai/issues/951) |
+| Add PWA offline support with rich offline page and background sync | Medium | [#950](https://github.com/Muneerali199/Draftdeckai/issues/950) |
+| Write integration tests for Stripe webhook endpoint | Medium | [#948](https://github.com/Muneerali199/Draftdeckai/issues/948) |
+| Create new user onboarding wizard | Medium | [#945](https://github.com/Muneerali199/Draftdeckai/issues/945) |
+| refactor: replace ts-ignore directives with types | Medium | [#943](https://github.com/Muneerali199/Draftdeckai/pull/943) |
+| refactor: consolidate error display UI | Medium | [#942](https://github.com/Muneerali199/Draftdeckai/pull/942) |
+| refactor: move rate limit thresholds to config | Medium | [#941](https://github.com/Muneerali199/Draftdeckai/pull/941) |
+| feat: add usage dashboard with visual analytics breakdown (fixes #847) | Medium | [#940](https://github.com/Muneerali199/Draftdeckai/pull/940) |
+| feat: add empty and error states to data-driven UI | Medium | [#939](https://github.com/Muneerali199/Draftdeckai/pull/939) |
+| Fix: Add authentication and input size limits to resume analysis endpoint | Medium | [#938](https://github.com/Muneerali199/Draftdeckai/pull/938) |
+| test: add Go backend auth and middleware coverage | Medium | [#937](https://github.com/Muneerali199/Draftdeckai/pull/937) |
+| API Key Exposed in Frontend Bundle - Credentials Visible in Browser | Medium | [#934](https://github.com/Muneerali199/Draftdeckai/issues/934) |
+| Design Export Produces Incorrect Layer Order - Z-index Not Preserved | Medium | [#933](https://github.com/Muneerali199/Draftdeckai/issues/933) |
+| Real-time Collaboration Loses Changes on Network Reconnect - Race Condition | Medium | [#932](https://github.com/Muneerali199/Draftdeckai/issues/932) |
+| Design Rendering Freezes on Large Canvases - N+1 Layer Queries | Medium | [#931](https://github.com/Muneerali199/Draftdeckai/issues/931) |
+| Design File Upload Accepts Arbitrary File Types - RCE Risk | Medium | [#930](https://github.com/Muneerali199/Draftdeckai/issues/930) |
+| Add inline validation to key forms | Medium | [#923](https://github.com/Muneerali199/Draftdeckai/pull/923) |
+| Add structured logging system across the entire backend | Hard | [#953](https://github.com/Muneerali199/Draftdeckai/issues/953) |
+| Build admin dashboard for user and system management | Hard | [#944](https://github.com/Muneerali199/Draftdeckai/issues/944) |
 
 ---
 
@@ -376,6 +390,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(api): add character limit guard to parse-pdf and chat-pdf endpoints | Medium | [#126](https://github.com/Er-luffy-D/SimplifAI/pull/126) |
 | Slides feature | Medium | [#122](https://github.com/Er-luffy-D/SimplifAI/pull/122) |
 | random password generator, flowchart summarizer | Medium | [#119](https://github.com/Er-luffy-D/SimplifAI/pull/119) |
 | feat: added DOCX file support with mammoth parser | Medium | [#115](https://github.com/Er-luffy-D/SimplifAI/pull/115) |
@@ -469,17 +484,15 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: extend scroll to top/bottom buttons to showcase in all the pages | Easy | [#1832](https://github.com/recodehive/recode-website/pull/1832) |
-| update in navbar | Easy | [#1825](https://github.com/recodehive/recode-website/pull/1825) |
-| feat: Add reading time to blog listing cards (#1766) | Easy | [#1824](https://github.com/recodehive/recode-website/pull/1824) |
+| Fixed  visibility issue in pagination button in leaderboard | Easy | [#1861](https://github.com/recodehive/recode-website/pull/1861) |
+| docs: add 5 contextual references to Google Icon Update blog | Easy | [#1843](https://github.com/recodehive/recode-website/pull/1843) |
+| feat: Add dynamic Badge & Stats Share Card generator in Contributor leaderboard | Easy | [#1842](https://github.com/recodehive/recode-website/pull/1842) |
+| issues available to work with | Easy | [#1840](https://github.com/recodehive/recode-website/issues/1840) |
 | Fixes #1798 : Home page UI layout broken on mobile viewports & duplicate hamburger menus | Easy | [#1820](https://github.com/recodehive/recode-website/pull/1820) |
 | fix: resolve TypeScript ESLint warnings | Easy | [#1818](https://github.com/recodehive/recode-website/pull/1818) |
-| 📝[Docs]: Add 5 outbound links to boost SEO ranking (Google Icon Update Blog) | Easy | [#1816](https://github.com/recodehive/recode-website/issues/1816) |
 | Check for possible plagiarism in AI narrative: Gradient icons and Google AI push | Easy | [#1812](https://github.com/recodehive/recode-website/issues/1812) |
 | 🐞[Bug]: Plagiarism detected in blog 'google-icon-update' section on icon changes | Easy | [#1811](https://github.com/recodehive/recode-website/issues/1811) |
-| UI: Improve Community Page Visual Consistency and Alignment | Easy | [#1796](https://github.com/recodehive/recode-website/pull/1796) |
 | Optimize mobile navigation sidebar responsiveness | Easy | [#1784](https://github.com/recodehive/recode-website/pull/1784) |
-| 🐞[Bug]: Production build failure during image processing | Easy | [#1782](https://github.com/recodehive/recode-website/issues/1782) |
 | markdown links build | Easy | [#1781](https://github.com/recodehive/recode-website/pull/1781) |
 
 ---
@@ -705,6 +718,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Client Contact Info Exposed in Lawyer Dashboard - Privacy Leak | Medium | [#134](https://github.com/yashvikram30/legalease/issues/134) |
+| Payment Dispute Resolution Missing - No Recourse for Billing Disputes | Medium | [#133](https://github.com/yashvikram30/legalease/issues/133) |
+| Case Confidentiality Not Enforced - Case Details Visible to Other Lawyers | Medium | [#132](https://github.com/yashvikram30/legalease/issues/132) |
+| Lawyer Search Slow - No Indexing on Specialization | Medium | [#131](https://github.com/yashvikram30/legalease/issues/131) |
+| Lawyer Credentials Not Verified - Unqualified Practitioners Listed | Medium | [#130](https://github.com/yashvikram30/legalease/issues/130) |
 | AI Chatbot Not Responding to User Queries and Document Upload Feature Failing in LegalEase App | Medium | [#123](https://github.com/yashvikram30/legalease/issues/123) |
 | UI Issue: Footer Margin Problem | Medium | [#122](https://github.com/yashvikram30/legalease/issues/122) |
 | AI-Powered Legal Template Generator | Medium | [#121](https://github.com/yashvikram30/legalease/issues/121) |
@@ -722,8 +740,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Revamp Landing page | Medium | [#73](https://github.com/yashvikram30/legalease/pull/73) |
 | To add good Background | Medium | [#70](https://github.com/yashvikram30/legalease/issues/70) |
 | Bug: Dark Theme Not Working | Medium | [#69](https://github.com/yashvikram30/legalease/issues/69) |
-| Addition of a Appointment Booking System | Medium | [#68](https://github.com/yashvikram30/legalease/issues/68) |
-| refactor: improve Terms & Privacy line styling on signup page | Medium | [#66](https://github.com/yashvikram30/legalease/pull/66) |
 
 ---
 
@@ -804,6 +820,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| Fix React Server Components CVE vulnerabilities | Medium | [#124](https://github.com/ajaynegi45/Old-School-Game/pull/124) |
+| feat: add Sliding Puzzle (15 Puzzle) game (closes #4) | Medium | [#123](https://github.com/ajaynegi45/Old-School-Game/pull/123) |
 | Add new brain game: Word Ladder | Medium | [#122](https://github.com/ajaynegi45/Old-School-Game/pull/122) |
 | fix: increase navbar title font size to improve visibility (closes #114) | Medium | [#121](https://github.com/ajaynegi45/Old-School-Game/pull/121) |
 | feat: Implement new 'Brain Train' UI redesign with pure CSS | Medium | [#119](https://github.com/ajaynegi45/Old-School-Game/pull/119) |
@@ -1149,6 +1167,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
+| Add Back Navigation on Login & Signup Pages | Medium | [#225](https://github.com/ThePlator/NPMChat/issues/225) |
+| OTP Email Authentication Not Working for New Users | Medium | [#224](https://github.com/ThePlator/NPMChat/issues/224) |
 | Prevent duplicate socket reconnects caused by accumulated token refresh listeners | Medium | [#196](https://github.com/ThePlator/NPMChat/issues/196) |
 | Challenge correctness is derived from fragile output text | Medium | [#194](https://github.com/ThePlator/NPMChat/issues/194) |
 | Room socket events do not enforce room membership or host permissions | Medium | [#193](https://github.com/ThePlator/NPMChat/issues/193) |
@@ -1156,7 +1176,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Missing Receiver Verification on Message Send | Medium | [#141](https://github.com/ThePlator/NPMChat/issues/141) |
 | fix: add centralized backend error handling | Medium | [#92](https://github.com/ThePlator/NPMChat/pull/92) |
 | Add persistent WebSocket backend deployment support | Medium | [#84](https://github.com/ThePlator/NPMChat/pull/84) |
-| AvatarUrl handling to correctly fetch the image url from payload | Medium | [#65](https://github.com/ThePlator/NPMChat/pull/65) |
 | fix: require structured challenge test results | Hard | [#201](https://github.com/ThePlator/NPMChat/pull/201) |
 | security: enforce room socket membership | Hard | [#200](https://github.com/ThePlator/NPMChat/pull/200) |
 | O auth2 with cookie | Hard | [#197](https://github.com/ThePlator/NPMChat/pull/197) |
