@@ -158,9 +158,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump github/codeql-action from 4.35.4 to 4.35.5 in the version-updates group across 1 directory | Medium | [#4837](https://github.com/OWASP/Nest/pull/4837) |
-| chore(deps): bump strawberry-graphql in / | Medium | [#4836](https://github.com/OWASP/Nest/pull/4836) |
-| Generalize production and staging workflows | Medium | [#4835](https://github.com/OWASP/Nest/pull/4835) |
+| Generalize production and staging workflows | Easy | [#4835](https://github.com/OWASP/Nest/pull/4835) |
+| Implement contribution score calculation | Medium | [#4842](https://github.com/OWASP/Nest/pull/4842) |
+| chore(deps): bump isomorphic-dompurify in /frontend | Medium | [#4840](https://github.com/OWASP/Nest/pull/4840) |
+| chore(deps): bump dompurify in /frontend | Medium | [#4839](https://github.com/OWASP/Nest/pull/4839) |
 | Removing `undefined` type or `?` specifier. | Medium | [#4833](https://github.com/OWASP/Nest/issues/4833) |
 | Implement GraphQL Queries for Candidate Claim Data | Medium | [#4832](https://github.com/OWASP/Nest/pull/4832) |
 | Extend snapshot processing and GraphQL API for new entity types | Medium | [#4831](https://github.com/OWASP/Nest/pull/4831) |
@@ -351,6 +352,13 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | Remove duplicate and legacy files across the codebase | Easy | [#949](https://github.com/Muneerali199/Draftdeckai/issues/949) |
 | Add skeleton loading.tsx to all missing page routes | Easy | [#947](https://github.com/Muneerali199/Draftdeckai/issues/947) |
 | Add dynamic Open Graph image generation for shared content | Easy | [#946](https://github.com/Muneerali199/Draftdeckai/issues/946) |
+| feat: add dynamic published resume URLs to sitemap | Medium | [#963](https://github.com/Muneerali199/Draftdeckai/pull/963) |
+| refactor: centralize hardcoded placeholder image URLs into config uti… | Medium | [#962](https://github.com/Muneerali199/Draftdeckai/pull/962) |
+| Add PWA offline fallback and sync queue | Medium | [#961](https://github.com/Muneerali199/Draftdeckai/pull/961) |
+| Add logger redaction and level filtering | Medium | [#960](https://github.com/Muneerali199/Draftdeckai/pull/960) |
+| Add Stripe webhook integration tests | Medium | [#959](https://github.com/Muneerali199/Draftdeckai/pull/959) |
+| Added backend files #902 issue | Medium | [#958](https://github.com/Muneerali199/Draftdeckai/pull/958) |
+| feat: enhance docker-compose with PostgreSQL service and networking | Medium | [#957](https://github.com/Muneerali199/Draftdeckai/pull/957) |
 | Add image optimization pipeline using sharp for all user uploads | Medium | [#955](https://github.com/Muneerali199/Draftdeckai/issues/955) |
 | Add dark mode support to all document editors and builders | Medium | [#952](https://github.com/Muneerali199/Draftdeckai/issues/952) |
 | Consolidate frontend data export and add data import functionality | Medium | [#951](https://github.com/Muneerali199/Draftdeckai/issues/951) |
@@ -367,9 +375,6 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | API Key Exposed in Frontend Bundle - Credentials Visible in Browser | Medium | [#934](https://github.com/Muneerali199/Draftdeckai/issues/934) |
 | Design Export Produces Incorrect Layer Order - Z-index Not Preserved | Medium | [#933](https://github.com/Muneerali199/Draftdeckai/issues/933) |
 | Real-time Collaboration Loses Changes on Network Reconnect - Race Condition | Medium | [#932](https://github.com/Muneerali199/Draftdeckai/issues/932) |
-| Design Rendering Freezes on Large Canvases - N+1 Layer Queries | Medium | [#931](https://github.com/Muneerali199/Draftdeckai/issues/931) |
-| Design File Upload Accepts Arbitrary File Types - RCE Risk | Medium | [#930](https://github.com/Muneerali199/Draftdeckai/issues/930) |
-| Add inline validation to key forms | Medium | [#923](https://github.com/Muneerali199/Draftdeckai/pull/923) |
 | Add structured logging system across the entire backend | Hard | [#953](https://github.com/Muneerali199/Draftdeckai/issues/953) |
 | Build admin dashboard for user and system management | Hard | [#944](https://github.com/Muneerali199/Draftdeckai/issues/944) |
 
@@ -484,6 +489,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| [Feature]: Optimize Dockerfile for Production with Multi-stage Build | Easy | [#1869](https://github.com/recodehive/recode-website/issues/1869) |
+| chore: bump @tsparticles/react from 4.1.0 to 4.1.3 | Easy | [#1868](https://github.com/recodehive/recode-website/pull/1868) |
+| chore: bump react-dom and @types/react-dom | Easy | [#1867](https://github.com/recodehive/recode-website/pull/1867) |
+| chore: bump @tsparticles/engine from 4.1.0 to 4.1.3 | Easy | [#1866](https://github.com/recodehive/recode-website/pull/1866) |
+| chore: bump @clerk/react from 6.7.2 to 6.7.3 | Easy | [#1865](https://github.com/recodehive/recode-website/pull/1865) |
+| chore: bump @tsparticles/slim from 4.1.0 to 4.1.3 | Easy | [#1864](https://github.com/recodehive/recode-website/pull/1864) |
+| Fixed visibility in dark theme | Easy | [#1862](https://github.com/recodehive/recode-website/pull/1862) |
 | Fixed  visibility issue in pagination button in leaderboard | Easy | [#1861](https://github.com/recodehive/recode-website/pull/1861) |
 | docs: add 5 contextual references to Google Icon Update blog | Easy | [#1843](https://github.com/recodehive/recode-website/pull/1843) |
 | feat: Add dynamic Badge & Stats Share Card generator in Contributor leaderboard | Easy | [#1842](https://github.com/recodehive/recode-website/pull/1842) |
@@ -492,8 +504,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | fix: resolve TypeScript ESLint warnings | Easy | [#1818](https://github.com/recodehive/recode-website/pull/1818) |
 | Check for possible plagiarism in AI narrative: Gradient icons and Google AI push | Easy | [#1812](https://github.com/recodehive/recode-website/issues/1812) |
 | 🐞[Bug]: Plagiarism detected in blog 'google-icon-update' section on icon changes | Easy | [#1811](https://github.com/recodehive/recode-website/issues/1811) |
-| Optimize mobile navigation sidebar responsiveness | Easy | [#1784](https://github.com/recodehive/recode-website/pull/1784) |
-| markdown links build | Easy | [#1781](https://github.com/recodehive/recode-website/pull/1781) |
 
 ---
 
