@@ -436,36 +436,36 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Contact Us form validation with inline error messages | Medium | [#387](https://github.com/lovelymahor/StudyMatePlus/issues/387) |
-| Spelling Mistake on Syllabus Page | Medium | [#386](https://github.com/lovelymahor/StudyMatePlus/issues/386) |
-| Add Dark / Light Theme Toggle | Medium | [#385](https://github.com/lovelymahor/StudyMatePlus/issues/385) |
-| Feedback cards appear interactive but do not provide any action when clicked | Medium | [#384](https://github.com/lovelymahor/StudyMatePlus/issues/384) |
-| Implement a Senior Mentorship Hub | Medium | [#383](https://github.com/lovelymahor/StudyMatePlus/issues/383) |
-| Add SECURITY.md with security policy | Medium | [#382](https://github.com/lovelymahor/StudyMatePlus/pull/382) |
-| improve navbar responsiveness and alignment issues | Medium | [#381](https://github.com/lovelymahor/StudyMatePlus/issues/381) |
-| Dark mode toggle button | Medium | [#380](https://github.com/lovelymahor/StudyMatePlus/issues/380) |
-| Add a theme switcher | Medium | [#379](https://github.com/lovelymahor/StudyMatePlus/issues/379) |
-| Replace Homepage Emojis with Professional Icons | Medium | [#378](https://github.com/lovelymahor/StudyMatePlus/issues/378) |
-| UI Improvements: Dark Mode Fixes, Extended Semesters, and Content Card Styling | Medium | [#377](https://github.com/lovelymahor/StudyMatePlus/pull/377) |
-|  | Medium | [#376](https://github.com/lovelymahor/StudyMatePlus/issues/376) |
-| Fix: Update GSSoC year from 2025 to 2026 in README | Medium | [#375](https://github.com/lovelymahor/StudyMatePlus/pull/375) |
-| Navigation bar + syllabus semesters + mind map confusion | Medium | [#374](https://github.com/lovelymahor/StudyMatePlus/issues/374) |
-| BUG on home page | Medium | [#372](https://github.com/lovelymahor/StudyMatePlus/issues/372) |
-| Replace Emojis with Consistent Icons Across Resource Cards for Better UI/UX | Medium | [#371](https://github.com/lovelymahor/StudyMatePlus/issues/371) |
-| AI-Powered Personalized Learning Assistant | Medium | [#370](https://github.com/lovelymahor/StudyMatePlus/issues/370) |
-| AI Notes Summarizer & Practice Question Generator | Medium | [#369](https://github.com/lovelymahor/StudyMatePlus/issues/369) |
-| feat: enhance Mind Map into study planner with academic tracking system | Medium | [#368](https://github.com/lovelymahor/StudyMatePlus/pull/368) |
-| Add Dark Mode | Medium | [#367](https://github.com/lovelymahor/StudyMatePlus/issues/367) |
-| Learn More button is not aligned properly. | Medium | [#366](https://github.com/lovelymahor/StudyMatePlus/issues/366) |
-| Add Skeleton Loading States for Resources and Study Materials | Medium | [#365](https://github.com/lovelymahor/StudyMatePlus/issues/365) |
-| Add Recently Viewed Resources section for quick access | Medium | [#364](https://github.com/lovelymahor/StudyMatePlus/issues/364) |
-| Collapsed nodes disappear from canvas instead of remaining visible | Medium | [#363](https://github.com/lovelymahor/StudyMatePlus/issues/363) |
-| Add AI Summary Generator for Syllabus and Modules | Medium | [#362](https://github.com/lovelymahor/StudyMatePlus/issues/362) |
-| Enhance README with improvement suggestions | Medium | [#361](https://github.com/lovelymahor/StudyMatePlus/pull/361) |
-| Improve README Formatting and Structure | Medium | [#360](https://github.com/lovelymahor/StudyMatePlus/issues/360) |
-| feat: add reusable footer across multiple pages | Medium | [#358](https://github.com/lovelymahor/StudyMatePlus/pull/358) |
-| Add Advanced Productivity Analytics Dashboard | Medium | [#357](https://github.com/lovelymahor/StudyMatePlus/issues/357) |
-| Implement Focus Mode with Distraction-Free Study Environment | Medium | [#356](https://github.com/lovelymahor/StudyMatePlus/issues/356) |
+| Distraction Tracking During Study Sessions | Medium | [#441](https://github.com/lovelymahor/StudyMatePlus/issues/441) |
+| Weekly Study Heatmap Visualization | Medium | [#440](https://github.com/lovelymahor/StudyMatePlus/issues/440) |
+| Subject-wise Goal Progress Tracking | Medium | [#439](https://github.com/lovelymahor/StudyMatePlus/issues/439) |
+| Smart Revision Scheduler Using Spaced Repetition | Medium | [#438](https://github.com/lovelymahor/StudyMatePlus/issues/438) |
+| Fix Contact Us Section Alignment Issues | Medium | [#437](https://github.com/lovelymahor/StudyMatePlus/issues/437) |
+| Add Footer Section to the Website | Medium | [#436](https://github.com/lovelymahor/StudyMatePlus/issues/436) |
+| feat: Add AI-powered syllabus upload and parsing feature | Medium | [#435](https://github.com/lovelymahor/StudyMatePlus/pull/435) |
+| Improve text contrast and readability across the website | Medium | [#434](https://github.com/lovelymahor/StudyMatePlus/issues/434) |
+| Responsive Website Footer with Quick Links and Social Media Icons | Medium | [#433](https://github.com/lovelymahor/StudyMatePlus/issues/433) |
+| Feature Request: Integrated Ambient Focus Sounds / Lo-Fi Player Widget | Medium | [#432](https://github.com/lovelymahor/StudyMatePlus/issues/432) |
+| Feature Request: Implement Dark Mode Theme for Late-Night Studying | Medium | [#431](https://github.com/lovelymahor/StudyMatePlus/issues/431) |
+| Feature Request: Add an Integrated Pomodoro Study Timer | Medium | [#430](https://github.com/lovelymahor/StudyMatePlus/issues/430) |
+| # UI Improvement: Header Alignment and Design Enhancement | Medium | [#429](https://github.com/lovelymahor/StudyMatePlus/issues/429) |
+| Feature Request: Study Progress Tracker Dashboard | Medium | [#428](https://github.com/lovelymahor/StudyMatePlus/issues/428) |
+| Implement user authentication with Google/University email login | Medium | [#427](https://github.com/lovelymahor/StudyMatePlus/issues/427) |
+| Add error handling UI for GitHub contributors API call | Medium | [#426](https://github.com/lovelymahor/StudyMatePlus/issues/426) |
+| Add Animated Timeline Section to About Page for Platform Journey | Medium | [#424](https://github.com/lovelymahor/StudyMatePlus/issues/424) |
+| Add Bookmark System for Academic Resources | Medium | [#423](https://github.com/lovelymahor/StudyMatePlus/issues/423) |
+| Add Dark Mode Support for Better Visibility and User Experience | Medium | [#422](https://github.com/lovelymahor/StudyMatePlus/issues/422) |
+| implemented dark toggle bar | Medium | [#421](https://github.com/lovelymahor/StudyMatePlus/pull/421) |
+| docs: restructure and enhance README for better readability and contributor onboarding | Medium | [#420](https://github.com/lovelymahor/StudyMatePlus/pull/420) |
+| Feature Request: Advanced Search, Filtering, and Resource Discovery System | Medium | [#419](https://github.com/lovelymahor/StudyMatePlus/issues/419) |
+| Add a login page | Medium | [#418](https://github.com/lovelymahor/StudyMatePlus/issues/418) |
+| "Follow Us" social media links are not clearly visible in the Contact page | Medium | [#417](https://github.com/lovelymahor/StudyMatePlus/issues/417) |
+| feature: Adding health suggestions for stressed students | Medium | [#416](https://github.com/lovelymahor/StudyMatePlus/issues/416) |
+| dark mode support to the landing page | Medium | [#415](https://github.com/lovelymahor/StudyMatePlus/issues/415) |
+| Implement a Responsive Carousel/Slider for the Testimonial Section | Medium | [#414](https://github.com/lovelymahor/StudyMatePlus/issues/414) |
+| UI Improvement: Misaligned Feature Cards in Hero Section | Medium | [#413](https://github.com/lovelymahor/StudyMatePlus/issues/413) |
+| Enhance Homepage UI Consistency and Analytics Dashboard Functionality | Medium | [#412](https://github.com/lovelymahor/StudyMatePlus/issues/412) |
+| "Get Started" Button Misalignment in "Ready to Ace Your Exams?" Section on Home Page | Medium | [#411](https://github.com/lovelymahor/StudyMatePlus/issues/411) |
 
 ---
 
