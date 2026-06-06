@@ -191,9 +191,10 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump github/codeql-action from 4.35.4 to 4.35.5 in the version-updates group across 1 directory | Medium | [#4837](https://github.com/OWASP/Nest/pull/4837) |
-| chore(deps): bump strawberry-graphql in / | Medium | [#4836](https://github.com/OWASP/Nest/pull/4836) |
-| Generalize production and staging workflows | Medium | [#4835](https://github.com/OWASP/Nest/pull/4835) |
+| Generalize production and staging workflows | Easy | [#4835](https://github.com/OWASP/Nest/pull/4835) |
+| Implement contribution score calculation | Medium | [#4842](https://github.com/OWASP/Nest/pull/4842) |
+| chore(deps): bump isomorphic-dompurify in /frontend | Medium | [#4840](https://github.com/OWASP/Nest/pull/4840) |
+| chore(deps): bump dompurify in /frontend | Medium | [#4839](https://github.com/OWASP/Nest/pull/4839) |
 | Removing `undefined` type or `?` specifier. | Medium | [#4833](https://github.com/OWASP/Nest/issues/4833) |
 | Implement GraphQL Queries for Candidate Claim Data | Medium | [#4832](https://github.com/OWASP/Nest/pull/4832) |
 | Extend snapshot processing and GraphQL API for new entity types | Medium | [#4831](https://github.com/OWASP/Nest/pull/4831) |
@@ -709,6 +710,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| improvised about page | Medium | [#716](https://github.com/GitMetricsLab/github_tracker/pull/716) |
 | feat(a11y): add keyboard navigation support (#631) | Medium | [#715](https://github.com/GitMetricsLab/github_tracker/pull/715) |
 | feat: add GitHub contribution heatmap using GraphQL API | Medium | [#713](https://github.com/GitMetricsLab/github_tracker/pull/713) |
 | Make Moon icon color dynamic in Navbar | Medium | [#712](https://github.com/GitMetricsLab/github_tracker/pull/712) |
@@ -1737,6 +1739,19 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Distraction Tracking During Study Sessions | Medium | [#441](https://github.com/lovelymahor/StudyMatePlus/issues/441) |
+| Weekly Study Heatmap Visualization | Medium | [#440](https://github.com/lovelymahor/StudyMatePlus/issues/440) |
+| Subject-wise Goal Progress Tracking | Medium | [#439](https://github.com/lovelymahor/StudyMatePlus/issues/439) |
+| Smart Revision Scheduler Using Spaced Repetition | Medium | [#438](https://github.com/lovelymahor/StudyMatePlus/issues/438) |
+| Fix Contact Us Section Alignment Issues | Medium | [#437](https://github.com/lovelymahor/StudyMatePlus/issues/437) |
+| Add Footer Section to the Website | Medium | [#436](https://github.com/lovelymahor/StudyMatePlus/issues/436) |
+| feat: Add AI-powered syllabus upload and parsing feature | Medium | [#435](https://github.com/lovelymahor/StudyMatePlus/pull/435) |
+| Improve text contrast and readability across the website | Medium | [#434](https://github.com/lovelymahor/StudyMatePlus/issues/434) |
+| Responsive Website Footer with Quick Links and Social Media Icons | Medium | [#433](https://github.com/lovelymahor/StudyMatePlus/issues/433) |
+| Feature Request: Integrated Ambient Focus Sounds / Lo-Fi Player Widget | Medium | [#432](https://github.com/lovelymahor/StudyMatePlus/issues/432) |
+| Feature Request: Implement Dark Mode Theme for Late-Night Studying | Medium | [#431](https://github.com/lovelymahor/StudyMatePlus/issues/431) |
+| Feature Request: Add an Integrated Pomodoro Study Timer | Medium | [#430](https://github.com/lovelymahor/StudyMatePlus/issues/430) |
+| # UI Improvement: Header Alignment and Design Enhancement | Medium | [#429](https://github.com/lovelymahor/StudyMatePlus/issues/429) |
 | Feature Request: Study Progress Tracker Dashboard | Medium | [#428](https://github.com/lovelymahor/StudyMatePlus/issues/428) |
 | Implement user authentication with Google/University email login | Medium | [#427](https://github.com/lovelymahor/StudyMatePlus/issues/427) |
 | Add error handling UI for GitHub contributors API call | Medium | [#426](https://github.com/lovelymahor/StudyMatePlus/issues/426) |
@@ -1754,19 +1769,6 @@ Fast Workflow Tools
 | UI Improvement: Misaligned Feature Cards in Hero Section | Medium | [#413](https://github.com/lovelymahor/StudyMatePlus/issues/413) |
 | Enhance Homepage UI Consistency and Analytics Dashboard Functionality | Medium | [#412](https://github.com/lovelymahor/StudyMatePlus/issues/412) |
 | "Get Started" Button Misalignment in "Ready to Ace Your Exams?" Section on Home Page | Medium | [#411](https://github.com/lovelymahor/StudyMatePlus/issues/411) |
-| Fix navbar responsiveness, spacing and alignment issues | Medium | [#410](https://github.com/lovelymahor/StudyMatePlus/pull/410) |
-| feat: add dark/light theme toggle with mobile support | Medium | [#409](https://github.com/lovelymahor/StudyMatePlus/pull/409) |
-| Syllabus page: stat label contrast, missing search feedback animation, and layout restructure | Medium | [#408](https://github.com/lovelymahor/StudyMatePlus/issues/408) |
-| Implement Dark Mode Toggle for Late-Night Study Sessions | Medium | [#407](https://github.com/lovelymahor/StudyMatePlus/issues/407) |
-| test: add unit tests for utils/time module using Vitest | Medium | [#406](https://github.com/lovelymahor/StudyMatePlus/issues/406) |
-| Implementation of Client-Side Fuzzy Search, Multi-Filter Facets, and Semantic Tagging for PYQs and Materials | Medium | [#405](https://github.com/lovelymahor/StudyMatePlus/issues/405) |
-| Study Streak System | Medium | [#404](https://github.com/lovelymahor/StudyMatePlus/issues/404) |
-| Replace Spinners with Skeleton Components | Medium | [#403](https://github.com/lovelymahor/StudyMatePlus/issues/403) |
-| Persist User Theme Preference Across Sessions | Medium | [#402](https://github.com/lovelymahor/StudyMatePlus/issues/402) |
-| Add a different Universities section for better filtering and accessibility | Medium | [#401](https://github.com/lovelymahor/StudyMatePlus/issues/401) |
-| Adding the feature of Dark mode | Medium | [#400](https://github.com/lovelymahor/StudyMatePlus/issues/400) |
-| UI/UX Design of "How StudyMatePlus Works" and CTA Sections - | Medium | [#399](https://github.com/lovelymahor/StudyMatePlus/issues/399) |
-| Fix: No fallback UI when GitHub Contributors API fails in Home.js | Medium | [#398](https://github.com/lovelymahor/StudyMatePlus/issues/398) |
 
 ---
 
