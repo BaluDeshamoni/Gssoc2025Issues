@@ -129,25 +129,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement offline queue processing pipeline — offlineQueue.js has no replay mechanism | Medium | [#5515](https://github.com/SandeepVashishtha/Eventra/issues/5515) |
-| Add backend ticket validation and check-in sync to TicketScanner.jsx | Medium | [#5514](https://github.com/SandeepVashishtha/Eventra/issues/5514) |
-| Replace mock data in AdminDashboard.js with real backend API integration and pagination | Medium | [#5513](https://github.com/SandeepVashishtha/Eventra/issues/5513) |
-| Further decompose EventCreation.jsx 1,270-line component — extract validation, fields, and form hook | Medium | [#5512](https://github.com/SandeepVashishtha/Eventra/issues/5512) |
-| Decompose FloorPlanDesigner.js 1,491-line monolith into focused sub-components and utilities | Medium | [#5511](https://github.com/SandeepVashishtha/Eventra/issues/5511) |
-| Activity level legend does not match node representation in collaboration network | Medium | [#5510](https://github.com/SandeepVashishtha/Eventra/issues/5510) |
-| perf: Script freezes indefinitely on heavy Git hooks or GPG passphrase prompts due to execSync loop | Medium | [#5509](https://github.com/SandeepVashishtha/Eventra/issues/5509) |
-| feature: Replace destructive local branch deletion with safety checks | Medium | [#5508](https://github.com/SandeepVashishtha/Eventra/issues/5508) |
-| Bug: Search functionality broken and input character limit enforced | Medium | [#5507](https://github.com/SandeepVashishtha/Eventra/issues/5507) |
-| bug: Replacement fallback logic pollutes Git diffs by converting entire file line endings | Medium | [#5506](https://github.com/SandeepVashishtha/Eventra/issues/5506) |
-| bug: Silent replacement failure and subsequent commit crashes on Windows platforms. | Medium | [#5505](https://github.com/SandeepVashishtha/Eventra/issues/5505) |
-| bug: Script crashes on consecutive loops if a branch creation fails or working directory becomes dirty | Medium | [#5504](https://github.com/SandeepVashishtha/Eventra/issues/5504) |
-| /feedback/survey-builder redirects unauthenticated users to /unauthorized instead of /login | Medium | [#5498](https://github.com/SandeepVashishtha/Eventra/issues/5498) |
-| getClientIp.js trusts X-Forwarded-For without verification — IP spoofing bypasses rate limiting | Medium | [#5491](https://github.com/SandeepVashishtha/Eventra/issues/5491) |
-| leaderboard.js uses GITHUB_TOKEN with no authentication — unauthenticated proxy drains GitHub API quota | Medium | [#5490](https://github.com/SandeepVashishtha/Eventra/issues/5490) |
-| signup.js includes permissions in JWT — inconsistent with login.js, stale permission grants | Medium | [#5489](https://github.com/SandeepVashishtha/Eventra/issues/5489) |
-| Service worker references undefined BACKGROUND_SYNC_TAG — background sync completely broken | Medium | [#5488](https://github.com/SandeepVashishtha/Eventra/issues/5488) |
-| /admin redirects unauthenticated users to /unauthorized instead of /login | Medium | [#5487](https://github.com/SandeepVashishtha/Eventra/issues/5487) |
-| rateLimit.js stores maxRequests in entry but never reads it — dead field | Medium | [#5486](https://github.com/SandeepVashishtha/Eventra/issues/5486) |
+| security(chatbot): Unsanitized link parser permits javascript: URI protocol execution (Stored XSS) | Medium | [#7442](https://github.com/SandeepVashishtha/Eventra/issues/7442) |
+| WebRTC Connection Fails Due to ICE Candidates Added Before Remote Description is Set | Medium | [#7441](https://github.com/SandeepVashishtha/Eventra/issues/7441) |
+| perf: Full-store cursor scan in isFileCached and getCachedFile causing O(N) performance degradation | Medium | [#7439](https://github.com/SandeepVashishtha/Eventra/issues/7439) |
+| Connect analytics dashboard to real data instead of mock values | Medium | [#7438](https://github.com/SandeepVashishtha/Eventra/issues/7438) |
+| Add AI-Powered Smart Event Recommendations with Confidence Scores | Medium | [#7437](https://github.com/SandeepVashishtha/Eventra/issues/7437) |
+| fix: filteredSuggestions in EditProfile recomputes on every render by filtering 43 skill suggestions unnecessarily | Medium | [#7429](https://github.com/SandeepVashishtha/Eventra/issues/7429) |
+| fix: calculateCompletion runs on every render in EditProfile causing unnecessary field iteration on each keystroke | Medium | [#7426](https://github.com/SandeepVashishtha/Eventra/issues/7426) |
+| fix: handleResetScan does not await startScanner causing silent unhandled promise rejection when scanner fails to restart | Medium | [#7424](https://github.com/SandeepVashishtha/Eventra/issues/7424) |
+| fix: handleManualCheckIn does not await processTicket causing premature form reset and silent unhandled promise rejection | Medium | [#7422](https://github.com/SandeepVashishtha/Eventra/issues/7422) |
+| fix: TicketScanner imports safeParseJson from non-existent jsonUtils causing runtime crash when persisting check-in history | Medium | [#7420](https://github.com/SandeepVashishtha/Eventra/issues/7420) |
 
 ---
 
