@@ -818,6 +818,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add lamp indicator toggle for login and signup forms | Medium | [#1860](https://github.com/omroy07/AgriTech/pull/1860) |
+| Add prediction comparison feature | Medium | [#1859](https://github.com/omroy07/AgriTech/pull/1859) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
 | Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
@@ -1185,18 +1187,21 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: extend scroll to top/bottom buttons to showcase in all the pages | Easy | [#1832](https://github.com/recodehive/recode-website/pull/1832) |
-| update in navbar | Easy | [#1825](https://github.com/recodehive/recode-website/pull/1825) |
-| feat: Add reading time to blog listing cards (#1766) | Easy | [#1824](https://github.com/recodehive/recode-website/pull/1824) |
+| [Feature]: Optimize Dockerfile for Production with Multi-stage Build | Easy | [#1869](https://github.com/recodehive/recode-website/issues/1869) |
+| chore: bump @tsparticles/react from 4.1.0 to 4.1.3 | Easy | [#1868](https://github.com/recodehive/recode-website/pull/1868) |
+| chore: bump react-dom and @types/react-dom | Easy | [#1867](https://github.com/recodehive/recode-website/pull/1867) |
+| chore: bump @tsparticles/engine from 4.1.0 to 4.1.3 | Easy | [#1866](https://github.com/recodehive/recode-website/pull/1866) |
+| chore: bump @clerk/react from 6.7.2 to 6.7.3 | Easy | [#1865](https://github.com/recodehive/recode-website/pull/1865) |
+| chore: bump @tsparticles/slim from 4.1.0 to 4.1.3 | Easy | [#1864](https://github.com/recodehive/recode-website/pull/1864) |
+| Fixed visibility in dark theme | Easy | [#1862](https://github.com/recodehive/recode-website/pull/1862) |
+| Fixed  visibility issue in pagination button in leaderboard | Easy | [#1861](https://github.com/recodehive/recode-website/pull/1861) |
+| docs: add 5 contextual references to Google Icon Update blog | Easy | [#1843](https://github.com/recodehive/recode-website/pull/1843) |
+| feat: Add dynamic Badge & Stats Share Card generator in Contributor leaderboard | Easy | [#1842](https://github.com/recodehive/recode-website/pull/1842) |
+| issues available to work with | Easy | [#1840](https://github.com/recodehive/recode-website/issues/1840) |
 | Fixes #1798 : Home page UI layout broken on mobile viewports & duplicate hamburger menus | Easy | [#1820](https://github.com/recodehive/recode-website/pull/1820) |
 | fix: resolve TypeScript ESLint warnings | Easy | [#1818](https://github.com/recodehive/recode-website/pull/1818) |
-| 📝[Docs]: Add 5 outbound links to boost SEO ranking (Google Icon Update Blog) | Easy | [#1816](https://github.com/recodehive/recode-website/issues/1816) |
 | Check for possible plagiarism in AI narrative: Gradient icons and Google AI push | Easy | [#1812](https://github.com/recodehive/recode-website/issues/1812) |
 | 🐞[Bug]: Plagiarism detected in blog 'google-icon-update' section on icon changes | Easy | [#1811](https://github.com/recodehive/recode-website/issues/1811) |
-| UI: Improve Community Page Visual Consistency and Alignment | Easy | [#1796](https://github.com/recodehive/recode-website/pull/1796) |
-| Optimize mobile navigation sidebar responsiveness | Easy | [#1784](https://github.com/recodehive/recode-website/pull/1784) |
-| 🐞[Bug]: Production build failure during image processing | Easy | [#1782](https://github.com/recodehive/recode-website/issues/1782) |
-| markdown links build | Easy | [#1781](https://github.com/recodehive/recode-website/pull/1781) |
 
 ---
 
@@ -1454,36 +1459,34 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Contact Us Page Not Working from Nav bar ! | Medium | [#420](https://github.com/aayushraj1010/med-genie/issues/420) |
-| Add a Light Mode | Medium | [#419](https://github.com/aayushraj1010/med-genie/issues/419) |
-| # [ENHANCEMENT] Add Offline Detection & Automatic Recovery for Better Chat Reliability | Medium | [#418](https://github.com/aayushraj1010/med-genie/issues/418) |
-| fix: add back navigation to privacy, terms and cookie pages | Medium | [#417](https://github.com/aayushraj1010/med-genie/pull/417) |
-| Multiple UI and Functional Issues in Light Mode | Medium | [#416](https://github.com/aayushraj1010/med-genie/issues/416) |
-| Add navbar and responsive styles to background.css | Medium | [#415](https://github.com/aayushraj1010/med-genie/pull/415) |
-| Improve navbar responsiveness across all devices | Medium | [#414](https://github.com/aayushraj1010/med-genie/issues/414) |
-| Bug: AI chat requests fail with 500 Internal Server Error on homepage | Medium | [#413](https://github.com/aayushraj1010/med-genie/issues/413) |
-| Navbar Overlapping Page Content | Medium | [#412](https://github.com/aayushraj1010/med-genie/issues/412) |
-| Design a Customized Logo & Favicon for Better Branding | Medium | [#411](https://github.com/aayushraj1010/med-genie/issues/411) |
-| Forgot Password API crashes with 500 error due to Prisma schema mismatch | Medium | [#410](https://github.com/aayushraj1010/med-genie/issues/410) |
-| Chatbot response failure and broken routes in deployed application | Medium | [#409](https://github.com/aayushraj1010/med-genie/issues/409) |
-| Fix: Theme resets to default light mode when navigating via navbar | Medium | [#408](https://github.com/aayushraj1010/med-genie/pull/408) |
-| fix: README.md has duplicate content and structural errors | Medium | [#407](https://github.com/aayushraj1010/med-genie/issues/407) |
-| Fix Weak Signup Validation and Duplicate Username Registration Issues | Medium | [#406](https://github.com/aayushraj1010/med-genie/issues/406) |
-| Fix Google OAuth 2.0 Compliance Error (Error 400: invalid_request) | Medium | [#405](https://github.com/aayushraj1010/med-genie/issues/405) |
-| fix: improve chat readability and input bar UI in light theme | Medium | [#404](https://github.com/aayushraj1010/med-genie/pull/404) |
-| [GSSoC'26] Improve chat readability and input bar UI in light theme | Medium | [#403](https://github.com/aayushraj1010/med-genie/issues/403) |
-| Implementation of Rate Limiting and Brute-Force Protection for Authentication Endpoints | Medium | [#402](https://github.com/aayushraj1010/med-genie/issues/402) |
-| # Bug: AI assistant fails intermittently and login is requested repeatedly across tabs | Medium | [#400](https://github.com/aayushraj1010/med-genie/issues/400) |
-| Added initial project setup updates | Medium | [#399](https://github.com/aayushraj1010/med-genie/pull/399) |
-| Title: [BUG] [GSSoC '26] Chat Input Allows Empty or Only-Space Messages | Medium | [#398](https://github.com/aayushraj1010/med-genie/issues/398) |
-| Title: [ENHANCEMENT] [GSSoC '26] Add Copy Response Button for AI Chat Messages | Medium | [#397](https://github.com/aayushraj1010/med-genie/issues/397) |
-| feat: improve AI response feedback states in chat interface | Medium | [#396](https://github.com/aayushraj1010/med-genie/pull/396) |
-| fix(auth) : populate user data during token refresh | Medium | [#395](https://github.com/aayushraj1010/med-genie/pull/395) |
-| [UI]: Add a 404 Not Found page for invalid routes | Medium | [#394](https://github.com/aayushraj1010/med-genie/issues/394) |
-| [GSSoC '26] Add Back Navigation to Cookies, Terms, and Privacy Pages | Medium | [#393](https://github.com/aayushraj1010/med-genie/issues/393) |
-| [GSSoC '26] cookies.html and terms.html shows 404 Despite Existing TSX Page | Medium | [#392](https://github.com/aayushraj1010/med-genie/issues/392) |
-| Enhance FAQ and Our Process sections with better UI/UX and interactive healthcare workflow presentation | Medium | [#391](https://github.com/aayushraj1010/med-genie/issues/391) |
-| Toggle does not show on the landing page | Medium | [#390](https://github.com/aayushraj1010/med-genie/issues/390) |
+| Bug: Contributors section silently renders empty when GitHub fetch fails | Easy | [#424](https://github.com/aayushraj1010/med-genie/issues/424) |
+| Refactor TopContributors to handle fetch errors and loading | Medium | [#456](https://github.com/aayushraj1010/med-genie/pull/456) |
+| AI Follow Up Question | Medium | [#455](https://github.com/aayushraj1010/med-genie/issues/455) |
+| Add BMI Calculator Widget to Health Tools | Medium | [#454](https://github.com/aayushraj1010/med-genie/issues/454) |
+| fix: prevent blank chat submissions | Medium | [#453](https://github.com/aayushraj1010/med-genie/pull/453) |
+| Fix low contrast UI elements (text and icons) in About/Features sections to meet WCAG compliance | Medium | [#452](https://github.com/aayushraj1010/med-genie/issues/452) |
+| fix: resolve Google OAuth invalid_request Error 400 and fix redirect … | Medium | [#451](https://github.com/aayushraj1010/med-genie/pull/451) |
+| Navbar links "Our Process", "Contact Us", and "FAQ" are non-functional on the Specialist Recommendation page | Medium | [#450](https://github.com/aayushraj1010/med-genie/issues/450) |
+| UI Inconsistency and Cart State Persistence Issue Across Pages | Medium | [#448](https://github.com/aayushraj1010/med-genie/issues/448) |
+| feat: Add configurable chat history retention limit to reduce token usage | Medium | [#446](https://github.com/aayushraj1010/med-genie/issues/446) |
+| Contact Us navbar link is non-functional | Medium | [#445](https://github.com/aayushraj1010/med-genie/issues/445) |
+| Newsletter Subscribe Button in Footer Does Nothing | Medium | [#443](https://github.com/aayushraj1010/med-genie/issues/443) |
+| Specialist recommendations are generated for invalid or non-medical symptom inputs | Medium | [#442](https://github.com/aayushraj1010/med-genie/issues/442) |
+| implement Location-Based Hospital Search | Medium | [#441](https://github.com/aayushraj1010/med-genie/issues/441) |
+| Persist Dark/Light Theme Using Local Storage | Medium | [#440](https://github.com/aayushraj1010/med-genie/issues/440) |
+| Add Form Validation to Symptom Checker | Medium | [#439](https://github.com/aayushraj1010/med-genie/issues/439) |
+| Add Loading Indicator During AI Response Generation | Medium | [#438](https://github.com/aayushraj1010/med-genie/issues/438) |
+| Once logged in, the navbar again shows login button | Medium | [#437](https://github.com/aayushraj1010/med-genie/issues/437) |
+| Refactor Hero component to HeroSection with UI updates | Medium | [#436](https://github.com/aayushraj1010/med-genie/pull/436) |
+| Add light and dark theme toggle to the dashboard | Medium | [#435](https://github.com/aayushraj1010/med-genie/issues/435) |
+| Add Signup button to navbar and restrict login to registered users only | Medium | [#434](https://github.com/aayushraj1010/med-genie/issues/434) |
+| Add Dynamic Time-Based Greeting to the Hero Section | Medium | [#433](https://github.com/aayushraj1010/med-genie/issues/433) |
+| Enhance Hero Section with Relevant Medical Illustration and Visual Elements | Medium | [#432](https://github.com/aayushraj1010/med-genie/issues/432) |
+| Enhance Navbar UI with Modern Styling and Improved Visual Hierarchy | Medium | [#431](https://github.com/aayushraj1010/med-genie/issues/431) |
+| Enhancement: Add "View More" toggle to FAQ section | Medium | [#430](https://github.com/aayushraj1010/med-genie/issues/430) |
+| Medical Query Intent Classification | Medium | [#427](https://github.com/aayushraj1010/med-genie/issues/427) |
+| Feature Request: Implement Rate Limiting and Robust API Error Handling | Medium | [#426](https://github.com/aayushraj1010/med-genie/issues/426) |
+| Improve signup validation and account cleanup handling | Medium | [#425](https://github.com/aayushraj1010/med-genie/pull/425) |
 
 ---
 
@@ -1552,6 +1555,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
+| Fix React Server Components CVE vulnerabilities | Medium | [#124](https://github.com/ajaynegi45/Old-School-Game/pull/124) |
+| feat: add Sliding Puzzle (15 Puzzle) game (closes #4) | Medium | [#123](https://github.com/ajaynegi45/Old-School-Game/pull/123) |
 | Add new brain game: Word Ladder | Medium | [#122](https://github.com/ajaynegi45/Old-School-Game/pull/122) |
 | fix: increase navbar title font size to improve visibility (closes #114) | Medium | [#121](https://github.com/ajaynegi45/Old-School-Game/pull/121) |
 | feat: Implement new 'Brain Train' UI redesign with pure CSS | Medium | [#119](https://github.com/ajaynegi45/Old-School-Game/pull/119) |
@@ -2033,36 +2038,36 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve Contact Us form validation with inline error messages | Medium | [#387](https://github.com/lovelymahor/StudyMatePlus/issues/387) |
-| Spelling Mistake on Syllabus Page | Medium | [#386](https://github.com/lovelymahor/StudyMatePlus/issues/386) |
-| Add Dark / Light Theme Toggle | Medium | [#385](https://github.com/lovelymahor/StudyMatePlus/issues/385) |
-| Feedback cards appear interactive but do not provide any action when clicked | Medium | [#384](https://github.com/lovelymahor/StudyMatePlus/issues/384) |
-| Implement a Senior Mentorship Hub | Medium | [#383](https://github.com/lovelymahor/StudyMatePlus/issues/383) |
-| Add SECURITY.md with security policy | Medium | [#382](https://github.com/lovelymahor/StudyMatePlus/pull/382) |
-| improve navbar responsiveness and alignment issues | Medium | [#381](https://github.com/lovelymahor/StudyMatePlus/issues/381) |
-| Dark mode toggle button | Medium | [#380](https://github.com/lovelymahor/StudyMatePlus/issues/380) |
-| Add a theme switcher | Medium | [#379](https://github.com/lovelymahor/StudyMatePlus/issues/379) |
-| Replace Homepage Emojis with Professional Icons | Medium | [#378](https://github.com/lovelymahor/StudyMatePlus/issues/378) |
-| UI Improvements: Dark Mode Fixes, Extended Semesters, and Content Card Styling | Medium | [#377](https://github.com/lovelymahor/StudyMatePlus/pull/377) |
-|  | Medium | [#376](https://github.com/lovelymahor/StudyMatePlus/issues/376) |
-| Fix: Update GSSoC year from 2025 to 2026 in README | Medium | [#375](https://github.com/lovelymahor/StudyMatePlus/pull/375) |
-| Navigation bar + syllabus semesters + mind map confusion | Medium | [#374](https://github.com/lovelymahor/StudyMatePlus/issues/374) |
-| BUG on home page | Medium | [#372](https://github.com/lovelymahor/StudyMatePlus/issues/372) |
-| Replace Emojis with Consistent Icons Across Resource Cards for Better UI/UX | Medium | [#371](https://github.com/lovelymahor/StudyMatePlus/issues/371) |
-| AI-Powered Personalized Learning Assistant | Medium | [#370](https://github.com/lovelymahor/StudyMatePlus/issues/370) |
-| AI Notes Summarizer & Practice Question Generator | Medium | [#369](https://github.com/lovelymahor/StudyMatePlus/issues/369) |
-| feat: enhance Mind Map into study planner with academic tracking system | Medium | [#368](https://github.com/lovelymahor/StudyMatePlus/pull/368) |
-| Add Dark Mode | Medium | [#367](https://github.com/lovelymahor/StudyMatePlus/issues/367) |
-| Learn More button is not aligned properly. | Medium | [#366](https://github.com/lovelymahor/StudyMatePlus/issues/366) |
-| Add Skeleton Loading States for Resources and Study Materials | Medium | [#365](https://github.com/lovelymahor/StudyMatePlus/issues/365) |
-| Add Recently Viewed Resources section for quick access | Medium | [#364](https://github.com/lovelymahor/StudyMatePlus/issues/364) |
-| Collapsed nodes disappear from canvas instead of remaining visible | Medium | [#363](https://github.com/lovelymahor/StudyMatePlus/issues/363) |
-| Add AI Summary Generator for Syllabus and Modules | Medium | [#362](https://github.com/lovelymahor/StudyMatePlus/issues/362) |
-| Enhance README with improvement suggestions | Medium | [#361](https://github.com/lovelymahor/StudyMatePlus/pull/361) |
-| Improve README Formatting and Structure | Medium | [#360](https://github.com/lovelymahor/StudyMatePlus/issues/360) |
-| feat: add reusable footer across multiple pages | Medium | [#358](https://github.com/lovelymahor/StudyMatePlus/pull/358) |
-| Add Advanced Productivity Analytics Dashboard | Medium | [#357](https://github.com/lovelymahor/StudyMatePlus/issues/357) |
-| Implement Focus Mode with Distraction-Free Study Environment | Medium | [#356](https://github.com/lovelymahor/StudyMatePlus/issues/356) |
+| Distraction Tracking During Study Sessions | Medium | [#441](https://github.com/lovelymahor/StudyMatePlus/issues/441) |
+| Weekly Study Heatmap Visualization | Medium | [#440](https://github.com/lovelymahor/StudyMatePlus/issues/440) |
+| Subject-wise Goal Progress Tracking | Medium | [#439](https://github.com/lovelymahor/StudyMatePlus/issues/439) |
+| Smart Revision Scheduler Using Spaced Repetition | Medium | [#438](https://github.com/lovelymahor/StudyMatePlus/issues/438) |
+| Fix Contact Us Section Alignment Issues | Medium | [#437](https://github.com/lovelymahor/StudyMatePlus/issues/437) |
+| Add Footer Section to the Website | Medium | [#436](https://github.com/lovelymahor/StudyMatePlus/issues/436) |
+| feat: Add AI-powered syllabus upload and parsing feature | Medium | [#435](https://github.com/lovelymahor/StudyMatePlus/pull/435) |
+| Improve text contrast and readability across the website | Medium | [#434](https://github.com/lovelymahor/StudyMatePlus/issues/434) |
+| Responsive Website Footer with Quick Links and Social Media Icons | Medium | [#433](https://github.com/lovelymahor/StudyMatePlus/issues/433) |
+| Feature Request: Integrated Ambient Focus Sounds / Lo-Fi Player Widget | Medium | [#432](https://github.com/lovelymahor/StudyMatePlus/issues/432) |
+| Feature Request: Implement Dark Mode Theme for Late-Night Studying | Medium | [#431](https://github.com/lovelymahor/StudyMatePlus/issues/431) |
+| Feature Request: Add an Integrated Pomodoro Study Timer | Medium | [#430](https://github.com/lovelymahor/StudyMatePlus/issues/430) |
+| # UI Improvement: Header Alignment and Design Enhancement | Medium | [#429](https://github.com/lovelymahor/StudyMatePlus/issues/429) |
+| Feature Request: Study Progress Tracker Dashboard | Medium | [#428](https://github.com/lovelymahor/StudyMatePlus/issues/428) |
+| Implement user authentication with Google/University email login | Medium | [#427](https://github.com/lovelymahor/StudyMatePlus/issues/427) |
+| Add error handling UI for GitHub contributors API call | Medium | [#426](https://github.com/lovelymahor/StudyMatePlus/issues/426) |
+| Add Animated Timeline Section to About Page for Platform Journey | Medium | [#424](https://github.com/lovelymahor/StudyMatePlus/issues/424) |
+| Add Bookmark System for Academic Resources | Medium | [#423](https://github.com/lovelymahor/StudyMatePlus/issues/423) |
+| Add Dark Mode Support for Better Visibility and User Experience | Medium | [#422](https://github.com/lovelymahor/StudyMatePlus/issues/422) |
+| implemented dark toggle bar | Medium | [#421](https://github.com/lovelymahor/StudyMatePlus/pull/421) |
+| docs: restructure and enhance README for better readability and contributor onboarding | Medium | [#420](https://github.com/lovelymahor/StudyMatePlus/pull/420) |
+| Feature Request: Advanced Search, Filtering, and Resource Discovery System | Medium | [#419](https://github.com/lovelymahor/StudyMatePlus/issues/419) |
+| Add a login page | Medium | [#418](https://github.com/lovelymahor/StudyMatePlus/issues/418) |
+| "Follow Us" social media links are not clearly visible in the Contact page | Medium | [#417](https://github.com/lovelymahor/StudyMatePlus/issues/417) |
+| feature: Adding health suggestions for stressed students | Medium | [#416](https://github.com/lovelymahor/StudyMatePlus/issues/416) |
+| dark mode support to the landing page | Medium | [#415](https://github.com/lovelymahor/StudyMatePlus/issues/415) |
+| Implement a Responsive Carousel/Slider for the Testimonial Section | Medium | [#414](https://github.com/lovelymahor/StudyMatePlus/issues/414) |
+| UI Improvement: Misaligned Feature Cards in Hero Section | Medium | [#413](https://github.com/lovelymahor/StudyMatePlus/issues/413) |
+| Enhance Homepage UI Consistency and Analytics Dashboard Functionality | Medium | [#412](https://github.com/lovelymahor/StudyMatePlus/issues/412) |
+| "Get Started" Button Misalignment in "Ready to Ace Your Exams?" Section on Home Page | Medium | [#411](https://github.com/lovelymahor/StudyMatePlus/issues/411) |
 
 ---
 
