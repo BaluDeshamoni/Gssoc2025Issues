@@ -262,9 +262,16 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Bug: Contributors section silently renders empty when GitHub fetch fails | Easy | [#424](https://github.com/aayushraj1010/med-genie/issues/424) |
+| Refactor TopContributors to handle fetch errors and loading | Medium | [#456](https://github.com/aayushraj1010/med-genie/pull/456) |
+| AI Follow Up Question | Medium | [#455](https://github.com/aayushraj1010/med-genie/issues/455) |
+| Add BMI Calculator Widget to Health Tools | Medium | [#454](https://github.com/aayushraj1010/med-genie/issues/454) |
+| fix: prevent blank chat submissions | Medium | [#453](https://github.com/aayushraj1010/med-genie/pull/453) |
+| Fix low contrast UI elements (text and icons) in About/Features sections to meet WCAG compliance | Medium | [#452](https://github.com/aayushraj1010/med-genie/issues/452) |
+| fix: resolve Google OAuth invalid_request Error 400 and fix redirect … | Medium | [#451](https://github.com/aayushraj1010/med-genie/pull/451) |
+| Navbar links "Our Process", "Contact Us", and "FAQ" are non-functional on the Specialist Recommendation page | Medium | [#450](https://github.com/aayushraj1010/med-genie/issues/450) |
+| UI Inconsistency and Cart State Persistence Issue Across Pages | Medium | [#448](https://github.com/aayushraj1010/med-genie/issues/448) |
 | feat: Add configurable chat history retention limit to reduce token usage | Medium | [#446](https://github.com/aayushraj1010/med-genie/issues/446) |
 | Contact Us navbar link is non-functional | Medium | [#445](https://github.com/aayushraj1010/med-genie/issues/445) |
-| Unauthenticated users can access the specialist recommendation system | Medium | [#444](https://github.com/aayushraj1010/med-genie/issues/444) |
 | Newsletter Subscribe Button in Footer Does Nothing | Medium | [#443](https://github.com/aayushraj1010/med-genie/issues/443) |
 | Specialist recommendations are generated for invalid or non-medical symptom inputs | Medium | [#442](https://github.com/aayushraj1010/med-genie/issues/442) |
 | implement Location-Based Hospital Search | Medium | [#441](https://github.com/aayushraj1010/med-genie/issues/441) |
@@ -282,13 +289,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Medical Query Intent Classification | Medium | [#427](https://github.com/aayushraj1010/med-genie/issues/427) |
 | Feature Request: Implement Rate Limiting and Robust API Error Handling | Medium | [#426](https://github.com/aayushraj1010/med-genie/issues/426) |
 | Improve signup validation and account cleanup handling | Medium | [#425](https://github.com/aayushraj1010/med-genie/pull/425) |
-| Bug: BackgroundParticles animation loop is not fully cleaned up | Medium | [#423](https://github.com/aayushraj1010/med-genie/issues/423) |
-| Fix Dependency Resolution Conflict During npm Install | Medium | [#422](https://github.com/aayushraj1010/med-genie/issues/422) |
-| Contact Us Page Not Working from Nav bar ! | Medium | [#420](https://github.com/aayushraj1010/med-genie/issues/420) |
-| Add a Light Mode | Medium | [#419](https://github.com/aayushraj1010/med-genie/issues/419) |
-| # [ENHANCEMENT] Add Offline Detection & Automatic Recovery for Better Chat Reliability | Medium | [#418](https://github.com/aayushraj1010/med-genie/issues/418) |
-| fix: add back navigation to privacy, terms and cookie pages | Medium | [#417](https://github.com/aayushraj1010/med-genie/pull/417) |
-| Add navbar and responsive styles to background.css | Medium | [#415](https://github.com/aayushraj1010/med-genie/pull/415) |
 
 ---
 
