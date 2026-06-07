@@ -158,15 +158,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Generalize production and staging workflows | Easy | [#4835](https://github.com/OWASP/Nest/pull/4835) |
+| Update logic on how to fetch modules for mentors | Medium | [#4847](https://github.com/OWASP/Nest/pull/4847) |
+| feat: Desktop navigation dropdown should move keyboard focus to first submenu item when opened | Medium | [#4844](https://github.com/OWASP/Nest/issues/4844) |
 | Implement contribution score calculation | Medium | [#4842](https://github.com/OWASP/Nest/pull/4842) |
-| chore(deps): bump isomorphic-dompurify in /frontend | Medium | [#4840](https://github.com/OWASP/Nest/pull/4840) |
-| chore(deps): bump dompurify in /frontend | Medium | [#4839](https://github.com/OWASP/Nest/pull/4839) |
 | Removing `undefined` type or `?` specifier. | Medium | [#4833](https://github.com/OWASP/Nest/issues/4833) |
 | Implement GraphQL Queries for Candidate Claim Data | Medium | [#4832](https://github.com/OWASP/Nest/pull/4832) |
 | Extend snapshot processing and GraphQL API for new entity types | Medium | [#4831](https://github.com/OWASP/Nest/pull/4831) |
 | NestBot auto reply re-processes AI responses before posting | Medium | [#4828](https://github.com/OWASP/Nest/issues/4828) |
-| Extract SBOMs generation and upload to a separate reusable workflow | Medium | [#4827](https://github.com/OWASP/Nest/pull/4827) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4811](https://github.com/OWASP/Nest/pull/4811) |
 | Implement GraphQL Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
 | Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
@@ -196,24 +194,6 @@
 | Feature/accessibility improvements [GSSoC 2025] | Medium | [#127](https://github.com/AyushSharma72/Skill_Trade/pull/127) |
 | Add GSSoC'25 Banner. | Medium | [#126](https://github.com/AyushSharma72/Skill_Trade/issues/126) |
 | Fix the mobile responsiveness of contact form on contact page | Medium | [#123](https://github.com/AyushSharma72/Skill_Trade/issues/123) |
-
----
-
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| feat: implement robust Edge RBAC route protection and unauthorized ac… | Medium | [#740](https://github.com/Dipanita45/HEALCONNECT/pull/740) |
 
 ---
 
@@ -352,30 +332,30 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | Remove duplicate and legacy files across the codebase | Easy | [#949](https://github.com/Muneerali199/Draftdeckai/issues/949) |
 | Add skeleton loading.tsx to all missing page routes | Easy | [#947](https://github.com/Muneerali199/Draftdeckai/issues/947) |
 | Add dynamic Open Graph image generation for shared content | Easy | [#946](https://github.com/Muneerali199/Draftdeckai/issues/946) |
+| feat: add UI error boundaries to all major route segments (fixes #741) | Medium | [#974](https://github.com/Muneerali199/Draftdeckai/pull/974) |
+| ci: add linting and type-checking to pipeline (#739) | Medium | [#973](https://github.com/Muneerali199/Draftdeckai/pull/973) |
+| refactor: add structured logging with slog to Go backend (#899) | Medium | [#972](https://github.com/Muneerali199/Draftdeckai/pull/972) |
+| feat: add Go backend env validation at startup (#901) | Medium | [#971](https://github.com/Muneerali199/Draftdeckai/pull/971) |
+| Add new user onboarding wizard | Medium | [#968](https://github.com/Muneerali199/Draftdeckai/pull/968) |
+| Add image optimization helpers | Medium | [#967](https://github.com/Muneerali199/Draftdeckai/pull/967) |
+| Add SEO metadata and refactor client pages for App Router compatibility | Medium | [#965](https://github.com/Muneerali199/Draftdeckai/pull/965) |
+| feat: add ARIA labels and landmarks for accessibility | Medium | [#964](https://github.com/Muneerali199/Draftdeckai/pull/964) |
 | feat: add dynamic published resume URLs to sitemap | Medium | [#963](https://github.com/Muneerali199/Draftdeckai/pull/963) |
 | refactor: centralize hardcoded placeholder image URLs into config uti… | Medium | [#962](https://github.com/Muneerali199/Draftdeckai/pull/962) |
-| Add PWA offline fallback and sync queue | Medium | [#961](https://github.com/Muneerali199/Draftdeckai/pull/961) |
-| Add logger redaction and level filtering | Medium | [#960](https://github.com/Muneerali199/Draftdeckai/pull/960) |
-| Add Stripe webhook integration tests | Medium | [#959](https://github.com/Muneerali199/Draftdeckai/pull/959) |
 | Added backend files #902 issue | Medium | [#958](https://github.com/Muneerali199/Draftdeckai/pull/958) |
-| feat: enhance docker-compose with PostgreSQL service and networking | Medium | [#957](https://github.com/Muneerali199/Draftdeckai/pull/957) |
 | Add image optimization pipeline using sharp for all user uploads | Medium | [#955](https://github.com/Muneerali199/Draftdeckai/issues/955) |
 | Add dark mode support to all document editors and builders | Medium | [#952](https://github.com/Muneerali199/Draftdeckai/issues/952) |
-| Consolidate frontend data export and add data import functionality | Medium | [#951](https://github.com/Muneerali199/Draftdeckai/issues/951) |
-| Add PWA offline support with rich offline page and background sync | Medium | [#950](https://github.com/Muneerali199/Draftdeckai/issues/950) |
 | Write integration tests for Stripe webhook endpoint | Medium | [#948](https://github.com/Muneerali199/Draftdeckai/issues/948) |
 | Create new user onboarding wizard | Medium | [#945](https://github.com/Muneerali199/Draftdeckai/issues/945) |
-| refactor: replace ts-ignore directives with types | Medium | [#943](https://github.com/Muneerali199/Draftdeckai/pull/943) |
-| refactor: consolidate error display UI | Medium | [#942](https://github.com/Muneerali199/Draftdeckai/pull/942) |
 | refactor: move rate limit thresholds to config | Medium | [#941](https://github.com/Muneerali199/Draftdeckai/pull/941) |
 | feat: add usage dashboard with visual analytics breakdown (fixes #847) | Medium | [#940](https://github.com/Muneerali199/Draftdeckai/pull/940) |
-| feat: add empty and error states to data-driven UI | Medium | [#939](https://github.com/Muneerali199/Draftdeckai/pull/939) |
 | Fix: Add authentication and input size limits to resume analysis endpoint | Medium | [#938](https://github.com/Muneerali199/Draftdeckai/pull/938) |
 | test: add Go backend auth and middleware coverage | Medium | [#937](https://github.com/Muneerali199/Draftdeckai/pull/937) |
 | API Key Exposed in Frontend Bundle - Credentials Visible in Browser | Medium | [#934](https://github.com/Muneerali199/Draftdeckai/issues/934) |
 | Design Export Produces Incorrect Layer Order - Z-index Not Preserved | Medium | [#933](https://github.com/Muneerali199/Draftdeckai/issues/933) |
 | Real-time Collaboration Loses Changes on Network Reconnect - Race Condition | Medium | [#932](https://github.com/Muneerali199/Draftdeckai/issues/932) |
-| Add structured logging system across the entire backend | Hard | [#953](https://github.com/Muneerali199/Draftdeckai/issues/953) |
+| Design Rendering Freezes on Large Canvases - N+1 Layer Queries | Medium | [#931](https://github.com/Muneerali199/Draftdeckai/issues/931) |
+| Design File Upload Accepts Arbitrary File Types - RCE Risk | Medium | [#930](https://github.com/Muneerali199/Draftdeckai/issues/930) |
 | Build admin dashboard for user and system management | Hard | [#944](https://github.com/Muneerali199/Draftdeckai/issues/944) |
 
 ---
@@ -489,7 +469,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| [Feature]: Optimize Dockerfile for Production with Multi-stage Build | Easy | [#1869](https://github.com/recodehive/recode-website/issues/1869) |
+| docs: add citation and reframe AI narrative to resolve plagiarism concern (#1812) | Easy | [#1874](https://github.com/recodehive/recode-website/pull/1874) |
+| feat: optimize Dockerfile for production with multi-stage build using Node 22 | Easy | [#1873](https://github.com/recodehive/recode-website/pull/1873) |
+| Removed Plagiarized  Content | Easy | [#1872](https://github.com/recodehive/recode-website/pull/1872) |
+| feat: add labels for social icons in mobile menu | Easy | [#1871](https://github.com/recodehive/recode-website/pull/1871) |
+| Fixed clickability on the blogs listed on the landing page | Easy | [#1870](https://github.com/recodehive/recode-website/pull/1870) |
 | chore: bump @tsparticles/react from 4.1.0 to 4.1.3 | Easy | [#1868](https://github.com/recodehive/recode-website/pull/1868) |
 | chore: bump react-dom and @types/react-dom | Easy | [#1867](https://github.com/recodehive/recode-website/pull/1867) |
 | chore: bump @tsparticles/engine from 4.1.0 to 4.1.3 | Easy | [#1866](https://github.com/recodehive/recode-website/pull/1866) |
@@ -499,11 +483,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Fixed  visibility issue in pagination button in leaderboard | Easy | [#1861](https://github.com/recodehive/recode-website/pull/1861) |
 | docs: add 5 contextual references to Google Icon Update blog | Easy | [#1843](https://github.com/recodehive/recode-website/pull/1843) |
 | feat: Add dynamic Badge & Stats Share Card generator in Contributor leaderboard | Easy | [#1842](https://github.com/recodehive/recode-website/pull/1842) |
-| issues available to work with | Easy | [#1840](https://github.com/recodehive/recode-website/issues/1840) |
 | Fixes #1798 : Home page UI layout broken on mobile viewports & duplicate hamburger menus | Easy | [#1820](https://github.com/recodehive/recode-website/pull/1820) |
 | fix: resolve TypeScript ESLint warnings | Easy | [#1818](https://github.com/recodehive/recode-website/pull/1818) |
-| Check for possible plagiarism in AI narrative: Gradient icons and Google AI push | Easy | [#1812](https://github.com/recodehive/recode-website/issues/1812) |
-| 🐞[Bug]: Plagiarism detected in blog 'google-icon-update' section on icon changes | Easy | [#1811](https://github.com/recodehive/recode-website/issues/1811) |
 
 ---
 
@@ -767,6 +748,12 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: critical user flow issues | Medium | [#262](https://github.com/LarytheLord/Adventurers-Guild/pull/262) |
+| Razorpay contact route uses placeholder phone number | Medium | [#261](https://github.com/LarytheLord/Adventurers-Guild/issues/261) |
+| Missing /api/quests/assignments/[id] endpoint — single assignment update not possible | Medium | [#258](https://github.com/LarytheLord/Adventurers-Guild/issues/258) |
+| CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
+| CRITICAL: Public quest detail page doesn't allow logged-in adventurers to claim quests | Medium | [#256](https://github.com/LarytheLord/Adventurers-Guild/issues/256) |
+| redesign: editorial landing with premium button system | Medium | [#255](https://github.com/LarytheLord/Adventurers-Guild/pull/255) |
 | feat: Admin Payment Trigger - initiate Razorpay bank transfer from QA queue UI | Medium | [#254](https://github.com/LarytheLord/Adventurers-Guild/pull/254) |
 | Feat/premium landing quests | Medium | [#253](https://github.com/LarytheLord/Adventurers-Guild/pull/253) |
 | feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
@@ -775,8 +762,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
-| Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
-| NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
+| Inconsistent field naming in /api/users/me/quests — 'quests' should be 'quest' | Hard | [#260](https://github.com/LarytheLord/Adventurers-Guild/issues/260) |
+| Dead code: quest-utils.ts, quest-submission-dialog.tsx, and QuestForm.tsx not used anywhere | Hard | [#259](https://github.com/LarytheLord/Adventurers-Guild/issues/259) |
 
 ---
 
