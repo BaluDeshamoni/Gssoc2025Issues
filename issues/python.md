@@ -208,15 +208,13 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Generalize production and staging workflows | Easy | [#4835](https://github.com/OWASP/Nest/pull/4835) |
+| Update logic on how to fetch modules for mentors | Medium | [#4847](https://github.com/OWASP/Nest/pull/4847) |
+| feat: Desktop navigation dropdown should move keyboard focus to first submenu item when opened | Medium | [#4844](https://github.com/OWASP/Nest/issues/4844) |
 | Implement contribution score calculation | Medium | [#4842](https://github.com/OWASP/Nest/pull/4842) |
-| chore(deps): bump isomorphic-dompurify in /frontend | Medium | [#4840](https://github.com/OWASP/Nest/pull/4840) |
-| chore(deps): bump dompurify in /frontend | Medium | [#4839](https://github.com/OWASP/Nest/pull/4839) |
 | Removing `undefined` type or `?` specifier. | Medium | [#4833](https://github.com/OWASP/Nest/issues/4833) |
 | Implement GraphQL Queries for Candidate Claim Data | Medium | [#4832](https://github.com/OWASP/Nest/pull/4832) |
 | Extend snapshot processing and GraphQL API for new entity types | Medium | [#4831](https://github.com/OWASP/Nest/pull/4831) |
 | NestBot auto reply re-processes AI responses before posting | Medium | [#4828](https://github.com/OWASP/Nest/issues/4828) |
-| Extract SBOMs generation and upload to a separate reusable workflow | Medium | [#4827](https://github.com/OWASP/Nest/pull/4827) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4811](https://github.com/OWASP/Nest/pull/4811) |
 | Implement GraphQL Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
 | Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
@@ -571,8 +569,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add lamp indicator toggle for login and signup forms | Medium | [#1860](https://github.com/omroy07/AgriTech/pull/1860) |
-| Add prediction comparison feature | Medium | [#1859](https://github.com/omroy07/AgriTech/pull/1859) |
+| fix: resolve blog page functionality issues | Medium | [#1861](https://github.com/omroy07/AgriTech/pull/1861) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
 | Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
@@ -1064,7 +1061,25 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug: Contributors section silently renders empty when GitHub fetch fails | Easy | [#424](https://github.com/aayushraj1010/med-genie/issues/424) |
+| Multiple Critical Issues: Build failures, Security Vulnerabilities, and Hydration Errors | Medium | [#475](https://github.com/aayushraj1010/med-genie/issues/475) |
+| Fix token waste and potential API crashes by fully migrating to native Genkit structured outputs | Medium | [#474](https://github.com/aayushraj1010/med-genie/issues/474) |
+| feat(ux): Add Copy to Clipboard button on AI responses | Medium | [#473](https://github.com/aayushraj1010/med-genie/pull/473) |
+| refactor(perf): Memoize ChatMessageItem to prevent unnecessary re-renders | Medium | [#472](https://github.com/aayushraj1010/med-genie/pull/472) |
+| feat(ux): Add autoFocus to chat input | Medium | [#471](https://github.com/aayushraj1010/med-genie/pull/471) |
+| fix(a11y): Add ARIA labels to chat sidebar dropdown menus | Medium | [#470](https://github.com/aayushraj1010/med-genie/pull/470) |
+| feat: HIPAA-Compliant Data Export | Medium | [#469](https://github.com/aayushraj1010/med-genie/pull/469) |
+| feat: Smart Health Reminders System | Medium | [#468](https://github.com/aayushraj1010/med-genie/pull/468) |
+| feat: Enhanced Health Profiles Integration | Medium | [#467](https://github.com/aayushraj1010/med-genie/pull/467) |
+| Valid Password Falsely Rejected as "Sequential" + Eye Icon Toggle State Inverted on Sign-Up Page | Medium | [#466](https://github.com/aayushraj1010/med-genie/issues/466) |
+| fix: resolve Google Sign-In button redirection issue | Medium | [#465](https://github.com/aayushraj1010/med-genie/pull/465) |
+| Bug: Unvalidated user input enables prompt injection attacks, bypassing safety guidelines and exposing system instructions | Medium | [#464](https://github.com/aayushraj1010/med-genie/issues/464) |
+| Bug: JWT token validation missing on frontend, allowing expired and tampered tokens to grant unauthorized access | Medium | [#463](https://github.com/aayushraj1010/med-genie/issues/463) |
+| Bug: AI chatbot responses lack medical accuracy validation, providing potentially dangerous health advice | Medium | [#462](https://github.com/aayushraj1010/med-genie/issues/462) |
+| Bug: Medical health data stored in plaintext, violating HIPAA and exposing patient information | Medium | [#461](https://github.com/aayushraj1010/med-genie/issues/461) |
+| Bug: Missing rate limiting on API endpoints enables resource exhaustion and DoS attacks | Medium | [#460](https://github.com/aayushraj1010/med-genie/issues/460) |
+| Add a "Thanks to Contributors" section in README.md | Medium | [#459](https://github.com/aayushraj1010/med-genie/issues/459) |
+| Google Sign-In button redirects users to a 404 page | Medium | [#458](https://github.com/aayushraj1010/med-genie/issues/458) |
+| fix: protect specialist recommendation system | Medium | [#457](https://github.com/aayushraj1010/med-genie/pull/457) |
 | Refactor TopContributors to handle fetch errors and loading | Medium | [#456](https://github.com/aayushraj1010/med-genie/pull/456) |
 | AI Follow Up Question | Medium | [#455](https://github.com/aayushraj1010/med-genie/issues/455) |
 | Add BMI Calculator Widget to Health Tools | Medium | [#454](https://github.com/aayushraj1010/med-genie/issues/454) |
@@ -1075,23 +1090,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | UI Inconsistency and Cart State Persistence Issue Across Pages | Medium | [#448](https://github.com/aayushraj1010/med-genie/issues/448) |
 | feat: Add configurable chat history retention limit to reduce token usage | Medium | [#446](https://github.com/aayushraj1010/med-genie/issues/446) |
 | Contact Us navbar link is non-functional | Medium | [#445](https://github.com/aayushraj1010/med-genie/issues/445) |
-| Newsletter Subscribe Button in Footer Does Nothing | Medium | [#443](https://github.com/aayushraj1010/med-genie/issues/443) |
-| Specialist recommendations are generated for invalid or non-medical symptom inputs | Medium | [#442](https://github.com/aayushraj1010/med-genie/issues/442) |
-| implement Location-Based Hospital Search | Medium | [#441](https://github.com/aayushraj1010/med-genie/issues/441) |
-| Persist Dark/Light Theme Using Local Storage | Medium | [#440](https://github.com/aayushraj1010/med-genie/issues/440) |
-| Add Form Validation to Symptom Checker | Medium | [#439](https://github.com/aayushraj1010/med-genie/issues/439) |
-| Add Loading Indicator During AI Response Generation | Medium | [#438](https://github.com/aayushraj1010/med-genie/issues/438) |
-| Once logged in, the navbar again shows login button | Medium | [#437](https://github.com/aayushraj1010/med-genie/issues/437) |
-| Refactor Hero component to HeroSection with UI updates | Medium | [#436](https://github.com/aayushraj1010/med-genie/pull/436) |
-| Add light and dark theme toggle to the dashboard | Medium | [#435](https://github.com/aayushraj1010/med-genie/issues/435) |
-| Add Signup button to navbar and restrict login to registered users only | Medium | [#434](https://github.com/aayushraj1010/med-genie/issues/434) |
-| Add Dynamic Time-Based Greeting to the Hero Section | Medium | [#433](https://github.com/aayushraj1010/med-genie/issues/433) |
-| Enhance Hero Section with Relevant Medical Illustration and Visual Elements | Medium | [#432](https://github.com/aayushraj1010/med-genie/issues/432) |
-| Enhance Navbar UI with Modern Styling and Improved Visual Hierarchy | Medium | [#431](https://github.com/aayushraj1010/med-genie/issues/431) |
-| Enhancement: Add "View More" toggle to FAQ section | Medium | [#430](https://github.com/aayushraj1010/med-genie/issues/430) |
-| Medical Query Intent Classification | Medium | [#427](https://github.com/aayushraj1010/med-genie/issues/427) |
-| Feature Request: Implement Rate Limiting and Robust API Error Handling | Medium | [#426](https://github.com/aayushraj1010/med-genie/issues/426) |
-| Improve signup validation and account cleanup handling | Medium | [#425](https://github.com/aayushraj1010/med-genie/pull/425) |
 
 ---
 
@@ -1176,8 +1174,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the production-dependencies group across 1 directory with 18 updates | Medium | [#183](https://github.com/Xenonesis/code-guardian-report/pull/183) |
-| chore(deps): bump the dev-dependencies group across 1 directory with 5 updates | Medium | [#182](https://github.com/Xenonesis/code-guardian-report/pull/182) |
 | feat: update user profile page to display complete user information | Medium | [#173](https://github.com/Xenonesis/code-guardian-report/pull/173) |
 | chore(deps): bump @types/bcryptjs from 2.4.6 to 3.0.0 | Medium | [#171](https://github.com/Xenonesis/code-guardian-report/pull/171) |
 | chore(deps): bump @eslint/js from 9.39.4 to 10.0.1 | Medium | [#170](https://github.com/Xenonesis/code-guardian-report/pull/170) |
@@ -1199,6 +1195,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add SECURITY.md to Define Vulnerability Reporting Process | Medium | [#106](https://github.com/Xenonesis/code-guardian-report/issues/106) |
 | 🐞 UI/UX Issue: Login / Get Started Opens Blurred Overlay Modal Instead of Dedicated Auth Page | Medium | [#105](https://github.com/Xenonesis/code-guardian-report/issues/105) |
 | UI Redesign: Homepage & Footer | Medium | [#104](https://github.com/Xenonesis/code-guardian-report/issues/104) |
+| docs: fix Getting Started instructions and clarify setup | Medium | [#102](https://github.com/Xenonesis/code-guardian-report/pull/102) |
 
 ---
 
