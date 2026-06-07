@@ -526,6 +526,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feature : Improve User Model Test Coverage and Reliability | Medium | [#718](https://github.com/GitMetricsLab/github_tracker/pull/718) |
 | improvised about page | Medium | [#716](https://github.com/GitMetricsLab/github_tracker/pull/716) |
 | feat(a11y): add keyboard navigation support (#631) | Medium | [#715](https://github.com/GitMetricsLab/github_tracker/pull/715) |
 | feat: add GitHub contribution heatmap using GraphQL API | Medium | [#713](https://github.com/GitMetricsLab/github_tracker/pull/713) |
@@ -540,9 +541,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Enhance Tracker Page Appearance | Medium | [#696](https://github.com/GitMetricsLab/github_tracker/pull/696) |
 | fix(http): add axios interceptor that blocks disallowed HTTP methods | Medium | [#695](https://github.com/GitMetricsLab/github_tracker/pull/695) |
 | fix(csrf): add per-session CSRF token to state-mutating auth requests | Medium | [#694](https://github.com/GitMetricsLab/github_tracker/pull/694) |
-| fix(auth): prevent browser autofill of PAT field | Medium | [#693](https://github.com/GitMetricsLab/github_tracker/pull/693) |
-| fix(auth): auto-clear session credentials after 30 minutes of inactivity | Medium | [#692](https://github.com/GitMetricsLab/github_tracker/pull/692) |
-| fix(search): strip GitHub qualifier injection from search filter input | Medium | [#691](https://github.com/GitMetricsLab/github_tracker/pull/691) |
 
 ---
 
@@ -1479,6 +1477,23 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add RTU Kota CSE syllabus (Sem 1-8) + fix download & preview bug | Medium | [#458](https://github.com/lovelymahor/StudyMatePlus/pull/458) |
+| Mind Map nodes lack visual connecting lines (edges) between parent and child elements | Medium | [#457](https://github.com/lovelymahor/StudyMatePlus/issues/457) |
+| Issue: Missing Semesters (6–8) in Semester Dropdown / Scroll List | Medium | [#456](https://github.com/lovelymahor/StudyMatePlus/issues/456) |
+| Enhancement: Fix Download Button Alignment and Improve Button Styling in Resource Cards | Medium | [#455](https://github.com/lovelymahor/StudyMatePlus/issues/455) |
+| Bug: Uneven Alignment Between Primary and Secondary CTA Buttons | Medium | [#454](https://github.com/lovelymahor/StudyMatePlus/issues/454) |
+| Bug: SQL injection vulnerability in search and filtering allows unauthorized database access and modification | Medium | [#453](https://github.com/lovelymahor/StudyMatePlus/issues/453) |
+| Bug: File upload validation missing, enabling arbitrary executable uploads and disk exhaustion attacks | Medium | [#452](https://github.com/lovelymahor/StudyMatePlus/issues/452) |
+| Bug: Missing rate limiting on auth endpoints enables brute-force password attacks and account enumeration | Medium | [#451](https://github.com/lovelymahor/StudyMatePlus/issues/451) |
+| Bug: User-generated content not sanitized, enabling stored XSS attacks on course descriptions and forum posts | Medium | [#450](https://github.com/lovelymahor/StudyMatePlus/issues/450) |
+| Bug: Missing CORS validation and CSRF protection enables cross-site request forgery attacks | Medium | [#449](https://github.com/lovelymahor/StudyMatePlus/issues/449) |
+| docs: add table of contents to README | Medium | [#448](https://github.com/lovelymahor/StudyMatePlus/pull/448) |
+| feat: Add RTU Kota - CSE Department Syllabus (Semester 1-8) + Fix Download & Preview Bug | Medium | [#447](https://github.com/lovelymahor/StudyMatePlus/issues/447) |
+| docs: add table of contents to README for better navigation | Medium | [#446](https://github.com/lovelymahor/StudyMatePlus/pull/446) |
+| Improve README Navigation by Adding a Table of Contents | Medium | [#445](https://github.com/lovelymahor/StudyMatePlus/issues/445) |
+| BUG: API URLs Hardcoded as `http://localhost:5000` in 4 Places — App Non-Functional in Any Deployed Environment | Medium | [#444](https://github.com/lovelymahor/StudyMatePlus/issues/444) |
+| Fix navbar styling and improve dark mode responsiveness | Medium | [#443](https://github.com/lovelymahor/StudyMatePlus/pull/443) |
+| Achievement Badges and Milestones System | Medium | [#442](https://github.com/lovelymahor/StudyMatePlus/issues/442) |
 | Distraction Tracking During Study Sessions | Medium | [#441](https://github.com/lovelymahor/StudyMatePlus/issues/441) |
 | Weekly Study Heatmap Visualization | Medium | [#440](https://github.com/lovelymahor/StudyMatePlus/issues/440) |
 | Subject-wise Goal Progress Tracking | Medium | [#439](https://github.com/lovelymahor/StudyMatePlus/issues/439) |
@@ -1492,23 +1507,6 @@ Fast Workflow Tools
 | Feature Request: Implement Dark Mode Theme for Late-Night Studying | Medium | [#431](https://github.com/lovelymahor/StudyMatePlus/issues/431) |
 | Feature Request: Add an Integrated Pomodoro Study Timer | Medium | [#430](https://github.com/lovelymahor/StudyMatePlus/issues/430) |
 | # UI Improvement: Header Alignment and Design Enhancement | Medium | [#429](https://github.com/lovelymahor/StudyMatePlus/issues/429) |
-| Feature Request: Study Progress Tracker Dashboard | Medium | [#428](https://github.com/lovelymahor/StudyMatePlus/issues/428) |
-| Implement user authentication with Google/University email login | Medium | [#427](https://github.com/lovelymahor/StudyMatePlus/issues/427) |
-| Add error handling UI for GitHub contributors API call | Medium | [#426](https://github.com/lovelymahor/StudyMatePlus/issues/426) |
-| Add Animated Timeline Section to About Page for Platform Journey | Medium | [#424](https://github.com/lovelymahor/StudyMatePlus/issues/424) |
-| Add Bookmark System for Academic Resources | Medium | [#423](https://github.com/lovelymahor/StudyMatePlus/issues/423) |
-| Add Dark Mode Support for Better Visibility and User Experience | Medium | [#422](https://github.com/lovelymahor/StudyMatePlus/issues/422) |
-| implemented dark toggle bar | Medium | [#421](https://github.com/lovelymahor/StudyMatePlus/pull/421) |
-| docs: restructure and enhance README for better readability and contributor onboarding | Medium | [#420](https://github.com/lovelymahor/StudyMatePlus/pull/420) |
-| Feature Request: Advanced Search, Filtering, and Resource Discovery System | Medium | [#419](https://github.com/lovelymahor/StudyMatePlus/issues/419) |
-| Add a login page | Medium | [#418](https://github.com/lovelymahor/StudyMatePlus/issues/418) |
-| "Follow Us" social media links are not clearly visible in the Contact page | Medium | [#417](https://github.com/lovelymahor/StudyMatePlus/issues/417) |
-| feature: Adding health suggestions for stressed students | Medium | [#416](https://github.com/lovelymahor/StudyMatePlus/issues/416) |
-| dark mode support to the landing page | Medium | [#415](https://github.com/lovelymahor/StudyMatePlus/issues/415) |
-| Implement a Responsive Carousel/Slider for the Testimonial Section | Medium | [#414](https://github.com/lovelymahor/StudyMatePlus/issues/414) |
-| UI Improvement: Misaligned Feature Cards in Hero Section | Medium | [#413](https://github.com/lovelymahor/StudyMatePlus/issues/413) |
-| Enhance Homepage UI Consistency and Analytics Dashboard Functionality | Medium | [#412](https://github.com/lovelymahor/StudyMatePlus/issues/412) |
-| "Get Started" Button Misalignment in "Ready to Ace Your Exams?" Section on Home Page | Medium | [#411](https://github.com/lovelymahor/StudyMatePlus/issues/411) |
 
 ---
 
