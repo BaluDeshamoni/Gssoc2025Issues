@@ -93,8 +93,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Admin Payment Trigger - initiate Razorpay bank transfer from QA queue UI | Medium | [#254](https://github.com/LarytheLord/Adventurers-Guild/pull/254) |
-| Feat/premium landing quests | Medium | [#253](https://github.com/LarytheLord/Adventurers-Guild/pull/253) |
+| Razorpay contact route uses placeholder phone number | Medium | [#261](https://github.com/LarytheLord/Adventurers-Guild/issues/261) |
+| Missing /api/quests/assignments/[id] endpoint — single assignment update not possible | Medium | [#258](https://github.com/LarytheLord/Adventurers-Guild/issues/258) |
+| CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
+| CRITICAL: Public quest detail page doesn't allow logged-in adventurers to claim quests | Medium | [#256](https://github.com/LarytheLord/Adventurers-Guild/issues/256) |
 | feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
 | Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
@@ -103,6 +105,8 @@
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 | NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
+| Inconsistent field naming in /api/users/me/quests — 'quests' should be 'quest' | Hard | [#260](https://github.com/LarytheLord/Adventurers-Guild/issues/260) |
+| Dead code: quest-utils.ts, quest-submission-dialog.tsx, and QuestForm.tsx not used anywhere | Hard | [#259](https://github.com/LarytheLord/Adventurers-Guild/issues/259) |
 
 ---
 
