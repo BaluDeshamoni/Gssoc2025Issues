@@ -191,6 +191,21 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add mentroship modules data sync cron job | Easy | [#4854](https://github.com/OWASP/Nest/pull/4854) |
+| chore(deps-dev): bump @graphql-codegen/near-operation-file-preset in /frontend | Medium | [#4867](https://github.com/OWASP/Nest/pull/4867) |
+| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4866](https://github.com/OWASP/Nest/pull/4866) |
+| chore(deps): bump tailwind-merge in /frontend | Medium | [#4865](https://github.com/OWASP/Nest/pull/4865) |
+| chore(deps): bump posthog-js in /frontend | Medium | [#4864](https://github.com/OWASP/Nest/pull/4864) |
+| chore(deps): bump the version-updates group across 1 directory with 3 updates | Medium | [#4863](https://github.com/OWASP/Nest/pull/4863) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4862](https://github.com/OWASP/Nest/pull/4862) |
+| feat: post threaded resolution reply when invite link is updated on GitHub | Medium | [#4861](https://github.com/OWASP/Nest/pull/4861) |
+| chore(deps): bump strawberry-graphql-django in / | Medium | [#4860](https://github.com/OWASP/Nest/pull/4860) |
+| chore(deps): bump https://github.com/pre-commit/mirrors-mypy in / | Medium | [#4859](https://github.com/OWASP/Nest/pull/4859) |
+| chore(deps): bump https://github.com/djlint/djLint in / | Medium | [#4858](https://github.com/OWASP/Nest/pull/4858) |
+| chore(deps): bump https://github.com/astral-sh/ruff-pre-commit in / | Medium | [#4857](https://github.com/OWASP/Nest/pull/4857) |
+| chore(deps): bump https://github.com/antonbabenko/pre-commit-terraform in / | Medium | [#4856](https://github.com/OWASP/Nest/pull/4856) |
+| feat: add actionlint for workflow file linting | Medium | [#4855](https://github.com/OWASP/Nest/pull/4855) |
+| Evaluate AWS ARM64 Migration for Production and Staging Environments | Medium | [#4853](https://github.com/OWASP/Nest/issues/4853) |
 | Update logic on how to fetch modules for mentors | Medium | [#4847](https://github.com/OWASP/Nest/pull/4847) |
 | feat: Desktop navigation dropdown should move keyboard focus to first submenu item when opened | Medium | [#4844](https://github.com/OWASP/Nest/issues/4844) |
 | Implement contribution score calculation | Medium | [#4842](https://github.com/OWASP/Nest/pull/4842) |
@@ -198,12 +213,8 @@ Accessibility features like dark mode,white.
 | Implement GraphQL Queries for Candidate Claim Data | Medium | [#4832](https://github.com/OWASP/Nest/pull/4832) |
 | Extend snapshot processing and GraphQL API for new entity types | Medium | [#4831](https://github.com/OWASP/Nest/pull/4831) |
 | NestBot auto reply re-processes AI responses before posting | Medium | [#4828](https://github.com/OWASP/Nest/issues/4828) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4811](https://github.com/OWASP/Nest/pull/4811) |
 | Implement GraphQL Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
 | Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
-| Improve header accessibility and keyboard navigation support | Medium | [#4804](https://github.com/OWASP/Nest/issues/4804) |
-| Feat/revamp member profile page | Medium | [#4797](https://github.com/OWASP/Nest/pull/4797) |
-| Introduce GitHub action/workflow files pre-commit checks | Medium | [#4746](https://github.com/OWASP/Nest/issues/4746) |
 
 ---
 
@@ -720,9 +731,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add missing next() call in Mongoose pre-save middleware hook (Issue #699) | Medium | [#704](https://github.com/GitMetricsLab/github_tracker/pull/704) |
 | Filter sensitive user data from login endpoint response (Issue #698) | Medium | [#703](https://github.com/GitMetricsLab/github_tracker/pull/703) |
 | Prevent account enumeration via signup error messages (Issue #697) | Medium | [#702](https://github.com/GitMetricsLab/github_tracker/pull/702) |
-| Enhance Tracker Page Appearance | Medium | [#696](https://github.com/GitMetricsLab/github_tracker/pull/696) |
-| fix(http): add axios interceptor that blocks disallowed HTTP methods | Medium | [#695](https://github.com/GitMetricsLab/github_tracker/pull/695) |
-| fix(csrf): add per-session CSRF token to state-mutating auth requests | Medium | [#694](https://github.com/GitMetricsLab/github_tracker/pull/694) |
 
 ---
 
@@ -1735,6 +1743,18 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI/UX Enhancement: Improve Hero Section, Navigation Bar and CTA Consistency | Medium | [#470](https://github.com/lovelymahor/StudyMatePlus/issues/470) |
+| Syllabus related issue | Medium | [#469](https://github.com/lovelymahor/StudyMatePlus/issues/469) |
+| Build "Filter & Search" UI Component | Medium | [#468](https://github.com/lovelymahor/StudyMatePlus/issues/468) |
+| Navbar Renders on All Pages Including Potential Full-Screen Views | Medium | [#467](https://github.com/lovelymahor/StudyMatePlus/issues/467) |
+| Duplicate Privacy Route Definition | Medium | [#466](https://github.com/lovelymahor/StudyMatePlus/issues/466) |
+| . | Medium | [#465](https://github.com/lovelymahor/StudyMatePlus/issues/465) |
+| Most Popular Resources Section | Medium | [#464](https://github.com/lovelymahor/StudyMatePlus/issues/464) |
+| Mentor Availability Status | Medium | [#463](https://github.com/lovelymahor/StudyMatePlus/issues/463) |
+| Exam Countdown Widget | Medium | [#462](https://github.com/lovelymahor/StudyMatePlus/issues/462) |
+| Important Topics Section | Medium | [#461](https://github.com/lovelymahor/StudyMatePlus/issues/461) |
+| Add Personal Study Progress Tracker | Medium | [#460](https://github.com/lovelymahor/StudyMatePlus/issues/460) |
+| Feature Request: Intelligent Search with Semantic Matching & Smart Suggestions | Medium | [#459](https://github.com/lovelymahor/StudyMatePlus/issues/459) |
 | feat: add RTU Kota CSE syllabus (Sem 1-8) + fix download & preview bug | Medium | [#458](https://github.com/lovelymahor/StudyMatePlus/pull/458) |
 | Mind Map nodes lack visual connecting lines (edges) between parent and child elements | Medium | [#457](https://github.com/lovelymahor/StudyMatePlus/issues/457) |
 | Issue: Missing Semesters (6–8) in Semester Dropdown / Scroll List | Medium | [#456](https://github.com/lovelymahor/StudyMatePlus/issues/456) |
@@ -1753,18 +1773,6 @@ Fast Workflow Tools
 | Fix navbar styling and improve dark mode responsiveness | Medium | [#443](https://github.com/lovelymahor/StudyMatePlus/pull/443) |
 | Achievement Badges and Milestones System | Medium | [#442](https://github.com/lovelymahor/StudyMatePlus/issues/442) |
 | Distraction Tracking During Study Sessions | Medium | [#441](https://github.com/lovelymahor/StudyMatePlus/issues/441) |
-| Weekly Study Heatmap Visualization | Medium | [#440](https://github.com/lovelymahor/StudyMatePlus/issues/440) |
-| Subject-wise Goal Progress Tracking | Medium | [#439](https://github.com/lovelymahor/StudyMatePlus/issues/439) |
-| Smart Revision Scheduler Using Spaced Repetition | Medium | [#438](https://github.com/lovelymahor/StudyMatePlus/issues/438) |
-| Fix Contact Us Section Alignment Issues | Medium | [#437](https://github.com/lovelymahor/StudyMatePlus/issues/437) |
-| Add Footer Section to the Website | Medium | [#436](https://github.com/lovelymahor/StudyMatePlus/issues/436) |
-| feat: Add AI-powered syllabus upload and parsing feature | Medium | [#435](https://github.com/lovelymahor/StudyMatePlus/pull/435) |
-| Improve text contrast and readability across the website | Medium | [#434](https://github.com/lovelymahor/StudyMatePlus/issues/434) |
-| Responsive Website Footer with Quick Links and Social Media Icons | Medium | [#433](https://github.com/lovelymahor/StudyMatePlus/issues/433) |
-| Feature Request: Integrated Ambient Focus Sounds / Lo-Fi Player Widget | Medium | [#432](https://github.com/lovelymahor/StudyMatePlus/issues/432) |
-| Feature Request: Implement Dark Mode Theme for Late-Night Studying | Medium | [#431](https://github.com/lovelymahor/StudyMatePlus/issues/431) |
-| Feature Request: Add an Integrated Pomodoro Study Timer | Medium | [#430](https://github.com/lovelymahor/StudyMatePlus/issues/430) |
-| # UI Improvement: Header Alignment and Design Enhancement | Medium | [#429](https://github.com/lovelymahor/StudyMatePlus/issues/429) |
 
 ---
 
