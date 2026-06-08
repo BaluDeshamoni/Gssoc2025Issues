@@ -91,20 +91,30 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump github/codeql-action from 4.35.4 to 4.35.5 in the version-updates group across 1 directory | Medium | [#4837](https://github.com/OWASP/Nest/pull/4837) |
-| chore(deps): bump strawberry-graphql in / | Medium | [#4836](https://github.com/OWASP/Nest/pull/4836) |
-| Generalize production and staging workflows | Medium | [#4835](https://github.com/OWASP/Nest/pull/4835) |
+| Add mentroship modules data sync cron job | Easy | [#4854](https://github.com/OWASP/Nest/pull/4854) |
+| chore(deps-dev): bump @graphql-codegen/near-operation-file-preset in /frontend | Medium | [#4867](https://github.com/OWASP/Nest/pull/4867) |
+| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4866](https://github.com/OWASP/Nest/pull/4866) |
+| chore(deps): bump tailwind-merge in /frontend | Medium | [#4865](https://github.com/OWASP/Nest/pull/4865) |
+| chore(deps): bump posthog-js in /frontend | Medium | [#4864](https://github.com/OWASP/Nest/pull/4864) |
+| chore(deps): bump the version-updates group across 1 directory with 3 updates | Medium | [#4863](https://github.com/OWASP/Nest/pull/4863) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4862](https://github.com/OWASP/Nest/pull/4862) |
+| feat: post threaded resolution reply when invite link is updated on GitHub | Medium | [#4861](https://github.com/OWASP/Nest/pull/4861) |
+| chore(deps): bump strawberry-graphql-django in / | Medium | [#4860](https://github.com/OWASP/Nest/pull/4860) |
+| chore(deps): bump https://github.com/pre-commit/mirrors-mypy in / | Medium | [#4859](https://github.com/OWASP/Nest/pull/4859) |
+| chore(deps): bump https://github.com/djlint/djLint in / | Medium | [#4858](https://github.com/OWASP/Nest/pull/4858) |
+| chore(deps): bump https://github.com/astral-sh/ruff-pre-commit in / | Medium | [#4857](https://github.com/OWASP/Nest/pull/4857) |
+| chore(deps): bump https://github.com/antonbabenko/pre-commit-terraform in / | Medium | [#4856](https://github.com/OWASP/Nest/pull/4856) |
+| feat: add actionlint for workflow file linting | Medium | [#4855](https://github.com/OWASP/Nest/pull/4855) |
+| Evaluate AWS ARM64 Migration for Production and Staging Environments | Medium | [#4853](https://github.com/OWASP/Nest/issues/4853) |
+| Update logic on how to fetch modules for mentors | Medium | [#4847](https://github.com/OWASP/Nest/pull/4847) |
+| feat: Desktop navigation dropdown should move keyboard focus to first submenu item when opened | Medium | [#4844](https://github.com/OWASP/Nest/issues/4844) |
+| Implement contribution score calculation | Medium | [#4842](https://github.com/OWASP/Nest/pull/4842) |
 | Removing `undefined` type or `?` specifier. | Medium | [#4833](https://github.com/OWASP/Nest/issues/4833) |
 | Implement GraphQL Queries for Candidate Claim Data | Medium | [#4832](https://github.com/OWASP/Nest/pull/4832) |
 | Extend snapshot processing and GraphQL API for new entity types | Medium | [#4831](https://github.com/OWASP/Nest/pull/4831) |
 | NestBot auto reply re-processes AI responses before posting | Medium | [#4828](https://github.com/OWASP/Nest/issues/4828) |
-| Extract SBOMs generation and upload to a separate reusable workflow | Medium | [#4827](https://github.com/OWASP/Nest/pull/4827) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4811](https://github.com/OWASP/Nest/pull/4811) |
 | Implement GraphQL Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
 | Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
-| Improve header accessibility and keyboard navigation support | Medium | [#4804](https://github.com/OWASP/Nest/issues/4804) |
-| Feat/revamp member profile page | Medium | [#4797](https://github.com/OWASP/Nest/pull/4797) |
-| Introduce GitHub action/workflow files pre-commit checks | Medium | [#4746](https://github.com/OWASP/Nest/issues/4746) |
 
 ---
 
@@ -638,8 +648,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Admin Payment Trigger - initiate Razorpay bank transfer from QA queue UI | Medium | [#254](https://github.com/LarytheLord/Adventurers-Guild/pull/254) |
-| Feat/premium landing quests | Medium | [#253](https://github.com/LarytheLord/Adventurers-Guild/pull/253) |
+| Razorpay contact route uses placeholder phone number | Medium | [#261](https://github.com/LarytheLord/Adventurers-Guild/issues/261) |
+| Missing /api/quests/assignments/[id] endpoint — single assignment update not possible | Medium | [#258](https://github.com/LarytheLord/Adventurers-Guild/issues/258) |
+| CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
+| CRITICAL: Public quest detail page doesn't allow logged-in adventurers to claim quests | Medium | [#256](https://github.com/LarytheLord/Adventurers-Guild/issues/256) |
 | feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
 | Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
@@ -648,6 +660,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 | NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
+| Inconsistent field naming in /api/users/me/quests — 'quests' should be 'quest' | Hard | [#260](https://github.com/LarytheLord/Adventurers-Guild/issues/260) |
+| Dead code: quest-utils.ts, quest-submission-dialog.tsx, and QuestForm.tsx not used anywhere | Hard | [#259](https://github.com/LarytheLord/Adventurers-Guild/issues/259) |
 
 ---
 
@@ -877,8 +891,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add User Feedback and Rating System | Medium | [#56](https://github.com/Jyotibrat/AI-Flow/issues/56) |
-| chore: add unified lint, format, and concurrent dev workflows | Medium | [#55](https://github.com/Jyotibrat/AI-Flow/pull/55) |
+| Fix Text Clipping Issue Across Multiple Sections of the Website | Medium | [#58](https://github.com/Jyotibrat/AI-Flow/issues/58) |
+| Add One-Click Copy Button for AI Responses | Medium | [#57](https://github.com/Jyotibrat/AI-Flow/issues/57) |
 | Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
 ---
