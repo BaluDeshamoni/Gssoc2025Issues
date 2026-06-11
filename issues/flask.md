@@ -260,36 +260,36 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: complete forgot password and reset password flow | Medium | [#518](https://github.com/aayushraj1010/med-genie/pull/518) |
+| feat: implement next-themes for robust dark mode management | Medium | [#517](https://github.com/aayushraj1010/med-genie/pull/517) |
+| Feature/chat history sync | Medium | [#516](https://github.com/aayushraj1010/med-genie/pull/516) |
+| Feature/wcag accessibility | Medium | [#515](https://github.com/aayushraj1010/med-genie/pull/515) |
+| Feature/user profile page | Medium | [#514](https://github.com/aayushraj1010/med-genie/pull/514) |
+| Feature/health reminders | Medium | [#513](https://github.com/aayushraj1010/med-genie/pull/513) |
+| Feature/nearby hospitals | Medium | [#512](https://github.com/aayushraj1010/med-genie/pull/512) |
+| Feature/typing indicator | Medium | [#511](https://github.com/aayushraj1010/med-genie/pull/511) |
+| Feature/chat history | Medium | [#510](https://github.com/aayushraj1010/med-genie/pull/510) |
+| feat: add multi-language support (i18n) using react-i18next | Medium | [#509](https://github.com/aayushraj1010/med-genie/pull/509) |
+| Reset Chat Button Logs Out User Instead of Only Clearing Conversation | Medium | [#508](https://github.com/aayushraj1010/med-genie/issues/508) |
+| Add Client-Side Search Functionality for Past Chat Sessions | Medium | [#507](https://github.com/aayushraj1010/med-genie/issues/507) |
+| Add Markdown Rendering and Code/Text Copy Functionality for Chat Chatbot Responses | Medium | [#506](https://github.com/aayushraj1010/med-genie/issues/506) |
+| Race Condition in CLI Config Updates & Lack of Atomic Write Strategy Leading to File Corruption | Medium | [#505](https://github.com/aayushraj1010/med-genie/issues/505) |
+| fix: Multiple Critical Issues: Build failures, Security Vulnerabilities, and Hydration Errors bug Something isn't working | Medium | [#504](https://github.com/aayushraj1010/med-genie/pull/504) |
+| fix: improve timeline flow alignment in How Med Genie Helps You section | Medium | [#503](https://github.com/aayushraj1010/med-genie/pull/503) |
+| UI Improvement: Fix Timeline Flow Alignment in "How Med Genie Helps You" Section | Medium | [#502](https://github.com/aayushraj1010/med-genie/issues/502) |
+| docs: add Table of Contents and Contributors section with contrib.rocks badge | Medium | [#501](https://github.com/aayushraj1010/med-genie/issues/501) |
+| Bug: User allergies not checked, providing unsafe recommendations | Medium | [#500](https://github.com/aayushraj1010/med-genie/issues/500) |
+| Bug: Health data not encrypted, violating privacy and HIPAA compliance | Medium | [#499](https://github.com/aayushraj1010/med-genie/issues/499) |
+| Bug: Emergency health conditions not detected, missing critical escalation | Medium | [#498](https://github.com/aayushraj1010/med-genie/issues/498) |
+| Bug: Medication interactions not checked, providing unsafe health advice | Medium | [#497](https://github.com/aayushraj1010/med-genie/issues/497) |
+| Bug: AI health information not clearly distinguished from medical advice, creating liability | Medium | [#496](https://github.com/aayushraj1010/med-genie/issues/496) |
+| Minor UI polish and a11y improvements | Medium | [#495](https://github.com/aayushraj1010/med-genie/pull/495) |
+| Broken Demo Navigation, Inaccessible Chat Interface, and Google OAuth Authentication Failure | Medium | [#494](https://github.com/aayushraj1010/med-genie/issues/494) |
+| Newsletter subscription returns "Internal server error" when submitting a valid email | Medium | [#493](https://github.com/aayushraj1010/med-genie/issues/493) |
+| Add Dockerfile and Docker Compose orchestration for unified local development | Medium | [#492](https://github.com/aayushraj1010/med-genie/issues/492) |
+| Feat: Automated Vitals Trend Visualizer & Responsive Clinical Notation Companion | Medium | [#491](https://github.com/aayushraj1010/med-genie/issues/491) |
 | Add BMI Calculator Component to Med-Genie Dashboard | Medium | [#490](https://github.com/aayushraj1010/med-genie/issues/490) |
 | [Feature]: Add Multi-language Support (Hindi, Tamil, Bengali) | Medium | [#489](https://github.com/aayushraj1010/med-genie/issues/489) |
-| [Feature]: Add Symptom History / Past Queries Dashboard | Medium | [#488](https://github.com/aayushraj1010/med-genie/issues/488) |
-| 🐛[Bug]: No Loading Skeleton/Spinner While AI Response is Generating | Medium | [#487](https://github.com/aayushraj1010/med-genie/issues/487) |
-| [Feature]: Add Nearby Hospital Finder with Map Integration | Medium | [#486](https://github.com/aayushraj1010/med-genie/issues/486) |
-| [Feature]: Add Medication Reminder / Health Alert System | Medium | [#485](https://github.com/aayushraj1010/med-genie/issues/485) |
-| [Feature]: Add User Profile Page (View & Edit Health Info) | Medium | [#484](https://github.com/aayushraj1010/med-genie/issues/484) |
-| ♿[Accessibility]: Add ARIA Labels and Keyboard Navigation Support | Medium | [#483](https://github.com/aayushraj1010/med-genie/issues/483) |
-| 🐛[Bug]: Chat History Not Persisted Across Sessions for Logged-In Users | Medium | [#482](https://github.com/aayushraj1010/med-genie/issues/482) |
-| [Feature]: Dark Mode / Light Mode Toggle | Medium | [#481](https://github.com/aayushraj1010/med-genie/issues/481) |
-| [Feature]: Add Password Reset / Forgot Password Flow | Medium | [#480](https://github.com/aayushraj1010/med-genie/issues/480) |
-| Lack of Long-Term Medication Usage Tracking and Risk Detection | Medium | [#479](https://github.com/aayushraj1010/med-genie/issues/479) |
-| Make navbar fully interactive and responsive (GSSOC’26) | Medium | [#478](https://github.com/aayushraj1010/med-genie/issues/478) |
-| Bug: Specialist Recommendation heading overlaps with fixed navbar on Find Specialist page | Medium | [#477](https://github.com/aayushraj1010/med-genie/issues/477) |
-| feat: add chat sessions API endpoints | Medium | [#476](https://github.com/aayushraj1010/med-genie/pull/476) |
-| Multiple Critical Issues: Build failures, Security Vulnerabilities, and Hydration Errors | Medium | [#475](https://github.com/aayushraj1010/med-genie/issues/475) |
-| Fix token waste and potential API crashes by fully migrating to native Genkit structured outputs | Medium | [#474](https://github.com/aayushraj1010/med-genie/issues/474) |
-| feat(ux): Add Copy to Clipboard button on AI responses | Medium | [#473](https://github.com/aayushraj1010/med-genie/pull/473) |
-| refactor(perf): Memoize ChatMessageItem to prevent unnecessary re-renders | Medium | [#472](https://github.com/aayushraj1010/med-genie/pull/472) |
-| feat(ux): Add autoFocus to chat input | Medium | [#471](https://github.com/aayushraj1010/med-genie/pull/471) |
-| fix(a11y): Add ARIA labels to chat sidebar dropdown menus | Medium | [#470](https://github.com/aayushraj1010/med-genie/pull/470) |
-| feat: HIPAA-Compliant Data Export | Medium | [#469](https://github.com/aayushraj1010/med-genie/pull/469) |
-| feat: Smart Health Reminders System | Medium | [#468](https://github.com/aayushraj1010/med-genie/pull/468) |
-| feat: Enhanced Health Profiles Integration | Medium | [#467](https://github.com/aayushraj1010/med-genie/pull/467) |
-| Valid Password Falsely Rejected as "Sequential" + Eye Icon Toggle State Inverted on Sign-Up Page | Medium | [#466](https://github.com/aayushraj1010/med-genie/issues/466) |
-| fix: resolve Google Sign-In button redirection issue | Medium | [#465](https://github.com/aayushraj1010/med-genie/pull/465) |
-| Bug: Unvalidated user input enables prompt injection attacks, bypassing safety guidelines and exposing system instructions | Medium | [#464](https://github.com/aayushraj1010/med-genie/issues/464) |
-| Bug: JWT token validation missing on frontend, allowing expired and tampered tokens to grant unauthorized access | Medium | [#463](https://github.com/aayushraj1010/med-genie/issues/463) |
-| Bug: AI chatbot responses lack medical accuracy validation, providing potentially dangerous health advice | Medium | [#462](https://github.com/aayushraj1010/med-genie/issues/462) |
-| Bug: Medical health data stored in plaintext, violating HIPAA and exposing patient information | Medium | [#461](https://github.com/aayushraj1010/med-genie/issues/461) |
 
 ---
 
