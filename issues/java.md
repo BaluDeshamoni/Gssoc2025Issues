@@ -424,6 +424,28 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
+## 📌 Project: Healconnect 
+
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
+
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Next.js Security Headers Overwritten in next.config.js (Configuration Bug) | Medium | [#748](https://github.com/Dipanita45/HEALCONNECT/issues/748) |
+| Mismatched Auth Provider in Backend Middleware (Clerk vs Firebase Admin) & Missing API Headers (Architectural Bug) | Medium | [#747](https://github.com/Dipanita45/HEALCONNECT/issues/747) |
+| Client-Side Route Guard and Identity Bypass via LocalStorage Manipulation (Security Vulnerability) | Medium | [#746](https://github.com/Dipanita45/HEALCONNECT/issues/746) |
+| FEAT: Add a google auth | Medium | [#745](https://github.com/Dipanita45/HEALCONNECT/issues/745) |
+| fix: prevent ThemeProvider from blocking SSR with blank initial render | Medium | [#744](https://github.com/Dipanita45/HEALCONNECT/pull/744) |
+
+---
+
 ## 📌 Project: Blogging Platform
 
 📝 **Description:** User friendly Interface where users can create accounts and post blogs on any topic and also allows users to read other blogs based on preference and intrest ,also allows sharing 
@@ -1068,22 +1090,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: add citation and reframe AI narrative to resolve plagiarism concern (#1812) | Easy | [#1874](https://github.com/recodehive/recode-website/pull/1874) |
-| feat: optimize Dockerfile for production with multi-stage build using Node 22 | Easy | [#1873](https://github.com/recodehive/recode-website/pull/1873) |
-| Removed Plagiarized  Content | Easy | [#1872](https://github.com/recodehive/recode-website/pull/1872) |
-| feat: add labels for social icons in mobile menu | Easy | [#1871](https://github.com/recodehive/recode-website/pull/1871) |
-| Fixed clickability on the blogs listed on the landing page | Easy | [#1870](https://github.com/recodehive/recode-website/pull/1870) |
-| chore: bump @tsparticles/react from 4.1.0 to 4.1.3 | Easy | [#1868](https://github.com/recodehive/recode-website/pull/1868) |
-| chore: bump react-dom and @types/react-dom | Easy | [#1867](https://github.com/recodehive/recode-website/pull/1867) |
-| chore: bump @tsparticles/engine from 4.1.0 to 4.1.3 | Easy | [#1866](https://github.com/recodehive/recode-website/pull/1866) |
-| chore: bump @clerk/react from 6.7.2 to 6.7.3 | Easy | [#1865](https://github.com/recodehive/recode-website/pull/1865) |
-| chore: bump @tsparticles/slim from 4.1.0 to 4.1.3 | Easy | [#1864](https://github.com/recodehive/recode-website/pull/1864) |
-| Fixed visibility in dark theme | Easy | [#1862](https://github.com/recodehive/recode-website/pull/1862) |
-| Fixed  visibility issue in pagination button in leaderboard | Easy | [#1861](https://github.com/recodehive/recode-website/pull/1861) |
-| docs: add 5 contextual references to Google Icon Update blog | Easy | [#1843](https://github.com/recodehive/recode-website/pull/1843) |
-| feat: Add dynamic Badge & Stats Share Card generator in Contributor leaderboard | Easy | [#1842](https://github.com/recodehive/recode-website/pull/1842) |
-| Fixes #1798 : Home page UI layout broken on mobile viewports & duplicate hamburger menus | Easy | [#1820](https://github.com/recodehive/recode-website/pull/1820) |
-| fix: resolve TypeScript ESLint warnings | Easy | [#1818](https://github.com/recodehive/recode-website/pull/1818) |
+| changes made in the navbar for docs section | Easy | [#1887](https://github.com/recodehive/recode-website/pull/1887) |
+| issues available to work with | Easy | [#1840](https://github.com/recodehive/recode-website/issues/1840) |
 
 ---
 
@@ -1318,6 +1326,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 |----------|----------------|---------|
 | Issue in Athlete Dashboard with overflow issues | Easy | [#85](https://github.com/VJLIVE/Athletix/issues/85) |
 | Add Athletix Banner | Easy | [#84](https://github.com/VJLIVE/Athletix/issues/84) |
+| Feature Request: Menstrual Cycle Tracking Module for Female Athlete Injury Prevention | Medium | [#93](https://github.com/VJLIVE/Athletix/issues/93) |
 | Forgot Password Feature #54 | Medium | [#89](https://github.com/VJLIVE/Athletix/pull/89) |
 | Fixed profile image issue | Medium | [#83](https://github.com/VJLIVE/Athletix/pull/83) |
 | Fixed add players for organizations . | Medium | [#82](https://github.com/VJLIVE/Athletix/pull/82) |
@@ -1577,24 +1586,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Dark mode for FAQ section | Medium | [#556](https://github.com/Creators-Space/Creators-Space/issues/556) |
 | Search functionality implemented for faq | Medium | [#554](https://github.com/Creators-Space/Creators-Space/pull/554) |
 | social media app links working in projects page | Medium | [#553](https://github.com/Creators-Space/Creators-Space/pull/553) |
-
----
-
-## 📌 Project: Canvas-Editor
-
-📝 **Description:** This is a simple beginner friendly web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
-
-🔗 [View Project](https://github.com/vishanurag/Canvas-Editor/)
-
-💻 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Complete README overhaul with modern UI/UX and visual hierarchy | Medium | [#1375](https://github.com/vishanurag/Canvas-Editor/pull/1375) |
 
 ---
 
@@ -1938,36 +1929,36 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add RTU Kota CSE syllabus (Sem 1-8) + fix download & preview bug | Medium | [#458](https://github.com/lovelymahor/StudyMatePlus/pull/458) |
-| Mind Map nodes lack visual connecting lines (edges) between parent and child elements | Medium | [#457](https://github.com/lovelymahor/StudyMatePlus/issues/457) |
-| Issue: Missing Semesters (6–8) in Semester Dropdown / Scroll List | Medium | [#456](https://github.com/lovelymahor/StudyMatePlus/issues/456) |
-| Enhancement: Fix Download Button Alignment and Improve Button Styling in Resource Cards | Medium | [#455](https://github.com/lovelymahor/StudyMatePlus/issues/455) |
-| Bug: Uneven Alignment Between Primary and Secondary CTA Buttons | Medium | [#454](https://github.com/lovelymahor/StudyMatePlus/issues/454) |
-| Bug: SQL injection vulnerability in search and filtering allows unauthorized database access and modification | Medium | [#453](https://github.com/lovelymahor/StudyMatePlus/issues/453) |
-| Bug: File upload validation missing, enabling arbitrary executable uploads and disk exhaustion attacks | Medium | [#452](https://github.com/lovelymahor/StudyMatePlus/issues/452) |
-| Bug: Missing rate limiting on auth endpoints enables brute-force password attacks and account enumeration | Medium | [#451](https://github.com/lovelymahor/StudyMatePlus/issues/451) |
-| Bug: User-generated content not sanitized, enabling stored XSS attacks on course descriptions and forum posts | Medium | [#450](https://github.com/lovelymahor/StudyMatePlus/issues/450) |
-| Bug: Missing CORS validation and CSRF protection enables cross-site request forgery attacks | Medium | [#449](https://github.com/lovelymahor/StudyMatePlus/issues/449) |
-| docs: add table of contents to README | Medium | [#448](https://github.com/lovelymahor/StudyMatePlus/pull/448) |
-| feat: Add RTU Kota - CSE Department Syllabus (Semester 1-8) + Fix Download & Preview Bug | Medium | [#447](https://github.com/lovelymahor/StudyMatePlus/issues/447) |
-| docs: add table of contents to README for better navigation | Medium | [#446](https://github.com/lovelymahor/StudyMatePlus/pull/446) |
-| Improve README Navigation by Adding a Table of Contents | Medium | [#445](https://github.com/lovelymahor/StudyMatePlus/issues/445) |
-| BUG: API URLs Hardcoded as `http://localhost:5000` in 4 Places — App Non-Functional in Any Deployed Environment | Medium | [#444](https://github.com/lovelymahor/StudyMatePlus/issues/444) |
-| Fix navbar styling and improve dark mode responsiveness | Medium | [#443](https://github.com/lovelymahor/StudyMatePlus/pull/443) |
-| Achievement Badges and Milestones System | Medium | [#442](https://github.com/lovelymahor/StudyMatePlus/issues/442) |
-| Distraction Tracking During Study Sessions | Medium | [#441](https://github.com/lovelymahor/StudyMatePlus/issues/441) |
-| Weekly Study Heatmap Visualization | Medium | [#440](https://github.com/lovelymahor/StudyMatePlus/issues/440) |
-| Subject-wise Goal Progress Tracking | Medium | [#439](https://github.com/lovelymahor/StudyMatePlus/issues/439) |
-| Smart Revision Scheduler Using Spaced Repetition | Medium | [#438](https://github.com/lovelymahor/StudyMatePlus/issues/438) |
-| Fix Contact Us Section Alignment Issues | Medium | [#437](https://github.com/lovelymahor/StudyMatePlus/issues/437) |
-| Add Footer Section to the Website | Medium | [#436](https://github.com/lovelymahor/StudyMatePlus/issues/436) |
-| feat: Add AI-powered syllabus upload and parsing feature | Medium | [#435](https://github.com/lovelymahor/StudyMatePlus/pull/435) |
-| Improve text contrast and readability across the website | Medium | [#434](https://github.com/lovelymahor/StudyMatePlus/issues/434) |
-| Responsive Website Footer with Quick Links and Social Media Icons | Medium | [#433](https://github.com/lovelymahor/StudyMatePlus/issues/433) |
-| Feature Request: Integrated Ambient Focus Sounds / Lo-Fi Player Widget | Medium | [#432](https://github.com/lovelymahor/StudyMatePlus/issues/432) |
-| Feature Request: Implement Dark Mode Theme for Late-Night Studying | Medium | [#431](https://github.com/lovelymahor/StudyMatePlus/issues/431) |
-| Feature Request: Add an Integrated Pomodoro Study Timer | Medium | [#430](https://github.com/lovelymahor/StudyMatePlus/issues/430) |
-| # UI Improvement: Header Alignment and Design Enhancement | Medium | [#429](https://github.com/lovelymahor/StudyMatePlus/issues/429) |
+| Add RAG-based AI Study Assistant for PYQs & Syllabus Q&A | Medium | [#503](https://github.com/lovelymahor/StudyMatePlus/issues/503) |
+| Add login page logout button and authentication flow | Medium | [#502](https://github.com/lovelymahor/StudyMatePlus/pull/502) |
+| fix: add 404 Not Found page for invalid routes | Medium | [#498](https://github.com/lovelymahor/StudyMatePlus/pull/498) |
+| Missing 404 Page - Blank screen shown for invalid routes | Medium | [#497](https://github.com/lovelymahor/StudyMatePlus/issues/497) |
+| feat: Add Smart Resource Recommendation Section | Medium | [#495](https://github.com/lovelymahor/StudyMatePlus/issues/495) |
+| feat: Add Exam Countdown Widget | Medium | [#494](https://github.com/lovelymahor/StudyMatePlus/issues/494) |
+| Feature Request: Add Light/Dark Mode Toggle | Medium | [#493](https://github.com/lovelymahor/StudyMatePlus/issues/493) |
+| Semester filter does not include all available semesters in syllabus listing | Medium | [#492](https://github.com/lovelymahor/StudyMatePlus/issues/492) |
+| Feature: Spaced Repetition (Leitner System) Flashcard Engine for Notes | Medium | [#490](https://github.com/lovelymahor/StudyMatePlus/issues/490) |
+| fix: resolve placard overlap and add navigation routing | Medium | [#489](https://github.com/lovelymahor/StudyMatePlus/issues/489) |
+| Bug : Deadline Timezone Shifting in To-Do List | Medium | [#488](https://github.com/lovelymahor/StudyMatePlus/issues/488) |
+| Bug : Missing Backend API Routes and Models for Notes Feature | Medium | [#487](https://github.com/lovelymahor/StudyMatePlus/issues/487) |
+| UI/UX Enhancement and Functionality Fixes for Notes & PYQs Modules | Medium | [#486](https://github.com/lovelymahor/StudyMatePlus/issues/486) |
+| Implement Lazy Loading for Contributors Section Images | Medium | [#485](https://github.com/lovelymahor/StudyMatePlus/issues/485) |
+| UI Improvement: Misaligned Buttons and Unattractive Layout in "Ready to Ace Your Exams?" Section | Medium | [#484](https://github.com/lovelymahor/StudyMatePlus/issues/484) |
+| Enhancement: Implement course material version control and backup/restore capability | Medium | [#483](https://github.com/lovelymahor/StudyMatePlus/issues/483) |
+| Bug: Course access not restricted to enrolled students, allowing unauthorized material access | Medium | [#482](https://github.com/lovelymahor/StudyMatePlus/issues/482) |
+| Bug: Assignment deadlines not enforced, allowing unlimited late submissions | Medium | [#481](https://github.com/lovelymahor/StudyMatePlus/issues/481) |
+| Enhancement: Add grade distribution analysis and anomaly detection | Medium | [#480](https://github.com/lovelymahor/StudyMatePlus/issues/480) |
+| Bug: Plagiarism detection missing, allowing unoriginal submissions | Medium | [#479](https://github.com/lovelymahor/StudyMatePlus/issues/479) |
+| Interactive Syllabus Tracker and Active Senior Connect Form | Medium | [#478](https://github.com/lovelymahor/StudyMatePlus/issues/478) |
+| The highlighted tab in the Nav bar does not stay highlighted | Medium | [#477](https://github.com/lovelymahor/StudyMatePlus/issues/477) |
+| View button on PYQ cards is non-functional and does not open the selected question paper | Medium | [#476](https://github.com/lovelymahor/StudyMatePlus/issues/476) |
+| Missing Footer and its alignment issue | Medium | [#475](https://github.com/lovelymahor/StudyMatePlus/issues/475) |
+| Refactor backend structure to follow MVC architecture | Medium | [#474](https://github.com/lovelymahor/StudyMatePlus/issues/474) |
+| making the upload resources button working and making the user able to upload the resources. | Medium | [#473](https://github.com/lovelymahor/StudyMatePlus/issues/473) |
+| making better UI for the ready to ace your exam section. | Medium | [#472](https://github.com/lovelymahor/StudyMatePlus/issues/472) |
+| Feature Request: Core Platform Enhancements - Integrated AI Chatbot, Dynamic MCQ Generator, and Global Theme Toggle | Medium | [#471](https://github.com/lovelymahor/StudyMatePlus/issues/471) |
+| UI/UX Enhancement: Improve Hero Section, Navigation Bar and CTA Consistency | Medium | [#470](https://github.com/lovelymahor/StudyMatePlus/issues/470) |
+| Syllabus related issue | Medium | [#469](https://github.com/lovelymahor/StudyMatePlus/issues/469) |
 
 ---
 
@@ -2008,30 +1999,6 @@ Fast Workflow Tools
 | Feature Request: Add Profile Page with Google Sign-In (Firebase Auth) | Medium | [#96](https://github.com/Varshitha713/CodeCanvas/issues/96) |
 | ## 🚨 Feature Request: Add Login/Signup Functionality | Medium | [#87](https://github.com/Varshitha713/CodeCanvas/issues/87) |
 | Add login and logout page | Medium | [#60](https://github.com/Varshitha713/CodeCanvas/issues/60) |
-
----
-
-## 📌 Project: GroqTales
-
-📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
-
-🔗 [View Project](https://github.com/Drago-03/GroqTales)
-
-💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Non-Atomic NFT Purchase in Marketplace | Medium | [#465](https://github.com/IndieHub25/GroqTales/issues/465) |
-| Add newsletter subscription feature for user engagement | Medium | [#464](https://github.com/IndieHub25/GroqTales/issues/464) |
-| Scroll-to-top button overlaps footer links on GroqTales website | Medium | [#463](https://github.com/IndieHub25/GroqTales/issues/463) |
-| feat: implement public shareable story pages with OpenGraph tags (Fix… | Medium | [#419](https://github.com/IndieHub25/GroqTales/pull/419) |
-| Setup Playwright E2E coverage for Wallet login and NFT Minting | Medium | [#410](https://github.com/IndieHub25/GroqTales/issues/410) |
-| Feat: Add multilingual generation support to Groq AI engine | Medium | [#409](https://github.com/IndieHub25/GroqTales/issues/409) |
-| Chore: Refactor Story Creation Flow | Hard | [#443](https://github.com/IndieHub25/GroqTales/pull/443) |
 
 ---
 
