@@ -93,6 +93,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve adventurer dashboard UI/UX | Medium | [#284](https://github.com/LarytheLord/Adventurers-Guild/pull/284) |
+| Home page redirects logged-in users to dashboard automatically | Medium | [#283](https://github.com/LarytheLord/Adventurers-Guild/issues/283) |
 | Razorpay contact route uses placeholder phone number | Medium | [#261](https://github.com/LarytheLord/Adventurers-Guild/issues/261) |
 | Missing /api/quests/assignments/[id] endpoint — single assignment update not possible | Medium | [#258](https://github.com/LarytheLord/Adventurers-Guild/issues/258) |
 | CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
