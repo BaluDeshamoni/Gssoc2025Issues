@@ -115,24 +115,18 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue #958 | Medium | [#976](https://github.com/Muneerali199/Draftdeckai/pull/976) |
-| feat: integrate @next/bundle-analyzer for CI bundle size monitoring (fixes #728) | Medium | [#975](https://github.com/Muneerali199/Draftdeckai/pull/975) |
-| feat: add UI error boundaries to all major route segments (fixes #741) | Medium | [#974](https://github.com/Muneerali199/Draftdeckai/pull/974) |
+| Issue #958 | Easy | [#976](https://github.com/Muneerali199/Draftdeckai/pull/976) |
+| feat: replace keyword search with PostgreSQL full-text search (#854) | Medium | [#985](https://github.com/Muneerali199/Draftdeckai/pull/985) |
+| Feat/issue 853 push notifications | Medium | [#984](https://github.com/Muneerali199/Draftdeckai/pull/984) |
+| Integrate FLUX AI Image Generator Tab in Slide Image Editor | Medium | [#983](https://github.com/Muneerali199/Draftdeckai/issues/983) |
 | ci: add linting and type-checking to pipeline (#739) | Medium | [#973](https://github.com/Muneerali199/Draftdeckai/pull/973) |
-| refactor: add structured logging with slog to Go backend (#899) | Medium | [#972](https://github.com/Muneerali199/Draftdeckai/pull/972) |
 | feat: add Go backend env validation at startup (#901) | Medium | [#971](https://github.com/Muneerali199/Draftdeckai/pull/971) |
-| Add new user onboarding wizard | Medium | [#968](https://github.com/Muneerali199/Draftdeckai/pull/968) |
-| Add image optimization helpers | Medium | [#967](https://github.com/Muneerali199/Draftdeckai/pull/967) |
 | Add SEO metadata and refactor client pages for App Router compatibility | Medium | [#965](https://github.com/Muneerali199/Draftdeckai/pull/965) |
-| feat: add ARIA labels and landmarks for accessibility | Medium | [#964](https://github.com/Muneerali199/Draftdeckai/pull/964) |
-| feat: add dynamic published resume URLs to sitemap | Medium | [#963](https://github.com/Muneerali199/Draftdeckai/pull/963) |
-| refactor: centralize hardcoded placeholder image URLs into config uti… | Medium | [#962](https://github.com/Muneerali199/Draftdeckai/pull/962) |
 | Added backend files #902 issue | Medium | [#958](https://github.com/Muneerali199/Draftdeckai/pull/958) |
-| refactor: move rate limit thresholds to config | Medium | [#941](https://github.com/Muneerali199/Draftdeckai/pull/941) |
-| feat: add usage dashboard with visual analytics breakdown (fixes #847) | Medium | [#940](https://github.com/Muneerali199/Draftdeckai/pull/940) |
-| Fix: Add authentication and input size limits to resume analysis endpoint | Medium | [#938](https://github.com/Muneerali199/Draftdeckai/pull/938) |
-| test: add Go backend auth and middleware coverage | Medium | [#937](https://github.com/Muneerali199/Draftdeckai/pull/937) |
 | Design Export Produces Incorrect Layer Order - Z-index Not Preserved | Medium | [#933](https://github.com/Muneerali199/Draftdeckai/issues/933) |
+| Design Rendering Freezes on Large Canvases - N+1 Layer Queries | Medium | [#931](https://github.com/Muneerali199/Draftdeckai/issues/931) |
+| Design File Upload Accepts Arbitrary File Types - RCE Risk | Medium | [#930](https://github.com/Muneerali199/Draftdeckai/issues/930) |
+| feat: add dynamic published resume URLs to sitemap | Hard | [#963](https://github.com/Muneerali199/Draftdeckai/pull/963) |
 
 ---
 
@@ -344,26 +338,17 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump @rolldown/binding-linux-x64-musl from 1.0.2 to 1.1.0 | Easy | [#7843](https://github.com/SandeepVashishtha/Eventra/pull/7843) |
-| chore(deps): bump @rolldown/binding-linux-x64-gnu from 1.0.2 to 1.1.0 | Easy | [#7842](https://github.com/SandeepVashishtha/Eventra/pull/7842) |
-| chore(deps-dev): bump @storybook/preset-create-react-app from 10.4.1 to 10.4.2 | Easy | [#7841](https://github.com/SandeepVashishtha/Eventra/pull/7841) |
-| chore(deps): bump framer-motion from 11.18.2 to 12.40.0 in the framer-motion group | Easy | [#7840](https://github.com/SandeepVashishtha/Eventra/pull/7840) |
-| RealTimeContext's Split-Provider Architecture Creates Duplicate SSE Connections Causing Memory Leaks and Re-render Cascades | Medium | [#7855](https://github.com/SandeepVashishtha/Eventra/issues/7855) |
-| Registration Flow Has TOCTOU Race Condition Between Capacity Check and Actual POST; Offline Queue Can Enqueue Duplicates | Medium | [#7854](https://github.com/SandeepVashishtha/Eventra/issues/7854) |
-| useEventListing.js Contains Syntax Errors, Duplicate Declarations, Undefined Variables, and Broken Pagination Logic | Medium | [#7853](https://github.com/SandeepVashishtha/Eventra/issues/7853) |
-| Missing dependency react-virtualized-auto-sizer in VirtualizedHackathonGrid.jsx | Medium | [#7852](https://github.com/SandeepVashishtha/Eventra/issues/7852) |
-| Hero.js uses deprecated motion() API and has duplicate MotionLink declaration | Medium | [#7849](https://github.com/SandeepVashishtha/Eventra/issues/7849) |
-| Search input text not visible in Hackathons search bar | Medium | [#7847](https://github.com/SandeepVashishtha/Eventra/issues/7847) |
-| feat(ui): Add a user-friendly "No Results Found" state to event discovery and dashboards | Medium | [#7846](https://github.com/SandeepVashishtha/Eventra/issues/7846) |
-| feat(ui): add reusable ImageWithFallback component for broken links and avatars | Medium | [#7845](https://github.com/SandeepVashishtha/Eventra/issues/7845) |
-| Inconsistent Theme Design and Missing Theme Toggle Option - | Medium | [#7844](https://github.com/SandeepVashishtha/Eventra/issues/7844) |
-| Navigating to protected routes (/networking, /create-event) silently redirects to /login with no message | Medium | [#7837](https://github.com/SandeepVashishtha/Eventra/issues/7837) |
-| Events page shows "Failed to load events" and all event detail pages (/events/:id) show "Event Not Found" | Medium | [#7836](https://github.com/SandeepVashishtha/Eventra/issues/7836) |
-| Page headings are duplicated on Signup and Login pages — same heading appears twice | Medium | [#7835](https://github.com/SandeepVashishtha/Eventra/issues/7835) |
-| FAQ page content overflows viewport — entire page renders outside left boundary | Medium | [#7834](https://github.com/SandeepVashishtha/Eventra/issues/7834) |
-| Fix negative days calculation in Event Card countdown timer | Medium | [#7830](https://github.com/SandeepVashishtha/Eventra/issues/7830) |
-| Cryptographic Key Material Leak via ErrorBoundary Diagnostics (src/components/common/ErrorBoundary.jsx) | Medium | [#7827](https://github.com/SandeepVashishtha/Eventra/issues/7827) |
-| Add Table of Contents to README for Improved Navigation | Medium | [#7826](https://github.com/SandeepVashishtha/Eventra/issues/7826) |
+| docs: add JSDoc comments to public utility functions in src/utils/ | Easy | [#8180](https://github.com/SandeepVashishtha/Eventra/issues/8180) |
+| CountUp component throws "target is null or undefined" error in browser console | Medium | [#8179](https://github.com/SandeepVashishtha/Eventra/issues/8179) |
+| Deterministic User-Based Storage Keys Create Local Identifier Linkability Risk | Medium | [#8177](https://github.com/SandeepVashishtha/Eventra/issues/8177) |
+| Event Registration Data Can Diverge Between IndexedDB and Local Storage After Waitlist Promotion | Medium | [#8176](https://github.com/SandeepVashishtha/Eventra/issues/8176) |
+| Saved Events Page Loads Guest Bookmark Bucket Instead of Authenticated User Data | Medium | [#8175](https://github.com/SandeepVashishtha/Eventra/issues/8175) |
+| Bookmark System Uses Two Independent Sources of Truth Resulting in Cross-Page Inconsistency | Medium | [#8174](https://github.com/SandeepVashishtha/Eventra/issues/8174) |
+| Waitlist Notifications Are Written to a Different Store Than the Notification Center | Medium | [#8173](https://github.com/SandeepVashishtha/Eventra/issues/8173) |
+| Offline Sync Hook Does Not Emit Queue Completion Event Causing Stuck Sync UI | Medium | [#8172](https://github.com/SandeepVashishtha/Eventra/issues/8172) |
+| Offline Queue Replay Fails Due to Missing Session Snapshot Initialization | Medium | [#8171](https://github.com/SandeepVashishtha/Eventra/issues/8171) |
+| Feature: Add Post-Event Feedback and Rating System for Attendees | Medium | [#8170](https://github.com/SandeepVashishtha/Eventra/issues/8170) |
+| Add a Reusable "Copy to Clipboard" Button with Tooltip/Toast for Sharing Event Links | Medium | [#8168](https://github.com/SandeepVashishtha/Eventra/issues/8168) |
 
 ---
 
