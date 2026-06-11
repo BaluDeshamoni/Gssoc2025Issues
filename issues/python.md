@@ -208,6 +208,21 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add mentroship modules data sync cron job | Easy | [#4854](https://github.com/OWASP/Nest/pull/4854) |
+| Repository GraphQL fields `issues` and `releases` return only recent items | Medium | [#4895](https://github.com/OWASP/Nest/issues/4895) |
+| chore(deps): bump posthog-js in /frontend | Medium | [#4894](https://github.com/OWASP/Nest/pull/4894) |
+| chore(deps): bump docker/build-push-action from 7.1.0 to 7.2.0 in the version-updates group across 1 directory | Medium | [#4893](https://github.com/OWASP/Nest/pull/4893) |
+| chore(deps): bump @apollo/client in /frontend | Medium | [#4892](https://github.com/OWASP/Nest/pull/4892) |
+| chore(deps): bump the version-updates group across 3 directories with 2 updates | Medium | [#4891](https://github.com/OWASP/Nest/pull/4891) |
+| fix(ChapterMap): correct cursor display on non-interactive areas | Medium | [#4890](https://github.com/OWASP/Nest/pull/4890) |
+| feat: Wrap breadcrumb in <nav> landmark for screen reader navigation | Medium | [#4889](https://github.com/OWASP/Nest/issues/4889) |
+| feat: Add structured logging and Sentry tracing to AI agent workflows | Medium | [#4888](https://github.com/OWASP/Nest/issues/4888) |
+| Migrate to arm64 architecture | Medium | [#4887](https://github.com/OWASP/Nest/pull/4887) |
+| Potential duplicate OWASP question classification in NestBot auto-reply flow | Medium | [#4870](https://github.com/OWASP/Nest/issues/4870) |
+| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4866](https://github.com/OWASP/Nest/pull/4866) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4862](https://github.com/OWASP/Nest/pull/4862) |
+| feat: post threaded resolution reply when invite link is updated on GitHub | Medium | [#4861](https://github.com/OWASP/Nest/pull/4861) |
+| Evaluate AWS ARM64 Migration for Production and Staging Environments | Medium | [#4853](https://github.com/OWASP/Nest/issues/4853) |
 | Update logic on how to fetch modules for mentors | Medium | [#4847](https://github.com/OWASP/Nest/pull/4847) |
 | feat: Desktop navigation dropdown should move keyboard focus to first submenu item when opened | Medium | [#4844](https://github.com/OWASP/Nest/issues/4844) |
 | Implement contribution score calculation | Medium | [#4842](https://github.com/OWASP/Nest/pull/4842) |
@@ -215,12 +230,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Implement GraphQL Queries for Candidate Claim Data | Medium | [#4832](https://github.com/OWASP/Nest/pull/4832) |
 | Extend snapshot processing and GraphQL API for new entity types | Medium | [#4831](https://github.com/OWASP/Nest/pull/4831) |
 | NestBot auto reply re-processes AI responses before posting | Medium | [#4828](https://github.com/OWASP/Nest/issues/4828) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4811](https://github.com/OWASP/Nest/pull/4811) |
-| Implement GraphQL Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
-| Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
-| Improve header accessibility and keyboard navigation support | Medium | [#4804](https://github.com/OWASP/Nest/issues/4804) |
-| Feat/revamp member profile page | Medium | [#4797](https://github.com/OWASP/Nest/pull/4797) |
-| Introduce GitHub action/workflow files pre-commit checks | Medium | [#4746](https://github.com/OWASP/Nest/issues/4746) |
 
 ---
 
@@ -1061,35 +1070,36 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Multiple Critical Issues: Build failures, Security Vulnerabilities, and Hydration Errors | Medium | [#475](https://github.com/aayushraj1010/med-genie/issues/475) |
-| Fix token waste and potential API crashes by fully migrating to native Genkit structured outputs | Medium | [#474](https://github.com/aayushraj1010/med-genie/issues/474) |
-| feat(ux): Add Copy to Clipboard button on AI responses | Medium | [#473](https://github.com/aayushraj1010/med-genie/pull/473) |
-| refactor(perf): Memoize ChatMessageItem to prevent unnecessary re-renders | Medium | [#472](https://github.com/aayushraj1010/med-genie/pull/472) |
-| feat(ux): Add autoFocus to chat input | Medium | [#471](https://github.com/aayushraj1010/med-genie/pull/471) |
-| fix(a11y): Add ARIA labels to chat sidebar dropdown menus | Medium | [#470](https://github.com/aayushraj1010/med-genie/pull/470) |
-| feat: HIPAA-Compliant Data Export | Medium | [#469](https://github.com/aayushraj1010/med-genie/pull/469) |
-| feat: Smart Health Reminders System | Medium | [#468](https://github.com/aayushraj1010/med-genie/pull/468) |
-| feat: Enhanced Health Profiles Integration | Medium | [#467](https://github.com/aayushraj1010/med-genie/pull/467) |
-| Valid Password Falsely Rejected as "Sequential" + Eye Icon Toggle State Inverted on Sign-Up Page | Medium | [#466](https://github.com/aayushraj1010/med-genie/issues/466) |
-| fix: resolve Google Sign-In button redirection issue | Medium | [#465](https://github.com/aayushraj1010/med-genie/pull/465) |
-| Bug: Unvalidated user input enables prompt injection attacks, bypassing safety guidelines and exposing system instructions | Medium | [#464](https://github.com/aayushraj1010/med-genie/issues/464) |
-| Bug: JWT token validation missing on frontend, allowing expired and tampered tokens to grant unauthorized access | Medium | [#463](https://github.com/aayushraj1010/med-genie/issues/463) |
-| Bug: AI chatbot responses lack medical accuracy validation, providing potentially dangerous health advice | Medium | [#462](https://github.com/aayushraj1010/med-genie/issues/462) |
-| Bug: Medical health data stored in plaintext, violating HIPAA and exposing patient information | Medium | [#461](https://github.com/aayushraj1010/med-genie/issues/461) |
-| Bug: Missing rate limiting on API endpoints enables resource exhaustion and DoS attacks | Medium | [#460](https://github.com/aayushraj1010/med-genie/issues/460) |
-| Add a "Thanks to Contributors" section in README.md | Medium | [#459](https://github.com/aayushraj1010/med-genie/issues/459) |
-| Google Sign-In button redirects users to a 404 page | Medium | [#458](https://github.com/aayushraj1010/med-genie/issues/458) |
-| fix: protect specialist recommendation system | Medium | [#457](https://github.com/aayushraj1010/med-genie/pull/457) |
-| Refactor TopContributors to handle fetch errors and loading | Medium | [#456](https://github.com/aayushraj1010/med-genie/pull/456) |
-| AI Follow Up Question | Medium | [#455](https://github.com/aayushraj1010/med-genie/issues/455) |
-| Add BMI Calculator Widget to Health Tools | Medium | [#454](https://github.com/aayushraj1010/med-genie/issues/454) |
-| fix: prevent blank chat submissions | Medium | [#453](https://github.com/aayushraj1010/med-genie/pull/453) |
-| Fix low contrast UI elements (text and icons) in About/Features sections to meet WCAG compliance | Medium | [#452](https://github.com/aayushraj1010/med-genie/issues/452) |
-| fix: resolve Google OAuth invalid_request Error 400 and fix redirect … | Medium | [#451](https://github.com/aayushraj1010/med-genie/pull/451) |
-| Navbar links "Our Process", "Contact Us", and "FAQ" are non-functional on the Specialist Recommendation page | Medium | [#450](https://github.com/aayushraj1010/med-genie/issues/450) |
-| UI Inconsistency and Cart State Persistence Issue Across Pages | Medium | [#448](https://github.com/aayushraj1010/med-genie/issues/448) |
-| feat: Add configurable chat history retention limit to reduce token usage | Medium | [#446](https://github.com/aayushraj1010/med-genie/issues/446) |
-| Contact Us navbar link is non-functional | Medium | [#445](https://github.com/aayushraj1010/med-genie/issues/445) |
+| feat: complete forgot password and reset password flow | Medium | [#518](https://github.com/aayushraj1010/med-genie/pull/518) |
+| feat: implement next-themes for robust dark mode management | Medium | [#517](https://github.com/aayushraj1010/med-genie/pull/517) |
+| Feature/chat history sync | Medium | [#516](https://github.com/aayushraj1010/med-genie/pull/516) |
+| Feature/wcag accessibility | Medium | [#515](https://github.com/aayushraj1010/med-genie/pull/515) |
+| Feature/user profile page | Medium | [#514](https://github.com/aayushraj1010/med-genie/pull/514) |
+| Feature/health reminders | Medium | [#513](https://github.com/aayushraj1010/med-genie/pull/513) |
+| Feature/nearby hospitals | Medium | [#512](https://github.com/aayushraj1010/med-genie/pull/512) |
+| Feature/typing indicator | Medium | [#511](https://github.com/aayushraj1010/med-genie/pull/511) |
+| Feature/chat history | Medium | [#510](https://github.com/aayushraj1010/med-genie/pull/510) |
+| feat: add multi-language support (i18n) using react-i18next | Medium | [#509](https://github.com/aayushraj1010/med-genie/pull/509) |
+| Reset Chat Button Logs Out User Instead of Only Clearing Conversation | Medium | [#508](https://github.com/aayushraj1010/med-genie/issues/508) |
+| Add Client-Side Search Functionality for Past Chat Sessions | Medium | [#507](https://github.com/aayushraj1010/med-genie/issues/507) |
+| Add Markdown Rendering and Code/Text Copy Functionality for Chat Chatbot Responses | Medium | [#506](https://github.com/aayushraj1010/med-genie/issues/506) |
+| Race Condition in CLI Config Updates & Lack of Atomic Write Strategy Leading to File Corruption | Medium | [#505](https://github.com/aayushraj1010/med-genie/issues/505) |
+| fix: Multiple Critical Issues: Build failures, Security Vulnerabilities, and Hydration Errors bug Something isn't working | Medium | [#504](https://github.com/aayushraj1010/med-genie/pull/504) |
+| fix: improve timeline flow alignment in How Med Genie Helps You section | Medium | [#503](https://github.com/aayushraj1010/med-genie/pull/503) |
+| UI Improvement: Fix Timeline Flow Alignment in "How Med Genie Helps You" Section | Medium | [#502](https://github.com/aayushraj1010/med-genie/issues/502) |
+| docs: add Table of Contents and Contributors section with contrib.rocks badge | Medium | [#501](https://github.com/aayushraj1010/med-genie/issues/501) |
+| Bug: User allergies not checked, providing unsafe recommendations | Medium | [#500](https://github.com/aayushraj1010/med-genie/issues/500) |
+| Bug: Health data not encrypted, violating privacy and HIPAA compliance | Medium | [#499](https://github.com/aayushraj1010/med-genie/issues/499) |
+| Bug: Emergency health conditions not detected, missing critical escalation | Medium | [#498](https://github.com/aayushraj1010/med-genie/issues/498) |
+| Bug: Medication interactions not checked, providing unsafe health advice | Medium | [#497](https://github.com/aayushraj1010/med-genie/issues/497) |
+| Bug: AI health information not clearly distinguished from medical advice, creating liability | Medium | [#496](https://github.com/aayushraj1010/med-genie/issues/496) |
+| Minor UI polish and a11y improvements | Medium | [#495](https://github.com/aayushraj1010/med-genie/pull/495) |
+| Broken Demo Navigation, Inaccessible Chat Interface, and Google OAuth Authentication Failure | Medium | [#494](https://github.com/aayushraj1010/med-genie/issues/494) |
+| Newsletter subscription returns "Internal server error" when submitting a valid email | Medium | [#493](https://github.com/aayushraj1010/med-genie/issues/493) |
+| Add Dockerfile and Docker Compose orchestration for unified local development | Medium | [#492](https://github.com/aayushraj1010/med-genie/issues/492) |
+| Feat: Automated Vitals Trend Visualizer & Responsive Clinical Notation Companion | Medium | [#491](https://github.com/aayushraj1010/med-genie/issues/491) |
+| Add BMI Calculator Component to Med-Genie Dashboard | Medium | [#490](https://github.com/aayushraj1010/med-genie/issues/490) |
+| [Feature]: Add Multi-language Support (Hindi, Tamil, Bengali) | Medium | [#489](https://github.com/aayushraj1010/med-genie/issues/489) |
 
 ---
 
@@ -1490,8 +1500,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | <new feature > adding dark mode toggle | Medium | [#35](https://github.com/Sindhuchowdhary23/CODSOFT/issues/35) |
 | Wrong run command in README for Streamlit app | Medium | [#34](https://github.com/Sindhuchowdhary23/CODSOFT/issues/34) |
 | Add Undo Functionality for Recently Deleted Task | Medium | [#33](https://github.com/Sindhuchowdhary23/CODSOFT/issues/33) |
-| minor changes in previous commit | Medium | [#32](https://github.com/Sindhuchowdhary23/CODSOFT/pull/32) |
-| Task Due Dates or Deadlines | Medium | [#31](https://github.com/Sindhuchowdhary23/CODSOFT/pull/31) |
 | Proposal: Add Task Categorization Feature (Tags/Priority Levels) | Medium | [#30](https://github.com/Sindhuchowdhary23/CODSOFT/issues/30) |
 | added the due date feature | Medium | [#29](https://github.com/Sindhuchowdhary23/CODSOFT/pull/29) |
 | task1.py saving the items in todo-list and UI added | Medium | [#28](https://github.com/Sindhuchowdhary23/CODSOFT/pull/28) |
@@ -1524,30 +1532,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | add phi-4 model (14B parameter) | Medium | [#28](https://github.com/manideepBotsaa/streamlit_application/issues/28) |
-
----
-
-## 📌 Project: GroqTales
-
-📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
-
-🔗 [View Project](https://github.com/Drago-03/GroqTales)
-
-💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Non-Atomic NFT Purchase in Marketplace | Medium | [#465](https://github.com/IndieHub25/GroqTales/issues/465) |
-| Add newsletter subscription feature for user engagement | Medium | [#464](https://github.com/IndieHub25/GroqTales/issues/464) |
-| Scroll-to-top button overlaps footer links on GroqTales website | Medium | [#463](https://github.com/IndieHub25/GroqTales/issues/463) |
-| feat: implement public shareable story pages with OpenGraph tags (Fix… | Medium | [#419](https://github.com/IndieHub25/GroqTales/pull/419) |
-| Setup Playwright E2E coverage for Wallet login and NFT Minting | Medium | [#410](https://github.com/IndieHub25/GroqTales/issues/410) |
-| Feat: Add multilingual generation support to Groq AI engine | Medium | [#409](https://github.com/IndieHub25/GroqTales/issues/409) |
-| Chore: Refactor Story Creation Flow | Hard | [#443](https://github.com/IndieHub25/GroqTales/pull/443) |
 
 ---
 
