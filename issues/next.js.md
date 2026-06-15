@@ -158,28 +158,28 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add mentroship modules data sync cron job | Easy | [#4854](https://github.com/OWASP/Nest/pull/4854) |
+| Migrate lighthouse workflow to arm64 | Medium | [#4929](https://github.com/OWASP/Nest/pull/4929) |
+| chore(deps): bump docker/setup-buildx-action from 4.0.0 to 4.1.0 in the version-updates group across 1 directory | Medium | [#4928](https://github.com/OWASP/Nest/pull/4928) |
+| chore(deps): bump zaproxy/zap-stable from `2ec1d5d` to `7c2f8af` in /docker/zap in the version-updates group across 1 directory | Medium | [#4927](https://github.com/OWASP/Nest/pull/4927) |
+| chore(deps): bump https://github.com/tox-dev/pyproject-fmt in / | Medium | [#4926](https://github.com/OWASP/Nest/pull/4926) |
+| chore(deps): bump strawberry-graphql-django in / | Medium | [#4925](https://github.com/OWASP/Nest/pull/4925) |
+| Implement certificate metadata issuance system | Medium | [#4922](https://github.com/OWASP/Nest/pull/4922) |
+| fix: add placeholder DJANGO_SECRET_KEY for local setup | Medium | [#4915](https://github.com/OWASP/Nest/pull/4915) |
+| feat(snapshots): refactor snapshot details frontend | Medium | [#4914](https://github.com/OWASP/Nest/pull/4914) |
+| Display repository last updated date on repository cards | Medium | [#4912](https://github.com/OWASP/Nest/issues/4912) |
+| chore(deps): bump apexcharts in /frontend | Medium | [#4905](https://github.com/OWASP/Nest/pull/4905) |
 | Repository GraphQL fields `issues` and `releases` return only recent items | Medium | [#4895](https://github.com/OWASP/Nest/issues/4895) |
-| chore(deps): bump posthog-js in /frontend | Medium | [#4894](https://github.com/OWASP/Nest/pull/4894) |
-| chore(deps): bump docker/build-push-action from 7.1.0 to 7.2.0 in the version-updates group across 1 directory | Medium | [#4893](https://github.com/OWASP/Nest/pull/4893) |
-| chore(deps): bump @apollo/client in /frontend | Medium | [#4892](https://github.com/OWASP/Nest/pull/4892) |
-| chore(deps): bump the version-updates group across 3 directories with 2 updates | Medium | [#4891](https://github.com/OWASP/Nest/pull/4891) |
-| fix(ChapterMap): correct cursor display on non-interactive areas | Medium | [#4890](https://github.com/OWASP/Nest/pull/4890) |
 | feat: Wrap breadcrumb in <nav> landmark for screen reader navigation | Medium | [#4889](https://github.com/OWASP/Nest/issues/4889) |
 | feat: Add structured logging and Sentry tracing to AI agent workflows | Medium | [#4888](https://github.com/OWASP/Nest/issues/4888) |
-| Migrate to arm64 architecture | Medium | [#4887](https://github.com/OWASP/Nest/pull/4887) |
 | Potential duplicate OWASP question classification in NestBot auto-reply flow | Medium | [#4870](https://github.com/OWASP/Nest/issues/4870) |
 | chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4866](https://github.com/OWASP/Nest/pull/4866) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4862](https://github.com/OWASP/Nest/pull/4862) |
-| feat: post threaded resolution reply when invite link is updated on GitHub | Medium | [#4861](https://github.com/OWASP/Nest/pull/4861) |
-| Evaluate AWS ARM64 Migration for Production and Staging Environments | Medium | [#4853](https://github.com/OWASP/Nest/issues/4853) |
-| Update logic on how to fetch modules for mentors | Medium | [#4847](https://github.com/OWASP/Nest/pull/4847) |
 | feat: Desktop navigation dropdown should move keyboard focus to first submenu item when opened | Medium | [#4844](https://github.com/OWASP/Nest/issues/4844) |
 | Implement contribution score calculation | Medium | [#4842](https://github.com/OWASP/Nest/pull/4842) |
 | Removing `undefined` type or `?` specifier. | Medium | [#4833](https://github.com/OWASP/Nest/issues/4833) |
-| Implement GraphQL Queries for Candidate Claim Data | Medium | [#4832](https://github.com/OWASP/Nest/pull/4832) |
-| Extend snapshot processing and GraphQL API for new entity types | Medium | [#4831](https://github.com/OWASP/Nest/pull/4831) |
 | NestBot auto reply re-processes AI responses before posting | Medium | [#4828](https://github.com/OWASP/Nest/issues/4828) |
+| Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
+| Improve header accessibility and keyboard navigation support | Medium | [#4804](https://github.com/OWASP/Nest/issues/4804) |
 
 ---
 
@@ -220,10 +220,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Next.js Security Headers Overwritten in next.config.js (Configuration Bug) | Medium | [#748](https://github.com/Dipanita45/HEALCONNECT/issues/748) |
-| Mismatched Auth Provider in Backend Middleware (Clerk vs Firebase Admin) & Missing API Headers (Architectural Bug) | Medium | [#747](https://github.com/Dipanita45/HEALCONNECT/issues/747) |
-| Client-Side Route Guard and Identity Bypass via LocalStorage Manipulation (Security Vulnerability) | Medium | [#746](https://github.com/Dipanita45/HEALCONNECT/issues/746) |
-| FEAT: Add a google auth | Medium | [#745](https://github.com/Dipanita45/HEALCONNECT/issues/745) |
 | fix: prevent ThemeProvider from blocking SSR with blank initial render | Medium | [#744](https://github.com/Dipanita45/HEALCONNECT/pull/744) |
 
 ---
@@ -358,17 +354,32 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Audit and fix remaining routes missing error boundaries | Easy | [#999](https://github.com/Muneerali199/Draftdeckai/issues/999) |
+| fix: preserve typed API error prototypes | Easy | [#992](https://github.com/Muneerali199/Draftdeckai/pull/992) |
 | Issue #958 | Easy | [#976](https://github.com/Muneerali199/Draftdeckai/pull/976) |
-| feat: replace keyword search with PostgreSQL full-text search (#854) | Medium | [#985](https://github.com/Muneerali199/Draftdeckai/pull/985) |
-| Feat/issue 853 push notifications | Medium | [#984](https://github.com/Muneerali199/Draftdeckai/pull/984) |
-| Integrate FLUX AI Image Generator Tab in Slide Image Editor | Medium | [#983](https://github.com/Muneerali199/Draftdeckai/issues/983) |
+| chore(deps-dev): bump eslint-config-next from 15.5.18 to 16.2.9 | Medium | [#1017](https://github.com/Muneerali199/Draftdeckai/pull/1017) |
+| chore(deps): bump @mistralai/mistralai from 1.15.1 to 2.2.5 | Medium | [#1016](https://github.com/Muneerali199/Draftdeckai/pull/1016) |
+| chore(deps): bump fabric from 5.5.2 to 7.4.0 | Medium | [#1015](https://github.com/Muneerali199/Draftdeckai/pull/1015) |
+| chore(deps): bump react-intersection-observer from 9.16.0 to 10.0.3 | Medium | [#1014](https://github.com/Muneerali199/Draftdeckai/pull/1014) |
+| chore(deps-dev): bump @types/node from 20.19.41 to 25.9.3 | Medium | [#1013](https://github.com/Muneerali199/Draftdeckai/pull/1013) |
+| chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.1 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
+| chore(deps-dev): bump jsdom from 26.1.0 to 29.1.1 | Medium | [#1011](https://github.com/Muneerali199/Draftdeckai/pull/1011) |
+| chore(deps): bump officeparser from 6.1.1 to 7.2.1 | Medium | [#1010](https://github.com/Muneerali199/Draftdeckai/pull/1010) |
+| chore(deps): bump date-fns from 3.6.0 to 4.4.0 | Medium | [#1009](https://github.com/Muneerali199/Draftdeckai/pull/1009) |
+| chore(deps): bump the minor-and-patch group with 48 updates | Medium | [#1008](https://github.com/Muneerali199/Draftdeckai/pull/1008) |
+| fix(security): add file type validation to design upload endpoint (#930) | Medium | [#1007](https://github.com/Muneerali199/Draftdeckai/pull/1007) |
+| perf: fix N+1 layer queries on large canvases (#931) | Medium | [#1006](https://github.com/Muneerali199/Draftdeckai/pull/1006) |
+| fix: preserve z-index layer order during PNG/SVG export (#933) | Medium | [#1005](https://github.com/Muneerali199/Draftdeckai/pull/1005) |
+| feat: add dark mode support to document editors and builders | Medium | [#1004](https://github.com/Muneerali199/Draftdeckai/pull/1004) |
+| feat: Add presentation templates gallery | Medium | [#1002](https://github.com/Muneerali199/Draftdeckai/issues/1002) |
+| Write unit tests for admin dashboard components | Medium | [#998](https://github.com/Muneerali199/Draftdeckai/issues/998) |
+| fix: preserve typed API error prototypes | Medium | [#995](https://github.com/Muneerali199/Draftdeckai/pull/995) |
+| fix: align cors headers with production contract | Medium | [#994](https://github.com/Muneerali199/Draftdeckai/pull/994) |
+| test: expand auth middleware coverage | Medium | [#986](https://github.com/Muneerali199/Draftdeckai/pull/986) |
 | ci: add linting and type-checking to pipeline (#739) | Medium | [#973](https://github.com/Muneerali199/Draftdeckai/pull/973) |
 | feat: add Go backend env validation at startup (#901) | Medium | [#971](https://github.com/Muneerali199/Draftdeckai/pull/971) |
 | Add SEO metadata and refactor client pages for App Router compatibility | Medium | [#965](https://github.com/Muneerali199/Draftdeckai/pull/965) |
 | Added backend files #902 issue | Medium | [#958](https://github.com/Muneerali199/Draftdeckai/pull/958) |
-| Design Export Produces Incorrect Layer Order - Z-index Not Preserved | Medium | [#933](https://github.com/Muneerali199/Draftdeckai/issues/933) |
-| Design Rendering Freezes on Large Canvases - N+1 Layer Queries | Medium | [#931](https://github.com/Muneerali199/Draftdeckai/issues/931) |
-| Design File Upload Accepts Arbitrary File Types - RCE Risk | Medium | [#930](https://github.com/Muneerali199/Draftdeckai/issues/930) |
 | feat: add dynamic published resume URLs to sitemap | Hard | [#963](https://github.com/Muneerali199/Draftdeckai/pull/963) |
 
 ---
@@ -482,7 +493,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| changes made in the navbar for docs section | Easy | [#1887](https://github.com/recodehive/recode-website/pull/1887) |
 | issues available to work with | Easy | [#1840](https://github.com/recodehive/recode-website/issues/1840) |
 
 ---
@@ -747,13 +757,14 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve adventurer dashboard UI/UX | Medium | [#284](https://github.com/LarytheLord/Adventurers-Guild/pull/284) |
-| Home page redirects logged-in users to dashboard automatically | Medium | [#283](https://github.com/LarytheLord/Adventurers-Guild/issues/283) |
+| fix: Admin QA reject/approve now calls syncQuestLifecycleStatus (#330) | Medium | [#387](https://github.com/LarytheLord/Adventurers-Guild/pull/387) |
+| fix: QA approval now properly awards XP and creates QuestCompletion (#317) | Medium | [#384](https://github.com/LarytheLord/Adventurers-Guild/pull/384) |
+| fix: /api/errors/log is unauthenticated — open to log injection and DB flooding | Medium | [#342](https://github.com/LarytheLord/Adventurers-Guild/issues/342) |
+| fix: Admin QA reject/approve skips syncQuestLifecycleStatus — quest status stuck after admin action | Medium | [#330](https://github.com/LarytheLord/Adventurers-Guild/issues/330) |
+| fix: Company quest edit ownership check is client-side only — full quest data leaks before redirect | Medium | [#327](https://github.com/LarytheLord/Adventurers-Guild/issues/327) |
+| fix: XP reward runs outside DB transaction — adventurer permanently loses XP if second write fails | Medium | [#324](https://github.com/LarytheLord/Adventurers-Guild/issues/324) |
 | Razorpay contact route uses placeholder phone number | Medium | [#261](https://github.com/LarytheLord/Adventurers-Guild/issues/261) |
-| Missing /api/quests/assignments/[id] endpoint — single assignment update not possible | Medium | [#258](https://github.com/LarytheLord/Adventurers-Guild/issues/258) |
 | CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
-| CRITICAL: Public quest detail page doesn't allow logged-in adventurers to claim quests | Medium | [#256](https://github.com/LarytheLord/Adventurers-Guild/issues/256) |
-| feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
 | Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
 | feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
@@ -761,8 +772,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 | NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
-| Inconsistent field naming in /api/users/me/quests — 'quests' should be 'quest' | Hard | [#260](https://github.com/LarytheLord/Adventurers-Guild/issues/260) |
-| Dead code: quest-utils.ts, quest-submission-dialog.tsx, and QuestForm.tsx not used anywhere | Hard | [#259](https://github.com/LarytheLord/Adventurers-Guild/issues/259) |
 
 ---
 
