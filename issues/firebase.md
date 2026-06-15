@@ -437,36 +437,36 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add RAG-based AI Study Assistant for PYQs & Syllabus Q&A | Medium | [#503](https://github.com/lovelymahor/StudyMatePlus/issues/503) |
-| Add login page logout button and authentication flow | Medium | [#502](https://github.com/lovelymahor/StudyMatePlus/pull/502) |
-| fix: add 404 Not Found page for invalid routes | Medium | [#498](https://github.com/lovelymahor/StudyMatePlus/pull/498) |
-| Missing 404 Page - Blank screen shown for invalid routes | Medium | [#497](https://github.com/lovelymahor/StudyMatePlus/issues/497) |
-| feat: Add Smart Resource Recommendation Section | Medium | [#495](https://github.com/lovelymahor/StudyMatePlus/issues/495) |
-| feat: Add Exam Countdown Widget | Medium | [#494](https://github.com/lovelymahor/StudyMatePlus/issues/494) |
-| Feature Request: Add Light/Dark Mode Toggle | Medium | [#493](https://github.com/lovelymahor/StudyMatePlus/issues/493) |
-| Semester filter does not include all available semesters in syllabus listing | Medium | [#492](https://github.com/lovelymahor/StudyMatePlus/issues/492) |
-| Feature: Spaced Repetition (Leitner System) Flashcard Engine for Notes | Medium | [#490](https://github.com/lovelymahor/StudyMatePlus/issues/490) |
-| fix: resolve placard overlap and add navigation routing | Medium | [#489](https://github.com/lovelymahor/StudyMatePlus/issues/489) |
-| Bug : Deadline Timezone Shifting in To-Do List | Medium | [#488](https://github.com/lovelymahor/StudyMatePlus/issues/488) |
-| Bug : Missing Backend API Routes and Models for Notes Feature | Medium | [#487](https://github.com/lovelymahor/StudyMatePlus/issues/487) |
-| UI/UX Enhancement and Functionality Fixes for Notes & PYQs Modules | Medium | [#486](https://github.com/lovelymahor/StudyMatePlus/issues/486) |
-| Implement Lazy Loading for Contributors Section Images | Medium | [#485](https://github.com/lovelymahor/StudyMatePlus/issues/485) |
-| UI Improvement: Misaligned Buttons and Unattractive Layout in "Ready to Ace Your Exams?" Section | Medium | [#484](https://github.com/lovelymahor/StudyMatePlus/issues/484) |
-| Enhancement: Implement course material version control and backup/restore capability | Medium | [#483](https://github.com/lovelymahor/StudyMatePlus/issues/483) |
-| Bug: Course access not restricted to enrolled students, allowing unauthorized material access | Medium | [#482](https://github.com/lovelymahor/StudyMatePlus/issues/482) |
-| Bug: Assignment deadlines not enforced, allowing unlimited late submissions | Medium | [#481](https://github.com/lovelymahor/StudyMatePlus/issues/481) |
-| Enhancement: Add grade distribution analysis and anomaly detection | Medium | [#480](https://github.com/lovelymahor/StudyMatePlus/issues/480) |
-| Bug: Plagiarism detection missing, allowing unoriginal submissions | Medium | [#479](https://github.com/lovelymahor/StudyMatePlus/issues/479) |
-| Interactive Syllabus Tracker and Active Senior Connect Form | Medium | [#478](https://github.com/lovelymahor/StudyMatePlus/issues/478) |
-| The highlighted tab in the Nav bar does not stay highlighted | Medium | [#477](https://github.com/lovelymahor/StudyMatePlus/issues/477) |
-| View button on PYQ cards is non-functional and does not open the selected question paper | Medium | [#476](https://github.com/lovelymahor/StudyMatePlus/issues/476) |
-| Missing Footer and its alignment issue | Medium | [#475](https://github.com/lovelymahor/StudyMatePlus/issues/475) |
-| Refactor backend structure to follow MVC architecture | Medium | [#474](https://github.com/lovelymahor/StudyMatePlus/issues/474) |
-| making the upload resources button working and making the user able to upload the resources. | Medium | [#473](https://github.com/lovelymahor/StudyMatePlus/issues/473) |
-| making better UI for the ready to ace your exam section. | Medium | [#472](https://github.com/lovelymahor/StudyMatePlus/issues/472) |
-| Feature Request: Core Platform Enhancements - Integrated AI Chatbot, Dynamic MCQ Generator, and Global Theme Toggle | Medium | [#471](https://github.com/lovelymahor/StudyMatePlus/issues/471) |
-| UI/UX Enhancement: Improve Hero Section, Navigation Bar and CTA Consistency | Medium | [#470](https://github.com/lovelymahor/StudyMatePlus/issues/470) |
-| Syllabus related issue | Medium | [#469](https://github.com/lovelymahor/StudyMatePlus/issues/469) |
+| Study mate plus- feature for semester button | Medium | [#554](https://github.com/lovelymahor/StudyMatePlus/issues/554) |
+| Add Resource Rating System for Notes and PYQs | Medium | [#552](https://github.com/lovelymahor/StudyMatePlus/issues/552) |
+| fix: Unresponsive "View" button and static/dummy data on the PYQs page | Medium | [#551](https://github.com/lovelymahor/StudyMatePlus/issues/551) |
+| feat: Add a custom styled 404 Error page for undefined routes | Medium | [#550](https://github.com/lovelymahor/StudyMatePlus/issues/550) |
+| fix: "Upload Resource" button on the Notes page is not working | Medium | [#549](https://github.com/lovelymahor/StudyMatePlus/issues/549) |
+| fix: "Preview" buttons on Syllabus and Notes cards are unresponsive | Medium | [#548](https://github.com/lovelymahor/StudyMatePlus/issues/548) |
+| Implement Interactive Feedback Modal for "Submit Your Feedback" Button | Medium | [#547](https://github.com/lovelymahor/StudyMatePlus/issues/547) |
+| Low Contrast / Unreadable Social Media Links under "Follow Us" | Medium | [#546](https://github.com/lovelymahor/StudyMatePlus/issues/546) |
+| Token refresh request deduplication during concurrent access token expiration | Medium | [#545](https://github.com/lovelymahor/StudyMatePlus/issues/545) |
+| Improve social Icons | Medium | [#544](https://github.com/lovelymahor/StudyMatePlus/pull/544) |
+| fix: package.json has invalid JSON and duplicate dependencies | Medium | [#543](https://github.com/lovelymahor/StudyMatePlus/issues/543) |
+| feat: Add Study Streak Tracker and Achievement Badges (Fixes #520) | Medium | [#542](https://github.com/lovelymahor/StudyMatePlus/pull/542) |
+| fix: clean up CONTRIBUTING.md contributor guidance | Medium | [#541](https://github.com/lovelymahor/StudyMatePlus/pull/541) |
+| Fix Non-Functional PYQ View Button | Medium | [#539](https://github.com/lovelymahor/StudyMatePlus/issues/539) |
+| CONTRIBUTING.md contains repository setup instructions intended for maintainers | Medium | [#538](https://github.com/lovelymahor/StudyMatePlus/issues/538) |
+| Bug: "Download Notes (PDF)" button at the bottom of the Analytics page is not working | Medium | [#537](https://github.com/lovelymahor/StudyMatePlus/issues/537) |
+| Fix Mobile Navbar Layout Overflow and Improve Responsiveness | Medium | [#536](https://github.com/lovelymahor/StudyMatePlus/issues/536) |
+| feat: Add Study Streak Tracker and Achievement Badges (Fixes #520) | Medium | [#535](https://github.com/lovelymahor/StudyMatePlus/pull/535) |
+| Bug: Clicking "Mentorship" in the FAQ footer redirects to a blank white page | Medium | [#534](https://github.com/lovelymahor/StudyMatePlus/issues/534) |
+| fix: Download Notes button opens local HTML file instead of actual PDF | Medium | [#533](https://github.com/lovelymahor/StudyMatePlus/issues/533) |
+| fix: resolve frontend compilation and build issues | Medium | [#532](https://github.com/lovelymahor/StudyMatePlus/pull/532) |
+| Frontend fails to compile due to unclosed CSS block in Navbar.css | Medium | [#531](https://github.com/lovelymahor/StudyMatePlus/issues/531) |
+| User Profile Avatar Not Displayed Despite Profile Data Loading Successfully | Medium | [#530](https://github.com/lovelymahor/StudyMatePlus/issues/530) |
+| Title: Redesign Navbar Typography and Improve Navigation UX | Medium | [#528](https://github.com/lovelymahor/StudyMatePlus/issues/528) |
+| fix: resolve timezone shifting bug in Todo deadline #488 | Medium | [#527](https://github.com/lovelymahor/StudyMatePlus/pull/527) |
+| Documentation: Add comprehensive CODE_OF_CONDUCT.md for community standards | Medium | [#526](https://github.com/lovelymahor/StudyMatePlus/issues/526) |
+| bug/ux: Low text contrast and accessibility issues in Stats Banner subtitle labels | Medium | [#525](https://github.com/lovelymahor/StudyMatePlus/issues/525) |
+| Add ARIA Label to Floating Back-to-Top Button | Medium | [#524](https://github.com/lovelymahor/StudyMatePlus/issues/524) |
+| Documentatio]: Add comprehensive CODE_OF_CONDUCT.md for community standards | Medium | [#523](https://github.com/lovelymahor/StudyMatePlus/issues/523) |
+| Fix testimonial carousel card visibility and improve homepage spacing | Medium | [#522](https://github.com/lovelymahor/StudyMatePlus/issues/522) |
 
 ---
 
