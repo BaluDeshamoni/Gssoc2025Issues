@@ -205,7 +205,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve blog page functionality issues | Medium | [#1861](https://github.com/omroy07/AgriTech/pull/1861) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
 | Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
@@ -260,36 +259,36 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Find Specialist feature returns identical recommendations for different symptoms and is accessible without authentication | Medium | [#543](https://github.com/aayushraj1010/med-genie/issues/543) |
+| "Our Process" navbar link does not scroll to any section | Medium | [#542](https://github.com/aayushraj1010/med-genie/issues/542) |
+| Footer Quick Links – "How it Works" and "FAQs" are not navigating correctly | Medium | [#541](https://github.com/aayushraj1010/med-genie/issues/541) |
+| Bug: Account lockout never triggers — lockedUntil is incremented but never set | Medium | [#540](https://github.com/aayushraj1010/med-genie/issues/540) |
+| Bug: Token refresh endpoint returns access token with empty email and name fields | Medium | [#539](https://github.com/aayushraj1010/med-genie/issues/539) |
+| Bug: Token logout does not revoke access — blacklistToken() is an unimplemented stub | Medium | [#538](https://github.com/aayushraj1010/med-genie/issues/538) |
+| Security: JWT_SECRET exposed to client-side bundle via next.config.ts env block | Medium | [#537](https://github.com/aayushraj1010/med-genie/issues/537) |
+| Security: /api/agent endpoint has no authentication — open to unauthenticated abuse | Medium | [#536](https://github.com/aayushraj1010/med-genie/issues/536) |
+| Security: eval() in CalculatorTool enables Remote Code Execution (RCE) | Medium | [#535](https://github.com/aayushraj1010/med-genie/issues/535) |
+| PWA Manifest References Missing Icon Resource Causing 404 Errors | Medium | [#534](https://github.com/aayushraj1010/med-genie/issues/534) |
+| Feature: The assistant should work equally well even if there is poor internet connectivity | Medium | [#533](https://github.com/aayushraj1010/med-genie/issues/533) |
+| docs: update README with latest website screenshots | Medium | [#532](https://github.com/aayushraj1010/med-genie/pull/532) |
+| Bug: "How it Works" and "FAQs" links in the footer are not redirecting | Medium | [#531](https://github.com/aayushraj1010/med-genie/issues/531) |
+| Safety Support for Emergency, Mental Health and Local healthcare support | Medium | [#530](https://github.com/aayushraj1010/med-genie/issues/530) |
+| Navigation bar layout misalignment and overlap issue | Medium | [#529](https://github.com/aayushraj1010/med-genie/issues/529) |
+| Proposal: Add Symptom Classification Model and Medical Handbook RAG Pipeline | Medium | [#528](https://github.com/aayushraj1010/med-genie/issues/528) |
+| feat(ci): introduce CodeQL-based SAST pipeline for JavaScript/TypeScript | Medium | [#527](https://github.com/aayushraj1010/med-genie/issues/527) |
+| Improve VoiceSearch reliability with error handling and fallback support | Medium | [#526](https://github.com/aayushraj1010/med-genie/issues/526) |
+| fix: implement emergency alert escalation for critical health conditions | Medium | [#525](https://github.com/aayushraj1010/med-genie/pull/525) |
+| feat: Add Location-Based Nearby Hospital Finder | Medium | [#524](https://github.com/aayushraj1010/med-genie/issues/524) |
+| Feature Request: Add PDF Export Functionality for Medical Reports | Medium | [#523](https://github.com/aayushraj1010/med-genie/issues/523) |
+| Fix Contradiction Between Privacy Policy and User Data Storage Claims | Medium | [#522](https://github.com/aayushraj1010/med-genie/issues/522) |
+| Add RAG-based Medical Knowledge Assistant using LangChain + FAISS | Medium | [#521](https://github.com/aayushraj1010/med-genie/issues/521) |
+| first commit | Medium | [#520](https://github.com/aayushraj1010/med-genie/pull/520) |
+| Implement atomic file-write patterns and resilient validation fallbacks to prevent file corruption | Medium | [#519](https://github.com/aayushraj1010/med-genie/pull/519) |
 | feat: complete forgot password and reset password flow | Medium | [#518](https://github.com/aayushraj1010/med-genie/pull/518) |
 | feat: implement next-themes for robust dark mode management | Medium | [#517](https://github.com/aayushraj1010/med-genie/pull/517) |
 | Feature/chat history sync | Medium | [#516](https://github.com/aayushraj1010/med-genie/pull/516) |
 | Feature/wcag accessibility | Medium | [#515](https://github.com/aayushraj1010/med-genie/pull/515) |
 | Feature/user profile page | Medium | [#514](https://github.com/aayushraj1010/med-genie/pull/514) |
-| Feature/health reminders | Medium | [#513](https://github.com/aayushraj1010/med-genie/pull/513) |
-| Feature/nearby hospitals | Medium | [#512](https://github.com/aayushraj1010/med-genie/pull/512) |
-| Feature/typing indicator | Medium | [#511](https://github.com/aayushraj1010/med-genie/pull/511) |
-| Feature/chat history | Medium | [#510](https://github.com/aayushraj1010/med-genie/pull/510) |
-| feat: add multi-language support (i18n) using react-i18next | Medium | [#509](https://github.com/aayushraj1010/med-genie/pull/509) |
-| Reset Chat Button Logs Out User Instead of Only Clearing Conversation | Medium | [#508](https://github.com/aayushraj1010/med-genie/issues/508) |
-| Add Client-Side Search Functionality for Past Chat Sessions | Medium | [#507](https://github.com/aayushraj1010/med-genie/issues/507) |
-| Add Markdown Rendering and Code/Text Copy Functionality for Chat Chatbot Responses | Medium | [#506](https://github.com/aayushraj1010/med-genie/issues/506) |
-| Race Condition in CLI Config Updates & Lack of Atomic Write Strategy Leading to File Corruption | Medium | [#505](https://github.com/aayushraj1010/med-genie/issues/505) |
-| fix: Multiple Critical Issues: Build failures, Security Vulnerabilities, and Hydration Errors bug Something isn't working | Medium | [#504](https://github.com/aayushraj1010/med-genie/pull/504) |
-| fix: improve timeline flow alignment in How Med Genie Helps You section | Medium | [#503](https://github.com/aayushraj1010/med-genie/pull/503) |
-| UI Improvement: Fix Timeline Flow Alignment in "How Med Genie Helps You" Section | Medium | [#502](https://github.com/aayushraj1010/med-genie/issues/502) |
-| docs: add Table of Contents and Contributors section with contrib.rocks badge | Medium | [#501](https://github.com/aayushraj1010/med-genie/issues/501) |
-| Bug: User allergies not checked, providing unsafe recommendations | Medium | [#500](https://github.com/aayushraj1010/med-genie/issues/500) |
-| Bug: Health data not encrypted, violating privacy and HIPAA compliance | Medium | [#499](https://github.com/aayushraj1010/med-genie/issues/499) |
-| Bug: Emergency health conditions not detected, missing critical escalation | Medium | [#498](https://github.com/aayushraj1010/med-genie/issues/498) |
-| Bug: Medication interactions not checked, providing unsafe health advice | Medium | [#497](https://github.com/aayushraj1010/med-genie/issues/497) |
-| Bug: AI health information not clearly distinguished from medical advice, creating liability | Medium | [#496](https://github.com/aayushraj1010/med-genie/issues/496) |
-| Minor UI polish and a11y improvements | Medium | [#495](https://github.com/aayushraj1010/med-genie/pull/495) |
-| Broken Demo Navigation, Inaccessible Chat Interface, and Google OAuth Authentication Failure | Medium | [#494](https://github.com/aayushraj1010/med-genie/issues/494) |
-| Newsletter subscription returns "Internal server error" when submitting a valid email | Medium | [#493](https://github.com/aayushraj1010/med-genie/issues/493) |
-| Add Dockerfile and Docker Compose orchestration for unified local development | Medium | [#492](https://github.com/aayushraj1010/med-genie/issues/492) |
-| Feat: Automated Vitals Trend Visualizer & Responsive Clinical Notation Companion | Medium | [#491](https://github.com/aayushraj1010/med-genie/issues/491) |
-| Add BMI Calculator Component to Med-Genie Dashboard | Medium | [#490](https://github.com/aayushraj1010/med-genie/issues/490) |
-| [Feature]: Add Multi-language Support (Hindi, Tamil, Bengali) | Medium | [#489](https://github.com/aayushraj1010/med-genie/issues/489) |
 
 ---
 
