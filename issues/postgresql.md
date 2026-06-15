@@ -115,17 +115,32 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Audit and fix remaining routes missing error boundaries | Easy | [#999](https://github.com/Muneerali199/Draftdeckai/issues/999) |
+| fix: preserve typed API error prototypes | Easy | [#992](https://github.com/Muneerali199/Draftdeckai/pull/992) |
 | Issue #958 | Easy | [#976](https://github.com/Muneerali199/Draftdeckai/pull/976) |
-| feat: replace keyword search with PostgreSQL full-text search (#854) | Medium | [#985](https://github.com/Muneerali199/Draftdeckai/pull/985) |
-| Feat/issue 853 push notifications | Medium | [#984](https://github.com/Muneerali199/Draftdeckai/pull/984) |
-| Integrate FLUX AI Image Generator Tab in Slide Image Editor | Medium | [#983](https://github.com/Muneerali199/Draftdeckai/issues/983) |
+| chore(deps-dev): bump eslint-config-next from 15.5.18 to 16.2.9 | Medium | [#1017](https://github.com/Muneerali199/Draftdeckai/pull/1017) |
+| chore(deps): bump @mistralai/mistralai from 1.15.1 to 2.2.5 | Medium | [#1016](https://github.com/Muneerali199/Draftdeckai/pull/1016) |
+| chore(deps): bump fabric from 5.5.2 to 7.4.0 | Medium | [#1015](https://github.com/Muneerali199/Draftdeckai/pull/1015) |
+| chore(deps): bump react-intersection-observer from 9.16.0 to 10.0.3 | Medium | [#1014](https://github.com/Muneerali199/Draftdeckai/pull/1014) |
+| chore(deps-dev): bump @types/node from 20.19.41 to 25.9.3 | Medium | [#1013](https://github.com/Muneerali199/Draftdeckai/pull/1013) |
+| chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.1 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
+| chore(deps-dev): bump jsdom from 26.1.0 to 29.1.1 | Medium | [#1011](https://github.com/Muneerali199/Draftdeckai/pull/1011) |
+| chore(deps): bump officeparser from 6.1.1 to 7.2.1 | Medium | [#1010](https://github.com/Muneerali199/Draftdeckai/pull/1010) |
+| chore(deps): bump date-fns from 3.6.0 to 4.4.0 | Medium | [#1009](https://github.com/Muneerali199/Draftdeckai/pull/1009) |
+| chore(deps): bump the minor-and-patch group with 48 updates | Medium | [#1008](https://github.com/Muneerali199/Draftdeckai/pull/1008) |
+| fix(security): add file type validation to design upload endpoint (#930) | Medium | [#1007](https://github.com/Muneerali199/Draftdeckai/pull/1007) |
+| perf: fix N+1 layer queries on large canvases (#931) | Medium | [#1006](https://github.com/Muneerali199/Draftdeckai/pull/1006) |
+| fix: preserve z-index layer order during PNG/SVG export (#933) | Medium | [#1005](https://github.com/Muneerali199/Draftdeckai/pull/1005) |
+| feat: add dark mode support to document editors and builders | Medium | [#1004](https://github.com/Muneerali199/Draftdeckai/pull/1004) |
+| feat: Add presentation templates gallery | Medium | [#1002](https://github.com/Muneerali199/Draftdeckai/issues/1002) |
+| Write unit tests for admin dashboard components | Medium | [#998](https://github.com/Muneerali199/Draftdeckai/issues/998) |
+| fix: preserve typed API error prototypes | Medium | [#995](https://github.com/Muneerali199/Draftdeckai/pull/995) |
+| fix: align cors headers with production contract | Medium | [#994](https://github.com/Muneerali199/Draftdeckai/pull/994) |
+| test: expand auth middleware coverage | Medium | [#986](https://github.com/Muneerali199/Draftdeckai/pull/986) |
 | ci: add linting and type-checking to pipeline (#739) | Medium | [#973](https://github.com/Muneerali199/Draftdeckai/pull/973) |
 | feat: add Go backend env validation at startup (#901) | Medium | [#971](https://github.com/Muneerali199/Draftdeckai/pull/971) |
 | Add SEO metadata and refactor client pages for App Router compatibility | Medium | [#965](https://github.com/Muneerali199/Draftdeckai/pull/965) |
 | Added backend files #902 issue | Medium | [#958](https://github.com/Muneerali199/Draftdeckai/pull/958) |
-| Design Export Produces Incorrect Layer Order - Z-index Not Preserved | Medium | [#933](https://github.com/Muneerali199/Draftdeckai/issues/933) |
-| Design Rendering Freezes on Large Canvases - N+1 Layer Queries | Medium | [#931](https://github.com/Muneerali199/Draftdeckai/issues/931) |
-| Design File Upload Accepts Arbitrary File Types - RCE Risk | Medium | [#930](https://github.com/Muneerali199/Draftdeckai/issues/930) |
 | feat: add dynamic published resume URLs to sitemap | Hard | [#963](https://github.com/Muneerali199/Draftdeckai/pull/963) |
 
 ---
@@ -338,17 +353,21 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: add JSDoc comments to public utility functions in src/utils/ | Easy | [#8180](https://github.com/SandeepVashishtha/Eventra/issues/8180) |
-| CountUp component throws "target is null or undefined" error in browser console | Medium | [#8179](https://github.com/SandeepVashishtha/Eventra/issues/8179) |
-| Deterministic User-Based Storage Keys Create Local Identifier Linkability Risk | Medium | [#8177](https://github.com/SandeepVashishtha/Eventra/issues/8177) |
-| Event Registration Data Can Diverge Between IndexedDB and Local Storage After Waitlist Promotion | Medium | [#8176](https://github.com/SandeepVashishtha/Eventra/issues/8176) |
-| Saved Events Page Loads Guest Bookmark Bucket Instead of Authenticated User Data | Medium | [#8175](https://github.com/SandeepVashishtha/Eventra/issues/8175) |
-| Bookmark System Uses Two Independent Sources of Truth Resulting in Cross-Page Inconsistency | Medium | [#8174](https://github.com/SandeepVashishtha/Eventra/issues/8174) |
-| Waitlist Notifications Are Written to a Different Store Than the Notification Center | Medium | [#8173](https://github.com/SandeepVashishtha/Eventra/issues/8173) |
-| Offline Sync Hook Does Not Emit Queue Completion Event Causing Stuck Sync UI | Medium | [#8172](https://github.com/SandeepVashishtha/Eventra/issues/8172) |
-| Offline Queue Replay Fails Due to Missing Session Snapshot Initialization | Medium | [#8171](https://github.com/SandeepVashishtha/Eventra/issues/8171) |
-| Feature: Add Post-Event Feedback and Rating System for Attendees | Medium | [#8170](https://github.com/SandeepVashishtha/Eventra/issues/8170) |
-| Add a Reusable "Copy to Clipboard" Button with Tooltip/Toast for Sharing Event Links | Medium | [#8168](https://github.com/SandeepVashishtha/Eventra/issues/8168) |
+| Introduce Event Changelog to Track Important Updates | Easy | [#8968](https://github.com/SandeepVashishtha/Eventra/issues/8968) |
+| fix: activityTracker uses console.warn and console.error instead of project logger utility | Medium | [#8984](https://github.com/SandeepVashishtha/Eventra/issues/8984) |
+| fix: SyntaxError check in storageManager.get catch is dead code — safeJsonParse never re-throws so corrupted keys are never cleaned up | Medium | [#8982](https://github.com/SandeepVashishtha/Eventra/issues/8982) |
+| fix: useAuthStore logout leaves stale error and isLoading state and setToken leaves stale user when token is invalidated | Medium | [#8980](https://github.com/SandeepVashishtha/Eventra/issues/8980) |
+| fix: aiRecommendationService uses console.error instead of project logger utility inconsistent with all other services and utils | Medium | [#8978](https://github.com/SandeepVashishtha/Eventra/issues/8978) |
+| fix: fetchCheckInHistory uses raw string interpolation instead of URLSearchParams and fetchTicketStats uses hardcoded API path bypassing API_ENDPOINTS config | Medium | [#8975](https://github.com/SandeepVashishtha/Eventra/issues/8975) |
+| Fix: Trending Events section failing to load data in Eventra | Medium | [#8973](https://github.com/SandeepVashishtha/Eventra/issues/8973) |
+| Feature Request: Add "About" Section to Eventra Platform | Medium | [#8972](https://github.com/SandeepVashishtha/Eventra/issues/8972) |
+| Add keyboard shortcuts and accessibility improvements for Events dashboard filters | Medium | [#8971](https://github.com/SandeepVashishtha/Eventra/issues/8971) |
+| Smart Duplicate Event Detection During Event Submission | Medium | [#8966](https://github.com/SandeepVashishtha/Eventra/issues/8966) |
+| Improve responsiveness of Events page filters on mobile devices | Medium | [#8965](https://github.com/SandeepVashishtha/Eventra/issues/8965) |
+| Add recently used filter presets for Events dashboard | Medium | [#8964](https://github.com/SandeepVashishtha/Eventra/issues/8964) |
+| fix: SSR crash — missing window check in useInstallPrompt useEffect | Medium | [#8957](https://github.com/SandeepVashishtha/Eventra/issues/8957) |
+| fix: SSR crash — missing document check in useDocumentTitle | Medium | [#8956](https://github.com/SandeepVashishtha/Eventra/issues/8956) |
+| fix: sessionRecoveryStore.js — global.__eventraRecoverySessions without env check | Medium | [#8955](https://github.com/SandeepVashishtha/Eventra/issues/8955) |
 
 ---
 
