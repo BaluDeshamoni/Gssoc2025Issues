@@ -254,36 +254,36 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: complete forgot password and reset password flow | Medium | [#518](https://github.com/aayushraj1010/med-genie/pull/518) |
-| feat: implement next-themes for robust dark mode management | Medium | [#517](https://github.com/aayushraj1010/med-genie/pull/517) |
-| Feature/chat history sync | Medium | [#516](https://github.com/aayushraj1010/med-genie/pull/516) |
-| Feature/wcag accessibility | Medium | [#515](https://github.com/aayushraj1010/med-genie/pull/515) |
-| Feature/user profile page | Medium | [#514](https://github.com/aayushraj1010/med-genie/pull/514) |
-| Feature/health reminders | Medium | [#513](https://github.com/aayushraj1010/med-genie/pull/513) |
-| Feature/nearby hospitals | Medium | [#512](https://github.com/aayushraj1010/med-genie/pull/512) |
-| Feature/typing indicator | Medium | [#511](https://github.com/aayushraj1010/med-genie/pull/511) |
-| Feature/chat history | Medium | [#510](https://github.com/aayushraj1010/med-genie/pull/510) |
-| feat: add multi-language support (i18n) using react-i18next | Medium | [#509](https://github.com/aayushraj1010/med-genie/pull/509) |
-| Reset Chat Button Logs Out User Instead of Only Clearing Conversation | Medium | [#508](https://github.com/aayushraj1010/med-genie/issues/508) |
-| Add Client-Side Search Functionality for Past Chat Sessions | Medium | [#507](https://github.com/aayushraj1010/med-genie/issues/507) |
-| Add Markdown Rendering and Code/Text Copy Functionality for Chat Chatbot Responses | Medium | [#506](https://github.com/aayushraj1010/med-genie/issues/506) |
-| Race Condition in CLI Config Updates & Lack of Atomic Write Strategy Leading to File Corruption | Medium | [#505](https://github.com/aayushraj1010/med-genie/issues/505) |
-| fix: Multiple Critical Issues: Build failures, Security Vulnerabilities, and Hydration Errors bug Something isn't working | Medium | [#504](https://github.com/aayushraj1010/med-genie/pull/504) |
-| fix: improve timeline flow alignment in How Med Genie Helps You section | Medium | [#503](https://github.com/aayushraj1010/med-genie/pull/503) |
-| UI Improvement: Fix Timeline Flow Alignment in "How Med Genie Helps You" Section | Medium | [#502](https://github.com/aayushraj1010/med-genie/issues/502) |
-| docs: add Table of Contents and Contributors section with contrib.rocks badge | Medium | [#501](https://github.com/aayushraj1010/med-genie/issues/501) |
-| Bug: User allergies not checked, providing unsafe recommendations | Medium | [#500](https://github.com/aayushraj1010/med-genie/issues/500) |
-| Bug: Health data not encrypted, violating privacy and HIPAA compliance | Medium | [#499](https://github.com/aayushraj1010/med-genie/issues/499) |
-| Bug: Emergency health conditions not detected, missing critical escalation | Medium | [#498](https://github.com/aayushraj1010/med-genie/issues/498) |
-| Bug: Medication interactions not checked, providing unsafe health advice | Medium | [#497](https://github.com/aayushraj1010/med-genie/issues/497) |
-| Bug: AI health information not clearly distinguished from medical advice, creating liability | Medium | [#496](https://github.com/aayushraj1010/med-genie/issues/496) |
-| Minor UI polish and a11y improvements | Medium | [#495](https://github.com/aayushraj1010/med-genie/pull/495) |
-| Broken Demo Navigation, Inaccessible Chat Interface, and Google OAuth Authentication Failure | Medium | [#494](https://github.com/aayushraj1010/med-genie/issues/494) |
-| Newsletter subscription returns "Internal server error" when submitting a valid email | Medium | [#493](https://github.com/aayushraj1010/med-genie/issues/493) |
-| Add Dockerfile and Docker Compose orchestration for unified local development | Medium | [#492](https://github.com/aayushraj1010/med-genie/issues/492) |
-| Feat: Automated Vitals Trend Visualizer & Responsive Clinical Notation Companion | Medium | [#491](https://github.com/aayushraj1010/med-genie/issues/491) |
-| Add BMI Calculator Component to Med-Genie Dashboard | Medium | [#490](https://github.com/aayushraj1010/med-genie/issues/490) |
-| [Feature]: Add Multi-language Support (Hindi, Tamil, Bengali) | Medium | [#489](https://github.com/aayushraj1010/med-genie/issues/489) |
+| Downgrade dotenv package version to 16.4.5 | Medium | [#556](https://github.com/aayushraj1010/med-genie/pull/556) |
+| Contact Us and FAQ link is static and doesn't render to any webpage | Medium | [#555](https://github.com/aayushraj1010/med-genie/issues/555) |
+| Bug :Navbar Overlaps Hero Section Content on Multiple Pages | Medium | [#554](https://github.com/aayushraj1010/med-genie/issues/554) |
+| DOC : Add a FAQ section to contributing.md file | Medium | [#553](https://github.com/aayushraj1010/med-genie/issues/553) |
+| fix: improve VoiceSearch error handling and UX feedback | Medium | [#552](https://github.com/aayushraj1010/med-genie/pull/552) |
+| Optimize index.html with standard SEO and responsive viewport meta tags | Medium | [#551](https://github.com/aayushraj1010/med-genie/issues/551) |
+| fix: chatbot returns error on every query — add API key validation and error handling (#265, #359) | Medium | [#550](https://github.com/aayushraj1010/med-genie/pull/550) |
+| Build medical-grade testing framework with automated compliance checks and monitoring | Medium | [#549](https://github.com/aayushraj1010/med-genie/issues/549) |
+| Enhance user experience with medical visualizations, voice input, and accessibility features | Medium | [#548](https://github.com/aayushraj1010/med-genie/issues/548) |
+| Implement HIPAA-compliant medical data encryption and patient privacy controls | Medium | [#547](https://github.com/aayushraj1010/med-genie/issues/547) |
+| Optimize medical data processing with parallel computation and caching strategies | Medium | [#546](https://github.com/aayushraj1010/med-genie/issues/546) |
+| Implement comprehensive symptom checker with AI diagnosis and specialist recommendations | Medium | [#545](https://github.com/aayushraj1010/med-genie/issues/545) |
+| Add Persistent Medical Disclaimer Banner Inside Chat Interface | Medium | [#544](https://github.com/aayushraj1010/med-genie/issues/544) |
+| Find Specialist feature returns identical recommendations for different symptoms and is accessible without authentication | Medium | [#543](https://github.com/aayushraj1010/med-genie/issues/543) |
+| "Our Process" navbar link does not scroll to any section | Medium | [#542](https://github.com/aayushraj1010/med-genie/issues/542) |
+| Footer Quick Links – "How it Works" and "FAQs" are not navigating correctly | Medium | [#541](https://github.com/aayushraj1010/med-genie/issues/541) |
+| Bug: Account lockout never triggers — lockedUntil is incremented but never set | Medium | [#540](https://github.com/aayushraj1010/med-genie/issues/540) |
+| Bug: Token refresh endpoint returns access token with empty email and name fields | Medium | [#539](https://github.com/aayushraj1010/med-genie/issues/539) |
+| Bug: Token logout does not revoke access — blacklistToken() is an unimplemented stub | Medium | [#538](https://github.com/aayushraj1010/med-genie/issues/538) |
+| Security: JWT_SECRET exposed to client-side bundle via next.config.ts env block | Medium | [#537](https://github.com/aayushraj1010/med-genie/issues/537) |
+| Security: /api/agent endpoint has no authentication — open to unauthenticated abuse | Medium | [#536](https://github.com/aayushraj1010/med-genie/issues/536) |
+| Security: eval() in CalculatorTool enables Remote Code Execution (RCE) | Medium | [#535](https://github.com/aayushraj1010/med-genie/issues/535) |
+| PWA Manifest References Missing Icon Resource Causing 404 Errors | Medium | [#534](https://github.com/aayushraj1010/med-genie/issues/534) |
+| Feature: The assistant should work equally well even if there is poor internet connectivity | Medium | [#533](https://github.com/aayushraj1010/med-genie/issues/533) |
+| docs: update README with latest website screenshots | Medium | [#532](https://github.com/aayushraj1010/med-genie/pull/532) |
+| Bug: "How it Works" and "FAQs" links in the footer are not redirecting | Medium | [#531](https://github.com/aayushraj1010/med-genie/issues/531) |
+| Safety Support for Emergency, Mental Health and Local healthcare support | Medium | [#530](https://github.com/aayushraj1010/med-genie/issues/530) |
+| Navigation bar layout misalignment and overlap issue | Medium | [#529](https://github.com/aayushraj1010/med-genie/issues/529) |
+| Proposal: Add Symptom Classification Model and Medical Handbook RAG Pipeline | Medium | [#528](https://github.com/aayushraj1010/med-genie/issues/528) |
+| feat(ci): introduce CodeQL-based SAST pipeline for JavaScript/TypeScript | Medium | [#527](https://github.com/aayushraj1010/med-genie/issues/527) |
 
 ---
 
@@ -566,36 +566,36 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add RAG-based AI Study Assistant for PYQs & Syllabus Q&A | Medium | [#503](https://github.com/lovelymahor/StudyMatePlus/issues/503) |
-| Add login page logout button and authentication flow | Medium | [#502](https://github.com/lovelymahor/StudyMatePlus/pull/502) |
-| fix: add 404 Not Found page for invalid routes | Medium | [#498](https://github.com/lovelymahor/StudyMatePlus/pull/498) |
-| Missing 404 Page - Blank screen shown for invalid routes | Medium | [#497](https://github.com/lovelymahor/StudyMatePlus/issues/497) |
-| feat: Add Smart Resource Recommendation Section | Medium | [#495](https://github.com/lovelymahor/StudyMatePlus/issues/495) |
-| feat: Add Exam Countdown Widget | Medium | [#494](https://github.com/lovelymahor/StudyMatePlus/issues/494) |
-| Feature Request: Add Light/Dark Mode Toggle | Medium | [#493](https://github.com/lovelymahor/StudyMatePlus/issues/493) |
-| Semester filter does not include all available semesters in syllabus listing | Medium | [#492](https://github.com/lovelymahor/StudyMatePlus/issues/492) |
-| Feature: Spaced Repetition (Leitner System) Flashcard Engine for Notes | Medium | [#490](https://github.com/lovelymahor/StudyMatePlus/issues/490) |
-| fix: resolve placard overlap and add navigation routing | Medium | [#489](https://github.com/lovelymahor/StudyMatePlus/issues/489) |
-| Bug : Deadline Timezone Shifting in To-Do List | Medium | [#488](https://github.com/lovelymahor/StudyMatePlus/issues/488) |
-| Bug : Missing Backend API Routes and Models for Notes Feature | Medium | [#487](https://github.com/lovelymahor/StudyMatePlus/issues/487) |
-| UI/UX Enhancement and Functionality Fixes for Notes & PYQs Modules | Medium | [#486](https://github.com/lovelymahor/StudyMatePlus/issues/486) |
-| Implement Lazy Loading for Contributors Section Images | Medium | [#485](https://github.com/lovelymahor/StudyMatePlus/issues/485) |
-| UI Improvement: Misaligned Buttons and Unattractive Layout in "Ready to Ace Your Exams?" Section | Medium | [#484](https://github.com/lovelymahor/StudyMatePlus/issues/484) |
-| Enhancement: Implement course material version control and backup/restore capability | Medium | [#483](https://github.com/lovelymahor/StudyMatePlus/issues/483) |
-| Bug: Course access not restricted to enrolled students, allowing unauthorized material access | Medium | [#482](https://github.com/lovelymahor/StudyMatePlus/issues/482) |
-| Bug: Assignment deadlines not enforced, allowing unlimited late submissions | Medium | [#481](https://github.com/lovelymahor/StudyMatePlus/issues/481) |
-| Enhancement: Add grade distribution analysis and anomaly detection | Medium | [#480](https://github.com/lovelymahor/StudyMatePlus/issues/480) |
-| Bug: Plagiarism detection missing, allowing unoriginal submissions | Medium | [#479](https://github.com/lovelymahor/StudyMatePlus/issues/479) |
-| Interactive Syllabus Tracker and Active Senior Connect Form | Medium | [#478](https://github.com/lovelymahor/StudyMatePlus/issues/478) |
-| The highlighted tab in the Nav bar does not stay highlighted | Medium | [#477](https://github.com/lovelymahor/StudyMatePlus/issues/477) |
-| View button on PYQ cards is non-functional and does not open the selected question paper | Medium | [#476](https://github.com/lovelymahor/StudyMatePlus/issues/476) |
-| Missing Footer and its alignment issue | Medium | [#475](https://github.com/lovelymahor/StudyMatePlus/issues/475) |
-| Refactor backend structure to follow MVC architecture | Medium | [#474](https://github.com/lovelymahor/StudyMatePlus/issues/474) |
-| making the upload resources button working and making the user able to upload the resources. | Medium | [#473](https://github.com/lovelymahor/StudyMatePlus/issues/473) |
-| making better UI for the ready to ace your exam section. | Medium | [#472](https://github.com/lovelymahor/StudyMatePlus/issues/472) |
-| Feature Request: Core Platform Enhancements - Integrated AI Chatbot, Dynamic MCQ Generator, and Global Theme Toggle | Medium | [#471](https://github.com/lovelymahor/StudyMatePlus/issues/471) |
-| UI/UX Enhancement: Improve Hero Section, Navigation Bar and CTA Consistency | Medium | [#470](https://github.com/lovelymahor/StudyMatePlus/issues/470) |
-| Syllabus related issue | Medium | [#469](https://github.com/lovelymahor/StudyMatePlus/issues/469) |
+| Feat: The website is too generic and doesn't give the vibe | Medium | [#580](https://github.com/lovelymahor/StudyMatePlus/issues/580) |
+| feat: Add Scroll-to-Top Button Component | Fixes #576 | Medium | [#579](https://github.com/lovelymahor/StudyMatePlus/pull/579) |
+| Inconsistent Section Spacing, Overlapping Floating Cards, and Button Styling | Medium | [#578](https://github.com/lovelymahor/StudyMatePlus/issues/578) |
+| Docs : Add FAQ section to contributing.md file | Medium | [#577](https://github.com/lovelymahor/StudyMatePlus/issues/577) |
+| Add Scroll-to-Top Button Component for Better Navigation UX | Medium | [#576](https://github.com/lovelymahor/StudyMatePlus/issues/576) |
+| Feature:- I want add my university syllabus | Medium | [#575](https://github.com/lovelymahor/StudyMatePlus/issues/575) |
+| contact feature is not not implement properly | Medium | [#574](https://github.com/lovelymahor/StudyMatePlus/issues/574) |
+| Clean up: Remove AI generated "Next Steps" from CONTRIBUTING.md | Medium | [#573](https://github.com/lovelymahor/StudyMatePlus/pull/573) |
+| Remove AI generated template instructions from CONTRIBUTING.md | Medium | [#572](https://github.com/lovelymahor/StudyMatePlus/issues/572) |
+| Feature Request: AMOLED-Optimized "Late Night Study" Dark Theme | Medium | [#571](https://github.com/lovelymahor/StudyMatePlus/issues/571) |
+| Improve text visibility for statistics section in dark mode | Medium | [#570](https://github.com/lovelymahor/StudyMatePlus/issues/570) |
+| Optimize index.html with standard SEO and responsive viewport meta tags | Medium | [#569](https://github.com/lovelymahor/StudyMatePlus/issues/569) |
+| Fixed-Readme | Medium | [#568](https://github.com/lovelymahor/StudyMatePlus/pull/568) |
+| good to hide the topbar when  scrolling down | Medium | [#567](https://github.com/lovelymahor/StudyMatePlus/issues/567) |
+| Refactor routing and component imports in App.js | Medium | [#566](https://github.com/lovelymahor/StudyMatePlus/pull/566) |
+| Insufficient User Guidance and Navigation for New Users | Medium | [#565](https://github.com/lovelymahor/StudyMatePlus/issues/565) |
+| fix: resolve contact contrast issue, upgrade to icons, and fix broken merge conflict syntax | Medium | [#564](https://github.com/lovelymahor/StudyMatePlus/pull/564) |
+| BUG: "View" button is completely unresponsive on PYQ page. | Medium | [#563](https://github.com/lovelymahor/StudyMatePlus/issues/563) |
+| Edit Profile button is non-functional — no form or handler connected | Medium | [#562](https://github.com/lovelymahor/StudyMatePlus/issues/562) |
+| Default profile picture not showing when no image is uploaded | Medium | [#561](https://github.com/lovelymahor/StudyMatePlus/issues/561) |
+| 🐛 Bug Report: Footer Social Links Redirect Incorrectly | Medium | [#560](https://github.com/lovelymahor/StudyMatePlus/issues/560) |
+| fix(build & UX): resolve merge-conflict/package errors and improve PYQs filtering experience | Medium | [#559](https://github.com/lovelymahor/StudyMatePlus/issues/559) |
+| Feat: Add dark mode for better visibility | Medium | [#558](https://github.com/lovelymahor/StudyMatePlus/issues/558) |
+| Low Contrast Accessibility Violation on Landing Page Stats Metric Labels | Medium | [#557](https://github.com/lovelymahor/StudyMatePlus/issues/557) |
+| Low Hit-Target Area on Landing Page Feature Cards Restricts Click Functionality to Text Elements Only | Medium | [#556](https://github.com/lovelymahor/StudyMatePlus/issues/556) |
+| PYQ's Section - Separate "Department" and "Course" Fields | Medium | [#555](https://github.com/lovelymahor/StudyMatePlus/issues/555) |
+| Study mate plus- feature for semester button | Medium | [#554](https://github.com/lovelymahor/StudyMatePlus/issues/554) |
+| Add Resource Rating System for Notes and PYQs | Medium | [#552](https://github.com/lovelymahor/StudyMatePlus/issues/552) |
+| fix: Unresponsive "View" button and static/dummy data on the PYQs page | Medium | [#551](https://github.com/lovelymahor/StudyMatePlus/issues/551) |
+| feat: Add a custom styled 404 Error page for undefined routes | Medium | [#550](https://github.com/lovelymahor/StudyMatePlus/issues/550) |
 
 ---
 
@@ -651,17 +651,23 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: add JSDoc comments to public utility functions in src/utils/ | Easy | [#8180](https://github.com/SandeepVashishtha/Eventra/issues/8180) |
-| CountUp component throws "target is null or undefined" error in browser console | Medium | [#8179](https://github.com/SandeepVashishtha/Eventra/issues/8179) |
-| Deterministic User-Based Storage Keys Create Local Identifier Linkability Risk | Medium | [#8177](https://github.com/SandeepVashishtha/Eventra/issues/8177) |
-| Event Registration Data Can Diverge Between IndexedDB and Local Storage After Waitlist Promotion | Medium | [#8176](https://github.com/SandeepVashishtha/Eventra/issues/8176) |
-| Saved Events Page Loads Guest Bookmark Bucket Instead of Authenticated User Data | Medium | [#8175](https://github.com/SandeepVashishtha/Eventra/issues/8175) |
-| Bookmark System Uses Two Independent Sources of Truth Resulting in Cross-Page Inconsistency | Medium | [#8174](https://github.com/SandeepVashishtha/Eventra/issues/8174) |
-| Waitlist Notifications Are Written to a Different Store Than the Notification Center | Medium | [#8173](https://github.com/SandeepVashishtha/Eventra/issues/8173) |
-| Offline Sync Hook Does Not Emit Queue Completion Event Causing Stuck Sync UI | Medium | [#8172](https://github.com/SandeepVashishtha/Eventra/issues/8172) |
-| Offline Queue Replay Fails Due to Missing Session Snapshot Initialization | Medium | [#8171](https://github.com/SandeepVashishtha/Eventra/issues/8171) |
-| Feature: Add Post-Event Feedback and Rating System for Attendees | Medium | [#8170](https://github.com/SandeepVashishtha/Eventra/issues/8170) |
-| Add a Reusable "Copy to Clipboard" Button with Tooltip/Toast for Sharing Event Links | Medium | [#8168](https://github.com/SandeepVashishtha/Eventra/issues/8168) |
+| explore event and host an event buttons overlap | Medium | [#9266](https://github.com/SandeepVashishtha/Eventra/issues/9266) |
+| Add event progress insights and participation analytics widgets for Events dashboard | Medium | [#9259](https://github.com/SandeepVashishtha/Eventra/issues/9259) |
+| fix(utils): add SSR guard to document.querySelector in securityHeadersDiagnostics.js | Medium | [#9250](https://github.com/SandeepVashishtha/Eventra/issues/9250) |
+| fix(utils): add SSR guard to document.cookie in safeCookieStorage.js | Medium | [#9249](https://github.com/SandeepVashishtha/Eventra/issues/9249) |
+| fix(utils): add SSR guard to localStorage in storageUtils.js | Medium | [#9248](https://github.com/SandeepVashishtha/Eventra/issues/9248) |
+| fix(utils): handle Web Locks API tab backgrounding in SSE multiplexer | Medium | [#9247](https://github.com/SandeepVashishtha/Eventra/issues/9247) |
+| fix(utils): return relative time for numeric timestamps in getRelativeTime | Medium | [#9246](https://github.com/SandeepVashishtha/Eventra/issues/9246) |
+| Security Bypass of API Gateway/JWT Checks via Subroute Wildcard Matching | Medium | [#9242](https://github.com/SandeepVashishtha/Eventra/issues/9242) |
+| Memory Exhaustion DoS via Stale Keys in In-Memory Rate Limiter | Medium | [#9240](https://github.com/SandeepVashishtha/Eventra/issues/9240) |
+| Parameter Mutation and Idempotency Key Reuse in fetchWithTimeout.js | Medium | [#9238](https://github.com/SandeepVashishtha/Eventra/issues/9238) |
+| Event-Listener Leakage on Window/Document | Medium | [#9234](https://github.com/SandeepVashishtha/Eventra/issues/9234) |
+| Accessibility (a11y) Violations on Dynamic Media | Medium | [#9233](https://github.com/SandeepVashishtha/Eventra/issues/9233) |
+| Unbounded Offline Queue Ballooning | Medium | [#9232](https://github.com/SandeepVashishtha/Eventra/issues/9232) |
+| Memory Leaks from Unmanaged setInterval Hooks | Medium | [#9231](https://github.com/SandeepVashishtha/Eventra/issues/9231) |
+| Cryptographically Insecure Idempotency Keys | Medium | [#9230](https://github.com/SandeepVashishtha/Eventra/issues/9230) |
+| Unhandled localStorage.setItem Quota Errors | Medium | [#9229](https://github.com/SandeepVashishtha/Eventra/issues/9229) |
+| Unsafe JSON.parse Deserialization Crashes | Medium | [#9228](https://github.com/SandeepVashishtha/Eventra/issues/9228) |
 
 ---
 
