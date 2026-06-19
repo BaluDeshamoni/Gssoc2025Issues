@@ -316,6 +316,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: prevent Google Maps iframe from overflowing footer container (#1938) | Medium | [#1947](https://github.com/apu52/Travel_Website/pull/1947) |
 | Fix map overflow issue in footer section | Medium | [#1946](https://github.com/apu52/Travel_Website/pull/1946) |
 | Advanced Accessibility: Fix contrast ratios and implement semantic HTML5 landmarks | Medium | [#1944](https://github.com/apu52/Travel_Website/issues/1944) |
 | fix: responsiveness not implemented correctly (#1715) | Medium | [#1943](https://github.com/apu52/Travel_Website/pull/1943) |
@@ -345,7 +346,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Add Navbar | Medium | [#1919](https://github.com/apu52/Travel_Website/issues/1919) |
 | Login does not work even after successful registration | Medium | [#1918](https://github.com/apu52/Travel_Website/issues/1918) |
 | 404 Error on Services link in Top Deals section | Medium | [#1917](https://github.com/apu52/Travel_Website/issues/1917) |
-| style: enhance navbar with icon-text buttons and add favicon | Medium | [#1916](https://github.com/apu52/Travel_Website/pull/1916) |
 
 ---
 
@@ -438,7 +438,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: prevent ThemeProvider from blocking SSR with blank initial render | Medium | [#744](https://github.com/Dipanita45/HEALCONNECT/pull/744) |
+| fix: resolve production Tailwind CSS compilation bug in contact categ… | Medium | [#751](https://github.com/Dipanita45/HEALCONNECT/pull/751) |
+| Unawaited Async Write in Doctor Registration (Race Condition) | Medium | [#750](https://github.com/Dipanita45/HEALCONNECT/issues/750) |
+| Bug in Offline Data Manager (Database Writes) | Medium | [#749](https://github.com/Dipanita45/HEALCONNECT/issues/749) |
 
 ---
 
@@ -745,6 +747,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: resolve cart visibility issue | Medium | [#1863](https://github.com/omroy07/AgriTech/pull/1863) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
 | Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
@@ -1085,6 +1088,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump lucide-react from 0.503.0 to 1.21.0 | Easy | [#1913](https://github.com/recodehive/recode-website/pull/1913) |
+| chore: bump @clerk/react from 6.10.0 to 6.10.2 | Easy | [#1912](https://github.com/recodehive/recode-website/pull/1912) |
 | issues available to work with | Easy | [#1840](https://github.com/recodehive/recode-website/issues/1840) |
 
 ---
@@ -1762,6 +1767,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Proper Alignment of Header in the Main page | Easy | [#7](https://github.com/komalkhatod1105/One-Stop-Guide/issues/7) |
 | Revamp Header, Cards, Footer & Hover Interactions for Better Interactivity and Engagement | Easy | [#5](https://github.com/komalkhatod1105/One-Stop-Guide/issues/5) |
 | Feature : Add "Plan Your Trip" Itinerary Builder | Easy | [#4](https://github.com/komalkhatod1105/One-Stop-Guide/issues/4) |
+| Key Issue Categories | Medium | [#52](https://github.com/komalkhatod1105/One-Stop-Guide/issues/52) |
 | Add: added new city shimla.html | Medium | [#48](https://github.com/komalkhatod1105/One-Stop-Guide/pull/48) |
 | show more button of city site is not working properly | Medium | [#47](https://github.com/komalkhatod1105/One-Stop-Guide/issues/47) |
 | Suggestion: Add "About Us" Page to the Website | Medium | [#44](https://github.com/komalkhatod1105/One-Stop-Guide/issues/44) |
@@ -1837,36 +1843,36 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat: The website is too generic and doesn't give the vibe | Medium | [#580](https://github.com/lovelymahor/StudyMatePlus/issues/580) |
+| feat: Add Scroll-to-Top Button Component | Fixes #576 | Medium | [#579](https://github.com/lovelymahor/StudyMatePlus/pull/579) |
+| Inconsistent Section Spacing, Overlapping Floating Cards, and Button Styling | Medium | [#578](https://github.com/lovelymahor/StudyMatePlus/issues/578) |
+| Docs : Add FAQ section to contributing.md file | Medium | [#577](https://github.com/lovelymahor/StudyMatePlus/issues/577) |
+| Add Scroll-to-Top Button Component for Better Navigation UX | Medium | [#576](https://github.com/lovelymahor/StudyMatePlus/issues/576) |
+| Feature:- I want add my university syllabus | Medium | [#575](https://github.com/lovelymahor/StudyMatePlus/issues/575) |
+| contact feature is not not implement properly | Medium | [#574](https://github.com/lovelymahor/StudyMatePlus/issues/574) |
+| Clean up: Remove AI generated "Next Steps" from CONTRIBUTING.md | Medium | [#573](https://github.com/lovelymahor/StudyMatePlus/pull/573) |
+| Remove AI generated template instructions from CONTRIBUTING.md | Medium | [#572](https://github.com/lovelymahor/StudyMatePlus/issues/572) |
+| Feature Request: AMOLED-Optimized "Late Night Study" Dark Theme | Medium | [#571](https://github.com/lovelymahor/StudyMatePlus/issues/571) |
+| Improve text visibility for statistics section in dark mode | Medium | [#570](https://github.com/lovelymahor/StudyMatePlus/issues/570) |
+| Optimize index.html with standard SEO and responsive viewport meta tags | Medium | [#569](https://github.com/lovelymahor/StudyMatePlus/issues/569) |
+| Fixed-Readme | Medium | [#568](https://github.com/lovelymahor/StudyMatePlus/pull/568) |
+| good to hide the topbar when  scrolling down | Medium | [#567](https://github.com/lovelymahor/StudyMatePlus/issues/567) |
+| Refactor routing and component imports in App.js | Medium | [#566](https://github.com/lovelymahor/StudyMatePlus/pull/566) |
+| Insufficient User Guidance and Navigation for New Users | Medium | [#565](https://github.com/lovelymahor/StudyMatePlus/issues/565) |
+| fix: resolve contact contrast issue, upgrade to icons, and fix broken merge conflict syntax | Medium | [#564](https://github.com/lovelymahor/StudyMatePlus/pull/564) |
+| BUG: "View" button is completely unresponsive on PYQ page. | Medium | [#563](https://github.com/lovelymahor/StudyMatePlus/issues/563) |
+| Edit Profile button is non-functional — no form or handler connected | Medium | [#562](https://github.com/lovelymahor/StudyMatePlus/issues/562) |
+| Default profile picture not showing when no image is uploaded | Medium | [#561](https://github.com/lovelymahor/StudyMatePlus/issues/561) |
+| 🐛 Bug Report: Footer Social Links Redirect Incorrectly | Medium | [#560](https://github.com/lovelymahor/StudyMatePlus/issues/560) |
+| fix(build & UX): resolve merge-conflict/package errors and improve PYQs filtering experience | Medium | [#559](https://github.com/lovelymahor/StudyMatePlus/issues/559) |
+| Feat: Add dark mode for better visibility | Medium | [#558](https://github.com/lovelymahor/StudyMatePlus/issues/558) |
+| Low Contrast Accessibility Violation on Landing Page Stats Metric Labels | Medium | [#557](https://github.com/lovelymahor/StudyMatePlus/issues/557) |
+| Low Hit-Target Area on Landing Page Feature Cards Restricts Click Functionality to Text Elements Only | Medium | [#556](https://github.com/lovelymahor/StudyMatePlus/issues/556) |
+| PYQ's Section - Separate "Department" and "Course" Fields | Medium | [#555](https://github.com/lovelymahor/StudyMatePlus/issues/555) |
 | Study mate plus- feature for semester button | Medium | [#554](https://github.com/lovelymahor/StudyMatePlus/issues/554) |
 | Add Resource Rating System for Notes and PYQs | Medium | [#552](https://github.com/lovelymahor/StudyMatePlus/issues/552) |
 | fix: Unresponsive "View" button and static/dummy data on the PYQs page | Medium | [#551](https://github.com/lovelymahor/StudyMatePlus/issues/551) |
 | feat: Add a custom styled 404 Error page for undefined routes | Medium | [#550](https://github.com/lovelymahor/StudyMatePlus/issues/550) |
-| fix: "Upload Resource" button on the Notes page is not working | Medium | [#549](https://github.com/lovelymahor/StudyMatePlus/issues/549) |
-| fix: "Preview" buttons on Syllabus and Notes cards are unresponsive | Medium | [#548](https://github.com/lovelymahor/StudyMatePlus/issues/548) |
-| Implement Interactive Feedback Modal for "Submit Your Feedback" Button | Medium | [#547](https://github.com/lovelymahor/StudyMatePlus/issues/547) |
-| Low Contrast / Unreadable Social Media Links under "Follow Us" | Medium | [#546](https://github.com/lovelymahor/StudyMatePlus/issues/546) |
-| Token refresh request deduplication during concurrent access token expiration | Medium | [#545](https://github.com/lovelymahor/StudyMatePlus/issues/545) |
-| Improve social Icons | Medium | [#544](https://github.com/lovelymahor/StudyMatePlus/pull/544) |
-| fix: package.json has invalid JSON and duplicate dependencies | Medium | [#543](https://github.com/lovelymahor/StudyMatePlus/issues/543) |
-| feat: Add Study Streak Tracker and Achievement Badges (Fixes #520) | Medium | [#542](https://github.com/lovelymahor/StudyMatePlus/pull/542) |
-| fix: clean up CONTRIBUTING.md contributor guidance | Medium | [#541](https://github.com/lovelymahor/StudyMatePlus/pull/541) |
-| Fix Non-Functional PYQ View Button | Medium | [#539](https://github.com/lovelymahor/StudyMatePlus/issues/539) |
-| CONTRIBUTING.md contains repository setup instructions intended for maintainers | Medium | [#538](https://github.com/lovelymahor/StudyMatePlus/issues/538) |
-| Bug: "Download Notes (PDF)" button at the bottom of the Analytics page is not working | Medium | [#537](https://github.com/lovelymahor/StudyMatePlus/issues/537) |
-| Fix Mobile Navbar Layout Overflow and Improve Responsiveness | Medium | [#536](https://github.com/lovelymahor/StudyMatePlus/issues/536) |
-| feat: Add Study Streak Tracker and Achievement Badges (Fixes #520) | Medium | [#535](https://github.com/lovelymahor/StudyMatePlus/pull/535) |
-| Bug: Clicking "Mentorship" in the FAQ footer redirects to a blank white page | Medium | [#534](https://github.com/lovelymahor/StudyMatePlus/issues/534) |
-| fix: Download Notes button opens local HTML file instead of actual PDF | Medium | [#533](https://github.com/lovelymahor/StudyMatePlus/issues/533) |
-| fix: resolve frontend compilation and build issues | Medium | [#532](https://github.com/lovelymahor/StudyMatePlus/pull/532) |
-| Frontend fails to compile due to unclosed CSS block in Navbar.css | Medium | [#531](https://github.com/lovelymahor/StudyMatePlus/issues/531) |
-| User Profile Avatar Not Displayed Despite Profile Data Loading Successfully | Medium | [#530](https://github.com/lovelymahor/StudyMatePlus/issues/530) |
-| Title: Redesign Navbar Typography and Improve Navigation UX | Medium | [#528](https://github.com/lovelymahor/StudyMatePlus/issues/528) |
-| fix: resolve timezone shifting bug in Todo deadline #488 | Medium | [#527](https://github.com/lovelymahor/StudyMatePlus/pull/527) |
-| Documentation: Add comprehensive CODE_OF_CONDUCT.md for community standards | Medium | [#526](https://github.com/lovelymahor/StudyMatePlus/issues/526) |
-| bug/ux: Low text contrast and accessibility issues in Stats Banner subtitle labels | Medium | [#525](https://github.com/lovelymahor/StudyMatePlus/issues/525) |
-| Add ARIA Label to Floating Back-to-Top Button | Medium | [#524](https://github.com/lovelymahor/StudyMatePlus/issues/524) |
-| Documentatio]: Add comprehensive CODE_OF_CONDUCT.md for community standards | Medium | [#523](https://github.com/lovelymahor/StudyMatePlus/issues/523) |
-| Fix testimonial carousel card visibility and improve homepage spacing | Medium | [#522](https://github.com/lovelymahor/StudyMatePlus/issues/522) |
 
 ---
 
