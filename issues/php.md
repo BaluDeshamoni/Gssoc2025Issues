@@ -51,6 +51,7 @@
 | Proper Alignment of Header in the Main page | Easy | [#7](https://github.com/komalkhatod1105/One-Stop-Guide/issues/7) |
 | Revamp Header, Cards, Footer & Hover Interactions for Better Interactivity and Engagement | Easy | [#5](https://github.com/komalkhatod1105/One-Stop-Guide/issues/5) |
 | Feature : Add "Plan Your Trip" Itinerary Builder | Easy | [#4](https://github.com/komalkhatod1105/One-Stop-Guide/issues/4) |
+| Key Issue Categories | Medium | [#52](https://github.com/komalkhatod1105/One-Stop-Guide/issues/52) |
 | Add: added new city shimla.html | Medium | [#48](https://github.com/komalkhatod1105/One-Stop-Guide/pull/48) |
 | show more button of city site is not working properly | Medium | [#47](https://github.com/komalkhatod1105/One-Stop-Guide/issues/47) |
 | Suggestion: Add "About Us" Page to the Website | Medium | [#44](https://github.com/komalkhatod1105/One-Stop-Guide/issues/44) |
