@@ -1186,7 +1186,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Issue overlaping side bar layout on docs | Easy | [#1900](https://github.com/recodehive/recode-website/issues/1900) |
+| chore: bump lucide-react from 0.503.0 to 1.21.0 | Easy | [#1913](https://github.com/recodehive/recode-website/pull/1913) |
+| chore: bump @clerk/react from 6.10.0 to 6.10.2 | Easy | [#1912](https://github.com/recodehive/recode-website/pull/1912) |
 | issues available to work with | Easy | [#1840](https://github.com/recodehive/recode-website/issues/1840) |
 
 ---
@@ -1445,6 +1446,13 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Downgrade dotenv package version to 16.4.5 | Medium | [#556](https://github.com/aayushraj1010/med-genie/pull/556) |
+| Contact Us and FAQ link is static and doesn't render to any webpage | Medium | [#555](https://github.com/aayushraj1010/med-genie/issues/555) |
+| Bug :Navbar Overlaps Hero Section Content on Multiple Pages | Medium | [#554](https://github.com/aayushraj1010/med-genie/issues/554) |
+| DOC : Add a FAQ section to contributing.md file | Medium | [#553](https://github.com/aayushraj1010/med-genie/issues/553) |
+| fix: improve VoiceSearch error handling and UX feedback | Medium | [#552](https://github.com/aayushraj1010/med-genie/pull/552) |
+| Optimize index.html with standard SEO and responsive viewport meta tags | Medium | [#551](https://github.com/aayushraj1010/med-genie/issues/551) |
+| fix: chatbot returns error on every query — add API key validation and error handling (#265, #359) | Medium | [#550](https://github.com/aayushraj1010/med-genie/pull/550) |
 | Build medical-grade testing framework with automated compliance checks and monitoring | Medium | [#549](https://github.com/aayushraj1010/med-genie/issues/549) |
 | Enhance user experience with medical visualizations, voice input, and accessibility features | Medium | [#548](https://github.com/aayushraj1010/med-genie/issues/548) |
 | Implement HIPAA-compliant medical data encryption and patient privacy controls | Medium | [#547](https://github.com/aayushraj1010/med-genie/issues/547) |
@@ -1468,13 +1476,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Navigation bar layout misalignment and overlap issue | Medium | [#529](https://github.com/aayushraj1010/med-genie/issues/529) |
 | Proposal: Add Symptom Classification Model and Medical Handbook RAG Pipeline | Medium | [#528](https://github.com/aayushraj1010/med-genie/issues/528) |
 | feat(ci): introduce CodeQL-based SAST pipeline for JavaScript/TypeScript | Medium | [#527](https://github.com/aayushraj1010/med-genie/issues/527) |
-| Improve VoiceSearch reliability with error handling and fallback support | Medium | [#526](https://github.com/aayushraj1010/med-genie/issues/526) |
-| fix: implement emergency alert escalation for critical health conditions | Medium | [#525](https://github.com/aayushraj1010/med-genie/pull/525) |
-| feat: Add Location-Based Nearby Hospital Finder | Medium | [#524](https://github.com/aayushraj1010/med-genie/issues/524) |
-| Feature Request: Add PDF Export Functionality for Medical Reports | Medium | [#523](https://github.com/aayushraj1010/med-genie/issues/523) |
-| Fix Contradiction Between Privacy Policy and User Data Storage Claims | Medium | [#522](https://github.com/aayushraj1010/med-genie/issues/522) |
-| Add RAG-based Medical Knowledge Assistant using LangChain + FAISS | Medium | [#521](https://github.com/aayushraj1010/med-genie/issues/521) |
-| first commit | Medium | [#520](https://github.com/aayushraj1010/med-genie/pull/520) |
 
 ---
 
@@ -2009,6 +2010,26 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Feat: The website is too generic and doesn't give the vibe | Medium | [#580](https://github.com/lovelymahor/StudyMatePlus/issues/580) |
+| feat: Add Scroll-to-Top Button Component | Fixes #576 | Medium | [#579](https://github.com/lovelymahor/StudyMatePlus/pull/579) |
+| Inconsistent Section Spacing, Overlapping Floating Cards, and Button Styling | Medium | [#578](https://github.com/lovelymahor/StudyMatePlus/issues/578) |
+| Docs : Add FAQ section to contributing.md file | Medium | [#577](https://github.com/lovelymahor/StudyMatePlus/issues/577) |
+| Add Scroll-to-Top Button Component for Better Navigation UX | Medium | [#576](https://github.com/lovelymahor/StudyMatePlus/issues/576) |
+| Feature:- I want add my university syllabus | Medium | [#575](https://github.com/lovelymahor/StudyMatePlus/issues/575) |
+| contact feature is not not implement properly | Medium | [#574](https://github.com/lovelymahor/StudyMatePlus/issues/574) |
+| Clean up: Remove AI generated "Next Steps" from CONTRIBUTING.md | Medium | [#573](https://github.com/lovelymahor/StudyMatePlus/pull/573) |
+| Remove AI generated template instructions from CONTRIBUTING.md | Medium | [#572](https://github.com/lovelymahor/StudyMatePlus/issues/572) |
+| Feature Request: AMOLED-Optimized "Late Night Study" Dark Theme | Medium | [#571](https://github.com/lovelymahor/StudyMatePlus/issues/571) |
+| Improve text visibility for statistics section in dark mode | Medium | [#570](https://github.com/lovelymahor/StudyMatePlus/issues/570) |
+| Optimize index.html with standard SEO and responsive viewport meta tags | Medium | [#569](https://github.com/lovelymahor/StudyMatePlus/issues/569) |
+| Fixed-Readme | Medium | [#568](https://github.com/lovelymahor/StudyMatePlus/pull/568) |
+| good to hide the topbar when  scrolling down | Medium | [#567](https://github.com/lovelymahor/StudyMatePlus/issues/567) |
+| Refactor routing and component imports in App.js | Medium | [#566](https://github.com/lovelymahor/StudyMatePlus/pull/566) |
+| Insufficient User Guidance and Navigation for New Users | Medium | [#565](https://github.com/lovelymahor/StudyMatePlus/issues/565) |
+| fix: resolve contact contrast issue, upgrade to icons, and fix broken merge conflict syntax | Medium | [#564](https://github.com/lovelymahor/StudyMatePlus/pull/564) |
+| BUG: "View" button is completely unresponsive on PYQ page. | Medium | [#563](https://github.com/lovelymahor/StudyMatePlus/issues/563) |
+| Edit Profile button is non-functional — no form or handler connected | Medium | [#562](https://github.com/lovelymahor/StudyMatePlus/issues/562) |
+| Default profile picture not showing when no image is uploaded | Medium | [#561](https://github.com/lovelymahor/StudyMatePlus/issues/561) |
 | 🐛 Bug Report: Footer Social Links Redirect Incorrectly | Medium | [#560](https://github.com/lovelymahor/StudyMatePlus/issues/560) |
 | fix(build & UX): resolve merge-conflict/package errors and improve PYQs filtering experience | Medium | [#559](https://github.com/lovelymahor/StudyMatePlus/issues/559) |
 | Feat: Add dark mode for better visibility | Medium | [#558](https://github.com/lovelymahor/StudyMatePlus/issues/558) |
@@ -2019,26 +2040,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Add Resource Rating System for Notes and PYQs | Medium | [#552](https://github.com/lovelymahor/StudyMatePlus/issues/552) |
 | fix: Unresponsive "View" button and static/dummy data on the PYQs page | Medium | [#551](https://github.com/lovelymahor/StudyMatePlus/issues/551) |
 | feat: Add a custom styled 404 Error page for undefined routes | Medium | [#550](https://github.com/lovelymahor/StudyMatePlus/issues/550) |
-| fix: "Upload Resource" button on the Notes page is not working | Medium | [#549](https://github.com/lovelymahor/StudyMatePlus/issues/549) |
-| fix: "Preview" buttons on Syllabus and Notes cards are unresponsive | Medium | [#548](https://github.com/lovelymahor/StudyMatePlus/issues/548) |
-| Implement Interactive Feedback Modal for "Submit Your Feedback" Button | Medium | [#547](https://github.com/lovelymahor/StudyMatePlus/issues/547) |
-| Low Contrast / Unreadable Social Media Links under "Follow Us" | Medium | [#546](https://github.com/lovelymahor/StudyMatePlus/issues/546) |
-| Token refresh request deduplication during concurrent access token expiration | Medium | [#545](https://github.com/lovelymahor/StudyMatePlus/issues/545) |
-| Improve social Icons | Medium | [#544](https://github.com/lovelymahor/StudyMatePlus/pull/544) |
-| fix: package.json has invalid JSON and duplicate dependencies | Medium | [#543](https://github.com/lovelymahor/StudyMatePlus/issues/543) |
-| feat: Add Study Streak Tracker and Achievement Badges (Fixes #520) | Medium | [#542](https://github.com/lovelymahor/StudyMatePlus/pull/542) |
-| fix: clean up CONTRIBUTING.md contributor guidance | Medium | [#541](https://github.com/lovelymahor/StudyMatePlus/pull/541) |
-| Fix Non-Functional PYQ View Button | Medium | [#539](https://github.com/lovelymahor/StudyMatePlus/issues/539) |
-| CONTRIBUTING.md contains repository setup instructions intended for maintainers | Medium | [#538](https://github.com/lovelymahor/StudyMatePlus/issues/538) |
-| Bug: "Download Notes (PDF)" button at the bottom of the Analytics page is not working | Medium | [#537](https://github.com/lovelymahor/StudyMatePlus/issues/537) |
-| Fix Mobile Navbar Layout Overflow and Improve Responsiveness | Medium | [#536](https://github.com/lovelymahor/StudyMatePlus/issues/536) |
-| feat: Add Study Streak Tracker and Achievement Badges (Fixes #520) | Medium | [#535](https://github.com/lovelymahor/StudyMatePlus/pull/535) |
-| Bug: Clicking "Mentorship" in the FAQ footer redirects to a blank white page | Medium | [#534](https://github.com/lovelymahor/StudyMatePlus/issues/534) |
-| fix: Download Notes button opens local HTML file instead of actual PDF | Medium | [#533](https://github.com/lovelymahor/StudyMatePlus/issues/533) |
-| fix: resolve frontend compilation and build issues | Medium | [#532](https://github.com/lovelymahor/StudyMatePlus/pull/532) |
-| Frontend fails to compile due to unclosed CSS block in Navbar.css | Medium | [#531](https://github.com/lovelymahor/StudyMatePlus/issues/531) |
-| User Profile Avatar Not Displayed Despite Profile Data Loading Successfully | Medium | [#530](https://github.com/lovelymahor/StudyMatePlus/issues/530) |
-| Title: Redesign Navbar Typography and Improve Navigation UX | Medium | [#528](https://github.com/lovelymahor/StudyMatePlus/issues/528) |
 
 ---
 
