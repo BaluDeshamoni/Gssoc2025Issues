@@ -208,28 +208,24 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add mentroship modules data sync cron job | Easy | [#4854](https://github.com/OWASP/Nest/pull/4854) |
+| feat: automate snapshot creation and scheduling | Easy | [#4938](https://github.com/OWASP/Nest/pull/4938) |
+| fix: handle invalid search query validation errors | Medium | [#4984](https://github.com/OWASP/Nest/pull/4984) |
+| chore(deps): bump isomorphic-dompurify in /frontend | Medium | [#4983](https://github.com/OWASP/Nest/pull/4983) |
+| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#4982](https://github.com/OWASP/Nest/pull/4982) |
+| chore(deps): bump the version-updates group across 2 directories with 1 update | Medium | [#4981](https://github.com/OWASP/Nest/pull/4981) |
+| strip_markdown() only removes bold, leaving italic/strikethrough/code markers in the plain text output | Medium | [#4973](https://github.com/OWASP/Nest/issues/4973) |
+| Add check to prevent github actions from running in forked repository | Medium | [#4968](https://github.com/OWASP/Nest/issues/4968) |
+| Implement GraphQL queries for contributor recognition certificate pages | Medium | [#4962](https://github.com/OWASP/Nest/pull/4962) |
+| fix: read Slack credentials from .env in local build | Medium | [#4956](https://github.com/OWASP/Nest/pull/4956) |
+| feat: add ClusterFuzzLite QueryParser fuzz target | Medium | [#4953](https://github.com/OWASP/Nest/pull/4953) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4943](https://github.com/OWASP/Nest/pull/4943) |
+| Improve header accessibility and keyboard navigation support. Resolves #4804 | Medium | [#4935](https://github.com/OWASP/Nest/pull/4935) |
+| Implement certificate metadata issuance system | Medium | [#4922](https://github.com/OWASP/Nest/pull/4922) |
+| feat(snapshots): refactor snapshot details frontend | Medium | [#4914](https://github.com/OWASP/Nest/pull/4914) |
+| Display repository last updated date on repository cards | Medium | [#4912](https://github.com/OWASP/Nest/issues/4912) |
 | Repository GraphQL fields `issues` and `releases` return only recent items | Medium | [#4895](https://github.com/OWASP/Nest/issues/4895) |
-| chore(deps): bump posthog-js in /frontend | Medium | [#4894](https://github.com/OWASP/Nest/pull/4894) |
-| chore(deps): bump docker/build-push-action from 7.1.0 to 7.2.0 in the version-updates group across 1 directory | Medium | [#4893](https://github.com/OWASP/Nest/pull/4893) |
-| chore(deps): bump @apollo/client in /frontend | Medium | [#4892](https://github.com/OWASP/Nest/pull/4892) |
-| chore(deps): bump the version-updates group across 3 directories with 2 updates | Medium | [#4891](https://github.com/OWASP/Nest/pull/4891) |
-| fix(ChapterMap): correct cursor display on non-interactive areas | Medium | [#4890](https://github.com/OWASP/Nest/pull/4890) |
 | feat: Wrap breadcrumb in <nav> landmark for screen reader navigation | Medium | [#4889](https://github.com/OWASP/Nest/issues/4889) |
 | feat: Add structured logging and Sentry tracing to AI agent workflows | Medium | [#4888](https://github.com/OWASP/Nest/issues/4888) |
-| Migrate to arm64 architecture | Medium | [#4887](https://github.com/OWASP/Nest/pull/4887) |
-| Potential duplicate OWASP question classification in NestBot auto-reply flow | Medium | [#4870](https://github.com/OWASP/Nest/issues/4870) |
-| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4866](https://github.com/OWASP/Nest/pull/4866) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4862](https://github.com/OWASP/Nest/pull/4862) |
-| feat: post threaded resolution reply when invite link is updated on GitHub | Medium | [#4861](https://github.com/OWASP/Nest/pull/4861) |
-| Evaluate AWS ARM64 Migration for Production and Staging Environments | Medium | [#4853](https://github.com/OWASP/Nest/issues/4853) |
-| Update logic on how to fetch modules for mentors | Medium | [#4847](https://github.com/OWASP/Nest/pull/4847) |
-| feat: Desktop navigation dropdown should move keyboard focus to first submenu item when opened | Medium | [#4844](https://github.com/OWASP/Nest/issues/4844) |
-| Implement contribution score calculation | Medium | [#4842](https://github.com/OWASP/Nest/pull/4842) |
-| Removing `undefined` type or `?` specifier. | Medium | [#4833](https://github.com/OWASP/Nest/issues/4833) |
-| Implement GraphQL Queries for Candidate Claim Data | Medium | [#4832](https://github.com/OWASP/Nest/pull/4832) |
-| Extend snapshot processing and GraphQL API for new entity types | Medium | [#4831](https://github.com/OWASP/Nest/pull/4831) |
-| NestBot auto reply re-processes AI responses before posting | Medium | [#4828](https://github.com/OWASP/Nest/issues/4828) |
 
 ---
 
@@ -578,7 +574,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve blog page functionality issues | Medium | [#1861](https://github.com/omroy07/AgriTech/pull/1861) |
+| fix: resolve cart visibility issue | Medium | [#1863](https://github.com/omroy07/AgriTech/pull/1863) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
 | Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
@@ -1070,36 +1066,36 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: complete forgot password and reset password flow | Medium | [#518](https://github.com/aayushraj1010/med-genie/pull/518) |
-| feat: implement next-themes for robust dark mode management | Medium | [#517](https://github.com/aayushraj1010/med-genie/pull/517) |
-| Feature/chat history sync | Medium | [#516](https://github.com/aayushraj1010/med-genie/pull/516) |
-| Feature/wcag accessibility | Medium | [#515](https://github.com/aayushraj1010/med-genie/pull/515) |
-| Feature/user profile page | Medium | [#514](https://github.com/aayushraj1010/med-genie/pull/514) |
-| Feature/health reminders | Medium | [#513](https://github.com/aayushraj1010/med-genie/pull/513) |
-| Feature/nearby hospitals | Medium | [#512](https://github.com/aayushraj1010/med-genie/pull/512) |
-| Feature/typing indicator | Medium | [#511](https://github.com/aayushraj1010/med-genie/pull/511) |
-| Feature/chat history | Medium | [#510](https://github.com/aayushraj1010/med-genie/pull/510) |
-| feat: add multi-language support (i18n) using react-i18next | Medium | [#509](https://github.com/aayushraj1010/med-genie/pull/509) |
-| Reset Chat Button Logs Out User Instead of Only Clearing Conversation | Medium | [#508](https://github.com/aayushraj1010/med-genie/issues/508) |
-| Add Client-Side Search Functionality for Past Chat Sessions | Medium | [#507](https://github.com/aayushraj1010/med-genie/issues/507) |
-| Add Markdown Rendering and Code/Text Copy Functionality for Chat Chatbot Responses | Medium | [#506](https://github.com/aayushraj1010/med-genie/issues/506) |
-| Race Condition in CLI Config Updates & Lack of Atomic Write Strategy Leading to File Corruption | Medium | [#505](https://github.com/aayushraj1010/med-genie/issues/505) |
-| fix: Multiple Critical Issues: Build failures, Security Vulnerabilities, and Hydration Errors bug Something isn't working | Medium | [#504](https://github.com/aayushraj1010/med-genie/pull/504) |
-| fix: improve timeline flow alignment in How Med Genie Helps You section | Medium | [#503](https://github.com/aayushraj1010/med-genie/pull/503) |
-| UI Improvement: Fix Timeline Flow Alignment in "How Med Genie Helps You" Section | Medium | [#502](https://github.com/aayushraj1010/med-genie/issues/502) |
-| docs: add Table of Contents and Contributors section with contrib.rocks badge | Medium | [#501](https://github.com/aayushraj1010/med-genie/issues/501) |
-| Bug: User allergies not checked, providing unsafe recommendations | Medium | [#500](https://github.com/aayushraj1010/med-genie/issues/500) |
-| Bug: Health data not encrypted, violating privacy and HIPAA compliance | Medium | [#499](https://github.com/aayushraj1010/med-genie/issues/499) |
-| Bug: Emergency health conditions not detected, missing critical escalation | Medium | [#498](https://github.com/aayushraj1010/med-genie/issues/498) |
-| Bug: Medication interactions not checked, providing unsafe health advice | Medium | [#497](https://github.com/aayushraj1010/med-genie/issues/497) |
-| Bug: AI health information not clearly distinguished from medical advice, creating liability | Medium | [#496](https://github.com/aayushraj1010/med-genie/issues/496) |
-| Minor UI polish and a11y improvements | Medium | [#495](https://github.com/aayushraj1010/med-genie/pull/495) |
-| Broken Demo Navigation, Inaccessible Chat Interface, and Google OAuth Authentication Failure | Medium | [#494](https://github.com/aayushraj1010/med-genie/issues/494) |
-| Newsletter subscription returns "Internal server error" when submitting a valid email | Medium | [#493](https://github.com/aayushraj1010/med-genie/issues/493) |
-| Add Dockerfile and Docker Compose orchestration for unified local development | Medium | [#492](https://github.com/aayushraj1010/med-genie/issues/492) |
-| Feat: Automated Vitals Trend Visualizer & Responsive Clinical Notation Companion | Medium | [#491](https://github.com/aayushraj1010/med-genie/issues/491) |
-| Add BMI Calculator Component to Med-Genie Dashboard | Medium | [#490](https://github.com/aayushraj1010/med-genie/issues/490) |
-| [Feature]: Add Multi-language Support (Hindi, Tamil, Bengali) | Medium | [#489](https://github.com/aayushraj1010/med-genie/issues/489) |
+| Downgrade dotenv package version to 16.4.5 | Medium | [#556](https://github.com/aayushraj1010/med-genie/pull/556) |
+| Contact Us and FAQ link is static and doesn't render to any webpage | Medium | [#555](https://github.com/aayushraj1010/med-genie/issues/555) |
+| Bug :Navbar Overlaps Hero Section Content on Multiple Pages | Medium | [#554](https://github.com/aayushraj1010/med-genie/issues/554) |
+| DOC : Add a FAQ section to contributing.md file | Medium | [#553](https://github.com/aayushraj1010/med-genie/issues/553) |
+| fix: improve VoiceSearch error handling and UX feedback | Medium | [#552](https://github.com/aayushraj1010/med-genie/pull/552) |
+| Optimize index.html with standard SEO and responsive viewport meta tags | Medium | [#551](https://github.com/aayushraj1010/med-genie/issues/551) |
+| fix: chatbot returns error on every query — add API key validation and error handling (#265, #359) | Medium | [#550](https://github.com/aayushraj1010/med-genie/pull/550) |
+| Build medical-grade testing framework with automated compliance checks and monitoring | Medium | [#549](https://github.com/aayushraj1010/med-genie/issues/549) |
+| Enhance user experience with medical visualizations, voice input, and accessibility features | Medium | [#548](https://github.com/aayushraj1010/med-genie/issues/548) |
+| Implement HIPAA-compliant medical data encryption and patient privacy controls | Medium | [#547](https://github.com/aayushraj1010/med-genie/issues/547) |
+| Optimize medical data processing with parallel computation and caching strategies | Medium | [#546](https://github.com/aayushraj1010/med-genie/issues/546) |
+| Implement comprehensive symptom checker with AI diagnosis and specialist recommendations | Medium | [#545](https://github.com/aayushraj1010/med-genie/issues/545) |
+| Add Persistent Medical Disclaimer Banner Inside Chat Interface | Medium | [#544](https://github.com/aayushraj1010/med-genie/issues/544) |
+| Find Specialist feature returns identical recommendations for different symptoms and is accessible without authentication | Medium | [#543](https://github.com/aayushraj1010/med-genie/issues/543) |
+| "Our Process" navbar link does not scroll to any section | Medium | [#542](https://github.com/aayushraj1010/med-genie/issues/542) |
+| Footer Quick Links – "How it Works" and "FAQs" are not navigating correctly | Medium | [#541](https://github.com/aayushraj1010/med-genie/issues/541) |
+| Bug: Account lockout never triggers — lockedUntil is incremented but never set | Medium | [#540](https://github.com/aayushraj1010/med-genie/issues/540) |
+| Bug: Token refresh endpoint returns access token with empty email and name fields | Medium | [#539](https://github.com/aayushraj1010/med-genie/issues/539) |
+| Bug: Token logout does not revoke access — blacklistToken() is an unimplemented stub | Medium | [#538](https://github.com/aayushraj1010/med-genie/issues/538) |
+| Security: JWT_SECRET exposed to client-side bundle via next.config.ts env block | Medium | [#537](https://github.com/aayushraj1010/med-genie/issues/537) |
+| Security: /api/agent endpoint has no authentication — open to unauthenticated abuse | Medium | [#536](https://github.com/aayushraj1010/med-genie/issues/536) |
+| Security: eval() in CalculatorTool enables Remote Code Execution (RCE) | Medium | [#535](https://github.com/aayushraj1010/med-genie/issues/535) |
+| PWA Manifest References Missing Icon Resource Causing 404 Errors | Medium | [#534](https://github.com/aayushraj1010/med-genie/issues/534) |
+| Feature: The assistant should work equally well even if there is poor internet connectivity | Medium | [#533](https://github.com/aayushraj1010/med-genie/issues/533) |
+| docs: update README with latest website screenshots | Medium | [#532](https://github.com/aayushraj1010/med-genie/pull/532) |
+| Bug: "How it Works" and "FAQs" links in the footer are not redirecting | Medium | [#531](https://github.com/aayushraj1010/med-genie/issues/531) |
+| Safety Support for Emergency, Mental Health and Local healthcare support | Medium | [#530](https://github.com/aayushraj1010/med-genie/issues/530) |
+| Navigation bar layout misalignment and overlap issue | Medium | [#529](https://github.com/aayushraj1010/med-genie/issues/529) |
+| Proposal: Add Symptom Classification Model and Medical Handbook RAG Pipeline | Medium | [#528](https://github.com/aayushraj1010/med-genie/issues/528) |
+| feat(ci): introduce CodeQL-based SAST pipeline for JavaScript/TypeScript | Medium | [#527](https://github.com/aayushraj1010/med-genie/issues/527) |
 
 ---
 
@@ -1184,11 +1180,13 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| XSS Vulnerability: Unsanitized Code Rendered via dangerouslySetInnerHTML | Medium | [#186](https://github.com/Xenonesis/code-guardian-report/issues/186) |
+| chore(deps): bump the dev-dependencies group with 6 updates | Medium | [#185](https://github.com/Xenonesis/code-guardian-report/pull/185) |
+| chore(deps): bump the production-dependencies group with 9 updates | Medium | [#184](https://github.com/Xenonesis/code-guardian-report/pull/184) |
 | feat: update user profile page to display complete user information | Medium | [#173](https://github.com/Xenonesis/code-guardian-report/pull/173) |
 | chore(deps): bump @types/bcryptjs from 2.4.6 to 3.0.0 | Medium | [#171](https://github.com/Xenonesis/code-guardian-report/pull/171) |
 | chore(deps): bump @eslint/js from 9.39.4 to 10.0.1 | Medium | [#170](https://github.com/Xenonesis/code-guardian-report/pull/170) |
 | chore(deps): bump @eslint/markdown from 7.5.1 to 8.0.1 | Medium | [#169](https://github.com/Xenonesis/code-guardian-report/pull/169) |
-| chore(deps): bump eslint from 9.39.4 to 10.4.0 | Medium | [#168](https://github.com/Xenonesis/code-guardian-report/pull/168) |
 | Title: TypeScript: Replace implicit 'any' usage in core services | Medium | [#142](https://github.com/Xenonesis/code-guardian-report/issues/142) |
 | Title: Refactor: Remove legacy Jest dependencies and config | Medium | [#141](https://github.com/Xenonesis/code-guardian-report/issues/141) |
 | Title: Docs: Synchronize CONTRIBUTING.md with current Next.js/React stack | Medium | [#140](https://github.com/Xenonesis/code-guardian-report/issues/140) |
@@ -1205,7 +1203,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add SECURITY.md to Define Vulnerability Reporting Process | Medium | [#106](https://github.com/Xenonesis/code-guardian-report/issues/106) |
 | 🐞 UI/UX Issue: Login / Get Started Opens Blurred Overlay Modal Instead of Dedicated Auth Page | Medium | [#105](https://github.com/Xenonesis/code-guardian-report/issues/105) |
 | UI Redesign: Homepage & Footer | Medium | [#104](https://github.com/Xenonesis/code-guardian-report/issues/104) |
-| docs: fix Getting Started instructions and clarify setup | Medium | [#102](https://github.com/Xenonesis/code-guardian-report/pull/102) |
 
 ---
 
