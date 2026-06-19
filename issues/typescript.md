@@ -68,6 +68,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump @babel/core from 7.28.4 to 7.29.7 in /DevElevate/Client | Medium | [#761](https://github.com/abhisek2004/Dev-Elevate/pull/761) |
+| Bump the npm_and_yarn group across 2 directories with 5 updates | Medium | [#760](https://github.com/abhisek2004/Dev-Elevate/pull/760) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -91,30 +93,24 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add mentroship modules data sync cron job | Easy | [#4854](https://github.com/OWASP/Nest/pull/4854) |
-| chore(deps-dev): bump @graphql-codegen/near-operation-file-preset in /frontend | Medium | [#4867](https://github.com/OWASP/Nest/pull/4867) |
-| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4866](https://github.com/OWASP/Nest/pull/4866) |
-| chore(deps): bump tailwind-merge in /frontend | Medium | [#4865](https://github.com/OWASP/Nest/pull/4865) |
-| chore(deps): bump posthog-js in /frontend | Medium | [#4864](https://github.com/OWASP/Nest/pull/4864) |
-| chore(deps): bump the version-updates group across 1 directory with 3 updates | Medium | [#4863](https://github.com/OWASP/Nest/pull/4863) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4862](https://github.com/OWASP/Nest/pull/4862) |
-| feat: post threaded resolution reply when invite link is updated on GitHub | Medium | [#4861](https://github.com/OWASP/Nest/pull/4861) |
-| chore(deps): bump strawberry-graphql-django in / | Medium | [#4860](https://github.com/OWASP/Nest/pull/4860) |
-| chore(deps): bump https://github.com/pre-commit/mirrors-mypy in / | Medium | [#4859](https://github.com/OWASP/Nest/pull/4859) |
-| chore(deps): bump https://github.com/djlint/djLint in / | Medium | [#4858](https://github.com/OWASP/Nest/pull/4858) |
-| chore(deps): bump https://github.com/astral-sh/ruff-pre-commit in / | Medium | [#4857](https://github.com/OWASP/Nest/pull/4857) |
-| chore(deps): bump https://github.com/antonbabenko/pre-commit-terraform in / | Medium | [#4856](https://github.com/OWASP/Nest/pull/4856) |
-| feat: add actionlint for workflow file linting | Medium | [#4855](https://github.com/OWASP/Nest/pull/4855) |
-| Evaluate AWS ARM64 Migration for Production and Staging Environments | Medium | [#4853](https://github.com/OWASP/Nest/issues/4853) |
-| Update logic on how to fetch modules for mentors | Medium | [#4847](https://github.com/OWASP/Nest/pull/4847) |
-| feat: Desktop navigation dropdown should move keyboard focus to first submenu item when opened | Medium | [#4844](https://github.com/OWASP/Nest/issues/4844) |
-| Implement contribution score calculation | Medium | [#4842](https://github.com/OWASP/Nest/pull/4842) |
-| Removing `undefined` type or `?` specifier. | Medium | [#4833](https://github.com/OWASP/Nest/issues/4833) |
-| Implement GraphQL Queries for Candidate Claim Data | Medium | [#4832](https://github.com/OWASP/Nest/pull/4832) |
-| Extend snapshot processing and GraphQL API for new entity types | Medium | [#4831](https://github.com/OWASP/Nest/pull/4831) |
-| NestBot auto reply re-processes AI responses before posting | Medium | [#4828](https://github.com/OWASP/Nest/issues/4828) |
-| Implement GraphQL Mutations for Candidate Claim Data | Medium | [#4806](https://github.com/OWASP/Nest/pull/4806) |
-| Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
+| feat: automate snapshot creation and scheduling | Easy | [#4938](https://github.com/OWASP/Nest/pull/4938) |
+| fix: handle invalid search query validation errors | Medium | [#4984](https://github.com/OWASP/Nest/pull/4984) |
+| chore(deps): bump isomorphic-dompurify in /frontend | Medium | [#4983](https://github.com/OWASP/Nest/pull/4983) |
+| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#4982](https://github.com/OWASP/Nest/pull/4982) |
+| chore(deps): bump the version-updates group across 2 directories with 1 update | Medium | [#4981](https://github.com/OWASP/Nest/pull/4981) |
+| strip_markdown() only removes bold, leaving italic/strikethrough/code markers in the plain text output | Medium | [#4973](https://github.com/OWASP/Nest/issues/4973) |
+| Add check to prevent github actions from running in forked repository | Medium | [#4968](https://github.com/OWASP/Nest/issues/4968) |
+| Implement GraphQL queries for contributor recognition certificate pages | Medium | [#4962](https://github.com/OWASP/Nest/pull/4962) |
+| fix: read Slack credentials from .env in local build | Medium | [#4956](https://github.com/OWASP/Nest/pull/4956) |
+| feat: add ClusterFuzzLite QueryParser fuzz target | Medium | [#4953](https://github.com/OWASP/Nest/pull/4953) |
+| chore(deps): bump @heroui/react in /frontend | Medium | [#4943](https://github.com/OWASP/Nest/pull/4943) |
+| Improve header accessibility and keyboard navigation support. Resolves #4804 | Medium | [#4935](https://github.com/OWASP/Nest/pull/4935) |
+| Implement certificate metadata issuance system | Medium | [#4922](https://github.com/OWASP/Nest/pull/4922) |
+| feat(snapshots): refactor snapshot details frontend | Medium | [#4914](https://github.com/OWASP/Nest/pull/4914) |
+| Display repository last updated date on repository cards | Medium | [#4912](https://github.com/OWASP/Nest/issues/4912) |
+| Repository GraphQL fields `issues` and `releases` return only recent items | Medium | [#4895](https://github.com/OWASP/Nest/issues/4895) |
+| feat: Wrap breadcrumb in <nav> landmark for screen reader navigation | Medium | [#4889](https://github.com/OWASP/Nest/issues/4889) |
+| feat: Add structured logging and Sentry tracing to AI agent workflows | Medium | [#4888](https://github.com/OWASP/Nest/issues/4888) |
 
 ---
 
@@ -648,11 +644,15 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: prevent quest slot overbooking | Medium | [#398](https://github.com/LarytheLord/Adventurers-Guild/pull/398) |
+| fix: Admin QA reject/approve now calls syncQuestLifecycleStatus (#330) | Medium | [#387](https://github.com/LarytheLord/Adventurers-Guild/pull/387) |
+| fix: QA approval now properly awards XP and creates QuestCompletion (#317) | Medium | [#384](https://github.com/LarytheLord/Adventurers-Guild/pull/384) |
+| fix: /api/errors/log is unauthenticated — open to log injection and DB flooding | Medium | [#342](https://github.com/LarytheLord/Adventurers-Guild/issues/342) |
+| fix: Admin QA reject/approve skips syncQuestLifecycleStatus — quest status stuck after admin action | Medium | [#330](https://github.com/LarytheLord/Adventurers-Guild/issues/330) |
+| fix: Company quest edit ownership check is client-side only — full quest data leaks before redirect | Medium | [#327](https://github.com/LarytheLord/Adventurers-Guild/issues/327) |
+| fix: XP reward runs outside DB transaction — adventurer permanently loses XP if second write fails | Medium | [#324](https://github.com/LarytheLord/Adventurers-Guild/issues/324) |
 | Razorpay contact route uses placeholder phone number | Medium | [#261](https://github.com/LarytheLord/Adventurers-Guild/issues/261) |
-| Missing /api/quests/assignments/[id] endpoint — single assignment update not possible | Medium | [#258](https://github.com/LarytheLord/Adventurers-Guild/issues/258) |
 | CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
-| CRITICAL: Public quest detail page doesn't allow logged-in adventurers to claim quests | Medium | [#256](https://github.com/LarytheLord/Adventurers-Guild/issues/256) |
-| feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
 | Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
 | feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
@@ -660,8 +660,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 | NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
-| Inconsistent field naming in /api/users/me/quests — 'quests' should be 'quest' | Hard | [#260](https://github.com/LarytheLord/Adventurers-Guild/issues/260) |
-| Dead code: quest-utils.ts, quest-submission-dialog.tsx, and QuestForm.tsx not used anywhere | Hard | [#259](https://github.com/LarytheLord/Adventurers-Guild/issues/259) |
 
 ---
 
@@ -704,7 +702,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: enhance fingerprinting system with audio_v2, canvas_v2, WebGL2, and spoofing detection | Medium | [#91](https://github.com/IntegerAlex/fingerprint-oss/pull/91) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
 | Stabilization in Hash generation | Hard | [#61](https://github.com/IntegerAlex/fingerprint-oss/pull/61) |
 
@@ -891,9 +888,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix Text Clipping Issue Across Multiple Sections of the Website | Medium | [#58](https://github.com/Jyotibrat/AI-Flow/issues/58) |
 | Add One-Click Copy Button for AI Responses | Medium | [#57](https://github.com/Jyotibrat/AI-Flow/issues/57) |
-| Feature/schedulex calendar feature | Medium | [#21](https://github.com/Jyotibrat/AI-Flow/pull/21) |
 
 ---
 
@@ -993,30 +988,6 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | Add Clear Setup and Contribution Instructions to README | Medium | [#13](https://github.com/kunal0297/Nexus_dawn/issues/13) |
 | Add a CONTRIBUTING.md file for better onboarding #8 | Medium | [#11](https://github.com/kunal0297/Nexus_dawn/pull/11) |
-
----
-
-## 📌 Project: GroqTales
-
-📝 **Description:** GroqTales is an open-source platform merging AI and blockchain to reinvent digital storytelling: it empowers writers, artists, developers, and enthusiasts to craft AIgenerated stories and comic-style narratives using Groq, customize genres, characters, settings, creativity levels, and then mint their creations as NFTs on the Monad blockchain (currently on Testnet with future Mainnet support) . The platform supports real-time story streaming, intuitive wallet integration, IPFS-backed metadata storage, and a community gallery for sharing and engagement all built with React/Next.js, Node.js, MongoDB, and smart contracts with ethers.js compatibility
-
-🔗 [View Project](https://github.com/Drago-03/GroqTales)
-
-💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Solidity, ethers.js, IPFS, Groq API, Unsplash API, Python, Framer Motion, ShadCN UI, Lucide React, Vercel, Foundry
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Non-Atomic NFT Purchase in Marketplace | Medium | [#465](https://github.com/IndieHub25/GroqTales/issues/465) |
-| Add newsletter subscription feature for user engagement | Medium | [#464](https://github.com/IndieHub25/GroqTales/issues/464) |
-| Scroll-to-top button overlaps footer links on GroqTales website | Medium | [#463](https://github.com/IndieHub25/GroqTales/issues/463) |
-| feat: implement public shareable story pages with OpenGraph tags (Fix… | Medium | [#419](https://github.com/IndieHub25/GroqTales/pull/419) |
-| Setup Playwright E2E coverage for Wallet login and NFT Minting | Medium | [#410](https://github.com/IndieHub25/GroqTales/issues/410) |
-| Feat: Add multilingual generation support to Groq AI engine | Medium | [#409](https://github.com/IndieHub25/GroqTales/issues/409) |
-| Chore: Refactor Story Creation Flow | Hard | [#443](https://github.com/IndieHub25/GroqTales/pull/443) |
 
 ---
 
