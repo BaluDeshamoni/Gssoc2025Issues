@@ -14,7 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: implement robust Edge RBAC route protection and unauthorized ac… | Medium | [#740](https://github.com/Dipanita45/HEALCONNECT/pull/740) |
+| fix: resolve production Tailwind CSS compilation bug in contact categ… | Medium | [#751](https://github.com/Dipanita45/HEALCONNECT/pull/751) |
+| Unawaited Async Write in Doctor Registration (Race Condition) | Medium | [#750](https://github.com/Dipanita45/HEALCONNECT/issues/750) |
+| Bug in Offline Data Manager (Database Writes) | Medium | [#749](https://github.com/Dipanita45/HEALCONNECT/issues/749) |
 
 ---
 
@@ -56,15 +58,14 @@
 | docs: Add beginner guide for new contributors | Easy | [#299](https://github.com/SharonIV0x86/CinderPeak/issues/299) |
 | Implement Intelligent Recommendation Engine for User Actions and Resources | Easy | [#282](https://github.com/SharonIV0x86/CinderPeak/issues/282) |
 | Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
+| ci(security): augment build pipeline with CodeQL static analysis | Medium | [#330](https://github.com/SharonIV0x86/CinderPeak/issues/330) |
+| feat(graph): Add operator<< overload for CinderGraph to support printing graph info | Medium | [#329](https://github.com/SharonIV0x86/CinderPeak/issues/329) |
+| Fix: Logger Resource Leak and Concurrency Leak | Medium | [#328](https://github.com/SharonIV0x86/CinderPeak/pull/328) |
 | Thread-Safety Issue in CinderVertex/CinderEdge ID Generation | Medium | [#327](https://github.com/SharonIV0x86/CinderPeak/issues/327) |
-| fix(warnings): Resolve MSVC compiler warning C4996 in PeakLogger.hpp | Medium | [#326](https://github.com/SharonIV0x86/CinderPeak/issues/326) |
 | refactor: Resolve unused parameter warning in Events/DefaultListeners.hpp | Medium | [#325](https://github.com/SharonIV0x86/CinderPeak/issues/325) |
-| fix(warnings): resolve [[nodiscard]] compiler warnings in HybridCSR_C… | Medium | [#324](https://github.com/SharonIV0x86/CinderPeak/pull/324) |
 | Add SECURITY.md to define vulnerability reporting process | Medium | [#320](https://github.com/SharonIV0x86/CinderPeak/issues/320) |
-| Corrected `updateEdge` return value and propagate storage operation failures | Medium | [#319](https://github.com/SharonIV0x86/CinderPeak/pull/319) |
 | feat: structured exception mapping and contextual error reporting (#298) | Medium | [#318](https://github.com/SharonIV0x86/CinderPeak/pull/318) |
 | Fix: Add missing section 4 for duplicate edge handling in addEdge_usa… | Medium | [#315](https://github.com/SharonIV0x86/CinderPeak/pull/315) |
-| Fixed logger resource and concurrency leaks | Medium | [#311](https://github.com/SharonIV0x86/CinderPeak/pull/311) |
 | docs: add comprehensive docstrings to build.py | Medium | [#305](https://github.com/SharonIV0x86/CinderPeak/pull/305) |
 | fix: add missing optsU declaration in README example | Medium | [#301](https://github.com/SharonIV0x86/CinderPeak/pull/301) |
 | fix: implement thread-safe visitor pattern to resolve iterator invali… | Medium | [#297](https://github.com/SharonIV0x86/CinderPeak/pull/297) |
