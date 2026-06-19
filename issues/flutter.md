@@ -49,11 +49,16 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | BUG: Google summer of code's filters are not working | Easy | [#319](https://github.com/andoriyaprashant/OpSo/issues/319) |
-| Feat: Add Winter of Code Program Screen (UI) | Easy | [#282](https://github.com/andoriyaprashant/OpSo/issues/282) |
-| feat: enhance app UI with improved home page and drawer design | Medium | [#439](https://github.com/andoriyaprashant/OpSo/pull/439) |
+| feat:improve UI spacing and font size for better readability fixes #384 | Medium | [#475](https://github.com/andoriyaprashant/OpSo/pull/475) |
+| Feat:Add Contextual AI Question Suggestions on Program Pages | Medium | [#474](https://github.com/andoriyaprashant/OpSo/issues/474) |
+| fix: correct fallback asset rendering in LinuxFoundationWidget | Medium | [#452](https://github.com/andoriyaprashant/OpSo/issues/452) |
+| Feat: Improve UI Design of Hacktoberfest Information Screen | Medium | [#450](https://github.com/andoriyaprashant/OpSo/issues/450) |
+| Feat: Improve UI Design of GitHub Campus Expert Screen | Medium | [#449](https://github.com/andoriyaprashant/OpSo/issues/449) |
+| Solved dependency issues across gradle and font_awesome_flutter | Medium | [#447](https://github.com/andoriyaprashant/OpSo/pull/447) |
+| Fix Notification Flooding & Build Method Side-Effects | Medium | [#446](https://github.com/andoriyaprashant/OpSo/pull/446) |
+| fix: correct routing and error message typos | Medium | [#445](https://github.com/andoriyaprashant/OpSo/pull/445) |
+| Fix drawer dismiss behavior on overlay tap | Medium | [#441](https://github.com/andoriyaprashant/OpSo/pull/441) |
 | Refactor: update homepage by removing expired events | Medium | [#438](https://github.com/andoriyaprashant/OpSo/pull/438) |
-| Fix: Project widget tech stack background in dark mode | Medium | [#437](https://github.com/andoriyaprashant/OpSo/pull/437) |
-| Bug: Open source project showcase images have white background in dark mode | Medium | [#436](https://github.com/andoriyaprashant/OpSo/issues/436) |
 | fix: resolve awesome_notifications dependency configuration issue | Medium | [#429](https://github.com/andoriyaprashant/OpSo/pull/429) |
 | Use of Reusable widgets | Medium | [#379](https://github.com/andoriyaprashant/OpSo/issues/379) |
 | dark and light mode toggle | Medium | [#369](https://github.com/andoriyaprashant/OpSo/issues/369) |
@@ -142,7 +147,7 @@
 |----------|----------------|---------|
 | Issue in Athlete Dashboard with overflow issues | Easy | [#85](https://github.com/VJLIVE/Athletix/issues/85) |
 | Add Athletix Banner | Easy | [#84](https://github.com/VJLIVE/Athletix/issues/84) |
-| Localization - Add support for English & Hindi #43 | Medium | [#90](https://github.com/VJLIVE/Athletix/pull/90) |
+| Feature Request: Menstrual Cycle Tracking Module for Female Athlete Injury Prevention | Medium | [#93](https://github.com/VJLIVE/Athletix/issues/93) |
 | Forgot Password Feature #54 | Medium | [#89](https://github.com/VJLIVE/Athletix/pull/89) |
 | Fixed profile image issue | Medium | [#83](https://github.com/VJLIVE/Athletix/pull/83) |
 | Fixed add players for organizations . | Medium | [#82](https://github.com/VJLIVE/Athletix/pull/82) |
