@@ -265,15 +265,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add single node VictoriaMetrics locally | Easy | [#4999](https://github.com/OWASP/Nest/pull/4999) |
+| Improve Module Management UX and Consistency | Easy | [#4987](https://github.com/OWASP/Nest/issues/4987) |
 | feat: automate snapshot creation and scheduling | Easy | [#4938](https://github.com/OWASP/Nest/pull/4938) |
+| fix: fix chapter tests by using domcontentloaded wait strategy | Medium | [#4994](https://github.com/OWASP/Nest/pull/4994) |
 | fix: handle invalid search query validation errors | Medium | [#4984](https://github.com/OWASP/Nest/pull/4984) |
-| chore(deps): bump isomorphic-dompurify in /frontend | Medium | [#4983](https://github.com/OWASP/Nest/pull/4983) |
-| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#4982](https://github.com/OWASP/Nest/pull/4982) |
-| chore(deps): bump the version-updates group across 2 directories with 1 update | Medium | [#4981](https://github.com/OWASP/Nest/pull/4981) |
-| strip_markdown() only removes bold, leaving italic/strikethrough/code markers in the plain text output | Medium | [#4973](https://github.com/OWASP/Nest/issues/4973) |
 | Add check to prevent github actions from running in forked repository | Medium | [#4968](https://github.com/OWASP/Nest/issues/4968) |
 | Implement GraphQL queries for contributor recognition certificate pages | Medium | [#4962](https://github.com/OWASP/Nest/pull/4962) |
-| fix: read Slack credentials from .env in local build | Medium | [#4956](https://github.com/OWASP/Nest/pull/4956) |
 | feat: add ClusterFuzzLite QueryParser fuzz target | Medium | [#4953](https://github.com/OWASP/Nest/pull/4953) |
 | chore(deps): bump @heroui/react in /frontend | Medium | [#4943](https://github.com/OWASP/Nest/pull/4943) |
 | Improve header accessibility and keyboard navigation support. Resolves #4804 | Medium | [#4935](https://github.com/OWASP/Nest/pull/4935) |
@@ -1004,6 +1002,8 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add Terms and Conditions page and footer link | Medium | [#746](https://github.com/GitMetricsLab/github_tracker/pull/746) |
+| feat: add Privacy Policy page and footer link | Medium | [#745](https://github.com/GitMetricsLab/github_tracker/pull/745) |
 | Added fix: reset scroll position on route navigation | Medium | [#744](https://github.com/GitMetricsLab/github_tracker/pull/744) |
 | Add Open Graph and Twitter Card meta tags for social sharing | Medium | [#740](https://github.com/GitMetricsLab/github_tracker/pull/740) |
 | Update Contact.tsx | Medium | [#738](https://github.com/GitMetricsLab/github_tracker/pull/738) |
@@ -1015,8 +1015,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | feat: add contributor growth analytics chart | Medium | [#732](https://github.com/GitMetricsLab/github_tracker/pull/732) |
 | feat: add repository health score dashboard card | Medium | [#731](https://github.com/GitMetricsLab/github_tracker/pull/731) |
 | Feature : Improve User Model Test Coverage and Reliability | Medium | [#718](https://github.com/GitMetricsLab/github_tracker/pull/718) |
-| improvised about page | Medium | [#716](https://github.com/GitMetricsLab/github_tracker/pull/716) |
-| feat(a11y): add keyboard navigation support (#631) | Medium | [#715](https://github.com/GitMetricsLab/github_tracker/pull/715) |
 
 ---
 
@@ -2440,6 +2438,20 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| less Attractive UI | Medium | [#596](https://github.com/lovelymahor/StudyMatePlus/issues/596) |
+| # Bug: PDF Export Truncates Content for Large Datasets | Medium | [#595](https://github.com/lovelymahor/StudyMatePlus/issues/595) |
+| Add particle/trail effect to cursor for better UX | Medium | [#594](https://github.com/lovelymahor/StudyMatePlus/issues/594) |
+| "Most Downloaded" sort option has no verifiable backing logic — download count may not be tracked | Medium | [#593](https://github.com/lovelymahor/StudyMatePlus/issues/593) |
+| Dropdown filters allow selecting Department/Semester combos with no existing data, causing confusing "Found 0" results | Medium | [#592](https://github.com/lovelymahor/StudyMatePlus/issues/592) |
+| PYQs page cascading filters show limited options due to small static dataset | Medium | [#591](https://github.com/lovelymahor/StudyMatePlus/issues/591) |
+| enhancement: Modernize notes/resources card UI & improve accessibility | Medium | [#590](https://github.com/lovelymahor/StudyMatePlus/issues/590) |
+| Feature request: Add Show More / Show Less for Long Lists Across the App | Medium | [#588](https://github.com/lovelymahor/StudyMatePlus/issues/588) |
+| Fix Semester Dropdown Ordering in Syllabus Filter | Medium | [#587](https://github.com/lovelymahor/StudyMatePlus/issues/587) |
+| No API call implemented for the mentorship route. | Medium | [#586](https://github.com/lovelymahor/StudyMatePlus/issues/586) |
+| Fix Typographical Errors and Broken Preview Functionality in Syllabus Collection | Medium | [#585](https://github.com/lovelymahor/StudyMatePlus/issues/585) |
+| Feature Request: Implement Background OCR (Optical Character Recognition) Text Extraction and Search for PYQs | Medium | [#584](https://github.com/lovelymahor/StudyMatePlus/issues/584) |
+| assign it to me | Medium | [#583](https://github.com/lovelymahor/StudyMatePlus/issues/583) |
+| profile route checks req.file, but finds no upload.single('avatar') | Medium | [#581](https://github.com/lovelymahor/StudyMatePlus/issues/581) |
 | Feat: The website is too generic and doesn't give the vibe | Medium | [#580](https://github.com/lovelymahor/StudyMatePlus/issues/580) |
 | feat: Add Scroll-to-Top Button Component | Fixes #576 | Medium | [#579](https://github.com/lovelymahor/StudyMatePlus/pull/579) |
 | Inconsistent Section Spacing, Overlapping Floating Cards, and Button Styling | Medium | [#578](https://github.com/lovelymahor/StudyMatePlus/issues/578) |
@@ -2456,20 +2468,6 @@ Fast Workflow Tools
 | good to hide the topbar when  scrolling down | Medium | [#567](https://github.com/lovelymahor/StudyMatePlus/issues/567) |
 | Refactor routing and component imports in App.js | Medium | [#566](https://github.com/lovelymahor/StudyMatePlus/pull/566) |
 | Insufficient User Guidance and Navigation for New Users | Medium | [#565](https://github.com/lovelymahor/StudyMatePlus/issues/565) |
-| fix: resolve contact contrast issue, upgrade to icons, and fix broken merge conflict syntax | Medium | [#564](https://github.com/lovelymahor/StudyMatePlus/pull/564) |
-| BUG: "View" button is completely unresponsive on PYQ page. | Medium | [#563](https://github.com/lovelymahor/StudyMatePlus/issues/563) |
-| Edit Profile button is non-functional — no form or handler connected | Medium | [#562](https://github.com/lovelymahor/StudyMatePlus/issues/562) |
-| Default profile picture not showing when no image is uploaded | Medium | [#561](https://github.com/lovelymahor/StudyMatePlus/issues/561) |
-| 🐛 Bug Report: Footer Social Links Redirect Incorrectly | Medium | [#560](https://github.com/lovelymahor/StudyMatePlus/issues/560) |
-| fix(build & UX): resolve merge-conflict/package errors and improve PYQs filtering experience | Medium | [#559](https://github.com/lovelymahor/StudyMatePlus/issues/559) |
-| Feat: Add dark mode for better visibility | Medium | [#558](https://github.com/lovelymahor/StudyMatePlus/issues/558) |
-| Low Contrast Accessibility Violation on Landing Page Stats Metric Labels | Medium | [#557](https://github.com/lovelymahor/StudyMatePlus/issues/557) |
-| Low Hit-Target Area on Landing Page Feature Cards Restricts Click Functionality to Text Elements Only | Medium | [#556](https://github.com/lovelymahor/StudyMatePlus/issues/556) |
-| PYQ's Section - Separate "Department" and "Course" Fields | Medium | [#555](https://github.com/lovelymahor/StudyMatePlus/issues/555) |
-| Study mate plus- feature for semester button | Medium | [#554](https://github.com/lovelymahor/StudyMatePlus/issues/554) |
-| Add Resource Rating System for Notes and PYQs | Medium | [#552](https://github.com/lovelymahor/StudyMatePlus/issues/552) |
-| fix: Unresponsive "View" button and static/dummy data on the PYQs page | Medium | [#551](https://github.com/lovelymahor/StudyMatePlus/issues/551) |
-| feat: Add a custom styled 404 Error page for undefined routes | Medium | [#550](https://github.com/lovelymahor/StudyMatePlus/issues/550) |
 
 ---
 
@@ -2852,23 +2850,24 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| explore event and host an event buttons overlap | Medium | [#9266](https://github.com/SandeepVashishtha/Eventra/issues/9266) |
-| Add event progress insights and participation analytics widgets for Events dashboard | Medium | [#9259](https://github.com/SandeepVashishtha/Eventra/issues/9259) |
-| fix(utils): add SSR guard to document.querySelector in securityHeadersDiagnostics.js | Medium | [#9250](https://github.com/SandeepVashishtha/Eventra/issues/9250) |
-| fix(utils): add SSR guard to document.cookie in safeCookieStorage.js | Medium | [#9249](https://github.com/SandeepVashishtha/Eventra/issues/9249) |
-| fix(utils): add SSR guard to localStorage in storageUtils.js | Medium | [#9248](https://github.com/SandeepVashishtha/Eventra/issues/9248) |
-| fix(utils): handle Web Locks API tab backgrounding in SSE multiplexer | Medium | [#9247](https://github.com/SandeepVashishtha/Eventra/issues/9247) |
-| fix(utils): return relative time for numeric timestamps in getRelativeTime | Medium | [#9246](https://github.com/SandeepVashishtha/Eventra/issues/9246) |
-| Security Bypass of API Gateway/JWT Checks via Subroute Wildcard Matching | Medium | [#9242](https://github.com/SandeepVashishtha/Eventra/issues/9242) |
-| Memory Exhaustion DoS via Stale Keys in In-Memory Rate Limiter | Medium | [#9240](https://github.com/SandeepVashishtha/Eventra/issues/9240) |
-| Parameter Mutation and Idempotency Key Reuse in fetchWithTimeout.js | Medium | [#9238](https://github.com/SandeepVashishtha/Eventra/issues/9238) |
-| Event-Listener Leakage on Window/Document | Medium | [#9234](https://github.com/SandeepVashishtha/Eventra/issues/9234) |
-| Accessibility (a11y) Violations on Dynamic Media | Medium | [#9233](https://github.com/SandeepVashishtha/Eventra/issues/9233) |
-| Unbounded Offline Queue Ballooning | Medium | [#9232](https://github.com/SandeepVashishtha/Eventra/issues/9232) |
-| Memory Leaks from Unmanaged setInterval Hooks | Medium | [#9231](https://github.com/SandeepVashishtha/Eventra/issues/9231) |
-| Cryptographically Insecure Idempotency Keys | Medium | [#9230](https://github.com/SandeepVashishtha/Eventra/issues/9230) |
-| Unhandled localStorage.setItem Quota Errors | Medium | [#9229](https://github.com/SandeepVashishtha/Eventra/issues/9229) |
-| Unsafe JSON.parse Deserialization Crashes | Medium | [#9228](https://github.com/SandeepVashishtha/Eventra/issues/9228) |
+| SSR crash in userProfileAnalyzer.js — getUserProfile accesses localStorage without SSR guard | Easy | [#9308](https://github.com/SandeepVashishtha/Eventra/issues/9308) |
+| P2P Transfer Safety Timeout Leaves EventMaterials Hook Hanging on Failure | Medium | [#9320](https://github.com/SandeepVashishtha/Eventra/issues/9320) |
+| User-Friendly Error Messages Broken on Waitlist Conflicts Due to Normalized ApiError Object Mismatch | Medium | [#9319](https://github.com/SandeepVashishtha/Eventra/issues/9319) |
+| Redis Rate Limiter Renews TTL on Blocked Requests Causing Permanent Lockouts | Medium | [#9318](https://github.com/SandeepVashishtha/Eventra/issues/9318) |
+| InMemoryLockManager Queue Expiration Causes Critical Race Condition | Medium | [#9317](https://github.com/SandeepVashishtha/Eventra/issues/9317) |
+| Double-Decrement of Remaining Capacity in Event Registration Response | Medium | [#9316](https://github.com/SandeepVashishtha/Eventra/issues/9316) |
+| SSR crash in p2pFileTransfer.js — module-level RTCPeerConnection and BroadcastChannel accessed without SSR guard | Medium | [#9309](https://github.com/SandeepVashishtha/Eventra/issues/9309) |
+| SSR crash in shareUtils.js — copyToClipboard uses document.execCommand without SSR guard | Medium | [#9307](https://github.com/SandeepVashishtha/Eventra/issues/9307) |
+| SSR crash in feedbackUtils.js — all functions access localStorage without SSR guard | Medium | [#9306](https://github.com/SandeepVashishtha/Eventra/issues/9306) |
+| SSR crash in dndUtils.js — isDndActive accesses localStorage without SSR guard | Medium | [#9305](https://github.com/SandeepVashishtha/Eventra/issues/9305) |
+| Bookmarked events don't appear on Saved Events page or Dashboard (two disconnected storage systems) | Medium | [#9304](https://github.com/SandeepVashishtha/Eventra/issues/9304) |
+| Add Skeleton Loading UI for Hackathons Page | Medium | [#9303](https://github.com/SandeepVashishtha/Eventra/issues/9303) |
+| fix: SSR crash in shareModalUtils due to window.location.origin as default parameter | Medium | [#9297](https://github.com/SandeepVashishtha/Eventra/issues/9297) |
+| fix: SSR crash in useTokenExpiry due to unguarded window.location.replace in setTimeout | Medium | [#9296](https://github.com/SandeepVashishtha/Eventra/issues/9296) |
+| fix: SSR crash in useLocalStorage when setValue is called during server rendering | Medium | [#9295](https://github.com/SandeepVashishtha/Eventra/issues/9295) |
+| fix: SSR crash in useRoutePrefetch due to unguarded window access | Medium | [#9294](https://github.com/SandeepVashishtha/Eventra/issues/9294) |
+| fix: getRelativeTime returns null for numeric Unix timestamps instead of processing them | Medium | [#9293](https://github.com/SandeepVashishtha/Eventra/issues/9293) |
+| Enhanced Error Recovery and User-Friendly Error Handling System | Medium | [#9291](https://github.com/SandeepVashishtha/Eventra/issues/9291) |
 
 ---
 
