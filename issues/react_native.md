@@ -93,13 +93,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Improve adventurer dashboard UI/UX | Medium | [#284](https://github.com/LarytheLord/Adventurers-Guild/pull/284) |
-| Home page redirects logged-in users to dashboard automatically | Medium | [#283](https://github.com/LarytheLord/Adventurers-Guild/issues/283) |
+| fix: prevent quest slot overbooking | Medium | [#398](https://github.com/LarytheLord/Adventurers-Guild/pull/398) |
+| fix: Admin QA reject/approve now calls syncQuestLifecycleStatus (#330) | Medium | [#387](https://github.com/LarytheLord/Adventurers-Guild/pull/387) |
+| fix: QA approval now properly awards XP and creates QuestCompletion (#317) | Medium | [#384](https://github.com/LarytheLord/Adventurers-Guild/pull/384) |
+| fix: /api/errors/log is unauthenticated — open to log injection and DB flooding | Medium | [#342](https://github.com/LarytheLord/Adventurers-Guild/issues/342) |
+| fix: Admin QA reject/approve skips syncQuestLifecycleStatus — quest status stuck after admin action | Medium | [#330](https://github.com/LarytheLord/Adventurers-Guild/issues/330) |
+| fix: Company quest edit ownership check is client-side only — full quest data leaks before redirect | Medium | [#327](https://github.com/LarytheLord/Adventurers-Guild/issues/327) |
+| fix: XP reward runs outside DB transaction — adventurer permanently loses XP if second write fails | Medium | [#324](https://github.com/LarytheLord/Adventurers-Guild/issues/324) |
 | Razorpay contact route uses placeholder phone number | Medium | [#261](https://github.com/LarytheLord/Adventurers-Guild/issues/261) |
-| Missing /api/quests/assignments/[id] endpoint — single assignment update not possible | Medium | [#258](https://github.com/LarytheLord/Adventurers-Guild/issues/258) |
 | CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
-| CRITICAL: Public quest detail page doesn't allow logged-in adventurers to claim quests | Medium | [#256](https://github.com/LarytheLord/Adventurers-Guild/issues/256) |
-| feat: Admin Payment Trigger — initiate Razorpay bank transfer from QA queue UI | Medium | [#220](https://github.com/LarytheLord/Adventurers-Guild/issues/220) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
 | Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
 | feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
@@ -107,8 +109,6 @@
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 | NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
-| Inconsistent field naming in /api/users/me/quests — 'quests' should be 'quest' | Hard | [#260](https://github.com/LarytheLord/Adventurers-Guild/issues/260) |
-| Dead code: quest-utils.ts, quest-submission-dialog.tsx, and QuestForm.tsx not used anywhere | Hard | [#259](https://github.com/LarytheLord/Adventurers-Guild/issues/259) |
 
 ---
 
