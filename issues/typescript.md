@@ -93,24 +93,23 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: automate snapshot creation and scheduling | Easy | [#4938](https://github.com/OWASP/Nest/pull/4938) |
+| Enable auto-scaling for ECS backend/frontend services | Easy | [#5038](https://github.com/OWASP/Nest/pull/5038) |
+| Improve Module Management UX and Consistency | Easy | [#4987](https://github.com/OWASP/Nest/issues/4987) |
+| feat(slack): add BotInteraction model and reaction feedback handler | Medium | [#5035](https://github.com/OWASP/Nest/pull/5035) |
+| add slack reaction based moderation alerts | Medium | [#5034](https://github.com/OWASP/Nest/pull/5034) |
+| Optimize mentorship MentorNode | Medium | [#5031](https://github.com/OWASP/Nest/pull/5031) |
+| Optimize mentorship AdminNode | Medium | [#5030](https://github.com/OWASP/Nest/pull/5030) |
+| feat: Instrument backend with Otel metrics | Medium | [#5029](https://github.com/OWASP/Nest/pull/5029) |
+| Use Program.has_admin() consistently in mentorship mutations | Medium | [#5025](https://github.com/OWASP/Nest/issues/5025) |
+| Optimize GitHub app ReleaseNode | Medium | [#5022](https://github.com/OWASP/Nest/pull/5022) |
+| Feature/snapshot subscription model | Medium | [#5021](https://github.com/OWASP/Nest/pull/5021) |
+| GraphQL resolvers declare prefetch_related but discard it, causing N+1 queries | Medium | [#5015](https://github.com/OWASP/Nest/issues/5015) |
+| Add Candidate Claim Management Dashboard | Medium | [#5006](https://github.com/OWASP/Nest/pull/5006) |
+| formatter and linter support for e2e | Medium | [#5002](https://github.com/OWASP/Nest/pull/5002) |
+| Strip italic, strikethrough and inline code in strip_markdown | Medium | [#5001](https://github.com/OWASP/Nest/pull/5001) |
 | fix: handle invalid search query validation errors | Medium | [#4984](https://github.com/OWASP/Nest/pull/4984) |
-| chore(deps): bump isomorphic-dompurify in /frontend | Medium | [#4983](https://github.com/OWASP/Nest/pull/4983) |
-| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#4982](https://github.com/OWASP/Nest/pull/4982) |
-| chore(deps): bump the version-updates group across 2 directories with 1 update | Medium | [#4981](https://github.com/OWASP/Nest/pull/4981) |
-| strip_markdown() only removes bold, leaving italic/strikethrough/code markers in the plain text output | Medium | [#4973](https://github.com/OWASP/Nest/issues/4973) |
 | Add check to prevent github actions from running in forked repository | Medium | [#4968](https://github.com/OWASP/Nest/issues/4968) |
 | Implement GraphQL queries for contributor recognition certificate pages | Medium | [#4962](https://github.com/OWASP/Nest/pull/4962) |
-| fix: read Slack credentials from .env in local build | Medium | [#4956](https://github.com/OWASP/Nest/pull/4956) |
-| feat: add ClusterFuzzLite QueryParser fuzz target | Medium | [#4953](https://github.com/OWASP/Nest/pull/4953) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4943](https://github.com/OWASP/Nest/pull/4943) |
-| Improve header accessibility and keyboard navigation support. Resolves #4804 | Medium | [#4935](https://github.com/OWASP/Nest/pull/4935) |
-| Implement certificate metadata issuance system | Medium | [#4922](https://github.com/OWASP/Nest/pull/4922) |
-| feat(snapshots): refactor snapshot details frontend | Medium | [#4914](https://github.com/OWASP/Nest/pull/4914) |
-| Display repository last updated date on repository cards | Medium | [#4912](https://github.com/OWASP/Nest/issues/4912) |
-| Repository GraphQL fields `issues` and `releases` return only recent items | Medium | [#4895](https://github.com/OWASP/Nest/issues/4895) |
-| feat: Wrap breadcrumb in <nav> landmark for screen reader navigation | Medium | [#4889](https://github.com/OWASP/Nest/issues/4889) |
-| feat: Add structured logging and Sentry tracing to AI agent workflows | Medium | [#4888](https://github.com/OWASP/Nest/issues/4888) |
 
 ---
 
@@ -702,6 +701,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| False Negative: Automated Browser Profile Not Flagged as Bot | Medium | [#98](https://github.com/IntegerAlex/fingerprint-oss/issues/98) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
 | Stabilization in Hash generation | Hard | [#61](https://github.com/IntegerAlex/fingerprint-oss/pull/61) |
 
@@ -739,9 +739,9 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | chore(deps-dev): bump nx from 20.4.0 to 21.1.2 | Medium | [#158](https://github.com/deskree-inc/blok/pull/158) |
 | chore(deps): bump setuptools from 76.0.0 to 78.1.1 in /runtimes/python3 | Medium | [#154](https://github.com/deskree-inc/blok/pull/154) |
 | Bump transformers from 4.38.0 to 4.50.0 in /runtimes/python3 | Medium | [#143](https://github.com/deskree-inc/blok/pull/143) |
-| Terraform aws guide | Medium | [#134](https://github.com/deskree-inc/blok/pull/134) |
 | Implement Metrics Collection in Python3 Runtime (Prometheus Export) | Medium | [#133](https://github.com/deskree-inc/blok/pull/133) |
 | Added a  dedicated section on creating workflows | Medium | [#131](https://github.com/deskree-inc/blok/pull/131) |
+| Add Configurable Observability Backend to nanoservice-ts (Prometheus/InfluxDB) | Medium | [#126](https://github.com/deskree-inc/blok/issues/126) |
 
 ---
 
