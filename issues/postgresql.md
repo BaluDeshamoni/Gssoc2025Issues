@@ -118,6 +118,10 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | Clean root directory — remove scripts, reorganize files | Easy | [#1019](https://github.com/Muneerali199/Draftdeckai/issues/1019) |
 | fix: preserve typed API error prototypes | Easy | [#992](https://github.com/Muneerali199/Draftdeckai/pull/992) |
 | Issue #958 | Easy | [#976](https://github.com/Muneerali199/Draftdeckai/pull/976) |
+| chore(deps-dev): bump @babel/preset-env from 7.29.7 to 8.0.2 | Medium | [#1030](https://github.com/Muneerali199/Draftdeckai/pull/1030) |
+| chore(deps): bump recharts from 2.15.4 to 3.8.1 | Medium | [#1029](https://github.com/Muneerali199/Draftdeckai/pull/1029) |
+| chore(deps-dev): bump @types/node from 25.9.3 to 26.0.0 | Medium | [#1028](https://github.com/Muneerali199/Draftdeckai/pull/1028) |
+| chore(deps): bump the minor-and-patch group with 33 updates | Medium | [#1027](https://github.com/Muneerali199/Draftdeckai/pull/1027) |
 | Test/admin dashboard unit tests | Medium | [#1026](https://github.com/Muneerali199/Draftdeckai/pull/1026) |
 | Update dependencies and add Vitest for UI testing | Medium | [#1025](https://github.com/Muneerali199/Draftdeckai/pull/1025) |
 | refactor: move root docs into docs folder | Medium | [#1024](https://github.com/Muneerali199/Draftdeckai/pull/1024) |
@@ -134,11 +138,9 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | ci: add linting and type-checking to pipeline (#739) | Medium | [#973](https://github.com/Muneerali199/Draftdeckai/pull/973) |
 | feat: add Go backend env validation at startup (#901) | Medium | [#971](https://github.com/Muneerali199/Draftdeckai/pull/971) |
 | Add SEO metadata and refactor client pages for App Router compatibility | Medium | [#965](https://github.com/Muneerali199/Draftdeckai/pull/965) |
-| Added backend files #902 issue | Medium | [#958](https://github.com/Muneerali199/Draftdeckai/pull/958) |
 | Add post-generation AI edit loop with chat interface | Hard | [#1022](https://github.com/Muneerali199/Draftdeckai/issues/1022) |
 | Build document workflow engine — multi-step, connected document creation | Hard | [#1021](https://github.com/Muneerali199/Draftdeckai/issues/1021) |
 | Differentiate DraftDeckAI landing page and first-run experience | Hard | [#1020](https://github.com/Muneerali199/Draftdeckai/issues/1020) |
-| feat: add dynamic published resume URLs to sitemap | Hard | [#963](https://github.com/Muneerali199/Draftdeckai/pull/963) |
 
 ---
 
@@ -350,24 +352,19 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| SSR crash in userProfileAnalyzer.js — getUserProfile accesses localStorage without SSR guard | Easy | [#9308](https://github.com/SandeepVashishtha/Eventra/issues/9308) |
-| P2P Transfer Safety Timeout Leaves EventMaterials Hook Hanging on Failure | Medium | [#9320](https://github.com/SandeepVashishtha/Eventra/issues/9320) |
-| User-Friendly Error Messages Broken on Waitlist Conflicts Due to Normalized ApiError Object Mismatch | Medium | [#9319](https://github.com/SandeepVashishtha/Eventra/issues/9319) |
-| Redis Rate Limiter Renews TTL on Blocked Requests Causing Permanent Lockouts | Medium | [#9318](https://github.com/SandeepVashishtha/Eventra/issues/9318) |
-| InMemoryLockManager Queue Expiration Causes Critical Race Condition | Medium | [#9317](https://github.com/SandeepVashishtha/Eventra/issues/9317) |
-| Double-Decrement of Remaining Capacity in Event Registration Response | Medium | [#9316](https://github.com/SandeepVashishtha/Eventra/issues/9316) |
-| SSR crash in p2pFileTransfer.js — module-level RTCPeerConnection and BroadcastChannel accessed without SSR guard | Medium | [#9309](https://github.com/SandeepVashishtha/Eventra/issues/9309) |
-| SSR crash in shareUtils.js — copyToClipboard uses document.execCommand without SSR guard | Medium | [#9307](https://github.com/SandeepVashishtha/Eventra/issues/9307) |
-| SSR crash in feedbackUtils.js — all functions access localStorage without SSR guard | Medium | [#9306](https://github.com/SandeepVashishtha/Eventra/issues/9306) |
-| SSR crash in dndUtils.js — isDndActive accesses localStorage without SSR guard | Medium | [#9305](https://github.com/SandeepVashishtha/Eventra/issues/9305) |
-| Bookmarked events don't appear on Saved Events page or Dashboard (two disconnected storage systems) | Medium | [#9304](https://github.com/SandeepVashishtha/Eventra/issues/9304) |
-| Add Skeleton Loading UI for Hackathons Page | Medium | [#9303](https://github.com/SandeepVashishtha/Eventra/issues/9303) |
-| fix: SSR crash in shareModalUtils due to window.location.origin as default parameter | Medium | [#9297](https://github.com/SandeepVashishtha/Eventra/issues/9297) |
-| fix: SSR crash in useTokenExpiry due to unguarded window.location.replace in setTimeout | Medium | [#9296](https://github.com/SandeepVashishtha/Eventra/issues/9296) |
-| fix: SSR crash in useLocalStorage when setValue is called during server rendering | Medium | [#9295](https://github.com/SandeepVashishtha/Eventra/issues/9295) |
-| fix: SSR crash in useRoutePrefetch due to unguarded window access | Medium | [#9294](https://github.com/SandeepVashishtha/Eventra/issues/9294) |
-| fix: getRelativeTime returns null for numeric Unix timestamps instead of processing them | Medium | [#9293](https://github.com/SandeepVashishtha/Eventra/issues/9293) |
-| Enhanced Error Recovery and User-Friendly Error Handling System | Medium | [#9291](https://github.com/SandeepVashishtha/Eventra/issues/9291) |
+| fix(src/hooks/useScrollProgress.js): document and window accessed without SSR guards in useEffect causing crash | Easy | [#9666](https://github.com/SandeepVashishtha/Eventra/issues/9666) |
+| fix(src/hooks/useFocusTrap.js): document.addEventListener called without SSR guard causing crash in server environments | Easy | [#9665](https://github.com/SandeepVashishtha/Eventra/issues/9665) |
+| fix(src/hooks/useBookmarks.js): localStorage accessed without SSR guard in readStorage function | Easy | [#9664](https://github.com/SandeepVashishtha/Eventra/issues/9664) |
+| fix(api/_lib/rate-limit-storage.js): async cleanup hook registered with process.on exit prevents Redis from closing cleanly | Easy | [#9663](https://github.com/SandeepVashishtha/Eventra/issues/9663) |
+| fix(api/_lib/rateLimiter.js): duplicate check method silently overwrites async version in DistributedRateLimiter | Easy | [#9662](https://github.com/SandeepVashishtha/Eventra/issues/9662) |
+| Rate Limiting Trusts Client-Supplied IP Headers Without Proxy Validation | Medium | [#9660](https://github.com/SandeepVashishtha/Eventra/issues/9660) |
+| Internal Error Messages Are Exposed in API Responses | Medium | [#9658](https://github.com/SandeepVashishtha/Eventra/issues/9658) |
+| Filter Endpoint Accepts Unvalidated Query Parameters and Invalid Date Values | Medium | [#9656](https://github.com/SandeepVashishtha/Eventra/issues/9656) |
+| Session Revocation Enforcement Bypassed During KV Storage Outages | Medium | [#9654](https://github.com/SandeepVashishtha/Eventra/issues/9654) |
+| Ticket JWTs Use Fixed 365-Day Expiration Regardless of Event Lifetime | Medium | [#9652](https://github.com/SandeepVashishtha/Eventra/issues/9652) |
+| Session Risk Tracking Falls Back to Process-Local Storage Causing Inconsistent State Across Instances | Medium | [#9648](https://github.com/SandeepVashishtha/Eventra/issues/9648) |
+| Distributed Lock Manager Uses Process-Local Memory and Does Not Coordinate Across Multiple Instances | Medium | [#9646](https://github.com/SandeepVashishtha/Eventra/issues/9646) |
+| Ticket Management Uses Non-Persistent In-Memory Storage Causing Data Loss on Restart | Medium | [#9643](https://github.com/SandeepVashishtha/Eventra/issues/9643) |
 
 ---
 
