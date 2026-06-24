@@ -14,7 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve production Tailwind CSS compilation bug in contact categ… | Medium | [#751](https://github.com/Dipanita45/HEALCONNECT/pull/751) |
+| Fix Client-Side Route Guard and Identity Bypass | Medium | [#755](https://github.com/Dipanita45/HEALCONNECT/pull/755) |
+| Comprehensive Accessibility (a11y) Audit & Fixes | Medium | [#754](https://github.com/Dipanita45/HEALCONNECT/issues/754) |
+| Implement Skeleton Loaders for Dashboard Data Fetching | Medium | [#752](https://github.com/Dipanita45/HEALCONNECT/issues/752) |
 | Unawaited Async Write in Doctor Registration (Race Condition) | Medium | [#750](https://github.com/Dipanita45/HEALCONNECT/issues/750) |
 | Bug in Offline Data Manager (Database Writes) | Medium | [#749](https://github.com/Dipanita45/HEALCONNECT/issues/749) |
 
@@ -57,7 +59,19 @@
 | feat(graph): Add operator<< overload for CinderGraph to support printing graph info | Easy | [#317](https://github.com/SharonIV0x86/CinderPeak/issues/317) |
 | docs: Add beginner guide for new contributors | Easy | [#299](https://github.com/SharonIV0x86/CinderPeak/issues/299) |
 | Implement Intelligent Recommendation Engine for User Actions and Resources | Easy | [#282](https://github.com/SharonIV0x86/CinderPeak/issues/282) |
-| Tracking Issue: Compiler Warnings Cleanup & Refactoring (Iterative–Incremental SDLC) | Easy | [#180](https://github.com/SharonIV0x86/CinderPeak/issues/180) |
+| Feature/transactional integrity | Medium | [#343](https://github.com/SharonIV0x86/CinderPeak/pull/343) |
+| Feature/self loop cleanup | Medium | [#342](https://github.com/SharonIV0x86/CinderPeak/pull/342) |
+| Feature/efficient backend population | Medium | [#341](https://github.com/SharonIV0x86/CinderPeak/pull/341) |
+| Implement comparison and stream operators for PeakStatus | Medium | [#340](https://github.com/SharonIV0x86/CinderPeak/pull/340) |
+| Feature/redundant map lookups | Medium | [#339](https://github.com/SharonIV0x86/CinderPeak/pull/339) |
+| Feature/vertex removal optimization | Medium | [#338](https://github.com/SharonIV0x86/CinderPeak/pull/338) |
+| Direct efficient backend population from AdjacencyList to HybridCSR_COO | Medium | [#337](https://github.com/SharonIV0x86/CinderPeak/issues/337) |
+| Partial failures on undirected graph operations leave graph in inconsistent state | Medium | [#336](https://github.com/SharonIV0x86/CinderPeak/issues/336) |
+| Edge removal and update do not reject self-loops at orchestrator layer | Medium | [#335](https://github.com/SharonIV0x86/CinderPeak/issues/335) |
+| Optimize addEdge flow by caching resolved VertexIds to skip redundant map lookups | Medium | [#334](https://github.com/SharonIV0x86/CinderPeak/issues/334) |
+| Direct efficient backend population from AdjacencyList to HybridCSR_COO | Medium | [#333](https://github.com/SharonIV0x86/CinderPeak/issues/333) |
+| Optimize impl_removeVertex to run in O(degree) using in-edge tracking | Medium | [#332](https://github.com/SharonIV0x86/CinderPeak/issues/332) |
+| Implement comparison and stream operators for PeakStatus | Medium | [#331](https://github.com/SharonIV0x86/CinderPeak/issues/331) |
 | ci(security): augment build pipeline with CodeQL static analysis | Medium | [#330](https://github.com/SharonIV0x86/CinderPeak/issues/330) |
 | feat(graph): Add operator<< overload for CinderGraph to support printing graph info | Medium | [#329](https://github.com/SharonIV0x86/CinderPeak/issues/329) |
 | Fix: Logger Resource Leak and Concurrency Leak | Medium | [#328](https://github.com/SharonIV0x86/CinderPeak/pull/328) |
