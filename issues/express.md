@@ -411,6 +411,9 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: dynamic page title on route change | Medium | [#747](https://github.com/GitMetricsLab/github_tracker/pull/747) |
+| feat: add Terms and Conditions page and footer link | Medium | [#746](https://github.com/GitMetricsLab/github_tracker/pull/746) |
+| feat: add Privacy Policy page and footer link | Medium | [#745](https://github.com/GitMetricsLab/github_tracker/pull/745) |
 | Added fix: reset scroll position on route navigation | Medium | [#744](https://github.com/GitMetricsLab/github_tracker/pull/744) |
 | Add Open Graph and Twitter Card meta tags for social sharing | Medium | [#740](https://github.com/GitMetricsLab/github_tracker/pull/740) |
 | Update Contact.tsx | Medium | [#738](https://github.com/GitMetricsLab/github_tracker/pull/738) |
@@ -422,8 +425,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | feat: add contributor growth analytics chart | Medium | [#732](https://github.com/GitMetricsLab/github_tracker/pull/732) |
 | feat: add repository health score dashboard card | Medium | [#731](https://github.com/GitMetricsLab/github_tracker/pull/731) |
 | Feature : Improve User Model Test Coverage and Reliability | Medium | [#718](https://github.com/GitMetricsLab/github_tracker/pull/718) |
-| improvised about page | Medium | [#716](https://github.com/GitMetricsLab/github_tracker/pull/716) |
-| feat(a11y): add keyboard navigation support (#631) | Medium | [#715](https://github.com/GitMetricsLab/github_tracker/pull/715) |
 
 ---
 
@@ -1216,36 +1217,36 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Hero Section Text Overflows on Mobile Devices | Medium | [#611](https://github.com/lovelymahor/StudyMatePlus/issues/611) |
+| Bug: Low Color Contrast on "Learn More" Button in Exam Banner | Medium | [#610](https://github.com/lovelymahor/StudyMatePlus/issues/610) |
+| Support Email Address in Contact Section Is Not Clickable | Medium | [#609](https://github.com/lovelymahor/StudyMatePlus/issues/609) |
+| feat: Add Scroll-to-Top Button for Better Navigation UX | Medium | [#608](https://github.com/lovelymahor/StudyMatePlus/issues/608) |
+| Real-time Fuzzy Search and Query Term Highlighting in Notes and PYQs | Medium | [#607](https://github.com/lovelymahor/StudyMatePlus/issues/607) |
+| Mind Map Canvas Does Not Fit Screen Height | Medium | [#606](https://github.com/lovelymahor/StudyMatePlus/issues/606) |
+| Bug: Back-to-Top Floating Button Missing on Non-Home Pages | Medium | [#605](https://github.com/lovelymahor/StudyMatePlus/issues/605) |
+| Missing feedback form for Student Feedback | Medium | [#604](https://github.com/lovelymahor/StudyMatePlus/issues/604) |
+| fix: resolve syllabus preview/download loading state after filter selection | Medium | [#603](https://github.com/lovelymahor/StudyMatePlus/pull/603) |
+| feat: add hackathon guidance dashboard | Medium | [#602](https://github.com/lovelymahor/StudyMatePlus/pull/602) |
+| Syllabus page stuck in infinite loading after selecting University, Department, and Semester | Medium | [#601](https://github.com/lovelymahor/StudyMatePlus/issues/601) |
+| PYQ files do not open when clicked on the PYQs page | Medium | [#600](https://github.com/lovelymahor/StudyMatePlus/issues/600) |
+| Sahithi- Enhance CTA Section UI for Better Visibility and User Experience | Medium | [#599](https://github.com/lovelymahor/StudyMatePlus/pull/599) |
+| Want to change the background label for the "Ready to ace exams?" | Medium | [#598](https://github.com/lovelymahor/StudyMatePlus/issues/598) |
+| Add Sorting Functionality for Previous Year Question Papers | Medium | [#597](https://github.com/lovelymahor/StudyMatePlus/issues/597) |
+| less Attractive UI | Medium | [#596](https://github.com/lovelymahor/StudyMatePlus/issues/596) |
+| # Bug: PDF Export Truncates Content for Large Datasets | Medium | [#595](https://github.com/lovelymahor/StudyMatePlus/issues/595) |
+| Add particle/trail effect to cursor for better UX | Medium | [#594](https://github.com/lovelymahor/StudyMatePlus/issues/594) |
+| "Most Downloaded" sort option has no verifiable backing logic — download count may not be tracked | Medium | [#593](https://github.com/lovelymahor/StudyMatePlus/issues/593) |
+| Dropdown filters allow selecting Department/Semester combos with no existing data, causing confusing "Found 0" results | Medium | [#592](https://github.com/lovelymahor/StudyMatePlus/issues/592) |
+| PYQs page cascading filters show limited options due to small static dataset | Medium | [#591](https://github.com/lovelymahor/StudyMatePlus/issues/591) |
+| enhancement: Modernize notes/resources card UI & improve accessibility | Medium | [#590](https://github.com/lovelymahor/StudyMatePlus/issues/590) |
+| Feature request: Add Show More / Show Less for Long Lists Across the App | Medium | [#588](https://github.com/lovelymahor/StudyMatePlus/issues/588) |
+| Fix Semester Dropdown Ordering in Syllabus Filter | Medium | [#587](https://github.com/lovelymahor/StudyMatePlus/issues/587) |
+| No API call implemented for the mentorship route. | Medium | [#586](https://github.com/lovelymahor/StudyMatePlus/issues/586) |
+| Fix Typographical Errors and Broken Preview Functionality in Syllabus Collection | Medium | [#585](https://github.com/lovelymahor/StudyMatePlus/issues/585) |
+| Feature Request: Implement Background OCR (Optical Character Recognition) Text Extraction and Search for PYQs | Medium | [#584](https://github.com/lovelymahor/StudyMatePlus/issues/584) |
+| assign it to me | Medium | [#583](https://github.com/lovelymahor/StudyMatePlus/issues/583) |
+| profile route checks req.file, but finds no upload.single('avatar') | Medium | [#581](https://github.com/lovelymahor/StudyMatePlus/issues/581) |
 | Feat: The website is too generic and doesn't give the vibe | Medium | [#580](https://github.com/lovelymahor/StudyMatePlus/issues/580) |
-| feat: Add Scroll-to-Top Button Component | Fixes #576 | Medium | [#579](https://github.com/lovelymahor/StudyMatePlus/pull/579) |
-| Inconsistent Section Spacing, Overlapping Floating Cards, and Button Styling | Medium | [#578](https://github.com/lovelymahor/StudyMatePlus/issues/578) |
-| Docs : Add FAQ section to contributing.md file | Medium | [#577](https://github.com/lovelymahor/StudyMatePlus/issues/577) |
-| Add Scroll-to-Top Button Component for Better Navigation UX | Medium | [#576](https://github.com/lovelymahor/StudyMatePlus/issues/576) |
-| Feature:- I want add my university syllabus | Medium | [#575](https://github.com/lovelymahor/StudyMatePlus/issues/575) |
-| contact feature is not not implement properly | Medium | [#574](https://github.com/lovelymahor/StudyMatePlus/issues/574) |
-| Clean up: Remove AI generated "Next Steps" from CONTRIBUTING.md | Medium | [#573](https://github.com/lovelymahor/StudyMatePlus/pull/573) |
-| Remove AI generated template instructions from CONTRIBUTING.md | Medium | [#572](https://github.com/lovelymahor/StudyMatePlus/issues/572) |
-| Feature Request: AMOLED-Optimized "Late Night Study" Dark Theme | Medium | [#571](https://github.com/lovelymahor/StudyMatePlus/issues/571) |
-| Improve text visibility for statistics section in dark mode | Medium | [#570](https://github.com/lovelymahor/StudyMatePlus/issues/570) |
-| Optimize index.html with standard SEO and responsive viewport meta tags | Medium | [#569](https://github.com/lovelymahor/StudyMatePlus/issues/569) |
-| Fixed-Readme | Medium | [#568](https://github.com/lovelymahor/StudyMatePlus/pull/568) |
-| good to hide the topbar when  scrolling down | Medium | [#567](https://github.com/lovelymahor/StudyMatePlus/issues/567) |
-| Refactor routing and component imports in App.js | Medium | [#566](https://github.com/lovelymahor/StudyMatePlus/pull/566) |
-| Insufficient User Guidance and Navigation for New Users | Medium | [#565](https://github.com/lovelymahor/StudyMatePlus/issues/565) |
-| fix: resolve contact contrast issue, upgrade to icons, and fix broken merge conflict syntax | Medium | [#564](https://github.com/lovelymahor/StudyMatePlus/pull/564) |
-| BUG: "View" button is completely unresponsive on PYQ page. | Medium | [#563](https://github.com/lovelymahor/StudyMatePlus/issues/563) |
-| Edit Profile button is non-functional — no form or handler connected | Medium | [#562](https://github.com/lovelymahor/StudyMatePlus/issues/562) |
-| Default profile picture not showing when no image is uploaded | Medium | [#561](https://github.com/lovelymahor/StudyMatePlus/issues/561) |
-| 🐛 Bug Report: Footer Social Links Redirect Incorrectly | Medium | [#560](https://github.com/lovelymahor/StudyMatePlus/issues/560) |
-| fix(build & UX): resolve merge-conflict/package errors and improve PYQs filtering experience | Medium | [#559](https://github.com/lovelymahor/StudyMatePlus/issues/559) |
-| Feat: Add dark mode for better visibility | Medium | [#558](https://github.com/lovelymahor/StudyMatePlus/issues/558) |
-| Low Contrast Accessibility Violation on Landing Page Stats Metric Labels | Medium | [#557](https://github.com/lovelymahor/StudyMatePlus/issues/557) |
-| Low Hit-Target Area on Landing Page Feature Cards Restricts Click Functionality to Text Elements Only | Medium | [#556](https://github.com/lovelymahor/StudyMatePlus/issues/556) |
-| PYQ's Section - Separate "Department" and "Course" Fields | Medium | [#555](https://github.com/lovelymahor/StudyMatePlus/issues/555) |
-| Study mate plus- feature for semester button | Medium | [#554](https://github.com/lovelymahor/StudyMatePlus/issues/554) |
-| Add Resource Rating System for Notes and PYQs | Medium | [#552](https://github.com/lovelymahor/StudyMatePlus/issues/552) |
-| fix: Unresponsive "View" button and static/dummy data on the PYQs page | Medium | [#551](https://github.com/lovelymahor/StudyMatePlus/issues/551) |
-| feat: Add a custom styled 404 Error page for undefined routes | Medium | [#550](https://github.com/lovelymahor/StudyMatePlus/issues/550) |
 
 ---
 
@@ -1539,6 +1540,7 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
+| # [Feature Request] Add Quick Copy Button for Code Blocks in Chat Messages | Medium | [#228](https://github.com/ThePlator/NPMChat/issues/228) |
 | Improve navbar responsiveness across all devices | Medium | [#226](https://github.com/ThePlator/NPMChat/issues/226) |
 | Add Back Navigation on Login & Signup Pages | Medium | [#225](https://github.com/ThePlator/NPMChat/issues/225) |
 | OTP Email Authentication Not Working for New Users | Medium | [#224](https://github.com/ThePlator/NPMChat/issues/224) |
