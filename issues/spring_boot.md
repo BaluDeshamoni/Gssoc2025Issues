@@ -129,16 +129,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| security(chatbot): Unsanitized link parser permits javascript: URI protocol execution (Stored XSS) | Medium | [#7442](https://github.com/SandeepVashishtha/Eventra/issues/7442) |
-| WebRTC Connection Fails Due to ICE Candidates Added Before Remote Description is Set | Medium | [#7441](https://github.com/SandeepVashishtha/Eventra/issues/7441) |
-| perf: Full-store cursor scan in isFileCached and getCachedFile causing O(N) performance degradation | Medium | [#7439](https://github.com/SandeepVashishtha/Eventra/issues/7439) |
-| Connect analytics dashboard to real data instead of mock values | Medium | [#7438](https://github.com/SandeepVashishtha/Eventra/issues/7438) |
-| Add AI-Powered Smart Event Recommendations with Confidence Scores | Medium | [#7437](https://github.com/SandeepVashishtha/Eventra/issues/7437) |
-| fix: filteredSuggestions in EditProfile recomputes on every render by filtering 43 skill suggestions unnecessarily | Medium | [#7429](https://github.com/SandeepVashishtha/Eventra/issues/7429) |
-| fix: calculateCompletion runs on every render in EditProfile causing unnecessary field iteration on each keystroke | Medium | [#7426](https://github.com/SandeepVashishtha/Eventra/issues/7426) |
-| fix: handleResetScan does not await startScanner causing silent unhandled promise rejection when scanner fails to restart | Medium | [#7424](https://github.com/SandeepVashishtha/Eventra/issues/7424) |
-| fix: handleManualCheckIn does not await processTicket causing premature form reset and silent unhandled promise rejection | Medium | [#7422](https://github.com/SandeepVashishtha/Eventra/issues/7422) |
-| fix: TicketScanner imports safeParseJson from non-existent jsonUtils causing runtime crash when persisting check-in history | Medium | [#7420](https://github.com/SandeepVashishtha/Eventra/issues/7420) |
+| fix(src/hooks/useScrollProgress.js): document and window accessed without SSR guards in useEffect causing crash | Easy | [#9666](https://github.com/SandeepVashishtha/Eventra/issues/9666) |
+| fix(src/hooks/useFocusTrap.js): document.addEventListener called without SSR guard causing crash in server environments | Easy | [#9665](https://github.com/SandeepVashishtha/Eventra/issues/9665) |
+| fix(src/hooks/useBookmarks.js): localStorage accessed without SSR guard in readStorage function | Easy | [#9664](https://github.com/SandeepVashishtha/Eventra/issues/9664) |
+| fix(api/_lib/rate-limit-storage.js): async cleanup hook registered with process.on exit prevents Redis from closing cleanly | Easy | [#9663](https://github.com/SandeepVashishtha/Eventra/issues/9663) |
+| fix(api/_lib/rateLimiter.js): duplicate check method silently overwrites async version in DistributedRateLimiter | Easy | [#9662](https://github.com/SandeepVashishtha/Eventra/issues/9662) |
+| Rate Limiting Trusts Client-Supplied IP Headers Without Proxy Validation | Medium | [#9660](https://github.com/SandeepVashishtha/Eventra/issues/9660) |
+| Internal Error Messages Are Exposed in API Responses | Medium | [#9658](https://github.com/SandeepVashishtha/Eventra/issues/9658) |
+| Filter Endpoint Accepts Unvalidated Query Parameters and Invalid Date Values | Medium | [#9656](https://github.com/SandeepVashishtha/Eventra/issues/9656) |
+| Session Revocation Enforcement Bypassed During KV Storage Outages | Medium | [#9654](https://github.com/SandeepVashishtha/Eventra/issues/9654) |
+| Ticket JWTs Use Fixed 365-Day Expiration Regardless of Event Lifetime | Medium | [#9652](https://github.com/SandeepVashishtha/Eventra/issues/9652) |
+| Session Risk Tracking Falls Back to Process-Local Storage Causing Inconsistent State Across Instances | Medium | [#9648](https://github.com/SandeepVashishtha/Eventra/issues/9648) |
+| Distributed Lock Manager Uses Process-Local Memory and Does Not Coordinate Across Multiple Instances | Medium | [#9646](https://github.com/SandeepVashishtha/Eventra/issues/9646) |
+| Ticket Management Uses Non-Persistent In-Memory Storage Causing Data Loss on Restart | Medium | [#9643](https://github.com/SandeepVashishtha/Eventra/issues/9643) |
 
 ---
 
