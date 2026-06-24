@@ -265,22 +265,23 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add single node VictoriaMetrics locally | Easy | [#4999](https://github.com/OWASP/Nest/pull/4999) |
+| Enable auto-scaling for ECS backend/frontend services | Easy | [#5038](https://github.com/OWASP/Nest/pull/5038) |
 | Improve Module Management UX and Consistency | Easy | [#4987](https://github.com/OWASP/Nest/issues/4987) |
-| feat: automate snapshot creation and scheduling | Easy | [#4938](https://github.com/OWASP/Nest/pull/4938) |
-| fix: fix chapter tests by using domcontentloaded wait strategy | Medium | [#4994](https://github.com/OWASP/Nest/pull/4994) |
+| feat(slack): add BotInteraction model and reaction feedback handler | Medium | [#5035](https://github.com/OWASP/Nest/pull/5035) |
+| add slack reaction based moderation alerts | Medium | [#5034](https://github.com/OWASP/Nest/pull/5034) |
+| Optimize mentorship MentorNode | Medium | [#5031](https://github.com/OWASP/Nest/pull/5031) |
+| Optimize mentorship AdminNode | Medium | [#5030](https://github.com/OWASP/Nest/pull/5030) |
+| feat: Instrument backend with Otel metrics | Medium | [#5029](https://github.com/OWASP/Nest/pull/5029) |
+| Use Program.has_admin() consistently in mentorship mutations | Medium | [#5025](https://github.com/OWASP/Nest/issues/5025) |
+| Optimize GitHub app ReleaseNode | Medium | [#5022](https://github.com/OWASP/Nest/pull/5022) |
+| Feature/snapshot subscription model | Medium | [#5021](https://github.com/OWASP/Nest/pull/5021) |
+| GraphQL resolvers declare prefetch_related but discard it, causing N+1 queries | Medium | [#5015](https://github.com/OWASP/Nest/issues/5015) |
+| Add Candidate Claim Management Dashboard | Medium | [#5006](https://github.com/OWASP/Nest/pull/5006) |
+| formatter and linter support for e2e | Medium | [#5002](https://github.com/OWASP/Nest/pull/5002) |
+| Strip italic, strikethrough and inline code in strip_markdown | Medium | [#5001](https://github.com/OWASP/Nest/pull/5001) |
 | fix: handle invalid search query validation errors | Medium | [#4984](https://github.com/OWASP/Nest/pull/4984) |
 | Add check to prevent github actions from running in forked repository | Medium | [#4968](https://github.com/OWASP/Nest/issues/4968) |
 | Implement GraphQL queries for contributor recognition certificate pages | Medium | [#4962](https://github.com/OWASP/Nest/pull/4962) |
-| feat: add ClusterFuzzLite QueryParser fuzz target | Medium | [#4953](https://github.com/OWASP/Nest/pull/4953) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4943](https://github.com/OWASP/Nest/pull/4943) |
-| Improve header accessibility and keyboard navigation support. Resolves #4804 | Medium | [#4935](https://github.com/OWASP/Nest/pull/4935) |
-| Implement certificate metadata issuance system | Medium | [#4922](https://github.com/OWASP/Nest/pull/4922) |
-| feat(snapshots): refactor snapshot details frontend | Medium | [#4914](https://github.com/OWASP/Nest/pull/4914) |
-| Display repository last updated date on repository cards | Medium | [#4912](https://github.com/OWASP/Nest/issues/4912) |
-| Repository GraphQL fields `issues` and `releases` return only recent items | Medium | [#4895](https://github.com/OWASP/Nest/issues/4895) |
-| feat: Wrap breadcrumb in <nav> landmark for screen reader navigation | Medium | [#4889](https://github.com/OWASP/Nest/issues/4889) |
-| feat: Add structured logging and Sentry tracing to AI agent workflows | Medium | [#4888](https://github.com/OWASP/Nest/issues/4888) |
 
 ---
 
@@ -1002,6 +1003,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: dynamic page title on route change | Medium | [#747](https://github.com/GitMetricsLab/github_tracker/pull/747) |
 | feat: add Terms and Conditions page and footer link | Medium | [#746](https://github.com/GitMetricsLab/github_tracker/pull/746) |
 | feat: add Privacy Policy page and footer link | Medium | [#745](https://github.com/GitMetricsLab/github_tracker/pull/745) |
 | Added fix: reset scroll position on route navigation | Medium | [#744](https://github.com/GitMetricsLab/github_tracker/pull/744) |
@@ -2438,6 +2440,21 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Hero Section Text Overflows on Mobile Devices | Medium | [#611](https://github.com/lovelymahor/StudyMatePlus/issues/611) |
+| Bug: Low Color Contrast on "Learn More" Button in Exam Banner | Medium | [#610](https://github.com/lovelymahor/StudyMatePlus/issues/610) |
+| Support Email Address in Contact Section Is Not Clickable | Medium | [#609](https://github.com/lovelymahor/StudyMatePlus/issues/609) |
+| feat: Add Scroll-to-Top Button for Better Navigation UX | Medium | [#608](https://github.com/lovelymahor/StudyMatePlus/issues/608) |
+| Real-time Fuzzy Search and Query Term Highlighting in Notes and PYQs | Medium | [#607](https://github.com/lovelymahor/StudyMatePlus/issues/607) |
+| Mind Map Canvas Does Not Fit Screen Height | Medium | [#606](https://github.com/lovelymahor/StudyMatePlus/issues/606) |
+| Bug: Back-to-Top Floating Button Missing on Non-Home Pages | Medium | [#605](https://github.com/lovelymahor/StudyMatePlus/issues/605) |
+| Missing feedback form for Student Feedback | Medium | [#604](https://github.com/lovelymahor/StudyMatePlus/issues/604) |
+| fix: resolve syllabus preview/download loading state after filter selection | Medium | [#603](https://github.com/lovelymahor/StudyMatePlus/pull/603) |
+| feat: add hackathon guidance dashboard | Medium | [#602](https://github.com/lovelymahor/StudyMatePlus/pull/602) |
+| Syllabus page stuck in infinite loading after selecting University, Department, and Semester | Medium | [#601](https://github.com/lovelymahor/StudyMatePlus/issues/601) |
+| PYQ files do not open when clicked on the PYQs page | Medium | [#600](https://github.com/lovelymahor/StudyMatePlus/issues/600) |
+| Sahithi- Enhance CTA Section UI for Better Visibility and User Experience | Medium | [#599](https://github.com/lovelymahor/StudyMatePlus/pull/599) |
+| Want to change the background label for the "Ready to ace exams?" | Medium | [#598](https://github.com/lovelymahor/StudyMatePlus/issues/598) |
+| Add Sorting Functionality for Previous Year Question Papers | Medium | [#597](https://github.com/lovelymahor/StudyMatePlus/issues/597) |
 | less Attractive UI | Medium | [#596](https://github.com/lovelymahor/StudyMatePlus/issues/596) |
 | # Bug: PDF Export Truncates Content for Large Datasets | Medium | [#595](https://github.com/lovelymahor/StudyMatePlus/issues/595) |
 | Add particle/trail effect to cursor for better UX | Medium | [#594](https://github.com/lovelymahor/StudyMatePlus/issues/594) |
@@ -2453,21 +2470,6 @@ Fast Workflow Tools
 | assign it to me | Medium | [#583](https://github.com/lovelymahor/StudyMatePlus/issues/583) |
 | profile route checks req.file, but finds no upload.single('avatar') | Medium | [#581](https://github.com/lovelymahor/StudyMatePlus/issues/581) |
 | Feat: The website is too generic and doesn't give the vibe | Medium | [#580](https://github.com/lovelymahor/StudyMatePlus/issues/580) |
-| feat: Add Scroll-to-Top Button Component | Fixes #576 | Medium | [#579](https://github.com/lovelymahor/StudyMatePlus/pull/579) |
-| Inconsistent Section Spacing, Overlapping Floating Cards, and Button Styling | Medium | [#578](https://github.com/lovelymahor/StudyMatePlus/issues/578) |
-| Docs : Add FAQ section to contributing.md file | Medium | [#577](https://github.com/lovelymahor/StudyMatePlus/issues/577) |
-| Add Scroll-to-Top Button Component for Better Navigation UX | Medium | [#576](https://github.com/lovelymahor/StudyMatePlus/issues/576) |
-| Feature:- I want add my university syllabus | Medium | [#575](https://github.com/lovelymahor/StudyMatePlus/issues/575) |
-| contact feature is not not implement properly | Medium | [#574](https://github.com/lovelymahor/StudyMatePlus/issues/574) |
-| Clean up: Remove AI generated "Next Steps" from CONTRIBUTING.md | Medium | [#573](https://github.com/lovelymahor/StudyMatePlus/pull/573) |
-| Remove AI generated template instructions from CONTRIBUTING.md | Medium | [#572](https://github.com/lovelymahor/StudyMatePlus/issues/572) |
-| Feature Request: AMOLED-Optimized "Late Night Study" Dark Theme | Medium | [#571](https://github.com/lovelymahor/StudyMatePlus/issues/571) |
-| Improve text visibility for statistics section in dark mode | Medium | [#570](https://github.com/lovelymahor/StudyMatePlus/issues/570) |
-| Optimize index.html with standard SEO and responsive viewport meta tags | Medium | [#569](https://github.com/lovelymahor/StudyMatePlus/issues/569) |
-| Fixed-Readme | Medium | [#568](https://github.com/lovelymahor/StudyMatePlus/pull/568) |
-| good to hide the topbar when  scrolling down | Medium | [#567](https://github.com/lovelymahor/StudyMatePlus/issues/567) |
-| Refactor routing and component imports in App.js | Medium | [#566](https://github.com/lovelymahor/StudyMatePlus/pull/566) |
-| Insufficient User Guidance and Navigation for New Users | Medium | [#565](https://github.com/lovelymahor/StudyMatePlus/issues/565) |
 
 ---
 
@@ -2850,24 +2852,19 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| SSR crash in userProfileAnalyzer.js — getUserProfile accesses localStorage without SSR guard | Easy | [#9308](https://github.com/SandeepVashishtha/Eventra/issues/9308) |
-| P2P Transfer Safety Timeout Leaves EventMaterials Hook Hanging on Failure | Medium | [#9320](https://github.com/SandeepVashishtha/Eventra/issues/9320) |
-| User-Friendly Error Messages Broken on Waitlist Conflicts Due to Normalized ApiError Object Mismatch | Medium | [#9319](https://github.com/SandeepVashishtha/Eventra/issues/9319) |
-| Redis Rate Limiter Renews TTL on Blocked Requests Causing Permanent Lockouts | Medium | [#9318](https://github.com/SandeepVashishtha/Eventra/issues/9318) |
-| InMemoryLockManager Queue Expiration Causes Critical Race Condition | Medium | [#9317](https://github.com/SandeepVashishtha/Eventra/issues/9317) |
-| Double-Decrement of Remaining Capacity in Event Registration Response | Medium | [#9316](https://github.com/SandeepVashishtha/Eventra/issues/9316) |
-| SSR crash in p2pFileTransfer.js — module-level RTCPeerConnection and BroadcastChannel accessed without SSR guard | Medium | [#9309](https://github.com/SandeepVashishtha/Eventra/issues/9309) |
-| SSR crash in shareUtils.js — copyToClipboard uses document.execCommand without SSR guard | Medium | [#9307](https://github.com/SandeepVashishtha/Eventra/issues/9307) |
-| SSR crash in feedbackUtils.js — all functions access localStorage without SSR guard | Medium | [#9306](https://github.com/SandeepVashishtha/Eventra/issues/9306) |
-| SSR crash in dndUtils.js — isDndActive accesses localStorage without SSR guard | Medium | [#9305](https://github.com/SandeepVashishtha/Eventra/issues/9305) |
-| Bookmarked events don't appear on Saved Events page or Dashboard (two disconnected storage systems) | Medium | [#9304](https://github.com/SandeepVashishtha/Eventra/issues/9304) |
-| Add Skeleton Loading UI for Hackathons Page | Medium | [#9303](https://github.com/SandeepVashishtha/Eventra/issues/9303) |
-| fix: SSR crash in shareModalUtils due to window.location.origin as default parameter | Medium | [#9297](https://github.com/SandeepVashishtha/Eventra/issues/9297) |
-| fix: SSR crash in useTokenExpiry due to unguarded window.location.replace in setTimeout | Medium | [#9296](https://github.com/SandeepVashishtha/Eventra/issues/9296) |
-| fix: SSR crash in useLocalStorage when setValue is called during server rendering | Medium | [#9295](https://github.com/SandeepVashishtha/Eventra/issues/9295) |
-| fix: SSR crash in useRoutePrefetch due to unguarded window access | Medium | [#9294](https://github.com/SandeepVashishtha/Eventra/issues/9294) |
-| fix: getRelativeTime returns null for numeric Unix timestamps instead of processing them | Medium | [#9293](https://github.com/SandeepVashishtha/Eventra/issues/9293) |
-| Enhanced Error Recovery and User-Friendly Error Handling System | Medium | [#9291](https://github.com/SandeepVashishtha/Eventra/issues/9291) |
+| fix(src/hooks/useScrollProgress.js): document and window accessed without SSR guards in useEffect causing crash | Easy | [#9666](https://github.com/SandeepVashishtha/Eventra/issues/9666) |
+| fix(src/hooks/useFocusTrap.js): document.addEventListener called without SSR guard causing crash in server environments | Easy | [#9665](https://github.com/SandeepVashishtha/Eventra/issues/9665) |
+| fix(src/hooks/useBookmarks.js): localStorage accessed without SSR guard in readStorage function | Easy | [#9664](https://github.com/SandeepVashishtha/Eventra/issues/9664) |
+| fix(api/_lib/rate-limit-storage.js): async cleanup hook registered with process.on exit prevents Redis from closing cleanly | Easy | [#9663](https://github.com/SandeepVashishtha/Eventra/issues/9663) |
+| fix(api/_lib/rateLimiter.js): duplicate check method silently overwrites async version in DistributedRateLimiter | Easy | [#9662](https://github.com/SandeepVashishtha/Eventra/issues/9662) |
+| Rate Limiting Trusts Client-Supplied IP Headers Without Proxy Validation | Medium | [#9660](https://github.com/SandeepVashishtha/Eventra/issues/9660) |
+| Internal Error Messages Are Exposed in API Responses | Medium | [#9658](https://github.com/SandeepVashishtha/Eventra/issues/9658) |
+| Filter Endpoint Accepts Unvalidated Query Parameters and Invalid Date Values | Medium | [#9656](https://github.com/SandeepVashishtha/Eventra/issues/9656) |
+| Session Revocation Enforcement Bypassed During KV Storage Outages | Medium | [#9654](https://github.com/SandeepVashishtha/Eventra/issues/9654) |
+| Ticket JWTs Use Fixed 365-Day Expiration Regardless of Event Lifetime | Medium | [#9652](https://github.com/SandeepVashishtha/Eventra/issues/9652) |
+| Session Risk Tracking Falls Back to Process-Local Storage Causing Inconsistent State Across Instances | Medium | [#9648](https://github.com/SandeepVashishtha/Eventra/issues/9648) |
+| Distributed Lock Manager Uses Process-Local Memory and Does Not Coordinate Across Multiple Instances | Medium | [#9646](https://github.com/SandeepVashishtha/Eventra/issues/9646) |
+| Ticket Management Uses Non-Persistent In-Memory Storage Causing Data Loss on Restart | Medium | [#9643](https://github.com/SandeepVashishtha/Eventra/issues/9643) |
 
 ---
 
