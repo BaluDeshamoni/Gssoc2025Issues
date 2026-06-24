@@ -88,6 +88,12 @@
 | Clean root directory — remove scripts, reorganize files | Easy | [#1019](https://github.com/Muneerali199/Draftdeckai/issues/1019) |
 | fix: preserve typed API error prototypes | Easy | [#992](https://github.com/Muneerali199/Draftdeckai/pull/992) |
 | Issue #958 | Easy | [#976](https://github.com/Muneerali199/Draftdeckai/pull/976) |
+| chore(deps-dev): bump @babel/preset-env from 7.29.7 to 8.0.2 | Medium | [#1030](https://github.com/Muneerali199/Draftdeckai/pull/1030) |
+| chore(deps): bump recharts from 2.15.4 to 3.8.1 | Medium | [#1029](https://github.com/Muneerali199/Draftdeckai/pull/1029) |
+| chore(deps-dev): bump @types/node from 25.9.3 to 26.0.0 | Medium | [#1028](https://github.com/Muneerali199/Draftdeckai/pull/1028) |
+| chore(deps): bump the minor-and-patch group with 33 updates | Medium | [#1027](https://github.com/Muneerali199/Draftdeckai/pull/1027) |
+| Test/admin dashboard unit tests | Medium | [#1026](https://github.com/Muneerali199/Draftdeckai/pull/1026) |
+| Update dependencies and add Vitest for UI testing | Medium | [#1025](https://github.com/Muneerali199/Draftdeckai/pull/1025) |
 | refactor: move root docs into docs folder | Medium | [#1024](https://github.com/Muneerali199/Draftdeckai/pull/1024) |
 | fix: validate text to latex request body | Medium | [#1023](https://github.com/Muneerali199/Draftdeckai/pull/1023) |
 | chore(deps-dev): bump eslint-config-next from 15.5.18 to 16.2.9 | Medium | [#1017](https://github.com/Muneerali199/Draftdeckai/pull/1017) |
@@ -102,11 +108,9 @@
 | ci: add linting and type-checking to pipeline (#739) | Medium | [#973](https://github.com/Muneerali199/Draftdeckai/pull/973) |
 | feat: add Go backend env validation at startup (#901) | Medium | [#971](https://github.com/Muneerali199/Draftdeckai/pull/971) |
 | Add SEO metadata and refactor client pages for App Router compatibility | Medium | [#965](https://github.com/Muneerali199/Draftdeckai/pull/965) |
-| Added backend files #902 issue | Medium | [#958](https://github.com/Muneerali199/Draftdeckai/pull/958) |
 | Add post-generation AI edit loop with chat interface | Hard | [#1022](https://github.com/Muneerali199/Draftdeckai/issues/1022) |
 | Build document workflow engine — multi-step, connected document creation | Hard | [#1021](https://github.com/Muneerali199/Draftdeckai/issues/1021) |
 | Differentiate DraftDeckAI landing page and first-run experience | Hard | [#1020](https://github.com/Muneerali199/Draftdeckai/issues/1020) |
-| feat: add dynamic published resume URLs to sitemap | Hard | [#963](https://github.com/Muneerali199/Draftdeckai/pull/963) |
 
 ---
 
