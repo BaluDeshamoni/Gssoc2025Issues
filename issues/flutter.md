@@ -48,7 +48,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| BUG: Google summer of code's filters are not working | Easy | [#319](https://github.com/andoriyaprashant/OpSo/issues/319) |
+| Feat: Improve Readme Formatting and Structure | Medium | [#476](https://github.com/andoriyaprashant/OpSo/issues/476) |
 | feat:improve UI spacing and font size for better readability fixes #384 | Medium | [#475](https://github.com/andoriyaprashant/OpSo/pull/475) |
 | Feat:Add Contextual AI Question Suggestions on Program Pages | Medium | [#474](https://github.com/andoriyaprashant/OpSo/issues/474) |
 | fix: correct fallback asset rendering in LinuxFoundationWidget | Medium | [#452](https://github.com/andoriyaprashant/OpSo/issues/452) |
