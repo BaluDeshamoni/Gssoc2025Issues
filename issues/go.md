@@ -193,24 +193,27 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix:replace some github api badge with static ones | Easy | [#4946](https://github.com/OWASP/Nest/pull/4946) |
-| feat: automate snapshot creation and scheduling | Easy | [#4938](https://github.com/OWASP/Nest/pull/4938) |
-| Sync playwright version between docker/e image and e2e test dependencies | Medium | [#4958](https://github.com/OWASP/Nest/issues/4958) |
-| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#4957](https://github.com/OWASP/Nest/pull/4957) |
-| fix: read Slack credentials from .env in local build | Medium | [#4956](https://github.com/OWASP/Nest/pull/4956) |
-| chore(deps): bump https://github.com/igorshubovych/markdownlint-cli in / | Medium | [#4955](https://github.com/OWASP/Nest/pull/4955) |
-| feat: add ClusterFuzzLite QueryParser fuzz target | Medium | [#4953](https://github.com/OWASP/Nest/pull/4953) |
-| chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates | Medium | [#4950](https://github.com/OWASP/Nest/pull/4950) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4943](https://github.com/OWASP/Nest/pull/4943) |
-| chore(deps): bump the version-updates group across 2 directories with 2 updates | Medium | [#4940](https://github.com/OWASP/Nest/pull/4940) |
-| Improve header accessibility and keyboard navigation support. Resolves #4804 | Medium | [#4935](https://github.com/OWASP/Nest/pull/4935) |
-| Implement certificate metadata issuance system | Medium | [#4922](https://github.com/OWASP/Nest/pull/4922) |
-| feat(snapshots): refactor snapshot details frontend | Medium | [#4914](https://github.com/OWASP/Nest/pull/4914) |
-| Display repository last updated date on repository cards | Medium | [#4912](https://github.com/OWASP/Nest/issues/4912) |
-| chore(deps): bump apexcharts in /frontend | Medium | [#4905](https://github.com/OWASP/Nest/pull/4905) |
-| Repository GraphQL fields `issues` and `releases` return only recent items | Medium | [#4895](https://github.com/OWASP/Nest/issues/4895) |
-| feat: Wrap breadcrumb in <nav> landmark for screen reader navigation | Medium | [#4889](https://github.com/OWASP/Nest/issues/4889) |
-| feat: Add structured logging and Sentry tracing to AI agent workflows | Medium | [#4888](https://github.com/OWASP/Nest/issues/4888) |
+| feat: implement infrastructure integration testing suite using LocalStack and Terraform test framework | Easy | [#5091](https://github.com/OWASP/Nest/pull/5091) |
+| chore(deps): bump aquasec/trivy from 0.71.2 to 0.72.0 in /docker/trivy in the version-updates group across 1 directory | Medium | [#5106](https://github.com/OWASP/Nest/pull/5106) |
+| chore(deps): bump the version-updates group across 3 directories with 1 update | Medium | [#5105](https://github.com/OWASP/Nest/pull/5105) |
+| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#5104](https://github.com/OWASP/Nest/pull/5104) |
+| chore(deps): bump @next/third-parties in /frontend | Medium | [#5103](https://github.com/OWASP/Nest/pull/5103) |
+| Draft: Improve typing for github_user attributes on GraphQL nodes | Medium | [#5100](https://github.com/OWASP/Nest/pull/5100) |
+| Fix SynchronousOnlyOperation exceptions in mentorship app | Medium | [#5099](https://github.com/OWASP/Nest/pull/5099) |
+| nest_updated_at is never refreshed for records updated via bulk_save | Medium | [#5090](https://github.com/OWASP/Nest/issues/5090) |
+| Optimize GitHub RepositoryNode | Medium | [#5082](https://github.com/OWASP/Nest/pull/5082) |
+| Store Django sessions in Redis instead of the database | Medium | [#5081](https://github.com/OWASP/Nest/pull/5081) |
+| Split bootstrap Terraform per environment to isolate staging and production IAM | Medium | [#5077](https://github.com/OWASP/Nest/issues/5077) |
+| feat(backend): strip exif metadata from candidate claims | Medium | [#5074](https://github.com/OWASP/Nest/pull/5074) |
+| Update Claim and Evidence GraphQL Queries To Add Reviews | Medium | [#5069](https://github.com/OWASP/Nest/pull/5069) |
+| feat: display repository last updated date on repository cards | Medium | [#5067](https://github.com/OWASP/Nest/pull/5067) |
+| Add Django Model for Claim Reviews | Medium | [#5066](https://github.com/OWASP/Nest/pull/5066) |
+| Feature/improve module management ux | Medium | [#5059](https://github.com/OWASP/Nest/pull/5059) |
+| Feature/snapshot subscription graphql | Medium | [#5058](https://github.com/OWASP/Nest/pull/5058) |
+| Add Evidence Management Dashboard | Medium | [#5057](https://github.com/OWASP/Nest/pull/5057) |
+| feat(slack): add BotInteraction model and reaction feedback handler | Medium | [#5035](https://github.com/OWASP/Nest/pull/5035) |
+| add slack reaction based moderation alerts | Medium | [#5034](https://github.com/OWASP/Nest/pull/5034) |
+| Add snapshot subscription model | Medium | [#5021](https://github.com/OWASP/Nest/pull/5021) |
 
 ---
 
@@ -715,6 +718,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add conditional rendering for empty data state | Medium | [#748](https://github.com/GitMetricsLab/github_tracker/pull/748) |
+| feat: dynamic page title on route change | Medium | [#747](https://github.com/GitMetricsLab/github_tracker/pull/747) |
+| feat: add Terms and Conditions page and footer link | Medium | [#746](https://github.com/GitMetricsLab/github_tracker/pull/746) |
+| feat: add Privacy Policy page and footer link | Medium | [#745](https://github.com/GitMetricsLab/github_tracker/pull/745) |
 | Added fix: reset scroll position on route navigation | Medium | [#744](https://github.com/GitMetricsLab/github_tracker/pull/744) |
 | Add Open Graph and Twitter Card meta tags for social sharing | Medium | [#740](https://github.com/GitMetricsLab/github_tracker/pull/740) |
 | Update Contact.tsx | Medium | [#738](https://github.com/GitMetricsLab/github_tracker/pull/738) |
@@ -725,9 +732,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | feat: add github user comparison interface | Medium | [#733](https://github.com/GitMetricsLab/github_tracker/pull/733) |
 | feat: add contributor growth analytics chart | Medium | [#732](https://github.com/GitMetricsLab/github_tracker/pull/732) |
 | feat: add repository health score dashboard card | Medium | [#731](https://github.com/GitMetricsLab/github_tracker/pull/731) |
-| Feature : Improve User Model Test Coverage and Reliability | Medium | [#718](https://github.com/GitMetricsLab/github_tracker/pull/718) |
-| improvised about page | Medium | [#716](https://github.com/GitMetricsLab/github_tracker/pull/716) |
-| feat(a11y): add keyboard navigation support (#631) | Medium | [#715](https://github.com/GitMetricsLab/github_tracker/pull/715) |
 
 ---
 
@@ -1303,12 +1307,12 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump the production-dependencies group across 1 directory with 29 updates | Medium | [#123](https://github.com/CoderUzumaki/PrepEdge-AI/pull/123) |
 | Install Vercel Web Analytics | Medium | [#121](https://github.com/CoderUzumaki/PrepEdge-AI/pull/121) |
 | chore(deps-dev): bump eslint-plugin-react-refresh from 0.4.26 to 0.5.2 | Medium | [#119](https://github.com/CoderUzumaki/PrepEdge-AI/pull/119) |
 | chore(deps-dev): bump vitest from 3.2.6 to 4.1.8 | Medium | [#118](https://github.com/CoderUzumaki/PrepEdge-AI/pull/118) |
 | chore(deps-dev): bump eslint-plugin-react-hooks from 5.2.0 to 7.1.1 | Medium | [#117](https://github.com/CoderUzumaki/PrepEdge-AI/pull/117) |
 | chore(deps-dev): bump eslint from 9.39.4 to 10.4.1 | Medium | [#116](https://github.com/CoderUzumaki/PrepEdge-AI/pull/116) |
-| chore(deps): bump the production-dependencies group across 1 directory with 17 updates | Medium | [#115](https://github.com/CoderUzumaki/PrepEdge-AI/pull/115) |
 | POST /contact has no rate limiting and interpolates unsanitized user input into HTML email body | Medium | [#111](https://github.com/CoderUzumaki/PrepEdge-AI/issues/111) |
 | GET /reports/:interviewId exposes full report data without authentication | Medium | [#110](https://github.com/CoderUzumaki/PrepEdge-AI/issues/110) |
 | GET /:interviewId and POST /:interviewId/answer are accessible without authentication | Medium | [#109](https://github.com/CoderUzumaki/PrepEdge-AI/issues/109) |
@@ -1643,7 +1647,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Highlight Active City in Navbar Dynamically | Medium | [#42](https://github.com/komalkhatod1105/One-Stop-Guide/issues/42) |
 | Add Admin Panel to Manage City Content (CRUD Functionality) | Medium | [#40](https://github.com/komalkhatod1105/One-Stop-Guide/issues/40) |
 | Add a Code of Conduct to Project | Medium | [#39](https://github.com/komalkhatod1105/One-Stop-Guide/issues/39) |
-| Add more cities, enhance the UI , Add more information and photos for each city #22 | Medium | [#31](https://github.com/komalkhatod1105/One-Stop-Guide/pull/31) |
 | Suggestion: Add a CONTRIBUTING.md File to project | Medium | [#30](https://github.com/komalkhatod1105/One-Stop-Guide/issues/30) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#29](https://github.com/komalkhatod1105/One-Stop-Guide/issues/29) |
 | Complete UI Revamp: City Structure, Sticky Navbar, Search Bar & PHP Setup | Medium | [#28](https://github.com/komalkhatod1105/One-Stop-Guide/pull/28) |
@@ -1743,36 +1746,36 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| 🐛 Bug Report: Footer Social Links Redirect Incorrectly | Medium | [#560](https://github.com/lovelymahor/StudyMatePlus/issues/560) |
-| fix(build & UX): resolve merge-conflict/package errors and improve PYQs filtering experience | Medium | [#559](https://github.com/lovelymahor/StudyMatePlus/issues/559) |
-| Feat: Add dark mode for better visibility | Medium | [#558](https://github.com/lovelymahor/StudyMatePlus/issues/558) |
-| Low Contrast Accessibility Violation on Landing Page Stats Metric Labels | Medium | [#557](https://github.com/lovelymahor/StudyMatePlus/issues/557) |
-| Low Hit-Target Area on Landing Page Feature Cards Restricts Click Functionality to Text Elements Only | Medium | [#556](https://github.com/lovelymahor/StudyMatePlus/issues/556) |
-| PYQ's Section - Separate "Department" and "Course" Fields | Medium | [#555](https://github.com/lovelymahor/StudyMatePlus/issues/555) |
-| Study mate plus- feature for semester button | Medium | [#554](https://github.com/lovelymahor/StudyMatePlus/issues/554) |
-| Add Resource Rating System for Notes and PYQs | Medium | [#552](https://github.com/lovelymahor/StudyMatePlus/issues/552) |
-| fix: Unresponsive "View" button and static/dummy data on the PYQs page | Medium | [#551](https://github.com/lovelymahor/StudyMatePlus/issues/551) |
-| feat: Add a custom styled 404 Error page for undefined routes | Medium | [#550](https://github.com/lovelymahor/StudyMatePlus/issues/550) |
-| fix: "Upload Resource" button on the Notes page is not working | Medium | [#549](https://github.com/lovelymahor/StudyMatePlus/issues/549) |
-| fix: "Preview" buttons on Syllabus and Notes cards are unresponsive | Medium | [#548](https://github.com/lovelymahor/StudyMatePlus/issues/548) |
-| Implement Interactive Feedback Modal for "Submit Your Feedback" Button | Medium | [#547](https://github.com/lovelymahor/StudyMatePlus/issues/547) |
-| Low Contrast / Unreadable Social Media Links under "Follow Us" | Medium | [#546](https://github.com/lovelymahor/StudyMatePlus/issues/546) |
-| Token refresh request deduplication during concurrent access token expiration | Medium | [#545](https://github.com/lovelymahor/StudyMatePlus/issues/545) |
-| Improve social Icons | Medium | [#544](https://github.com/lovelymahor/StudyMatePlus/pull/544) |
-| fix: package.json has invalid JSON and duplicate dependencies | Medium | [#543](https://github.com/lovelymahor/StudyMatePlus/issues/543) |
-| feat: Add Study Streak Tracker and Achievement Badges (Fixes #520) | Medium | [#542](https://github.com/lovelymahor/StudyMatePlus/pull/542) |
-| fix: clean up CONTRIBUTING.md contributor guidance | Medium | [#541](https://github.com/lovelymahor/StudyMatePlus/pull/541) |
-| Fix Non-Functional PYQ View Button | Medium | [#539](https://github.com/lovelymahor/StudyMatePlus/issues/539) |
-| CONTRIBUTING.md contains repository setup instructions intended for maintainers | Medium | [#538](https://github.com/lovelymahor/StudyMatePlus/issues/538) |
-| Bug: "Download Notes (PDF)" button at the bottom of the Analytics page is not working | Medium | [#537](https://github.com/lovelymahor/StudyMatePlus/issues/537) |
-| Fix Mobile Navbar Layout Overflow and Improve Responsiveness | Medium | [#536](https://github.com/lovelymahor/StudyMatePlus/issues/536) |
-| feat: Add Study Streak Tracker and Achievement Badges (Fixes #520) | Medium | [#535](https://github.com/lovelymahor/StudyMatePlus/pull/535) |
-| Bug: Clicking "Mentorship" in the FAQ footer redirects to a blank white page | Medium | [#534](https://github.com/lovelymahor/StudyMatePlus/issues/534) |
-| fix: Download Notes button opens local HTML file instead of actual PDF | Medium | [#533](https://github.com/lovelymahor/StudyMatePlus/issues/533) |
-| fix: resolve frontend compilation and build issues | Medium | [#532](https://github.com/lovelymahor/StudyMatePlus/pull/532) |
-| Frontend fails to compile due to unclosed CSS block in Navbar.css | Medium | [#531](https://github.com/lovelymahor/StudyMatePlus/issues/531) |
-| User Profile Avatar Not Displayed Despite Profile Data Loading Successfully | Medium | [#530](https://github.com/lovelymahor/StudyMatePlus/issues/530) |
-| Title: Redesign Navbar Typography and Improve Navigation UX | Medium | [#528](https://github.com/lovelymahor/StudyMatePlus/issues/528) |
+| ## 📄 Documentation: Missing `docs/` folder referenced in Project Structure | Medium | [#635](https://github.com/lovelymahor/StudyMatePlus/issues/635) |
+| ## ✨ Feature Request: Implement the "Student Feedback on Exam Papers" module | Medium | [#634](https://github.com/lovelymahor/StudyMatePlus/issues/634) |
+| refactor(server): Eliminate competing Express bootstrap paths by establishing a single canonical application entry point | Medium | [#633](https://github.com/lovelymahor/StudyMatePlus/issues/633) |
+| Fix Create Account page logo highlight and container alignment | Medium | [#632](https://github.com/lovelymahor/StudyMatePlus/issues/632) |
+| Filter dropdowns on "Access Previous Year Question Papers" page are non-functional / lack dependent filtering | Medium | [#631](https://github.com/lovelymahor/StudyMatePlus/issues/631) |
+| Update text color to white on Syllabus card labels to improve accessibility | Medium | [#630](https://github.com/lovelymahor/StudyMatePlus/issues/630) |
+| fix: align hero CTA buttons vertically | Medium | [#629](https://github.com/lovelymahor/StudyMatePlus/pull/629) |
+| Improve Vertical Alignment of Hero Section CTA Buttons | Medium | [#628](https://github.com/lovelymahor/StudyMatePlus/issues/628) |
+| Add Resource Preview Before Download (PDF Thumbnail, Metadata & Contributor Details) | Medium | [#627](https://github.com/lovelymahor/StudyMatePlus/issues/627) |
+| Registration fails with generic "Something went wrong" error on account creation | Medium | [#626](https://github.com/lovelymahor/StudyMatePlus/issues/626) |
+| Improve hover animation speed for feature cards to enhance user experience | Medium | [#625](https://github.com/lovelymahor/StudyMatePlus/issues/625) |
+| Fix #609: Make support email clickable in Contact and FAQ sections | Medium | [#624](https://github.com/lovelymahor/StudyMatePlus/pull/624) |
+| Architecture Inconsistency & Code Duplication (Feedback Logic) | Medium | [#623](https://github.com/lovelymahor/StudyMatePlus/issues/623) |
+| Remove duplicate CORS and JSON middleware | Medium | [#622](https://github.com/lovelymahor/StudyMatePlus/pull/622) |
+| UI Fix: Improve Text Visibility on Syllabus Collection Page in Light Mode | Medium | [#621](https://github.com/lovelymahor/StudyMatePlus/issues/621) |
+| Add Light Mode and Dark Mode Toggle for Enhanced User Experience | Medium | [#620](https://github.com/lovelymahor/StudyMatePlus/issues/620) |
+| Implement Dynamic Tag-Based Filtering & Fuzzy Search Subsystem for PYQs/Syllabus View | Medium | [#619](https://github.com/lovelymahor/StudyMatePlus/issues/619) |
+| Critical CORS Configuration Conflict Blocking User Authentication | Medium | [#618](https://github.com/lovelymahor/StudyMatePlus/issues/618) |
+| Critical CORS Configuration Conflict Blocking User Authentication | Medium | [#617](https://github.com/lovelymahor/StudyMatePlus/issues/617) |
+| UI: Fix Footer alignment and symmetry on responsive viewports | Medium | [#616](https://github.com/lovelymahor/StudyMatePlus/issues/616) |
+| feat: add floating "scroll-to-top button" with smooth scrolling | Medium | [#615](https://github.com/lovelymahor/StudyMatePlus/pull/615) |
+| Feedback tab does not provide a feedback form; "Submit Your Feedback" button is non-functional | Medium | [#614](https://github.com/lovelymahor/StudyMatePlus/issues/614) |
+| Bug: Hero Section Text Overflows on Mobile Devices | Medium | [#611](https://github.com/lovelymahor/StudyMatePlus/issues/611) |
+| Bug: Low Color Contrast on "Learn More" Button in Exam Banner | Medium | [#610](https://github.com/lovelymahor/StudyMatePlus/issues/610) |
+| Support Email Address in Contact Section Is Not Clickable | Medium | [#609](https://github.com/lovelymahor/StudyMatePlus/issues/609) |
+| feat: Add Scroll-to-Top Button for Better Navigation UX | Medium | [#608](https://github.com/lovelymahor/StudyMatePlus/issues/608) |
+| Real-time Fuzzy Search and Query Term Highlighting in Notes and PYQs | Medium | [#607](https://github.com/lovelymahor/StudyMatePlus/issues/607) |
+| Mind Map Canvas Does Not Fit Screen Height | Medium | [#606](https://github.com/lovelymahor/StudyMatePlus/issues/606) |
+| Bug: Back-to-Top Floating Button Missing on Non-Home Pages | Medium | [#605](https://github.com/lovelymahor/StudyMatePlus/issues/605) |
+| Missing feedback form for Student Feedback | Medium | [#604](https://github.com/lovelymahor/StudyMatePlus/issues/604) |
 
 ---
 
@@ -2068,15 +2071,15 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
+| # [Feature Request] Add Quick Copy Button for Code Blocks in Chat Messages | Medium | [#228](https://github.com/ThePlator/NPMChat/issues/228) |
 | Improve navbar responsiveness across all devices | Medium | [#226](https://github.com/ThePlator/NPMChat/issues/226) |
-| Add Back Navigation on Login & Signup Pages | Medium | [#225](https://github.com/ThePlator/NPMChat/issues/225) |
-| OTP Email Authentication Not Working for New Users | Medium | [#224](https://github.com/ThePlator/NPMChat/issues/224) |
 | Prevent duplicate socket reconnects caused by accumulated token refresh listeners | Medium | [#196](https://github.com/ThePlator/NPMChat/issues/196) |
 | Challenge correctness is derived from fragile output text | Medium | [#194](https://github.com/ThePlator/NPMChat/issues/194) |
 | Room socket events do not enforce room membership or host permissions | Medium | [#193](https://github.com/ThePlator/NPMChat/issues/193) |
 | Fix oauth ci passport guard | Medium | [#152](https://github.com/ThePlator/NPMChat/pull/152) |
 | Missing Receiver Verification on Message Send | Medium | [#141](https://github.com/ThePlator/NPMChat/issues/141) |
 | fix: add centralized backend error handling | Medium | [#92](https://github.com/ThePlator/NPMChat/pull/92) |
+| Add persistent WebSocket backend deployment support | Medium | [#84](https://github.com/ThePlator/NPMChat/pull/84) |
 | fix: require structured challenge test results | Hard | [#201](https://github.com/ThePlator/NPMChat/pull/201) |
 | security: enforce room socket membership | Hard | [#200](https://github.com/ThePlator/NPMChat/pull/200) |
 | O auth2 with cookie | Hard | [#197](https://github.com/ThePlator/NPMChat/pull/197) |
