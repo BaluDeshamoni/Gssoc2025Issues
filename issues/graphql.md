@@ -14,24 +14,27 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: automate snapshot creation and scheduling | Easy | [#4938](https://github.com/OWASP/Nest/pull/4938) |
-| fix: handle invalid search query validation errors | Medium | [#4984](https://github.com/OWASP/Nest/pull/4984) |
-| chore(deps): bump isomorphic-dompurify in /frontend | Medium | [#4983](https://github.com/OWASP/Nest/pull/4983) |
-| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#4982](https://github.com/OWASP/Nest/pull/4982) |
-| chore(deps): bump the version-updates group across 2 directories with 1 update | Medium | [#4981](https://github.com/OWASP/Nest/pull/4981) |
-| strip_markdown() only removes bold, leaving italic/strikethrough/code markers in the plain text output | Medium | [#4973](https://github.com/OWASP/Nest/issues/4973) |
-| Add check to prevent github actions from running in forked repository | Medium | [#4968](https://github.com/OWASP/Nest/issues/4968) |
-| Implement GraphQL queries for contributor recognition certificate pages | Medium | [#4962](https://github.com/OWASP/Nest/pull/4962) |
-| fix: read Slack credentials from .env in local build | Medium | [#4956](https://github.com/OWASP/Nest/pull/4956) |
-| feat: add ClusterFuzzLite QueryParser fuzz target | Medium | [#4953](https://github.com/OWASP/Nest/pull/4953) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4943](https://github.com/OWASP/Nest/pull/4943) |
-| Improve header accessibility and keyboard navigation support. Resolves #4804 | Medium | [#4935](https://github.com/OWASP/Nest/pull/4935) |
-| Implement certificate metadata issuance system | Medium | [#4922](https://github.com/OWASP/Nest/pull/4922) |
-| feat(snapshots): refactor snapshot details frontend | Medium | [#4914](https://github.com/OWASP/Nest/pull/4914) |
-| Display repository last updated date on repository cards | Medium | [#4912](https://github.com/OWASP/Nest/issues/4912) |
-| Repository GraphQL fields `issues` and `releases` return only recent items | Medium | [#4895](https://github.com/OWASP/Nest/issues/4895) |
-| feat: Wrap breadcrumb in <nav> landmark for screen reader navigation | Medium | [#4889](https://github.com/OWASP/Nest/issues/4889) |
-| feat: Add structured logging and Sentry tracing to AI agent workflows | Medium | [#4888](https://github.com/OWASP/Nest/issues/4888) |
+| feat: implement infrastructure integration testing suite using LocalStack and Terraform test framework | Easy | [#5091](https://github.com/OWASP/Nest/pull/5091) |
+| chore(deps): bump aquasec/trivy from 0.71.2 to 0.72.0 in /docker/trivy in the version-updates group across 1 directory | Medium | [#5106](https://github.com/OWASP/Nest/pull/5106) |
+| chore(deps): bump the version-updates group across 3 directories with 1 update | Medium | [#5105](https://github.com/OWASP/Nest/pull/5105) |
+| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#5104](https://github.com/OWASP/Nest/pull/5104) |
+| chore(deps): bump @next/third-parties in /frontend | Medium | [#5103](https://github.com/OWASP/Nest/pull/5103) |
+| Draft: Improve typing for github_user attributes on GraphQL nodes | Medium | [#5100](https://github.com/OWASP/Nest/pull/5100) |
+| Fix SynchronousOnlyOperation exceptions in mentorship app | Medium | [#5099](https://github.com/OWASP/Nest/pull/5099) |
+| nest_updated_at is never refreshed for records updated via bulk_save | Medium | [#5090](https://github.com/OWASP/Nest/issues/5090) |
+| Optimize GitHub RepositoryNode | Medium | [#5082](https://github.com/OWASP/Nest/pull/5082) |
+| Store Django sessions in Redis instead of the database | Medium | [#5081](https://github.com/OWASP/Nest/pull/5081) |
+| Split bootstrap Terraform per environment to isolate staging and production IAM | Medium | [#5077](https://github.com/OWASP/Nest/issues/5077) |
+| feat(backend): strip exif metadata from candidate claims | Medium | [#5074](https://github.com/OWASP/Nest/pull/5074) |
+| Update Claim and Evidence GraphQL Queries To Add Reviews | Medium | [#5069](https://github.com/OWASP/Nest/pull/5069) |
+| feat: display repository last updated date on repository cards | Medium | [#5067](https://github.com/OWASP/Nest/pull/5067) |
+| Add Django Model for Claim Reviews | Medium | [#5066](https://github.com/OWASP/Nest/pull/5066) |
+| Feature/improve module management ux | Medium | [#5059](https://github.com/OWASP/Nest/pull/5059) |
+| Feature/snapshot subscription graphql | Medium | [#5058](https://github.com/OWASP/Nest/pull/5058) |
+| Add Evidence Management Dashboard | Medium | [#5057](https://github.com/OWASP/Nest/pull/5057) |
+| feat(slack): add BotInteraction model and reaction feedback handler | Medium | [#5035](https://github.com/OWASP/Nest/pull/5035) |
+| add slack reaction based moderation alerts | Medium | [#5034](https://github.com/OWASP/Nest/pull/5034) |
+| Add snapshot subscription model | Medium | [#5021](https://github.com/OWASP/Nest/pull/5021) |
 
 ---
 
