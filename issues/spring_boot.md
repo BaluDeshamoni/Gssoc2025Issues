@@ -129,19 +129,20 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix(src/hooks/useScrollProgress.js): document and window accessed without SSR guards in useEffect causing crash | Easy | [#9666](https://github.com/SandeepVashishtha/Eventra/issues/9666) |
-| fix(src/hooks/useFocusTrap.js): document.addEventListener called without SSR guard causing crash in server environments | Easy | [#9665](https://github.com/SandeepVashishtha/Eventra/issues/9665) |
-| fix(src/hooks/useBookmarks.js): localStorage accessed without SSR guard in readStorage function | Easy | [#9664](https://github.com/SandeepVashishtha/Eventra/issues/9664) |
-| fix(api/_lib/rate-limit-storage.js): async cleanup hook registered with process.on exit prevents Redis from closing cleanly | Easy | [#9663](https://github.com/SandeepVashishtha/Eventra/issues/9663) |
-| fix(api/_lib/rateLimiter.js): duplicate check method silently overwrites async version in DistributedRateLimiter | Easy | [#9662](https://github.com/SandeepVashishtha/Eventra/issues/9662) |
-| Rate Limiting Trusts Client-Supplied IP Headers Without Proxy Validation | Medium | [#9660](https://github.com/SandeepVashishtha/Eventra/issues/9660) |
-| Internal Error Messages Are Exposed in API Responses | Medium | [#9658](https://github.com/SandeepVashishtha/Eventra/issues/9658) |
-| Filter Endpoint Accepts Unvalidated Query Parameters and Invalid Date Values | Medium | [#9656](https://github.com/SandeepVashishtha/Eventra/issues/9656) |
-| Session Revocation Enforcement Bypassed During KV Storage Outages | Medium | [#9654](https://github.com/SandeepVashishtha/Eventra/issues/9654) |
-| Ticket JWTs Use Fixed 365-Day Expiration Regardless of Event Lifetime | Medium | [#9652](https://github.com/SandeepVashishtha/Eventra/issues/9652) |
-| Session Risk Tracking Falls Back to Process-Local Storage Causing Inconsistent State Across Instances | Medium | [#9648](https://github.com/SandeepVashishtha/Eventra/issues/9648) |
-| Distributed Lock Manager Uses Process-Local Memory and Does Not Coordinate Across Multiple Instances | Medium | [#9646](https://github.com/SandeepVashishtha/Eventra/issues/9646) |
-| Ticket Management Uses Non-Persistent In-Memory Storage Causing Data Loss on Restart | Medium | [#9643](https://github.com/SandeepVashishtha/Eventra/issues/9643) |
+| CSP header missing worker-src and Sentry connect-src directives — blocking blob workers and error reporting | Medium | [#10028](https://github.com/SandeepVashishtha/Eventra/issues/10028) |
+| Projects page crashes with "ReferenceError: Project is not defined" on mobile | Medium | [#10027](https://github.com/SandeepVashishtha/Eventra/issues/10027) |
+| Bug: homepage contributor guide CTA uses wrong route casing | Medium | [#10015](https://github.com/SandeepVashishtha/Eventra/issues/10015) |
+| Bug: navbar Create Event actions link to /events/create instead of the registered route | Medium | [#10014](https://github.com/SandeepVashishtha/Eventra/issues/10014) |
+| Bug: dashboard Quest Center link targets missing /dashboard/quests route | Medium | [#10013](https://github.com/SandeepVashishtha/Eventra/issues/10013) |
+| Bug: floor plan 3D Walkthrough button navigates to an unregistered route | Medium | [#10012](https://github.com/SandeepVashishtha/Eventra/issues/10012) |
+| Bug: Cookies page imports next/link inside a Vite React app | Medium | [#10011](https://github.com/SandeepVashishtha/Eventra/issues/10011) |
+| Bug: footer Cookies link points to /cookies but no route is registered | Medium | [#10010](https://github.com/SandeepVashishtha/Eventra/issues/10010) |
+| Bug: React tests import @testing-library/user-event without declaring it | Medium | [#10009](https://github.com/SandeepVashishtha/Eventra/issues/10009) |
+| Bug: test setup imports @testing-library/jest-dom without declaring it | Medium | [#10008](https://github.com/SandeepVashishtha/Eventra/issues/10008) |
+| Bug: MSW mock files import an undeclared msw package | Medium | [#10007](https://github.com/SandeepVashishtha/Eventra/issues/10007) |
+| Bug: /api/events route imports Express without declaring the dependency | Medium | [#10006](https://github.com/SandeepVashishtha/Eventra/issues/10006) |
+| Bug: EventDetails still renders mojibake strings in copy text and action buttons | Medium | [#10000](https://github.com/SandeepVashishtha/Eventra/issues/10000) |
+| Bug: EventDetails share button never opens ShareModal because isOpen prop is omitted | Medium | [#9999](https://github.com/SandeepVashishtha/Eventra/issues/9999) |
 
 ---
 
