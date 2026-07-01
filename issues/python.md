@@ -208,23 +208,27 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enable auto-scaling for ECS backend/frontend services | Easy | [#5038](https://github.com/OWASP/Nest/pull/5038) |
-| Improve Module Management UX and Consistency | Easy | [#4987](https://github.com/OWASP/Nest/issues/4987) |
+| feat: implement infrastructure integration testing suite using LocalStack and Terraform test framework | Easy | [#5091](https://github.com/OWASP/Nest/pull/5091) |
+| chore(deps): bump aquasec/trivy from 0.71.2 to 0.72.0 in /docker/trivy in the version-updates group across 1 directory | Medium | [#5106](https://github.com/OWASP/Nest/pull/5106) |
+| chore(deps): bump the version-updates group across 3 directories with 1 update | Medium | [#5105](https://github.com/OWASP/Nest/pull/5105) |
+| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#5104](https://github.com/OWASP/Nest/pull/5104) |
+| chore(deps): bump @next/third-parties in /frontend | Medium | [#5103](https://github.com/OWASP/Nest/pull/5103) |
+| Draft: Improve typing for github_user attributes on GraphQL nodes | Medium | [#5100](https://github.com/OWASP/Nest/pull/5100) |
+| Fix SynchronousOnlyOperation exceptions in mentorship app | Medium | [#5099](https://github.com/OWASP/Nest/pull/5099) |
+| nest_updated_at is never refreshed for records updated via bulk_save | Medium | [#5090](https://github.com/OWASP/Nest/issues/5090) |
+| Optimize GitHub RepositoryNode | Medium | [#5082](https://github.com/OWASP/Nest/pull/5082) |
+| Store Django sessions in Redis instead of the database | Medium | [#5081](https://github.com/OWASP/Nest/pull/5081) |
+| Split bootstrap Terraform per environment to isolate staging and production IAM | Medium | [#5077](https://github.com/OWASP/Nest/issues/5077) |
+| feat(backend): strip exif metadata from candidate claims | Medium | [#5074](https://github.com/OWASP/Nest/pull/5074) |
+| Update Claim and Evidence GraphQL Queries To Add Reviews | Medium | [#5069](https://github.com/OWASP/Nest/pull/5069) |
+| feat: display repository last updated date on repository cards | Medium | [#5067](https://github.com/OWASP/Nest/pull/5067) |
+| Add Django Model for Claim Reviews | Medium | [#5066](https://github.com/OWASP/Nest/pull/5066) |
+| Feature/improve module management ux | Medium | [#5059](https://github.com/OWASP/Nest/pull/5059) |
+| Feature/snapshot subscription graphql | Medium | [#5058](https://github.com/OWASP/Nest/pull/5058) |
+| Add Evidence Management Dashboard | Medium | [#5057](https://github.com/OWASP/Nest/pull/5057) |
 | feat(slack): add BotInteraction model and reaction feedback handler | Medium | [#5035](https://github.com/OWASP/Nest/pull/5035) |
 | add slack reaction based moderation alerts | Medium | [#5034](https://github.com/OWASP/Nest/pull/5034) |
-| Optimize mentorship MentorNode | Medium | [#5031](https://github.com/OWASP/Nest/pull/5031) |
-| Optimize mentorship AdminNode | Medium | [#5030](https://github.com/OWASP/Nest/pull/5030) |
-| feat: Instrument backend with Otel metrics | Medium | [#5029](https://github.com/OWASP/Nest/pull/5029) |
-| Use Program.has_admin() consistently in mentorship mutations | Medium | [#5025](https://github.com/OWASP/Nest/issues/5025) |
-| Optimize GitHub app ReleaseNode | Medium | [#5022](https://github.com/OWASP/Nest/pull/5022) |
-| Feature/snapshot subscription model | Medium | [#5021](https://github.com/OWASP/Nest/pull/5021) |
-| GraphQL resolvers declare prefetch_related but discard it, causing N+1 queries | Medium | [#5015](https://github.com/OWASP/Nest/issues/5015) |
-| Add Candidate Claim Management Dashboard | Medium | [#5006](https://github.com/OWASP/Nest/pull/5006) |
-| formatter and linter support for e2e | Medium | [#5002](https://github.com/OWASP/Nest/pull/5002) |
-| Strip italic, strikethrough and inline code in strip_markdown | Medium | [#5001](https://github.com/OWASP/Nest/pull/5001) |
-| fix: handle invalid search query validation errors | Medium | [#4984](https://github.com/OWASP/Nest/pull/4984) |
-| Add check to prevent github actions from running in forked repository | Medium | [#4968](https://github.com/OWASP/Nest/issues/4968) |
-| Implement GraphQL queries for contributor recognition certificate pages | Medium | [#4962](https://github.com/OWASP/Nest/pull/4962) |
+| Add snapshot subscription model | Medium | [#5021](https://github.com/OWASP/Nest/pull/5021) |
 
 ---
 
@@ -649,6 +653,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Smart plant-disease detector | Medium | [#868](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/868) |
 | Upgrade Airbnb Demand Prediction Pipeline with Feature Engineering and CatBoost-Based Gradient Boosting Model | Medium | [#867](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/867) |
 | Updated Training Pipeline with LightGBM Integration and Improved Documentation | Medium | [#866](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/866) |
 | Added MAT-CLASSIFY (closes #754) | Medium | [#863](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/863) |
@@ -677,7 +682,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Add ITC Stocks Visualization App Project | Medium | [#792](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/792) |
 | EDA Notebook Submission for Review | Medium | [#786](https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/786) |
 | Smart Fertilizer Recommendation System using LLM | Medium | [#783](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/783) |
-| Reinforcement Learning for Stock Trading | Medium | [#762](https://github.com/PRIYANSHU2026/DataSentience-AIML/issues/762) |
 
 ---
 
@@ -997,7 +1001,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 |----------|----------------|---------|
 | Zomato Restaurant Data Analysis and Visualization | Medium | [#1821](https://github.com/UTSAVS26/PyVerse/issues/1821) |
 | Advanced Security: Prevent path traversal vulnerabilities in file operations | Medium | [#1820](https://github.com/UTSAVS26/PyVerse/issues/1820) |
-| Add README for Amazon product availability checker | Medium | [#1819](https://github.com/UTSAVS26/PyVerse/pull/1819) |
 | 🧑‍💻: [ML] Add Face Emotion Detector project | Medium | [#1818](https://github.com/UTSAVS26/PyVerse/issues/1818) |
 | 🧑‍💻: Add README.md for a Beginner Python Project Folder | Medium | [#1817](https://github.com/UTSAVS26/PyVerse/issues/1817) |
 | 🧑‍💻: Add detailed README.md for Bird Image Classification project | Medium | [#1816](https://github.com/UTSAVS26/PyVerse/issues/1816) |
@@ -1066,7 +1069,14 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add a Back to Home button on the Login page for easier navigation | Medium | [#561](https://github.com/aayushraj1010/med-genie/issues/561) |
+| UI: Bold key phrases in Hero Section description. | Medium | [#569](https://github.com/aayushraj1010/med-genie/issues/569) |
+| Chat bot error | Medium | [#568](https://github.com/aayushraj1010/med-genie/issues/568) |
+| Google Auth issue | Medium | [#567](https://github.com/aayushraj1010/med-genie/issues/567) |
+| OAuth Access Token Leaked via URL Query Params in Google Callback | Medium | [#566](https://github.com/aayushraj1010/med-genie/issues/566) |
+| chore: Consolidate duplicate contribution guides (CONTRIBUTING.md and Contributing.md) to avoid cross-platform inconsistencies | Medium | [#565](https://github.com/aayushraj1010/med-genie/issues/565) |
+| docs: README privacy claims conflict with documented persistence architecture and data storage behavior | Medium | [#564](https://github.com/aayushraj1010/med-genie/issues/564) |
+| security: Insecure default JWT_SECRET fallback enables token forgery and full account takeover | Medium | [#563](https://github.com/aayushraj1010/med-genie/issues/563) |
+| UI Inconsistency Across Routes (Global Styles / Navigation Component Breakdown) | Medium | [#562](https://github.com/aayushraj1010/med-genie/issues/562) |
 | fix: batch - contact/FAQ links, cookies/terms routing, navbar alignment | Medium | [#560](https://github.com/aayushraj1010/med-genie/pull/560) |
 | Proposal: Add Symptom Classification Model and Medical Handbook RAG Pipeline | Medium | [#559](https://github.com/aayushraj1010/med-genie/issues/559) |
 | Feat: Add hover effect to button | Medium | [#558](https://github.com/aayushraj1010/med-genie/issues/558) |
@@ -1089,13 +1099,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Footer Quick Links – "How it Works" and "FAQs" are not navigating correctly | Medium | [#541](https://github.com/aayushraj1010/med-genie/issues/541) |
 | Bug: Account lockout never triggers — lockedUntil is incremented but never set | Medium | [#540](https://github.com/aayushraj1010/med-genie/issues/540) |
 | Bug: Token refresh endpoint returns access token with empty email and name fields | Medium | [#539](https://github.com/aayushraj1010/med-genie/issues/539) |
-| Bug: Token logout does not revoke access — blacklistToken() is an unimplemented stub | Medium | [#538](https://github.com/aayushraj1010/med-genie/issues/538) |
-| Security: JWT_SECRET exposed to client-side bundle via next.config.ts env block | Medium | [#537](https://github.com/aayushraj1010/med-genie/issues/537) |
-| Security: /api/agent endpoint has no authentication — open to unauthenticated abuse | Medium | [#536](https://github.com/aayushraj1010/med-genie/issues/536) |
-| Security: eval() in CalculatorTool enables Remote Code Execution (RCE) | Medium | [#535](https://github.com/aayushraj1010/med-genie/issues/535) |
-| PWA Manifest References Missing Icon Resource Causing 404 Errors | Medium | [#534](https://github.com/aayushraj1010/med-genie/issues/534) |
-| Feature: The assistant should work equally well even if there is poor internet connectivity | Medium | [#533](https://github.com/aayushraj1010/med-genie/issues/533) |
-| docs: update README with latest website screenshots | Medium | [#532](https://github.com/aayushraj1010/med-genie/pull/532) |
 
 ---
 
