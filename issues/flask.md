@@ -260,6 +260,18 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI: Bold key phrases in Hero Section description. | Medium | [#569](https://github.com/aayushraj1010/med-genie/issues/569) |
+| Chat bot error | Medium | [#568](https://github.com/aayushraj1010/med-genie/issues/568) |
+| Google Auth issue | Medium | [#567](https://github.com/aayushraj1010/med-genie/issues/567) |
+| OAuth Access Token Leaked via URL Query Params in Google Callback | Medium | [#566](https://github.com/aayushraj1010/med-genie/issues/566) |
+| chore: Consolidate duplicate contribution guides (CONTRIBUTING.md and Contributing.md) to avoid cross-platform inconsistencies | Medium | [#565](https://github.com/aayushraj1010/med-genie/issues/565) |
+| docs: README privacy claims conflict with documented persistence architecture and data storage behavior | Medium | [#564](https://github.com/aayushraj1010/med-genie/issues/564) |
+| security: Insecure default JWT_SECRET fallback enables token forgery and full account takeover | Medium | [#563](https://github.com/aayushraj1010/med-genie/issues/563) |
+| UI Inconsistency Across Routes (Global Styles / Navigation Component Breakdown) | Medium | [#562](https://github.com/aayushraj1010/med-genie/issues/562) |
+| fix: batch - contact/FAQ links, cookies/terms routing, navbar alignment | Medium | [#560](https://github.com/aayushraj1010/med-genie/pull/560) |
+| Proposal: Add Symptom Classification Model and Medical Handbook RAG Pipeline | Medium | [#559](https://github.com/aayushraj1010/med-genie/issues/559) |
+| Feat: Add hover effect to button | Medium | [#558](https://github.com/aayushraj1010/med-genie/issues/558) |
+| Contact Us Navigation Link Does Not Navigate to Contact Section | Medium | [#557](https://github.com/aayushraj1010/med-genie/issues/557) |
 | Downgrade dotenv package version to 16.4.5 | Medium | [#556](https://github.com/aayushraj1010/med-genie/pull/556) |
 | Contact Us and FAQ link is static and doesn't render to any webpage | Medium | [#555](https://github.com/aayushraj1010/med-genie/issues/555) |
 | Bug :Navbar Overlaps Hero Section Content on Multiple Pages | Medium | [#554](https://github.com/aayushraj1010/med-genie/issues/554) |
@@ -278,18 +290,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Footer Quick Links – "How it Works" and "FAQs" are not navigating correctly | Medium | [#541](https://github.com/aayushraj1010/med-genie/issues/541) |
 | Bug: Account lockout never triggers — lockedUntil is incremented but never set | Medium | [#540](https://github.com/aayushraj1010/med-genie/issues/540) |
 | Bug: Token refresh endpoint returns access token with empty email and name fields | Medium | [#539](https://github.com/aayushraj1010/med-genie/issues/539) |
-| Bug: Token logout does not revoke access — blacklistToken() is an unimplemented stub | Medium | [#538](https://github.com/aayushraj1010/med-genie/issues/538) |
-| Security: JWT_SECRET exposed to client-side bundle via next.config.ts env block | Medium | [#537](https://github.com/aayushraj1010/med-genie/issues/537) |
-| Security: /api/agent endpoint has no authentication — open to unauthenticated abuse | Medium | [#536](https://github.com/aayushraj1010/med-genie/issues/536) |
-| Security: eval() in CalculatorTool enables Remote Code Execution (RCE) | Medium | [#535](https://github.com/aayushraj1010/med-genie/issues/535) |
-| PWA Manifest References Missing Icon Resource Causing 404 Errors | Medium | [#534](https://github.com/aayushraj1010/med-genie/issues/534) |
-| Feature: The assistant should work equally well even if there is poor internet connectivity | Medium | [#533](https://github.com/aayushraj1010/med-genie/issues/533) |
-| docs: update README with latest website screenshots | Medium | [#532](https://github.com/aayushraj1010/med-genie/pull/532) |
-| Bug: "How it Works" and "FAQs" links in the footer are not redirecting | Medium | [#531](https://github.com/aayushraj1010/med-genie/issues/531) |
-| Safety Support for Emergency, Mental Health and Local healthcare support | Medium | [#530](https://github.com/aayushraj1010/med-genie/issues/530) |
-| Navigation bar layout misalignment and overlap issue | Medium | [#529](https://github.com/aayushraj1010/med-genie/issues/529) |
-| Proposal: Add Symptom Classification Model and Medical Handbook RAG Pipeline | Medium | [#528](https://github.com/aayushraj1010/med-genie/issues/528) |
-| feat(ci): introduce CodeQL-based SAST pipeline for JavaScript/TypeScript | Medium | [#527](https://github.com/aayushraj1010/med-genie/issues/527) |
 
 ---
 
