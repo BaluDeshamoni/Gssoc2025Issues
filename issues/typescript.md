@@ -93,23 +93,27 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enable auto-scaling for ECS backend/frontend services | Easy | [#5038](https://github.com/OWASP/Nest/pull/5038) |
-| Improve Module Management UX and Consistency | Easy | [#4987](https://github.com/OWASP/Nest/issues/4987) |
+| feat: implement infrastructure integration testing suite using LocalStack and Terraform test framework | Easy | [#5091](https://github.com/OWASP/Nest/pull/5091) |
+| chore(deps): bump aquasec/trivy from 0.71.2 to 0.72.0 in /docker/trivy in the version-updates group across 1 directory | Medium | [#5106](https://github.com/OWASP/Nest/pull/5106) |
+| chore(deps): bump the version-updates group across 3 directories with 1 update | Medium | [#5105](https://github.com/OWASP/Nest/pull/5105) |
+| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#5104](https://github.com/OWASP/Nest/pull/5104) |
+| chore(deps): bump @next/third-parties in /frontend | Medium | [#5103](https://github.com/OWASP/Nest/pull/5103) |
+| Draft: Improve typing for github_user attributes on GraphQL nodes | Medium | [#5100](https://github.com/OWASP/Nest/pull/5100) |
+| Fix SynchronousOnlyOperation exceptions in mentorship app | Medium | [#5099](https://github.com/OWASP/Nest/pull/5099) |
+| nest_updated_at is never refreshed for records updated via bulk_save | Medium | [#5090](https://github.com/OWASP/Nest/issues/5090) |
+| Optimize GitHub RepositoryNode | Medium | [#5082](https://github.com/OWASP/Nest/pull/5082) |
+| Store Django sessions in Redis instead of the database | Medium | [#5081](https://github.com/OWASP/Nest/pull/5081) |
+| Split bootstrap Terraform per environment to isolate staging and production IAM | Medium | [#5077](https://github.com/OWASP/Nest/issues/5077) |
+| feat(backend): strip exif metadata from candidate claims | Medium | [#5074](https://github.com/OWASP/Nest/pull/5074) |
+| Update Claim and Evidence GraphQL Queries To Add Reviews | Medium | [#5069](https://github.com/OWASP/Nest/pull/5069) |
+| feat: display repository last updated date on repository cards | Medium | [#5067](https://github.com/OWASP/Nest/pull/5067) |
+| Add Django Model for Claim Reviews | Medium | [#5066](https://github.com/OWASP/Nest/pull/5066) |
+| Feature/improve module management ux | Medium | [#5059](https://github.com/OWASP/Nest/pull/5059) |
+| Feature/snapshot subscription graphql | Medium | [#5058](https://github.com/OWASP/Nest/pull/5058) |
+| Add Evidence Management Dashboard | Medium | [#5057](https://github.com/OWASP/Nest/pull/5057) |
 | feat(slack): add BotInteraction model and reaction feedback handler | Medium | [#5035](https://github.com/OWASP/Nest/pull/5035) |
 | add slack reaction based moderation alerts | Medium | [#5034](https://github.com/OWASP/Nest/pull/5034) |
-| Optimize mentorship MentorNode | Medium | [#5031](https://github.com/OWASP/Nest/pull/5031) |
-| Optimize mentorship AdminNode | Medium | [#5030](https://github.com/OWASP/Nest/pull/5030) |
-| feat: Instrument backend with Otel metrics | Medium | [#5029](https://github.com/OWASP/Nest/pull/5029) |
-| Use Program.has_admin() consistently in mentorship mutations | Medium | [#5025](https://github.com/OWASP/Nest/issues/5025) |
-| Optimize GitHub app ReleaseNode | Medium | [#5022](https://github.com/OWASP/Nest/pull/5022) |
-| Feature/snapshot subscription model | Medium | [#5021](https://github.com/OWASP/Nest/pull/5021) |
-| GraphQL resolvers declare prefetch_related but discard it, causing N+1 queries | Medium | [#5015](https://github.com/OWASP/Nest/issues/5015) |
-| Add Candidate Claim Management Dashboard | Medium | [#5006](https://github.com/OWASP/Nest/pull/5006) |
-| formatter and linter support for e2e | Medium | [#5002](https://github.com/OWASP/Nest/pull/5002) |
-| Strip italic, strikethrough and inline code in strip_markdown | Medium | [#5001](https://github.com/OWASP/Nest/pull/5001) |
-| fix: handle invalid search query validation errors | Medium | [#4984](https://github.com/OWASP/Nest/pull/4984) |
-| Add check to prevent github actions from running in forked repository | Medium | [#4968](https://github.com/OWASP/Nest/issues/4968) |
-| Implement GraphQL queries for contributor recognition certificate pages | Medium | [#4962](https://github.com/OWASP/Nest/pull/4962) |
+| Add snapshot subscription model | Medium | [#5021](https://github.com/OWASP/Nest/pull/5021) |
 
 ---
 
@@ -462,15 +466,12 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Replace placeholder and generic images with real product images | Easy | [#140](https://github.com/SamXop123/RigCrafter/issues/140) |
-| 🛠️ Build guides 29, 30 | Easy | [#139](https://github.com/SamXop123/RigCrafter/issues/139) |
 | 🛠️ Build Guides 26, 27, 28 | Easy | [#138](https://github.com/SamXop123/RigCrafter/issues/138) |
 | 🛠️ Build Guides 23, 24, 25 | Easy | [#137](https://github.com/SamXop123/RigCrafter/issues/137) |
 | 🛠️ Build Guides 20, 21, 22 | Easy | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
 | 🛠️ Build Guides 17, 18, 19 | Easy | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
 | 🛠 Build Guides 14, 15, 16 | Easy | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
 | 🛠 Build Guides 11, 12, 13 | Easy | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
-| 🛠 Build Guides 8, 9, 10 | Easy | [#132](https://github.com/SamXop123/RigCrafter/issues/132) |
-| 🛠 Build Guides 2, 5, 7 | Easy | [#130](https://github.com/SamXop123/RigCrafter/issues/130) |
 | 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
 
 ---
@@ -701,7 +702,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| False Negative: Automated Browser Profile Not Flagged as Bot | Medium | [#98](https://github.com/IntegerAlex/fingerprint-oss/issues/98) |
+| feat(bot): add pointer mismatch and resolution checks | Medium | [#99](https://github.com/IntegerAlex/fingerprint-oss/pull/99) |
 | fix: make local-ci-test.sh cross platform for port 8080 kill | Medium | [#47](https://github.com/IntegerAlex/fingerprint-oss/pull/47) |
 | Stabilization in Hash generation | Hard | [#61](https://github.com/IntegerAlex/fingerprint-oss/pull/61) |
 
