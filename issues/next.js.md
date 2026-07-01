@@ -118,6 +118,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Investigating Astro for potential dashboard performance in EdgeCareer | Medium | [#142](https://github.com/amitkumardemo/EdgeCareer/issues/142) |
 | Security issue: possible command injection in GitHub Actions workflow | Medium | [#141](https://github.com/amitkumardemo/EdgeCareer/issues/141) |
 | Security issue: possible command injection in GitHub Actions workflow | Medium | [#140](https://github.com/amitkumardemo/EdgeCareer/issues/140) |
 | feat: enhance footer logo resolution and text styling (#101) | Medium | [#137](https://github.com/amitkumardemo/EdgeCareer/pull/137) |
@@ -140,7 +141,6 @@
 | Add scroll-to-top behavior on clicking the logo | Medium | [#115](https://github.com/amitkumardemo/EdgeCareer/issues/115) |
 | Enhanced the Visual Formatting of CODE_OF_CONDUCT.md file | Medium | [#113](https://github.com/amitkumardemo/EdgeCareer/pull/113) |
 | feat: add AI-powered career guidance feature with new page and lib module | Medium | [#109](https://github.com/amitkumardemo/EdgeCareer/pull/109) |
-| Fix: Improve icon visibility for theme toggle (issue #63) | Medium | [#108](https://github.com/amitkumardemo/EdgeCareer/pull/108) |
 
 ---
 
@@ -158,28 +158,27 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Migrate lighthouse workflow to arm64 | Medium | [#4929](https://github.com/OWASP/Nest/pull/4929) |
-| chore(deps): bump docker/setup-buildx-action from 4.0.0 to 4.1.0 in the version-updates group across 1 directory | Medium | [#4928](https://github.com/OWASP/Nest/pull/4928) |
-| chore(deps): bump zaproxy/zap-stable from `2ec1d5d` to `7c2f8af` in /docker/zap in the version-updates group across 1 directory | Medium | [#4927](https://github.com/OWASP/Nest/pull/4927) |
-| chore(deps): bump https://github.com/tox-dev/pyproject-fmt in / | Medium | [#4926](https://github.com/OWASP/Nest/pull/4926) |
-| chore(deps): bump strawberry-graphql-django in / | Medium | [#4925](https://github.com/OWASP/Nest/pull/4925) |
-| Implement certificate metadata issuance system | Medium | [#4922](https://github.com/OWASP/Nest/pull/4922) |
-| fix: add placeholder DJANGO_SECRET_KEY for local setup | Medium | [#4915](https://github.com/OWASP/Nest/pull/4915) |
-| feat(snapshots): refactor snapshot details frontend | Medium | [#4914](https://github.com/OWASP/Nest/pull/4914) |
-| Display repository last updated date on repository cards | Medium | [#4912](https://github.com/OWASP/Nest/issues/4912) |
-| chore(deps): bump apexcharts in /frontend | Medium | [#4905](https://github.com/OWASP/Nest/pull/4905) |
-| Repository GraphQL fields `issues` and `releases` return only recent items | Medium | [#4895](https://github.com/OWASP/Nest/issues/4895) |
-| feat: Wrap breadcrumb in <nav> landmark for screen reader navigation | Medium | [#4889](https://github.com/OWASP/Nest/issues/4889) |
-| feat: Add structured logging and Sentry tracing to AI agent workflows | Medium | [#4888](https://github.com/OWASP/Nest/issues/4888) |
-| Potential duplicate OWASP question classification in NestBot auto-reply flow | Medium | [#4870](https://github.com/OWASP/Nest/issues/4870) |
-| chore(deps-dev): bump @eslint/js in /frontend | Medium | [#4866](https://github.com/OWASP/Nest/pull/4866) |
-| chore(deps): bump @heroui/react in /frontend | Medium | [#4862](https://github.com/OWASP/Nest/pull/4862) |
-| feat: Desktop navigation dropdown should move keyboard focus to first submenu item when opened | Medium | [#4844](https://github.com/OWASP/Nest/issues/4844) |
-| Implement contribution score calculation | Medium | [#4842](https://github.com/OWASP/Nest/pull/4842) |
-| Removing `undefined` type or `?` specifier. | Medium | [#4833](https://github.com/OWASP/Nest/issues/4833) |
-| NestBot auto reply re-processes AI responses before posting | Medium | [#4828](https://github.com/OWASP/Nest/issues/4828) |
-| Add structured request logging and trace propagation for backend observability | Medium | [#4805](https://github.com/OWASP/Nest/issues/4805) |
-| Improve header accessibility and keyboard navigation support | Medium | [#4804](https://github.com/OWASP/Nest/issues/4804) |
+| feat: implement infrastructure integration testing suite using LocalStack and Terraform test framework | Easy | [#5091](https://github.com/OWASP/Nest/pull/5091) |
+| chore(deps): bump aquasec/trivy from 0.71.2 to 0.72.0 in /docker/trivy in the version-updates group across 1 directory | Medium | [#5106](https://github.com/OWASP/Nest/pull/5106) |
+| chore(deps): bump the version-updates group across 3 directories with 1 update | Medium | [#5105](https://github.com/OWASP/Nest/pull/5105) |
+| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#5104](https://github.com/OWASP/Nest/pull/5104) |
+| chore(deps): bump @next/third-parties in /frontend | Medium | [#5103](https://github.com/OWASP/Nest/pull/5103) |
+| Draft: Improve typing for github_user attributes on GraphQL nodes | Medium | [#5100](https://github.com/OWASP/Nest/pull/5100) |
+| Fix SynchronousOnlyOperation exceptions in mentorship app | Medium | [#5099](https://github.com/OWASP/Nest/pull/5099) |
+| nest_updated_at is never refreshed for records updated via bulk_save | Medium | [#5090](https://github.com/OWASP/Nest/issues/5090) |
+| Optimize GitHub RepositoryNode | Medium | [#5082](https://github.com/OWASP/Nest/pull/5082) |
+| Store Django sessions in Redis instead of the database | Medium | [#5081](https://github.com/OWASP/Nest/pull/5081) |
+| Split bootstrap Terraform per environment to isolate staging and production IAM | Medium | [#5077](https://github.com/OWASP/Nest/issues/5077) |
+| feat(backend): strip exif metadata from candidate claims | Medium | [#5074](https://github.com/OWASP/Nest/pull/5074) |
+| Update Claim and Evidence GraphQL Queries To Add Reviews | Medium | [#5069](https://github.com/OWASP/Nest/pull/5069) |
+| feat: display repository last updated date on repository cards | Medium | [#5067](https://github.com/OWASP/Nest/pull/5067) |
+| Add Django Model for Claim Reviews | Medium | [#5066](https://github.com/OWASP/Nest/pull/5066) |
+| Feature/improve module management ux | Medium | [#5059](https://github.com/OWASP/Nest/pull/5059) |
+| Feature/snapshot subscription graphql | Medium | [#5058](https://github.com/OWASP/Nest/pull/5058) |
+| Add Evidence Management Dashboard | Medium | [#5057](https://github.com/OWASP/Nest/pull/5057) |
+| feat(slack): add BotInteraction model and reaction feedback handler | Medium | [#5035](https://github.com/OWASP/Nest/pull/5035) |
+| add slack reaction based moderation alerts | Medium | [#5034](https://github.com/OWASP/Nest/pull/5034) |
+| Add snapshot subscription model | Medium | [#5021](https://github.com/OWASP/Nest/pull/5021) |
 
 ---
 
@@ -220,7 +219,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: prevent ThemeProvider from blocking SSR with blank initial render | Medium | [#744](https://github.com/Dipanita45/HEALCONNECT/pull/744) |
+| Fix Client-Side Route Guard and Identity Bypass | Medium | [#755](https://github.com/Dipanita45/HEALCONNECT/pull/755) |
+| Comprehensive Accessibility (a11y) Audit & Fixes | Medium | [#754](https://github.com/Dipanita45/HEALCONNECT/issues/754) |
+| Implement Skeleton Loaders for Dashboard Data Fetching | Medium | [#752](https://github.com/Dipanita45/HEALCONNECT/issues/752) |
+| Unawaited Async Write in Doctor Registration (Race Condition) | Medium | [#750](https://github.com/Dipanita45/HEALCONNECT/issues/750) |
+| Bug in Offline Data Manager (Database Writes) | Medium | [#749](https://github.com/Dipanita45/HEALCONNECT/issues/749) |
 
 ---
 
@@ -354,32 +357,24 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Audit and fix remaining routes missing error boundaries | Easy | [#999](https://github.com/Muneerali199/Draftdeckai/issues/999) |
 | fix: preserve typed API error prototypes | Easy | [#992](https://github.com/Muneerali199/Draftdeckai/pull/992) |
 | Issue #958 | Easy | [#976](https://github.com/Muneerali199/Draftdeckai/pull/976) |
-| chore(deps-dev): bump eslint-config-next from 15.5.18 to 16.2.9 | Medium | [#1017](https://github.com/Muneerali199/Draftdeckai/pull/1017) |
-| chore(deps): bump @mistralai/mistralai from 1.15.1 to 2.2.5 | Medium | [#1016](https://github.com/Muneerali199/Draftdeckai/pull/1016) |
+| fix: pass user phone and location to Mistral fallback instead of hard… | Medium | [#1046](https://github.com/Muneerali199/Draftdeckai/pull/1046) |
+| fix: correct Content-Type header for gzip export and remove internal … | Medium | [#1045](https://github.com/Muneerali199/Draftdeckai/pull/1045) |
+| fix: replace logger.info with logger.debug for dev-only debug logs | Medium | [#1044](https://github.com/Muneerali199/Draftdeckai/pull/1044) |
+| fix: implement actual OpenAI streaming in generate-presentation-strea… | Medium | [#1043](https://github.com/Muneerali199/Draftdeckai/pull/1043) |
+| fix: remove production debug data logs | Medium | [#1042](https://github.com/Muneerali199/Draftdeckai/pull/1042) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 46 updates | Medium | [#1041](https://github.com/Muneerali199/Draftdeckai/pull/1041) |
+| feat(history): implement Phase 1 history improvements with sorting and enhanced search experience | Medium | [#1034](https://github.com/Muneerali199/Draftdeckai/pull/1034) |
 | chore(deps): bump fabric from 5.5.2 to 7.4.0 | Medium | [#1015](https://github.com/Muneerali199/Draftdeckai/pull/1015) |
-| chore(deps): bump react-intersection-observer from 9.16.0 to 10.0.3 | Medium | [#1014](https://github.com/Muneerali199/Draftdeckai/pull/1014) |
-| chore(deps-dev): bump @types/node from 20.19.41 to 25.9.3 | Medium | [#1013](https://github.com/Muneerali199/Draftdeckai/pull/1013) |
 | chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.1 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
-| chore(deps-dev): bump jsdom from 26.1.0 to 29.1.1 | Medium | [#1011](https://github.com/Muneerali199/Draftdeckai/pull/1011) |
-| chore(deps): bump officeparser from 6.1.1 to 7.2.1 | Medium | [#1010](https://github.com/Muneerali199/Draftdeckai/pull/1010) |
-| chore(deps): bump date-fns from 3.6.0 to 4.4.0 | Medium | [#1009](https://github.com/Muneerali199/Draftdeckai/pull/1009) |
-| chore(deps): bump the minor-and-patch group with 48 updates | Medium | [#1008](https://github.com/Muneerali199/Draftdeckai/pull/1008) |
-| fix(security): add file type validation to design upload endpoint (#930) | Medium | [#1007](https://github.com/Muneerali199/Draftdeckai/pull/1007) |
-| perf: fix N+1 layer queries on large canvases (#931) | Medium | [#1006](https://github.com/Muneerali199/Draftdeckai/pull/1006) |
-| fix: preserve z-index layer order during PNG/SVG export (#933) | Medium | [#1005](https://github.com/Muneerali199/Draftdeckai/pull/1005) |
-| feat: add dark mode support to document editors and builders | Medium | [#1004](https://github.com/Muneerali199/Draftdeckai/pull/1004) |
-| feat: Add presentation templates gallery | Medium | [#1002](https://github.com/Muneerali199/Draftdeckai/issues/1002) |
-| Write unit tests for admin dashboard components | Medium | [#998](https://github.com/Muneerali199/Draftdeckai/issues/998) |
 | fix: preserve typed API error prototypes | Medium | [#995](https://github.com/Muneerali199/Draftdeckai/pull/995) |
 | fix: align cors headers with production contract | Medium | [#994](https://github.com/Muneerali199/Draftdeckai/pull/994) |
-| test: expand auth middleware coverage | Medium | [#986](https://github.com/Muneerali199/Draftdeckai/pull/986) |
-| ci: add linting and type-checking to pipeline (#739) | Medium | [#973](https://github.com/Muneerali199/Draftdeckai/pull/973) |
 | feat: add Go backend env validation at startup (#901) | Medium | [#971](https://github.com/Muneerali199/Draftdeckai/pull/971) |
-| Add SEO metadata and refactor client pages for App Router compatibility | Medium | [#965](https://github.com/Muneerali199/Draftdeckai/pull/965) |
 | Added backend files #902 issue | Medium | [#958](https://github.com/Muneerali199/Draftdeckai/pull/958) |
+| Add post-generation AI edit loop with chat interface | Hard | [#1022](https://github.com/Muneerali199/Draftdeckai/issues/1022) |
+| Build document workflow engine — multi-step, connected document creation | Hard | [#1021](https://github.com/Muneerali199/Draftdeckai/issues/1021) |
+| Differentiate DraftDeckAI landing page and first-run experience | Hard | [#1020](https://github.com/Muneerali199/Draftdeckai/issues/1020) |
 | feat: add dynamic published resume URLs to sitemap | Hard | [#963](https://github.com/Muneerali199/Draftdeckai/pull/963) |
 
 ---
@@ -493,6 +488,12 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump @typescript-eslint/parser from 8.61.1 to 8.62.1 | Easy | [#1931](https://github.com/recodehive/recode-website/pull/1931) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.61.1 to 8.62.1 | Easy | [#1930](https://github.com/recodehive/recode-website/pull/1930) |
+| chore: bump lucide-react from 0.503.0 to 1.22.0 | Easy | [#1929](https://github.com/recodehive/recode-website/pull/1929) |
+| chore: bump postcss from 8.5.15 to 8.5.16 | Easy | [#1928](https://github.com/recodehive/recode-website/pull/1928) |
+| chore: bump autoprefixer from 10.5.0 to 10.5.2 | Easy | [#1927](https://github.com/recodehive/recode-website/pull/1927) |
+| Create get-started-with-recode.md | Easy | [#1924](https://github.com/recodehive/recode-website/pull/1924) |
 | issues available to work with | Easy | [#1840](https://github.com/recodehive/recode-website/issues/1840) |
 
 ---
@@ -757,6 +758,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: prevent quest slot overbooking | Medium | [#398](https://github.com/LarytheLord/Adventurers-Guild/pull/398) |
 | fix: Admin QA reject/approve now calls syncQuestLifecycleStatus (#330) | Medium | [#387](https://github.com/LarytheLord/Adventurers-Guild/pull/387) |
 | fix: QA approval now properly awards XP and creates QuestCompletion (#317) | Medium | [#384](https://github.com/LarytheLord/Adventurers-Guild/pull/384) |
 | fix: /api/errors/log is unauthenticated — open to log injection and DB flooding | Medium | [#342](https://github.com/LarytheLord/Adventurers-Guild/issues/342) |
@@ -1148,8 +1150,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
-| Add Back Navigation on Login & Signup Pages | Medium | [#225](https://github.com/ThePlator/NPMChat/issues/225) |
-| OTP Email Authentication Not Working for New Users | Medium | [#224](https://github.com/ThePlator/NPMChat/issues/224) |
+| # [Feature Request] Add Quick Copy Button for Code Blocks in Chat Messages | Medium | [#228](https://github.com/ThePlator/NPMChat/issues/228) |
+| Improve navbar responsiveness across all devices | Medium | [#226](https://github.com/ThePlator/NPMChat/issues/226) |
 | Prevent duplicate socket reconnects caused by accumulated token refresh listeners | Medium | [#196](https://github.com/ThePlator/NPMChat/issues/196) |
 | Challenge correctness is derived from fragile output text | Medium | [#194](https://github.com/ThePlator/NPMChat/issues/194) |
 | Room socket events do not enforce room membership or host permissions | Medium | [#193](https://github.com/ThePlator/NPMChat/issues/193) |
