@@ -93,6 +93,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: secure admin endpoints and lifecycle sync (#316 #330 #342) | Medium | [#402](https://github.com/LarytheLord/Adventurers-Guild/pull/402) |
+| fix: deactivated users can no longer bypass auth (#318) | Medium | [#401](https://github.com/LarytheLord/Adventurers-Guild/pull/401) |
+| fix: secure email change requires password re-verification (#332) | Medium | [#400](https://github.com/LarytheLord/Adventurers-Guild/pull/400) |
+| feat: secure admin dashboard with auth, analytics, and management UI | Medium | [#399](https://github.com/LarytheLord/Adventurers-Guild/pull/399) |
 | fix: prevent quest slot overbooking | Medium | [#398](https://github.com/LarytheLord/Adventurers-Guild/pull/398) |
 | fix: Admin QA reject/approve now calls syncQuestLifecycleStatus (#330) | Medium | [#387](https://github.com/LarytheLord/Adventurers-Guild/pull/387) |
 | fix: QA approval now properly awards XP and creates QuestCompletion (#317) | Medium | [#384](https://github.com/LarytheLord/Adventurers-Guild/pull/384) |
@@ -108,7 +112,6 @@
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
-| NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
 
 ---
 
