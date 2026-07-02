@@ -52,6 +52,8 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bump @babel/core from 7.28.4 to 7.29.7 in /DevElevate/Client | Medium | [#761](https://github.com/abhisek2004/Dev-Elevate/pull/761) |
+| Bump the npm_and_yarn group across 2 directories with 5 updates | Medium | [#760](https://github.com/abhisek2004/Dev-Elevate/pull/760) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -526,6 +528,12 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add conditional rendering for empty data state | Medium | [#748](https://github.com/GitMetricsLab/github_tracker/pull/748) |
+| feat: dynamic page title on route change | Medium | [#747](https://github.com/GitMetricsLab/github_tracker/pull/747) |
+| feat: add Terms and Conditions page and footer link | Medium | [#746](https://github.com/GitMetricsLab/github_tracker/pull/746) |
+| feat: add Privacy Policy page and footer link | Medium | [#745](https://github.com/GitMetricsLab/github_tracker/pull/745) |
+| Added fix: reset scroll position on route navigation | Medium | [#744](https://github.com/GitMetricsLab/github_tracker/pull/744) |
+| Add Open Graph and Twitter Card meta tags for social sharing | Medium | [#740](https://github.com/GitMetricsLab/github_tracker/pull/740) |
 | Update Contact.tsx | Medium | [#738](https://github.com/GitMetricsLab/github_tracker/pull/738) |
 | Update Signup.tsx | Medium | [#737](https://github.com/GitMetricsLab/github_tracker/pull/737) |
 | update login page | Medium | [#736](https://github.com/GitMetricsLab/github_tracker/pull/736) |
@@ -534,12 +542,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | feat: add github user comparison interface | Medium | [#733](https://github.com/GitMetricsLab/github_tracker/pull/733) |
 | feat: add contributor growth analytics chart | Medium | [#732](https://github.com/GitMetricsLab/github_tracker/pull/732) |
 | feat: add repository health score dashboard card | Medium | [#731](https://github.com/GitMetricsLab/github_tracker/pull/731) |
-| Feature : Improve User Model Test Coverage and Reliability | Medium | [#718](https://github.com/GitMetricsLab/github_tracker/pull/718) |
-| improvised about page | Medium | [#716](https://github.com/GitMetricsLab/github_tracker/pull/716) |
-| feat(a11y): add keyboard navigation support (#631) | Medium | [#715](https://github.com/GitMetricsLab/github_tracker/pull/715) |
-| feat: add GitHub contribution heatmap using GraphQL API | Medium | [#713](https://github.com/GitMetricsLab/github_tracker/pull/713) |
-| Make Moon icon color dynamic in Navbar | Medium | [#712](https://github.com/GitMetricsLab/github_tracker/pull/712) |
-| docs: add environment variables documentation and example file for backend setup | Medium | [#711](https://github.com/GitMetricsLab/github_tracker/pull/711) |
 
 ---
 
@@ -919,15 +921,12 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Replace placeholder and generic images with real product images | Easy | [#140](https://github.com/SamXop123/RigCrafter/issues/140) |
-| 🛠️ Build guides 29, 30 | Easy | [#139](https://github.com/SamXop123/RigCrafter/issues/139) |
 | 🛠️ Build Guides 26, 27, 28 | Easy | [#138](https://github.com/SamXop123/RigCrafter/issues/138) |
 | 🛠️ Build Guides 23, 24, 25 | Easy | [#137](https://github.com/SamXop123/RigCrafter/issues/137) |
 | 🛠️ Build Guides 20, 21, 22 | Easy | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
 | 🛠️ Build Guides 17, 18, 19 | Easy | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
 | 🛠 Build Guides 14, 15, 16 | Easy | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
 | 🛠 Build Guides 11, 12, 13 | Easy | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
-| 🛠 Build Guides 8, 9, 10 | Easy | [#132](https://github.com/SamXop123/RigCrafter/issues/132) |
-| 🛠 Build Guides 2, 5, 7 | Easy | [#130](https://github.com/SamXop123/RigCrafter/issues/130) |
 | 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
 
 ---
@@ -1218,9 +1217,9 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | chore(deps-dev): bump nx from 20.4.0 to 21.1.2 | Medium | [#158](https://github.com/deskree-inc/blok/pull/158) |
 | chore(deps): bump setuptools from 76.0.0 to 78.1.1 in /runtimes/python3 | Medium | [#154](https://github.com/deskree-inc/blok/pull/154) |
 | Bump transformers from 4.38.0 to 4.50.0 in /runtimes/python3 | Medium | [#143](https://github.com/deskree-inc/blok/pull/143) |
-| Terraform aws guide | Medium | [#134](https://github.com/deskree-inc/blok/pull/134) |
 | Implement Metrics Collection in Python3 Runtime (Prometheus Export) | Medium | [#133](https://github.com/deskree-inc/blok/pull/133) |
 | Added a  dedicated section on creating workflows | Medium | [#131](https://github.com/deskree-inc/blok/pull/131) |
+| Add Configurable Observability Backend to nanoservice-ts (Prometheus/InfluxDB) | Medium | [#126](https://github.com/deskree-inc/blok/issues/126) |
 
 ---
 
@@ -1477,36 +1476,36 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add RAG-based AI Study Assistant for PYQs & Syllabus Q&A | Medium | [#503](https://github.com/lovelymahor/StudyMatePlus/issues/503) |
-| Add login page logout button and authentication flow | Medium | [#502](https://github.com/lovelymahor/StudyMatePlus/pull/502) |
-| fix: add 404 Not Found page for invalid routes | Medium | [#498](https://github.com/lovelymahor/StudyMatePlus/pull/498) |
-| Missing 404 Page - Blank screen shown for invalid routes | Medium | [#497](https://github.com/lovelymahor/StudyMatePlus/issues/497) |
-| feat: Add Smart Resource Recommendation Section | Medium | [#495](https://github.com/lovelymahor/StudyMatePlus/issues/495) |
-| feat: Add Exam Countdown Widget | Medium | [#494](https://github.com/lovelymahor/StudyMatePlus/issues/494) |
-| Feature Request: Add Light/Dark Mode Toggle | Medium | [#493](https://github.com/lovelymahor/StudyMatePlus/issues/493) |
-| Semester filter does not include all available semesters in syllabus listing | Medium | [#492](https://github.com/lovelymahor/StudyMatePlus/issues/492) |
-| Feature: Spaced Repetition (Leitner System) Flashcard Engine for Notes | Medium | [#490](https://github.com/lovelymahor/StudyMatePlus/issues/490) |
-| fix: resolve placard overlap and add navigation routing | Medium | [#489](https://github.com/lovelymahor/StudyMatePlus/issues/489) |
-| Bug : Deadline Timezone Shifting in To-Do List | Medium | [#488](https://github.com/lovelymahor/StudyMatePlus/issues/488) |
-| Bug : Missing Backend API Routes and Models for Notes Feature | Medium | [#487](https://github.com/lovelymahor/StudyMatePlus/issues/487) |
-| UI/UX Enhancement and Functionality Fixes for Notes & PYQs Modules | Medium | [#486](https://github.com/lovelymahor/StudyMatePlus/issues/486) |
-| Implement Lazy Loading for Contributors Section Images | Medium | [#485](https://github.com/lovelymahor/StudyMatePlus/issues/485) |
-| UI Improvement: Misaligned Buttons and Unattractive Layout in "Ready to Ace Your Exams?" Section | Medium | [#484](https://github.com/lovelymahor/StudyMatePlus/issues/484) |
-| Enhancement: Implement course material version control and backup/restore capability | Medium | [#483](https://github.com/lovelymahor/StudyMatePlus/issues/483) |
-| Bug: Course access not restricted to enrolled students, allowing unauthorized material access | Medium | [#482](https://github.com/lovelymahor/StudyMatePlus/issues/482) |
-| Bug: Assignment deadlines not enforced, allowing unlimited late submissions | Medium | [#481](https://github.com/lovelymahor/StudyMatePlus/issues/481) |
-| Enhancement: Add grade distribution analysis and anomaly detection | Medium | [#480](https://github.com/lovelymahor/StudyMatePlus/issues/480) |
-| Bug: Plagiarism detection missing, allowing unoriginal submissions | Medium | [#479](https://github.com/lovelymahor/StudyMatePlus/issues/479) |
-| Interactive Syllabus Tracker and Active Senior Connect Form | Medium | [#478](https://github.com/lovelymahor/StudyMatePlus/issues/478) |
-| The highlighted tab in the Nav bar does not stay highlighted | Medium | [#477](https://github.com/lovelymahor/StudyMatePlus/issues/477) |
-| View button on PYQ cards is non-functional and does not open the selected question paper | Medium | [#476](https://github.com/lovelymahor/StudyMatePlus/issues/476) |
-| Missing Footer and its alignment issue | Medium | [#475](https://github.com/lovelymahor/StudyMatePlus/issues/475) |
-| Refactor backend structure to follow MVC architecture | Medium | [#474](https://github.com/lovelymahor/StudyMatePlus/issues/474) |
-| making the upload resources button working and making the user able to upload the resources. | Medium | [#473](https://github.com/lovelymahor/StudyMatePlus/issues/473) |
-| making better UI for the ready to ace your exam section. | Medium | [#472](https://github.com/lovelymahor/StudyMatePlus/issues/472) |
-| Feature Request: Core Platform Enhancements - Integrated AI Chatbot, Dynamic MCQ Generator, and Global Theme Toggle | Medium | [#471](https://github.com/lovelymahor/StudyMatePlus/issues/471) |
-| UI/UX Enhancement: Improve Hero Section, Navigation Bar and CTA Consistency | Medium | [#470](https://github.com/lovelymahor/StudyMatePlus/issues/470) |
-| Syllabus related issue | Medium | [#469](https://github.com/lovelymahor/StudyMatePlus/issues/469) |
+| Create Account Feature is no working | Medium | [#636](https://github.com/lovelymahor/StudyMatePlus/issues/636) |
+| ## 📄 Documentation: Missing `docs/` folder referenced in Project Structure | Medium | [#635](https://github.com/lovelymahor/StudyMatePlus/issues/635) |
+| ## ✨ Feature Request: Implement the "Student Feedback on Exam Papers" module | Medium | [#634](https://github.com/lovelymahor/StudyMatePlus/issues/634) |
+| refactor(server): Eliminate competing Express bootstrap paths by establishing a single canonical application entry point | Medium | [#633](https://github.com/lovelymahor/StudyMatePlus/issues/633) |
+| Fix Create Account page logo highlight and container alignment | Medium | [#632](https://github.com/lovelymahor/StudyMatePlus/issues/632) |
+| Filter dropdowns on "Access Previous Year Question Papers" page are non-functional / lack dependent filtering | Medium | [#631](https://github.com/lovelymahor/StudyMatePlus/issues/631) |
+| Update text color to white on Syllabus card labels to improve accessibility | Medium | [#630](https://github.com/lovelymahor/StudyMatePlus/issues/630) |
+| fix: align hero CTA buttons vertically | Medium | [#629](https://github.com/lovelymahor/StudyMatePlus/pull/629) |
+| Improve Vertical Alignment of Hero Section CTA Buttons | Medium | [#628](https://github.com/lovelymahor/StudyMatePlus/issues/628) |
+| Add Resource Preview Before Download (PDF Thumbnail, Metadata & Contributor Details) | Medium | [#627](https://github.com/lovelymahor/StudyMatePlus/issues/627) |
+| Registration fails with generic "Something went wrong" error on account creation | Medium | [#626](https://github.com/lovelymahor/StudyMatePlus/issues/626) |
+| Improve hover animation speed for feature cards to enhance user experience | Medium | [#625](https://github.com/lovelymahor/StudyMatePlus/issues/625) |
+| Fix #609: Make support email clickable in Contact and FAQ sections | Medium | [#624](https://github.com/lovelymahor/StudyMatePlus/pull/624) |
+| Architecture Inconsistency & Code Duplication (Feedback Logic) | Medium | [#623](https://github.com/lovelymahor/StudyMatePlus/issues/623) |
+| Remove duplicate CORS and JSON middleware | Medium | [#622](https://github.com/lovelymahor/StudyMatePlus/pull/622) |
+| UI Fix: Improve Text Visibility on Syllabus Collection Page in Light Mode | Medium | [#621](https://github.com/lovelymahor/StudyMatePlus/issues/621) |
+| Add Light Mode and Dark Mode Toggle for Enhanced User Experience | Medium | [#620](https://github.com/lovelymahor/StudyMatePlus/issues/620) |
+| Implement Dynamic Tag-Based Filtering & Fuzzy Search Subsystem for PYQs/Syllabus View | Medium | [#619](https://github.com/lovelymahor/StudyMatePlus/issues/619) |
+| Critical CORS Configuration Conflict Blocking User Authentication | Medium | [#618](https://github.com/lovelymahor/StudyMatePlus/issues/618) |
+| Critical CORS Configuration Conflict Blocking User Authentication | Medium | [#617](https://github.com/lovelymahor/StudyMatePlus/issues/617) |
+| UI: Fix Footer alignment and symmetry on responsive viewports | Medium | [#616](https://github.com/lovelymahor/StudyMatePlus/issues/616) |
+| feat: add floating "scroll-to-top button" with smooth scrolling | Medium | [#615](https://github.com/lovelymahor/StudyMatePlus/pull/615) |
+| Feedback tab does not provide a feedback form; "Submit Your Feedback" button is non-functional | Medium | [#614](https://github.com/lovelymahor/StudyMatePlus/issues/614) |
+| Bug: Hero Section Text Overflows on Mobile Devices | Medium | [#611](https://github.com/lovelymahor/StudyMatePlus/issues/611) |
+| Bug: Low Color Contrast on "Learn More" Button in Exam Banner | Medium | [#610](https://github.com/lovelymahor/StudyMatePlus/issues/610) |
+| Support Email Address in Contact Section Is Not Clickable | Medium | [#609](https://github.com/lovelymahor/StudyMatePlus/issues/609) |
+| feat: Add Scroll-to-Top Button for Better Navigation UX | Medium | [#608](https://github.com/lovelymahor/StudyMatePlus/issues/608) |
+| Real-time Fuzzy Search and Query Term Highlighting in Notes and PYQs | Medium | [#607](https://github.com/lovelymahor/StudyMatePlus/issues/607) |
+| Mind Map Canvas Does Not Fit Screen Height | Medium | [#606](https://github.com/lovelymahor/StudyMatePlus/issues/606) |
+| Bug: Back-to-Top Floating Button Missing on Non-Home Pages | Medium | [#605](https://github.com/lovelymahor/StudyMatePlus/issues/605) |
 
 ---
 
@@ -1573,6 +1572,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(web): make FAQ section theme-aware and align nav/footer label to FAQ | Medium | [#116](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/116) |
+| improve FAQ fuzzy matching for typo-heavy queries | Medium | [#115](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/115) |
+| add GSSoC assignment FAQ | Medium | [#114](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/114) |
+| align FAQ labels and theme styling | Medium | [#113](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/113) |
 | fixed FAQ light theme | Medium | [#111](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/111) |
 | Modern Issue Templates | Medium | [#109](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/109) |
 | # 🔍 Add Real-Time FAQ Search & Filter Functionality [GSSoC 2025] | Medium | [#101](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/101) |
@@ -1855,8 +1858,8 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
-| Add Back Navigation on Login & Signup Pages | Medium | [#225](https://github.com/ThePlator/NPMChat/issues/225) |
-| OTP Email Authentication Not Working for New Users | Medium | [#224](https://github.com/ThePlator/NPMChat/issues/224) |
+| # [Feature Request] Add Quick Copy Button for Code Blocks in Chat Messages | Medium | [#228](https://github.com/ThePlator/NPMChat/issues/228) |
+| Improve navbar responsiveness across all devices | Medium | [#226](https://github.com/ThePlator/NPMChat/issues/226) |
 | Prevent duplicate socket reconnects caused by accumulated token refresh listeners | Medium | [#196](https://github.com/ThePlator/NPMChat/issues/196) |
 | Challenge correctness is derived from fragile output text | Medium | [#194](https://github.com/ThePlator/NPMChat/issues/194) |
 | Room socket events do not enforce room membership or host permissions | Medium | [#193](https://github.com/ThePlator/NPMChat/issues/193) |
