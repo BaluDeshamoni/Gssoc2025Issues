@@ -52,6 +52,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Axios Logo Not Displaying in Technologies Section | Medium | [#762](https://github.com/abhisek2004/Dev-Elevate/issues/762) |
 | Bump @babel/core from 7.28.4 to 7.29.7 in /DevElevate/Client | Medium | [#761](https://github.com/abhisek2004/Dev-Elevate/pull/761) |
 | Bump the npm_and_yarn group across 2 directories with 5 updates | Medium | [#760](https://github.com/abhisek2004/Dev-Elevate/pull/760) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
@@ -807,6 +808,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Progress Widgets + Fix Layout Issues + New Showcase Page | Easy | [#235](https://github.com/SurajSG23/PrepBuddy/issues/235) |
+| Bug: Previous and Next buttons are non-functional during aptitude test navigation | Medium | [#237](https://github.com/SurajSG23/PrepBuddy/issues/237) |
 | Improve README.md Structure and Visual Appeal | Medium | [#234](https://github.com/SurajSG23/PrepBuddy/issues/234) |
 | Enhance: Improve Visual Hierarchy and Content Detail in About Section | Medium | [#233](https://github.com/SurajSG23/PrepBuddy/issues/233) |
 | Fixed : Improve 'How It Works' Section UI/UX | Medium | [#232](https://github.com/SurajSG23/PrepBuddy/pull/232) |
@@ -1009,7 +1011,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the production-dependencies group across 1 directory with 29 updates | Medium | [#123](https://github.com/CoderUzumaki/PrepEdge-AI/pull/123) |
+| chore(deps): bump the production-dependencies group across 1 directory with 30 updates | Medium | [#125](https://github.com/CoderUzumaki/PrepEdge-AI/pull/125) |
 | Install Vercel Web Analytics | Medium | [#121](https://github.com/CoderUzumaki/PrepEdge-AI/pull/121) |
 | chore(deps-dev): bump eslint-plugin-react-refresh from 0.4.26 to 0.5.2 | Medium | [#119](https://github.com/CoderUzumaki/PrepEdge-AI/pull/119) |
 | chore(deps-dev): bump vitest from 3.2.6 to 4.1.8 | Medium | [#118](https://github.com/CoderUzumaki/PrepEdge-AI/pull/118) |
@@ -1214,6 +1216,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: prevent hero heading text overflow on mobile (#611) | Medium | [#643](https://github.com/lovelymahor/StudyMatePlus/pull/643) |
+| fix: speed up feature card hover transition to 200ms ease-out (#625) | Medium | [#642](https://github.com/lovelymahor/StudyMatePlus/pull/642) |
+| Feature Request: AI-Generated Practice Questions from Syllabus + PYQs | Medium | [#641](https://github.com/lovelymahor/StudyMatePlus/issues/641) |
+| Bug: Mentors Page Not Working | Medium | [#640](https://github.com/lovelymahor/StudyMatePlus/issues/640) |
+| Feature/enhance about mission UI | Medium | [#639](https://github.com/lovelymahor/StudyMatePlus/pull/639) |
+| Add a Resource Rating & Review System for Study Materials | Medium | [#638](https://github.com/lovelymahor/StudyMatePlus/issues/638) |
+| Features section buttons are not working | Medium | [#637](https://github.com/lovelymahor/StudyMatePlus/issues/637) |
+| Create Account Feature is no working | Medium | [#636](https://github.com/lovelymahor/StudyMatePlus/issues/636) |
 | ## 📄 Documentation: Missing `docs/` folder referenced in Project Structure | Medium | [#635](https://github.com/lovelymahor/StudyMatePlus/issues/635) |
 | ## ✨ Feature Request: Implement the "Student Feedback on Exam Papers" module | Medium | [#634](https://github.com/lovelymahor/StudyMatePlus/issues/634) |
 | refactor(server): Eliminate competing Express bootstrap paths by establishing a single canonical application entry point | Medium | [#633](https://github.com/lovelymahor/StudyMatePlus/issues/633) |
@@ -1236,14 +1246,6 @@ Fast Workflow Tools
 | UI: Fix Footer alignment and symmetry on responsive viewports | Medium | [#616](https://github.com/lovelymahor/StudyMatePlus/issues/616) |
 | feat: add floating "scroll-to-top button" with smooth scrolling | Medium | [#615](https://github.com/lovelymahor/StudyMatePlus/pull/615) |
 | Feedback tab does not provide a feedback form; "Submit Your Feedback" button is non-functional | Medium | [#614](https://github.com/lovelymahor/StudyMatePlus/issues/614) |
-| Bug: Hero Section Text Overflows on Mobile Devices | Medium | [#611](https://github.com/lovelymahor/StudyMatePlus/issues/611) |
-| Bug: Low Color Contrast on "Learn More" Button in Exam Banner | Medium | [#610](https://github.com/lovelymahor/StudyMatePlus/issues/610) |
-| Support Email Address in Contact Section Is Not Clickable | Medium | [#609](https://github.com/lovelymahor/StudyMatePlus/issues/609) |
-| feat: Add Scroll-to-Top Button for Better Navigation UX | Medium | [#608](https://github.com/lovelymahor/StudyMatePlus/issues/608) |
-| Real-time Fuzzy Search and Query Term Highlighting in Notes and PYQs | Medium | [#607](https://github.com/lovelymahor/StudyMatePlus/issues/607) |
-| Mind Map Canvas Does Not Fit Screen Height | Medium | [#606](https://github.com/lovelymahor/StudyMatePlus/issues/606) |
-| Bug: Back-to-Top Floating Button Missing on Non-Home Pages | Medium | [#605](https://github.com/lovelymahor/StudyMatePlus/issues/605) |
-| Missing feedback form for Student Feedback | Medium | [#604](https://github.com/lovelymahor/StudyMatePlus/issues/604) |
 
 ---
 
