@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug fixing: adding holla in .env.local | Medium | [#294](https://github.com/iaadillatif/techxninjas-client/pull/294) |
+| "Start Exploring" Button is Not Functional | Medium | [#293](https://github.com/iaadillatif/techxninjas-client/issues/293) |
+| "Browse Programs" Button Fails to Load Courses | Medium | [#292](https://github.com/iaadillatif/techxninjas-client/issues/292) |
 | Removing locals files from .env file | Medium | [#290](https://github.com/iaadillatif/techxninjas-client/pull/290) |
 | Add Claude Code GitHub Workflow | Medium | [#289](https://github.com/iaadillatif/techxninjas-client/issues/289) |
 | Feature Request: Add a Gamified Leaderboard to Ignite Daily Engagement & Community | Medium | [#285](https://github.com/iaadillatif/techxninjas-client/issues/285) |
@@ -41,8 +44,6 @@
 | Make the home page more futeristic | Medium | [#258](https://github.com/iaadillatif/techxninjas-client/issues/258) |
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
-| course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
-| Add search button to Events page for better UX (Issue #243) | Medium | [#249](https://github.com/iaadillatif/techxninjas-client/pull/249) |
 
 ---
 
@@ -197,7 +198,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Investigating Astro for potential dashboard performance in EdgeCareer | Medium | [#142](https://github.com/amitkumardemo/EdgeCareer/issues/142) |
+| "Terms of Use" Link Redirects to Page Not Found | Medium | [#144](https://github.com/amitkumardemo/EdgeCareer/issues/144) |
+| Footer Tech Blog Navigation Returns Page Not Found | Medium | [#143](https://github.com/amitkumardemo/EdgeCareer/issues/143) |
 | Security issue: possible command injection in GitHub Actions workflow | Medium | [#141](https://github.com/amitkumardemo/EdgeCareer/issues/141) |
 | Security issue: possible command injection in GitHub Actions workflow | Medium | [#140](https://github.com/amitkumardemo/EdgeCareer/issues/140) |
 | feat: enhance footer logo resolution and text styling (#101) | Medium | [#137](https://github.com/amitkumardemo/EdgeCareer/pull/137) |
@@ -219,7 +221,6 @@
 | Make footer copyright year dynamic to always show current year | Medium | [#116](https://github.com/amitkumardemo/EdgeCareer/issues/116) |
 | Add scroll-to-top behavior on clicking the logo | Medium | [#115](https://github.com/amitkumardemo/EdgeCareer/issues/115) |
 | Enhanced the Visual Formatting of CODE_OF_CONDUCT.md file | Medium | [#113](https://github.com/amitkumardemo/EdgeCareer/pull/113) |
-| feat: add AI-powered career guidance feature with new page and lib module | Medium | [#109](https://github.com/amitkumardemo/EdgeCareer/pull/109) |
 
 ---
 
@@ -265,27 +266,25 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: implement infrastructure integration testing suite using LocalStack and Terraform test framework | Easy | [#5091](https://github.com/OWASP/Nest/pull/5091) |
-| chore(deps): bump aquasec/trivy from 0.71.2 to 0.72.0 in /docker/trivy in the version-updates group across 1 directory | Medium | [#5106](https://github.com/OWASP/Nest/pull/5106) |
-| chore(deps): bump the version-updates group across 3 directories with 1 update | Medium | [#5105](https://github.com/OWASP/Nest/pull/5105) |
-| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#5104](https://github.com/OWASP/Nest/pull/5104) |
-| chore(deps): bump @next/third-parties in /frontend | Medium | [#5103](https://github.com/OWASP/Nest/pull/5103) |
+| chore(infrastructure): bump hashicorp/aws from 6.36.0 to 6.53.0 | Easy | [#5129](https://github.com/OWASP/Nest/pull/5129) |
+| feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
+| Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
+| feat: implement infrastructure integration testing suite using Localstack and Terraform | Easy | [#5122](https://github.com/OWASP/Nest/pull/5122) |
+| feat(o11y): add grafana with VM datasource & dashboard | Easy | [#5109](https://github.com/OWASP/Nest/pull/5109) |
+| Implement Contributor Certificate Frontend UI | Medium | [#5131](https://github.com/OWASP/Nest/pull/5131) |
+| chore(deps): bump apexcharts in /frontend | Medium | [#5125](https://github.com/OWASP/Nest/pull/5125) |
+| Frontend container hangs indefinitely | Medium | [#5121](https://github.com/OWASP/Nest/issues/5121) |
+| chore(deps): bump date-fns in /frontend | Medium | [#5118](https://github.com/OWASP/Nest/pull/5118) |
+| chore(deps): bump strawberry-graphql-django in / | Medium | [#5116](https://github.com/OWASP/Nest/pull/5116) |
 | Draft: Improve typing for github_user attributes on GraphQL nodes | Medium | [#5100](https://github.com/OWASP/Nest/pull/5100) |
 | Fix SynchronousOnlyOperation exceptions in mentorship app | Medium | [#5099](https://github.com/OWASP/Nest/pull/5099) |
 | nest_updated_at is never refreshed for records updated via bulk_save | Medium | [#5090](https://github.com/OWASP/Nest/issues/5090) |
-| Optimize GitHub RepositoryNode | Medium | [#5082](https://github.com/OWASP/Nest/pull/5082) |
 | Store Django sessions in Redis instead of the database | Medium | [#5081](https://github.com/OWASP/Nest/pull/5081) |
 | Split bootstrap Terraform per environment to isolate staging and production IAM | Medium | [#5077](https://github.com/OWASP/Nest/issues/5077) |
 | feat(backend): strip exif metadata from candidate claims | Medium | [#5074](https://github.com/OWASP/Nest/pull/5074) |
 | Update Claim and Evidence GraphQL Queries To Add Reviews | Medium | [#5069](https://github.com/OWASP/Nest/pull/5069) |
 | feat: display repository last updated date on repository cards | Medium | [#5067](https://github.com/OWASP/Nest/pull/5067) |
-| Add Django Model for Claim Reviews | Medium | [#5066](https://github.com/OWASP/Nest/pull/5066) |
 | Feature/improve module management ux | Medium | [#5059](https://github.com/OWASP/Nest/pull/5059) |
-| Feature/snapshot subscription graphql | Medium | [#5058](https://github.com/OWASP/Nest/pull/5058) |
-| Add Evidence Management Dashboard | Medium | [#5057](https://github.com/OWASP/Nest/pull/5057) |
-| feat(slack): add BotInteraction model and reaction feedback handler | Medium | [#5035](https://github.com/OWASP/Nest/pull/5035) |
-| add slack reaction based moderation alerts | Medium | [#5034](https://github.com/OWASP/Nest/pull/5034) |
-| Add snapshot subscription model | Medium | [#5021](https://github.com/OWASP/Nest/pull/5021) |
 
 ---
 
@@ -1633,6 +1632,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Progress Widgets + Fix Layout Issues + New Showcase Page | Easy | [#235](https://github.com/SurajSG23/PrepBuddy/issues/235) |
+| Bug: Previous and Next buttons are non-functional during aptitude test navigation | Medium | [#237](https://github.com/SurajSG23/PrepBuddy/issues/237) |
 | Improve README.md Structure and Visual Appeal | Medium | [#234](https://github.com/SurajSG23/PrepBuddy/issues/234) |
 | Enhance: Improve Visual Hierarchy and Content Detail in About Section | Medium | [#233](https://github.com/SurajSG23/PrepBuddy/issues/233) |
 | Fixed : Improve 'How It Works' Section UI/UX | Medium | [#232](https://github.com/SurajSG23/PrepBuddy/pull/232) |
@@ -1883,7 +1883,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the production-dependencies group across 1 directory with 29 updates | Medium | [#123](https://github.com/CoderUzumaki/PrepEdge-AI/pull/123) |
+| chore(deps): bump the production-dependencies group across 1 directory with 30 updates | Medium | [#125](https://github.com/CoderUzumaki/PrepEdge-AI/pull/125) |
 | Install Vercel Web Analytics | Medium | [#121](https://github.com/CoderUzumaki/PrepEdge-AI/pull/121) |
 | chore(deps-dev): bump eslint-plugin-react-refresh from 0.4.26 to 0.5.2 | Medium | [#119](https://github.com/CoderUzumaki/PrepEdge-AI/pull/119) |
 | chore(deps-dev): bump vitest from 3.2.6 to 4.1.8 | Medium | [#118](https://github.com/CoderUzumaki/PrepEdge-AI/pull/118) |
@@ -1923,10 +1923,15 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: prevent quest slot overbooking | Medium | [#398](https://github.com/LarytheLord/Adventurers-Guild/pull/398) |
-| fix: Admin QA reject/approve now calls syncQuestLifecycleStatus (#330) | Medium | [#387](https://github.com/LarytheLord/Adventurers-Guild/pull/387) |
-| fix: QA approval now properly awards XP and creates QuestCompletion (#317) | Medium | [#384](https://github.com/LarytheLord/Adventurers-Guild/pull/384) |
-| fix: /api/errors/log is unauthenticated — open to log injection and DB flooding | Medium | [#342](https://github.com/LarytheLord/Adventurers-Guild/issues/342) |
+| fix: Security fixes + feat: Quest category pages (#318, #320, #257, #407, #324, #342, #330, #238) | Medium | [#411](https://github.com/LarytheLord/Adventurers-Guild/pull/411) |
+| feat: Student rework view — show exactly what failed during QA review | Medium | [#410](https://github.com/LarytheLord/Adventurers-Guild/issues/410) |
+| feat: Guild Master role — intermediate QA gate between student and admin | Medium | [#409](https://github.com/LarytheLord/Adventurers-Guild/issues/409) |
+| feat: Admin Analytics API — platform health metrics | Medium | [#408](https://github.com/LarytheLord/Adventurers-Guild/issues/408) |
+| security: Secure email change flow for NextAuth/Prisma stack | Medium | [#407](https://github.com/LarytheLord/Adventurers-Guild/issues/407) |
+| feat: Quest track filtering — enforce BOOTCAMP/INTERN/OPEN visibility | Medium | [#406](https://github.com/LarytheLord/Adventurers-Guild/issues/406) |
+| feat: QA Review UI — criteria-based checklist instead of freeform text | Medium | [#405](https://github.com/LarytheLord/Adventurers-Guild/issues/405) |
+| feat: Daily Update enforcement — alerts when students go silent | Medium | [#404](https://github.com/LarytheLord/Adventurers-Guild/issues/404) |
+| feat: Admin Operations Dashboard — single-view for active work tracking | Medium | [#403](https://github.com/LarytheLord/Adventurers-Guild/issues/403) |
 | fix: Admin QA reject/approve skips syncQuestLifecycleStatus — quest status stuck after admin action | Medium | [#330](https://github.com/LarytheLord/Adventurers-Guild/issues/330) |
 | fix: Company quest edit ownership check is client-side only — full quest data leaks before redirect | Medium | [#327](https://github.com/LarytheLord/Adventurers-Guild/issues/327) |
 | fix: XP reward runs outside DB transaction — adventurer permanently loses XP if second write fails | Medium | [#324](https://github.com/LarytheLord/Adventurers-Guild/issues/324) |
@@ -2443,6 +2448,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: prevent hero heading text overflow on mobile (#611) | Medium | [#643](https://github.com/lovelymahor/StudyMatePlus/pull/643) |
+| fix: speed up feature card hover transition to 200ms ease-out (#625) | Medium | [#642](https://github.com/lovelymahor/StudyMatePlus/pull/642) |
+| Feature Request: AI-Generated Practice Questions from Syllabus + PYQs | Medium | [#641](https://github.com/lovelymahor/StudyMatePlus/issues/641) |
+| Bug: Mentors Page Not Working | Medium | [#640](https://github.com/lovelymahor/StudyMatePlus/issues/640) |
+| Feature/enhance about mission UI | Medium | [#639](https://github.com/lovelymahor/StudyMatePlus/pull/639) |
+| Add a Resource Rating & Review System for Study Materials | Medium | [#638](https://github.com/lovelymahor/StudyMatePlus/issues/638) |
+| Features section buttons are not working | Medium | [#637](https://github.com/lovelymahor/StudyMatePlus/issues/637) |
+| Create Account Feature is no working | Medium | [#636](https://github.com/lovelymahor/StudyMatePlus/issues/636) |
 | ## 📄 Documentation: Missing `docs/` folder referenced in Project Structure | Medium | [#635](https://github.com/lovelymahor/StudyMatePlus/issues/635) |
 | ## ✨ Feature Request: Implement the "Student Feedback on Exam Papers" module | Medium | [#634](https://github.com/lovelymahor/StudyMatePlus/issues/634) |
 | refactor(server): Eliminate competing Express bootstrap paths by establishing a single canonical application entry point | Medium | [#633](https://github.com/lovelymahor/StudyMatePlus/issues/633) |
@@ -2465,14 +2478,6 @@ Fast Workflow Tools
 | UI: Fix Footer alignment and symmetry on responsive viewports | Medium | [#616](https://github.com/lovelymahor/StudyMatePlus/issues/616) |
 | feat: add floating "scroll-to-top button" with smooth scrolling | Medium | [#615](https://github.com/lovelymahor/StudyMatePlus/pull/615) |
 | Feedback tab does not provide a feedback form; "Submit Your Feedback" button is non-functional | Medium | [#614](https://github.com/lovelymahor/StudyMatePlus/issues/614) |
-| Bug: Hero Section Text Overflows on Mobile Devices | Medium | [#611](https://github.com/lovelymahor/StudyMatePlus/issues/611) |
-| Bug: Low Color Contrast on "Learn More" Button in Exam Banner | Medium | [#610](https://github.com/lovelymahor/StudyMatePlus/issues/610) |
-| Support Email Address in Contact Section Is Not Clickable | Medium | [#609](https://github.com/lovelymahor/StudyMatePlus/issues/609) |
-| feat: Add Scroll-to-Top Button for Better Navigation UX | Medium | [#608](https://github.com/lovelymahor/StudyMatePlus/issues/608) |
-| Real-time Fuzzy Search and Query Term Highlighting in Notes and PYQs | Medium | [#607](https://github.com/lovelymahor/StudyMatePlus/issues/607) |
-| Mind Map Canvas Does Not Fit Screen Height | Medium | [#606](https://github.com/lovelymahor/StudyMatePlus/issues/606) |
-| Bug: Back-to-Top Floating Button Missing on Non-Home Pages | Medium | [#605](https://github.com/lovelymahor/StudyMatePlus/issues/605) |
-| Missing feedback form for Student Feedback | Medium | [#604](https://github.com/lovelymahor/StudyMatePlus/issues/604) |
 
 ---
 
@@ -2855,20 +2860,15 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| CSP header missing worker-src and Sentry connect-src directives — blocking blob workers and error reporting | Medium | [#10028](https://github.com/SandeepVashishtha/Eventra/issues/10028) |
-| Projects page crashes with "ReferenceError: Project is not defined" on mobile | Medium | [#10027](https://github.com/SandeepVashishtha/Eventra/issues/10027) |
-| Bug: homepage contributor guide CTA uses wrong route casing | Medium | [#10015](https://github.com/SandeepVashishtha/Eventra/issues/10015) |
-| Bug: navbar Create Event actions link to /events/create instead of the registered route | Medium | [#10014](https://github.com/SandeepVashishtha/Eventra/issues/10014) |
-| Bug: dashboard Quest Center link targets missing /dashboard/quests route | Medium | [#10013](https://github.com/SandeepVashishtha/Eventra/issues/10013) |
-| Bug: floor plan 3D Walkthrough button navigates to an unregistered route | Medium | [#10012](https://github.com/SandeepVashishtha/Eventra/issues/10012) |
-| Bug: Cookies page imports next/link inside a Vite React app | Medium | [#10011](https://github.com/SandeepVashishtha/Eventra/issues/10011) |
-| Bug: footer Cookies link points to /cookies but no route is registered | Medium | [#10010](https://github.com/SandeepVashishtha/Eventra/issues/10010) |
-| Bug: React tests import @testing-library/user-event without declaring it | Medium | [#10009](https://github.com/SandeepVashishtha/Eventra/issues/10009) |
-| Bug: test setup imports @testing-library/jest-dom without declaring it | Medium | [#10008](https://github.com/SandeepVashishtha/Eventra/issues/10008) |
-| Bug: MSW mock files import an undeclared msw package | Medium | [#10007](https://github.com/SandeepVashishtha/Eventra/issues/10007) |
-| Bug: /api/events route imports Express without declaring the dependency | Medium | [#10006](https://github.com/SandeepVashishtha/Eventra/issues/10006) |
-| Bug: EventDetails still renders mojibake strings in copy text and action buttons | Medium | [#10000](https://github.com/SandeepVashishtha/Eventra/issues/10000) |
-| Bug: EventDetails share button never opens ShareModal because isOpen prop is omitted | Medium | [#9999](https://github.com/SandeepVashishtha/Eventra/issues/9999) |
+| docs(security): Add Authentication Security Best Practices Guide | Medium | [#10176](https://github.com/SandeepVashishtha/Eventra/issues/10176) |
+| docs(security): Add Dependency Security Management Guide | Medium | [#10175](https://github.com/SandeepVashishtha/Eventra/issues/10175) |
+| docs(security): Add Incident Response Guide for Contributors | Medium | [#10174](https://github.com/SandeepVashishtha/Eventra/issues/10174) |
+| 🔒 [CRITICAL SECURITY] JWT signature never verified in Edge Middleware — privilege escalation via token forgery | Medium | [#10163](https://github.com/SandeepVashishtha/Eventra/issues/10163) |
+| Bug: SSE_MESSAGE broadcast missing tabId — leader tab re-processes its own rebroadcast causing every SSE event to fire local callbacks twice | Medium | [#10157](https://github.com/SandeepVashishtha/Eventra/issues/10157) |
+| bug: broader Node test suite fails on extensionless ESM imports in source utilities | Medium | [#10128](https://github.com/SandeepVashishtha/Eventra/issues/10128) |
+| bug: GitHubStats Languages card always falls back to static React value | Medium | [#10125](https://github.com/SandeepVashishtha/Eventra/issues/10125) |
+| bug: GitHubStats pull request card displays length of a one-item request | Medium | [#10124](https://github.com/SandeepVashishtha/Eventra/issues/10124) |
+| Revamp Client Dashboard with Complete API Integration | Hard | [#10173](https://github.com/SandeepVashishtha/Eventra/issues/10173) |
 
 ---
 
