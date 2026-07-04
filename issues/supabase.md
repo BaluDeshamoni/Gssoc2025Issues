@@ -87,6 +87,11 @@
 |----------|----------------|---------|
 | fix: preserve typed API error prototypes | Easy | [#992](https://github.com/Muneerali199/Draftdeckai/pull/992) |
 | Issue #958 | Easy | [#976](https://github.com/Muneerali199/Draftdeckai/pull/976) |
+| Bug: document autosave fires on every keystroke with no debounce, causes Supabase write storm | Medium | [#1051](https://github.com/Muneerali199/Draftdeckai/issues/1051) |
+| Bug: AI-generated resume content not sanitised before rendering, stored XSS possible | Medium | [#1050](https://github.com/Muneerali199/Draftdeckai/issues/1050) |
+| Bug: Stripe webhook endpoint missing signature verification, allows forged payment events | Medium | [#1049](https://github.com/Muneerali199/Draftdeckai/issues/1049) |
+| Bug: Mermaid.js diagram rendering blocks main thread on large diagrams, freezes editor | Medium | [#1048](https://github.com/Muneerali199/Draftdeckai/issues/1048) |
+| Security: SUPABASE_SERVICE_ROLE_KEY in README .env example risks accidental commit | Medium | [#1047](https://github.com/Muneerali199/Draftdeckai/issues/1047) |
 | fix: pass user phone and location to Mistral fallback instead of hard… | Medium | [#1046](https://github.com/Muneerali199/Draftdeckai/pull/1046) |
 | fix: correct Content-Type header for gzip export and remove internal … | Medium | [#1045](https://github.com/Muneerali199/Draftdeckai/pull/1045) |
 | fix: replace logger.info with logger.debug for dev-only debug logs | Medium | [#1044](https://github.com/Muneerali199/Draftdeckai/pull/1044) |
@@ -99,11 +104,8 @@
 | fix: preserve typed API error prototypes | Medium | [#995](https://github.com/Muneerali199/Draftdeckai/pull/995) |
 | fix: align cors headers with production contract | Medium | [#994](https://github.com/Muneerali199/Draftdeckai/pull/994) |
 | feat: add Go backend env validation at startup (#901) | Medium | [#971](https://github.com/Muneerali199/Draftdeckai/pull/971) |
-| Added backend files #902 issue | Medium | [#958](https://github.com/Muneerali199/Draftdeckai/pull/958) |
-| Add post-generation AI edit loop with chat interface | Hard | [#1022](https://github.com/Muneerali199/Draftdeckai/issues/1022) |
 | Build document workflow engine — multi-step, connected document creation | Hard | [#1021](https://github.com/Muneerali199/Draftdeckai/issues/1021) |
 | Differentiate DraftDeckAI landing page and first-run experience | Hard | [#1020](https://github.com/Muneerali199/Draftdeckai/issues/1020) |
-| feat: add dynamic published resume URLs to sitemap | Hard | [#963](https://github.com/Muneerali199/Draftdeckai/pull/963) |
 
 ---
 
@@ -176,10 +178,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: prevent quest slot overbooking | Medium | [#398](https://github.com/LarytheLord/Adventurers-Guild/pull/398) |
-| fix: Admin QA reject/approve now calls syncQuestLifecycleStatus (#330) | Medium | [#387](https://github.com/LarytheLord/Adventurers-Guild/pull/387) |
-| fix: QA approval now properly awards XP and creates QuestCompletion (#317) | Medium | [#384](https://github.com/LarytheLord/Adventurers-Guild/pull/384) |
-| fix: /api/errors/log is unauthenticated — open to log injection and DB flooding | Medium | [#342](https://github.com/LarytheLord/Adventurers-Guild/issues/342) |
+| fix: Security fixes + feat: Quest category pages (#318, #320, #257, #407, #324, #342, #330, #238) | Medium | [#411](https://github.com/LarytheLord/Adventurers-Guild/pull/411) |
+| feat: Student rework view — show exactly what failed during QA review | Medium | [#410](https://github.com/LarytheLord/Adventurers-Guild/issues/410) |
+| feat: Guild Master role — intermediate QA gate between student and admin | Medium | [#409](https://github.com/LarytheLord/Adventurers-Guild/issues/409) |
+| feat: Admin Analytics API — platform health metrics | Medium | [#408](https://github.com/LarytheLord/Adventurers-Guild/issues/408) |
+| security: Secure email change flow for NextAuth/Prisma stack | Medium | [#407](https://github.com/LarytheLord/Adventurers-Guild/issues/407) |
+| feat: Quest track filtering — enforce BOOTCAMP/INTERN/OPEN visibility | Medium | [#406](https://github.com/LarytheLord/Adventurers-Guild/issues/406) |
+| feat: QA Review UI — criteria-based checklist instead of freeform text | Medium | [#405](https://github.com/LarytheLord/Adventurers-Guild/issues/405) |
+| feat: Daily Update enforcement — alerts when students go silent | Medium | [#404](https://github.com/LarytheLord/Adventurers-Guild/issues/404) |
+| feat: Admin Operations Dashboard — single-view for active work tracking | Medium | [#403](https://github.com/LarytheLord/Adventurers-Guild/issues/403) |
 | fix: Admin QA reject/approve skips syncQuestLifecycleStatus — quest status stuck after admin action | Medium | [#330](https://github.com/LarytheLord/Adventurers-Guild/issues/330) |
 | fix: Company quest edit ownership check is client-side only — full quest data leaks before redirect | Medium | [#327](https://github.com/LarytheLord/Adventurers-Guild/issues/327) |
 | fix: XP reward runs outside DB transaction — adventurer permanently loses XP if second write fails | Medium | [#324](https://github.com/LarytheLord/Adventurers-Guild/issues/324) |
