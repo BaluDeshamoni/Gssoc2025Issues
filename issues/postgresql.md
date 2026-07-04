@@ -117,6 +117,11 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 |----------|----------------|---------|
 | fix: preserve typed API error prototypes | Easy | [#992](https://github.com/Muneerali199/Draftdeckai/pull/992) |
 | Issue #958 | Easy | [#976](https://github.com/Muneerali199/Draftdeckai/pull/976) |
+| Bug: document autosave fires on every keystroke with no debounce, causes Supabase write storm | Medium | [#1051](https://github.com/Muneerali199/Draftdeckai/issues/1051) |
+| Bug: AI-generated resume content not sanitised before rendering, stored XSS possible | Medium | [#1050](https://github.com/Muneerali199/Draftdeckai/issues/1050) |
+| Bug: Stripe webhook endpoint missing signature verification, allows forged payment events | Medium | [#1049](https://github.com/Muneerali199/Draftdeckai/issues/1049) |
+| Bug: Mermaid.js diagram rendering blocks main thread on large diagrams, freezes editor | Medium | [#1048](https://github.com/Muneerali199/Draftdeckai/issues/1048) |
+| Security: SUPABASE_SERVICE_ROLE_KEY in README .env example risks accidental commit | Medium | [#1047](https://github.com/Muneerali199/Draftdeckai/issues/1047) |
 | fix: pass user phone and location to Mistral fallback instead of hard… | Medium | [#1046](https://github.com/Muneerali199/Draftdeckai/pull/1046) |
 | fix: correct Content-Type header for gzip export and remove internal … | Medium | [#1045](https://github.com/Muneerali199/Draftdeckai/pull/1045) |
 | fix: replace logger.info with logger.debug for dev-only debug logs | Medium | [#1044](https://github.com/Muneerali199/Draftdeckai/pull/1044) |
@@ -129,11 +134,8 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | fix: preserve typed API error prototypes | Medium | [#995](https://github.com/Muneerali199/Draftdeckai/pull/995) |
 | fix: align cors headers with production contract | Medium | [#994](https://github.com/Muneerali199/Draftdeckai/pull/994) |
 | feat: add Go backend env validation at startup (#901) | Medium | [#971](https://github.com/Muneerali199/Draftdeckai/pull/971) |
-| Added backend files #902 issue | Medium | [#958](https://github.com/Muneerali199/Draftdeckai/pull/958) |
-| Add post-generation AI edit loop with chat interface | Hard | [#1022](https://github.com/Muneerali199/Draftdeckai/issues/1022) |
 | Build document workflow engine — multi-step, connected document creation | Hard | [#1021](https://github.com/Muneerali199/Draftdeckai/issues/1021) |
 | Differentiate DraftDeckAI landing page and first-run experience | Hard | [#1020](https://github.com/Muneerali199/Draftdeckai/issues/1020) |
-| feat: add dynamic published resume URLs to sitemap | Hard | [#963](https://github.com/Muneerali199/Draftdeckai/pull/963) |
 
 ---
 
@@ -345,20 +347,15 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| CSP header missing worker-src and Sentry connect-src directives — blocking blob workers and error reporting | Medium | [#10028](https://github.com/SandeepVashishtha/Eventra/issues/10028) |
-| Projects page crashes with "ReferenceError: Project is not defined" on mobile | Medium | [#10027](https://github.com/SandeepVashishtha/Eventra/issues/10027) |
-| Bug: homepage contributor guide CTA uses wrong route casing | Medium | [#10015](https://github.com/SandeepVashishtha/Eventra/issues/10015) |
-| Bug: navbar Create Event actions link to /events/create instead of the registered route | Medium | [#10014](https://github.com/SandeepVashishtha/Eventra/issues/10014) |
-| Bug: dashboard Quest Center link targets missing /dashboard/quests route | Medium | [#10013](https://github.com/SandeepVashishtha/Eventra/issues/10013) |
-| Bug: floor plan 3D Walkthrough button navigates to an unregistered route | Medium | [#10012](https://github.com/SandeepVashishtha/Eventra/issues/10012) |
-| Bug: Cookies page imports next/link inside a Vite React app | Medium | [#10011](https://github.com/SandeepVashishtha/Eventra/issues/10011) |
-| Bug: footer Cookies link points to /cookies but no route is registered | Medium | [#10010](https://github.com/SandeepVashishtha/Eventra/issues/10010) |
-| Bug: React tests import @testing-library/user-event without declaring it | Medium | [#10009](https://github.com/SandeepVashishtha/Eventra/issues/10009) |
-| Bug: test setup imports @testing-library/jest-dom without declaring it | Medium | [#10008](https://github.com/SandeepVashishtha/Eventra/issues/10008) |
-| Bug: MSW mock files import an undeclared msw package | Medium | [#10007](https://github.com/SandeepVashishtha/Eventra/issues/10007) |
-| Bug: /api/events route imports Express without declaring the dependency | Medium | [#10006](https://github.com/SandeepVashishtha/Eventra/issues/10006) |
-| Bug: EventDetails still renders mojibake strings in copy text and action buttons | Medium | [#10000](https://github.com/SandeepVashishtha/Eventra/issues/10000) |
-| Bug: EventDetails share button never opens ShareModal because isOpen prop is omitted | Medium | [#9999](https://github.com/SandeepVashishtha/Eventra/issues/9999) |
+| docs(security): Add Authentication Security Best Practices Guide | Medium | [#10176](https://github.com/SandeepVashishtha/Eventra/issues/10176) |
+| docs(security): Add Dependency Security Management Guide | Medium | [#10175](https://github.com/SandeepVashishtha/Eventra/issues/10175) |
+| docs(security): Add Incident Response Guide for Contributors | Medium | [#10174](https://github.com/SandeepVashishtha/Eventra/issues/10174) |
+| 🔒 [CRITICAL SECURITY] JWT signature never verified in Edge Middleware — privilege escalation via token forgery | Medium | [#10163](https://github.com/SandeepVashishtha/Eventra/issues/10163) |
+| Bug: SSE_MESSAGE broadcast missing tabId — leader tab re-processes its own rebroadcast causing every SSE event to fire local callbacks twice | Medium | [#10157](https://github.com/SandeepVashishtha/Eventra/issues/10157) |
+| bug: broader Node test suite fails on extensionless ESM imports in source utilities | Medium | [#10128](https://github.com/SandeepVashishtha/Eventra/issues/10128) |
+| bug: GitHubStats Languages card always falls back to static React value | Medium | [#10125](https://github.com/SandeepVashishtha/Eventra/issues/10125) |
+| bug: GitHubStats pull request card displays length of a one-item request | Medium | [#10124](https://github.com/SandeepVashishtha/Eventra/issues/10124) |
+| Revamp Client Dashboard with Complete API Integration | Hard | [#10173](https://github.com/SandeepVashishtha/Eventra/issues/10173) |
 
 ---
 
