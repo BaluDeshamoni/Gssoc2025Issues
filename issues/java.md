@@ -131,6 +131,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Issue: Enhance Community Card Design | Medium | [#1074](https://github.com/opensource-society/notesvault/issues/1074) |
+| Improve Footer UI and Overall Layout | Medium | [#1073](https://github.com/opensource-society/notesvault/issues/1073) |
 | This is my rough trial of creating issues on github | Medium | [#1072](https://github.com/opensource-society/notesvault/issues/1072) |
 | Fixes #1068 Improved the README.md with enhanced setup instructions and a comprehensive troubleshooting section | Medium | [#1071](https://github.com/opensource-society/notesvault/pull/1071) |
 | Fixes #1069 Added "Testing Your Changes" Section in CONTRIBUTING.md | Medium | [#1070](https://github.com/opensource-society/notesvault/pull/1070) |
@@ -438,6 +440,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| # 🚀 Feature Request: Add Patient Medical History Timeline | Medium | [#756](https://github.com/Dipanita45/HEALCONNECT/issues/756) |
 | Fix Client-Side Route Guard and Identity Bypass | Medium | [#755](https://github.com/Dipanita45/HEALCONNECT/pull/755) |
 | Comprehensive Accessibility (a11y) Audit & Fixes | Medium | [#754](https://github.com/Dipanita45/HEALCONNECT/issues/754) |
 | Implement Skeleton Loaders for Dashboard Data Fetching | Medium | [#752](https://github.com/Dipanita45/HEALCONNECT/issues/752) |
@@ -1087,6 +1090,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| 🐞[Bug]: Hamburger Menu Icon Non-Functional in Header | Easy | [#1932](https://github.com/recodehive/recode-website/issues/1932) |
 | chore: bump @typescript-eslint/parser from 8.61.1 to 8.62.1 | Easy | [#1931](https://github.com/recodehive/recode-website/pull/1931) |
 | chore: bump @typescript-eslint/eslint-plugin from 8.61.1 to 8.62.1 | Easy | [#1930](https://github.com/recodehive/recode-website/pull/1930) |
 | chore: bump lucide-react from 0.503.0 to 1.22.0 | Easy | [#1929](https://github.com/recodehive/recode-website/pull/1929) |
@@ -1462,14 +1466,14 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add More Classic Games | Easy | [#4](https://github.com/ajaynegi45/Old-School-Game/issues/4) |
-| Fix React Server Components CVE vulnerabilities | Medium | [#124](https://github.com/ajaynegi45/Old-School-Game/pull/124) |
-| feat: add Sliding Puzzle (15 Puzzle) game (closes #4) | Medium | [#123](https://github.com/ajaynegi45/Old-School-Game/pull/123) |
-| Add new brain game: Word Ladder | Medium | [#122](https://github.com/ajaynegi45/Old-School-Game/pull/122) |
-| fix: increase navbar title font size to improve visibility (closes #114) | Medium | [#121](https://github.com/ajaynegi45/Old-School-Game/pull/121) |
-| feat: Implement new 'Brain Train' UI redesign with pure CSS | Medium | [#119](https://github.com/ajaynegi45/Old-School-Game/pull/119) |
-| <Word Ladder> | Medium | [#117](https://github.com/ajaynegi45/Old-School-Game/issues/117) |
-| Homepage title text looks too small | Medium | [#114](https://github.com/ajaynegi45/Old-School-Game/issues/114) |
+| Add More Classic Games | Easy | [#4](https://github.com/ajaynegi33/Old-School-Game/issues/4) |
+| Fix React Server Components CVE vulnerabilities | Medium | [#124](https://github.com/ajaynegi33/Old-School-Game/pull/124) |
+| feat: add Sliding Puzzle (15 Puzzle) game (closes #4) | Medium | [#123](https://github.com/ajaynegi33/Old-School-Game/pull/123) |
+| Add new brain game: Word Ladder | Medium | [#122](https://github.com/ajaynegi33/Old-School-Game/pull/122) |
+| fix: increase navbar title font size to improve visibility (closes #114) | Medium | [#121](https://github.com/ajaynegi33/Old-School-Game/pull/121) |
+| feat: Implement new 'Brain Train' UI redesign with pure CSS | Medium | [#119](https://github.com/ajaynegi33/Old-School-Game/pull/119) |
+| <Word Ladder> | Medium | [#117](https://github.com/ajaynegi33/Old-School-Game/issues/117) |
+| Homepage title text looks too small | Medium | [#114](https://github.com/ajaynegi33/Old-School-Game/issues/114) |
 
 ---
 
@@ -1931,6 +1935,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: prevent hero heading text overflow on mobile (#611) | Medium | [#643](https://github.com/lovelymahor/StudyMatePlus/pull/643) |
+| fix: speed up feature card hover transition to 200ms ease-out (#625) | Medium | [#642](https://github.com/lovelymahor/StudyMatePlus/pull/642) |
+| Feature Request: AI-Generated Practice Questions from Syllabus + PYQs | Medium | [#641](https://github.com/lovelymahor/StudyMatePlus/issues/641) |
+| Bug: Mentors Page Not Working | Medium | [#640](https://github.com/lovelymahor/StudyMatePlus/issues/640) |
+| Feature/enhance about mission UI | Medium | [#639](https://github.com/lovelymahor/StudyMatePlus/pull/639) |
+| Add a Resource Rating & Review System for Study Materials | Medium | [#638](https://github.com/lovelymahor/StudyMatePlus/issues/638) |
+| Features section buttons are not working | Medium | [#637](https://github.com/lovelymahor/StudyMatePlus/issues/637) |
+| Create Account Feature is no working | Medium | [#636](https://github.com/lovelymahor/StudyMatePlus/issues/636) |
 | ## 📄 Documentation: Missing `docs/` folder referenced in Project Structure | Medium | [#635](https://github.com/lovelymahor/StudyMatePlus/issues/635) |
 | ## ✨ Feature Request: Implement the "Student Feedback on Exam Papers" module | Medium | [#634](https://github.com/lovelymahor/StudyMatePlus/issues/634) |
 | refactor(server): Eliminate competing Express bootstrap paths by establishing a single canonical application entry point | Medium | [#633](https://github.com/lovelymahor/StudyMatePlus/issues/633) |
@@ -1953,14 +1965,6 @@ Fast Workflow Tools
 | UI: Fix Footer alignment and symmetry on responsive viewports | Medium | [#616](https://github.com/lovelymahor/StudyMatePlus/issues/616) |
 | feat: add floating "scroll-to-top button" with smooth scrolling | Medium | [#615](https://github.com/lovelymahor/StudyMatePlus/pull/615) |
 | Feedback tab does not provide a feedback form; "Submit Your Feedback" button is non-functional | Medium | [#614](https://github.com/lovelymahor/StudyMatePlus/issues/614) |
-| Bug: Hero Section Text Overflows on Mobile Devices | Medium | [#611](https://github.com/lovelymahor/StudyMatePlus/issues/611) |
-| Bug: Low Color Contrast on "Learn More" Button in Exam Banner | Medium | [#610](https://github.com/lovelymahor/StudyMatePlus/issues/610) |
-| Support Email Address in Contact Section Is Not Clickable | Medium | [#609](https://github.com/lovelymahor/StudyMatePlus/issues/609) |
-| feat: Add Scroll-to-Top Button for Better Navigation UX | Medium | [#608](https://github.com/lovelymahor/StudyMatePlus/issues/608) |
-| Real-time Fuzzy Search and Query Term Highlighting in Notes and PYQs | Medium | [#607](https://github.com/lovelymahor/StudyMatePlus/issues/607) |
-| Mind Map Canvas Does Not Fit Screen Height | Medium | [#606](https://github.com/lovelymahor/StudyMatePlus/issues/606) |
-| Bug: Back-to-Top Floating Button Missing on Non-Home Pages | Medium | [#605](https://github.com/lovelymahor/StudyMatePlus/issues/605) |
-| Missing feedback form for Student Feedback | Medium | [#604](https://github.com/lovelymahor/StudyMatePlus/issues/604) |
 
 ---
 
@@ -2270,7 +2274,6 @@ Fast Workflow Tools
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Improved glass effect management | Medium | [#1521](https://github.com/Rakesh9100/Beautiify/issues/1521) |
-| Fix typo: wont → won't | Medium | [#1520](https://github.com/Rakesh9100/Beautiify/pull/1520) |
 | Add Checkboxes Category and several Components | Medium | [#1070](https://github.com/Rakesh9100/Beautiify/issues/1070) |
 
 ---
