@@ -208,27 +208,25 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: implement infrastructure integration testing suite using LocalStack and Terraform test framework | Easy | [#5091](https://github.com/OWASP/Nest/pull/5091) |
-| chore(deps): bump aquasec/trivy from 0.71.2 to 0.72.0 in /docker/trivy in the version-updates group across 1 directory | Medium | [#5106](https://github.com/OWASP/Nest/pull/5106) |
-| chore(deps): bump the version-updates group across 3 directories with 1 update | Medium | [#5105](https://github.com/OWASP/Nest/pull/5105) |
-| chore(deps): bump @sentry/nextjs in /frontend | Medium | [#5104](https://github.com/OWASP/Nest/pull/5104) |
-| chore(deps): bump @next/third-parties in /frontend | Medium | [#5103](https://github.com/OWASP/Nest/pull/5103) |
+| chore(infrastructure): bump hashicorp/aws from 6.36.0 to 6.53.0 | Easy | [#5129](https://github.com/OWASP/Nest/pull/5129) |
+| feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
+| Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
+| feat: implement infrastructure integration testing suite using Localstack and Terraform | Easy | [#5122](https://github.com/OWASP/Nest/pull/5122) |
+| feat(o11y): add grafana with VM datasource & dashboard | Easy | [#5109](https://github.com/OWASP/Nest/pull/5109) |
+| Snapshot subscription frontend | Medium | [#5136](https://github.com/OWASP/Nest/pull/5136) |
+| Implement Contributor Certificate Frontend UI | Medium | [#5131](https://github.com/OWASP/Nest/pull/5131) |
+| chore(deps): bump apexcharts in /frontend | Medium | [#5125](https://github.com/OWASP/Nest/pull/5125) |
+| Frontend container hangs indefinitely | Medium | [#5121](https://github.com/OWASP/Nest/issues/5121) |
+| chore(deps): bump date-fns in /frontend | Medium | [#5118](https://github.com/OWASP/Nest/pull/5118) |
+| chore(deps): bump strawberry-graphql-django in / | Medium | [#5116](https://github.com/OWASP/Nest/pull/5116) |
 | Draft: Improve typing for github_user attributes on GraphQL nodes | Medium | [#5100](https://github.com/OWASP/Nest/pull/5100) |
 | Fix SynchronousOnlyOperation exceptions in mentorship app | Medium | [#5099](https://github.com/OWASP/Nest/pull/5099) |
 | nest_updated_at is never refreshed for records updated via bulk_save | Medium | [#5090](https://github.com/OWASP/Nest/issues/5090) |
-| Optimize GitHub RepositoryNode | Medium | [#5082](https://github.com/OWASP/Nest/pull/5082) |
 | Store Django sessions in Redis instead of the database | Medium | [#5081](https://github.com/OWASP/Nest/pull/5081) |
 | Split bootstrap Terraform per environment to isolate staging and production IAM | Medium | [#5077](https://github.com/OWASP/Nest/issues/5077) |
 | feat(backend): strip exif metadata from candidate claims | Medium | [#5074](https://github.com/OWASP/Nest/pull/5074) |
 | Update Claim and Evidence GraphQL Queries To Add Reviews | Medium | [#5069](https://github.com/OWASP/Nest/pull/5069) |
 | feat: display repository last updated date on repository cards | Medium | [#5067](https://github.com/OWASP/Nest/pull/5067) |
-| Add Django Model for Claim Reviews | Medium | [#5066](https://github.com/OWASP/Nest/pull/5066) |
-| Feature/improve module management ux | Medium | [#5059](https://github.com/OWASP/Nest/pull/5059) |
-| Feature/snapshot subscription graphql | Medium | [#5058](https://github.com/OWASP/Nest/pull/5058) |
-| Add Evidence Management Dashboard | Medium | [#5057](https://github.com/OWASP/Nest/pull/5057) |
-| feat(slack): add BotInteraction model and reaction feedback handler | Medium | [#5035](https://github.com/OWASP/Nest/pull/5035) |
-| add slack reaction based moderation alerts | Medium | [#5034](https://github.com/OWASP/Nest/pull/5034) |
-| Add snapshot subscription model | Medium | [#5021](https://github.com/OWASP/Nest/pull/5021) |
 
 ---
 
@@ -1073,7 +1071,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Chat bot error | Medium | [#568](https://github.com/aayushraj1010/med-genie/issues/568) |
 | Google Auth issue | Medium | [#567](https://github.com/aayushraj1010/med-genie/issues/567) |
 | OAuth Access Token Leaked via URL Query Params in Google Callback | Medium | [#566](https://github.com/aayushraj1010/med-genie/issues/566) |
-| chore: Consolidate duplicate contribution guides (CONTRIBUTING.md and Contributing.md) to avoid cross-platform inconsistencies | Medium | [#565](https://github.com/aayushraj1010/med-genie/issues/565) |
 | docs: README privacy claims conflict with documented persistence architecture and data storage behavior | Medium | [#564](https://github.com/aayushraj1010/med-genie/issues/564) |
 | security: Insecure default JWT_SECRET fallback enables token forgery and full account takeover | Medium | [#563](https://github.com/aayushraj1010/med-genie/issues/563) |
 | UI Inconsistency Across Routes (Global Styles / Navigation Component Breakdown) | Medium | [#562](https://github.com/aayushraj1010/med-genie/issues/562) |
