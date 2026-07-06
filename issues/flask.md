@@ -264,7 +264,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Chat bot error | Medium | [#568](https://github.com/aayushraj1010/med-genie/issues/568) |
 | Google Auth issue | Medium | [#567](https://github.com/aayushraj1010/med-genie/issues/567) |
 | OAuth Access Token Leaked via URL Query Params in Google Callback | Medium | [#566](https://github.com/aayushraj1010/med-genie/issues/566) |
-| chore: Consolidate duplicate contribution guides (CONTRIBUTING.md and Contributing.md) to avoid cross-platform inconsistencies | Medium | [#565](https://github.com/aayushraj1010/med-genie/issues/565) |
 | docs: README privacy claims conflict with documented persistence architecture and data storage behavior | Medium | [#564](https://github.com/aayushraj1010/med-genie/issues/564) |
 | security: Insecure default JWT_SECRET fallback enables token forgery and full account takeover | Medium | [#563](https://github.com/aayushraj1010/med-genie/issues/563) |
 | UI Inconsistency Across Routes (Global Styles / Navigation Component Breakdown) | Medium | [#562](https://github.com/aayushraj1010/med-genie/issues/562) |
