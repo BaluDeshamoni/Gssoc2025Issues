@@ -198,6 +198,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| "Privacy Policy" Link Redirects to Page Not Found | Medium | [#145](https://github.com/amitkumardemo/EdgeCareer/issues/145) |
 | "Terms of Use" Link Redirects to Page Not Found | Medium | [#144](https://github.com/amitkumardemo/EdgeCareer/issues/144) |
 | Footer Tech Blog Navigation Returns Page Not Found | Medium | [#143](https://github.com/amitkumardemo/EdgeCareer/issues/143) |
 | Security issue: possible command injection in GitHub Actions workflow | Medium | [#141](https://github.com/amitkumardemo/EdgeCareer/issues/141) |
@@ -271,6 +272,7 @@
 | Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
 | feat: implement infrastructure integration testing suite using Localstack and Terraform | Easy | [#5122](https://github.com/OWASP/Nest/pull/5122) |
 | feat(o11y): add grafana with VM datasource & dashboard | Easy | [#5109](https://github.com/OWASP/Nest/pull/5109) |
+| Snapshot subscription frontend | Medium | [#5136](https://github.com/OWASP/Nest/pull/5136) |
 | Implement Contributor Certificate Frontend UI | Medium | [#5131](https://github.com/OWASP/Nest/pull/5131) |
 | chore(deps): bump apexcharts in /frontend | Medium | [#5125](https://github.com/OWASP/Nest/pull/5125) |
 | Frontend container hangs indefinitely | Medium | [#5121](https://github.com/OWASP/Nest/issues/5121) |
@@ -284,7 +286,6 @@
 | feat(backend): strip exif metadata from candidate claims | Medium | [#5074](https://github.com/OWASP/Nest/pull/5074) |
 | Update Claim and Evidence GraphQL Queries To Add Reviews | Medium | [#5069](https://github.com/OWASP/Nest/pull/5069) |
 | feat: display repository last updated date on repository cards | Medium | [#5067](https://github.com/OWASP/Nest/pull/5067) |
-| Feature/improve module management ux | Medium | [#5059](https://github.com/OWASP/Nest/pull/5059) |
 
 ---
 
@@ -1224,7 +1225,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix(api): add character limit guard to parse-pdf and chat-pdf endpoints | Medium | [#126](https://github.com/Er-luffy-D/SimplifAI/pull/126) |
 | Slides feature | Medium | [#122](https://github.com/Er-luffy-D/SimplifAI/pull/122) |
 | random password generator, flowchart summarizer | Medium | [#119](https://github.com/Er-luffy-D/SimplifAI/pull/119) |
 | feat: added DOCX file support with mammoth parser | Medium | [#115](https://github.com/Er-luffy-D/SimplifAI/pull/115) |
@@ -2448,6 +2448,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| account creation | Medium | [#650](https://github.com/lovelymahor/StudyMatePlus/issues/650) |
+| Feature: Implement Google OAuth2 Authentication | Medium | [#649](https://github.com/lovelymahor/StudyMatePlus/issues/649) |
+| footer text is too light and difficult to read in light mode | Medium | [#648](https://github.com/lovelymahor/StudyMatePlus/issues/648) |
+| refactor: extract feedback logic into MVC structure | Medium | [#647](https://github.com/lovelymahor/StudyMatePlus/pull/647) |
+| text color does not seems eye appealing | Medium | [#646](https://github.com/lovelymahor/StudyMatePlus/issues/646) |
+| Password strength check doesn't catch weak patterns | Medium | [#645](https://github.com/lovelymahor/StudyMatePlus/issues/645) |
+| Generic error responses hide the real cause of failures | Medium | [#644](https://github.com/lovelymahor/StudyMatePlus/issues/644) |
 | fix: prevent hero heading text overflow on mobile (#611) | Medium | [#643](https://github.com/lovelymahor/StudyMatePlus/pull/643) |
 | fix: speed up feature card hover transition to 200ms ease-out (#625) | Medium | [#642](https://github.com/lovelymahor/StudyMatePlus/pull/642) |
 | Feature Request: AI-Generated Practice Questions from Syllabus + PYQs | Medium | [#641](https://github.com/lovelymahor/StudyMatePlus/issues/641) |
@@ -2471,13 +2478,6 @@ Fast Workflow Tools
 | Architecture Inconsistency & Code Duplication (Feedback Logic) | Medium | [#623](https://github.com/lovelymahor/StudyMatePlus/issues/623) |
 | Remove duplicate CORS and JSON middleware | Medium | [#622](https://github.com/lovelymahor/StudyMatePlus/pull/622) |
 | UI Fix: Improve Text Visibility on Syllabus Collection Page in Light Mode | Medium | [#621](https://github.com/lovelymahor/StudyMatePlus/issues/621) |
-| Add Light Mode and Dark Mode Toggle for Enhanced User Experience | Medium | [#620](https://github.com/lovelymahor/StudyMatePlus/issues/620) |
-| Implement Dynamic Tag-Based Filtering & Fuzzy Search Subsystem for PYQs/Syllabus View | Medium | [#619](https://github.com/lovelymahor/StudyMatePlus/issues/619) |
-| Critical CORS Configuration Conflict Blocking User Authentication | Medium | [#618](https://github.com/lovelymahor/StudyMatePlus/issues/618) |
-| Critical CORS Configuration Conflict Blocking User Authentication | Medium | [#617](https://github.com/lovelymahor/StudyMatePlus/issues/617) |
-| UI: Fix Footer alignment and symmetry on responsive viewports | Medium | [#616](https://github.com/lovelymahor/StudyMatePlus/issues/616) |
-| feat: add floating "scroll-to-top button" with smooth scrolling | Medium | [#615](https://github.com/lovelymahor/StudyMatePlus/pull/615) |
-| Feedback tab does not provide a feedback form; "Submit Your Feedback" button is non-functional | Medium | [#614](https://github.com/lovelymahor/StudyMatePlus/issues/614) |
 
 ---
 
@@ -2860,15 +2860,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs(security): Add Authentication Security Best Practices Guide | Medium | [#10176](https://github.com/SandeepVashishtha/Eventra/issues/10176) |
-| docs(security): Add Dependency Security Management Guide | Medium | [#10175](https://github.com/SandeepVashishtha/Eventra/issues/10175) |
-| docs(security): Add Incident Response Guide for Contributors | Medium | [#10174](https://github.com/SandeepVashishtha/Eventra/issues/10174) |
-| 🔒 [CRITICAL SECURITY] JWT signature never verified in Edge Middleware — privilege escalation via token forgery | Medium | [#10163](https://github.com/SandeepVashishtha/Eventra/issues/10163) |
-| Bug: SSE_MESSAGE broadcast missing tabId — leader tab re-processes its own rebroadcast causing every SSE event to fire local callbacks twice | Medium | [#10157](https://github.com/SandeepVashishtha/Eventra/issues/10157) |
-| bug: broader Node test suite fails on extensionless ESM imports in source utilities | Medium | [#10128](https://github.com/SandeepVashishtha/Eventra/issues/10128) |
-| bug: GitHubStats Languages card always falls back to static React value | Medium | [#10125](https://github.com/SandeepVashishtha/Eventra/issues/10125) |
-| bug: GitHubStats pull request card displays length of a one-item request | Medium | [#10124](https://github.com/SandeepVashishtha/Eventra/issues/10124) |
-| Revamp Client Dashboard with Complete API Integration | Hard | [#10173](https://github.com/SandeepVashishtha/Eventra/issues/10173) |
+| Bug: Three env.js misconfigurations — SENTRY_DSN hardcoded fallback prevents disabling Sentry, validateEnvironment() module-level side effect pollutes test logs, and missing required vars silently return "" instead of throwing | Medium | [#10317](https://github.com/SandeepVashishtha/Eventra/issues/10317) |
+| Language selector becomes unresponsive after switching to Spanish, preventing users from changing the language | Medium | [#10306](https://github.com/SandeepVashishtha/Eventra/issues/10306) |
 
 ---
 
