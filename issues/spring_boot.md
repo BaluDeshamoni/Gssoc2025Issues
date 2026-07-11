@@ -129,20 +129,14 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| CSP header missing worker-src and Sentry connect-src directives — blocking blob workers and error reporting | Medium | [#10028](https://github.com/SandeepVashishtha/Eventra/issues/10028) |
-| Projects page crashes with "ReferenceError: Project is not defined" on mobile | Medium | [#10027](https://github.com/SandeepVashishtha/Eventra/issues/10027) |
-| Bug: homepage contributor guide CTA uses wrong route casing | Medium | [#10015](https://github.com/SandeepVashishtha/Eventra/issues/10015) |
-| Bug: navbar Create Event actions link to /events/create instead of the registered route | Medium | [#10014](https://github.com/SandeepVashishtha/Eventra/issues/10014) |
-| Bug: dashboard Quest Center link targets missing /dashboard/quests route | Medium | [#10013](https://github.com/SandeepVashishtha/Eventra/issues/10013) |
-| Bug: floor plan 3D Walkthrough button navigates to an unregistered route | Medium | [#10012](https://github.com/SandeepVashishtha/Eventra/issues/10012) |
-| Bug: Cookies page imports next/link inside a Vite React app | Medium | [#10011](https://github.com/SandeepVashishtha/Eventra/issues/10011) |
-| Bug: footer Cookies link points to /cookies but no route is registered | Medium | [#10010](https://github.com/SandeepVashishtha/Eventra/issues/10010) |
-| Bug: React tests import @testing-library/user-event without declaring it | Medium | [#10009](https://github.com/SandeepVashishtha/Eventra/issues/10009) |
-| Bug: test setup imports @testing-library/jest-dom without declaring it | Medium | [#10008](https://github.com/SandeepVashishtha/Eventra/issues/10008) |
-| Bug: MSW mock files import an undeclared msw package | Medium | [#10007](https://github.com/SandeepVashishtha/Eventra/issues/10007) |
-| Bug: /api/events route imports Express without declaring the dependency | Medium | [#10006](https://github.com/SandeepVashishtha/Eventra/issues/10006) |
-| Bug: EventDetails still renders mojibake strings in copy text and action buttons | Medium | [#10000](https://github.com/SandeepVashishtha/Eventra/issues/10000) |
-| Bug: EventDetails share button never opens ShareModal because isOpen prop is omitted | Medium | [#9999](https://github.com/SandeepVashishtha/Eventra/issues/9999) |
+| Clear (✕) button in form input fields does not clear entered text | Medium | [#10498](https://github.com/SandeepVashishtha/Eventra/issues/10498) |
+| Remove unused dropdown from the **Events** navigation button | Medium | [#10497](https://github.com/SandeepVashishtha/Eventra/issues/10497) |
+| Fix misalignment and inconsistent spacing of Back to Top and AI Chat floating action buttons | Medium | [#10496](https://github.com/SandeepVashishtha/Eventra/issues/10496) |
+| Bug: Tooltip demo buttons missing type="button" risking accidental form submission, and decorative heading icons missing aria-hidden causing screen reader noise | Medium | [#10486](https://github.com/SandeepVashishtha/Eventra/issues/10486) |
+| Bug: EventRegistration title lacks long-word overflow protection | Medium | [#10472](https://github.com/SandeepVashishtha/Eventra/issues/10472) |
+| Bug: EventCard title lacks long-word overflow protection | Medium | [#10471](https://github.com/SandeepVashishtha/Eventra/issues/10471) |
+| Bug: HackathonPage does not pass mobile BackToTopButton position class | Medium | [#10470](https://github.com/SandeepVashishtha/Eventra/issues/10470) |
+| Bug: GitHubStats allSettled contract does not pass three fetchStat calls | Medium | [#10469](https://github.com/SandeepVashishtha/Eventra/issues/10469) |
 
 ---
 
