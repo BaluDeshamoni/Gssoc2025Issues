@@ -267,25 +267,25 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(infrastructure): bump hashicorp/aws from 6.36.0 to 6.53.0 | Easy | [#5129](https://github.com/OWASP/Nest/pull/5129) |
+| migrate runtime secrets from ssm to aws secrets manager | Easy | [#5141](https://github.com/OWASP/Nest/pull/5141) |
 | feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
 | Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
 | feat: implement infrastructure integration testing suite using Localstack and Terraform | Easy | [#5122](https://github.com/OWASP/Nest/pull/5122) |
 | feat(o11y): add grafana with VM datasource & dashboard | Easy | [#5109](https://github.com/OWASP/Nest/pull/5109) |
+| Make Navbar responsive | Medium | [#5184](https://github.com/OWASP/Nest/issues/5184) |
+| chore(deps): bump the version-updates group across 1 directory with 12 updates | Medium | [#5183](https://github.com/OWASP/Nest/pull/5183) |
+| Use Custom Database Dump to Avoid fuzz/e2e CI Failure | Medium | [#5158](https://github.com/OWASP/Nest/pull/5158) |
+| inconsistent bottom spacing below search component across pages on mobile | Medium | [#5148](https://github.com/OWASP/Nest/issues/5148) |
+| Add precise type annotations to search helpers | Medium | [#5140](https://github.com/OWASP/Nest/pull/5140) |
 | Snapshot subscription frontend | Medium | [#5136](https://github.com/OWASP/Nest/pull/5136) |
 | Implement Contributor Certificate Frontend UI | Medium | [#5131](https://github.com/OWASP/Nest/pull/5131) |
-| chore(deps): bump apexcharts in /frontend | Medium | [#5125](https://github.com/OWASP/Nest/pull/5125) |
 | Frontend container hangs indefinitely | Medium | [#5121](https://github.com/OWASP/Nest/issues/5121) |
-| chore(deps): bump date-fns in /frontend | Medium | [#5118](https://github.com/OWASP/Nest/pull/5118) |
-| chore(deps): bump strawberry-graphql-django in / | Medium | [#5116](https://github.com/OWASP/Nest/pull/5116) |
 | Draft: Improve typing for github_user attributes on GraphQL nodes | Medium | [#5100](https://github.com/OWASP/Nest/pull/5100) |
 | Fix SynchronousOnlyOperation exceptions in mentorship app | Medium | [#5099](https://github.com/OWASP/Nest/pull/5099) |
 | nest_updated_at is never refreshed for records updated via bulk_save | Medium | [#5090](https://github.com/OWASP/Nest/issues/5090) |
 | Store Django sessions in Redis instead of the database | Medium | [#5081](https://github.com/OWASP/Nest/pull/5081) |
 | Split bootstrap Terraform per environment to isolate staging and production IAM | Medium | [#5077](https://github.com/OWASP/Nest/issues/5077) |
 | feat(backend): strip exif metadata from candidate claims | Medium | [#5074](https://github.com/OWASP/Nest/pull/5074) |
-| Update Claim and Evidence GraphQL Queries To Add Reviews | Medium | [#5069](https://github.com/OWASP/Nest/pull/5069) |
-| feat: display repository last updated date on repository cards | Medium | [#5067](https://github.com/OWASP/Nest/pull/5067) |
 
 ---
 
@@ -1276,6 +1276,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
+| ci(deps): bump crate-ci/typos from 1.47.2 to 1.48.0 | Medium | [#934](https://github.com/alienx5499/SortVision/pull/934) |
 | ci(deps): bump actions/cache from 5.0.5 to 6.1.0 | Medium | [#933](https://github.com/alienx5499/SortVision/pull/933) |
 | ci(deps): bump trufflesecurity/trufflehog from 3.95.6 to 3.95.7 in the security-actions group | Medium | [#932](https://github.com/alienx5499/SortVision/pull/932) |
 | feat: add live speed control and sorting step explanations | Medium | [#865](https://github.com/alienx5499/SortVision/pull/865) |
@@ -1923,27 +1924,30 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: Security fixes + feat: Quest category pages (#318, #320, #257, #407, #324, #342, #330, #238) | Medium | [#411](https://github.com/LarytheLord/Adventurers-Guild/pull/411) |
-| feat: Student rework view — show exactly what failed during QA review | Medium | [#410](https://github.com/LarytheLord/Adventurers-Guild/issues/410) |
+| fix: resolve 500 error on onboarding due to OAuth ID mismatch and Neon cold start (#428) | Medium | [#429](https://github.com/LarytheLord/Adventurers-Guild/pull/429) |
+| Onboarding fails with 500 Internal Server Error on /api/user/onboarding | Medium | [#428](https://github.com/LarytheLord/Adventurers-Guild/issues/428) |
+| security: Skill Points Validation Missing | Medium | [#426](https://github.com/LarytheLord/Adventurers-Guild/issues/426) |
+| security: Enforce String Length Constraints on Profile Inputs | Medium | [#425](https://github.com/LarytheLord/Adventurers-Guild/issues/425) |
+| feature: Missing Pagination on Global Quest Dashboards | Medium | [#424](https://github.com/LarytheLord/Adventurers-Guild/issues/424) |
+| feature: Implement Account Deletion Mechanics | Medium | [#423](https://github.com/LarytheLord/Adventurers-Guild/issues/423) |
+| bug: Admin Sidebar is Hard to Scroll on Desktop | Medium | [#422](https://github.com/LarytheLord/Adventurers-Guild/issues/422) |
+| bug: Mismatched Rank Calculations Between Header and Leaderboard Table | Medium | [#421](https://github.com/LarytheLord/Adventurers-Guild/issues/421) |
+| feature: Add "Change Password" to Profile Settings | Medium | [#420](https://github.com/LarytheLord/Adventurers-Guild/issues/420) |
+| fix: resolve leaderboard, QA queue, data leak, Razorpay phone, and useApiFetch bugs (#414, #416, #415, #413, #330, #324, #327, #261) | Medium | [#418](https://github.com/LarytheLord/Adventurers-Guild/pull/418) |
+| bug: QA Queue Approval/Rejection Fails Silently | Medium | [#416](https://github.com/LarytheLord/Adventurers-Guild/issues/416) |
+| bug: Disabled Quest Templates Cannot Be Re-enabled via UI | Medium | [#415](https://github.com/LarytheLord/Adventurers-Guild/issues/415) |
+| Bug: Blank Pages Caused by `useApiFetch` Automatic JSON Unwrapping | Medium | [#413](https://github.com/LarytheLord/Adventurers-Guild/issues/413) |
+| feat: Admin user management dashboard | Medium | [#412](https://github.com/LarytheLord/Adventurers-Guild/issues/412) |
 | feat: Guild Master role — intermediate QA gate between student and admin | Medium | [#409](https://github.com/LarytheLord/Adventurers-Guild/issues/409) |
 | feat: Admin Analytics API — platform health metrics | Medium | [#408](https://github.com/LarytheLord/Adventurers-Guild/issues/408) |
 | security: Secure email change flow for NextAuth/Prisma stack | Medium | [#407](https://github.com/LarytheLord/Adventurers-Guild/issues/407) |
 | feat: Quest track filtering — enforce BOOTCAMP/INTERN/OPEN visibility | Medium | [#406](https://github.com/LarytheLord/Adventurers-Guild/issues/406) |
-| feat: QA Review UI — criteria-based checklist instead of freeform text | Medium | [#405](https://github.com/LarytheLord/Adventurers-Guild/issues/405) |
-| feat: Daily Update enforcement — alerts when students go silent | Medium | [#404](https://github.com/LarytheLord/Adventurers-Guild/issues/404) |
-| feat: Admin Operations Dashboard — single-view for active work tracking | Medium | [#403](https://github.com/LarytheLord/Adventurers-Guild/issues/403) |
 | fix: Admin QA reject/approve skips syncQuestLifecycleStatus — quest status stuck after admin action | Medium | [#330](https://github.com/LarytheLord/Adventurers-Guild/issues/330) |
 | fix: Company quest edit ownership check is client-side only — full quest data leaks before redirect | Medium | [#327](https://github.com/LarytheLord/Adventurers-Guild/issues/327) |
 | fix: XP reward runs outside DB transaction — adventurer permanently loses XP if second write fails | Medium | [#324](https://github.com/LarytheLord/Adventurers-Guild/issues/324) |
-| Razorpay contact route uses placeholder phone number | Medium | [#261](https://github.com/LarytheLord/Adventurers-Guild/issues/261) |
 | CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
 | Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
-| feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
-| refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
-| Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
-| Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
-| NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
 
 ---
 
@@ -2012,6 +2016,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Add "Scroll to Top" Button | Medium | [#21](https://github.com/akhileshverma92/hostlecartkanpur/issues/21) |
 | Make Navigation Bar Sticky with Glassmorphism Effect | Medium | [#20](https://github.com/akhileshverma92/hostlecartkanpur/issues/20) |
 | add dark mode to the website | Medium | [#18](https://github.com/akhileshverma92/hostlecartkanpur/issues/18) |
+| Add MIT license file to the project | Medium | [#15](https://github.com/akhileshverma92/hostlecartkanpur/pull/15) |
 | Suggestion: Add Code Of Conduct File to project | Medium | [#14](https://github.com/akhileshverma92/hostlecartkanpur/issues/14) |
 | 🚫 License Missing from Repository | Medium | [#13](https://github.com/akhileshverma92/hostlecartkanpur/issues/13) |
 
@@ -2211,7 +2216,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add One-Click Copy Button for AI Responses | Medium | [#57](https://github.com/Jyotibrat/AI-Flow/issues/57) |
+| chore: add unified build, typecheck, format, and development scripts | Medium | [#75](https://github.com/Jyotibrat/AI-Flow/pull/75) |
 
 ---
 
@@ -2448,6 +2453,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
+| fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
+| Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
+| Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
+| Feedback page displays hardcoded feedback instead of saved feedback | Medium | [#654](https://github.com/lovelymahor/StudyMatePlus/issues/654) |
+| Standalone Submit Feedback form does not submit to backend | Medium | [#653](https://github.com/lovelymahor/StudyMatePlus/issues/653) |
+| Syllabus download and preview are only placeholders | Medium | [#652](https://github.com/lovelymahor/StudyMatePlus/issues/652) |
+| Notes API is missing while the Notes page calls it | Medium | [#651](https://github.com/lovelymahor/StudyMatePlus/issues/651) |
 | account creation | Medium | [#650](https://github.com/lovelymahor/StudyMatePlus/issues/650) |
 | Feature: Implement Google OAuth2 Authentication | Medium | [#649](https://github.com/lovelymahor/StudyMatePlus/issues/649) |
 | footer text is too light and difficult to read in light mode | Medium | [#648](https://github.com/lovelymahor/StudyMatePlus/issues/648) |
@@ -2470,14 +2483,6 @@ Fast Workflow Tools
 | Filter dropdowns on "Access Previous Year Question Papers" page are non-functional / lack dependent filtering | Medium | [#631](https://github.com/lovelymahor/StudyMatePlus/issues/631) |
 | Update text color to white on Syllabus card labels to improve accessibility | Medium | [#630](https://github.com/lovelymahor/StudyMatePlus/issues/630) |
 | fix: align hero CTA buttons vertically | Medium | [#629](https://github.com/lovelymahor/StudyMatePlus/pull/629) |
-| Improve Vertical Alignment of Hero Section CTA Buttons | Medium | [#628](https://github.com/lovelymahor/StudyMatePlus/issues/628) |
-| Add Resource Preview Before Download (PDF Thumbnail, Metadata & Contributor Details) | Medium | [#627](https://github.com/lovelymahor/StudyMatePlus/issues/627) |
-| Registration fails with generic "Something went wrong" error on account creation | Medium | [#626](https://github.com/lovelymahor/StudyMatePlus/issues/626) |
-| Improve hover animation speed for feature cards to enhance user experience | Medium | [#625](https://github.com/lovelymahor/StudyMatePlus/issues/625) |
-| Fix #609: Make support email clickable in Contact and FAQ sections | Medium | [#624](https://github.com/lovelymahor/StudyMatePlus/pull/624) |
-| Architecture Inconsistency & Code Duplication (Feedback Logic) | Medium | [#623](https://github.com/lovelymahor/StudyMatePlus/issues/623) |
-| Remove duplicate CORS and JSON middleware | Medium | [#622](https://github.com/lovelymahor/StudyMatePlus/pull/622) |
-| UI Fix: Improve Text Visibility on Syllabus Collection Page in Light Mode | Medium | [#621](https://github.com/lovelymahor/StudyMatePlus/issues/621) |
 
 ---
 
@@ -2540,6 +2545,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix UI/UX of contact section (#931) | Medium | [#958](https://github.com/Premkolte/AnimateHub/pull/958) |
 | feat(infrastructure): set up comprehensive testing suite with Vitest … | Medium | [#957](https://github.com/Premkolte/AnimateHub/pull/957) |
 | Set up Comprehensive Testing Suite (Vitest & Jest) | Medium | [#956](https://github.com/Premkolte/AnimateHub/issues/956) |
 | High TTI due to Synchronous Imports and Duplicate Routing | Medium | [#955](https://github.com/Premkolte/AnimateHub/issues/955) |
@@ -2565,7 +2571,6 @@ Fast Workflow Tools
 | Add Terms and condition page . | Medium | [#927](https://github.com/Premkolte/AnimateHub/issues/927) |
 | Update the readme with the latest images from website | Medium | [#926](https://github.com/Premkolte/AnimateHub/issues/926) |
 | Update primary color and adjust color scale | Medium | [#920](https://github.com/Premkolte/AnimateHub/pull/920) |
-| Add hero section with header and call-to-action | Medium | [#918](https://github.com/Premkolte/AnimateHub/pull/918) |
 
 ---
 
@@ -2772,9 +2777,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Mermaid.js architecture diagrams and HTML table formatting | Medium | [#267](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/267) |
 | FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
-| FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 
 ---
 
@@ -2860,8 +2863,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug: Three env.js misconfigurations — SENTRY_DSN hardcoded fallback prevents disabling Sentry, validateEnvironment() module-level side effect pollutes test logs, and missing required vars silently return "" instead of throwing | Medium | [#10317](https://github.com/SandeepVashishtha/Eventra/issues/10317) |
-| Language selector becomes unresponsive after switching to Spanish, preventing users from changing the language | Medium | [#10306](https://github.com/SandeepVashishtha/Eventra/issues/10306) |
+| Clear (✕) button in form input fields does not clear entered text | Medium | [#10498](https://github.com/SandeepVashishtha/Eventra/issues/10498) |
+| Remove unused dropdown from the **Events** navigation button | Medium | [#10497](https://github.com/SandeepVashishtha/Eventra/issues/10497) |
+| Fix misalignment and inconsistent spacing of Back to Top and AI Chat floating action buttons | Medium | [#10496](https://github.com/SandeepVashishtha/Eventra/issues/10496) |
+| Bug: Tooltip demo buttons missing type="button" risking accidental form submission, and decorative heading icons missing aria-hidden causing screen reader noise | Medium | [#10486](https://github.com/SandeepVashishtha/Eventra/issues/10486) |
+| Bug: EventRegistration title lacks long-word overflow protection | Medium | [#10472](https://github.com/SandeepVashishtha/Eventra/issues/10472) |
+| Bug: EventCard title lacks long-word overflow protection | Medium | [#10471](https://github.com/SandeepVashishtha/Eventra/issues/10471) |
+| Bug: HackathonPage does not pass mobile BackToTopButton position class | Medium | [#10470](https://github.com/SandeepVashishtha/Eventra/issues/10470) |
+| Bug: GitHubStats allSettled contract does not pass three fetchStat calls | Medium | [#10469](https://github.com/SandeepVashishtha/Eventra/issues/10469) |
 
 ---
 
