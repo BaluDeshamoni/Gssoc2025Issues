@@ -164,6 +164,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
+| ci(deps): bump crate-ci/typos from 1.47.2 to 1.48.0 | Medium | [#934](https://github.com/alienx5499/SortVision/pull/934) |
 | ci(deps): bump actions/cache from 5.0.5 to 6.1.0 | Medium | [#933](https://github.com/alienx5499/SortVision/pull/933) |
 | ci(deps): bump trufflesecurity/trufflehog from 3.95.6 to 3.95.7 in the security-actions group | Medium | [#932](https://github.com/alienx5499/SortVision/pull/932) |
 | feat: add live speed control and sorting step explanations | Medium | [#865](https://github.com/alienx5499/SortVision/pull/865) |
@@ -256,11 +257,14 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
+| Login/Sign-up button shows "Signing in..." / "Creating account..." on initial page load | Medium | [#572](https://github.com/aayushraj1010/med-genie/issues/572) |
+| Navigation Bar is not completely responsive | Medium | [#571](https://github.com/aayushraj1010/med-genie/issues/571) |
+| Google Auth Issue upon signing up | Medium | [#570](https://github.com/aayushraj1010/med-genie/issues/570) |
 | UI: Bold key phrases in Hero Section description. | Medium | [#569](https://github.com/aayushraj1010/med-genie/issues/569) |
 | Chat bot error | Medium | [#568](https://github.com/aayushraj1010/med-genie/issues/568) |
 | Google Auth issue | Medium | [#567](https://github.com/aayushraj1010/med-genie/issues/567) |
 | OAuth Access Token Leaked via URL Query Params in Google Callback | Medium | [#566](https://github.com/aayushraj1010/med-genie/issues/566) |
-| chore: Consolidate duplicate contribution guides (CONTRIBUTING.md and Contributing.md) to avoid cross-platform inconsistencies | Medium | [#565](https://github.com/aayushraj1010/med-genie/issues/565) |
 | docs: README privacy claims conflict with documented persistence architecture and data storage behavior | Medium | [#564](https://github.com/aayushraj1010/med-genie/issues/564) |
 | security: Insecure default JWT_SECRET fallback enables token forgery and full account takeover | Medium | [#563](https://github.com/aayushraj1010/med-genie/issues/563) |
 | UI Inconsistency Across Routes (Global Styles / Navigation Component Breakdown) | Medium | [#562](https://github.com/aayushraj1010/med-genie/issues/562) |
@@ -282,10 +286,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Implement comprehensive symptom checker with AI diagnosis and specialist recommendations | Medium | [#545](https://github.com/aayushraj1010/med-genie/issues/545) |
 | Add Persistent Medical Disclaimer Banner Inside Chat Interface | Medium | [#544](https://github.com/aayushraj1010/med-genie/issues/544) |
 | Find Specialist feature returns identical recommendations for different symptoms and is accessible without authentication | Medium | [#543](https://github.com/aayushraj1010/med-genie/issues/543) |
-| "Our Process" navbar link does not scroll to any section | Medium | [#542](https://github.com/aayushraj1010/med-genie/issues/542) |
-| Footer Quick Links – "How it Works" and "FAQs" are not navigating correctly | Medium | [#541](https://github.com/aayushraj1010/med-genie/issues/541) |
-| Bug: Account lockout never triggers — lockedUntil is incremented but never set | Medium | [#540](https://github.com/aayushraj1010/med-genie/issues/540) |
-| Bug: Token refresh endpoint returns access token with empty email and name fields | Medium | [#539](https://github.com/aayushraj1010/med-genie/issues/539) |
 
 ---
 
@@ -568,6 +568,29 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
+| fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
+| Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
+| Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
+| Feedback page displays hardcoded feedback instead of saved feedback | Medium | [#654](https://github.com/lovelymahor/StudyMatePlus/issues/654) |
+| Standalone Submit Feedback form does not submit to backend | Medium | [#653](https://github.com/lovelymahor/StudyMatePlus/issues/653) |
+| Syllabus download and preview are only placeholders | Medium | [#652](https://github.com/lovelymahor/StudyMatePlus/issues/652) |
+| Notes API is missing while the Notes page calls it | Medium | [#651](https://github.com/lovelymahor/StudyMatePlus/issues/651) |
+| account creation | Medium | [#650](https://github.com/lovelymahor/StudyMatePlus/issues/650) |
+| Feature: Implement Google OAuth2 Authentication | Medium | [#649](https://github.com/lovelymahor/StudyMatePlus/issues/649) |
+| footer text is too light and difficult to read in light mode | Medium | [#648](https://github.com/lovelymahor/StudyMatePlus/issues/648) |
+| refactor: extract feedback logic into MVC structure | Medium | [#647](https://github.com/lovelymahor/StudyMatePlus/pull/647) |
+| text color does not seems eye appealing | Medium | [#646](https://github.com/lovelymahor/StudyMatePlus/issues/646) |
+| Password strength check doesn't catch weak patterns | Medium | [#645](https://github.com/lovelymahor/StudyMatePlus/issues/645) |
+| Generic error responses hide the real cause of failures | Medium | [#644](https://github.com/lovelymahor/StudyMatePlus/issues/644) |
+| fix: prevent hero heading text overflow on mobile (#611) | Medium | [#643](https://github.com/lovelymahor/StudyMatePlus/pull/643) |
+| fix: speed up feature card hover transition to 200ms ease-out (#625) | Medium | [#642](https://github.com/lovelymahor/StudyMatePlus/pull/642) |
+| Feature Request: AI-Generated Practice Questions from Syllabus + PYQs | Medium | [#641](https://github.com/lovelymahor/StudyMatePlus/issues/641) |
+| Bug: Mentors Page Not Working | Medium | [#640](https://github.com/lovelymahor/StudyMatePlus/issues/640) |
+| Feature/enhance about mission UI | Medium | [#639](https://github.com/lovelymahor/StudyMatePlus/pull/639) |
+| Add a Resource Rating & Review System for Study Materials | Medium | [#638](https://github.com/lovelymahor/StudyMatePlus/issues/638) |
+| Features section buttons are not working | Medium | [#637](https://github.com/lovelymahor/StudyMatePlus/issues/637) |
+| Create Account Feature is no working | Medium | [#636](https://github.com/lovelymahor/StudyMatePlus/issues/636) |
 | ## 📄 Documentation: Missing `docs/` folder referenced in Project Structure | Medium | [#635](https://github.com/lovelymahor/StudyMatePlus/issues/635) |
 | ## ✨ Feature Request: Implement the "Student Feedback on Exam Papers" module | Medium | [#634](https://github.com/lovelymahor/StudyMatePlus/issues/634) |
 | refactor(server): Eliminate competing Express bootstrap paths by establishing a single canonical application entry point | Medium | [#633](https://github.com/lovelymahor/StudyMatePlus/issues/633) |
@@ -575,29 +598,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Filter dropdowns on "Access Previous Year Question Papers" page are non-functional / lack dependent filtering | Medium | [#631](https://github.com/lovelymahor/StudyMatePlus/issues/631) |
 | Update text color to white on Syllabus card labels to improve accessibility | Medium | [#630](https://github.com/lovelymahor/StudyMatePlus/issues/630) |
 | fix: align hero CTA buttons vertically | Medium | [#629](https://github.com/lovelymahor/StudyMatePlus/pull/629) |
-| Improve Vertical Alignment of Hero Section CTA Buttons | Medium | [#628](https://github.com/lovelymahor/StudyMatePlus/issues/628) |
-| Add Resource Preview Before Download (PDF Thumbnail, Metadata & Contributor Details) | Medium | [#627](https://github.com/lovelymahor/StudyMatePlus/issues/627) |
-| Registration fails with generic "Something went wrong" error on account creation | Medium | [#626](https://github.com/lovelymahor/StudyMatePlus/issues/626) |
-| Improve hover animation speed for feature cards to enhance user experience | Medium | [#625](https://github.com/lovelymahor/StudyMatePlus/issues/625) |
-| Fix #609: Make support email clickable in Contact and FAQ sections | Medium | [#624](https://github.com/lovelymahor/StudyMatePlus/pull/624) |
-| Architecture Inconsistency & Code Duplication (Feedback Logic) | Medium | [#623](https://github.com/lovelymahor/StudyMatePlus/issues/623) |
-| Remove duplicate CORS and JSON middleware | Medium | [#622](https://github.com/lovelymahor/StudyMatePlus/pull/622) |
-| UI Fix: Improve Text Visibility on Syllabus Collection Page in Light Mode | Medium | [#621](https://github.com/lovelymahor/StudyMatePlus/issues/621) |
-| Add Light Mode and Dark Mode Toggle for Enhanced User Experience | Medium | [#620](https://github.com/lovelymahor/StudyMatePlus/issues/620) |
-| Implement Dynamic Tag-Based Filtering & Fuzzy Search Subsystem for PYQs/Syllabus View | Medium | [#619](https://github.com/lovelymahor/StudyMatePlus/issues/619) |
-| Critical CORS Configuration Conflict Blocking User Authentication | Medium | [#618](https://github.com/lovelymahor/StudyMatePlus/issues/618) |
-| Critical CORS Configuration Conflict Blocking User Authentication | Medium | [#617](https://github.com/lovelymahor/StudyMatePlus/issues/617) |
-| UI: Fix Footer alignment and symmetry on responsive viewports | Medium | [#616](https://github.com/lovelymahor/StudyMatePlus/issues/616) |
-| feat: add floating "scroll-to-top button" with smooth scrolling | Medium | [#615](https://github.com/lovelymahor/StudyMatePlus/pull/615) |
-| Feedback tab does not provide a feedback form; "Submit Your Feedback" button is non-functional | Medium | [#614](https://github.com/lovelymahor/StudyMatePlus/issues/614) |
-| Bug: Hero Section Text Overflows on Mobile Devices | Medium | [#611](https://github.com/lovelymahor/StudyMatePlus/issues/611) |
-| Bug: Low Color Contrast on "Learn More" Button in Exam Banner | Medium | [#610](https://github.com/lovelymahor/StudyMatePlus/issues/610) |
-| Support Email Address in Contact Section Is Not Clickable | Medium | [#609](https://github.com/lovelymahor/StudyMatePlus/issues/609) |
-| feat: Add Scroll-to-Top Button for Better Navigation UX | Medium | [#608](https://github.com/lovelymahor/StudyMatePlus/issues/608) |
-| Real-time Fuzzy Search and Query Term Highlighting in Notes and PYQs | Medium | [#607](https://github.com/lovelymahor/StudyMatePlus/issues/607) |
-| Mind Map Canvas Does Not Fit Screen Height | Medium | [#606](https://github.com/lovelymahor/StudyMatePlus/issues/606) |
-| Bug: Back-to-Top Floating Button Missing on Non-Home Pages | Medium | [#605](https://github.com/lovelymahor/StudyMatePlus/issues/605) |
-| Missing feedback form for Student Feedback | Medium | [#604](https://github.com/lovelymahor/StudyMatePlus/issues/604) |
 
 ---
 
@@ -653,20 +653,14 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| CSP header missing worker-src and Sentry connect-src directives — blocking blob workers and error reporting | Medium | [#10028](https://github.com/SandeepVashishtha/Eventra/issues/10028) |
-| Projects page crashes with "ReferenceError: Project is not defined" on mobile | Medium | [#10027](https://github.com/SandeepVashishtha/Eventra/issues/10027) |
-| Bug: homepage contributor guide CTA uses wrong route casing | Medium | [#10015](https://github.com/SandeepVashishtha/Eventra/issues/10015) |
-| Bug: navbar Create Event actions link to /events/create instead of the registered route | Medium | [#10014](https://github.com/SandeepVashishtha/Eventra/issues/10014) |
-| Bug: dashboard Quest Center link targets missing /dashboard/quests route | Medium | [#10013](https://github.com/SandeepVashishtha/Eventra/issues/10013) |
-| Bug: floor plan 3D Walkthrough button navigates to an unregistered route | Medium | [#10012](https://github.com/SandeepVashishtha/Eventra/issues/10012) |
-| Bug: Cookies page imports next/link inside a Vite React app | Medium | [#10011](https://github.com/SandeepVashishtha/Eventra/issues/10011) |
-| Bug: footer Cookies link points to /cookies but no route is registered | Medium | [#10010](https://github.com/SandeepVashishtha/Eventra/issues/10010) |
-| Bug: React tests import @testing-library/user-event without declaring it | Medium | [#10009](https://github.com/SandeepVashishtha/Eventra/issues/10009) |
-| Bug: test setup imports @testing-library/jest-dom without declaring it | Medium | [#10008](https://github.com/SandeepVashishtha/Eventra/issues/10008) |
-| Bug: MSW mock files import an undeclared msw package | Medium | [#10007](https://github.com/SandeepVashishtha/Eventra/issues/10007) |
-| Bug: /api/events route imports Express without declaring the dependency | Medium | [#10006](https://github.com/SandeepVashishtha/Eventra/issues/10006) |
-| Bug: EventDetails still renders mojibake strings in copy text and action buttons | Medium | [#10000](https://github.com/SandeepVashishtha/Eventra/issues/10000) |
-| Bug: EventDetails share button never opens ShareModal because isOpen prop is omitted | Medium | [#9999](https://github.com/SandeepVashishtha/Eventra/issues/9999) |
+| Clear (✕) button in form input fields does not clear entered text | Medium | [#10498](https://github.com/SandeepVashishtha/Eventra/issues/10498) |
+| Remove unused dropdown from the **Events** navigation button | Medium | [#10497](https://github.com/SandeepVashishtha/Eventra/issues/10497) |
+| Fix misalignment and inconsistent spacing of Back to Top and AI Chat floating action buttons | Medium | [#10496](https://github.com/SandeepVashishtha/Eventra/issues/10496) |
+| Bug: Tooltip demo buttons missing type="button" risking accidental form submission, and decorative heading icons missing aria-hidden causing screen reader noise | Medium | [#10486](https://github.com/SandeepVashishtha/Eventra/issues/10486) |
+| Bug: EventRegistration title lacks long-word overflow protection | Medium | [#10472](https://github.com/SandeepVashishtha/Eventra/issues/10472) |
+| Bug: EventCard title lacks long-word overflow protection | Medium | [#10471](https://github.com/SandeepVashishtha/Eventra/issues/10471) |
+| Bug: HackathonPage does not pass mobile BackToTopButton position class | Medium | [#10470](https://github.com/SandeepVashishtha/Eventra/issues/10470) |
+| Bug: GitHubStats allSettled contract does not pass three fetchStat calls | Medium | [#10469](https://github.com/SandeepVashishtha/Eventra/issues/10469) |
 
 ---
 
