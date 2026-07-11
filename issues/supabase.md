@@ -85,25 +85,23 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: preserve typed API error prototypes | Easy | [#992](https://github.com/Muneerali199/Draftdeckai/pull/992) |
-| Issue #958 | Easy | [#976](https://github.com/Muneerali199/Draftdeckai/pull/976) |
-| Bug: document autosave fires on every keystroke with no debounce, causes Supabase write storm | Medium | [#1051](https://github.com/Muneerali199/Draftdeckai/issues/1051) |
-| Bug: AI-generated resume content not sanitised before rendering, stored XSS possible | Medium | [#1050](https://github.com/Muneerali199/Draftdeckai/issues/1050) |
-| Bug: Stripe webhook endpoint missing signature verification, allows forged payment events | Medium | [#1049](https://github.com/Muneerali199/Draftdeckai/issues/1049) |
-| Bug: Mermaid.js diagram rendering blocks main thread on large diagrams, freezes editor | Medium | [#1048](https://github.com/Muneerali199/Draftdeckai/issues/1048) |
-| Security: SUPABASE_SERVICE_ROLE_KEY in README .env example risks accidental commit | Medium | [#1047](https://github.com/Muneerali199/Draftdeckai/issues/1047) |
-| fix: pass user phone and location to Mistral fallback instead of hard… | Medium | [#1046](https://github.com/Muneerali199/Draftdeckai/pull/1046) |
-| fix: correct Content-Type header for gzip export and remove internal … | Medium | [#1045](https://github.com/Muneerali199/Draftdeckai/pull/1045) |
-| fix: replace logger.info with logger.debug for dev-only debug logs | Medium | [#1044](https://github.com/Muneerali199/Draftdeckai/pull/1044) |
-| fix: implement actual OpenAI streaming in generate-presentation-strea… | Medium | [#1043](https://github.com/Muneerali199/Draftdeckai/pull/1043) |
-| fix: remove production debug data logs | Medium | [#1042](https://github.com/Muneerali199/Draftdeckai/pull/1042) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 46 updates | Medium | [#1041](https://github.com/Muneerali199/Draftdeckai/pull/1041) |
+| chore: clean up ~15 ad-hoc "fix-*"/"apply-*" scripts committed to the repo root — they clutter onboarding and risk being run against the wrong environment | Easy | [#1066](https://github.com/Muneerali199/Draftdeckai/issues/1066) |
+| chore: 15+ development fix scripts committed to repository root (apply-fix.js, complete-fix.ps1, fix-*.mjs, etc.) — these one-off automation scripts create severe confusion for contributors and should be removed | Easy | [#1065](https://github.com/Muneerali199/Draftdeckai/issues/1065) |
+| fix: repair diagnostic page guard | Easy | [#1062](https://github.com/Muneerali199/Draftdeckai/pull/1062) |
+| fix: add security warnings and runtime guard for SUPABASE_SERVICE_ROLE_KEY | Easy | [#1058](https://github.com/Muneerali199/Draftdeckai/pull/1058) |
+| test: add Jest coverage for the ATS Score Checker — no test file currently exists despite `jest.config.mjs` being configured | Medium | [#1068](https://github.com/Muneerali199/Draftdeckai/issues/1068) |
+| fix: add idempotency/re-validation to the credits deduction flow to prevent double-charging on retried generation requests | Medium | [#1067](https://github.com/Muneerali199/Draftdeckai/issues/1067) |
+| fix: harden client error logging | Medium | [#1064](https://github.com/Muneerali199/Draftdeckai/pull/1064) |
+| fix: support linkedin jobs in extension | Medium | [#1063](https://github.com/Muneerali199/Draftdeckai/pull/1063) |
+| fix(autosave): debounce document autosave to prevent excessive Supabase writes | Medium | [#1059](https://github.com/Muneerali199/Draftdeckai/pull/1059) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 52 updates | Medium | [#1053](https://github.com/Muneerali199/Draftdeckai/pull/1053) |
 | feat(history): implement Phase 1 history improvements with sorting and enhanced search experience | Medium | [#1034](https://github.com/Muneerali199/Draftdeckai/pull/1034) |
-| chore(deps): bump fabric from 5.5.2 to 7.4.0 | Medium | [#1015](https://github.com/Muneerali199/Draftdeckai/pull/1015) |
-| chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.1 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
+| chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.2 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
 | fix: preserve typed API error prototypes | Medium | [#995](https://github.com/Muneerali199/Draftdeckai/pull/995) |
-| fix: align cors headers with production contract | Medium | [#994](https://github.com/Muneerali199/Draftdeckai/pull/994) |
-| feat: add Go backend env validation at startup (#901) | Medium | [#971](https://github.com/Muneerali199/Draftdeckai/pull/971) |
+| fix(dependencies): update vulnerable packages to pass security audit | Hard | [#1061](https://github.com/Muneerali199/Draftdeckai/pull/1061) |
+| fix(security): enhance Stripe webhook signature verification | Hard | [#1060](https://github.com/Muneerali199/Draftdeckai/pull/1060) |
+| fix: reduce Mermaid.js main-thread blocking for large diagrams | Hard | [#1056](https://github.com/Muneerali199/Draftdeckai/pull/1056) |
+| fix: sanitize AI-generated presentation markup with DOMPurify | Hard | [#1055](https://github.com/Muneerali199/Draftdeckai/pull/1055) |
 | Build document workflow engine — multi-step, connected document creation | Hard | [#1021](https://github.com/Muneerali199/Draftdeckai/issues/1021) |
 | Differentiate DraftDeckAI landing page and first-run experience | Hard | [#1020](https://github.com/Muneerali199/Draftdeckai/issues/1020) |
 
@@ -178,27 +176,30 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: Security fixes + feat: Quest category pages (#318, #320, #257, #407, #324, #342, #330, #238) | Medium | [#411](https://github.com/LarytheLord/Adventurers-Guild/pull/411) |
-| feat: Student rework view — show exactly what failed during QA review | Medium | [#410](https://github.com/LarytheLord/Adventurers-Guild/issues/410) |
+| fix: resolve 500 error on onboarding due to OAuth ID mismatch and Neon cold start (#428) | Medium | [#429](https://github.com/LarytheLord/Adventurers-Guild/pull/429) |
+| Onboarding fails with 500 Internal Server Error on /api/user/onboarding | Medium | [#428](https://github.com/LarytheLord/Adventurers-Guild/issues/428) |
+| security: Skill Points Validation Missing | Medium | [#426](https://github.com/LarytheLord/Adventurers-Guild/issues/426) |
+| security: Enforce String Length Constraints on Profile Inputs | Medium | [#425](https://github.com/LarytheLord/Adventurers-Guild/issues/425) |
+| feature: Missing Pagination on Global Quest Dashboards | Medium | [#424](https://github.com/LarytheLord/Adventurers-Guild/issues/424) |
+| feature: Implement Account Deletion Mechanics | Medium | [#423](https://github.com/LarytheLord/Adventurers-Guild/issues/423) |
+| bug: Admin Sidebar is Hard to Scroll on Desktop | Medium | [#422](https://github.com/LarytheLord/Adventurers-Guild/issues/422) |
+| bug: Mismatched Rank Calculations Between Header and Leaderboard Table | Medium | [#421](https://github.com/LarytheLord/Adventurers-Guild/issues/421) |
+| feature: Add "Change Password" to Profile Settings | Medium | [#420](https://github.com/LarytheLord/Adventurers-Guild/issues/420) |
+| fix: resolve leaderboard, QA queue, data leak, Razorpay phone, and useApiFetch bugs (#414, #416, #415, #413, #330, #324, #327, #261) | Medium | [#418](https://github.com/LarytheLord/Adventurers-Guild/pull/418) |
+| bug: QA Queue Approval/Rejection Fails Silently | Medium | [#416](https://github.com/LarytheLord/Adventurers-Guild/issues/416) |
+| bug: Disabled Quest Templates Cannot Be Re-enabled via UI | Medium | [#415](https://github.com/LarytheLord/Adventurers-Guild/issues/415) |
+| Bug: Blank Pages Caused by `useApiFetch` Automatic JSON Unwrapping | Medium | [#413](https://github.com/LarytheLord/Adventurers-Guild/issues/413) |
+| feat: Admin user management dashboard | Medium | [#412](https://github.com/LarytheLord/Adventurers-Guild/issues/412) |
 | feat: Guild Master role — intermediate QA gate between student and admin | Medium | [#409](https://github.com/LarytheLord/Adventurers-Guild/issues/409) |
 | feat: Admin Analytics API — platform health metrics | Medium | [#408](https://github.com/LarytheLord/Adventurers-Guild/issues/408) |
 | security: Secure email change flow for NextAuth/Prisma stack | Medium | [#407](https://github.com/LarytheLord/Adventurers-Guild/issues/407) |
 | feat: Quest track filtering — enforce BOOTCAMP/INTERN/OPEN visibility | Medium | [#406](https://github.com/LarytheLord/Adventurers-Guild/issues/406) |
-| feat: QA Review UI — criteria-based checklist instead of freeform text | Medium | [#405](https://github.com/LarytheLord/Adventurers-Guild/issues/405) |
-| feat: Daily Update enforcement — alerts when students go silent | Medium | [#404](https://github.com/LarytheLord/Adventurers-Guild/issues/404) |
-| feat: Admin Operations Dashboard — single-view for active work tracking | Medium | [#403](https://github.com/LarytheLord/Adventurers-Guild/issues/403) |
 | fix: Admin QA reject/approve skips syncQuestLifecycleStatus — quest status stuck after admin action | Medium | [#330](https://github.com/LarytheLord/Adventurers-Guild/issues/330) |
 | fix: Company quest edit ownership check is client-side only — full quest data leaks before redirect | Medium | [#327](https://github.com/LarytheLord/Adventurers-Guild/issues/327) |
 | fix: XP reward runs outside DB transaction — adventurer permanently loses XP if second write fails | Medium | [#324](https://github.com/LarytheLord/Adventurers-Guild/issues/324) |
-| Razorpay contact route uses placeholder phone number | Medium | [#261](https://github.com/LarytheLord/Adventurers-Guild/issues/261) |
 | CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
 | Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
-| feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
-| refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
-| Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
-| Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
-| NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
 
 ---
 
@@ -216,7 +217,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add One-Click Copy Button for AI Responses | Medium | [#57](https://github.com/Jyotibrat/AI-Flow/issues/57) |
+| chore: add unified build, typecheck, format, and development scripts | Medium | [#75](https://github.com/Jyotibrat/AI-Flow/pull/75) |
 
 ---
 
