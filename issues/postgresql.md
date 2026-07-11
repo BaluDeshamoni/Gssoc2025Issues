@@ -115,25 +115,23 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: preserve typed API error prototypes | Easy | [#992](https://github.com/Muneerali199/Draftdeckai/pull/992) |
-| Issue #958 | Easy | [#976](https://github.com/Muneerali199/Draftdeckai/pull/976) |
-| Bug: document autosave fires on every keystroke with no debounce, causes Supabase write storm | Medium | [#1051](https://github.com/Muneerali199/Draftdeckai/issues/1051) |
-| Bug: AI-generated resume content not sanitised before rendering, stored XSS possible | Medium | [#1050](https://github.com/Muneerali199/Draftdeckai/issues/1050) |
-| Bug: Stripe webhook endpoint missing signature verification, allows forged payment events | Medium | [#1049](https://github.com/Muneerali199/Draftdeckai/issues/1049) |
-| Bug: Mermaid.js diagram rendering blocks main thread on large diagrams, freezes editor | Medium | [#1048](https://github.com/Muneerali199/Draftdeckai/issues/1048) |
-| Security: SUPABASE_SERVICE_ROLE_KEY in README .env example risks accidental commit | Medium | [#1047](https://github.com/Muneerali199/Draftdeckai/issues/1047) |
-| fix: pass user phone and location to Mistral fallback instead of hard… | Medium | [#1046](https://github.com/Muneerali199/Draftdeckai/pull/1046) |
-| fix: correct Content-Type header for gzip export and remove internal … | Medium | [#1045](https://github.com/Muneerali199/Draftdeckai/pull/1045) |
-| fix: replace logger.info with logger.debug for dev-only debug logs | Medium | [#1044](https://github.com/Muneerali199/Draftdeckai/pull/1044) |
-| fix: implement actual OpenAI streaming in generate-presentation-strea… | Medium | [#1043](https://github.com/Muneerali199/Draftdeckai/pull/1043) |
-| fix: remove production debug data logs | Medium | [#1042](https://github.com/Muneerali199/Draftdeckai/pull/1042) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 46 updates | Medium | [#1041](https://github.com/Muneerali199/Draftdeckai/pull/1041) |
+| chore: clean up ~15 ad-hoc "fix-*"/"apply-*" scripts committed to the repo root — they clutter onboarding and risk being run against the wrong environment | Easy | [#1066](https://github.com/Muneerali199/Draftdeckai/issues/1066) |
+| chore: 15+ development fix scripts committed to repository root (apply-fix.js, complete-fix.ps1, fix-*.mjs, etc.) — these one-off automation scripts create severe confusion for contributors and should be removed | Easy | [#1065](https://github.com/Muneerali199/Draftdeckai/issues/1065) |
+| fix: repair diagnostic page guard | Easy | [#1062](https://github.com/Muneerali199/Draftdeckai/pull/1062) |
+| fix: add security warnings and runtime guard for SUPABASE_SERVICE_ROLE_KEY | Easy | [#1058](https://github.com/Muneerali199/Draftdeckai/pull/1058) |
+| test: add Jest coverage for the ATS Score Checker — no test file currently exists despite `jest.config.mjs` being configured | Medium | [#1068](https://github.com/Muneerali199/Draftdeckai/issues/1068) |
+| fix: add idempotency/re-validation to the credits deduction flow to prevent double-charging on retried generation requests | Medium | [#1067](https://github.com/Muneerali199/Draftdeckai/issues/1067) |
+| fix: harden client error logging | Medium | [#1064](https://github.com/Muneerali199/Draftdeckai/pull/1064) |
+| fix: support linkedin jobs in extension | Medium | [#1063](https://github.com/Muneerali199/Draftdeckai/pull/1063) |
+| fix(autosave): debounce document autosave to prevent excessive Supabase writes | Medium | [#1059](https://github.com/Muneerali199/Draftdeckai/pull/1059) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 52 updates | Medium | [#1053](https://github.com/Muneerali199/Draftdeckai/pull/1053) |
 | feat(history): implement Phase 1 history improvements with sorting and enhanced search experience | Medium | [#1034](https://github.com/Muneerali199/Draftdeckai/pull/1034) |
-| chore(deps): bump fabric from 5.5.2 to 7.4.0 | Medium | [#1015](https://github.com/Muneerali199/Draftdeckai/pull/1015) |
-| chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.1 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
+| chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.2 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
 | fix: preserve typed API error prototypes | Medium | [#995](https://github.com/Muneerali199/Draftdeckai/pull/995) |
-| fix: align cors headers with production contract | Medium | [#994](https://github.com/Muneerali199/Draftdeckai/pull/994) |
-| feat: add Go backend env validation at startup (#901) | Medium | [#971](https://github.com/Muneerali199/Draftdeckai/pull/971) |
+| fix(dependencies): update vulnerable packages to pass security audit | Hard | [#1061](https://github.com/Muneerali199/Draftdeckai/pull/1061) |
+| fix(security): enhance Stripe webhook signature verification | Hard | [#1060](https://github.com/Muneerali199/Draftdeckai/pull/1060) |
+| fix: reduce Mermaid.js main-thread blocking for large diagrams | Hard | [#1056](https://github.com/Muneerali199/Draftdeckai/pull/1056) |
+| fix: sanitize AI-generated presentation markup with DOMPurify | Hard | [#1055](https://github.com/Muneerali199/Draftdeckai/pull/1055) |
 | Build document workflow engine — multi-step, connected document creation | Hard | [#1021](https://github.com/Muneerali199/Draftdeckai/issues/1021) |
 | Differentiate DraftDeckAI landing page and first-run experience | Hard | [#1020](https://github.com/Muneerali199/Draftdeckai/issues/1020) |
 
@@ -154,7 +152,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix(api): add character limit guard to parse-pdf and chat-pdf endpoints | Medium | [#126](https://github.com/Er-luffy-D/SimplifAI/pull/126) |
 | Slides feature | Medium | [#122](https://github.com/Er-luffy-D/SimplifAI/pull/122) |
 | random password generator, flowchart summarizer | Medium | [#119](https://github.com/Er-luffy-D/SimplifAI/pull/119) |
 | feat: added DOCX file support with mammoth parser | Medium | [#115](https://github.com/Er-luffy-D/SimplifAI/pull/115) |
@@ -347,15 +344,14 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs(security): Add Authentication Security Best Practices Guide | Medium | [#10176](https://github.com/SandeepVashishtha/Eventra/issues/10176) |
-| docs(security): Add Dependency Security Management Guide | Medium | [#10175](https://github.com/SandeepVashishtha/Eventra/issues/10175) |
-| docs(security): Add Incident Response Guide for Contributors | Medium | [#10174](https://github.com/SandeepVashishtha/Eventra/issues/10174) |
-| 🔒 [CRITICAL SECURITY] JWT signature never verified in Edge Middleware — privilege escalation via token forgery | Medium | [#10163](https://github.com/SandeepVashishtha/Eventra/issues/10163) |
-| Bug: SSE_MESSAGE broadcast missing tabId — leader tab re-processes its own rebroadcast causing every SSE event to fire local callbacks twice | Medium | [#10157](https://github.com/SandeepVashishtha/Eventra/issues/10157) |
-| bug: broader Node test suite fails on extensionless ESM imports in source utilities | Medium | [#10128](https://github.com/SandeepVashishtha/Eventra/issues/10128) |
-| bug: GitHubStats Languages card always falls back to static React value | Medium | [#10125](https://github.com/SandeepVashishtha/Eventra/issues/10125) |
-| bug: GitHubStats pull request card displays length of a one-item request | Medium | [#10124](https://github.com/SandeepVashishtha/Eventra/issues/10124) |
-| Revamp Client Dashboard with Complete API Integration | Hard | [#10173](https://github.com/SandeepVashishtha/Eventra/issues/10173) |
+| Clear (✕) button in form input fields does not clear entered text | Medium | [#10498](https://github.com/SandeepVashishtha/Eventra/issues/10498) |
+| Remove unused dropdown from the **Events** navigation button | Medium | [#10497](https://github.com/SandeepVashishtha/Eventra/issues/10497) |
+| Fix misalignment and inconsistent spacing of Back to Top and AI Chat floating action buttons | Medium | [#10496](https://github.com/SandeepVashishtha/Eventra/issues/10496) |
+| Bug: Tooltip demo buttons missing type="button" risking accidental form submission, and decorative heading icons missing aria-hidden causing screen reader noise | Medium | [#10486](https://github.com/SandeepVashishtha/Eventra/issues/10486) |
+| Bug: EventRegistration title lacks long-word overflow protection | Medium | [#10472](https://github.com/SandeepVashishtha/Eventra/issues/10472) |
+| Bug: EventCard title lacks long-word overflow protection | Medium | [#10471](https://github.com/SandeepVashishtha/Eventra/issues/10471) |
+| Bug: HackathonPage does not pass mobile BackToTopButton position class | Medium | [#10470](https://github.com/SandeepVashishtha/Eventra/issues/10470) |
+| Bug: GitHubStats allSettled contract does not pass three fetchStat calls | Medium | [#10469](https://github.com/SandeepVashishtha/Eventra/issues/10469) |
 
 ---
 
