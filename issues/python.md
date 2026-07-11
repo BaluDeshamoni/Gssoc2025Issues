@@ -208,25 +208,25 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(infrastructure): bump hashicorp/aws from 6.36.0 to 6.53.0 | Easy | [#5129](https://github.com/OWASP/Nest/pull/5129) |
+| migrate runtime secrets from ssm to aws secrets manager | Easy | [#5141](https://github.com/OWASP/Nest/pull/5141) |
 | feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
 | Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
 | feat: implement infrastructure integration testing suite using Localstack and Terraform | Easy | [#5122](https://github.com/OWASP/Nest/pull/5122) |
 | feat(o11y): add grafana with VM datasource & dashboard | Easy | [#5109](https://github.com/OWASP/Nest/pull/5109) |
+| Make Navbar responsive | Medium | [#5184](https://github.com/OWASP/Nest/issues/5184) |
+| chore(deps): bump the version-updates group across 1 directory with 12 updates | Medium | [#5183](https://github.com/OWASP/Nest/pull/5183) |
+| Use Custom Database Dump to Avoid fuzz/e2e CI Failure | Medium | [#5158](https://github.com/OWASP/Nest/pull/5158) |
+| inconsistent bottom spacing below search component across pages on mobile | Medium | [#5148](https://github.com/OWASP/Nest/issues/5148) |
+| Add precise type annotations to search helpers | Medium | [#5140](https://github.com/OWASP/Nest/pull/5140) |
 | Snapshot subscription frontend | Medium | [#5136](https://github.com/OWASP/Nest/pull/5136) |
 | Implement Contributor Certificate Frontend UI | Medium | [#5131](https://github.com/OWASP/Nest/pull/5131) |
-| chore(deps): bump apexcharts in /frontend | Medium | [#5125](https://github.com/OWASP/Nest/pull/5125) |
 | Frontend container hangs indefinitely | Medium | [#5121](https://github.com/OWASP/Nest/issues/5121) |
-| chore(deps): bump date-fns in /frontend | Medium | [#5118](https://github.com/OWASP/Nest/pull/5118) |
-| chore(deps): bump strawberry-graphql-django in / | Medium | [#5116](https://github.com/OWASP/Nest/pull/5116) |
 | Draft: Improve typing for github_user attributes on GraphQL nodes | Medium | [#5100](https://github.com/OWASP/Nest/pull/5100) |
 | Fix SynchronousOnlyOperation exceptions in mentorship app | Medium | [#5099](https://github.com/OWASP/Nest/pull/5099) |
 | nest_updated_at is never refreshed for records updated via bulk_save | Medium | [#5090](https://github.com/OWASP/Nest/issues/5090) |
 | Store Django sessions in Redis instead of the database | Medium | [#5081](https://github.com/OWASP/Nest/pull/5081) |
 | Split bootstrap Terraform per environment to isolate staging and production IAM | Medium | [#5077](https://github.com/OWASP/Nest/issues/5077) |
 | feat(backend): strip exif metadata from candidate claims | Medium | [#5074](https://github.com/OWASP/Nest/pull/5074) |
-| Update Claim and Evidence GraphQL Queries To Add Reviews | Medium | [#5069](https://github.com/OWASP/Nest/pull/5069) |
-| feat: display repository last updated date on repository cards | Medium | [#5067](https://github.com/OWASP/Nest/pull/5067) |
 
 ---
 
@@ -998,11 +998,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Zomato Restaurant Data Analysis and Visualization | Medium | [#1821](https://github.com/UTSAVS26/PyVerse/issues/1821) |
-| Advanced Security: Prevent path traversal vulnerabilities in file operations | Medium | [#1820](https://github.com/UTSAVS26/PyVerse/issues/1820) |
-| 🧑‍💻: [ML] Add Face Emotion Detector project | Medium | [#1818](https://github.com/UTSAVS26/PyVerse/issues/1818) |
 | 🧑‍💻: Add README.md for a Beginner Python Project Folder | Medium | [#1817](https://github.com/UTSAVS26/PyVerse/issues/1817) |
-| 🧑‍💻: Add detailed README.md for Bird Image Classification project | Medium | [#1816](https://github.com/UTSAVS26/PyVerse/issues/1816) |
-| 🧑‍💻: Add README.md for Amazon Product Availability Checker | Medium | [#1815](https://github.com/UTSAVS26/PyVerse/issues/1815) |
 
 ---
 
@@ -1067,6 +1063,10 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
+| Login/Sign-up button shows "Signing in..." / "Creating account..." on initial page load | Medium | [#572](https://github.com/aayushraj1010/med-genie/issues/572) |
+| Navigation Bar is not completely responsive | Medium | [#571](https://github.com/aayushraj1010/med-genie/issues/571) |
+| Google Auth Issue upon signing up | Medium | [#570](https://github.com/aayushraj1010/med-genie/issues/570) |
 | UI: Bold key phrases in Hero Section description. | Medium | [#569](https://github.com/aayushraj1010/med-genie/issues/569) |
 | Chat bot error | Medium | [#568](https://github.com/aayushraj1010/med-genie/issues/568) |
 | Google Auth issue | Medium | [#567](https://github.com/aayushraj1010/med-genie/issues/567) |
@@ -1092,10 +1092,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Implement comprehensive symptom checker with AI diagnosis and specialist recommendations | Medium | [#545](https://github.com/aayushraj1010/med-genie/issues/545) |
 | Add Persistent Medical Disclaimer Banner Inside Chat Interface | Medium | [#544](https://github.com/aayushraj1010/med-genie/issues/544) |
 | Find Specialist feature returns identical recommendations for different symptoms and is accessible without authentication | Medium | [#543](https://github.com/aayushraj1010/med-genie/issues/543) |
-| "Our Process" navbar link does not scroll to any section | Medium | [#542](https://github.com/aayushraj1010/med-genie/issues/542) |
-| Footer Quick Links – "How it Works" and "FAQs" are not navigating correctly | Medium | [#541](https://github.com/aayushraj1010/med-genie/issues/541) |
-| Bug: Account lockout never triggers — lockedUntil is incremented but never set | Medium | [#540](https://github.com/aayushraj1010/med-genie/issues/540) |
-| Bug: Token refresh endpoint returns access token with empty email and name fields | Medium | [#539](https://github.com/aayushraj1010/med-genie/issues/539) |
 
 ---
 
@@ -1678,9 +1674,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Mermaid.js architecture diagrams and HTML table formatting | Medium | [#267](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/267) |
 | FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
-| FEATURE: Implement comprehensive file upload validation and security checks | Medium | [#186](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/186) |
 
 ---
 
