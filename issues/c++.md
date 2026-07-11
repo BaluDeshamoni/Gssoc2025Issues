@@ -57,6 +57,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add unit test coverage for EventDispatcher, EventHub, and metadata listeners | Medium | [#366](https://github.com/SharonIV0x86/CinderPeak/issues/366) |
 | Feature: Add Intelligent Alert & Incident Management System | Medium | [#363](https://github.com/SharonIV0x86/CinderPeak/issues/363) |
 | Feature: Add Resource Usage Forecast Dashboard | Medium | [#362](https://github.com/SharonIV0x86/CinderPeak/issues/362) |
 | Feature: Add AI-Based Log Analysis & Root Cause Suggestions | Medium | [#361](https://github.com/SharonIV0x86/CinderPeak/issues/361) |
@@ -86,7 +87,6 @@
 | Direct efficient backend population from AdjacencyList to HybridCSR_COO | Medium | [#337](https://github.com/SharonIV0x86/CinderPeak/issues/337) |
 | Partial failures on undirected graph operations leave graph in inconsistent state | Medium | [#336](https://github.com/SharonIV0x86/CinderPeak/issues/336) |
 | Edge removal and update do not reject self-loops at orchestrator layer | Medium | [#335](https://github.com/SharonIV0x86/CinderPeak/issues/335) |
-| Optimize addEdge flow by caching resolved VertexIds to skip redundant map lookups | Medium | [#334](https://github.com/SharonIV0x86/CinderPeak/issues/334) |
 
 ---
 
