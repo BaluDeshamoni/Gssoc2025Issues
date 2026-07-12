@@ -16,8 +16,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add recurring/scheduled reminders to /reminder command | Medium | [#86](https://github.com/harshendram/Advanced-Discord-Bot/issues/86) |
 | Shared module-level history array leaks all users' AI questions into each other's context | Medium | [#85](https://github.com/harshendram/Advanced-Discord-Bot/issues/85) |
-| Refactored the code to enable the use of plugins. Considering new features (This is still a WIP, See below for more info) | Medium | [#84](https://github.com/harshendram/Advanced-Discord-Bot/pull/84) |
 | Deploying the bot | Medium | [#82](https://github.com/harshendram/Advanced-Discord-Bot/issues/82) |
 | Add Login Page for User Authentication | Medium | [#80](https://github.com/harshendram/Advanced-Discord-Bot/issues/80) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
