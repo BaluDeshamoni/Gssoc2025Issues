@@ -14,6 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug fixing: adding holla in .env.local | Medium | [#294](https://github.com/iaadillatif/techxninjas-client/pull/294) |
+| "Start Exploring" Button is Not Functional | Medium | [#293](https://github.com/iaadillatif/techxninjas-client/issues/293) |
+| "Browse Programs" Button Fails to Load Courses | Medium | [#292](https://github.com/iaadillatif/techxninjas-client/issues/292) |
 | Removing locals files from .env file | Medium | [#290](https://github.com/iaadillatif/techxninjas-client/pull/290) |
 | Add Claude Code GitHub Workflow | Medium | [#289](https://github.com/iaadillatif/techxninjas-client/issues/289) |
 | Feature Request: Add a Gamified Leaderboard to Ignite Daily Engagement & Community | Medium | [#285](https://github.com/iaadillatif/techxninjas-client/issues/285) |
@@ -41,8 +44,6 @@
 | Make the home page more futeristic | Medium | [#258](https://github.com/iaadillatif/techxninjas-client/issues/258) |
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
-| course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
-| Add search button to Events page for better UX (Issue #243) | Medium | [#249](https://github.com/iaadillatif/techxninjas-client/pull/249) |
 
 ---
 
@@ -68,8 +69,7 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump @babel/core from 7.28.4 to 7.29.7 in /DevElevate/Client | Medium | [#761](https://github.com/abhisek2004/Dev-Elevate/pull/761) |
-| Bump the npm_and_yarn group across 2 directories with 5 updates | Medium | [#760](https://github.com/abhisek2004/Dev-Elevate/pull/760) |
+| Bump the npm_and_yarn group across 2 directories with 4 updates | Medium | [#763](https://github.com/abhisek2004/Dev-Elevate/pull/763) |
 | Feature: Learning Hub – Learning Tracks | Medium | [#620](https://github.com/abhisek2004/Dev-Elevate/issues/620) |
 | 🤖 AI Interview System — Complete AI Functionality | Hard | [#624](https://github.com/abhisek2004/Dev-Elevate/issues/624) |
 | 📅 Calendar — Google Calendar Style + Persistent Data | Hard | [#623](https://github.com/abhisek2004/Dev-Elevate/issues/623) |
@@ -93,22 +93,24 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add LocalStack-based Local Infrastructure Automation and Documentation | Easy | [#5115](https://github.com/OWASP/Nest/issues/5115) |
+| migrate runtime secrets from ssm to aws secrets manager | Easy | [#5141](https://github.com/OWASP/Nest/pull/5141) |
+| feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
+| Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
+| feat: implement infrastructure integration testing suite using Localstack and Terraform | Easy | [#5122](https://github.com/OWASP/Nest/pull/5122) |
 | feat(o11y): add grafana with VM datasource & dashboard | Easy | [#5109](https://github.com/OWASP/Nest/pull/5109) |
-| feat: implement infrastructure integration testing suite using LocalStack and Terraform test framework | Easy | [#5091](https://github.com/OWASP/Nest/pull/5091) |
+| Add humans.txt | Medium | [#5186](https://github.com/OWASP/Nest/issues/5186) |
+| Add security.txt | Medium | [#5185](https://github.com/OWASP/Nest/issues/5185) |
+| Make Navbar responsive | Medium | [#5184](https://github.com/OWASP/Nest/issues/5184) |
+| Use Custom Database Dump to Avoid fuzz/e2e CI Failure | Medium | [#5158](https://github.com/OWASP/Nest/pull/5158) |
+| inconsistent bottom spacing below search component across pages on mobile | Medium | [#5148](https://github.com/OWASP/Nest/issues/5148) |
+| Add precise type annotations to search helpers | Medium | [#5140](https://github.com/OWASP/Nest/pull/5140) |
+| Snapshot subscription frontend | Medium | [#5136](https://github.com/OWASP/Nest/pull/5136) |
+| Implement Contributor Certificate Frontend UI | Medium | [#5131](https://github.com/OWASP/Nest/pull/5131) |
+| Frontend container hangs indefinitely | Medium | [#5121](https://github.com/OWASP/Nest/issues/5121) |
 | Draft: Improve typing for github_user attributes on GraphQL nodes | Medium | [#5100](https://github.com/OWASP/Nest/pull/5100) |
 | Fix SynchronousOnlyOperation exceptions in mentorship app | Medium | [#5099](https://github.com/OWASP/Nest/pull/5099) |
 | nest_updated_at is never refreshed for records updated via bulk_save | Medium | [#5090](https://github.com/OWASP/Nest/issues/5090) |
 | Store Django sessions in Redis instead of the database | Medium | [#5081](https://github.com/OWASP/Nest/pull/5081) |
-| Split bootstrap Terraform per environment to isolate staging and production IAM | Medium | [#5077](https://github.com/OWASP/Nest/issues/5077) |
-| feat(backend): strip exif metadata from candidate claims | Medium | [#5074](https://github.com/OWASP/Nest/pull/5074) |
-| Update Claim and Evidence GraphQL Queries To Add Reviews | Medium | [#5069](https://github.com/OWASP/Nest/pull/5069) |
-| feat: display repository last updated date on repository cards | Medium | [#5067](https://github.com/OWASP/Nest/pull/5067) |
-| Feature/improve module management ux | Medium | [#5059](https://github.com/OWASP/Nest/pull/5059) |
-| Feature/snapshot subscription graphql | Medium | [#5058](https://github.com/OWASP/Nest/pull/5058) |
-| Add Evidence Management Dashboard | Medium | [#5057](https://github.com/OWASP/Nest/pull/5057) |
-| feat(slack): add BotInteraction model and reaction feedback handler | Medium | [#5035](https://github.com/OWASP/Nest/pull/5035) |
-| add slack reaction based moderation alerts | Medium | [#5034](https://github.com/OWASP/Nest/pull/5034) |
 
 ---
 
@@ -173,8 +175,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add recurring/scheduled reminders to /reminder command | Medium | [#86](https://github.com/harshendram/Advanced-Discord-Bot/issues/86) |
 | Shared module-level history array leaks all users' AI questions into each other's context | Medium | [#85](https://github.com/harshendram/Advanced-Discord-Bot/issues/85) |
-| Refactored the code to enable the use of plugins. Considering new features (This is still a WIP, See below for more info) | Medium | [#84](https://github.com/harshendram/Advanced-Discord-Bot/pull/84) |
 | Deploying the bot | Medium | [#82](https://github.com/harshendram/Advanced-Discord-Bot/issues/82) |
 | Add Login Page for User Authentication | Medium | [#80](https://github.com/harshendram/Advanced-Discord-Bot/issues/80) |
 | Navbar Navigation Links Alignment Inconsistency | Medium | [#72](https://github.com/harshendram/Advanced-Discord-Bot/issues/72) |
@@ -579,6 +581,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Progress Widgets + Fix Layout Issues + New Showcase Page | Easy | [#235](https://github.com/SurajSG23/PrepBuddy/issues/235) |
+| Bug: Previous and Next buttons are non-functional during aptitude test navigation | Medium | [#237](https://github.com/SurajSG23/PrepBuddy/issues/237) |
 | Improve README.md Structure and Visual Appeal | Medium | [#234](https://github.com/SurajSG23/PrepBuddy/issues/234) |
 | Enhance: Improve Visual Hierarchy and Content Detail in About Section | Medium | [#233](https://github.com/SurajSG23/PrepBuddy/issues/233) |
 | Fixed : Improve 'How It Works' Section UI/UX | Medium | [#232](https://github.com/SurajSG23/PrepBuddy/pull/232) |
@@ -639,18 +642,22 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: secure admin endpoints and lifecycle sync (#316 #330 #342) | Medium | [#402](https://github.com/LarytheLord/Adventurers-Guild/pull/402) |
-| fix: deactivated users can no longer bypass auth (#318) | Medium | [#401](https://github.com/LarytheLord/Adventurers-Guild/pull/401) |
-| fix: secure email change requires password re-verification (#332) | Medium | [#400](https://github.com/LarytheLord/Adventurers-Guild/pull/400) |
-| feat: secure admin dashboard with auth, analytics, and management UI | Medium | [#399](https://github.com/LarytheLord/Adventurers-Guild/pull/399) |
-| fix: prevent quest slot overbooking | Medium | [#398](https://github.com/LarytheLord/Adventurers-Guild/pull/398) |
-| fix: Admin QA reject/approve now calls syncQuestLifecycleStatus (#330) | Medium | [#387](https://github.com/LarytheLord/Adventurers-Guild/pull/387) |
-| fix: QA approval now properly awards XP and creates QuestCompletion (#317) | Medium | [#384](https://github.com/LarytheLord/Adventurers-Guild/pull/384) |
-| fix: /api/errors/log is unauthenticated — open to log injection and DB flooding | Medium | [#342](https://github.com/LarytheLord/Adventurers-Guild/issues/342) |
+| feat: implement pagination across global quest dashboards | Medium | [#437](https://github.com/LarytheLord/Adventurers-Guild/pull/437) |
+| fix: resolve 500 error on onboarding due to OAuth ID mismatch and Neon cold start (#428) | Medium | [#429](https://github.com/LarytheLord/Adventurers-Guild/pull/429) |
+| Onboarding fails with 500 Internal Server Error on /api/user/onboarding | Medium | [#428](https://github.com/LarytheLord/Adventurers-Guild/issues/428) |
+| security: Skill Points Validation Missing | Medium | [#426](https://github.com/LarytheLord/Adventurers-Guild/issues/426) |
+| security: Enforce String Length Constraints on Profile Inputs | Medium | [#425](https://github.com/LarytheLord/Adventurers-Guild/issues/425) |
+| feature: Missing Pagination on Global Quest Dashboards | Medium | [#424](https://github.com/LarytheLord/Adventurers-Guild/issues/424) |
+| feature: Implement Account Deletion Mechanics | Medium | [#423](https://github.com/LarytheLord/Adventurers-Guild/issues/423) |
+| bug: Admin Sidebar is Hard to Scroll on Desktop | Medium | [#422](https://github.com/LarytheLord/Adventurers-Guild/issues/422) |
+| bug: Mismatched Rank Calculations Between Header and Leaderboard Table | Medium | [#421](https://github.com/LarytheLord/Adventurers-Guild/issues/421) |
+| feature: Add "Change Password" to Profile Settings | Medium | [#420](https://github.com/LarytheLord/Adventurers-Guild/issues/420) |
+| feat: Guild Master role — intermediate QA gate between student and admin | Medium | [#409](https://github.com/LarytheLord/Adventurers-Guild/issues/409) |
+| feat: Admin Analytics API — platform health metrics | Medium | [#408](https://github.com/LarytheLord/Adventurers-Guild/issues/408) |
+| security: Secure email change flow for NextAuth/Prisma stack | Medium | [#407](https://github.com/LarytheLord/Adventurers-Guild/issues/407) |
+| feat: Quest track filtering — enforce BOOTCAMP/INTERN/OPEN visibility | Medium | [#406](https://github.com/LarytheLord/Adventurers-Guild/issues/406) |
 | fix: Admin QA reject/approve skips syncQuestLifecycleStatus — quest status stuck after admin action | Medium | [#330](https://github.com/LarytheLord/Adventurers-Guild/issues/330) |
-| fix: Company quest edit ownership check is client-side only — full quest data leaks before redirect | Medium | [#327](https://github.com/LarytheLord/Adventurers-Guild/issues/327) |
 | fix: XP reward runs outside DB transaction — adventurer permanently loses XP if second write fails | Medium | [#324](https://github.com/LarytheLord/Adventurers-Guild/issues/324) |
-| Razorpay contact route uses placeholder phone number | Medium | [#261](https://github.com/LarytheLord/Adventurers-Guild/issues/261) |
 | CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
 | Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
@@ -870,24 +877,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | chore(deps): bump next from 15.3.5 to 16.1.5 in /client | Medium | [#23](https://github.com/dscnitrourkela/project-xangoes/pull/23) |
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Medium | [#20](https://github.com/dscnitrourkela/project-xangoes/pull/20) |
 | Login and Signup Page #9 | Medium | [#19](https://github.com/dscnitrourkela/project-xangoes/pull/19) |
-
----
-
-## 📌 Project: AI Flow
-
-📝 **Description:** AI Flow is a web application that provides a suite of AI-powered productivity tools, including prompt enhancement, text summarization, code and SQL explanation, regex generation, language translation, and sentiment analysis. The platform features a modern, responsive interface, secure authentication, and integrates with the Gemini 2.0 Flash API for fast and accurate results. AI Flow is designed to help users streamline workflows, learn faster, and leverage artificial intelligence in everyday tasks.
-
-🔗 [View Project](https://github.com/Jyotibrat/AI-Flow)
-
-💻 **Tech Stack:** TypeScript, React, Vite, Supabase, Gemini 2.0 Flash API, Blogger API
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add One-Click Copy Button for AI Responses | Medium | [#57](https://github.com/Jyotibrat/AI-Flow/issues/57) |
 
 ---
 
@@ -1264,6 +1253,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Product Cards | Medium | [#141](https://github.com/subhadeeproy3902/mvpblocks/issues/141) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
