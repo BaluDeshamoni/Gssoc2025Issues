@@ -344,14 +344,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Clear (✕) button in form input fields does not clear entered text | Medium | [#10498](https://github.com/SandeepVashishtha/Eventra/issues/10498) |
-| Remove unused dropdown from the **Events** navigation button | Medium | [#10497](https://github.com/SandeepVashishtha/Eventra/issues/10497) |
-| Fix misalignment and inconsistent spacing of Back to Top and AI Chat floating action buttons | Medium | [#10496](https://github.com/SandeepVashishtha/Eventra/issues/10496) |
-| Bug: Tooltip demo buttons missing type="button" risking accidental form submission, and decorative heading icons missing aria-hidden causing screen reader noise | Medium | [#10486](https://github.com/SandeepVashishtha/Eventra/issues/10486) |
-| Bug: EventRegistration title lacks long-word overflow protection | Medium | [#10472](https://github.com/SandeepVashishtha/Eventra/issues/10472) |
-| Bug: EventCard title lacks long-word overflow protection | Medium | [#10471](https://github.com/SandeepVashishtha/Eventra/issues/10471) |
-| Bug: HackathonPage does not pass mobile BackToTopButton position class | Medium | [#10470](https://github.com/SandeepVashishtha/Eventra/issues/10470) |
-| Bug: GitHubStats allSettled contract does not pass three fetchStat calls | Medium | [#10469](https://github.com/SandeepVashishtha/Eventra/issues/10469) |
+| Implement Edge-Level Authentication Middleware for Enhanced Security and Performance | Medium | [#10524](https://github.com/SandeepVashishtha/Eventra/issues/10524) |
+| Bug: Rating simulation never generates 1 or 2 stars scores | Medium | [#10521](https://github.com/SandeepVashishtha/Eventra/issues/10521) |
+| Bug: useSurveySimulator useCallback recreated every render with unmemoized array props | Medium | [#10519](https://github.com/SandeepVashishtha/Eventra/issues/10519) |
+| test(security): Add Security Configuration Validator Test Coverage | Medium | [#10502](https://github.com/SandeepVashishtha/Eventra/issues/10502) |
+| test(security): Add JWT Authentication Security Test Coverage | Medium | [#10501](https://github.com/SandeepVashishtha/Eventra/issues/10501) |
 
 ---
 
