@@ -57,7 +57,11 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add unit test coverage for EventDispatcher, EventHub, and metadata listeners | Medium | [#366](https://github.com/SharonIV0x86/CinderPeak/issues/366) |
+| feat: add a `benchmark/` suite using Google Benchmark to measure `addVertex`, `addEdge`, and BFS performance at scale — the README claims "High Performance" but there are zero benchmarks to validate or track this claim | Medium | [#371](https://github.com/SharonIV0x86/CinderPeak/issues/371) |
+| feat: implement cycle detection for both directed (DFS coloring) and undirected (Union-Find) graphs — the library exposes graph structure but provides no way to test whether a graph contains cycles, which is essential for DAG validation | Medium | [#370](https://github.com/SharonIV0x86/CinderPeak/issues/370) |
+| feat: add GraphML / DOT (Graphviz) serialization support — `CinderGraph` instances cannot be saved to disk or visualized externally, making it impossible to persist or debug graph structures | Medium | [#369](https://github.com/SharonIV0x86/CinderPeak/issues/369) |
+| feat: implement Dijkstra's shortest path algorithm as a graph traversal method on `CinderGraph<V, E>` — the library has BFS/DFS traversal but no weighted shortest-path algorithm despite supporting weighted edges natively | Medium | [#368](https://github.com/SharonIV0x86/CinderPeak/issues/368) |
+| test: add coverage for EventDispatcher, EventHub and metadata listeners | Medium | [#367](https://github.com/SharonIV0x86/CinderPeak/pull/367) |
 | Feature: Add Intelligent Alert & Incident Management System | Medium | [#363](https://github.com/SharonIV0x86/CinderPeak/issues/363) |
 | Feature: Add Resource Usage Forecast Dashboard | Medium | [#362](https://github.com/SharonIV0x86/CinderPeak/issues/362) |
 | Feature: Add AI-Based Log Analysis & Root Cause Suggestions | Medium | [#361](https://github.com/SharonIV0x86/CinderPeak/issues/361) |
@@ -82,11 +86,6 @@
 | Feature/self loop cleanup | Medium | [#342](https://github.com/SharonIV0x86/CinderPeak/pull/342) |
 | Feature/efficient backend population | Medium | [#341](https://github.com/SharonIV0x86/CinderPeak/pull/341) |
 | Implement comparison and stream operators for PeakStatus | Medium | [#340](https://github.com/SharonIV0x86/CinderPeak/pull/340) |
-| Feature/redundant map lookups | Medium | [#339](https://github.com/SharonIV0x86/CinderPeak/pull/339) |
-| Feature/vertex removal optimization | Medium | [#338](https://github.com/SharonIV0x86/CinderPeak/pull/338) |
-| Direct efficient backend population from AdjacencyList to HybridCSR_COO | Medium | [#337](https://github.com/SharonIV0x86/CinderPeak/issues/337) |
-| Partial failures on undirected graph operations leave graph in inconsistent state | Medium | [#336](https://github.com/SharonIV0x86/CinderPeak/issues/336) |
-| Edge removal and update do not reject self-loops at orchestrator layer | Medium | [#335](https://github.com/SharonIV0x86/CinderPeak/issues/335) |
 
 ---
 
