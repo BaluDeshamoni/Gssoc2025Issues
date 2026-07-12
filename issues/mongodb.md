@@ -1393,7 +1393,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
+| FEATURE: <brief description>End-to-End Encrypted Chat History with User-Controlled Local Encryption Keys | Medium | [#288](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/288) |
 
 ---
 
