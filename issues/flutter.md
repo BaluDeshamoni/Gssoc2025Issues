@@ -59,7 +59,6 @@
 | Fix Notification Flooding & Build Method Side-Effects | Medium | [#446](https://github.com/andoriyaprashant/OpSo/pull/446) |
 | fix: correct routing and error message typos | Medium | [#445](https://github.com/andoriyaprashant/OpSo/pull/445) |
 | Fix drawer dismiss behavior on overlay tap | Medium | [#441](https://github.com/andoriyaprashant/OpSo/pull/441) |
-| Refactor: update homepage by removing expired events | Medium | [#438](https://github.com/andoriyaprashant/OpSo/pull/438) |
 | fix: resolve awesome_notifications dependency configuration issue | Medium | [#429](https://github.com/andoriyaprashant/OpSo/pull/429) |
 | Use of Reusable widgets | Medium | [#379](https://github.com/andoriyaprashant/OpSo/issues/379) |
 | dark and light mode toggle | Medium | [#369](https://github.com/andoriyaprashant/OpSo/issues/369) |
