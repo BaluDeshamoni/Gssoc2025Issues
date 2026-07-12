@@ -165,8 +165,9 @@
 | Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
 | feat: implement infrastructure integration testing suite using Localstack and Terraform | Easy | [#5122](https://github.com/OWASP/Nest/pull/5122) |
 | feat(o11y): add grafana with VM datasource & dashboard | Easy | [#5109](https://github.com/OWASP/Nest/pull/5109) |
+| Add humans.txt | Medium | [#5186](https://github.com/OWASP/Nest/issues/5186) |
+| Add security.txt | Medium | [#5185](https://github.com/OWASP/Nest/issues/5185) |
 | Make Navbar responsive | Medium | [#5184](https://github.com/OWASP/Nest/issues/5184) |
-| chore(deps): bump the version-updates group across 1 directory with 12 updates | Medium | [#5183](https://github.com/OWASP/Nest/pull/5183) |
 | Use Custom Database Dump to Avoid fuzz/e2e CI Failure | Medium | [#5158](https://github.com/OWASP/Nest/pull/5158) |
 | inconsistent bottom spacing below search component across pages on mobile | Medium | [#5148](https://github.com/OWASP/Nest/issues/5148) |
 | Add precise type annotations to search helpers | Medium | [#5140](https://github.com/OWASP/Nest/pull/5140) |
@@ -177,8 +178,6 @@
 | Fix SynchronousOnlyOperation exceptions in mentorship app | Medium | [#5099](https://github.com/OWASP/Nest/pull/5099) |
 | nest_updated_at is never refreshed for records updated via bulk_save | Medium | [#5090](https://github.com/OWASP/Nest/issues/5090) |
 | Store Django sessions in Redis instead of the database | Medium | [#5081](https://github.com/OWASP/Nest/pull/5081) |
-| Split bootstrap Terraform per environment to isolate staging and production IAM | Medium | [#5077](https://github.com/OWASP/Nest/issues/5077) |
-| feat(backend): strip exif metadata from candidate claims | Medium | [#5074](https://github.com/OWASP/Nest/pull/5074) |
 
 ---
 
@@ -753,6 +752,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: implement pagination across global quest dashboards | Medium | [#437](https://github.com/LarytheLord/Adventurers-Guild/pull/437) |
 | fix: resolve 500 error on onboarding due to OAuth ID mismatch and Neon cold start (#428) | Medium | [#429](https://github.com/LarytheLord/Adventurers-Guild/pull/429) |
 | Onboarding fails with 500 Internal Server Error on /api/user/onboarding | Medium | [#428](https://github.com/LarytheLord/Adventurers-Guild/issues/428) |
 | security: Skill Points Validation Missing | Medium | [#426](https://github.com/LarytheLord/Adventurers-Guild/issues/426) |
@@ -762,21 +762,19 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | bug: Admin Sidebar is Hard to Scroll on Desktop | Medium | [#422](https://github.com/LarytheLord/Adventurers-Guild/issues/422) |
 | bug: Mismatched Rank Calculations Between Header and Leaderboard Table | Medium | [#421](https://github.com/LarytheLord/Adventurers-Guild/issues/421) |
 | feature: Add "Change Password" to Profile Settings | Medium | [#420](https://github.com/LarytheLord/Adventurers-Guild/issues/420) |
-| fix: resolve leaderboard, QA queue, data leak, Razorpay phone, and useApiFetch bugs (#414, #416, #415, #413, #330, #324, #327, #261) | Medium | [#418](https://github.com/LarytheLord/Adventurers-Guild/pull/418) |
-| bug: QA Queue Approval/Rejection Fails Silently | Medium | [#416](https://github.com/LarytheLord/Adventurers-Guild/issues/416) |
-| bug: Disabled Quest Templates Cannot Be Re-enabled via UI | Medium | [#415](https://github.com/LarytheLord/Adventurers-Guild/issues/415) |
-| Bug: Blank Pages Caused by `useApiFetch` Automatic JSON Unwrapping | Medium | [#413](https://github.com/LarytheLord/Adventurers-Guild/issues/413) |
-| feat: Admin user management dashboard | Medium | [#412](https://github.com/LarytheLord/Adventurers-Guild/issues/412) |
 | feat: Guild Master role — intermediate QA gate between student and admin | Medium | [#409](https://github.com/LarytheLord/Adventurers-Guild/issues/409) |
 | feat: Admin Analytics API — platform health metrics | Medium | [#408](https://github.com/LarytheLord/Adventurers-Guild/issues/408) |
 | security: Secure email change flow for NextAuth/Prisma stack | Medium | [#407](https://github.com/LarytheLord/Adventurers-Guild/issues/407) |
 | feat: Quest track filtering — enforce BOOTCAMP/INTERN/OPEN visibility | Medium | [#406](https://github.com/LarytheLord/Adventurers-Guild/issues/406) |
 | fix: Admin QA reject/approve skips syncQuestLifecycleStatus — quest status stuck after admin action | Medium | [#330](https://github.com/LarytheLord/Adventurers-Guild/issues/330) |
-| fix: Company quest edit ownership check is client-side only — full quest data leaks before redirect | Medium | [#327](https://github.com/LarytheLord/Adventurers-Guild/issues/327) |
 | fix: XP reward runs outside DB transaction — adventurer permanently loses XP if second write fails | Medium | [#324](https://github.com/LarytheLord/Adventurers-Guild/issues/324) |
 | CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
 | Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
+| feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
+| refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
+| Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
+| Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 
 ---
 
@@ -1132,7 +1130,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Add Conversation-Level Privacy Controls (Lock / Auto-Expire Chats) | Medium | [#231](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/231) |
+| FEATURE: <brief description>End-to-End Encrypted Chat History with User-Controlled Local Encryption Keys | Medium | [#288](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/288) |
 
 ---
 
