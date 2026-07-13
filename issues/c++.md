@@ -57,7 +57,6 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: add a `benchmark/` suite using Google Benchmark to measure `addVertex`, `addEdge`, and BFS performance at scale — the README claims "High Performance" but there are zero benchmarks to validate or track this claim | Medium | [#371](https://github.com/SharonIV0x86/CinderPeak/issues/371) |
 | feat: implement cycle detection for both directed (DFS coloring) and undirected (Union-Find) graphs — the library exposes graph structure but provides no way to test whether a graph contains cycles, which is essential for DAG validation | Medium | [#370](https://github.com/SharonIV0x86/CinderPeak/issues/370) |
 | feat: add GraphML / DOT (Graphviz) serialization support — `CinderGraph` instances cannot be saved to disk or visualized externally, making it impossible to persist or debug graph structures | Medium | [#369](https://github.com/SharonIV0x86/CinderPeak/issues/369) |
 | feat: implement Dijkstra's shortest path algorithm as a graph traversal method on `CinderGraph<V, E>` — the library has BFS/DFS traversal but no weighted shortest-path algorithm despite supporting weighted edges natively | Medium | [#368](https://github.com/SharonIV0x86/CinderPeak/issues/368) |
