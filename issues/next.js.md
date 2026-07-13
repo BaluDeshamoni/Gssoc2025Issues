@@ -160,15 +160,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Iimplement infrastructure integration testing suite using LocalStack | Easy | [#5190](https://github.com/OWASP/Nest/pull/5190) |
 | migrate runtime secrets from ssm to aws secrets manager | Easy | [#5141](https://github.com/OWASP/Nest/pull/5141) |
 | feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
 | Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
-| feat: implement infrastructure integration testing suite using Localstack and Terraform | Easy | [#5122](https://github.com/OWASP/Nest/pull/5122) |
-| feat(o11y): add grafana with VM datasource & dashboard | Easy | [#5109](https://github.com/OWASP/Nest/pull/5109) |
+| Feat/email service abstraction | Medium | [#5192](https://github.com/OWASP/Nest/pull/5192) |
+| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5189](https://github.com/OWASP/Nest/issues/5189) |
+| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5188](https://github.com/OWASP/Nest/issues/5188) |
+| Improve module mentor assignment and ordering consistency | Medium | [#5187](https://github.com/OWASP/Nest/pull/5187) |
 | Add humans.txt | Medium | [#5186](https://github.com/OWASP/Nest/issues/5186) |
 | Add security.txt | Medium | [#5185](https://github.com/OWASP/Nest/issues/5185) |
 | Make Navbar responsive | Medium | [#5184](https://github.com/OWASP/Nest/issues/5184) |
-| Use Custom Database Dump to Avoid fuzz/e2e CI Failure | Medium | [#5158](https://github.com/OWASP/Nest/pull/5158) |
 | inconsistent bottom spacing below search component across pages on mobile | Medium | [#5148](https://github.com/OWASP/Nest/issues/5148) |
 | Add precise type annotations to search helpers | Medium | [#5140](https://github.com/OWASP/Nest/pull/5140) |
 | Snapshot subscription frontend | Medium | [#5136](https://github.com/OWASP/Nest/pull/5136) |
@@ -361,6 +363,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | chore: 15+ development fix scripts committed to repository root (apply-fix.js, complete-fix.ps1, fix-*.mjs, etc.) — these one-off automation scripts create severe confusion for contributors and should be removed | Easy | [#1065](https://github.com/Muneerali199/Draftdeckai/issues/1065) |
 | fix: repair diagnostic page guard | Easy | [#1062](https://github.com/Muneerali199/Draftdeckai/pull/1062) |
 | fix: add security warnings and runtime guard for SUPABASE_SERVICE_ROLE_KEY | Easy | [#1058](https://github.com/Muneerali199/Draftdeckai/pull/1058) |
+| AI-powered hero video for landing page — generate, enhance & integrate | Medium | [#1077](https://github.com/Muneerali199/Draftdeckai/issues/1077) |
 | test: add Jest coverage for the ATS Score Checker — no test file currently exists despite `jest.config.mjs` being configured | Medium | [#1068](https://github.com/Muneerali199/Draftdeckai/issues/1068) |
 | fix: add idempotency/re-validation to the credits deduction flow to prevent double-charging on retried generation requests | Medium | [#1067](https://github.com/Muneerali199/Draftdeckai/issues/1067) |
 | fix: harden client error logging | Medium | [#1064](https://github.com/Muneerali199/Draftdeckai/pull/1064) |
@@ -369,7 +372,6 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | chore(deps): bump the minor-and-patch group across 1 directory with 52 updates | Medium | [#1053](https://github.com/Muneerali199/Draftdeckai/pull/1053) |
 | feat(history): implement Phase 1 history improvements with sorting and enhanced search experience | Medium | [#1034](https://github.com/Muneerali199/Draftdeckai/pull/1034) |
 | chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.2 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
-| fix: preserve typed API error prototypes | Medium | [#995](https://github.com/Muneerali199/Draftdeckai/pull/995) |
 | fix(dependencies): update vulnerable packages to pass security audit | Hard | [#1061](https://github.com/Muneerali199/Draftdeckai/pull/1061) |
 | fix(security): enhance Stripe webhook signature verification | Hard | [#1060](https://github.com/Muneerali199/Draftdeckai/pull/1060) |
 | fix: reduce Mermaid.js main-thread blocking for large diagrams | Hard | [#1056](https://github.com/Muneerali199/Draftdeckai/pull/1056) |
@@ -1130,7 +1132,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: <brief description>End-to-End Encrypted Chat History with User-Controlled Local Encryption Keys | Medium | [#288](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/288) |
+| FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
 
 ---
 
