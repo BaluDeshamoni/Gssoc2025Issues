@@ -129,11 +129,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Edge-Level Authentication Middleware for Enhanced Security and Performance | Medium | [#10524](https://github.com/SandeepVashishtha/Eventra/issues/10524) |
-| Bug: Rating simulation never generates 1 or 2 stars scores | Medium | [#10521](https://github.com/SandeepVashishtha/Eventra/issues/10521) |
-| Bug: useSurveySimulator useCallback recreated every render with unmemoized array props | Medium | [#10519](https://github.com/SandeepVashishtha/Eventra/issues/10519) |
-| test(security): Add Security Configuration Validator Test Coverage | Medium | [#10502](https://github.com/SandeepVashishtha/Eventra/issues/10502) |
-| test(security): Add JWT Authentication Security Test Coverage | Medium | [#10501](https://github.com/SandeepVashishtha/Eventra/issues/10501) |
+| Bug: useSurveySimulator resets simulatedData on question changes but leaves totalSubmissions and completionRate unchanged, causing submission metrics to become inconsistent with the chart data. | Medium | [#10558](https://github.com/SandeepVashishtha/Eventra/issues/10558) |
+| chore: Resolve remaining ESLint warnings across the frontend codebase | Medium | [#10552](https://github.com/SandeepVashishtha/Eventra/issues/10552) |
+| chore: resolve ESLint warnings in useLiveAudience hook and toast utilities | Medium | [#10550](https://github.com/SandeepVashishtha/Eventra/issues/10550) |
+| Implement Certificate Generation and Distribution for Event Attendees | Medium | [#10549](https://github.com/SandeepVashishtha/Eventra/issues/10549) |
+| Implement Social Sharing with Dynamic Open Graph Images for Events | Medium | [#10548](https://github.com/SandeepVashishtha/Eventra/issues/10548) |
+| Implement Role-Based Access Control for Organizer, Moderator, and Attendee Roles | Medium | [#10547](https://github.com/SandeepVashishtha/Eventra/issues/10547) |
+| Implement Event Feedback and Rating System with Post-Event Survey | Medium | [#10546](https://github.com/SandeepVashishtha/Eventra/issues/10546) |
+| Implement Team Formation System for Hackathon Events | Medium | [#10545](https://github.com/SandeepVashishtha/Eventra/issues/10545) |
+| Bug: SSE multiplexer can claim leadership after another tab overwrites its claim | Medium | [#10534](https://github.com/SandeepVashishtha/Eventra/issues/10534) |
+| Bug: userProfileAnalyzer cannot resolve safeJsonParse under Node ESM | Medium | [#10533](https://github.com/SandeepVashishtha/Eventra/issues/10533) |
+| Bug: EventRegistration no longer passes submitted form data to local registration state | Medium | [#10532](https://github.com/SandeepVashishtha/Eventra/issues/10532) |
 
 ---
 
