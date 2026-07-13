@@ -48,6 +48,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: add offline support using `hive` local database — OpSo currently requires internet connectivity to display program information, showing a blank screen with no cached data when offline | Medium | [#482](https://github.com/andoriyaprashant/OpSo/issues/482) |
+| feat: add a "Deadline Countdown" and calendar reminder feature to program detail screens — users currently see application dates as static text but have no way to track upcoming deadlines or add them to their device calendar | Medium | [#481](https://github.com/andoriyaprashant/OpSo/issues/481) |
+| feat: add a search and filter functionality to the home screen — users currently must scroll through all open-source programs to find one, with no way to search by name, organization, or stipend amount | Medium | [#480](https://github.com/andoriyaprashant/OpSo/issues/480) |
+| security: `.env` file with actual API keys/tokens is committed to the repository root — this exposes credentials to every person who has ever cloned the repo and is a critical security violation | Medium | [#479](https://github.com/andoriyaprashant/OpSo/issues/479) |
 | Enhance README with formatting and structure suggestions | Medium | [#478](https://github.com/andoriyaprashant/OpSo/pull/478) |
 | Feat: Improve Readme Formatting and Structure | Medium | [#476](https://github.com/andoriyaprashant/OpSo/issues/476) |
 | feat:improve UI spacing and font size for better readability fixes #384 | Medium | [#475](https://github.com/andoriyaprashant/OpSo/pull/475) |
@@ -61,7 +65,6 @@
 | Fix drawer dismiss behavior on overlay tap | Medium | [#441](https://github.com/andoriyaprashant/OpSo/pull/441) |
 | fix: resolve awesome_notifications dependency configuration issue | Medium | [#429](https://github.com/andoriyaprashant/OpSo/pull/429) |
 | Use of Reusable widgets | Medium | [#379](https://github.com/andoriyaprashant/OpSo/issues/379) |
-| dark and light mode toggle | Medium | [#369](https://github.com/andoriyaprashant/OpSo/issues/369) |
 
 ---
 
