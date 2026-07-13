@@ -1442,6 +1442,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| On Clicking Location , It's showing white bg color . | Medium | [#574](https://github.com/aayushraj1010/med-genie/issues/574) |
 | docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
 | Login/Sign-up button shows "Signing in..." / "Creating account..." on initial page load | Medium | [#572](https://github.com/aayushraj1010/med-genie/issues/572) |
 | Navigation Bar is not completely responsive | Medium | [#571](https://github.com/aayushraj1010/med-genie/issues/571) |
@@ -1470,7 +1471,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Optimize medical data processing with parallel computation and caching strategies | Medium | [#546](https://github.com/aayushraj1010/med-genie/issues/546) |
 | Implement comprehensive symptom checker with AI diagnosis and specialist recommendations | Medium | [#545](https://github.com/aayushraj1010/med-genie/issues/545) |
 | Add Persistent Medical Disclaimer Banner Inside Chat Interface | Medium | [#544](https://github.com/aayushraj1010/med-genie/issues/544) |
-| Find Specialist feature returns identical recommendations for different symptoms and is accessible without authentication | Medium | [#543](https://github.com/aayushraj1010/med-genie/issues/543) |
 
 ---
 
@@ -2004,6 +2004,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI Bug: Performance lag and non-circular transition in "What Students Say" carousel | Medium | [#661](https://github.com/lovelymahor/StudyMatePlus/issues/661) |
+| Add loading states and error handling for API requests | Medium | [#660](https://github.com/lovelymahor/StudyMatePlus/issues/660) |
 | fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
 | fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
@@ -2032,8 +2034,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | refactor(server): Eliminate competing Express bootstrap paths by establishing a single canonical application entry point | Medium | [#633](https://github.com/lovelymahor/StudyMatePlus/issues/633) |
 | Fix Create Account page logo highlight and container alignment | Medium | [#632](https://github.com/lovelymahor/StudyMatePlus/issues/632) |
 | Filter dropdowns on "Access Previous Year Question Papers" page are non-functional / lack dependent filtering | Medium | [#631](https://github.com/lovelymahor/StudyMatePlus/issues/631) |
-| Update text color to white on Syllabus card labels to improve accessibility | Medium | [#630](https://github.com/lovelymahor/StudyMatePlus/issues/630) |
-| fix: align hero CTA buttons vertically | Medium | [#629](https://github.com/lovelymahor/StudyMatePlus/pull/629) |
 
 ---
 
