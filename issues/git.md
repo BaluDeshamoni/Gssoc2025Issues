@@ -257,6 +257,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| On Clicking Location , It's showing white bg color . | Medium | [#574](https://github.com/aayushraj1010/med-genie/issues/574) |
 | docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
 | Login/Sign-up button shows "Signing in..." / "Creating account..." on initial page load | Medium | [#572](https://github.com/aayushraj1010/med-genie/issues/572) |
 | Navigation Bar is not completely responsive | Medium | [#571](https://github.com/aayushraj1010/med-genie/issues/571) |
@@ -285,7 +286,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Optimize medical data processing with parallel computation and caching strategies | Medium | [#546](https://github.com/aayushraj1010/med-genie/issues/546) |
 | Implement comprehensive symptom checker with AI diagnosis and specialist recommendations | Medium | [#545](https://github.com/aayushraj1010/med-genie/issues/545) |
 | Add Persistent Medical Disclaimer Banner Inside Chat Interface | Medium | [#544](https://github.com/aayushraj1010/med-genie/issues/544) |
-| Find Specialist feature returns identical recommendations for different symptoms and is accessible without authentication | Medium | [#543](https://github.com/aayushraj1010/med-genie/issues/543) |
 
 ---
 
@@ -568,6 +568,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI Bug: Performance lag and non-circular transition in "What Students Say" carousel | Medium | [#661](https://github.com/lovelymahor/StudyMatePlus/issues/661) |
+| Add loading states and error handling for API requests | Medium | [#660](https://github.com/lovelymahor/StudyMatePlus/issues/660) |
 | fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
 | fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
@@ -596,8 +598,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | refactor(server): Eliminate competing Express bootstrap paths by establishing a single canonical application entry point | Medium | [#633](https://github.com/lovelymahor/StudyMatePlus/issues/633) |
 | Fix Create Account page logo highlight and container alignment | Medium | [#632](https://github.com/lovelymahor/StudyMatePlus/issues/632) |
 | Filter dropdowns on "Access Previous Year Question Papers" page are non-functional / lack dependent filtering | Medium | [#631](https://github.com/lovelymahor/StudyMatePlus/issues/631) |
-| Update text color to white on Syllabus card labels to improve accessibility | Medium | [#630](https://github.com/lovelymahor/StudyMatePlus/issues/630) |
-| fix: align hero CTA buttons vertically | Medium | [#629](https://github.com/lovelymahor/StudyMatePlus/pull/629) |
 
 ---
 
@@ -653,14 +653,17 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Clear (✕) button in form input fields does not clear entered text | Medium | [#10498](https://github.com/SandeepVashishtha/Eventra/issues/10498) |
-| Remove unused dropdown from the **Events** navigation button | Medium | [#10497](https://github.com/SandeepVashishtha/Eventra/issues/10497) |
-| Fix misalignment and inconsistent spacing of Back to Top and AI Chat floating action buttons | Medium | [#10496](https://github.com/SandeepVashishtha/Eventra/issues/10496) |
-| Bug: Tooltip demo buttons missing type="button" risking accidental form submission, and decorative heading icons missing aria-hidden causing screen reader noise | Medium | [#10486](https://github.com/SandeepVashishtha/Eventra/issues/10486) |
-| Bug: EventRegistration title lacks long-word overflow protection | Medium | [#10472](https://github.com/SandeepVashishtha/Eventra/issues/10472) |
-| Bug: EventCard title lacks long-word overflow protection | Medium | [#10471](https://github.com/SandeepVashishtha/Eventra/issues/10471) |
-| Bug: HackathonPage does not pass mobile BackToTopButton position class | Medium | [#10470](https://github.com/SandeepVashishtha/Eventra/issues/10470) |
-| Bug: GitHubStats allSettled contract does not pass three fetchStat calls | Medium | [#10469](https://github.com/SandeepVashishtha/Eventra/issues/10469) |
+| Bug: useSurveySimulator resets simulatedData on question changes but leaves totalSubmissions and completionRate unchanged, causing submission metrics to become inconsistent with the chart data. | Medium | [#10558](https://github.com/SandeepVashishtha/Eventra/issues/10558) |
+| chore: Resolve remaining ESLint warnings across the frontend codebase | Medium | [#10552](https://github.com/SandeepVashishtha/Eventra/issues/10552) |
+| chore: resolve ESLint warnings in useLiveAudience hook and toast utilities | Medium | [#10550](https://github.com/SandeepVashishtha/Eventra/issues/10550) |
+| Implement Certificate Generation and Distribution for Event Attendees | Medium | [#10549](https://github.com/SandeepVashishtha/Eventra/issues/10549) |
+| Implement Social Sharing with Dynamic Open Graph Images for Events | Medium | [#10548](https://github.com/SandeepVashishtha/Eventra/issues/10548) |
+| Implement Role-Based Access Control for Organizer, Moderator, and Attendee Roles | Medium | [#10547](https://github.com/SandeepVashishtha/Eventra/issues/10547) |
+| Implement Event Feedback and Rating System with Post-Event Survey | Medium | [#10546](https://github.com/SandeepVashishtha/Eventra/issues/10546) |
+| Implement Team Formation System for Hackathon Events | Medium | [#10545](https://github.com/SandeepVashishtha/Eventra/issues/10545) |
+| Bug: SSE multiplexer can claim leadership after another tab overwrites its claim | Medium | [#10534](https://github.com/SandeepVashishtha/Eventra/issues/10534) |
+| Bug: userProfileAnalyzer cannot resolve safeJsonParse under Node ESM | Medium | [#10533](https://github.com/SandeepVashishtha/Eventra/issues/10533) |
+| Bug: EventRegistration no longer passes submitted form data to local registration state | Medium | [#10532](https://github.com/SandeepVashishtha/Eventra/issues/10532) |
 
 ---
 
