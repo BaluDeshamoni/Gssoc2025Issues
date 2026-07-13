@@ -267,15 +267,17 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Iimplement infrastructure integration testing suite using LocalStack | Easy | [#5190](https://github.com/OWASP/Nest/pull/5190) |
 | migrate runtime secrets from ssm to aws secrets manager | Easy | [#5141](https://github.com/OWASP/Nest/pull/5141) |
 | feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
 | Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
-| feat: implement infrastructure integration testing suite using Localstack and Terraform | Easy | [#5122](https://github.com/OWASP/Nest/pull/5122) |
-| feat(o11y): add grafana with VM datasource & dashboard | Easy | [#5109](https://github.com/OWASP/Nest/pull/5109) |
+| Feat/email service abstraction | Medium | [#5192](https://github.com/OWASP/Nest/pull/5192) |
+| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5189](https://github.com/OWASP/Nest/issues/5189) |
+| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5188](https://github.com/OWASP/Nest/issues/5188) |
+| Improve module mentor assignment and ordering consistency | Medium | [#5187](https://github.com/OWASP/Nest/pull/5187) |
 | Add humans.txt | Medium | [#5186](https://github.com/OWASP/Nest/issues/5186) |
 | Add security.txt | Medium | [#5185](https://github.com/OWASP/Nest/issues/5185) |
 | Make Navbar responsive | Medium | [#5184](https://github.com/OWASP/Nest/issues/5184) |
-| Use Custom Database Dump to Avoid fuzz/e2e CI Failure | Medium | [#5158](https://github.com/OWASP/Nest/pull/5158) |
 | inconsistent bottom spacing below search component across pages on mobile | Medium | [#5148](https://github.com/OWASP/Nest/issues/5148) |
 | Add precise type annotations to search helpers | Medium | [#5140](https://github.com/OWASP/Nest/pull/5140) |
 | Snapshot subscription frontend | Medium | [#5136](https://github.com/OWASP/Nest/pull/5136) |
@@ -2433,6 +2435,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI Bug: Performance lag and non-circular transition in "What Students Say" carousel | Medium | [#661](https://github.com/lovelymahor/StudyMatePlus/issues/661) |
+| Add loading states and error handling for API requests | Medium | [#660](https://github.com/lovelymahor/StudyMatePlus/issues/660) |
 | fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
 | fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
@@ -2461,8 +2465,6 @@ Fast Workflow Tools
 | refactor(server): Eliminate competing Express bootstrap paths by establishing a single canonical application entry point | Medium | [#633](https://github.com/lovelymahor/StudyMatePlus/issues/633) |
 | Fix Create Account page logo highlight and container alignment | Medium | [#632](https://github.com/lovelymahor/StudyMatePlus/issues/632) |
 | Filter dropdowns on "Access Previous Year Question Papers" page are non-functional / lack dependent filtering | Medium | [#631](https://github.com/lovelymahor/StudyMatePlus/issues/631) |
-| Update text color to white on Syllabus card labels to improve accessibility | Medium | [#630](https://github.com/lovelymahor/StudyMatePlus/issues/630) |
-| fix: align hero CTA buttons vertically | Medium | [#629](https://github.com/lovelymahor/StudyMatePlus/pull/629) |
 
 ---
 
@@ -2757,7 +2759,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: <brief description>End-to-End Encrypted Chat History with User-Controlled Local Encryption Keys | Medium | [#288](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/288) |
+| FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
 
 ---
 
@@ -2843,11 +2845,17 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Implement Edge-Level Authentication Middleware for Enhanced Security and Performance | Medium | [#10524](https://github.com/SandeepVashishtha/Eventra/issues/10524) |
-| Bug: Rating simulation never generates 1 or 2 stars scores | Medium | [#10521](https://github.com/SandeepVashishtha/Eventra/issues/10521) |
-| Bug: useSurveySimulator useCallback recreated every render with unmemoized array props | Medium | [#10519](https://github.com/SandeepVashishtha/Eventra/issues/10519) |
-| test(security): Add Security Configuration Validator Test Coverage | Medium | [#10502](https://github.com/SandeepVashishtha/Eventra/issues/10502) |
-| test(security): Add JWT Authentication Security Test Coverage | Medium | [#10501](https://github.com/SandeepVashishtha/Eventra/issues/10501) |
+| Bug: useSurveySimulator resets simulatedData on question changes but leaves totalSubmissions and completionRate unchanged, causing submission metrics to become inconsistent with the chart data. | Medium | [#10558](https://github.com/SandeepVashishtha/Eventra/issues/10558) |
+| chore: Resolve remaining ESLint warnings across the frontend codebase | Medium | [#10552](https://github.com/SandeepVashishtha/Eventra/issues/10552) |
+| chore: resolve ESLint warnings in useLiveAudience hook and toast utilities | Medium | [#10550](https://github.com/SandeepVashishtha/Eventra/issues/10550) |
+| Implement Certificate Generation and Distribution for Event Attendees | Medium | [#10549](https://github.com/SandeepVashishtha/Eventra/issues/10549) |
+| Implement Social Sharing with Dynamic Open Graph Images for Events | Medium | [#10548](https://github.com/SandeepVashishtha/Eventra/issues/10548) |
+| Implement Role-Based Access Control for Organizer, Moderator, and Attendee Roles | Medium | [#10547](https://github.com/SandeepVashishtha/Eventra/issues/10547) |
+| Implement Event Feedback and Rating System with Post-Event Survey | Medium | [#10546](https://github.com/SandeepVashishtha/Eventra/issues/10546) |
+| Implement Team Formation System for Hackathon Events | Medium | [#10545](https://github.com/SandeepVashishtha/Eventra/issues/10545) |
+| Bug: SSE multiplexer can claim leadership after another tab overwrites its claim | Medium | [#10534](https://github.com/SandeepVashishtha/Eventra/issues/10534) |
+| Bug: userProfileAnalyzer cannot resolve safeJsonParse under Node ESM | Medium | [#10533](https://github.com/SandeepVashishtha/Eventra/issues/10533) |
+| Bug: EventRegistration no longer passes submitted form data to local registration state | Medium | [#10532](https://github.com/SandeepVashishtha/Eventra/issues/10532) |
 
 ---
 
