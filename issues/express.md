@@ -1214,6 +1214,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: implement syllabus preview and download functionality | Medium | [#665](https://github.com/lovelymahor/StudyMatePlus/pull/665) |
+| Missing env variable validation on startup | Medium | [#664](https://github.com/lovelymahor/StudyMatePlus/issues/664) |
+| Feature: Add forgot password / reset flow | Medium | [#663](https://github.com/lovelymahor/StudyMatePlus/issues/663) |
+| Add Feedback Sorting and Filtering by Difficulty Rating | Medium | [#662](https://github.com/lovelymahor/StudyMatePlus/issues/662) |
 | UI Bug: Performance lag and non-circular transition in "What Students Say" carousel | Medium | [#661](https://github.com/lovelymahor/StudyMatePlus/issues/661) |
 | Add loading states and error handling for API requests | Medium | [#660](https://github.com/lovelymahor/StudyMatePlus/issues/660) |
 | fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
@@ -1240,10 +1244,6 @@ Fast Workflow Tools
 | Features section buttons are not working | Medium | [#637](https://github.com/lovelymahor/StudyMatePlus/issues/637) |
 | Create Account Feature is no working | Medium | [#636](https://github.com/lovelymahor/StudyMatePlus/issues/636) |
 | ## 📄 Documentation: Missing `docs/` folder referenced in Project Structure | Medium | [#635](https://github.com/lovelymahor/StudyMatePlus/issues/635) |
-| ## ✨ Feature Request: Implement the "Student Feedback on Exam Papers" module | Medium | [#634](https://github.com/lovelymahor/StudyMatePlus/issues/634) |
-| refactor(server): Eliminate competing Express bootstrap paths by establishing a single canonical application entry point | Medium | [#633](https://github.com/lovelymahor/StudyMatePlus/issues/633) |
-| Fix Create Account page logo highlight and container alignment | Medium | [#632](https://github.com/lovelymahor/StudyMatePlus/issues/632) |
-| Filter dropdowns on "Access Previous Year Question Papers" page are non-functional / lack dependent filtering | Medium | [#631](https://github.com/lovelymahor/StudyMatePlus/issues/631) |
 
 ---
 
