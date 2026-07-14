@@ -568,6 +568,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: implement syllabus preview and download functionality | Medium | [#665](https://github.com/lovelymahor/StudyMatePlus/pull/665) |
+| Missing env variable validation on startup | Medium | [#664](https://github.com/lovelymahor/StudyMatePlus/issues/664) |
+| Feature: Add forgot password / reset flow | Medium | [#663](https://github.com/lovelymahor/StudyMatePlus/issues/663) |
+| Add Feedback Sorting and Filtering by Difficulty Rating | Medium | [#662](https://github.com/lovelymahor/StudyMatePlus/issues/662) |
 | UI Bug: Performance lag and non-circular transition in "What Students Say" carousel | Medium | [#661](https://github.com/lovelymahor/StudyMatePlus/issues/661) |
 | Add loading states and error handling for API requests | Medium | [#660](https://github.com/lovelymahor/StudyMatePlus/issues/660) |
 | fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
@@ -594,10 +598,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Features section buttons are not working | Medium | [#637](https://github.com/lovelymahor/StudyMatePlus/issues/637) |
 | Create Account Feature is no working | Medium | [#636](https://github.com/lovelymahor/StudyMatePlus/issues/636) |
 | ## 📄 Documentation: Missing `docs/` folder referenced in Project Structure | Medium | [#635](https://github.com/lovelymahor/StudyMatePlus/issues/635) |
-| ## ✨ Feature Request: Implement the "Student Feedback on Exam Papers" module | Medium | [#634](https://github.com/lovelymahor/StudyMatePlus/issues/634) |
-| refactor(server): Eliminate competing Express bootstrap paths by establishing a single canonical application entry point | Medium | [#633](https://github.com/lovelymahor/StudyMatePlus/issues/633) |
-| Fix Create Account page logo highlight and container alignment | Medium | [#632](https://github.com/lovelymahor/StudyMatePlus/issues/632) |
-| Filter dropdowns on "Access Previous Year Question Papers" page are non-functional / lack dependent filtering | Medium | [#631](https://github.com/lovelymahor/StudyMatePlus/issues/631) |
 
 ---
 
@@ -653,17 +653,20 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug: useSurveySimulator resets simulatedData on question changes but leaves totalSubmissions and completionRate unchanged, causing submission metrics to become inconsistent with the chart data. | Medium | [#10558](https://github.com/SandeepVashishtha/Eventra/issues/10558) |
-| chore: Resolve remaining ESLint warnings across the frontend codebase | Medium | [#10552](https://github.com/SandeepVashishtha/Eventra/issues/10552) |
-| chore: resolve ESLint warnings in useLiveAudience hook and toast utilities | Medium | [#10550](https://github.com/SandeepVashishtha/Eventra/issues/10550) |
-| Implement Certificate Generation and Distribution for Event Attendees | Medium | [#10549](https://github.com/SandeepVashishtha/Eventra/issues/10549) |
-| Implement Social Sharing with Dynamic Open Graph Images for Events | Medium | [#10548](https://github.com/SandeepVashishtha/Eventra/issues/10548) |
-| Implement Role-Based Access Control for Organizer, Moderator, and Attendee Roles | Medium | [#10547](https://github.com/SandeepVashishtha/Eventra/issues/10547) |
-| Implement Event Feedback and Rating System with Post-Event Survey | Medium | [#10546](https://github.com/SandeepVashishtha/Eventra/issues/10546) |
-| Implement Team Formation System for Hackathon Events | Medium | [#10545](https://github.com/SandeepVashishtha/Eventra/issues/10545) |
-| Bug: SSE multiplexer can claim leadership after another tab overwrites its claim | Medium | [#10534](https://github.com/SandeepVashishtha/Eventra/issues/10534) |
-| Bug: userProfileAnalyzer cannot resolve safeJsonParse under Node ESM | Medium | [#10533](https://github.com/SandeepVashishtha/Eventra/issues/10533) |
-| Bug: EventRegistration no longer passes submitted form data to local registration state | Medium | [#10532](https://github.com/SandeepVashishtha/Eventra/issues/10532) |
+| Bug: QR code verification URL uses raw attendeeName with only space-to-dash replacement — apostrophes, accents, ampersands, and empty names produce invalid URLs permanently baked into the exported badge | Medium | [#10588](https://github.com/SandeepVashishtha/Eventra/issues/10588) |
+| Bug: PNG download anchor never appended to document.body before .click() — Firefox requires anchor to be in the DOM for programmatic download; PNG export silently fails for all Firefox users | Medium | [#10586](https://github.com/SandeepVashishtha/Eventra/issues/10586) |
+| Bug: EventBadgeGenerator PDF export renders "certify text at bottom" at y=45/55mm — which is above the centered badge at y=81mm, not below it; the lower half of the PDF is left blank | Medium | [#10584](https://github.com/SandeepVashishtha/Eventra/issues/10584) |
+| Bug: EventBadgeGenerator PDF export renders "certify text at bottom" at y=45/55mm — which is above the centered badge at y=81mm, not below it; the lower half of the PDF is left blank | Medium | [#10583](https://github.com/SandeepVashishtha/Eventra/issues/10583) |
+| Bug: shareUtils fallback copy path still reports failure after successful execCommand | Medium | [#10571](https://github.com/SandeepVashishtha/Eventra/issues/10571) |
+| Bug: registerUtils robustness test fails to normalize stored event keys | Medium | [#10570](https://github.com/SandeepVashishtha/Eventra/issues/10570) |
+| Bug: UserDashboard title overflow helpers are missing from event lists | Medium | [#10569](https://github.com/SandeepVashishtha/Eventra/issues/10569) |
+| Bug: useNotifications test crashes on React dispatcher access | Medium | [#10568](https://github.com/SandeepVashishtha/Eventra/issues/10568) |
+| Bug: useKeyboardShortcuts test crashes on React dispatcher access | Medium | [#10567](https://github.com/SandeepVashishtha/Eventra/issues/10567) |
+| Bug: notificationSync test cannot import mockNotifications JSON in Node | Medium | [#10566](https://github.com/SandeepVashishtha/Eventra/issues/10566) |
+| Bug: useTokenExpiry cannot resolve tokenUtils in timeout tests | Medium | [#10565](https://github.com/SandeepVashishtha/Eventra/issues/10565) |
+| Bug: offlineEventCache cannot resolve safeJsonParse in direct utility tests | Medium | [#10564](https://github.com/SandeepVashishtha/Eventra/issues/10564) |
+| Bug: githubApiClient cannot resolve fetchWithTimeout in direct utility tests | Medium | [#10563](https://github.com/SandeepVashishtha/Eventra/issues/10563) |
+| Bug: feedbackUtils cannot resolve safeJsonParse in direct utility tests | Medium | [#10562](https://github.com/SandeepVashishtha/Eventra/issues/10562) |
 
 ---
 
