@@ -197,11 +197,6 @@ Accessibility features like dark mode,white.
 | feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
 | Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
 | Feat/email service abstraction | Medium | [#5192](https://github.com/OWASP/Nest/pull/5192) |
-| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5189](https://github.com/OWASP/Nest/issues/5189) |
-| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5188](https://github.com/OWASP/Nest/issues/5188) |
-| Improve module mentor assignment and ordering consistency | Medium | [#5187](https://github.com/OWASP/Nest/pull/5187) |
-| Add humans.txt | Medium | [#5186](https://github.com/OWASP/Nest/issues/5186) |
-| Add security.txt | Medium | [#5185](https://github.com/OWASP/Nest/issues/5185) |
 | Make Navbar responsive | Medium | [#5184](https://github.com/OWASP/Nest/issues/5184) |
 | inconsistent bottom spacing below search component across pages on mobile | Medium | [#5148](https://github.com/OWASP/Nest/issues/5148) |
 | Add precise type annotations to search helpers | Medium | [#5140](https://github.com/OWASP/Nest/pull/5140) |
@@ -1745,6 +1740,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Empty tasks can be added to the To-Do list | Medium | [#670](https://github.com/lovelymahor/StudyMatePlus/issues/670) |
+| Add Empty State Illustrations for Notes, Flashcards, Quizzes, and Tasks | Medium | [#668](https://github.com/lovelymahor/StudyMatePlus/issues/668) |
+| Improve Dark Mode UI Consistency Across the Application | Medium | [#667](https://github.com/lovelymahor/StudyMatePlus/issues/667) |
+| Registration fails on the "Secure Your Account" step. After entering a valid password and clicking Create Account, the application displays a generic error message: | Medium | [#666](https://github.com/lovelymahor/StudyMatePlus/issues/666) |
+| feat: implement syllabus preview and download functionality | Medium | [#665](https://github.com/lovelymahor/StudyMatePlus/pull/665) |
+| Missing env variable validation on startup | Medium | [#664](https://github.com/lovelymahor/StudyMatePlus/issues/664) |
+| Feature: Add forgot password / reset flow | Medium | [#663](https://github.com/lovelymahor/StudyMatePlus/issues/663) |
+| Add Feedback Sorting and Filtering by Difficulty Rating | Medium | [#662](https://github.com/lovelymahor/StudyMatePlus/issues/662) |
 | UI Bug: Performance lag and non-circular transition in "What Students Say" carousel | Medium | [#661](https://github.com/lovelymahor/StudyMatePlus/issues/661) |
 | Add loading states and error handling for API requests | Medium | [#660](https://github.com/lovelymahor/StudyMatePlus/issues/660) |
 | fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
@@ -1767,14 +1770,6 @@ Fast Workflow Tools
 | Feature Request: AI-Generated Practice Questions from Syllabus + PYQs | Medium | [#641](https://github.com/lovelymahor/StudyMatePlus/issues/641) |
 | Bug: Mentors Page Not Working | Medium | [#640](https://github.com/lovelymahor/StudyMatePlus/issues/640) |
 | Feature/enhance about mission UI | Medium | [#639](https://github.com/lovelymahor/StudyMatePlus/pull/639) |
-| Add a Resource Rating & Review System for Study Materials | Medium | [#638](https://github.com/lovelymahor/StudyMatePlus/issues/638) |
-| Features section buttons are not working | Medium | [#637](https://github.com/lovelymahor/StudyMatePlus/issues/637) |
-| Create Account Feature is no working | Medium | [#636](https://github.com/lovelymahor/StudyMatePlus/issues/636) |
-| ## 📄 Documentation: Missing `docs/` folder referenced in Project Structure | Medium | [#635](https://github.com/lovelymahor/StudyMatePlus/issues/635) |
-| ## ✨ Feature Request: Implement the "Student Feedback on Exam Papers" module | Medium | [#634](https://github.com/lovelymahor/StudyMatePlus/issues/634) |
-| refactor(server): Eliminate competing Express bootstrap paths by establishing a single canonical application entry point | Medium | [#633](https://github.com/lovelymahor/StudyMatePlus/issues/633) |
-| Fix Create Account page logo highlight and container alignment | Medium | [#632](https://github.com/lovelymahor/StudyMatePlus/issues/632) |
-| Filter dropdowns on "Access Previous Year Question Papers" page are non-functional / lack dependent filtering | Medium | [#631](https://github.com/lovelymahor/StudyMatePlus/issues/631) |
 
 ---
 
@@ -2007,7 +2002,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
+| feat(chat): implement conversational-level privacy controls (fixes #231) | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
 
 ---
 
