@@ -19,11 +19,6 @@
 | feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
 | Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
 | Feat/email service abstraction | Medium | [#5192](https://github.com/OWASP/Nest/pull/5192) |
-| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5189](https://github.com/OWASP/Nest/issues/5189) |
-| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5188](https://github.com/OWASP/Nest/issues/5188) |
-| Improve module mentor assignment and ordering consistency | Medium | [#5187](https://github.com/OWASP/Nest/pull/5187) |
-| Add humans.txt | Medium | [#5186](https://github.com/OWASP/Nest/issues/5186) |
-| Add security.txt | Medium | [#5185](https://github.com/OWASP/Nest/issues/5185) |
 | Make Navbar responsive | Medium | [#5184](https://github.com/OWASP/Nest/issues/5184) |
 | inconsistent bottom spacing below search component across pages on mobile | Medium | [#5148](https://github.com/OWASP/Nest/issues/5148) |
 | Add precise type annotations to search helpers | Medium | [#5140](https://github.com/OWASP/Nest/pull/5140) |
