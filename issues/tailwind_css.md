@@ -252,11 +252,6 @@ Accessibility features like dark mode,white.
 | feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
 | Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
 | Feat/email service abstraction | Medium | [#5192](https://github.com/OWASP/Nest/pull/5192) |
-| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5189](https://github.com/OWASP/Nest/issues/5189) |
-| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5188](https://github.com/OWASP/Nest/issues/5188) |
-| Improve module mentor assignment and ordering consistency | Medium | [#5187](https://github.com/OWASP/Nest/pull/5187) |
-| Add humans.txt | Medium | [#5186](https://github.com/OWASP/Nest/issues/5186) |
-| Add security.txt | Medium | [#5185](https://github.com/OWASP/Nest/issues/5185) |
 | Make Navbar responsive | Medium | [#5184](https://github.com/OWASP/Nest/issues/5184) |
 | inconsistent bottom spacing below search component across pages on mobile | Medium | [#5148](https://github.com/OWASP/Nest/issues/5148) |
 | Add precise type annotations to search helpers | Medium | [#5140](https://github.com/OWASP/Nest/pull/5140) |
@@ -1876,6 +1871,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Bug: Empty tasks can be added to the To-Do list | Medium | [#670](https://github.com/lovelymahor/StudyMatePlus/issues/670) |
+| Add Empty State Illustrations for Notes, Flashcards, Quizzes, and Tasks | Medium | [#668](https://github.com/lovelymahor/StudyMatePlus/issues/668) |
+| Improve Dark Mode UI Consistency Across the Application | Medium | [#667](https://github.com/lovelymahor/StudyMatePlus/issues/667) |
+| Registration fails on the "Secure Your Account" step. After entering a valid password and clicking Create Account, the application displays a generic error message: | Medium | [#666](https://github.com/lovelymahor/StudyMatePlus/issues/666) |
+| feat: implement syllabus preview and download functionality | Medium | [#665](https://github.com/lovelymahor/StudyMatePlus/pull/665) |
+| Missing env variable validation on startup | Medium | [#664](https://github.com/lovelymahor/StudyMatePlus/issues/664) |
+| Feature: Add forgot password / reset flow | Medium | [#663](https://github.com/lovelymahor/StudyMatePlus/issues/663) |
+| Add Feedback Sorting and Filtering by Difficulty Rating | Medium | [#662](https://github.com/lovelymahor/StudyMatePlus/issues/662) |
 | UI Bug: Performance lag and non-circular transition in "What Students Say" carousel | Medium | [#661](https://github.com/lovelymahor/StudyMatePlus/issues/661) |
 | Add loading states and error handling for API requests | Medium | [#660](https://github.com/lovelymahor/StudyMatePlus/issues/660) |
 | fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
@@ -1898,14 +1901,6 @@ Fast Workflow Tools
 | Feature Request: AI-Generated Practice Questions from Syllabus + PYQs | Medium | [#641](https://github.com/lovelymahor/StudyMatePlus/issues/641) |
 | Bug: Mentors Page Not Working | Medium | [#640](https://github.com/lovelymahor/StudyMatePlus/issues/640) |
 | Feature/enhance about mission UI | Medium | [#639](https://github.com/lovelymahor/StudyMatePlus/pull/639) |
-| Add a Resource Rating & Review System for Study Materials | Medium | [#638](https://github.com/lovelymahor/StudyMatePlus/issues/638) |
-| Features section buttons are not working | Medium | [#637](https://github.com/lovelymahor/StudyMatePlus/issues/637) |
-| Create Account Feature is no working | Medium | [#636](https://github.com/lovelymahor/StudyMatePlus/issues/636) |
-| ## 📄 Documentation: Missing `docs/` folder referenced in Project Structure | Medium | [#635](https://github.com/lovelymahor/StudyMatePlus/issues/635) |
-| ## ✨ Feature Request: Implement the "Student Feedback on Exam Papers" module | Medium | [#634](https://github.com/lovelymahor/StudyMatePlus/issues/634) |
-| refactor(server): Eliminate competing Express bootstrap paths by establishing a single canonical application entry point | Medium | [#633](https://github.com/lovelymahor/StudyMatePlus/issues/633) |
-| Fix Create Account page logo highlight and container alignment | Medium | [#632](https://github.com/lovelymahor/StudyMatePlus/issues/632) |
-| Filter dropdowns on "Access Previous Year Question Papers" page are non-functional / lack dependent filtering | Medium | [#631](https://github.com/lovelymahor/StudyMatePlus/issues/631) |
 
 ---
 
@@ -2132,7 +2127,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
+| feat(chat): implement conversational-level privacy controls (fixes #231) | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
 
 ---
 
@@ -2176,17 +2171,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug: useSurveySimulator resets simulatedData on question changes but leaves totalSubmissions and completionRate unchanged, causing submission metrics to become inconsistent with the chart data. | Medium | [#10558](https://github.com/SandeepVashishtha/Eventra/issues/10558) |
-| chore: Resolve remaining ESLint warnings across the frontend codebase | Medium | [#10552](https://github.com/SandeepVashishtha/Eventra/issues/10552) |
-| chore: resolve ESLint warnings in useLiveAudience hook and toast utilities | Medium | [#10550](https://github.com/SandeepVashishtha/Eventra/issues/10550) |
-| Implement Certificate Generation and Distribution for Event Attendees | Medium | [#10549](https://github.com/SandeepVashishtha/Eventra/issues/10549) |
-| Implement Social Sharing with Dynamic Open Graph Images for Events | Medium | [#10548](https://github.com/SandeepVashishtha/Eventra/issues/10548) |
-| Implement Role-Based Access Control for Organizer, Moderator, and Attendee Roles | Medium | [#10547](https://github.com/SandeepVashishtha/Eventra/issues/10547) |
-| Implement Event Feedback and Rating System with Post-Event Survey | Medium | [#10546](https://github.com/SandeepVashishtha/Eventra/issues/10546) |
-| Implement Team Formation System for Hackathon Events | Medium | [#10545](https://github.com/SandeepVashishtha/Eventra/issues/10545) |
-| Bug: SSE multiplexer can claim leadership after another tab overwrites its claim | Medium | [#10534](https://github.com/SandeepVashishtha/Eventra/issues/10534) |
-| Bug: userProfileAnalyzer cannot resolve safeJsonParse under Node ESM | Medium | [#10533](https://github.com/SandeepVashishtha/Eventra/issues/10533) |
-| Bug: EventRegistration no longer passes submitted form data to local registration state | Medium | [#10532](https://github.com/SandeepVashishtha/Eventra/issues/10532) |
+| chore: resolve remaining ESLint warnings and errors across the codebase | Medium | [#10620](https://github.com/SandeepVashishtha/Eventra/issues/10620) |
+| Implement Absolute Imports (baseUrl) to eliminate relative import hell | Medium | [#10619](https://github.com/SandeepVashishtha/Eventra/issues/10619) |
+| Bug: Back-face 3D tilt is inverted after flip due to unmirrored rotate.y | Medium | [#10617](https://github.com/SandeepVashishtha/Eventra/issues/10617) |
+| Bug: PNG download fails in Firefox because the anchor isn't appended before .click() | Medium | [#10615](https://github.com/SandeepVashishtha/Eventra/issues/10615) |
+| Bug: handleDownload doesn't restore isFlipped on html2canvas failure, leaving the ticket stuck on the front face. | Medium | [#10613](https://github.com/SandeepVashishtha/Eventra/issues/10613) |
+| Bug: QR code verification URL uses raw attendeeName with only space-to-dash replacement — apostrophes, accents, ampersands, and empty names produce invalid URLs permanently baked into the exported badge | Medium | [#10588](https://github.com/SandeepVashishtha/Eventra/issues/10588) |
+| Bug: PNG download anchor never appended to document.body before .click() — Firefox requires anchor to be in the DOM for programmatic download; PNG export silently fails for all Firefox users | Medium | [#10586](https://github.com/SandeepVashishtha/Eventra/issues/10586) |
+| Bug: EventBadgeGenerator PDF export renders "certify text at bottom" at y=45/55mm — which is above the centered badge at y=81mm, not below it; the lower half of the PDF is left blank | Medium | [#10583](https://github.com/SandeepVashishtha/Eventra/issues/10583) |
 
 ---
 
@@ -2370,7 +2362,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Product Cards | Medium | [#141](https://github.com/subhadeeproy3902/mvpblocks/issues/141) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
