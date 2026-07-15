@@ -98,11 +98,6 @@ Accessibility features like dark mode,white.
 | feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
 | Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
 | Feat/email service abstraction | Medium | [#5192](https://github.com/OWASP/Nest/pull/5192) |
-| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5189](https://github.com/OWASP/Nest/issues/5189) |
-| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5188](https://github.com/OWASP/Nest/issues/5188) |
-| Improve module mentor assignment and ordering consistency | Medium | [#5187](https://github.com/OWASP/Nest/pull/5187) |
-| Add humans.txt | Medium | [#5186](https://github.com/OWASP/Nest/issues/5186) |
-| Add security.txt | Medium | [#5185](https://github.com/OWASP/Nest/issues/5185) |
 | Make Navbar responsive | Medium | [#5184](https://github.com/OWASP/Nest/issues/5184) |
 | inconsistent bottom spacing below search component across pages on mobile | Medium | [#5148](https://github.com/OWASP/Nest/issues/5148) |
 | Add precise type annotations to search helpers | Medium | [#5140](https://github.com/OWASP/Nest/pull/5140) |
@@ -472,6 +467,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🛠 Build Guides 14, 15, 16 | Easy | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
 | 🛠 Build Guides 11, 12, 13 | Easy | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
 | 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
+| Bump @radix-ui/react-slot from 1.2.3 to 1.3.0 | Medium | [#151](https://github.com/SamXop123/RigCrafter/pull/151) |
+| Bump tailwindcss from 3.4.18 to 4.3.2 | Medium | [#150](https://github.com/SamXop123/RigCrafter/pull/150) |
+| Bump @radix-ui/react-accordion from 1.2.12 to 1.2.16 | Medium | [#149](https://github.com/SamXop123/RigCrafter/pull/149) |
+| Bump sonner from 1.7.4 to 2.0.7 | Medium | [#148](https://github.com/SamXop123/RigCrafter/pull/148) |
+| Bump @radix-ui/react-select from 2.2.6 to 2.3.3 | Medium | [#147](https://github.com/SamXop123/RigCrafter/pull/147) |
 
 ---
 
@@ -1255,7 +1255,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Product Cards | Medium | [#141](https://github.com/subhadeeproy3902/mvpblocks/issues/141) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
