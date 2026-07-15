@@ -119,13 +119,13 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | chore: 15+ development fix scripts committed to repository root (apply-fix.js, complete-fix.ps1, fix-*.mjs, etc.) — these one-off automation scripts create severe confusion for contributors and should be removed | Easy | [#1065](https://github.com/Muneerali199/Draftdeckai/issues/1065) |
 | fix: repair diagnostic page guard | Easy | [#1062](https://github.com/Muneerali199/Draftdeckai/pull/1062) |
 | fix: add security warnings and runtime guard for SUPABASE_SERVICE_ROLE_KEY | Easy | [#1058](https://github.com/Muneerali199/Draftdeckai/pull/1058) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 54 updates | Medium | [#1078](https://github.com/Muneerali199/Draftdeckai/pull/1078) |
 | AI-powered hero video for landing page — generate, enhance & integrate | Medium | [#1077](https://github.com/Muneerali199/Draftdeckai/issues/1077) |
 | test: add Jest coverage for the ATS Score Checker — no test file currently exists despite `jest.config.mjs` being configured | Medium | [#1068](https://github.com/Muneerali199/Draftdeckai/issues/1068) |
 | fix: add idempotency/re-validation to the credits deduction flow to prevent double-charging on retried generation requests | Medium | [#1067](https://github.com/Muneerali199/Draftdeckai/issues/1067) |
 | fix: harden client error logging | Medium | [#1064](https://github.com/Muneerali199/Draftdeckai/pull/1064) |
 | fix: support linkedin jobs in extension | Medium | [#1063](https://github.com/Muneerali199/Draftdeckai/pull/1063) |
 | fix(autosave): debounce document autosave to prevent excessive Supabase writes | Medium | [#1059](https://github.com/Muneerali199/Draftdeckai/pull/1059) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 52 updates | Medium | [#1053](https://github.com/Muneerali199/Draftdeckai/pull/1053) |
 | feat(history): implement Phase 1 history improvements with sorting and enhanced search experience | Medium | [#1034](https://github.com/Muneerali199/Draftdeckai/pull/1034) |
 | chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.2 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
 | fix(dependencies): update vulnerable packages to pass security audit | Hard | [#1061](https://github.com/Muneerali199/Draftdeckai/pull/1061) |
@@ -344,17 +344,14 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug: useSurveySimulator resets simulatedData on question changes but leaves totalSubmissions and completionRate unchanged, causing submission metrics to become inconsistent with the chart data. | Medium | [#10558](https://github.com/SandeepVashishtha/Eventra/issues/10558) |
-| chore: Resolve remaining ESLint warnings across the frontend codebase | Medium | [#10552](https://github.com/SandeepVashishtha/Eventra/issues/10552) |
-| chore: resolve ESLint warnings in useLiveAudience hook and toast utilities | Medium | [#10550](https://github.com/SandeepVashishtha/Eventra/issues/10550) |
-| Implement Certificate Generation and Distribution for Event Attendees | Medium | [#10549](https://github.com/SandeepVashishtha/Eventra/issues/10549) |
-| Implement Social Sharing with Dynamic Open Graph Images for Events | Medium | [#10548](https://github.com/SandeepVashishtha/Eventra/issues/10548) |
-| Implement Role-Based Access Control for Organizer, Moderator, and Attendee Roles | Medium | [#10547](https://github.com/SandeepVashishtha/Eventra/issues/10547) |
-| Implement Event Feedback and Rating System with Post-Event Survey | Medium | [#10546](https://github.com/SandeepVashishtha/Eventra/issues/10546) |
-| Implement Team Formation System for Hackathon Events | Medium | [#10545](https://github.com/SandeepVashishtha/Eventra/issues/10545) |
-| Bug: SSE multiplexer can claim leadership after another tab overwrites its claim | Medium | [#10534](https://github.com/SandeepVashishtha/Eventra/issues/10534) |
-| Bug: userProfileAnalyzer cannot resolve safeJsonParse under Node ESM | Medium | [#10533](https://github.com/SandeepVashishtha/Eventra/issues/10533) |
-| Bug: EventRegistration no longer passes submitted form data to local registration state | Medium | [#10532](https://github.com/SandeepVashishtha/Eventra/issues/10532) |
+| chore: resolve remaining ESLint warnings and errors across the codebase | Medium | [#10620](https://github.com/SandeepVashishtha/Eventra/issues/10620) |
+| Implement Absolute Imports (baseUrl) to eliminate relative import hell | Medium | [#10619](https://github.com/SandeepVashishtha/Eventra/issues/10619) |
+| Bug: Back-face 3D tilt is inverted after flip due to unmirrored rotate.y | Medium | [#10617](https://github.com/SandeepVashishtha/Eventra/issues/10617) |
+| Bug: PNG download fails in Firefox because the anchor isn't appended before .click() | Medium | [#10615](https://github.com/SandeepVashishtha/Eventra/issues/10615) |
+| Bug: handleDownload doesn't restore isFlipped on html2canvas failure, leaving the ticket stuck on the front face. | Medium | [#10613](https://github.com/SandeepVashishtha/Eventra/issues/10613) |
+| Bug: QR code verification URL uses raw attendeeName with only space-to-dash replacement — apostrophes, accents, ampersands, and empty names produce invalid URLs permanently baked into the exported badge | Medium | [#10588](https://github.com/SandeepVashishtha/Eventra/issues/10588) |
+| Bug: PNG download anchor never appended to document.body before .click() — Firefox requires anchor to be in the DOM for programmatic download; PNG export silently fails for all Firefox users | Medium | [#10586](https://github.com/SandeepVashishtha/Eventra/issues/10586) |
+| Bug: EventBadgeGenerator PDF export renders "certify text at bottom" at y=45/55mm — which is above the centered badge at y=81mm, not below it; the lower half of the PDF is left blank | Medium | [#10583](https://github.com/SandeepVashishtha/Eventra/issues/10583) |
 
 ---
 
