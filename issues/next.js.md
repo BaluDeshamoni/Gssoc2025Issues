@@ -165,11 +165,6 @@
 | feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
 | Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
 | Feat/email service abstraction | Medium | [#5192](https://github.com/OWASP/Nest/pull/5192) |
-| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5189](https://github.com/OWASP/Nest/issues/5189) |
-| Exposed NEXTAUTH_SECRET in frontend/.env.e2e | Medium | [#5188](https://github.com/OWASP/Nest/issues/5188) |
-| Improve module mentor assignment and ordering consistency | Medium | [#5187](https://github.com/OWASP/Nest/pull/5187) |
-| Add humans.txt | Medium | [#5186](https://github.com/OWASP/Nest/issues/5186) |
-| Add security.txt | Medium | [#5185](https://github.com/OWASP/Nest/issues/5185) |
 | Make Navbar responsive | Medium | [#5184](https://github.com/OWASP/Nest/issues/5184) |
 | inconsistent bottom spacing below search component across pages on mobile | Medium | [#5148](https://github.com/OWASP/Nest/issues/5148) |
 | Add precise type annotations to search helpers | Medium | [#5140](https://github.com/OWASP/Nest/pull/5140) |
@@ -363,13 +358,13 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | chore: 15+ development fix scripts committed to repository root (apply-fix.js, complete-fix.ps1, fix-*.mjs, etc.) — these one-off automation scripts create severe confusion for contributors and should be removed | Easy | [#1065](https://github.com/Muneerali199/Draftdeckai/issues/1065) |
 | fix: repair diagnostic page guard | Easy | [#1062](https://github.com/Muneerali199/Draftdeckai/pull/1062) |
 | fix: add security warnings and runtime guard for SUPABASE_SERVICE_ROLE_KEY | Easy | [#1058](https://github.com/Muneerali199/Draftdeckai/pull/1058) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 54 updates | Medium | [#1078](https://github.com/Muneerali199/Draftdeckai/pull/1078) |
 | AI-powered hero video for landing page — generate, enhance & integrate | Medium | [#1077](https://github.com/Muneerali199/Draftdeckai/issues/1077) |
 | test: add Jest coverage for the ATS Score Checker — no test file currently exists despite `jest.config.mjs` being configured | Medium | [#1068](https://github.com/Muneerali199/Draftdeckai/issues/1068) |
 | fix: add idempotency/re-validation to the credits deduction flow to prevent double-charging on retried generation requests | Medium | [#1067](https://github.com/Muneerali199/Draftdeckai/issues/1067) |
 | fix: harden client error logging | Medium | [#1064](https://github.com/Muneerali199/Draftdeckai/pull/1064) |
 | fix: support linkedin jobs in extension | Medium | [#1063](https://github.com/Muneerali199/Draftdeckai/pull/1063) |
 | fix(autosave): debounce document autosave to prevent excessive Supabase writes | Medium | [#1059](https://github.com/Muneerali199/Draftdeckai/pull/1059) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 52 updates | Medium | [#1053](https://github.com/Muneerali199/Draftdeckai/pull/1053) |
 | feat(history): implement Phase 1 history improvements with sorting and enhanced search experience | Medium | [#1034](https://github.com/Muneerali199/Draftdeckai/pull/1034) |
 | chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.2 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
 | fix(dependencies): update vulnerable packages to pass security audit | Hard | [#1061](https://github.com/Muneerali199/Draftdeckai/pull/1061) |
@@ -489,6 +484,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump @docusaurus/tsconfig from 3.10.1 to 3.10.2 | Easy | [#1981](https://github.com/recodehive/recode-website/pull/1981) |
+| chore: bump prettier from 3.9.4 to 3.9.5 | Easy | [#1980](https://github.com/recodehive/recode-website/pull/1980) |
+| chore: bump @docusaurus/plugin-google-analytics from 3.10.1 to 3.10.2 | Easy | [#1978](https://github.com/recodehive/recode-website/pull/1978) |
+| chore: bump @floating-ui/react from 0.27.19 to 0.27.20 | Easy | [#1977](https://github.com/recodehive/recode-website/pull/1977) |
+| chore: bump @tsparticles/slim from 4.2.1 to 4.3.2 | Easy | [#1976](https://github.com/recodehive/recode-website/pull/1976) |
 | Create get-started-with-recode.md | Easy | [#1924](https://github.com/recodehive/recode-website/pull/1924) |
 | [Feature]: Change to community page | Hard | [#339](https://github.com/recodehive/recode-website/issues/339) |
 
@@ -1132,7 +1132,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
+| feat(chat): implement conversational-level privacy controls (fixes #231) | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
 
 ---
 
@@ -1317,7 +1317,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Product Cards | Medium | [#141](https://github.com/subhadeeproy3902/mvpblocks/issues/141) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
