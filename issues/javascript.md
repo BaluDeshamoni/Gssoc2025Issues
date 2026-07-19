@@ -631,20 +631,20 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add GSSoC'25 Banner | Medium | [#180](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/180) |
-| Enhance Success Stories section with background overlay and fix compilation issues (#175) | Medium | [#179](https://github.com/LolPanda7154/Amour-Editorial-Website/pull/179) |
-| Issue: “Business Hours” Card Misaligned in Contact Section | Medium | [#178](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/178) |
-| Issue: Orange Popup Overlapping Article Headings in Blog Section | Medium | [#177](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/177) |
-| Issue: Services Section UI Looks Too Simple — Needs Enhancement | Medium | [#176](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/176) |
-| Enhance Success Stories section with background overlay and fix compi… | Medium | [#175](https://github.com/LolPanda7154/Amour-Editorial-Website/pull/175) |
-| Deployment link doesn't work | Medium | [#174](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/174) |
-| Add Contributors Section in README | Medium | [#173](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/173) |
-| Add Pull Request (PR) Template | Medium | [#172](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/172) |
-| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#171](https://github.com/LolPanda7154/Amour-Editorial-Website/issues/171) |
-| fix: #154 resolve blog page images not displaying | Medium | [#168](https://github.com/LolPanda7154/Amour-Editorial-Website/pull/168) |
-| Add backend validation, file upload, and Nodemailer for contact form | Medium | [#167](https://github.com/LolPanda7154/Amour-Editorial-Website/pull/167) |
-| Issue #129 Resolved – Services Module Expansion & UI Enhancements | Medium | [#158](https://github.com/LolPanda7154/Amour-Editorial-Website/pull/158) |
-| Fix meet our team section - avatar and style team member's card | Medium | [#156](https://github.com/LolPanda7154/Amour-Editorial-Website/pull/156) |
+| Add GSSoC'25 Banner | Medium | [#180](https://github.com/LolPanda2004/Amour-Editorial-Website/issues/180) |
+| Enhance Success Stories section with background overlay and fix compilation issues (#175) | Medium | [#179](https://github.com/LolPanda2004/Amour-Editorial-Website/pull/179) |
+| Issue: “Business Hours” Card Misaligned in Contact Section | Medium | [#178](https://github.com/LolPanda2004/Amour-Editorial-Website/issues/178) |
+| Issue: Orange Popup Overlapping Article Headings in Blog Section | Medium | [#177](https://github.com/LolPanda2004/Amour-Editorial-Website/issues/177) |
+| Issue: Services Section UI Looks Too Simple — Needs Enhancement | Medium | [#176](https://github.com/LolPanda2004/Amour-Editorial-Website/issues/176) |
+| Enhance Success Stories section with background overlay and fix compi… | Medium | [#175](https://github.com/LolPanda2004/Amour-Editorial-Website/pull/175) |
+| Deployment link doesn't work | Medium | [#174](https://github.com/LolPanda2004/Amour-Editorial-Website/issues/174) |
+| Add Contributors Section in README | Medium | [#173](https://github.com/LolPanda2004/Amour-Editorial-Website/issues/173) |
+| Add Pull Request (PR) Template | Medium | [#172](https://github.com/LolPanda2004/Amour-Editorial-Website/issues/172) |
+| Add Issue Template for Bug, Feature, and Enhancement | Medium | [#171](https://github.com/LolPanda2004/Amour-Editorial-Website/issues/171) |
+| fix: #154 resolve blog page images not displaying | Medium | [#168](https://github.com/LolPanda2004/Amour-Editorial-Website/pull/168) |
+| Add backend validation, file upload, and Nodemailer for contact form | Medium | [#167](https://github.com/LolPanda2004/Amour-Editorial-Website/pull/167) |
+| Issue #129 Resolved – Services Module Expansion & UI Enhancements | Medium | [#158](https://github.com/LolPanda2004/Amour-Editorial-Website/pull/158) |
+| Fix meet our team section - avatar and style team member's card | Medium | [#156](https://github.com/LolPanda2004/Amour-Editorial-Website/pull/156) |
 
 ---
 
@@ -872,7 +872,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | UI/UX Enhancement And  New features  Enhancements | Medium | [#80](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/80) |
 | Issue regarding the User Interface and styling | Medium | [#79](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/79) |
 | Add Loading Indicator While Fetching Weather Data | Medium | [#78](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/78) |
-| fixed the Dublicate fetch calls | Medium | [#77](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/77) |
 | Fix: integrated API (#21) | Medium | [#76](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/76) |
 | Fix: made the background dynamic, shows rain whenever the weather is … | Medium | [#75](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/75) |
 | Missing: Live Server | Medium | [#74](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/74) |
@@ -891,6 +890,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Missing Favicon | Medium | [#61](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/61) |
 | day-name logic updated #49 | Medium | [#60](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/60) |
 | ISSUE:-Improving the folder structure | Medium | [#59](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/59) |
+| Create LICENSE | Medium | [#55](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/55) |
 
 ---
 
@@ -1050,11 +1050,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🛠 Build Guides 14, 15, 16 | Easy | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
 | 🛠 Build Guides 11, 12, 13 | Easy | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
 | 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
-| Bump @radix-ui/react-slot from 1.2.3 to 1.3.0 | Medium | [#151](https://github.com/SamXop123/RigCrafter/pull/151) |
-| Bump tailwindcss from 3.4.18 to 4.3.2 | Medium | [#150](https://github.com/SamXop123/RigCrafter/pull/150) |
-| Bump @radix-ui/react-accordion from 1.2.12 to 1.2.16 | Medium | [#149](https://github.com/SamXop123/RigCrafter/pull/149) |
-| Bump sonner from 1.7.4 to 2.0.7 | Medium | [#148](https://github.com/SamXop123/RigCrafter/pull/148) |
-| Bump @radix-ui/react-select from 2.2.6 to 2.3.3 | Medium | [#147](https://github.com/SamXop123/RigCrafter/pull/147) |
 
 ---
 
@@ -1093,11 +1088,14 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump @docusaurus/tsconfig from 3.10.1 to 3.10.2 | Easy | [#1981](https://github.com/recodehive/recode-website/pull/1981) |
-| chore: bump prettier from 3.9.4 to 3.9.5 | Easy | [#1980](https://github.com/recodehive/recode-website/pull/1980) |
-| chore: bump @docusaurus/plugin-google-analytics from 3.10.1 to 3.10.2 | Easy | [#1978](https://github.com/recodehive/recode-website/pull/1978) |
-| chore: bump @floating-ui/react from 0.27.19 to 0.27.20 | Easy | [#1977](https://github.com/recodehive/recode-website/pull/1977) |
-| chore: bump @tsparticles/slim from 4.2.1 to 4.3.2 | Easy | [#1976](https://github.com/recodehive/recode-website/pull/1976) |
+| chore: bump @docusaurus/plugin-ideal-image from 3.10.1 to 3.10.2 | Easy | [#2000](https://github.com/recodehive/recode-website/pull/2000) |
+| chore: bump @clerk/react from 6.12.0 to 6.12.5 | Easy | [#1999](https://github.com/recodehive/recode-website/pull/1999) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.63.0 to 8.64.0 | Easy | [#1998](https://github.com/recodehive/recode-website/pull/1998) |
+| chore: bump @docusaurus/theme-search-algolia from 3.10.1 to 3.10.2 | Easy | [#1997](https://github.com/recodehive/recode-website/pull/1997) |
+| chore: bump @docusaurus/theme-classic from 3.10.1 to 3.10.2 | Easy | [#1996](https://github.com/recodehive/recode-website/pull/1996) |
+| Home page FAQ Changes | Easy | [#1990](https://github.com/recodehive/recode-website/issues/1990) |
+| Testimonials replcae the name with recoide contributors | Easy | [#1983](https://github.com/recodehive/recode-website/issues/1983) |
+| reduce the gap between text lines | Easy | [#1982](https://github.com/recodehive/recode-website/issues/1982) |
 | Create get-started-with-recode.md | Easy | [#1924](https://github.com/recodehive/recode-website/pull/1924) |
 | [Feature]: Change to community page | Hard | [#339](https://github.com/recodehive/recode-website/issues/339) |
 
@@ -1852,6 +1850,17 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
+| UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
+| fix: delete uploaded temp file after processing in syllabus upload route | Medium | [#680](https://github.com/lovelymahor/StudyMatePlus/pull/680) |
+| Bug: Uploaded files in /api/syllabus/upload are never deleted from disk — causes unbounded storage growth and file retention risk | Medium | [#679](https://github.com/lovelymahor/StudyMatePlus/issues/679) |
+| Fix: Prevent adding empty or whitespace-only tasks | Medium | [#677](https://github.com/lovelymahor/StudyMatePlus/pull/677) |
+| bug: Urgent UI fixes (Logo clipping, massive section gap, and light theme text contrast) | Medium | [#676](https://github.com/lovelymahor/StudyMatePlus/issues/676) |
+| Added: global scroll-to-top button on all pages (Fixes #117) | Medium | [#675](https://github.com/lovelymahor/StudyMatePlus/pull/675) |
+| fix: use environment variable REACT_APP_API_URL for API calls in FeedbackModal and Notes | Medium | [#674](https://github.com/lovelymahor/StudyMatePlus/pull/674) |
+| fix: migrate OpenAI SDK integration to v4 and update deprecated model | Medium | [#673](https://github.com/lovelymahor/StudyMatePlus/pull/673) |
+| fix: prevent adding empty or whitespace-only tasks to To-Do list (#670) | Medium | [#672](https://github.com/lovelymahor/StudyMatePlus/pull/672) |
+| feat: Add Dockerization for seamless local development (#510) | Medium | [#671](https://github.com/lovelymahor/StudyMatePlus/pull/671) |
 | Bug: Empty tasks can be added to the To-Do list | Medium | [#670](https://github.com/lovelymahor/StudyMatePlus/issues/670) |
 | Add Empty State Illustrations for Notes, Flashcards, Quizzes, and Tasks | Medium | [#668](https://github.com/lovelymahor/StudyMatePlus/issues/668) |
 | Improve Dark Mode UI Consistency Across the Application | Medium | [#667](https://github.com/lovelymahor/StudyMatePlus/issues/667) |
@@ -1871,17 +1880,6 @@ Fast Workflow Tools
 | Syllabus download and preview are only placeholders | Medium | [#652](https://github.com/lovelymahor/StudyMatePlus/issues/652) |
 | Notes API is missing while the Notes page calls it | Medium | [#651](https://github.com/lovelymahor/StudyMatePlus/issues/651) |
 | account creation | Medium | [#650](https://github.com/lovelymahor/StudyMatePlus/issues/650) |
-| Feature: Implement Google OAuth2 Authentication | Medium | [#649](https://github.com/lovelymahor/StudyMatePlus/issues/649) |
-| footer text is too light and difficult to read in light mode | Medium | [#648](https://github.com/lovelymahor/StudyMatePlus/issues/648) |
-| refactor: extract feedback logic into MVC structure | Medium | [#647](https://github.com/lovelymahor/StudyMatePlus/pull/647) |
-| text color does not seems eye appealing | Medium | [#646](https://github.com/lovelymahor/StudyMatePlus/issues/646) |
-| Password strength check doesn't catch weak patterns | Medium | [#645](https://github.com/lovelymahor/StudyMatePlus/issues/645) |
-| Generic error responses hide the real cause of failures | Medium | [#644](https://github.com/lovelymahor/StudyMatePlus/issues/644) |
-| fix: prevent hero heading text overflow on mobile (#611) | Medium | [#643](https://github.com/lovelymahor/StudyMatePlus/pull/643) |
-| fix: speed up feature card hover transition to 200ms ease-out (#625) | Medium | [#642](https://github.com/lovelymahor/StudyMatePlus/pull/642) |
-| Feature Request: AI-Generated Practice Questions from Syllabus + PYQs | Medium | [#641](https://github.com/lovelymahor/StudyMatePlus/issues/641) |
-| Bug: Mentors Page Not Working | Medium | [#640](https://github.com/lovelymahor/StudyMatePlus/issues/640) |
-| Feature/enhance about mission UI | Medium | [#639](https://github.com/lovelymahor/StudyMatePlus/pull/639) |
 
 ---
 
