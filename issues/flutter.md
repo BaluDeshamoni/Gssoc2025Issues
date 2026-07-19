@@ -48,6 +48,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| docs: update issue tracker link in README | Medium | [#483](https://github.com/andoriyaprashant/OpSo/pull/483) |
 | feat: add offline support using `hive` local database — OpSo currently requires internet connectivity to display program information, showing a blank screen with no cached data when offline | Medium | [#482](https://github.com/andoriyaprashant/OpSo/issues/482) |
 | feat: add a "Deadline Countdown" and calendar reminder feature to program detail screens — users currently see application dates as static text but have no way to track upcoming deadlines or add them to their device calendar | Medium | [#481](https://github.com/andoriyaprashant/OpSo/issues/481) |
 | feat: add a search and filter functionality to the home screen — users currently must scroll through all open-source programs to find one, with no way to search by name, organization, or stipend amount | Medium | [#480](https://github.com/andoriyaprashant/OpSo/issues/480) |
@@ -64,7 +65,6 @@
 | fix: correct routing and error message typos | Medium | [#445](https://github.com/andoriyaprashant/OpSo/pull/445) |
 | Fix drawer dismiss behavior on overlay tap | Medium | [#441](https://github.com/andoriyaprashant/OpSo/pull/441) |
 | fix: resolve awesome_notifications dependency configuration issue | Medium | [#429](https://github.com/andoriyaprashant/OpSo/pull/429) |
-| Use of Reusable widgets | Medium | [#379](https://github.com/andoriyaprashant/OpSo/issues/379) |
 
 ---
 
@@ -82,6 +82,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| ADDED THE MODEL FOR VALID/INVALID IMAGE CHECK | Medium | [#511](https://github.com/Prateek9876/NagarVikas/pull/511) |
 | Refactor main.dart for safer and deploy-ready Level 3 improvements | Medium | [#510](https://github.com/Prateek9876/NagarVikas/issues/510) |
 | Level 3 Improvements: Safe and Deploy-Ready main.dart | Medium | [#509](https://github.com/Prateek9876/NagarVikas/pull/509) |
 | Refactor android/build.gradle.kts for maintainability and deployment readiness | Medium | [#508](https://github.com/Prateek9876/NagarVikas/issues/508) |
