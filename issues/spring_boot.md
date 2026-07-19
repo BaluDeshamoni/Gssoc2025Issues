@@ -129,14 +129,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: resolve remaining ESLint warnings and errors across the codebase | Medium | [#10620](https://github.com/SandeepVashishtha/Eventra/issues/10620) |
-| Implement Absolute Imports (baseUrl) to eliminate relative import hell | Medium | [#10619](https://github.com/SandeepVashishtha/Eventra/issues/10619) |
-| Bug: Back-face 3D tilt is inverted after flip due to unmirrored rotate.y | Medium | [#10617](https://github.com/SandeepVashishtha/Eventra/issues/10617) |
-| Bug: PNG download fails in Firefox because the anchor isn't appended before .click() | Medium | [#10615](https://github.com/SandeepVashishtha/Eventra/issues/10615) |
-| Bug: handleDownload doesn't restore isFlipped on html2canvas failure, leaving the ticket stuck on the front face. | Medium | [#10613](https://github.com/SandeepVashishtha/Eventra/issues/10613) |
-| Bug: QR code verification URL uses raw attendeeName with only space-to-dash replacement — apostrophes, accents, ampersands, and empty names produce invalid URLs permanently baked into the exported badge | Medium | [#10588](https://github.com/SandeepVashishtha/Eventra/issues/10588) |
-| Bug: PNG download anchor never appended to document.body before .click() — Firefox requires anchor to be in the DOM for programmatic download; PNG export silently fails for all Firefox users | Medium | [#10586](https://github.com/SandeepVashishtha/Eventra/issues/10586) |
-| Bug: EventBadgeGenerator PDF export renders "certify text at bottom" at y=45/55mm — which is above the centered badge at y=81mm, not below it; the lower half of the PDF is left blank | Medium | [#10583](https://github.com/SandeepVashishtha/Eventra/issues/10583) |
+| Bug: ProjectsTab uses SearchEmptyState for initial empty state instead of a generic empty state | Medium | [#10655](https://github.com/SandeepVashishtha/Eventra/issues/10655) |
+| Bug: ProjectsTab renders raw lastUpdate values without formatting and displays an empty "Updated:" label when lastUpdate is missing | Medium | [#10653](https://github.com/SandeepVashishtha/Eventra/issues/10653) |
+| Bug: HackathonsTab shows search empty state instead of default empty state when no hackathons exist | Medium | [#10648](https://github.com/SandeepVashishtha/Eventra/issues/10648) |
+| Bug: HackathonsTab shows raw dates and missing-location UI without fallbacks | Medium | [#10646](https://github.com/SandeepVashishtha/Eventra/issues/10646) |
 
 ---
 
