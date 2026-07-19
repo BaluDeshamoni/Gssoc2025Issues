@@ -738,11 +738,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🛠 Build Guides 14, 15, 16 | Easy | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
 | 🛠 Build Guides 11, 12, 13 | Easy | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
 | 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
-| Bump @radix-ui/react-slot from 1.2.3 to 1.3.0 | Medium | [#151](https://github.com/SamXop123/RigCrafter/pull/151) |
-| Bump tailwindcss from 3.4.18 to 4.3.2 | Medium | [#150](https://github.com/SamXop123/RigCrafter/pull/150) |
-| Bump @radix-ui/react-accordion from 1.2.12 to 1.2.16 | Medium | [#149](https://github.com/SamXop123/RigCrafter/pull/149) |
-| Bump sonner from 1.7.4 to 2.0.7 | Medium | [#148](https://github.com/SamXop123/RigCrafter/pull/148) |
-| Bump @radix-ui/react-select from 2.2.6 to 2.3.3 | Medium | [#147](https://github.com/SamXop123/RigCrafter/pull/147) |
 
 ---
 
@@ -1014,7 +1009,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the production-dependencies group across 1 directory with 30 updates | Medium | [#125](https://github.com/CoderUzumaki/PrepEdge-AI/pull/125) |
+| chore(deps): bump the production-dependencies group across 1 directory with 31 updates | Medium | [#126](https://github.com/CoderUzumaki/PrepEdge-AI/pull/126) |
 | Install Vercel Web Analytics | Medium | [#121](https://github.com/CoderUzumaki/PrepEdge-AI/pull/121) |
 | chore(deps-dev): bump eslint-plugin-react-refresh from 0.4.26 to 0.5.2 | Medium | [#119](https://github.com/CoderUzumaki/PrepEdge-AI/pull/119) |
 | chore(deps-dev): bump vitest from 3.2.6 to 4.1.8 | Medium | [#118](https://github.com/CoderUzumaki/PrepEdge-AI/pull/118) |
@@ -1219,6 +1214,17 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
+| UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
+| fix: delete uploaded temp file after processing in syllabus upload route | Medium | [#680](https://github.com/lovelymahor/StudyMatePlus/pull/680) |
+| Bug: Uploaded files in /api/syllabus/upload are never deleted from disk — causes unbounded storage growth and file retention risk | Medium | [#679](https://github.com/lovelymahor/StudyMatePlus/issues/679) |
+| Fix: Prevent adding empty or whitespace-only tasks | Medium | [#677](https://github.com/lovelymahor/StudyMatePlus/pull/677) |
+| bug: Urgent UI fixes (Logo clipping, massive section gap, and light theme text contrast) | Medium | [#676](https://github.com/lovelymahor/StudyMatePlus/issues/676) |
+| Added: global scroll-to-top button on all pages (Fixes #117) | Medium | [#675](https://github.com/lovelymahor/StudyMatePlus/pull/675) |
+| fix: use environment variable REACT_APP_API_URL for API calls in FeedbackModal and Notes | Medium | [#674](https://github.com/lovelymahor/StudyMatePlus/pull/674) |
+| fix: migrate OpenAI SDK integration to v4 and update deprecated model | Medium | [#673](https://github.com/lovelymahor/StudyMatePlus/pull/673) |
+| fix: prevent adding empty or whitespace-only tasks to To-Do list (#670) | Medium | [#672](https://github.com/lovelymahor/StudyMatePlus/pull/672) |
+| feat: Add Dockerization for seamless local development (#510) | Medium | [#671](https://github.com/lovelymahor/StudyMatePlus/pull/671) |
 | Bug: Empty tasks can be added to the To-Do list | Medium | [#670](https://github.com/lovelymahor/StudyMatePlus/issues/670) |
 | Add Empty State Illustrations for Notes, Flashcards, Quizzes, and Tasks | Medium | [#668](https://github.com/lovelymahor/StudyMatePlus/issues/668) |
 | Improve Dark Mode UI Consistency Across the Application | Medium | [#667](https://github.com/lovelymahor/StudyMatePlus/issues/667) |
@@ -1238,17 +1244,6 @@ Fast Workflow Tools
 | Syllabus download and preview are only placeholders | Medium | [#652](https://github.com/lovelymahor/StudyMatePlus/issues/652) |
 | Notes API is missing while the Notes page calls it | Medium | [#651](https://github.com/lovelymahor/StudyMatePlus/issues/651) |
 | account creation | Medium | [#650](https://github.com/lovelymahor/StudyMatePlus/issues/650) |
-| Feature: Implement Google OAuth2 Authentication | Medium | [#649](https://github.com/lovelymahor/StudyMatePlus/issues/649) |
-| footer text is too light and difficult to read in light mode | Medium | [#648](https://github.com/lovelymahor/StudyMatePlus/issues/648) |
-| refactor: extract feedback logic into MVC structure | Medium | [#647](https://github.com/lovelymahor/StudyMatePlus/pull/647) |
-| text color does not seems eye appealing | Medium | [#646](https://github.com/lovelymahor/StudyMatePlus/issues/646) |
-| Password strength check doesn't catch weak patterns | Medium | [#645](https://github.com/lovelymahor/StudyMatePlus/issues/645) |
-| Generic error responses hide the real cause of failures | Medium | [#644](https://github.com/lovelymahor/StudyMatePlus/issues/644) |
-| fix: prevent hero heading text overflow on mobile (#611) | Medium | [#643](https://github.com/lovelymahor/StudyMatePlus/pull/643) |
-| fix: speed up feature card hover transition to 200ms ease-out (#625) | Medium | [#642](https://github.com/lovelymahor/StudyMatePlus/pull/642) |
-| Feature Request: AI-Generated Practice Questions from Syllabus + PYQs | Medium | [#641](https://github.com/lovelymahor/StudyMatePlus/issues/641) |
-| Bug: Mentors Page Not Working | Medium | [#640](https://github.com/lovelymahor/StudyMatePlus/issues/640) |
-| Feature/enhance about mission UI | Medium | [#639](https://github.com/lovelymahor/StudyMatePlus/pull/639) |
 
 ---
 
