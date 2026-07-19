@@ -164,9 +164,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
-| ci(deps): bump crate-ci/typos from 1.47.2 to 1.48.0 | Medium | [#934](https://github.com/alienx5499/SortVision/pull/934) |
-| ci(deps): bump actions/cache from 5.0.5 to 6.1.0 | Medium | [#933](https://github.com/alienx5499/SortVision/pull/933) |
-| ci(deps): bump trufflesecurity/trufflehog from 3.95.6 to 3.95.7 in the security-actions group | Medium | [#932](https://github.com/alienx5499/SortVision/pull/932) |
 | feat: add live speed control and sorting step explanations | Medium | [#865](https://github.com/alienx5499/SortVision/pull/865) |
 | Add Step-by-Step Explanation Mode Alongside Sorting Visualization | Medium | [#710](https://github.com/alienx5499/SortVision/issues/710) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
@@ -201,7 +198,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | UI/UX Enhancement And  New features  Enhancements | Medium | [#80](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/80) |
 | Issue regarding the User Interface and styling | Medium | [#79](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/79) |
 | Add Loading Indicator While Fetching Weather Data | Medium | [#78](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/78) |
-| fixed the Dublicate fetch calls | Medium | [#77](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/77) |
 | Fix: integrated API (#21) | Medium | [#76](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/76) |
 | Fix: made the background dynamic, shows rain whenever the weather is … | Medium | [#75](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/75) |
 | Missing: Live Server | Medium | [#74](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/74) |
@@ -220,6 +216,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Missing Favicon | Medium | [#61](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/61) |
 | day-name logic updated #49 | Medium | [#60](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/60) |
 | ISSUE:-Improving the folder structure | Medium | [#59](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/issues/59) |
+| Create LICENSE | Medium | [#55](https://github.com/PreetySinha84/VerveBridge-Task-1-Weather-App/pull/55) |
 
 ---
 
@@ -568,6 +565,21 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
+| UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
+| fix: delete uploaded temp file after processing in syllabus upload route | Medium | [#680](https://github.com/lovelymahor/StudyMatePlus/pull/680) |
+| Bug: Uploaded files in /api/syllabus/upload are never deleted from disk — causes unbounded storage growth and file retention risk | Medium | [#679](https://github.com/lovelymahor/StudyMatePlus/issues/679) |
+| Fix: Prevent adding empty or whitespace-only tasks | Medium | [#677](https://github.com/lovelymahor/StudyMatePlus/pull/677) |
+| bug: Urgent UI fixes (Logo clipping, massive section gap, and light theme text contrast) | Medium | [#676](https://github.com/lovelymahor/StudyMatePlus/issues/676) |
+| Added: global scroll-to-top button on all pages (Fixes #117) | Medium | [#675](https://github.com/lovelymahor/StudyMatePlus/pull/675) |
+| fix: use environment variable REACT_APP_API_URL for API calls in FeedbackModal and Notes | Medium | [#674](https://github.com/lovelymahor/StudyMatePlus/pull/674) |
+| fix: migrate OpenAI SDK integration to v4 and update deprecated model | Medium | [#673](https://github.com/lovelymahor/StudyMatePlus/pull/673) |
+| fix: prevent adding empty or whitespace-only tasks to To-Do list (#670) | Medium | [#672](https://github.com/lovelymahor/StudyMatePlus/pull/672) |
+| feat: Add Dockerization for seamless local development (#510) | Medium | [#671](https://github.com/lovelymahor/StudyMatePlus/pull/671) |
+| Bug: Empty tasks can be added to the To-Do list | Medium | [#670](https://github.com/lovelymahor/StudyMatePlus/issues/670) |
+| Add Empty State Illustrations for Notes, Flashcards, Quizzes, and Tasks | Medium | [#668](https://github.com/lovelymahor/StudyMatePlus/issues/668) |
+| Improve Dark Mode UI Consistency Across the Application | Medium | [#667](https://github.com/lovelymahor/StudyMatePlus/issues/667) |
+| Registration fails on the "Secure Your Account" step. After entering a valid password and clicking Create Account, the application displays a generic error message: | Medium | [#666](https://github.com/lovelymahor/StudyMatePlus/issues/666) |
 | feat: implement syllabus preview and download functionality | Medium | [#665](https://github.com/lovelymahor/StudyMatePlus/pull/665) |
 | Missing env variable validation on startup | Medium | [#664](https://github.com/lovelymahor/StudyMatePlus/issues/664) |
 | Feature: Add forgot password / reset flow | Medium | [#663](https://github.com/lovelymahor/StudyMatePlus/issues/663) |
@@ -583,21 +595,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Syllabus download and preview are only placeholders | Medium | [#652](https://github.com/lovelymahor/StudyMatePlus/issues/652) |
 | Notes API is missing while the Notes page calls it | Medium | [#651](https://github.com/lovelymahor/StudyMatePlus/issues/651) |
 | account creation | Medium | [#650](https://github.com/lovelymahor/StudyMatePlus/issues/650) |
-| Feature: Implement Google OAuth2 Authentication | Medium | [#649](https://github.com/lovelymahor/StudyMatePlus/issues/649) |
-| footer text is too light and difficult to read in light mode | Medium | [#648](https://github.com/lovelymahor/StudyMatePlus/issues/648) |
-| refactor: extract feedback logic into MVC structure | Medium | [#647](https://github.com/lovelymahor/StudyMatePlus/pull/647) |
-| text color does not seems eye appealing | Medium | [#646](https://github.com/lovelymahor/StudyMatePlus/issues/646) |
-| Password strength check doesn't catch weak patterns | Medium | [#645](https://github.com/lovelymahor/StudyMatePlus/issues/645) |
-| Generic error responses hide the real cause of failures | Medium | [#644](https://github.com/lovelymahor/StudyMatePlus/issues/644) |
-| fix: prevent hero heading text overflow on mobile (#611) | Medium | [#643](https://github.com/lovelymahor/StudyMatePlus/pull/643) |
-| fix: speed up feature card hover transition to 200ms ease-out (#625) | Medium | [#642](https://github.com/lovelymahor/StudyMatePlus/pull/642) |
-| Feature Request: AI-Generated Practice Questions from Syllabus + PYQs | Medium | [#641](https://github.com/lovelymahor/StudyMatePlus/issues/641) |
-| Bug: Mentors Page Not Working | Medium | [#640](https://github.com/lovelymahor/StudyMatePlus/issues/640) |
-| Feature/enhance about mission UI | Medium | [#639](https://github.com/lovelymahor/StudyMatePlus/pull/639) |
-| Add a Resource Rating & Review System for Study Materials | Medium | [#638](https://github.com/lovelymahor/StudyMatePlus/issues/638) |
-| Features section buttons are not working | Medium | [#637](https://github.com/lovelymahor/StudyMatePlus/issues/637) |
-| Create Account Feature is no working | Medium | [#636](https://github.com/lovelymahor/StudyMatePlus/issues/636) |
-| ## 📄 Documentation: Missing `docs/` folder referenced in Project Structure | Medium | [#635](https://github.com/lovelymahor/StudyMatePlus/issues/635) |
 
 ---
 
@@ -653,20 +650,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bug: QR code verification URL uses raw attendeeName with only space-to-dash replacement — apostrophes, accents, ampersands, and empty names produce invalid URLs permanently baked into the exported badge | Medium | [#10588](https://github.com/SandeepVashishtha/Eventra/issues/10588) |
-| Bug: PNG download anchor never appended to document.body before .click() — Firefox requires anchor to be in the DOM for programmatic download; PNG export silently fails for all Firefox users | Medium | [#10586](https://github.com/SandeepVashishtha/Eventra/issues/10586) |
-| Bug: EventBadgeGenerator PDF export renders "certify text at bottom" at y=45/55mm — which is above the centered badge at y=81mm, not below it; the lower half of the PDF is left blank | Medium | [#10584](https://github.com/SandeepVashishtha/Eventra/issues/10584) |
-| Bug: EventBadgeGenerator PDF export renders "certify text at bottom" at y=45/55mm — which is above the centered badge at y=81mm, not below it; the lower half of the PDF is left blank | Medium | [#10583](https://github.com/SandeepVashishtha/Eventra/issues/10583) |
-| Bug: shareUtils fallback copy path still reports failure after successful execCommand | Medium | [#10571](https://github.com/SandeepVashishtha/Eventra/issues/10571) |
-| Bug: registerUtils robustness test fails to normalize stored event keys | Medium | [#10570](https://github.com/SandeepVashishtha/Eventra/issues/10570) |
-| Bug: UserDashboard title overflow helpers are missing from event lists | Medium | [#10569](https://github.com/SandeepVashishtha/Eventra/issues/10569) |
-| Bug: useNotifications test crashes on React dispatcher access | Medium | [#10568](https://github.com/SandeepVashishtha/Eventra/issues/10568) |
-| Bug: useKeyboardShortcuts test crashes on React dispatcher access | Medium | [#10567](https://github.com/SandeepVashishtha/Eventra/issues/10567) |
-| Bug: notificationSync test cannot import mockNotifications JSON in Node | Medium | [#10566](https://github.com/SandeepVashishtha/Eventra/issues/10566) |
-| Bug: useTokenExpiry cannot resolve tokenUtils in timeout tests | Medium | [#10565](https://github.com/SandeepVashishtha/Eventra/issues/10565) |
-| Bug: offlineEventCache cannot resolve safeJsonParse in direct utility tests | Medium | [#10564](https://github.com/SandeepVashishtha/Eventra/issues/10564) |
-| Bug: githubApiClient cannot resolve fetchWithTimeout in direct utility tests | Medium | [#10563](https://github.com/SandeepVashishtha/Eventra/issues/10563) |
-| Bug: feedbackUtils cannot resolve safeJsonParse in direct utility tests | Medium | [#10562](https://github.com/SandeepVashishtha/Eventra/issues/10562) |
+| Bug: ProjectsTab uses SearchEmptyState for initial empty state instead of a generic empty state | Medium | [#10655](https://github.com/SandeepVashishtha/Eventra/issues/10655) |
+| Bug: ProjectsTab renders raw lastUpdate values without formatting and displays an empty "Updated:" label when lastUpdate is missing | Medium | [#10653](https://github.com/SandeepVashishtha/Eventra/issues/10653) |
+| Bug: HackathonsTab shows search empty state instead of default empty state when no hackathons exist | Medium | [#10648](https://github.com/SandeepVashishtha/Eventra/issues/10648) |
+| Bug: HackathonsTab shows raw dates and missing-location UI without fallbacks | Medium | [#10646](https://github.com/SandeepVashishtha/Eventra/issues/10646) |
 
 ---
 
