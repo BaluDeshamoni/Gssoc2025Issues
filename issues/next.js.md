@@ -160,21 +160,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Iimplement infrastructure integration testing suite using LocalStack | Easy | [#5190](https://github.com/OWASP/Nest/pull/5190) |
-| migrate runtime secrets from ssm to aws secrets manager | Easy | [#5141](https://github.com/OWASP/Nest/pull/5141) |
-| feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
-| Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
-| Feat/email service abstraction | Medium | [#5192](https://github.com/OWASP/Nest/pull/5192) |
-| Make Navbar responsive | Medium | [#5184](https://github.com/OWASP/Nest/issues/5184) |
-| inconsistent bottom spacing below search component across pages on mobile | Medium | [#5148](https://github.com/OWASP/Nest/issues/5148) |
-| Add precise type annotations to search helpers | Medium | [#5140](https://github.com/OWASP/Nest/pull/5140) |
-| Snapshot subscription frontend | Medium | [#5136](https://github.com/OWASP/Nest/pull/5136) |
-| Implement Contributor Certificate Frontend UI | Medium | [#5131](https://github.com/OWASP/Nest/pull/5131) |
-| Frontend container hangs indefinitely | Medium | [#5121](https://github.com/OWASP/Nest/issues/5121) |
-| Draft: Improve typing for github_user attributes on GraphQL nodes | Medium | [#5100](https://github.com/OWASP/Nest/pull/5100) |
-| Fix SynchronousOnlyOperation exceptions in mentorship app | Medium | [#5099](https://github.com/OWASP/Nest/pull/5099) |
-| nest_updated_at is never refreshed for records updated via bulk_save | Medium | [#5090](https://github.com/OWASP/Nest/issues/5090) |
-| Store Django sessions in Redis instead of the database | Medium | [#5081](https://github.com/OWASP/Nest/pull/5081) |
+| Refactor and dockerize local makefile targets | Easy | [#5237](https://github.com/OWASP/Nest/pull/5237) |
+| split bootstrap terraform state by environment | Easy | [#5205](https://github.com/OWASP/Nest/pull/5205) |
+| Bump pillow to v12.3.0 | Medium | [#5238](https://github.com/OWASP/Nest/pull/5238) |
+| Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
+| Add a workflow to prevent merging the pull request with renamed volumes | Medium | [#5234](https://github.com/OWASP/Nest/issues/5234) |
+| Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
+| update feature/infrastructure-integration-tests branch | Medium | [#5230](https://github.com/OWASP/Nest/pull/5230) |
+| feat(o11y): export project GitHub stats to VictoriaMetrics with history | Medium | [#5214](https://github.com/OWASP/Nest/pull/5214) |
+| Add security.txt under /.well-known/ per RFC 9116 | Medium | [#5208](https://github.com/OWASP/Nest/pull/5208) |
 
 ---
 
@@ -484,11 +478,14 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump @docusaurus/tsconfig from 3.10.1 to 3.10.2 | Easy | [#1981](https://github.com/recodehive/recode-website/pull/1981) |
-| chore: bump prettier from 3.9.4 to 3.9.5 | Easy | [#1980](https://github.com/recodehive/recode-website/pull/1980) |
-| chore: bump @docusaurus/plugin-google-analytics from 3.10.1 to 3.10.2 | Easy | [#1978](https://github.com/recodehive/recode-website/pull/1978) |
-| chore: bump @floating-ui/react from 0.27.19 to 0.27.20 | Easy | [#1977](https://github.com/recodehive/recode-website/pull/1977) |
-| chore: bump @tsparticles/slim from 4.2.1 to 4.3.2 | Easy | [#1976](https://github.com/recodehive/recode-website/pull/1976) |
+| chore: bump @docusaurus/plugin-ideal-image from 3.10.1 to 3.10.2 | Easy | [#2000](https://github.com/recodehive/recode-website/pull/2000) |
+| chore: bump @clerk/react from 6.12.0 to 6.12.5 | Easy | [#1999](https://github.com/recodehive/recode-website/pull/1999) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.63.0 to 8.64.0 | Easy | [#1998](https://github.com/recodehive/recode-website/pull/1998) |
+| chore: bump @docusaurus/theme-search-algolia from 3.10.1 to 3.10.2 | Easy | [#1997](https://github.com/recodehive/recode-website/pull/1997) |
+| chore: bump @docusaurus/theme-classic from 3.10.1 to 3.10.2 | Easy | [#1996](https://github.com/recodehive/recode-website/pull/1996) |
+| Home page FAQ Changes | Easy | [#1990](https://github.com/recodehive/recode-website/issues/1990) |
+| Testimonials replcae the name with recoide contributors | Easy | [#1983](https://github.com/recodehive/recode-website/issues/1983) |
+| reduce the gap between text lines | Easy | [#1982](https://github.com/recodehive/recode-website/issues/1982) |
 | Create get-started-with-recode.md | Easy | [#1924](https://github.com/recodehive/recode-website/pull/1924) |
 | [Feature]: Change to community page | Hard | [#339](https://github.com/recodehive/recode-website/issues/339) |
 
@@ -1132,7 +1129,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(chat): implement conversational-level privacy controls (fixes #231) | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
+| feat: implement user-configurable Ollama URL with backend proxying | Medium | [#295](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/295) |
+| feat: implement conversational-level privacy controls | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
 
 ---
 
@@ -1317,6 +1315,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(product-card): add product card block | Medium | [#142](https://github.com/subhadeeproy3902/mvpblocks/pull/142) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
