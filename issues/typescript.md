@@ -93,21 +93,15 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Iimplement infrastructure integration testing suite using LocalStack | Easy | [#5190](https://github.com/OWASP/Nest/pull/5190) |
-| migrate runtime secrets from ssm to aws secrets manager | Easy | [#5141](https://github.com/OWASP/Nest/pull/5141) |
-| feat: add LocalStack-based local infrastructure automation and documentation | Easy | [#5126](https://github.com/OWASP/Nest/pull/5126) |
-| Feat/localstack staging smoke gate | Easy | [#5124](https://github.com/OWASP/Nest/pull/5124) |
-| Feat/email service abstraction | Medium | [#5192](https://github.com/OWASP/Nest/pull/5192) |
-| Make Navbar responsive | Medium | [#5184](https://github.com/OWASP/Nest/issues/5184) |
-| inconsistent bottom spacing below search component across pages on mobile | Medium | [#5148](https://github.com/OWASP/Nest/issues/5148) |
-| Add precise type annotations to search helpers | Medium | [#5140](https://github.com/OWASP/Nest/pull/5140) |
-| Snapshot subscription frontend | Medium | [#5136](https://github.com/OWASP/Nest/pull/5136) |
-| Implement Contributor Certificate Frontend UI | Medium | [#5131](https://github.com/OWASP/Nest/pull/5131) |
-| Frontend container hangs indefinitely | Medium | [#5121](https://github.com/OWASP/Nest/issues/5121) |
-| Draft: Improve typing for github_user attributes on GraphQL nodes | Medium | [#5100](https://github.com/OWASP/Nest/pull/5100) |
-| Fix SynchronousOnlyOperation exceptions in mentorship app | Medium | [#5099](https://github.com/OWASP/Nest/pull/5099) |
-| nest_updated_at is never refreshed for records updated via bulk_save | Medium | [#5090](https://github.com/OWASP/Nest/issues/5090) |
-| Store Django sessions in Redis instead of the database | Medium | [#5081](https://github.com/OWASP/Nest/pull/5081) |
+| Refactor and dockerize local makefile targets | Easy | [#5237](https://github.com/OWASP/Nest/pull/5237) |
+| split bootstrap terraform state by environment | Easy | [#5205](https://github.com/OWASP/Nest/pull/5205) |
+| Bump pillow to v12.3.0 | Medium | [#5238](https://github.com/OWASP/Nest/pull/5238) |
+| Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
+| Add a workflow to prevent merging the pull request with renamed volumes | Medium | [#5234](https://github.com/OWASP/Nest/issues/5234) |
+| Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
+| update feature/infrastructure-integration-tests branch | Medium | [#5230](https://github.com/OWASP/Nest/pull/5230) |
+| feat(o11y): export project GitHub stats to VictoriaMetrics with history | Medium | [#5214](https://github.com/OWASP/Nest/pull/5214) |
+| Add security.txt under /.well-known/ per RFC 9116 | Medium | [#5208](https://github.com/OWASP/Nest/pull/5208) |
 
 ---
 
@@ -467,11 +461,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🛠 Build Guides 14, 15, 16 | Easy | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
 | 🛠 Build Guides 11, 12, 13 | Easy | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
 | 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
-| Bump @radix-ui/react-slot from 1.2.3 to 1.3.0 | Medium | [#151](https://github.com/SamXop123/RigCrafter/pull/151) |
-| Bump tailwindcss from 3.4.18 to 4.3.2 | Medium | [#150](https://github.com/SamXop123/RigCrafter/pull/150) |
-| Bump @radix-ui/react-accordion from 1.2.12 to 1.2.16 | Medium | [#149](https://github.com/SamXop123/RigCrafter/pull/149) |
-| Bump sonner from 1.7.4 to 2.0.7 | Medium | [#148](https://github.com/SamXop123/RigCrafter/pull/148) |
-| Bump @radix-ui/react-select from 2.2.6 to 2.3.3 | Medium | [#147](https://github.com/SamXop123/RigCrafter/pull/147) |
 
 ---
 
@@ -1255,6 +1244,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(product-card): add product card block | Medium | [#142](https://github.com/subhadeeproy3902/mvpblocks/pull/142) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
