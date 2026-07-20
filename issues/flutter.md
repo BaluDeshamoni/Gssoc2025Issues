@@ -48,6 +48,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: `.gradle/` directory and `build.gradle` files are committed — these are Android build artifacts that should be gitignored, causing unnecessary repository bloat and platform-specific conflicts | Medium | [#487](https://github.com/andoriyaprashant/OpSo/issues/487) |
+| security: `.env` file with actual environment values is committed to the repository root — any secrets it contains are publicly visible to all GitHub visitors and in git history permanently | Medium | [#484](https://github.com/andoriyaprashant/OpSo/issues/484) |
 | docs: update issue tracker link in README | Medium | [#483](https://github.com/andoriyaprashant/OpSo/pull/483) |
 | feat: add offline support using `hive` local database — OpSo currently requires internet connectivity to display program information, showing a blank screen with no cached data when offline | Medium | [#482](https://github.com/andoriyaprashant/OpSo/issues/482) |
 | feat: add a "Deadline Countdown" and calendar reminder feature to program detail screens — users currently see application dates as static text but have no way to track upcoming deadlines or add them to their device calendar | Medium | [#481](https://github.com/andoriyaprashant/OpSo/issues/481) |
