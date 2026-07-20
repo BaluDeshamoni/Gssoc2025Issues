@@ -14,15 +14,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor and dockerize local makefile targets | Easy | [#5237](https://github.com/OWASP/Nest/pull/5237) |
-| split bootstrap terraform state by environment | Easy | [#5205](https://github.com/OWASP/Nest/pull/5205) |
-| Bump pillow to v12.3.0 | Medium | [#5238](https://github.com/OWASP/Nest/pull/5238) |
+| Bump terraform to v1.15.0 | Easy | [#5253](https://github.com/OWASP/Nest/pull/5253) |
+| chore(deps): bump the version-updates group across 2 directories with 3 updates | Medium | [#5250](https://github.com/OWASP/Nest/pull/5250) |
+| Optimize ChapterNode | Medium | [#5248](https://github.com/OWASP/Nest/pull/5248) |
+| Optimize CommitteeNode | Medium | [#5247](https://github.com/OWASP/Nest/pull/5247) |
+| Optimize basic resolvers in `GenericEntityNode` | Medium | [#5246](https://github.com/OWASP/Nest/pull/5246) |
+| Optimize OWASP ProjectNode | Medium | [#5240](https://github.com/OWASP/Nest/pull/5240) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
 | Add a workflow to prevent merging the pull request with renamed volumes | Medium | [#5234](https://github.com/OWASP/Nest/issues/5234) |
 | Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
-| update feature/infrastructure-integration-tests branch | Medium | [#5230](https://github.com/OWASP/Nest/pull/5230) |
-| feat(o11y): export project GitHub stats to VictoriaMetrics with history | Medium | [#5214](https://github.com/OWASP/Nest/pull/5214) |
-| Add security.txt under /.well-known/ per RFC 9116 | Medium | [#5208](https://github.com/OWASP/Nest/pull/5208) |
 
 ---
 
