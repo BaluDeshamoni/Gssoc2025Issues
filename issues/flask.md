@@ -368,6 +368,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| FEATURE: <brief description>Implement Interactive Custom Cursor Animations for an Enhanced User Experience | Medium | [#303](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/303) |
 | feat: implement user-configurable Ollama URL with backend proxying | Medium | [#295](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/295) |
 | feat: implement conversational-level privacy controls | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
 
