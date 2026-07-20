@@ -565,6 +565,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Optimize testimonials section for smoother scrolling | Medium | [#683](https://github.com/lovelymahor/StudyMatePlus/pull/683) |
 | fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
 | UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
 | fix: delete uploaded temp file after processing in syllabus upload route | Medium | [#680](https://github.com/lovelymahor/StudyMatePlus/pull/680) |
@@ -594,7 +595,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Standalone Submit Feedback form does not submit to backend | Medium | [#653](https://github.com/lovelymahor/StudyMatePlus/issues/653) |
 | Syllabus download and preview are only placeholders | Medium | [#652](https://github.com/lovelymahor/StudyMatePlus/issues/652) |
 | Notes API is missing while the Notes page calls it | Medium | [#651](https://github.com/lovelymahor/StudyMatePlus/issues/651) |
-| account creation | Medium | [#650](https://github.com/lovelymahor/StudyMatePlus/issues/650) |
 
 ---
 
@@ -650,6 +650,12 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps-dev): bump @storybook/preset-create-react-app from 10.4.1 to 10.5.2 | Medium | [#10669](https://github.com/SandeepVashishtha/Eventra/pull/10669) |
+| chore(deps-dev): bump @vitejs/plugin-react from 6.0.2 to 6.0.3 | Medium | [#10668](https://github.com/SandeepVashishtha/Eventra/pull/10668) |
+| chore(deps-dev): bump the tailwind group with 3 updates | Medium | [#10667](https://github.com/SandeepVashishtha/Eventra/pull/10667) |
+| chore(deps): bump framer-motion from 11.18.2 to 12.42.2 in the framer-motion group | Medium | [#10666](https://github.com/SandeepVashishtha/Eventra/pull/10666) |
+| chore(deps): bump the react-ecosystem group with 5 updates | Medium | [#10665](https://github.com/SandeepVashishtha/Eventra/pull/10665) |
+| Bug: Multiple isCoolingDown() calls can cause inconsistent cooldown UI | Medium | [#10660](https://github.com/SandeepVashishtha/Eventra/issues/10660) |
 | Bug: ProjectsTab uses SearchEmptyState for initial empty state instead of a generic empty state | Medium | [#10655](https://github.com/SandeepVashishtha/Eventra/issues/10655) |
 | Bug: ProjectsTab renders raw lastUpdate values without formatting and displays an empty "Updated:" label when lastUpdate is missing | Medium | [#10653](https://github.com/SandeepVashishtha/Eventra/issues/10653) |
 | Bug: HackathonsTab shows search empty state instead of default empty state when no hackathons exist | Medium | [#10648](https://github.com/SandeepVashishtha/Eventra/issues/10648) |
