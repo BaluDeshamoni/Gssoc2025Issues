@@ -267,15 +267,15 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Refactor and dockerize local makefile targets | Easy | [#5237](https://github.com/OWASP/Nest/pull/5237) |
-| split bootstrap terraform state by environment | Easy | [#5205](https://github.com/OWASP/Nest/pull/5205) |
-| Bump pillow to v12.3.0 | Medium | [#5238](https://github.com/OWASP/Nest/pull/5238) |
+| Bump terraform to v1.15.0 | Easy | [#5253](https://github.com/OWASP/Nest/pull/5253) |
+| chore(deps): bump the version-updates group across 2 directories with 3 updates | Medium | [#5250](https://github.com/OWASP/Nest/pull/5250) |
+| Optimize ChapterNode | Medium | [#5248](https://github.com/OWASP/Nest/pull/5248) |
+| Optimize CommitteeNode | Medium | [#5247](https://github.com/OWASP/Nest/pull/5247) |
+| Optimize basic resolvers in `GenericEntityNode` | Medium | [#5246](https://github.com/OWASP/Nest/pull/5246) |
+| Optimize OWASP ProjectNode | Medium | [#5240](https://github.com/OWASP/Nest/pull/5240) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
 | Add a workflow to prevent merging the pull request with renamed volumes | Medium | [#5234](https://github.com/OWASP/Nest/issues/5234) |
 | Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
-| update feature/infrastructure-integration-tests branch | Medium | [#5230](https://github.com/OWASP/Nest/pull/5230) |
-| feat(o11y): export project GitHub stats to VictoriaMetrics with history | Medium | [#5214](https://github.com/OWASP/Nest/pull/5214) |
-| Add security.txt under /.well-known/ per RFC 9116 | Medium | [#5208](https://github.com/OWASP/Nest/pull/5208) |
 
 ---
 
@@ -2421,6 +2421,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Optimize testimonials section for smoother scrolling | Medium | [#683](https://github.com/lovelymahor/StudyMatePlus/pull/683) |
 | fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
 | UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
 | fix: delete uploaded temp file after processing in syllabus upload route | Medium | [#680](https://github.com/lovelymahor/StudyMatePlus/pull/680) |
@@ -2450,7 +2451,6 @@ Fast Workflow Tools
 | Standalone Submit Feedback form does not submit to backend | Medium | [#653](https://github.com/lovelymahor/StudyMatePlus/issues/653) |
 | Syllabus download and preview are only placeholders | Medium | [#652](https://github.com/lovelymahor/StudyMatePlus/issues/652) |
 | Notes API is missing while the Notes page calls it | Medium | [#651](https://github.com/lovelymahor/StudyMatePlus/issues/651) |
-| account creation | Medium | [#650](https://github.com/lovelymahor/StudyMatePlus/issues/650) |
 
 ---
 
@@ -2745,6 +2745,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| FEATURE: <brief description>Implement Interactive Custom Cursor Animations for an Enhanced User Experience | Medium | [#303](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/303) |
 | feat: implement user-configurable Ollama URL with backend proxying | Medium | [#295](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/295) |
 | feat: implement conversational-level privacy controls | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
 
@@ -2832,6 +2833,12 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps-dev): bump @storybook/preset-create-react-app from 10.4.1 to 10.5.2 | Medium | [#10669](https://github.com/SandeepVashishtha/Eventra/pull/10669) |
+| chore(deps-dev): bump @vitejs/plugin-react from 6.0.2 to 6.0.3 | Medium | [#10668](https://github.com/SandeepVashishtha/Eventra/pull/10668) |
+| chore(deps-dev): bump the tailwind group with 3 updates | Medium | [#10667](https://github.com/SandeepVashishtha/Eventra/pull/10667) |
+| chore(deps): bump framer-motion from 11.18.2 to 12.42.2 in the framer-motion group | Medium | [#10666](https://github.com/SandeepVashishtha/Eventra/pull/10666) |
+| chore(deps): bump the react-ecosystem group with 5 updates | Medium | [#10665](https://github.com/SandeepVashishtha/Eventra/pull/10665) |
+| Bug: Multiple isCoolingDown() calls can cause inconsistent cooldown UI | Medium | [#10660](https://github.com/SandeepVashishtha/Eventra/issues/10660) |
 | Bug: ProjectsTab uses SearchEmptyState for initial empty state instead of a generic empty state | Medium | [#10655](https://github.com/SandeepVashishtha/Eventra/issues/10655) |
 | Bug: ProjectsTab renders raw lastUpdate values without formatting and displays an empty "Updated:" label when lastUpdate is missing | Medium | [#10653](https://github.com/SandeepVashishtha/Eventra/issues/10653) |
 | Bug: HackathonsTab shows search empty state instead of default empty state when no hackathons exist | Medium | [#10648](https://github.com/SandeepVashishtha/Eventra/issues/10648) |
