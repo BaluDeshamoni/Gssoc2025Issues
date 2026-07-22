@@ -208,15 +208,13 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump terraform to v1.15.0 | Easy | [#5253](https://github.com/OWASP/Nest/pull/5253) |
-| chore(deps): bump the version-updates group across 2 directories with 3 updates | Medium | [#5250](https://github.com/OWASP/Nest/pull/5250) |
-| Optimize ChapterNode | Medium | [#5248](https://github.com/OWASP/Nest/pull/5248) |
-| Optimize CommitteeNode | Medium | [#5247](https://github.com/OWASP/Nest/pull/5247) |
-| Optimize basic resolvers in `GenericEntityNode` | Medium | [#5246](https://github.com/OWASP/Nest/pull/5246) |
-| Optimize OWASP ProjectNode | Medium | [#5240](https://github.com/OWASP/Nest/pull/5240) |
+| chore(deps): bump dompurify from 3.4.11 to 3.4.12 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#5267](https://github.com/OWASP/Nest/pull/5267) |
+| Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
+| Optimize MemberSnapshotNode | Medium | [#5258](https://github.com/OWASP/Nest/pull/5258) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
 | Add a workflow to prevent merging the pull request with renamed volumes | Medium | [#5234](https://github.com/OWASP/Nest/issues/5234) |
 | Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
+| feat(o11y): export project GitHub stats to VictoriaMetrics with history | Medium | [#5214](https://github.com/OWASP/Nest/pull/5214) |
 
 ---
 
@@ -565,6 +563,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updates README.md | Medium | [#1864](https://github.com/omroy07/AgriTech/pull/1864) |
 | fix: resolve cart visibility issue | Medium | [#1863](https://github.com/omroy07/AgriTech/pull/1863) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
@@ -1053,6 +1052,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI Enhancement: Redesign Navbar with a Premium Modern Look | Medium | [#575](https://github.com/aayushraj1010/med-genie/issues/575) |
 | On Clicking Location , It's showing white bg color . | Medium | [#574](https://github.com/aayushraj1010/med-genie/issues/574) |
 | docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
 | Login/Sign-up button shows "Signing in..." / "Creating account..." on initial page load | Medium | [#572](https://github.com/aayushraj1010/med-genie/issues/572) |
@@ -1081,7 +1081,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Implement HIPAA-compliant medical data encryption and patient privacy controls | Medium | [#547](https://github.com/aayushraj1010/med-genie/issues/547) |
 | Optimize medical data processing with parallel computation and caching strategies | Medium | [#546](https://github.com/aayushraj1010/med-genie/issues/546) |
 | Implement comprehensive symptom checker with AI diagnosis and specialist recommendations | Medium | [#545](https://github.com/aayushraj1010/med-genie/issues/545) |
-| Add Persistent Medical Disclaimer Banner Inside Chat Interface | Medium | [#544](https://github.com/aayushraj1010/med-genie/issues/544) |
 
 ---
 
@@ -1664,7 +1663,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: <brief description>Implement Interactive Custom Cursor Animations for an Enhanced User Experience | Medium | [#303](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/303) |
 | feat: implement user-configurable Ollama URL with backend proxying | Medium | [#295](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/295) |
 | feat: implement conversational-level privacy controls | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
 
