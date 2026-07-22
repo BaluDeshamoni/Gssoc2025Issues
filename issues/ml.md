@@ -425,6 +425,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: implicit global variables in carousel JS | Medium | [#1948](https://github.com/apu52/Travel_Website/pull/1948) |
 | fix: prevent Google Maps iframe from overflowing footer container (#1938) | Medium | [#1947](https://github.com/apu52/Travel_Website/pull/1947) |
 | Fix map overflow issue in footer section | Medium | [#1946](https://github.com/apu52/Travel_Website/pull/1946) |
 | Advanced Accessibility: Fix contrast ratios and implement semantic HTML5 landmarks | Medium | [#1944](https://github.com/apu52/Travel_Website/issues/1944) |
@@ -454,7 +455,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | style: enhance button hover and focus interaction | Medium | [#1920](https://github.com/apu52/Travel_Website/pull/1920) |
 | Add Navbar | Medium | [#1919](https://github.com/apu52/Travel_Website/issues/1919) |
 | Login does not work even after successful registration | Medium | [#1918](https://github.com/apu52/Travel_Website/issues/1918) |
-| 404 Error on Services link in Top Deals section | Medium | [#1917](https://github.com/apu52/Travel_Website/issues/1917) |
 
 ---
 
@@ -818,6 +818,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updates README.md | Medium | [#1864](https://github.com/omroy07/AgriTech/pull/1864) |
 | fix: resolve cart visibility issue | Medium | [#1863](https://github.com/omroy07/AgriTech/pull/1863) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
@@ -1143,8 +1144,12 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🛠️ Build Guides 20, 21, 22 | Easy | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
 | 🛠️ Build Guides 17, 18, 19 | Easy | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
 | 🛠 Build Guides 14, 15, 16 | Easy | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
-| 🛠 Build Guides 11, 12, 13 | Easy | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
 | 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
+| Bump @radix-ui/react-menubar from 1.1.16 to 1.1.21 | Medium | [#156](https://github.com/SamXop123/RigCrafter/pull/156) |
+| Bump @radix-ui/react-label from 2.1.7 to 2.1.12 | Medium | [#155](https://github.com/SamXop123/RigCrafter/pull/155) |
+| Bump @radix-ui/react-accordion from 1.2.16 to 1.2.17 | Medium | [#154](https://github.com/SamXop123/RigCrafter/pull/154) |
+| Bump lucide-react from 0.454.0 to 1.25.0 | Medium | [#153](https://github.com/SamXop123/RigCrafter/pull/153) |
+| Bump @radix-ui/react-tabs from 1.1.13 to 1.1.18 | Medium | [#152](https://github.com/SamXop123/RigCrafter/pull/152) |
 
 ---
 
@@ -1183,6 +1188,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: remove debug console.log statements from production components (#1985) | Easy | [#2005](https://github.com/recodehive/recode-website/pull/2005) |
 | fix: remove debug console.log statements from production components | Easy | [#2004](https://github.com/recodehive/recode-website/pull/2004) |
 | fix: point newsletter popup legal links to real Substack URLs (#1986) | Easy | [#2003](https://github.com/recodehive/recode-website/pull/2003) |
 | chore: bump @docusaurus/plugin-ideal-image from 3.10.1 to 3.10.2 | Easy | [#2000](https://github.com/recodehive/recode-website/pull/2000) |
@@ -1452,6 +1458,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| UI Enhancement: Redesign Navbar with a Premium Modern Look | Medium | [#575](https://github.com/aayushraj1010/med-genie/issues/575) |
 | On Clicking Location , It's showing white bg color . | Medium | [#574](https://github.com/aayushraj1010/med-genie/issues/574) |
 | docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
 | Login/Sign-up button shows "Signing in..." / "Creating account..." on initial page load | Medium | [#572](https://github.com/aayushraj1010/med-genie/issues/572) |
@@ -1480,7 +1487,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Implement HIPAA-compliant medical data encryption and patient privacy controls | Medium | [#547](https://github.com/aayushraj1010/med-genie/issues/547) |
 | Optimize medical data processing with parallel computation and caching strategies | Medium | [#546](https://github.com/aayushraj1010/med-genie/issues/546) |
 | Implement comprehensive symptom checker with AI diagnosis and specialist recommendations | Medium | [#545](https://github.com/aayushraj1010/med-genie/issues/545) |
-| Add Persistent Medical Disclaimer Banner Inside Chat Interface | Medium | [#544](https://github.com/aayushraj1010/med-genie/issues/544) |
 
 ---
 
@@ -2014,6 +2020,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
+| Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
+| Add global styles and premium Login/Register page styling | Medium | [#684](https://github.com/lovelymahor/StudyMatePlus/pull/684) |
 | Optimize testimonials section for smoother scrolling | Medium | [#683](https://github.com/lovelymahor/StudyMatePlus/pull/683) |
 | fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
 | UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
@@ -2041,9 +2050,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
 | Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
 | Feedback page displays hardcoded feedback instead of saved feedback | Medium | [#654](https://github.com/lovelymahor/StudyMatePlus/issues/654) |
-| Standalone Submit Feedback form does not submit to backend | Medium | [#653](https://github.com/lovelymahor/StudyMatePlus/issues/653) |
-| Syllabus download and preview are only placeholders | Medium | [#652](https://github.com/lovelymahor/StudyMatePlus/issues/652) |
-| Notes API is missing while the Notes page calls it | Medium | [#651](https://github.com/lovelymahor/StudyMatePlus/issues/651) |
 
 ---
 
