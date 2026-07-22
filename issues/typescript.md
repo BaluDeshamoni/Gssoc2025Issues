@@ -93,15 +93,13 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump terraform to v1.15.0 | Easy | [#5253](https://github.com/OWASP/Nest/pull/5253) |
-| chore(deps): bump the version-updates group across 2 directories with 3 updates | Medium | [#5250](https://github.com/OWASP/Nest/pull/5250) |
-| Optimize ChapterNode | Medium | [#5248](https://github.com/OWASP/Nest/pull/5248) |
-| Optimize CommitteeNode | Medium | [#5247](https://github.com/OWASP/Nest/pull/5247) |
-| Optimize basic resolvers in `GenericEntityNode` | Medium | [#5246](https://github.com/OWASP/Nest/pull/5246) |
-| Optimize OWASP ProjectNode | Medium | [#5240](https://github.com/OWASP/Nest/pull/5240) |
+| chore(deps): bump dompurify from 3.4.11 to 3.4.12 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#5267](https://github.com/OWASP/Nest/pull/5267) |
+| Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
+| Optimize MemberSnapshotNode | Medium | [#5258](https://github.com/OWASP/Nest/pull/5258) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
 | Add a workflow to prevent merging the pull request with renamed volumes | Medium | [#5234](https://github.com/OWASP/Nest/issues/5234) |
 | Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
+| feat(o11y): export project GitHub stats to VictoriaMetrics with history | Medium | [#5214](https://github.com/OWASP/Nest/pull/5214) |
 
 ---
 
@@ -459,8 +457,12 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🛠️ Build Guides 20, 21, 22 | Easy | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
 | 🛠️ Build Guides 17, 18, 19 | Easy | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
 | 🛠 Build Guides 14, 15, 16 | Easy | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
-| 🛠 Build Guides 11, 12, 13 | Easy | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
 | 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
+| Bump @radix-ui/react-menubar from 1.1.16 to 1.1.21 | Medium | [#156](https://github.com/SamXop123/RigCrafter/pull/156) |
+| Bump @radix-ui/react-label from 2.1.7 to 2.1.12 | Medium | [#155](https://github.com/SamXop123/RigCrafter/pull/155) |
+| Bump @radix-ui/react-accordion from 1.2.16 to 1.2.17 | Medium | [#154](https://github.com/SamXop123/RigCrafter/pull/154) |
+| Bump lucide-react from 0.454.0 to 1.25.0 | Medium | [#153](https://github.com/SamXop123/RigCrafter/pull/153) |
+| Bump @radix-ui/react-tabs from 1.1.13 to 1.1.18 | Medium | [#152](https://github.com/SamXop123/RigCrafter/pull/152) |
 
 ---
 
