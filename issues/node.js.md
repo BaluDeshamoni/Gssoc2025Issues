@@ -925,13 +925,12 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🛠️ Build Guides 20, 21, 22 | Easy | [#136](https://github.com/SamXop123/RigCrafter/issues/136) |
 | 🛠️ Build Guides 17, 18, 19 | Easy | [#135](https://github.com/SamXop123/RigCrafter/issues/135) |
 | 🛠 Build Guides 14, 15, 16 | Easy | [#134](https://github.com/SamXop123/RigCrafter/issues/134) |
-| 🛠 Build Guides 11, 12, 13 | Easy | [#133](https://github.com/SamXop123/RigCrafter/issues/133) |
 | 📚 Build Guides Completion – Contribute 3 Guides to Earn Level-3 Label | Easy | [#129](https://github.com/SamXop123/RigCrafter/issues/129) |
-| Bump @radix-ui/react-slot from 1.2.3 to 1.3.0 | Medium | [#151](https://github.com/SamXop123/RigCrafter/pull/151) |
-| Bump tailwindcss from 3.4.18 to 4.3.2 | Medium | [#150](https://github.com/SamXop123/RigCrafter/pull/150) |
-| Bump @radix-ui/react-accordion from 1.2.12 to 1.2.16 | Medium | [#149](https://github.com/SamXop123/RigCrafter/pull/149) |
-| Bump sonner from 1.7.4 to 2.0.7 | Medium | [#148](https://github.com/SamXop123/RigCrafter/pull/148) |
-| Bump @radix-ui/react-select from 2.2.6 to 2.3.3 | Medium | [#147](https://github.com/SamXop123/RigCrafter/pull/147) |
+| Bump @radix-ui/react-menubar from 1.1.16 to 1.1.21 | Medium | [#156](https://github.com/SamXop123/RigCrafter/pull/156) |
+| Bump @radix-ui/react-label from 2.1.7 to 2.1.12 | Medium | [#155](https://github.com/SamXop123/RigCrafter/pull/155) |
+| Bump @radix-ui/react-accordion from 1.2.16 to 1.2.17 | Medium | [#154](https://github.com/SamXop123/RigCrafter/pull/154) |
+| Bump lucide-react from 0.454.0 to 1.25.0 | Medium | [#153](https://github.com/SamXop123/RigCrafter/pull/153) |
+| Bump @radix-ui/react-tabs from 1.1.13 to 1.1.18 | Medium | [#152](https://github.com/SamXop123/RigCrafter/pull/152) |
 
 ---
 
@@ -1481,6 +1480,21 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
+| Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
+| Add global styles and premium Login/Register page styling | Medium | [#684](https://github.com/lovelymahor/StudyMatePlus/pull/684) |
+| Optimize testimonials section for smoother scrolling | Medium | [#683](https://github.com/lovelymahor/StudyMatePlus/pull/683) |
+| fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
+| UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
+| fix: delete uploaded temp file after processing in syllabus upload route | Medium | [#680](https://github.com/lovelymahor/StudyMatePlus/pull/680) |
+| Bug: Uploaded files in /api/syllabus/upload are never deleted from disk — causes unbounded storage growth and file retention risk | Medium | [#679](https://github.com/lovelymahor/StudyMatePlus/issues/679) |
+| Fix: Prevent adding empty or whitespace-only tasks | Medium | [#677](https://github.com/lovelymahor/StudyMatePlus/pull/677) |
+| bug: Urgent UI fixes (Logo clipping, massive section gap, and light theme text contrast) | Medium | [#676](https://github.com/lovelymahor/StudyMatePlus/issues/676) |
+| Added: global scroll-to-top button on all pages (Fixes #117) | Medium | [#675](https://github.com/lovelymahor/StudyMatePlus/pull/675) |
+| fix: use environment variable REACT_APP_API_URL for API calls in FeedbackModal and Notes | Medium | [#674](https://github.com/lovelymahor/StudyMatePlus/pull/674) |
+| fix: migrate OpenAI SDK integration to v4 and update deprecated model | Medium | [#673](https://github.com/lovelymahor/StudyMatePlus/pull/673) |
+| fix: prevent adding empty or whitespace-only tasks to To-Do list (#670) | Medium | [#672](https://github.com/lovelymahor/StudyMatePlus/pull/672) |
+| feat: Add Dockerization for seamless local development (#510) | Medium | [#671](https://github.com/lovelymahor/StudyMatePlus/pull/671) |
 | Bug: Empty tasks can be added to the To-Do list | Medium | [#670](https://github.com/lovelymahor/StudyMatePlus/issues/670) |
 | Add Empty State Illustrations for Notes, Flashcards, Quizzes, and Tasks | Medium | [#668](https://github.com/lovelymahor/StudyMatePlus/issues/668) |
 | Improve Dark Mode UI Consistency Across the Application | Medium | [#667](https://github.com/lovelymahor/StudyMatePlus/issues/667) |
@@ -1496,21 +1510,6 @@ Fast Workflow Tools
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
 | Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
 | Feedback page displays hardcoded feedback instead of saved feedback | Medium | [#654](https://github.com/lovelymahor/StudyMatePlus/issues/654) |
-| Standalone Submit Feedback form does not submit to backend | Medium | [#653](https://github.com/lovelymahor/StudyMatePlus/issues/653) |
-| Syllabus download and preview are only placeholders | Medium | [#652](https://github.com/lovelymahor/StudyMatePlus/issues/652) |
-| Notes API is missing while the Notes page calls it | Medium | [#651](https://github.com/lovelymahor/StudyMatePlus/issues/651) |
-| account creation | Medium | [#650](https://github.com/lovelymahor/StudyMatePlus/issues/650) |
-| Feature: Implement Google OAuth2 Authentication | Medium | [#649](https://github.com/lovelymahor/StudyMatePlus/issues/649) |
-| footer text is too light and difficult to read in light mode | Medium | [#648](https://github.com/lovelymahor/StudyMatePlus/issues/648) |
-| refactor: extract feedback logic into MVC structure | Medium | [#647](https://github.com/lovelymahor/StudyMatePlus/pull/647) |
-| text color does not seems eye appealing | Medium | [#646](https://github.com/lovelymahor/StudyMatePlus/issues/646) |
-| Password strength check doesn't catch weak patterns | Medium | [#645](https://github.com/lovelymahor/StudyMatePlus/issues/645) |
-| Generic error responses hide the real cause of failures | Medium | [#644](https://github.com/lovelymahor/StudyMatePlus/issues/644) |
-| fix: prevent hero heading text overflow on mobile (#611) | Medium | [#643](https://github.com/lovelymahor/StudyMatePlus/pull/643) |
-| fix: speed up feature card hover transition to 200ms ease-out (#625) | Medium | [#642](https://github.com/lovelymahor/StudyMatePlus/pull/642) |
-| Feature Request: AI-Generated Practice Questions from Syllabus + PYQs | Medium | [#641](https://github.com/lovelymahor/StudyMatePlus/issues/641) |
-| Bug: Mentors Page Not Working | Medium | [#640](https://github.com/lovelymahor/StudyMatePlus/issues/640) |
-| Feature/enhance about mission UI | Medium | [#639](https://github.com/lovelymahor/StudyMatePlus/pull/639) |
 
 ---
 
@@ -1657,7 +1656,6 @@ Fast Workflow Tools
 | fix the hover effect for the smooth transitioning | Medium | [#928](https://github.com/Premkolte/AnimateHub/pull/928) |
 | Add Terms and condition page . | Medium | [#927](https://github.com/Premkolte/AnimateHub/issues/927) |
 | Update the readme with the latest images from website | Medium | [#926](https://github.com/Premkolte/AnimateHub/issues/926) |
-| Update primary color and adjust color scale | Medium | [#920](https://github.com/Premkolte/AnimateHub/pull/920) |
 
 ---
 
@@ -1862,9 +1860,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| docs: improve contribution guidelines | Easy | [#229](https://github.com/ThePlator/NPMChat/pull/229) |
 | fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
 | # [Feature Request] Add Quick Copy Button for Code Blocks in Chat Messages | Medium | [#228](https://github.com/ThePlator/NPMChat/issues/228) |
-| Improve navbar responsiveness across all devices | Medium | [#226](https://github.com/ThePlator/NPMChat/issues/226) |
 | Prevent duplicate socket reconnects caused by accumulated token refresh listeners | Medium | [#196](https://github.com/ThePlator/NPMChat/issues/196) |
 | Challenge correctness is derived from fragile output text | Medium | [#194](https://github.com/ThePlator/NPMChat/issues/194) |
 | Room socket events do not enforce room membership or host permissions | Medium | [#193](https://github.com/ThePlator/NPMChat/issues/193) |
