@@ -444,8 +444,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Fix Client-Side Route Guard and Identity Bypass | Medium | [#755](https://github.com/Dipanita45/HEALCONNECT/pull/755) |
 | Comprehensive Accessibility (a11y) Audit & Fixes | Medium | [#754](https://github.com/Dipanita45/HEALCONNECT/issues/754) |
 | Implement Skeleton Loaders for Dashboard Data Fetching | Medium | [#752](https://github.com/Dipanita45/HEALCONNECT/issues/752) |
-| Unawaited Async Write in Doctor Registration (Race Condition) | Medium | [#750](https://github.com/Dipanita45/HEALCONNECT/issues/750) |
-| Bug in Offline Data Manager (Database Writes) | Medium | [#749](https://github.com/Dipanita45/HEALCONNECT/issues/749) |
 
 ---
 
@@ -1095,19 +1093,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: remove debug console.log statements from production components (#1985) | Easy | [#2005](https://github.com/recodehive/recode-website/pull/2005) |
+| Fix build error: move changelog utility component out of pages directory | Easy | [#2011](https://github.com/recodehive/recode-website/pull/2011) |
+| fix(testimonials): replace testimonial names with recode hive contributors (#1983) | Easy | [#2008](https://github.com/recodehive/recode-website/pull/2008) |
 | fix: remove debug console.log statements from production components | Easy | [#2004](https://github.com/recodehive/recode-website/pull/2004) |
 | fix: point newsletter popup legal links to real Substack URLs (#1986) | Easy | [#2003](https://github.com/recodehive/recode-website/pull/2003) |
 | chore: bump @docusaurus/plugin-ideal-image from 3.10.1 to 3.10.2 | Easy | [#2000](https://github.com/recodehive/recode-website/pull/2000) |
-| chore: bump @clerk/react from 6.12.0 to 6.12.5 | Easy | [#1999](https://github.com/recodehive/recode-website/pull/1999) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.63.0 to 8.64.0 | Easy | [#1998](https://github.com/recodehive/recode-website/pull/1998) |
-| chore: bump @docusaurus/theme-search-algolia from 3.10.1 to 3.10.2 | Easy | [#1997](https://github.com/recodehive/recode-website/pull/1997) |
-| chore: bump @docusaurus/theme-classic from 3.10.1 to 3.10.2 | Easy | [#1996](https://github.com/recodehive/recode-website/pull/1996) |
-| Home page FAQ Changes | Easy | [#1990](https://github.com/recodehive/recode-website/issues/1990) |
-| Testimonials replcae the name with recoide contributors | Easy | [#1983](https://github.com/recodehive/recode-website/issues/1983) |
-| reduce the gap between text lines | Easy | [#1982](https://github.com/recodehive/recode-website/issues/1982) |
-| Create get-started-with-recode.md | Easy | [#1924](https://github.com/recodehive/recode-website/pull/1924) |
-| [Feature]: Change to community page | Hard | [#339](https://github.com/recodehive/recode-website/issues/339) |
 
 ---
 
