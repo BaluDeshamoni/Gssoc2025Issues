@@ -93,13 +93,16 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump dompurify from 3.4.11 to 3.4.12 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#5267](https://github.com/OWASP/Nest/pull/5267) |
+| add dependency maintenance documentation section | Easy | [#5279](https://github.com/OWASP/Nest/pull/5279) |
+| Merge the updates from main | Easy | [#5274](https://github.com/OWASP/Nest/pull/5274) |
+| bump immutable from 5.1.6 to 5.1.8 | Medium | [#5289](https://github.com/OWASP/Nest/pull/5289) |
+| Optimize entity_leaders and entity_channels in ChapterNode | Medium | [#5285](https://github.com/OWASP/Nest/pull/5285) |
+| Optimize OWASP SnapshotNode | Medium | [#5273](https://github.com/OWASP/Nest/pull/5273) |
+| feat(o11y): add RQ worker custom metrics | Medium | [#5272](https://github.com/OWASP/Nest/pull/5272) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
 | Optimize MemberSnapshotNode | Medium | [#5258](https://github.com/OWASP/Nest/pull/5258) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
-| Add a workflow to prevent merging the pull request with renamed volumes | Medium | [#5234](https://github.com/OWASP/Nest/issues/5234) |
 | Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
-| feat(o11y): export project GitHub stats to VictoriaMetrics with history | Medium | [#5214](https://github.com/OWASP/Nest/pull/5214) |
 
 ---
 
@@ -635,15 +638,12 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: implement pagination across global quest dashboards | Medium | [#437](https://github.com/LarytheLord/Adventurers-Guild/pull/437) |
+| feat: Add QuestBriefSchema fields to quest creation API (#257) | Medium | [#447](https://github.com/LarytheLord/Adventurers-Guild/pull/447) |
+| feat: Add secure email change flow with verification to OLD email (#407) | Medium | [#446](https://github.com/LarytheLord/Adventurers-Guild/pull/446) |
+| fix: Move XP reward inside transaction to prevent permanent XP loss (#324) | Medium | [#445](https://github.com/LarytheLord/Adventurers-Guild/pull/445) |
 | fix: resolve 500 error on onboarding due to OAuth ID mismatch and Neon cold start (#428) | Medium | [#429](https://github.com/LarytheLord/Adventurers-Guild/pull/429) |
 | Onboarding fails with 500 Internal Server Error on /api/user/onboarding | Medium | [#428](https://github.com/LarytheLord/Adventurers-Guild/issues/428) |
-| security: Skill Points Validation Missing | Medium | [#426](https://github.com/LarytheLord/Adventurers-Guild/issues/426) |
-| security: Enforce String Length Constraints on Profile Inputs | Medium | [#425](https://github.com/LarytheLord/Adventurers-Guild/issues/425) |
-| feature: Missing Pagination on Global Quest Dashboards | Medium | [#424](https://github.com/LarytheLord/Adventurers-Guild/issues/424) |
 | feature: Implement Account Deletion Mechanics | Medium | [#423](https://github.com/LarytheLord/Adventurers-Guild/issues/423) |
-| bug: Admin Sidebar is Hard to Scroll on Desktop | Medium | [#422](https://github.com/LarytheLord/Adventurers-Guild/issues/422) |
-| bug: Mismatched Rank Calculations Between Header and Leaderboard Table | Medium | [#421](https://github.com/LarytheLord/Adventurers-Guild/issues/421) |
 | feature: Add "Change Password" to Profile Settings | Medium | [#420](https://github.com/LarytheLord/Adventurers-Guild/issues/420) |
 | feat: Guild Master role — intermediate QA gate between student and admin | Medium | [#409](https://github.com/LarytheLord/Adventurers-Guild/issues/409) |
 | feat: Admin Analytics API — platform health metrics | Medium | [#408](https://github.com/LarytheLord/Adventurers-Guild/issues/408) |
@@ -658,6 +658,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
 | Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
+| NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
 
 ---
 
