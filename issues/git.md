@@ -254,6 +254,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Critical Remote Code Execution (RCE) vulnerability in CalculatorTool using JavaScript eval() | Medium | [#578](https://github.com/aayushraj1010/med-genie/issues/578) |
+| LangChain ReAct agent relies on remote prompt pulling without offline fallback | Medium | [#577](https://github.com/aayushraj1010/med-genie/issues/577) |
+| Implement AI model evaluation & safety benchmark harness | Medium | [#576](https://github.com/aayushraj1010/med-genie/issues/576) |
+| UI Enhancement: Redesign Navbar with a Premium Modern Look | Medium | [#575](https://github.com/aayushraj1010/med-genie/issues/575) |
 | On Clicking Location , It's showing white bg color . | Medium | [#574](https://github.com/aayushraj1010/med-genie/issues/574) |
 | docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
 | Login/Sign-up button shows "Signing in..." / "Creating account..." on initial page load | Medium | [#572](https://github.com/aayushraj1010/med-genie/issues/572) |
@@ -279,10 +283,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | fix: chatbot returns error on every query — add API key validation and error handling (#265, #359) | Medium | [#550](https://github.com/aayushraj1010/med-genie/pull/550) |
 | Build medical-grade testing framework with automated compliance checks and monitoring | Medium | [#549](https://github.com/aayushraj1010/med-genie/issues/549) |
 | Enhance user experience with medical visualizations, voice input, and accessibility features | Medium | [#548](https://github.com/aayushraj1010/med-genie/issues/548) |
-| Implement HIPAA-compliant medical data encryption and patient privacy controls | Medium | [#547](https://github.com/aayushraj1010/med-genie/issues/547) |
-| Optimize medical data processing with parallel computation and caching strategies | Medium | [#546](https://github.com/aayushraj1010/med-genie/issues/546) |
-| Implement comprehensive symptom checker with AI diagnosis and specialist recommendations | Medium | [#545](https://github.com/aayushraj1010/med-genie/issues/545) |
-| Add Persistent Medical Disclaimer Banner Inside Chat Interface | Medium | [#544](https://github.com/aayushraj1010/med-genie/issues/544) |
 
 ---
 
@@ -565,6 +565,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
+| Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
+| Add global styles and premium Login/Register page styling | Medium | [#684](https://github.com/lovelymahor/StudyMatePlus/pull/684) |
 | Optimize testimonials section for smoother scrolling | Medium | [#683](https://github.com/lovelymahor/StudyMatePlus/pull/683) |
 | fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
 | UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
@@ -592,9 +595,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
 | Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
 | Feedback page displays hardcoded feedback instead of saved feedback | Medium | [#654](https://github.com/lovelymahor/StudyMatePlus/issues/654) |
-| Standalone Submit Feedback form does not submit to backend | Medium | [#653](https://github.com/lovelymahor/StudyMatePlus/issues/653) |
-| Syllabus download and preview are only placeholders | Medium | [#652](https://github.com/lovelymahor/StudyMatePlus/issues/652) |
-| Notes API is missing while the Notes page calls it | Medium | [#651](https://github.com/lovelymahor/StudyMatePlus/issues/651) |
 
 ---
 
@@ -650,15 +650,23 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps-dev): bump @storybook/preset-create-react-app from 10.4.1 to 10.5.2 | Medium | [#10669](https://github.com/SandeepVashishtha/Eventra/pull/10669) |
-| chore(deps-dev): bump @vitejs/plugin-react from 6.0.2 to 6.0.3 | Medium | [#10668](https://github.com/SandeepVashishtha/Eventra/pull/10668) |
-| chore(deps-dev): bump the tailwind group with 3 updates | Medium | [#10667](https://github.com/SandeepVashishtha/Eventra/pull/10667) |
-| chore(deps): bump framer-motion from 11.18.2 to 12.42.2 in the framer-motion group | Medium | [#10666](https://github.com/SandeepVashishtha/Eventra/pull/10666) |
-| chore(deps): bump the react-ecosystem group with 5 updates | Medium | [#10665](https://github.com/SandeepVashishtha/Eventra/pull/10665) |
-| Bug: Multiple isCoolingDown() calls can cause inconsistent cooldown UI | Medium | [#10660](https://github.com/SandeepVashishtha/Eventra/issues/10660) |
-| Bug: ProjectsTab uses SearchEmptyState for initial empty state instead of a generic empty state | Medium | [#10655](https://github.com/SandeepVashishtha/Eventra/issues/10655) |
-| Bug: ProjectsTab renders raw lastUpdate values without formatting and displays an empty "Updated:" label when lastUpdate is missing | Medium | [#10653](https://github.com/SandeepVashishtha/Eventra/issues/10653) |
-| Bug: HackathonsTab shows search empty state instead of default empty state when no hackathons exist | Medium | [#10648](https://github.com/SandeepVashishtha/Eventra/issues/10648) |
+| chore(deps-dev): bump @storybook/preset-create-react-app from 10.4.1 to 10.5.3 | Easy | [#10669](https://github.com/SandeepVashishtha/Eventra/pull/10669) |
+| chore(deps-dev): bump @vitejs/plugin-react from 6.0.2 to 6.0.3 | Easy | [#10668](https://github.com/SandeepVashishtha/Eventra/pull/10668) |
+| chore(deps): bump framer-motion from 11.18.2 to 12.42.2 in the framer-motion group across 1 directory | Easy | [#10666](https://github.com/SandeepVashishtha/Eventra/pull/10666) |
+| Add speaker badges to Q&A comments from verified speakers | Medium | [#10726](https://github.com/SandeepVashishtha/Eventra/issues/10726) |
+| Add auto-save visual indicator in FloorPlanDesigner | Medium | [#10725](https://github.com/SandeepVashishtha/Eventra/issues/10725) |
+| Add Duplicate Event functionality to admin actions | Medium | [#10724](https://github.com/SandeepVashishtha/Eventra/issues/10724) |
+| Add Microsoft Outlook calendar integration option | Medium | [#10723](https://github.com/SandeepVashishtha/Eventra/issues/10723) |
+| Add bulk import attendees CSV button to dashboard | Medium | [#10722](https://github.com/SandeepVashishtha/Eventra/issues/10722) |
+| Infinite render loop in useFormSubmit due to unmemoized default options | Medium | [#10720](https://github.com/SandeepVashishtha/Eventra/issues/10720) |
+| Cannot create a new poll after closing an active poll in LivePollController | Medium | [#10719](https://github.com/SandeepVashishtha/Eventra/issues/10719) |
+| useStableFilters drops functional state updaters | Medium | [#10718](https://github.com/SandeepVashishtha/Eventra/issues/10718) |
+| Cross-tab bookmark sync overwrites newer local state with older storage state | Medium | [#10717](https://github.com/SandeepVashishtha/Eventra/issues/10717) |
+| Offline queue registration fails silently due to missing endpoint | Medium | [#10716](https://github.com/SandeepVashishtha/Eventra/issues/10716) |
+| deleteNotification fails to decrement global unread count due to async React state updates | Medium | [#10680](https://github.com/SandeepVashishtha/Eventra/issues/10680) |
+| chore(deps-dev): bump the tailwind group across 1 directory with 3 updates | Medium | [#10667](https://github.com/SandeepVashishtha/Eventra/pull/10667) |
+| chore(deps): bump the react-ecosystem group across 1 directory with 5 updates | Medium | [#10665](https://github.com/SandeepVashishtha/Eventra/pull/10665) |
+| Issue: Add RTL (Right-to-Left) Language Support — starting with Arabic | Medium | [#10657](https://github.com/SandeepVashishtha/Eventra/issues/10657) |
 | Bug: HackathonsTab shows raw dates and missing-location UI without fallbacks | Medium | [#10646](https://github.com/SandeepVashishtha/Eventra/issues/10646) |
 
 ---
