@@ -247,14 +247,15 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump terraform to v1.15.0 | Easy | [#5253](https://github.com/OWASP/Nest/pull/5253) |
-| chore(deps): bump the version-updates group across 2 directories with 3 updates | Medium | [#5250](https://github.com/OWASP/Nest/pull/5250) |
-| Optimize ChapterNode | Medium | [#5248](https://github.com/OWASP/Nest/pull/5248) |
-| Optimize CommitteeNode | Medium | [#5247](https://github.com/OWASP/Nest/pull/5247) |
-| Optimize basic resolvers in `GenericEntityNode` | Medium | [#5246](https://github.com/OWASP/Nest/pull/5246) |
-| Optimize OWASP ProjectNode | Medium | [#5240](https://github.com/OWASP/Nest/pull/5240) |
+| add dependency maintenance documentation section | Easy | [#5279](https://github.com/OWASP/Nest/pull/5279) |
+| Merge the updates from main | Easy | [#5274](https://github.com/OWASP/Nest/pull/5274) |
+| bump immutable from 5.1.6 to 5.1.8 | Medium | [#5289](https://github.com/OWASP/Nest/pull/5289) |
+| Optimize entity_leaders and entity_channels in ChapterNode | Medium | [#5285](https://github.com/OWASP/Nest/pull/5285) |
+| Optimize OWASP SnapshotNode | Medium | [#5273](https://github.com/OWASP/Nest/pull/5273) |
+| feat(o11y): add RQ worker custom metrics | Medium | [#5272](https://github.com/OWASP/Nest/pull/5272) |
+| Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
+| Optimize MemberSnapshotNode | Medium | [#5258](https://github.com/OWASP/Nest/pull/5258) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
-| Add a workflow to prevent merging the pull request with renamed volumes | Medium | [#5234](https://github.com/OWASP/Nest/issues/5234) |
 | Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
 
 ---
@@ -507,12 +508,12 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Input Validation and User-Friendly Error Messages Across Forms | Medium | [#758](https://github.com/Dipanita45/HEALCONNECT/issues/758) |
+| Error in page https://healconnect.vercel.app/how-it-works/ | Medium | [#757](https://github.com/Dipanita45/HEALCONNECT/issues/757) |
 | # 🚀 Feature Request: Add Patient Medical History Timeline | Medium | [#756](https://github.com/Dipanita45/HEALCONNECT/issues/756) |
 | Fix Client-Side Route Guard and Identity Bypass | Medium | [#755](https://github.com/Dipanita45/HEALCONNECT/pull/755) |
 | Comprehensive Accessibility (a11y) Audit & Fixes | Medium | [#754](https://github.com/Dipanita45/HEALCONNECT/issues/754) |
 | Implement Skeleton Loaders for Dashboard Data Fetching | Medium | [#752](https://github.com/Dipanita45/HEALCONNECT/issues/752) |
-| Unawaited Async Write in Doctor Registration (Race Condition) | Medium | [#750](https://github.com/Dipanita45/HEALCONNECT/issues/750) |
-| Bug in Offline Data Manager (Database Writes) | Medium | [#749](https://github.com/Dipanita45/HEALCONNECT/issues/749) |
 
 ---
 
@@ -1474,7 +1475,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the production-dependencies group across 1 directory with 31 updates | Medium | [#126](https://github.com/CoderUzumaki/PrepEdge-AI/pull/126) |
+| chore(deps): bump the production-dependencies group across 1 directory with 33 updates | Medium | [#127](https://github.com/CoderUzumaki/PrepEdge-AI/pull/127) |
 | Install Vercel Web Analytics | Medium | [#121](https://github.com/CoderUzumaki/PrepEdge-AI/pull/121) |
 | chore(deps-dev): bump eslint-plugin-react-refresh from 0.4.26 to 0.5.2 | Medium | [#119](https://github.com/CoderUzumaki/PrepEdge-AI/pull/119) |
 | chore(deps-dev): bump vitest from 3.2.6 to 4.1.8 | Medium | [#118](https://github.com/CoderUzumaki/PrepEdge-AI/pull/118) |
@@ -1862,6 +1863,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
+| Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
+| Add global styles and premium Login/Register page styling | Medium | [#684](https://github.com/lovelymahor/StudyMatePlus/pull/684) |
 | Optimize testimonials section for smoother scrolling | Medium | [#683](https://github.com/lovelymahor/StudyMatePlus/pull/683) |
 | fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
 | UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
@@ -1889,9 +1893,6 @@ Fast Workflow Tools
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
 | Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
 | Feedback page displays hardcoded feedback instead of saved feedback | Medium | [#654](https://github.com/lovelymahor/StudyMatePlus/issues/654) |
-| Standalone Submit Feedback form does not submit to backend | Medium | [#653](https://github.com/lovelymahor/StudyMatePlus/issues/653) |
-| Syllabus download and preview are only placeholders | Medium | [#652](https://github.com/lovelymahor/StudyMatePlus/issues/652) |
-| Notes API is missing while the Notes page calls it | Medium | [#651](https://github.com/lovelymahor/StudyMatePlus/issues/651) |
 
 ---
 
@@ -2118,7 +2119,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: <brief description>Implement Interactive Custom Cursor Animations for an Enhanced User Experience | Medium | [#303](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/303) |
 | feat: implement user-configurable Ollama URL with backend proxying | Medium | [#295](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/295) |
 | feat: implement conversational-level privacy controls | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
 
@@ -2164,15 +2164,23 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps-dev): bump @storybook/preset-create-react-app from 10.4.1 to 10.5.2 | Medium | [#10669](https://github.com/SandeepVashishtha/Eventra/pull/10669) |
-| chore(deps-dev): bump @vitejs/plugin-react from 6.0.2 to 6.0.3 | Medium | [#10668](https://github.com/SandeepVashishtha/Eventra/pull/10668) |
-| chore(deps-dev): bump the tailwind group with 3 updates | Medium | [#10667](https://github.com/SandeepVashishtha/Eventra/pull/10667) |
-| chore(deps): bump framer-motion from 11.18.2 to 12.42.2 in the framer-motion group | Medium | [#10666](https://github.com/SandeepVashishtha/Eventra/pull/10666) |
-| chore(deps): bump the react-ecosystem group with 5 updates | Medium | [#10665](https://github.com/SandeepVashishtha/Eventra/pull/10665) |
-| Bug: Multiple isCoolingDown() calls can cause inconsistent cooldown UI | Medium | [#10660](https://github.com/SandeepVashishtha/Eventra/issues/10660) |
-| Bug: ProjectsTab uses SearchEmptyState for initial empty state instead of a generic empty state | Medium | [#10655](https://github.com/SandeepVashishtha/Eventra/issues/10655) |
-| Bug: ProjectsTab renders raw lastUpdate values without formatting and displays an empty "Updated:" label when lastUpdate is missing | Medium | [#10653](https://github.com/SandeepVashishtha/Eventra/issues/10653) |
-| Bug: HackathonsTab shows search empty state instead of default empty state when no hackathons exist | Medium | [#10648](https://github.com/SandeepVashishtha/Eventra/issues/10648) |
+| chore(deps-dev): bump @storybook/preset-create-react-app from 10.4.1 to 10.5.3 | Easy | [#10669](https://github.com/SandeepVashishtha/Eventra/pull/10669) |
+| chore(deps-dev): bump @vitejs/plugin-react from 6.0.2 to 6.0.3 | Easy | [#10668](https://github.com/SandeepVashishtha/Eventra/pull/10668) |
+| chore(deps): bump framer-motion from 11.18.2 to 12.42.2 in the framer-motion group across 1 directory | Easy | [#10666](https://github.com/SandeepVashishtha/Eventra/pull/10666) |
+| Add speaker badges to Q&A comments from verified speakers | Medium | [#10726](https://github.com/SandeepVashishtha/Eventra/issues/10726) |
+| Add auto-save visual indicator in FloorPlanDesigner | Medium | [#10725](https://github.com/SandeepVashishtha/Eventra/issues/10725) |
+| Add Duplicate Event functionality to admin actions | Medium | [#10724](https://github.com/SandeepVashishtha/Eventra/issues/10724) |
+| Add Microsoft Outlook calendar integration option | Medium | [#10723](https://github.com/SandeepVashishtha/Eventra/issues/10723) |
+| Add bulk import attendees CSV button to dashboard | Medium | [#10722](https://github.com/SandeepVashishtha/Eventra/issues/10722) |
+| Infinite render loop in useFormSubmit due to unmemoized default options | Medium | [#10720](https://github.com/SandeepVashishtha/Eventra/issues/10720) |
+| Cannot create a new poll after closing an active poll in LivePollController | Medium | [#10719](https://github.com/SandeepVashishtha/Eventra/issues/10719) |
+| useStableFilters drops functional state updaters | Medium | [#10718](https://github.com/SandeepVashishtha/Eventra/issues/10718) |
+| Cross-tab bookmark sync overwrites newer local state with older storage state | Medium | [#10717](https://github.com/SandeepVashishtha/Eventra/issues/10717) |
+| Offline queue registration fails silently due to missing endpoint | Medium | [#10716](https://github.com/SandeepVashishtha/Eventra/issues/10716) |
+| deleteNotification fails to decrement global unread count due to async React state updates | Medium | [#10680](https://github.com/SandeepVashishtha/Eventra/issues/10680) |
+| chore(deps-dev): bump the tailwind group across 1 directory with 3 updates | Medium | [#10667](https://github.com/SandeepVashishtha/Eventra/pull/10667) |
+| chore(deps): bump the react-ecosystem group across 1 directory with 5 updates | Medium | [#10665](https://github.com/SandeepVashishtha/Eventra/pull/10665) |
+| Issue: Add RTL (Right-to-Left) Language Support — starting with Arabic | Medium | [#10657](https://github.com/SandeepVashishtha/Eventra/issues/10657) |
 | Bug: HackathonsTab shows raw dates and missing-location UI without fallbacks | Medium | [#10646](https://github.com/SandeepVashishtha/Eventra/issues/10646) |
 
 ---
