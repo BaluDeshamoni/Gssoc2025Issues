@@ -14,14 +14,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump terraform to v1.15.0 | Easy | [#5253](https://github.com/OWASP/Nest/pull/5253) |
-| chore(deps): bump the version-updates group across 2 directories with 3 updates | Medium | [#5250](https://github.com/OWASP/Nest/pull/5250) |
-| Optimize ChapterNode | Medium | [#5248](https://github.com/OWASP/Nest/pull/5248) |
-| Optimize CommitteeNode | Medium | [#5247](https://github.com/OWASP/Nest/pull/5247) |
-| Optimize basic resolvers in `GenericEntityNode` | Medium | [#5246](https://github.com/OWASP/Nest/pull/5246) |
-| Optimize OWASP ProjectNode | Medium | [#5240](https://github.com/OWASP/Nest/pull/5240) |
+| Merge the updates from main | Easy | [#5274](https://github.com/OWASP/Nest/pull/5274) |
+| Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
+| Clean up entity leaders and entity channels from GenericEntityNode | Medium | [#5301](https://github.com/OWASP/Nest/pull/5301) |
+| Optimize entity leaders and entity channels in CommitteeNode | Medium | [#5300](https://github.com/OWASP/Nest/pull/5300) |
+| Optimize entity channels and entity leaders in ProjectNode | Medium | [#5299](https://github.com/OWASP/Nest/pull/5299) |
+| Feat: docker volume name check | Medium | [#5296](https://github.com/OWASP/Nest/pull/5296) |
+| fix: revert db volume name and add compose volume name check | Medium | [#5295](https://github.com/OWASP/Nest/pull/5295) |
+| Optimize entity_leaders and entity_channels in ChapterNode | Medium | [#5285](https://github.com/OWASP/Nest/pull/5285) |
+| Optimize OWASP SnapshotNode | Medium | [#5273](https://github.com/OWASP/Nest/pull/5273) |
+| feat(o11y): add RQ worker custom metrics | Medium | [#5272](https://github.com/OWASP/Nest/pull/5272) |
+| Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
+| Optimize MemberSnapshotNode | Medium | [#5258](https://github.com/OWASP/Nest/pull/5258) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
-| Add a workflow to prevent merging the pull request with renamed volumes | Medium | [#5234](https://github.com/OWASP/Nest/issues/5234) |
 | Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
 
 ---
