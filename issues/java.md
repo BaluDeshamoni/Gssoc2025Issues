@@ -316,6 +316,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: address validation and contributors page boundary fixes | Medium | [#1949](https://github.com/apu52/Travel_Website/pull/1949) |
 | fix: implicit global variables in carousel JS | Medium | [#1948](https://github.com/apu52/Travel_Website/pull/1948) |
 | fix: prevent Google Maps iframe from overflowing footer container (#1938) | Medium | [#1947](https://github.com/apu52/Travel_Website/pull/1947) |
 | Fix map overflow issue in footer section | Medium | [#1946](https://github.com/apu52/Travel_Website/pull/1946) |
@@ -345,7 +346,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | UI Enhancement | Medium | [#1921](https://github.com/apu52/Travel_Website/issues/1921) |
 | style: enhance button hover and focus interaction | Medium | [#1920](https://github.com/apu52/Travel_Website/pull/1920) |
 | Add Navbar | Medium | [#1919](https://github.com/apu52/Travel_Website/issues/1919) |
-| Login does not work even after successful registration | Medium | [#1918](https://github.com/apu52/Travel_Website/issues/1918) |
 
 ---
 
@@ -1096,8 +1096,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fix build error: move changelog utility component out of pages directory | Easy | [#2011](https://github.com/recodehive/recode-website/pull/2011) |
 | fix(testimonials): replace testimonial names with recode hive contributors (#1983) | Easy | [#2008](https://github.com/recodehive/recode-website/pull/2008) |
 | fix: remove debug console.log statements from production components | Easy | [#2004](https://github.com/recodehive/recode-website/pull/2004) |
-| fix: point newsletter popup legal links to real Substack URLs (#1986) | Easy | [#2003](https://github.com/recodehive/recode-website/pull/2003) |
-| chore: bump @docusaurus/plugin-ideal-image from 3.10.1 to 3.10.2 | Easy | [#2000](https://github.com/recodehive/recode-website/pull/2000) |
 
 ---
 
@@ -1935,6 +1933,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(login): improve login page UI | Medium | [#687](https://github.com/lovelymahor/StudyMatePlus/pull/687) |
 | Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
 | Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
 | Add global styles and premium Login/Register page styling | Medium | [#684](https://github.com/lovelymahor/StudyMatePlus/pull/684) |
@@ -1964,7 +1963,6 @@ Fast Workflow Tools
 | fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
 | Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
-| Feedback page displays hardcoded feedback instead of saved feedback | Medium | [#654](https://github.com/lovelymahor/StudyMatePlus/issues/654) |
 
 ---
 
