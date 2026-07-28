@@ -192,14 +192,14 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Bump terraform to v1.15.0 | Easy | [#5253](https://github.com/OWASP/Nest/pull/5253) |
-| chore(deps): bump the version-updates group across 2 directories with 3 updates | Medium | [#5250](https://github.com/OWASP/Nest/pull/5250) |
-| Optimize ChapterNode | Medium | [#5248](https://github.com/OWASP/Nest/pull/5248) |
-| Optimize CommitteeNode | Medium | [#5247](https://github.com/OWASP/Nest/pull/5247) |
-| Optimize basic resolvers in `GenericEntityNode` | Medium | [#5246](https://github.com/OWASP/Nest/pull/5246) |
-| Optimize OWASP ProjectNode | Medium | [#5240](https://github.com/OWASP/Nest/pull/5240) |
+| Add Django Comand To Generate Candidate Claims | Medium | [#5313](https://github.com/OWASP/Nest/pull/5313) |
+| Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
+| Optimize entity leaders and entity channels in CommitteeNode | Medium | [#5300](https://github.com/OWASP/Nest/pull/5300) |
+| Optimize OWASP SnapshotNode | Medium | [#5273](https://github.com/OWASP/Nest/pull/5273) |
+| feat(o11y): add RQ worker custom metrics | Medium | [#5272](https://github.com/OWASP/Nest/pull/5272) |
+| Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
+| Optimize MemberSnapshotNode | Medium | [#5258](https://github.com/OWASP/Nest/pull/5258) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
-| Add a workflow to prevent merging the pull request with renamed volumes | Medium | [#5234](https://github.com/OWASP/Nest/issues/5234) |
 | Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
 
 ---
@@ -913,6 +913,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Unrealistic / Distracting Image Hover Effect | Easy | [#93](https://github.com/Sahilll94/Travel-Book/issues/93) |
+| Create `src/utils` Directory for Common Helper Functions | Easy | [#91](https://github.com/Sahilll94/Travel-Book/issues/91) |
 | feat: create Hero component for the landing page, including navigatio… | Medium | [#129](https://github.com/Sahilll94/Travel-Book/pull/129) |
 | Improve Contributors Button UI and Landing Page Visual Polish | Medium | [#128](https://github.com/Sahilll94/Travel-Book/pull/128) |
 | docs: add environment variables summary section | Medium | [#127](https://github.com/Sahilll94/Travel-Book/pull/127) |
@@ -925,7 +926,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | Add descriptive alt text to landing page images | Medium | [#113](https://github.com/Sahilll94/Travel-Book/pull/113) |
 | Enhance Footer UI for Better Visual Hierarchy and Modern Look | Medium | [#111](https://github.com/Sahilll94/Travel-Book/pull/111) |
 | Add social media icons to Contributors page footer | Medium | [#108](https://github.com/Sahilll94/Travel-Book/issues/108) |
-| Improve mobile responsiveness for navbar and hero section | Medium | [#101](https://github.com/Sahilll94/Travel-Book/pull/101) |
 | Corrected unordered list with list items | Medium | [#100](https://github.com/Sahilll94/Travel-Book/pull/100) |
 | A new improved UI for this project | Medium | [#97](https://github.com/Sahilll94/Travel-Book/issues/97) |
 
@@ -1295,7 +1295,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the production-dependencies group across 1 directory with 31 updates | Medium | [#126](https://github.com/CoderUzumaki/PrepEdge-AI/pull/126) |
+| chore(deps): bump the production-dependencies group across 1 directory with 33 updates | Medium | [#127](https://github.com/CoderUzumaki/PrepEdge-AI/pull/127) |
 | Install Vercel Web Analytics | Medium | [#121](https://github.com/CoderUzumaki/PrepEdge-AI/pull/121) |
 | chore(deps-dev): bump eslint-plugin-react-refresh from 0.4.26 to 0.5.2 | Medium | [#119](https://github.com/CoderUzumaki/PrepEdge-AI/pull/119) |
 | chore(deps-dev): bump vitest from 3.2.6 to 4.1.8 | Medium | [#118](https://github.com/CoderUzumaki/PrepEdge-AI/pull/118) |
@@ -1485,7 +1485,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | feat: Enhance User model with URL validation and documentation | Medium | [#181](https://github.com/DevSyncx/DevSync/pull/181) |
 | Suggestions regarding DevSync | Medium | [#176](https://github.com/DevSyncx/DevSync/issues/176) |
 | Add clickable navigation to feature cards on homepage | Medium | [#174](https://github.com/DevSyncx/DevSync/pull/174) |
-| Fix: Enhance ScrollRevealWrapper with proper ref handling and variants | Medium | [#173](https://github.com/DevSyncx/DevSync/pull/173) |
 | Fix 75  Added AI assistant on the dashboard page | Medium | [#171](https://github.com/DevSyncx/DevSync/pull/171) |
 | Improve Dark Mode UI/UX on Dashboard Page | Medium | [#165](https://github.com/DevSyncx/DevSync/issues/165) |
 | added a deactivating feature | Medium | [#154](https://github.com/DevSyncx/DevSync/pull/154) |
@@ -1734,6 +1733,10 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(login): improve login page UI | Medium | [#687](https://github.com/lovelymahor/StudyMatePlus/pull/687) |
+| Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
+| Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
+| Add global styles and premium Login/Register page styling | Medium | [#684](https://github.com/lovelymahor/StudyMatePlus/pull/684) |
 | Optimize testimonials section for smoother scrolling | Medium | [#683](https://github.com/lovelymahor/StudyMatePlus/pull/683) |
 | fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
 | UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
@@ -1741,7 +1744,6 @@ Fast Workflow Tools
 | Bug: Uploaded files in /api/syllabus/upload are never deleted from disk — causes unbounded storage growth and file retention risk | Medium | [#679](https://github.com/lovelymahor/StudyMatePlus/issues/679) |
 | Fix: Prevent adding empty or whitespace-only tasks | Medium | [#677](https://github.com/lovelymahor/StudyMatePlus/pull/677) |
 | bug: Urgent UI fixes (Logo clipping, massive section gap, and light theme text contrast) | Medium | [#676](https://github.com/lovelymahor/StudyMatePlus/issues/676) |
-| Added: global scroll-to-top button on all pages (Fixes #117) | Medium | [#675](https://github.com/lovelymahor/StudyMatePlus/pull/675) |
 | fix: use environment variable REACT_APP_API_URL for API calls in FeedbackModal and Notes | Medium | [#674](https://github.com/lovelymahor/StudyMatePlus/pull/674) |
 | fix: migrate OpenAI SDK integration to v4 and update deprecated model | Medium | [#673](https://github.com/lovelymahor/StudyMatePlus/pull/673) |
 | fix: prevent adding empty or whitespace-only tasks to To-Do list (#670) | Medium | [#672](https://github.com/lovelymahor/StudyMatePlus/pull/672) |
@@ -1761,9 +1763,6 @@ Fast Workflow Tools
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
 | Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
 | Feedback page displays hardcoded feedback instead of saved feedback | Medium | [#654](https://github.com/lovelymahor/StudyMatePlus/issues/654) |
-| Standalone Submit Feedback form does not submit to backend | Medium | [#653](https://github.com/lovelymahor/StudyMatePlus/issues/653) |
-| Syllabus download and preview are only placeholders | Medium | [#652](https://github.com/lovelymahor/StudyMatePlus/issues/652) |
-| Notes API is missing while the Notes page calls it | Medium | [#651](https://github.com/lovelymahor/StudyMatePlus/issues/651) |
 
 ---
 
@@ -1871,7 +1870,6 @@ Fast Workflow Tools
 | fix the hover effect for the smooth transitioning | Medium | [#928](https://github.com/Premkolte/AnimateHub/pull/928) |
 | Add Terms and condition page . | Medium | [#927](https://github.com/Premkolte/AnimateHub/issues/927) |
 | Update the readme with the latest images from website | Medium | [#926](https://github.com/Premkolte/AnimateHub/issues/926) |
-| Update primary color and adjust color scale | Medium | [#920](https://github.com/Premkolte/AnimateHub/pull/920) |
 
 ---
 
@@ -1996,7 +1994,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: <brief description>Implement Interactive Custom Cursor Animations for an Enhanced User Experience | Medium | [#303](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/303) |
 | feat: implement user-configurable Ollama URL with backend proxying | Medium | [#295](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/295) |
 | feat: implement conversational-level privacy controls | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
 
@@ -2060,14 +2057,18 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | docs: improve contribution guidelines | Easy | [#229](https://github.com/ThePlator/NPMChat/pull/229) |
 | fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
+| fix: align legal pages with the app theme | Medium | [#235](https://github.com/ThePlator/NPMChat/pull/235) |
+| Bug: Terms and Privacy pages UI does not match the main website theme | Medium | [#234](https://github.com/ThePlator/NPMChat/issues/234) |
+| Bug: Heart/Favorite button has no functionality | Medium | [#233](https://github.com/ThePlator/NPMChat/issues/233) |
+| Bug: Add navigation back to home from other routes | Medium | [#232](https://github.com/ThePlator/NPMChat/issues/232) |
+| Feature: Add scroll-to-top button for better navigation | Medium | [#231](https://github.com/ThePlator/NPMChat/issues/231) |
+| Bug: Default favicon is displayed instead of NPMChat favicon | Medium | [#230](https://github.com/ThePlator/NPMChat/issues/230) |
 | # [Feature Request] Add Quick Copy Button for Code Blocks in Chat Messages | Medium | [#228](https://github.com/ThePlator/NPMChat/issues/228) |
-| Improve navbar responsiveness across all devices | Medium | [#226](https://github.com/ThePlator/NPMChat/issues/226) |
 | Prevent duplicate socket reconnects caused by accumulated token refresh listeners | Medium | [#196](https://github.com/ThePlator/NPMChat/issues/196) |
 | Challenge correctness is derived from fragile output text | Medium | [#194](https://github.com/ThePlator/NPMChat/issues/194) |
 | Room socket events do not enforce room membership or host permissions | Medium | [#193](https://github.com/ThePlator/NPMChat/issues/193) |
 | Fix oauth ci passport guard | Medium | [#152](https://github.com/ThePlator/NPMChat/pull/152) |
 | Missing Receiver Verification on Message Send | Medium | [#141](https://github.com/ThePlator/NPMChat/issues/141) |
-| fix: add centralized backend error handling | Medium | [#92](https://github.com/ThePlator/NPMChat/pull/92) |
 | fix: require structured challenge test results | Hard | [#201](https://github.com/ThePlator/NPMChat/pull/201) |
 | security: enforce room socket membership | Hard | [#200](https://github.com/ThePlator/NPMChat/pull/200) |
 | O auth2 with cookie | Hard | [#197](https://github.com/ThePlator/NPMChat/pull/197) |
