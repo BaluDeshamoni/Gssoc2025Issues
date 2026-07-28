@@ -425,6 +425,7 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: address validation and contributors page boundary fixes | Medium | [#1949](https://github.com/apu52/Travel_Website/pull/1949) |
 | fix: implicit global variables in carousel JS | Medium | [#1948](https://github.com/apu52/Travel_Website/pull/1948) |
 | fix: prevent Google Maps iframe from overflowing footer container (#1938) | Medium | [#1947](https://github.com/apu52/Travel_Website/pull/1947) |
 | Fix map overflow issue in footer section | Medium | [#1946](https://github.com/apu52/Travel_Website/pull/1946) |
@@ -454,7 +455,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | UI Enhancement | Medium | [#1921](https://github.com/apu52/Travel_Website/issues/1921) |
 | style: enhance button hover and focus interaction | Medium | [#1920](https://github.com/apu52/Travel_Website/pull/1920) |
 | Add Navbar | Medium | [#1919](https://github.com/apu52/Travel_Website/issues/1919) |
-| Login does not work even after successful registration | Medium | [#1918](https://github.com/apu52/Travel_Website/issues/1918) |
 
 ---
 
@@ -1188,19 +1188,14 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: remove debug console.log statements from production components (#1985) | Easy | [#2005](https://github.com/recodehive/recode-website/pull/2005) |
+| chore: bump @radix-ui/react-collapsible from 1.1.16 to 1.1.20 | Easy | [#2020](https://github.com/recodehive/recode-website/pull/2020) |
+| chore: bump @tsparticles/react from 4.3.1 to 4.3.2 | Easy | [#2019](https://github.com/recodehive/recode-website/pull/2019) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.64.0 to 8.65.0 | Easy | [#2018](https://github.com/recodehive/recode-website/pull/2018) |
+| chore: bump @tailwindcss/postcss from 4.3.2 to 4.3.3 | Easy | [#2017](https://github.com/recodehive/recode-website/pull/2017) |
+| chore: bump @radix-ui/react-avatar from 1.2.2 to 1.2.6 | Easy | [#2016](https://github.com/recodehive/recode-website/pull/2016) |
+| Fix build error: move changelog utility component out of pages directory | Easy | [#2011](https://github.com/recodehive/recode-website/pull/2011) |
+| fix(testimonials): replace testimonial names with recode hive contributors (#1983) | Easy | [#2008](https://github.com/recodehive/recode-website/pull/2008) |
 | fix: remove debug console.log statements from production components | Easy | [#2004](https://github.com/recodehive/recode-website/pull/2004) |
-| fix: point newsletter popup legal links to real Substack URLs (#1986) | Easy | [#2003](https://github.com/recodehive/recode-website/pull/2003) |
-| chore: bump @docusaurus/plugin-ideal-image from 3.10.1 to 3.10.2 | Easy | [#2000](https://github.com/recodehive/recode-website/pull/2000) |
-| chore: bump @clerk/react from 6.12.0 to 6.12.5 | Easy | [#1999](https://github.com/recodehive/recode-website/pull/1999) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.63.0 to 8.64.0 | Easy | [#1998](https://github.com/recodehive/recode-website/pull/1998) |
-| chore: bump @docusaurus/theme-search-algolia from 3.10.1 to 3.10.2 | Easy | [#1997](https://github.com/recodehive/recode-website/pull/1997) |
-| chore: bump @docusaurus/theme-classic from 3.10.1 to 3.10.2 | Easy | [#1996](https://github.com/recodehive/recode-website/pull/1996) |
-| Home page FAQ Changes | Easy | [#1990](https://github.com/recodehive/recode-website/issues/1990) |
-| Testimonials replcae the name with recoide contributors | Easy | [#1983](https://github.com/recodehive/recode-website/issues/1983) |
-| reduce the gap between text lines | Easy | [#1982](https://github.com/recodehive/recode-website/issues/1982) |
-| Create get-started-with-recode.md | Easy | [#1924](https://github.com/recodehive/recode-website/pull/1924) |
-| [Feature]: Change to community page | Hard | [#339](https://github.com/recodehive/recode-website/issues/339) |
 
 ---
 
@@ -1458,6 +1453,14 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: fix cookies() async and remove hashed confirmPassword | Medium | [#583](https://github.com/aayushraj1010/med-genie/pull/583) |
+| Add AI-Powered Prescription OCR & Medication Dosage Summarizer | Medium | [#582](https://github.com/aayushraj1010/med-genie/issues/582) |
+| Static navigation bar overlaps page content on the "Find Specialist" page | Medium | [#581](https://github.com/aayushraj1010/med-genie/issues/581) |
+| "Find Specialist" form accepts unrealistic age values without validation | Medium | [#580](https://github.com/aayushraj1010/med-genie/issues/580) |
+| fix: missing await in token blacklist check and rate-limit reset time | Medium | [#579](https://github.com/aayushraj1010/med-genie/pull/579) |
+| Critical Remote Code Execution (RCE) vulnerability in CalculatorTool using JavaScript eval() | Medium | [#578](https://github.com/aayushraj1010/med-genie/issues/578) |
+| LangChain ReAct agent relies on remote prompt pulling without offline fallback | Medium | [#577](https://github.com/aayushraj1010/med-genie/issues/577) |
+| Implement AI model evaluation & safety benchmark harness | Medium | [#576](https://github.com/aayushraj1010/med-genie/issues/576) |
 | UI Enhancement: Redesign Navbar with a Premium Modern Look | Medium | [#575](https://github.com/aayushraj1010/med-genie/issues/575) |
 | On Clicking Location , It's showing white bg color . | Medium | [#574](https://github.com/aayushraj1010/med-genie/issues/574) |
 | docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
@@ -1479,14 +1482,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Contact Us and FAQ link is static and doesn't render to any webpage | Medium | [#555](https://github.com/aayushraj1010/med-genie/issues/555) |
 | Bug :Navbar Overlaps Hero Section Content on Multiple Pages | Medium | [#554](https://github.com/aayushraj1010/med-genie/issues/554) |
 | DOC : Add a FAQ section to contributing.md file | Medium | [#553](https://github.com/aayushraj1010/med-genie/issues/553) |
-| fix: improve VoiceSearch error handling and UX feedback | Medium | [#552](https://github.com/aayushraj1010/med-genie/pull/552) |
-| Optimize index.html with standard SEO and responsive viewport meta tags | Medium | [#551](https://github.com/aayushraj1010/med-genie/issues/551) |
-| fix: chatbot returns error on every query — add API key validation and error handling (#265, #359) | Medium | [#550](https://github.com/aayushraj1010/med-genie/pull/550) |
-| Build medical-grade testing framework with automated compliance checks and monitoring | Medium | [#549](https://github.com/aayushraj1010/med-genie/issues/549) |
-| Enhance user experience with medical visualizations, voice input, and accessibility features | Medium | [#548](https://github.com/aayushraj1010/med-genie/issues/548) |
-| Implement HIPAA-compliant medical data encryption and patient privacy controls | Medium | [#547](https://github.com/aayushraj1010/med-genie/issues/547) |
-| Optimize medical data processing with parallel computation and caching strategies | Medium | [#546](https://github.com/aayushraj1010/med-genie/issues/546) |
-| Implement comprehensive symptom checker with AI diagnosis and specialist recommendations | Medium | [#545](https://github.com/aayushraj1010/med-genie/issues/545) |
 
 ---
 
@@ -2020,6 +2015,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(login): improve login page UI | Medium | [#687](https://github.com/lovelymahor/StudyMatePlus/pull/687) |
 | Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
 | Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
 | Add global styles and premium Login/Register page styling | Medium | [#684](https://github.com/lovelymahor/StudyMatePlus/pull/684) |
@@ -2030,7 +2026,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | Bug: Uploaded files in /api/syllabus/upload are never deleted from disk — causes unbounded storage growth and file retention risk | Medium | [#679](https://github.com/lovelymahor/StudyMatePlus/issues/679) |
 | Fix: Prevent adding empty or whitespace-only tasks | Medium | [#677](https://github.com/lovelymahor/StudyMatePlus/pull/677) |
 | bug: Urgent UI fixes (Logo clipping, massive section gap, and light theme text contrast) | Medium | [#676](https://github.com/lovelymahor/StudyMatePlus/issues/676) |
-| Added: global scroll-to-top button on all pages (Fixes #117) | Medium | [#675](https://github.com/lovelymahor/StudyMatePlus/pull/675) |
 | fix: use environment variable REACT_APP_API_URL for API calls in FeedbackModal and Notes | Medium | [#674](https://github.com/lovelymahor/StudyMatePlus/pull/674) |
 | fix: migrate OpenAI SDK integration to v4 and update deprecated model | Medium | [#673](https://github.com/lovelymahor/StudyMatePlus/pull/673) |
 | fix: prevent adding empty or whitespace-only tasks to To-Do list (#670) | Medium | [#672](https://github.com/lovelymahor/StudyMatePlus/pull/672) |
