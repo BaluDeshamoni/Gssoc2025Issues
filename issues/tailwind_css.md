@@ -247,14 +247,9 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Merge the updates from main | Easy | [#5274](https://github.com/OWASP/Nest/pull/5274) |
+| Add Django Comand To Generate Candidate Claims | Medium | [#5313](https://github.com/OWASP/Nest/pull/5313) |
 | Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
-| Clean up entity leaders and entity channels from GenericEntityNode | Medium | [#5301](https://github.com/OWASP/Nest/pull/5301) |
 | Optimize entity leaders and entity channels in CommitteeNode | Medium | [#5300](https://github.com/OWASP/Nest/pull/5300) |
-| Optimize entity channels and entity leaders in ProjectNode | Medium | [#5299](https://github.com/OWASP/Nest/pull/5299) |
-| Feat: docker volume name check | Medium | [#5296](https://github.com/OWASP/Nest/pull/5296) |
-| fix: revert db volume name and add compose volume name check | Medium | [#5295](https://github.com/OWASP/Nest/pull/5295) |
-| Optimize entity_leaders and entity_channels in ChapterNode | Medium | [#5285](https://github.com/OWASP/Nest/pull/5285) |
 | Optimize OWASP SnapshotNode | Medium | [#5273](https://github.com/OWASP/Nest/pull/5273) |
 | feat(o11y): add RQ worker custom metrics | Medium | [#5272](https://github.com/OWASP/Nest/pull/5272) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
@@ -516,7 +511,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Error in page https://healconnect.vercel.app/how-it-works/ | Medium | [#757](https://github.com/Dipanita45/HEALCONNECT/issues/757) |
 | # 🚀 Feature Request: Add Patient Medical History Timeline | Medium | [#756](https://github.com/Dipanita45/HEALCONNECT/issues/756) |
 | Fix Client-Side Route Guard and Identity Bypass | Medium | [#755](https://github.com/Dipanita45/HEALCONNECT/pull/755) |
-| Comprehensive Accessibility (a11y) Audit & Fixes | Medium | [#754](https://github.com/Dipanita45/HEALCONNECT/issues/754) |
 | Implement Skeleton Loaders for Dashboard Data Fetching | Medium | [#752](https://github.com/Dipanita45/HEALCONNECT/issues/752) |
 
 ---
@@ -961,6 +955,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
+| ci(deps): bump next from 16.2.10 to 16.2.11 in /SortVision in the npm_and_yarn group across 1 directory | Medium | [#955](https://github.com/alienx5499/SortVision/pull/955) |
 | feat: add live speed control and sorting step explanations | Medium | [#865](https://github.com/alienx5499/SortVision/pull/865) |
 | Add Step-by-Step Explanation Mode Alongside Sorting Visualization | Medium | [#710](https://github.com/alienx5499/SortVision/issues/710) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
@@ -1628,7 +1623,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | feat: Enhance User model with URL validation and documentation | Medium | [#181](https://github.com/DevSyncx/DevSync/pull/181) |
 | Suggestions regarding DevSync | Medium | [#176](https://github.com/DevSyncx/DevSync/issues/176) |
 | Add clickable navigation to feature cards on homepage | Medium | [#174](https://github.com/DevSyncx/DevSync/pull/174) |
-| Fix: Enhance ScrollRevealWrapper with proper ref handling and variants | Medium | [#173](https://github.com/DevSyncx/DevSync/pull/173) |
 | Fix 75  Added AI assistant on the dashboard page | Medium | [#171](https://github.com/DevSyncx/DevSync/pull/171) |
 | Improve Dark Mode UI/UX on Dashboard Page | Medium | [#165](https://github.com/DevSyncx/DevSync/issues/165) |
 | added a deactivating feature | Medium | [#154](https://github.com/DevSyncx/DevSync/pull/154) |
@@ -1878,7 +1872,6 @@ Fast Workflow Tools
 | Bug: Uploaded files in /api/syllabus/upload are never deleted from disk — causes unbounded storage growth and file retention risk | Medium | [#679](https://github.com/lovelymahor/StudyMatePlus/issues/679) |
 | Fix: Prevent adding empty or whitespace-only tasks | Medium | [#677](https://github.com/lovelymahor/StudyMatePlus/pull/677) |
 | bug: Urgent UI fixes (Logo clipping, massive section gap, and light theme text contrast) | Medium | [#676](https://github.com/lovelymahor/StudyMatePlus/issues/676) |
-| Added: global scroll-to-top button on all pages (Fixes #117) | Medium | [#675](https://github.com/lovelymahor/StudyMatePlus/pull/675) |
 | fix: use environment variable REACT_APP_API_URL for API calls in FeedbackModal and Notes | Medium | [#674](https://github.com/lovelymahor/StudyMatePlus/pull/674) |
 | fix: migrate OpenAI SDK integration to v4 and update deprecated model | Medium | [#673](https://github.com/lovelymahor/StudyMatePlus/pull/673) |
 | fix: prevent adding empty or whitespace-only tasks to To-Do list (#670) | Medium | [#672](https://github.com/lovelymahor/StudyMatePlus/pull/672) |
@@ -1897,6 +1890,7 @@ Fast Workflow Tools
 | fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
 | Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
+| Feedback page displays hardcoded feedback instead of saved feedback | Medium | [#654](https://github.com/lovelymahor/StudyMatePlus/issues/654) |
 
 ---
 
@@ -2170,8 +2164,26 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | chore(deps-dev): bump @storybook/preset-create-react-app from 10.4.1 to 10.5.3 | Easy | [#10669](https://github.com/SandeepVashishtha/Eventra/pull/10669) |
 | chore(deps-dev): bump @vitejs/plugin-react from 6.0.2 to 6.0.3 | Easy | [#10668](https://github.com/SandeepVashishtha/Eventra/pull/10668) |
+| chore(deps): bump framer-motion from 11.18.2 to 12.42.2 in the framer-motion group across 1 directory | Easy | [#10666](https://github.com/SandeepVashishtha/Eventra/pull/10666) |
+| Virtual waiting room queue for high-demand ticket sales | Medium | [#10787](https://github.com/SandeepVashishtha/Eventra/issues/10787) |
+| Drag and drop bulk image upload for event galleries | Medium | [#10786](https://github.com/SandeepVashishtha/Eventra/issues/10786) |
+| Dynamic Ticket Pricing and Early Bird Tiers | Medium | [#10785](https://github.com/SandeepVashishtha/Eventra/issues/10785) |
+| Add @username mentioning support in LiveQABoard and Event Chat | Medium | [#10784](https://github.com/SandeepVashishtha/Eventra/issues/10784) |
+| Uncaught SyntaxError in securityEventLogger crashes security tracking | Medium | [#10783](https://github.com/SandeepVashishtha/Eventra/issues/10783) |
+| LivePollController crashes the UI on invalid localStorage JSON | Medium | [#10782](https://github.com/SandeepVashishtha/Eventra/issues/10782) |
+| Unhandled setTimeout Memory Leak in EventRecommendation | Medium | [#10781](https://github.com/SandeepVashishtha/Eventra/issues/10781) |
+| Memory leak in TeamWorkspace fetch polling due to missing AbortController | Medium | [#10780](https://github.com/SandeepVashishtha/Eventra/issues/10780) |
+| Feature: AR-based Interactive Venue Navigation | Medium | [#10779](https://github.com/SandeepVashishtha/Eventra/issues/10779) |
+| Feature: Automated Multi-lingual Real-time Subtitling for Live Streams | Medium | [#10778](https://github.com/SandeepVashishtha/Eventra/issues/10778) |
+| Feature: Multi-chain NFT Ticketing System | Medium | [#10777](https://github.com/SandeepVashishtha/Eventra/issues/10777) |
+| Feature: Real-time Crowd Density Heatmaps for Venue Management | Medium | [#10776](https://github.com/SandeepVashishtha/Eventra/issues/10776) |
+| Feature: AI-Powered Attendee Matchmaking and Networking | Medium | [#10775](https://github.com/SandeepVashishtha/Eventra/issues/10775) |
+| chore(deps): bump the react-ecosystem group across 1 directory with 7 updates | Medium | [#10774](https://github.com/SandeepVashishtha/Eventra/pull/10774) |
+| fix(navbar): mobile navigation menu items non-scrolling and height clipping near footer | Medium | [#10715](https://github.com/SandeepVashishtha/Eventra/issues/10715) |
 | deleteNotification fails to decrement global unread count due to async React state updates | Medium | [#10680](https://github.com/SandeepVashishtha/Eventra/issues/10680) |
 | chore(deps-dev): bump the tailwind group across 1 directory with 3 updates | Medium | [#10667](https://github.com/SandeepVashishtha/Eventra/pull/10667) |
+| Issue: Add RTL (Right-to-Left) Language Support — starting with Arabic | Medium | [#10657](https://github.com/SandeepVashishtha/Eventra/issues/10657) |
+| Bug: HackathonsTab shows raw dates and missing-location UI without fallbacks | Medium | [#10646](https://github.com/SandeepVashishtha/Eventra/issues/10646) |
 
 ---
 
@@ -2355,7 +2367,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(product-card): add product card block | Medium | [#142](https://github.com/subhadeeproy3902/mvpblocks/pull/142) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
