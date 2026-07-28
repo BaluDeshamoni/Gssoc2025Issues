@@ -1061,7 +1061,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | feat: Enhance User model with URL validation and documentation | Medium | [#181](https://github.com/DevSyncx/DevSync/pull/181) |
 | Suggestions regarding DevSync | Medium | [#176](https://github.com/DevSyncx/DevSync/issues/176) |
 | Add clickable navigation to feature cards on homepage | Medium | [#174](https://github.com/DevSyncx/DevSync/pull/174) |
-| Fix: Enhance ScrollRevealWrapper with proper ref handling and variants | Medium | [#173](https://github.com/DevSyncx/DevSync/pull/173) |
 | Fix 75  Added AI assistant on the dashboard page | Medium | [#171](https://github.com/DevSyncx/DevSync/pull/171) |
 | Improve Dark Mode UI/UX on Dashboard Page | Medium | [#165](https://github.com/DevSyncx/DevSync/issues/165) |
 | added a deactivating feature | Medium | [#154](https://github.com/DevSyncx/DevSync/pull/154) |
@@ -1229,7 +1228,6 @@ Fast Workflow Tools
 | Bug: Uploaded files in /api/syllabus/upload are never deleted from disk — causes unbounded storage growth and file retention risk | Medium | [#679](https://github.com/lovelymahor/StudyMatePlus/issues/679) |
 | Fix: Prevent adding empty or whitespace-only tasks | Medium | [#677](https://github.com/lovelymahor/StudyMatePlus/pull/677) |
 | bug: Urgent UI fixes (Logo clipping, massive section gap, and light theme text contrast) | Medium | [#676](https://github.com/lovelymahor/StudyMatePlus/issues/676) |
-| Added: global scroll-to-top button on all pages (Fixes #117) | Medium | [#675](https://github.com/lovelymahor/StudyMatePlus/pull/675) |
 | fix: use environment variable REACT_APP_API_URL for API calls in FeedbackModal and Notes | Medium | [#674](https://github.com/lovelymahor/StudyMatePlus/pull/674) |
 | fix: migrate OpenAI SDK integration to v4 and update deprecated model | Medium | [#673](https://github.com/lovelymahor/StudyMatePlus/pull/673) |
 | fix: prevent adding empty or whitespace-only tasks to To-Do list (#670) | Medium | [#672](https://github.com/lovelymahor/StudyMatePlus/pull/672) |
@@ -1248,6 +1246,7 @@ Fast Workflow Tools
 | fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
 | Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
+| Feedback page displays hardcoded feedback instead of saved feedback | Medium | [#654](https://github.com/lovelymahor/StudyMatePlus/issues/654) |
 
 ---
 
@@ -1541,6 +1540,7 @@ Fast Workflow Tools
 |----------|----------------|---------|
 | docs: improve contribution guidelines | Easy | [#229](https://github.com/ThePlator/NPMChat/pull/229) |
 | fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
+| fix: align legal pages with the app theme | Medium | [#235](https://github.com/ThePlator/NPMChat/pull/235) |
 | Bug: Terms and Privacy pages UI does not match the main website theme | Medium | [#234](https://github.com/ThePlator/NPMChat/issues/234) |
 | Bug: Heart/Favorite button has no functionality | Medium | [#233](https://github.com/ThePlator/NPMChat/issues/233) |
 | Bug: Add navigation back to home from other routes | Medium | [#232](https://github.com/ThePlator/NPMChat/issues/232) |
