@@ -52,6 +52,7 @@
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Unrealistic / Distracting Image Hover Effect | Easy | [#93](https://github.com/Sahilll94/Travel-Book/issues/93) |
+| Create `src/utils` Directory for Common Helper Functions | Easy | [#91](https://github.com/Sahilll94/Travel-Book/issues/91) |
 | feat: create Hero component for the landing page, including navigatio… | Medium | [#129](https://github.com/Sahilll94/Travel-Book/pull/129) |
 | Improve Contributors Button UI and Landing Page Visual Polish | Medium | [#128](https://github.com/Sahilll94/Travel-Book/pull/128) |
 | docs: add environment variables summary section | Medium | [#127](https://github.com/Sahilll94/Travel-Book/pull/127) |
@@ -64,7 +65,6 @@
 | Add descriptive alt text to landing page images | Medium | [#113](https://github.com/Sahilll94/Travel-Book/pull/113) |
 | Enhance Footer UI for Better Visual Hierarchy and Modern Look | Medium | [#111](https://github.com/Sahilll94/Travel-Book/pull/111) |
 | Add social media icons to Contributors page footer | Medium | [#108](https://github.com/Sahilll94/Travel-Book/issues/108) |
-| Improve mobile responsiveness for navbar and hero section | Medium | [#101](https://github.com/Sahilll94/Travel-Book/pull/101) |
 | Corrected unordered list with list items | Medium | [#100](https://github.com/Sahilll94/Travel-Book/pull/100) |
 | A new improved UI for this project | Medium | [#97](https://github.com/Sahilll94/Travel-Book/issues/97) |
 
