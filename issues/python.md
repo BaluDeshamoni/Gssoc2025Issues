@@ -208,13 +208,15 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump dompurify from 3.4.11 to 3.4.12 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#5267](https://github.com/OWASP/Nest/pull/5267) |
+| Add Django Comand To Generate Candidate Claims | Medium | [#5313](https://github.com/OWASP/Nest/pull/5313) |
+| Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
+| Optimize entity leaders and entity channels in CommitteeNode | Medium | [#5300](https://github.com/OWASP/Nest/pull/5300) |
+| Optimize OWASP SnapshotNode | Medium | [#5273](https://github.com/OWASP/Nest/pull/5273) |
+| feat(o11y): add RQ worker custom metrics | Medium | [#5272](https://github.com/OWASP/Nest/pull/5272) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
 | Optimize MemberSnapshotNode | Medium | [#5258](https://github.com/OWASP/Nest/pull/5258) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
-| Add a workflow to prevent merging the pull request with renamed volumes | Medium | [#5234](https://github.com/OWASP/Nest/issues/5234) |
 | Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
-| feat(o11y): export project GitHub stats to VictoriaMetrics with history | Medium | [#5214](https://github.com/OWASP/Nest/pull/5214) |
 
 ---
 
@@ -1052,6 +1054,14 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: fix cookies() async and remove hashed confirmPassword | Medium | [#583](https://github.com/aayushraj1010/med-genie/pull/583) |
+| Add AI-Powered Prescription OCR & Medication Dosage Summarizer | Medium | [#582](https://github.com/aayushraj1010/med-genie/issues/582) |
+| Static navigation bar overlaps page content on the "Find Specialist" page | Medium | [#581](https://github.com/aayushraj1010/med-genie/issues/581) |
+| "Find Specialist" form accepts unrealistic age values without validation | Medium | [#580](https://github.com/aayushraj1010/med-genie/issues/580) |
+| fix: missing await in token blacklist check and rate-limit reset time | Medium | [#579](https://github.com/aayushraj1010/med-genie/pull/579) |
+| Critical Remote Code Execution (RCE) vulnerability in CalculatorTool using JavaScript eval() | Medium | [#578](https://github.com/aayushraj1010/med-genie/issues/578) |
+| LangChain ReAct agent relies on remote prompt pulling without offline fallback | Medium | [#577](https://github.com/aayushraj1010/med-genie/issues/577) |
+| Implement AI model evaluation & safety benchmark harness | Medium | [#576](https://github.com/aayushraj1010/med-genie/issues/576) |
 | UI Enhancement: Redesign Navbar with a Premium Modern Look | Medium | [#575](https://github.com/aayushraj1010/med-genie/issues/575) |
 | On Clicking Location , It's showing white bg color . | Medium | [#574](https://github.com/aayushraj1010/med-genie/issues/574) |
 | docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
@@ -1073,14 +1083,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | Contact Us and FAQ link is static and doesn't render to any webpage | Medium | [#555](https://github.com/aayushraj1010/med-genie/issues/555) |
 | Bug :Navbar Overlaps Hero Section Content on Multiple Pages | Medium | [#554](https://github.com/aayushraj1010/med-genie/issues/554) |
 | DOC : Add a FAQ section to contributing.md file | Medium | [#553](https://github.com/aayushraj1010/med-genie/issues/553) |
-| fix: improve VoiceSearch error handling and UX feedback | Medium | [#552](https://github.com/aayushraj1010/med-genie/pull/552) |
-| Optimize index.html with standard SEO and responsive viewport meta tags | Medium | [#551](https://github.com/aayushraj1010/med-genie/issues/551) |
-| fix: chatbot returns error on every query — add API key validation and error handling (#265, #359) | Medium | [#550](https://github.com/aayushraj1010/med-genie/pull/550) |
-| Build medical-grade testing framework with automated compliance checks and monitoring | Medium | [#549](https://github.com/aayushraj1010/med-genie/issues/549) |
-| Enhance user experience with medical visualizations, voice input, and accessibility features | Medium | [#548](https://github.com/aayushraj1010/med-genie/issues/548) |
-| Implement HIPAA-compliant medical data encryption and patient privacy controls | Medium | [#547](https://github.com/aayushraj1010/med-genie/issues/547) |
-| Optimize medical data processing with parallel computation and caching strategies | Medium | [#546](https://github.com/aayushraj1010/med-genie/issues/546) |
-| Implement comprehensive symptom checker with AI diagnosis and specialist recommendations | Medium | [#545](https://github.com/aayushraj1010/med-genie/issues/545) |
 
 ---
 
