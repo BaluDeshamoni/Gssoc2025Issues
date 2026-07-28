@@ -14,14 +14,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Merge the updates from main | Easy | [#5274](https://github.com/OWASP/Nest/pull/5274) |
+| Add Django Comand To Generate Candidate Claims | Medium | [#5313](https://github.com/OWASP/Nest/pull/5313) |
 | Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
-| Clean up entity leaders and entity channels from GenericEntityNode | Medium | [#5301](https://github.com/OWASP/Nest/pull/5301) |
 | Optimize entity leaders and entity channels in CommitteeNode | Medium | [#5300](https://github.com/OWASP/Nest/pull/5300) |
-| Optimize entity channels and entity leaders in ProjectNode | Medium | [#5299](https://github.com/OWASP/Nest/pull/5299) |
-| Feat: docker volume name check | Medium | [#5296](https://github.com/OWASP/Nest/pull/5296) |
-| fix: revert db volume name and add compose volume name check | Medium | [#5295](https://github.com/OWASP/Nest/pull/5295) |
-| Optimize entity_leaders and entity_channels in ChapterNode | Medium | [#5285](https://github.com/OWASP/Nest/pull/5285) |
 | Optimize OWASP SnapshotNode | Medium | [#5273](https://github.com/OWASP/Nest/pull/5273) |
 | feat(o11y): add RQ worker custom metrics | Medium | [#5272](https://github.com/OWASP/Nest/pull/5272) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
