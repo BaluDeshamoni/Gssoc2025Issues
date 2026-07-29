@@ -249,7 +249,6 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | Add Django Comand To Generate Candidate Claims | Medium | [#5313](https://github.com/OWASP/Nest/pull/5313) |
 | Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
-| Optimize entity leaders and entity channels in CommitteeNode | Medium | [#5300](https://github.com/OWASP/Nest/pull/5300) |
 | Optimize OWASP SnapshotNode | Medium | [#5273](https://github.com/OWASP/Nest/pull/5273) |
 | feat(o11y): add RQ worker custom metrics | Medium | [#5272](https://github.com/OWASP/Nest/pull/5272) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
@@ -511,7 +510,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Error in page https://healconnect.vercel.app/how-it-works/ | Medium | [#757](https://github.com/Dipanita45/HEALCONNECT/issues/757) |
 | # 🚀 Feature Request: Add Patient Medical History Timeline | Medium | [#756](https://github.com/Dipanita45/HEALCONNECT/issues/756) |
 | Fix Client-Side Route Guard and Identity Bypass | Medium | [#755](https://github.com/Dipanita45/HEALCONNECT/pull/755) |
-| Implement Skeleton Loaders for Dashboard Data Fetching | Medium | [#752](https://github.com/Dipanita45/HEALCONNECT/issues/752) |
 
 ---
 
@@ -955,6 +953,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
+| ci(deps): bump trufflesecurity/trufflehog from 3.95.9 to 3.96.0 in the security-actions group | Medium | [#956](https://github.com/alienx5499/SortVision/pull/956) |
 | ci(deps): bump next from 16.2.10 to 16.2.11 in /SortVision in the npm_and_yarn group across 1 directory | Medium | [#955](https://github.com/alienx5499/SortVision/pull/955) |
 | feat: add live speed control and sorting step explanations | Medium | [#865](https://github.com/alienx5499/SortVision/pull/865) |
 | Add Step-by-Step Explanation Mode Alongside Sorting Visualization | Medium | [#710](https://github.com/alienx5499/SortVision/issues/710) |
@@ -1861,6 +1860,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance README with troubleshooting and FAQ | Medium | [#689](https://github.com/lovelymahor/StudyMatePlus/pull/689) |
+| Add Troubleshooting Guide and FAQ to Documentation | Medium | [#688](https://github.com/lovelymahor/StudyMatePlus/issues/688) |
 | fix(login): improve login page UI | Medium | [#687](https://github.com/lovelymahor/StudyMatePlus/pull/687) |
 | Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
 | Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
@@ -1889,8 +1890,6 @@ Fast Workflow Tools
 | fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
 | fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
-| Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
-| Feedback page displays hardcoded feedback instead of saved feedback | Medium | [#654](https://github.com/lovelymahor/StudyMatePlus/issues/654) |
 
 ---
 
@@ -2162,28 +2161,16 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps-dev): bump @storybook/preset-create-react-app from 10.4.1 to 10.5.3 | Easy | [#10669](https://github.com/SandeepVashishtha/Eventra/pull/10669) |
-| chore(deps-dev): bump @vitejs/plugin-react from 6.0.2 to 6.0.3 | Easy | [#10668](https://github.com/SandeepVashishtha/Eventra/pull/10668) |
-| chore(deps): bump framer-motion from 11.18.2 to 12.42.2 in the framer-motion group across 1 directory | Easy | [#10666](https://github.com/SandeepVashishtha/Eventra/pull/10666) |
-| Virtual waiting room queue for high-demand ticket sales | Medium | [#10787](https://github.com/SandeepVashishtha/Eventra/issues/10787) |
-| Drag and drop bulk image upload for event galleries | Medium | [#10786](https://github.com/SandeepVashishtha/Eventra/issues/10786) |
-| Dynamic Ticket Pricing and Early Bird Tiers | Medium | [#10785](https://github.com/SandeepVashishtha/Eventra/issues/10785) |
-| Add @username mentioning support in LiveQABoard and Event Chat | Medium | [#10784](https://github.com/SandeepVashishtha/Eventra/issues/10784) |
-| Uncaught SyntaxError in securityEventLogger crashes security tracking | Medium | [#10783](https://github.com/SandeepVashishtha/Eventra/issues/10783) |
-| LivePollController crashes the UI on invalid localStorage JSON | Medium | [#10782](https://github.com/SandeepVashishtha/Eventra/issues/10782) |
-| Unhandled setTimeout Memory Leak in EventRecommendation | Medium | [#10781](https://github.com/SandeepVashishtha/Eventra/issues/10781) |
-| Memory leak in TeamWorkspace fetch polling due to missing AbortController | Medium | [#10780](https://github.com/SandeepVashishtha/Eventra/issues/10780) |
-| Feature: AR-based Interactive Venue Navigation | Medium | [#10779](https://github.com/SandeepVashishtha/Eventra/issues/10779) |
-| Feature: Automated Multi-lingual Real-time Subtitling for Live Streams | Medium | [#10778](https://github.com/SandeepVashishtha/Eventra/issues/10778) |
-| Feature: Multi-chain NFT Ticketing System | Medium | [#10777](https://github.com/SandeepVashishtha/Eventra/issues/10777) |
-| Feature: Real-time Crowd Density Heatmaps for Venue Management | Medium | [#10776](https://github.com/SandeepVashishtha/Eventra/issues/10776) |
-| Feature: AI-Powered Attendee Matchmaking and Networking | Medium | [#10775](https://github.com/SandeepVashishtha/Eventra/issues/10775) |
-| chore(deps): bump the react-ecosystem group across 1 directory with 7 updates | Medium | [#10774](https://github.com/SandeepVashishtha/Eventra/pull/10774) |
-| fix(navbar): mobile navigation menu items non-scrolling and height clipping near footer | Medium | [#10715](https://github.com/SandeepVashishtha/Eventra/issues/10715) |
-| deleteNotification fails to decrement global unread count due to async React state updates | Medium | [#10680](https://github.com/SandeepVashishtha/Eventra/issues/10680) |
-| chore(deps-dev): bump the tailwind group across 1 directory with 3 updates | Medium | [#10667](https://github.com/SandeepVashishtha/Eventra/pull/10667) |
-| Issue: Add RTL (Right-to-Left) Language Support — starting with Arabic | Medium | [#10657](https://github.com/SandeepVashishtha/Eventra/issues/10657) |
-| Bug: HackathonsTab shows raw dates and missing-location UI without fallbacks | Medium | [#10646](https://github.com/SandeepVashishtha/Eventra/issues/10646) |
+| Feature: Personalized AI-Generated Event Itineraries | Medium | [#10829](https://github.com/SandeepVashishtha/Eventra/issues/10829) |
+| Feature: Full Virtual Reality (VR) Hybrid Event Experience | Medium | [#10828](https://github.com/SandeepVashishtha/Eventra/issues/10828) |
+| Feature: Intelligent Power Management System Integration for Venues | Medium | [#10827](https://github.com/SandeepVashishtha/Eventra/issues/10827) |
+| Feature: DAO-style Event Governance for Community Events | Medium | [#10826](https://github.com/SandeepVashishtha/Eventra/issues/10826) |
+| Feature: Wearable Integration for Attendee Health Monitoring | Medium | [#10825](https://github.com/SandeepVashishtha/Eventra/issues/10825) |
+| Feature: Contactless Biometric Entry System | Medium | [#10824](https://github.com/SandeepVashishtha/Eventra/issues/10824) |
+| Feature: Real-time Emergency Evacuation Routing via Push Notifications | Medium | [#10823](https://github.com/SandeepVashishtha/Eventra/issues/10823) |
+| Feature: Decentralized Identity (DID) based Vendor Credential Verification | Medium | [#10822](https://github.com/SandeepVashishtha/Eventra/issues/10822) |
+| Feature: AI-driven Post-Event Sentiment Analysis from Social Media | Medium | [#10821](https://github.com/SandeepVashishtha/Eventra/issues/10821) |
+| Feature: Gamification Engine with Location-based Quests | Medium | [#10820](https://github.com/SandeepVashishtha/Eventra/issues/10820) |
 
 ---
 
