@@ -48,13 +48,18 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add GitHub Actions CI workflow to run flutter analyze and flutter test on every PR | Medium | [#490](https://github.com/andoriyaprashant/OpSo/issues/490) |
+| Add a Search / Filter functionality on the Home Screen to quickly find programs by name or category | Medium | [#489](https://github.com/andoriyaprashant/OpSo/issues/489) |
+| .env file is committed to the public repository — API keys and sensitive configuration are exposed | Medium | [#488](https://github.com/andoriyaprashant/OpSo/issues/488) |
 | feat: `.gradle/` directory and `build.gradle` files are committed — these are Android build artifacts that should be gitignored, causing unnecessary repository bloat and platform-specific conflicts | Medium | [#487](https://github.com/andoriyaprashant/OpSo/issues/487) |
 | security: `.env` file with actual environment values is committed to the repository root — any secrets it contains are publicly visible to all GitHub visitors and in git history permanently | Medium | [#484](https://github.com/andoriyaprashant/OpSo/issues/484) |
-| docs: update issue tracker link in README | Medium | [#483](https://github.com/andoriyaprashant/OpSo/pull/483) |
 | feat: add offline support using `hive` local database — OpSo currently requires internet connectivity to display program information, showing a blank screen with no cached data when offline | Medium | [#482](https://github.com/andoriyaprashant/OpSo/issues/482) |
 | feat: add a "Deadline Countdown" and calendar reminder feature to program detail screens — users currently see application dates as static text but have no way to track upcoming deadlines or add them to their device calendar | Medium | [#481](https://github.com/andoriyaprashant/OpSo/issues/481) |
 | feat: add a search and filter functionality to the home screen — users currently must scroll through all open-source programs to find one, with no way to search by name, organization, or stipend amount | Medium | [#480](https://github.com/andoriyaprashant/OpSo/issues/480) |
 | security: `.env` file with actual API keys/tokens is committed to the repository root — this exposes credentials to every person who has ever cloned the repo and is a critical security violation | Medium | [#479](https://github.com/andoriyaprashant/OpSo/issues/479) |
+| Enhance README with formatting and structure suggestions | Medium | [#478](https://github.com/andoriyaprashant/OpSo/pull/478) |
+| Improved Readme formating and structure #476 | Medium | [#477](https://github.com/andoriyaprashant/OpSo/pull/477) |
+| Feat: Improve Readme Formatting and Structure | Medium | [#476](https://github.com/andoriyaprashant/OpSo/issues/476) |
 | feat:improve UI spacing and font size for better readability fixes #384 | Medium | [#475](https://github.com/andoriyaprashant/OpSo/pull/475) |
 | Feat:Add Contextual AI Question Suggestions on Program Pages | Medium | [#474](https://github.com/andoriyaprashant/OpSo/issues/474) |
 | fix: correct fallback asset rendering in LinuxFoundationWidget | Medium | [#452](https://github.com/andoriyaprashant/OpSo/issues/452) |
@@ -64,7 +69,6 @@
 | Fix Notification Flooding & Build Method Side-Effects | Medium | [#446](https://github.com/andoriyaprashant/OpSo/pull/446) |
 | fix: correct routing and error message typos | Medium | [#445](https://github.com/andoriyaprashant/OpSo/pull/445) |
 | Fix drawer dismiss behavior on overlay tap | Medium | [#441](https://github.com/andoriyaprashant/OpSo/pull/441) |
-| fix: resolve awesome_notifications dependency configuration issue | Medium | [#429](https://github.com/andoriyaprashant/OpSo/pull/429) |
 
 ---
 
