@@ -205,6 +205,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Updates README.md | Medium | [#1864](https://github.com/omroy07/AgriTech/pull/1864) |
 | fix: resolve cart visibility issue | Medium | [#1863](https://github.com/omroy07/AgriTech/pull/1863) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
@@ -260,6 +261,18 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: make verifyToken/verifyRefreshToken async to properly await isTokenBlacklisted | Medium | [#586](https://github.com/aayushraj1010/med-genie/pull/586) |
+| Add AI-Powered Prescription OCR & Medication Dosage Summarizer | Medium | [#585](https://github.com/aayushraj1010/med-genie/issues/585) |
+| fix: check response.ok before calling .json() in login and register | Medium | [#584](https://github.com/aayushraj1010/med-genie/pull/584) |
+| fix: fix cookies() async and remove hashed confirmPassword | Medium | [#583](https://github.com/aayushraj1010/med-genie/pull/583) |
+| Add AI-Powered Prescription OCR & Medication Dosage Summarizer | Medium | [#582](https://github.com/aayushraj1010/med-genie/issues/582) |
+| Static navigation bar overlaps page content on the "Find Specialist" page | Medium | [#581](https://github.com/aayushraj1010/med-genie/issues/581) |
+| "Find Specialist" form accepts unrealistic age values without validation | Medium | [#580](https://github.com/aayushraj1010/med-genie/issues/580) |
+| fix: missing await in token blacklist check and rate-limit reset time | Medium | [#579](https://github.com/aayushraj1010/med-genie/pull/579) |
+| Critical Remote Code Execution (RCE) vulnerability in CalculatorTool using JavaScript eval() | Medium | [#578](https://github.com/aayushraj1010/med-genie/issues/578) |
+| LangChain ReAct agent relies on remote prompt pulling without offline fallback | Medium | [#577](https://github.com/aayushraj1010/med-genie/issues/577) |
+| Implement AI model evaluation & safety benchmark harness | Medium | [#576](https://github.com/aayushraj1010/med-genie/issues/576) |
+| UI Enhancement: Redesign Navbar with a Premium Modern Look | Medium | [#575](https://github.com/aayushraj1010/med-genie/issues/575) |
 | On Clicking Location , It's showing white bg color . | Medium | [#574](https://github.com/aayushraj1010/med-genie/issues/574) |
 | docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
 | Login/Sign-up button shows "Signing in..." / "Creating account..." on initial page load | Medium | [#572](https://github.com/aayushraj1010/med-genie/issues/572) |
@@ -277,18 +290,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Feat: Add hover effect to button | Medium | [#558](https://github.com/aayushraj1010/med-genie/issues/558) |
 | Contact Us Navigation Link Does Not Navigate to Contact Section | Medium | [#557](https://github.com/aayushraj1010/med-genie/issues/557) |
 | Downgrade dotenv package version to 16.4.5 | Medium | [#556](https://github.com/aayushraj1010/med-genie/pull/556) |
-| Contact Us and FAQ link is static and doesn't render to any webpage | Medium | [#555](https://github.com/aayushraj1010/med-genie/issues/555) |
-| Bug :Navbar Overlaps Hero Section Content on Multiple Pages | Medium | [#554](https://github.com/aayushraj1010/med-genie/issues/554) |
-| DOC : Add a FAQ section to contributing.md file | Medium | [#553](https://github.com/aayushraj1010/med-genie/issues/553) |
-| fix: improve VoiceSearch error handling and UX feedback | Medium | [#552](https://github.com/aayushraj1010/med-genie/pull/552) |
-| Optimize index.html with standard SEO and responsive viewport meta tags | Medium | [#551](https://github.com/aayushraj1010/med-genie/issues/551) |
-| fix: chatbot returns error on every query — add API key validation and error handling (#265, #359) | Medium | [#550](https://github.com/aayushraj1010/med-genie/pull/550) |
-| Build medical-grade testing framework with automated compliance checks and monitoring | Medium | [#549](https://github.com/aayushraj1010/med-genie/issues/549) |
-| Enhance user experience with medical visualizations, voice input, and accessibility features | Medium | [#548](https://github.com/aayushraj1010/med-genie/issues/548) |
-| Implement HIPAA-compliant medical data encryption and patient privacy controls | Medium | [#547](https://github.com/aayushraj1010/med-genie/issues/547) |
-| Optimize medical data processing with parallel computation and caching strategies | Medium | [#546](https://github.com/aayushraj1010/med-genie/issues/546) |
-| Implement comprehensive symptom checker with AI diagnosis and specialist recommendations | Medium | [#545](https://github.com/aayushraj1010/med-genie/issues/545) |
-| Add Persistent Medical Disclaimer Banner Inside Chat Interface | Medium | [#544](https://github.com/aayushraj1010/med-genie/issues/544) |
 
 ---
 
@@ -368,7 +369,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: <brief description>Implement Interactive Custom Cursor Animations for an Enhanced User Experience | Medium | [#303](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/303) |
 | feat: implement user-configurable Ollama URL with backend proxying | Medium | [#295](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/295) |
 | feat: implement conversational-level privacy controls | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
 
