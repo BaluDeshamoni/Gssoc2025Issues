@@ -261,6 +261,16 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance README with troubleshooting and FAQ | Medium | [#596](https://github.com/aayushraj1010/med-genie/pull/596) |
+| Add Troubleshooting Guide and FAQ to Documentation | Medium | [#595](https://github.com/aayushraj1010/med-genie/issues/595) |
+| fix: add radix parameter to parseInt calls | Medium | [#594](https://github.com/aayushraj1010/med-genie/pull/594) |
+| fix: add radix parameter to parseInt calls | Medium | [#593](https://github.com/aayushraj1010/med-genie/pull/593) |
+| fix: add .catch() to promise chains | Medium | [#592](https://github.com/aayushraj1010/med-genie/pull/592) |
+| fix: handle promise rejections with .catch() | Medium | [#591](https://github.com/aayushraj1010/med-genie/pull/591) |
+| fix: improve code safety | Medium | [#590](https://github.com/aayushraj1010/med-genie/pull/590) |
+| fix: add error handling for localStorage and API calls | Medium | [#589](https://github.com/aayushraj1010/med-genie/pull/589) |
+| fix: add HTTP status check before JSON parse | Medium | [#588](https://github.com/aayushraj1010/med-genie/pull/588) |
+| fix: add safety checks | Medium | [#587](https://github.com/aayushraj1010/med-genie/pull/587) |
 | fix: make verifyToken/verifyRefreshToken async to properly await isTokenBlacklisted | Medium | [#586](https://github.com/aayushraj1010/med-genie/pull/586) |
 | Add AI-Powered Prescription OCR & Medication Dosage Summarizer | Medium | [#585](https://github.com/aayushraj1010/med-genie/issues/585) |
 | fix: check response.ok before calling .json() in login and register | Medium | [#584](https://github.com/aayushraj1010/med-genie/pull/584) |
@@ -281,15 +291,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | UI: Bold key phrases in Hero Section description. | Medium | [#569](https://github.com/aayushraj1010/med-genie/issues/569) |
 | Chat bot error | Medium | [#568](https://github.com/aayushraj1010/med-genie/issues/568) |
 | Google Auth issue | Medium | [#567](https://github.com/aayushraj1010/med-genie/issues/567) |
-| OAuth Access Token Leaked via URL Query Params in Google Callback | Medium | [#566](https://github.com/aayushraj1010/med-genie/issues/566) |
-| docs: README privacy claims conflict with documented persistence architecture and data storage behavior | Medium | [#564](https://github.com/aayushraj1010/med-genie/issues/564) |
-| security: Insecure default JWT_SECRET fallback enables token forgery and full account takeover | Medium | [#563](https://github.com/aayushraj1010/med-genie/issues/563) |
-| UI Inconsistency Across Routes (Global Styles / Navigation Component Breakdown) | Medium | [#562](https://github.com/aayushraj1010/med-genie/issues/562) |
-| fix: batch - contact/FAQ links, cookies/terms routing, navbar alignment | Medium | [#560](https://github.com/aayushraj1010/med-genie/pull/560) |
-| Proposal: Add Symptom Classification Model and Medical Handbook RAG Pipeline | Medium | [#559](https://github.com/aayushraj1010/med-genie/issues/559) |
-| Feat: Add hover effect to button | Medium | [#558](https://github.com/aayushraj1010/med-genie/issues/558) |
-| Contact Us Navigation Link Does Not Navigate to Contact Section | Medium | [#557](https://github.com/aayushraj1010/med-genie/issues/557) |
-| Downgrade dotenv package version to 16.4.5 | Medium | [#556](https://github.com/aayushraj1010/med-genie/pull/556) |
 
 ---
 
