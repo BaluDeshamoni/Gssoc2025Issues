@@ -439,11 +439,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Input Validation and User-Friendly Error Messages Across Forms | Medium | [#758](https://github.com/Dipanita45/HEALCONNECT/issues/758) |
-| Error in page https://healconnect.vercel.app/how-it-works/ | Medium | [#757](https://github.com/Dipanita45/HEALCONNECT/issues/757) |
-| # 🚀 Feature Request: Add Patient Medical History Timeline | Medium | [#756](https://github.com/Dipanita45/HEALCONNECT/issues/756) |
-| Fix Client-Side Route Guard and Identity Bypass | Medium | [#755](https://github.com/Dipanita45/HEALCONNECT/pull/755) |
-| Comprehensive Accessibility (a11y) Audit & Fixes | Medium | [#754](https://github.com/Dipanita45/HEALCONNECT/issues/754) |
-| Implement Skeleton Loaders for Dashboard Data Fetching | Medium | [#752](https://github.com/Dipanita45/HEALCONNECT/issues/752) |
 
 ---
 
@@ -1076,26 +1071,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add Live Deployment for Project | Medium | [#74](https://github.com/sania28/clubmate/issues/74) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
-
----
-
-## 📌 Project: recode-website
-
-📝 **Description:** community blog website 
-
-🔗 [View Project](https://github.com/recodehive/recode-website)
-
-💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Fix build error: move changelog utility component out of pages directory | Easy | [#2011](https://github.com/recodehive/recode-website/pull/2011) |
-| fix(testimonials): replace testimonial names with recode hive contributors (#1983) | Easy | [#2008](https://github.com/recodehive/recode-website/pull/2008) |
-| fix: remove debug console.log statements from production components | Easy | [#2004](https://github.com/recodehive/recode-website/pull/2004) |
 
 ---
 
@@ -1848,6 +1823,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance README with troubleshooting and FAQ | Medium | [#689](https://github.com/lovelymahor/StudyMatePlus/pull/689) |
+| Add Troubleshooting Guide and FAQ to Documentation | Medium | [#688](https://github.com/lovelymahor/StudyMatePlus/issues/688) |
 | fix(login): improve login page UI | Medium | [#687](https://github.com/lovelymahor/StudyMatePlus/pull/687) |
 | Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
 | Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
@@ -1859,7 +1836,6 @@ Fast Workflow Tools
 | Bug: Uploaded files in /api/syllabus/upload are never deleted from disk — causes unbounded storage growth and file retention risk | Medium | [#679](https://github.com/lovelymahor/StudyMatePlus/issues/679) |
 | Fix: Prevent adding empty or whitespace-only tasks | Medium | [#677](https://github.com/lovelymahor/StudyMatePlus/pull/677) |
 | bug: Urgent UI fixes (Logo clipping, massive section gap, and light theme text contrast) | Medium | [#676](https://github.com/lovelymahor/StudyMatePlus/issues/676) |
-| Added: global scroll-to-top button on all pages (Fixes #117) | Medium | [#675](https://github.com/lovelymahor/StudyMatePlus/pull/675) |
 | fix: use environment variable REACT_APP_API_URL for API calls in FeedbackModal and Notes | Medium | [#674](https://github.com/lovelymahor/StudyMatePlus/pull/674) |
 | fix: migrate OpenAI SDK integration to v4 and update deprecated model | Medium | [#673](https://github.com/lovelymahor/StudyMatePlus/pull/673) |
 | fix: prevent adding empty or whitespace-only tasks to To-Do list (#670) | Medium | [#672](https://github.com/lovelymahor/StudyMatePlus/pull/672) |
@@ -1877,7 +1853,6 @@ Fast Workflow Tools
 | fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
 | fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
-| Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
 
 ---
 
