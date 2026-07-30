@@ -164,7 +164,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
-| ci(deps): bump next from 16.2.10 to 16.2.11 in /SortVision in the npm_and_yarn group across 1 directory | Medium | [#955](https://github.com/alienx5499/SortVision/pull/955) |
 | feat: add live speed control and sorting step explanations | Medium | [#865](https://github.com/alienx5499/SortVision/pull/865) |
 | Add Step-by-Step Explanation Mode Alongside Sorting Visualization | Medium | [#710](https://github.com/alienx5499/SortVision/issues/710) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
@@ -255,6 +254,19 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance README with troubleshooting and FAQ | Medium | [#596](https://github.com/aayushraj1010/med-genie/pull/596) |
+| Add Troubleshooting Guide and FAQ to Documentation | Medium | [#595](https://github.com/aayushraj1010/med-genie/issues/595) |
+| fix: add radix parameter to parseInt calls | Medium | [#594](https://github.com/aayushraj1010/med-genie/pull/594) |
+| fix: add radix parameter to parseInt calls | Medium | [#593](https://github.com/aayushraj1010/med-genie/pull/593) |
+| fix: add .catch() to promise chains | Medium | [#592](https://github.com/aayushraj1010/med-genie/pull/592) |
+| fix: handle promise rejections with .catch() | Medium | [#591](https://github.com/aayushraj1010/med-genie/pull/591) |
+| fix: improve code safety | Medium | [#590](https://github.com/aayushraj1010/med-genie/pull/590) |
+| fix: add error handling for localStorage and API calls | Medium | [#589](https://github.com/aayushraj1010/med-genie/pull/589) |
+| fix: add HTTP status check before JSON parse | Medium | [#588](https://github.com/aayushraj1010/med-genie/pull/588) |
+| fix: add safety checks | Medium | [#587](https://github.com/aayushraj1010/med-genie/pull/587) |
+| fix: make verifyToken/verifyRefreshToken async to properly await isTokenBlacklisted | Medium | [#586](https://github.com/aayushraj1010/med-genie/pull/586) |
+| Add AI-Powered Prescription OCR & Medication Dosage Summarizer | Medium | [#585](https://github.com/aayushraj1010/med-genie/issues/585) |
+| fix: check response.ok before calling .json() in login and register | Medium | [#584](https://github.com/aayushraj1010/med-genie/pull/584) |
 | fix: fix cookies() async and remove hashed confirmPassword | Medium | [#583](https://github.com/aayushraj1010/med-genie/pull/583) |
 | Add AI-Powered Prescription OCR & Medication Dosage Summarizer | Medium | [#582](https://github.com/aayushraj1010/med-genie/issues/582) |
 | Static navigation bar overlaps page content on the "Find Specialist" page | Medium | [#581](https://github.com/aayushraj1010/med-genie/issues/581) |
@@ -272,18 +284,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | UI: Bold key phrases in Hero Section description. | Medium | [#569](https://github.com/aayushraj1010/med-genie/issues/569) |
 | Chat bot error | Medium | [#568](https://github.com/aayushraj1010/med-genie/issues/568) |
 | Google Auth issue | Medium | [#567](https://github.com/aayushraj1010/med-genie/issues/567) |
-| OAuth Access Token Leaked via URL Query Params in Google Callback | Medium | [#566](https://github.com/aayushraj1010/med-genie/issues/566) |
-| docs: README privacy claims conflict with documented persistence architecture and data storage behavior | Medium | [#564](https://github.com/aayushraj1010/med-genie/issues/564) |
-| security: Insecure default JWT_SECRET fallback enables token forgery and full account takeover | Medium | [#563](https://github.com/aayushraj1010/med-genie/issues/563) |
-| UI Inconsistency Across Routes (Global Styles / Navigation Component Breakdown) | Medium | [#562](https://github.com/aayushraj1010/med-genie/issues/562) |
-| fix: batch - contact/FAQ links, cookies/terms routing, navbar alignment | Medium | [#560](https://github.com/aayushraj1010/med-genie/pull/560) |
-| Proposal: Add Symptom Classification Model and Medical Handbook RAG Pipeline | Medium | [#559](https://github.com/aayushraj1010/med-genie/issues/559) |
-| Feat: Add hover effect to button | Medium | [#558](https://github.com/aayushraj1010/med-genie/issues/558) |
-| Contact Us Navigation Link Does Not Navigate to Contact Section | Medium | [#557](https://github.com/aayushraj1010/med-genie/issues/557) |
-| Downgrade dotenv package version to 16.4.5 | Medium | [#556](https://github.com/aayushraj1010/med-genie/pull/556) |
-| Contact Us and FAQ link is static and doesn't render to any webpage | Medium | [#555](https://github.com/aayushraj1010/med-genie/issues/555) |
-| Bug :Navbar Overlaps Hero Section Content on Multiple Pages | Medium | [#554](https://github.com/aayushraj1010/med-genie/issues/554) |
-| DOC : Add a FAQ section to contributing.md file | Medium | [#553](https://github.com/aayushraj1010/med-genie/issues/553) |
 
 ---
 
@@ -566,6 +566,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Enhance README with troubleshooting and FAQ | Medium | [#689](https://github.com/lovelymahor/StudyMatePlus/pull/689) |
+| Add Troubleshooting Guide and FAQ to Documentation | Medium | [#688](https://github.com/lovelymahor/StudyMatePlus/issues/688) |
 | fix(login): improve login page UI | Medium | [#687](https://github.com/lovelymahor/StudyMatePlus/pull/687) |
 | Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
 | Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
@@ -594,8 +596,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
 | fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
 | Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
-| Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
-| Feedback page displays hardcoded feedback instead of saved feedback | Medium | [#654](https://github.com/lovelymahor/StudyMatePlus/issues/654) |
 
 ---
 
@@ -651,28 +651,18 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps-dev): bump @storybook/preset-create-react-app from 10.4.1 to 10.5.3 | Easy | [#10669](https://github.com/SandeepVashishtha/Eventra/pull/10669) |
-| chore(deps-dev): bump @vitejs/plugin-react from 6.0.2 to 6.0.3 | Easy | [#10668](https://github.com/SandeepVashishtha/Eventra/pull/10668) |
-| chore(deps): bump framer-motion from 11.18.2 to 12.42.2 in the framer-motion group across 1 directory | Easy | [#10666](https://github.com/SandeepVashishtha/Eventra/pull/10666) |
-| Virtual waiting room queue for high-demand ticket sales | Medium | [#10787](https://github.com/SandeepVashishtha/Eventra/issues/10787) |
-| Drag and drop bulk image upload for event galleries | Medium | [#10786](https://github.com/SandeepVashishtha/Eventra/issues/10786) |
-| Dynamic Ticket Pricing and Early Bird Tiers | Medium | [#10785](https://github.com/SandeepVashishtha/Eventra/issues/10785) |
-| Add @username mentioning support in LiveQABoard and Event Chat | Medium | [#10784](https://github.com/SandeepVashishtha/Eventra/issues/10784) |
-| Uncaught SyntaxError in securityEventLogger crashes security tracking | Medium | [#10783](https://github.com/SandeepVashishtha/Eventra/issues/10783) |
-| LivePollController crashes the UI on invalid localStorage JSON | Medium | [#10782](https://github.com/SandeepVashishtha/Eventra/issues/10782) |
-| Unhandled setTimeout Memory Leak in EventRecommendation | Medium | [#10781](https://github.com/SandeepVashishtha/Eventra/issues/10781) |
-| Memory leak in TeamWorkspace fetch polling due to missing AbortController | Medium | [#10780](https://github.com/SandeepVashishtha/Eventra/issues/10780) |
-| Feature: AR-based Interactive Venue Navigation | Medium | [#10779](https://github.com/SandeepVashishtha/Eventra/issues/10779) |
-| Feature: Automated Multi-lingual Real-time Subtitling for Live Streams | Medium | [#10778](https://github.com/SandeepVashishtha/Eventra/issues/10778) |
-| Feature: Multi-chain NFT Ticketing System | Medium | [#10777](https://github.com/SandeepVashishtha/Eventra/issues/10777) |
-| Feature: Real-time Crowd Density Heatmaps for Venue Management | Medium | [#10776](https://github.com/SandeepVashishtha/Eventra/issues/10776) |
-| Feature: AI-Powered Attendee Matchmaking and Networking | Medium | [#10775](https://github.com/SandeepVashishtha/Eventra/issues/10775) |
-| chore(deps): bump the react-ecosystem group across 1 directory with 7 updates | Medium | [#10774](https://github.com/SandeepVashishtha/Eventra/pull/10774) |
-| fix(navbar): mobile navigation menu items non-scrolling and height clipping near footer | Medium | [#10715](https://github.com/SandeepVashishtha/Eventra/issues/10715) |
-| deleteNotification fails to decrement global unread count due to async React state updates | Medium | [#10680](https://github.com/SandeepVashishtha/Eventra/issues/10680) |
-| chore(deps-dev): bump the tailwind group across 1 directory with 3 updates | Medium | [#10667](https://github.com/SandeepVashishtha/Eventra/pull/10667) |
-| Issue: Add RTL (Right-to-Left) Language Support — starting with Arabic | Medium | [#10657](https://github.com/SandeepVashishtha/Eventra/issues/10657) |
-| Bug: HackathonsTab shows raw dates and missing-location UI without fallbacks | Medium | [#10646](https://github.com/SandeepVashishtha/Eventra/issues/10646) |
+| Post-Event Anonymous Feedback Surveys with Analytics | Medium | [#10870](https://github.com/SandeepVashishtha/Eventra/issues/10870) |
+| Gamified Leaderboard & Engagement Points for Virtual Events | Medium | [#10869](https://github.com/SandeepVashishtha/Eventra/issues/10869) |
+| Automated Certificates of Attendance Generation | Medium | [#10868](https://github.com/SandeepVashishtha/Eventra/issues/10868) |
+| Interactive 3D/Mapbox Venue Floor Plans | Medium | [#10867](https://github.com/SandeepVashishtha/Eventra/issues/10867) |
+| Stale state in handleSubmit closure when network toggles mid-typing | Medium | [#10866](https://github.com/SandeepVashishtha/Eventra/issues/10866) |
+| Safari iOS bottom navigation bar overlaps sticky checkout button | Medium | [#10865](https://github.com/SandeepVashishtha/Eventra/issues/10865) |
+| IndexedDB QuotaExceededError crashes service worker during heavy offline sync | Medium | [#10864](https://github.com/SandeepVashishtha/Eventra/issues/10864) |
+| Race condition in useDebouncedSearch when queries resolve out of order | Medium | [#10863](https://github.com/SandeepVashishtha/Eventra/issues/10863) |
+| SSE Multiplexer Tab Leadership Loss Not Handled — Memory Leak and Duplicate Connections | Medium | [#10844](https://github.com/SandeepVashishtha/Eventra/issues/10844) |
+| `extractSession` Called with Wrong Arguments in `AuthContext.js` | Medium | [#10843](https://github.com/SandeepVashishtha/Eventra/issues/10843) |
+| TOCTOU Race Condition in `useOfflineSync` localStorage Lock Across Browser Tabs | Medium | [#10842](https://github.com/SandeepVashishtha/Eventra/issues/10842) |
+| Duplicate React Router Route for `/event-recommendation` Causes Duplicate API Calls | Medium | [#10841](https://github.com/SandeepVashishtha/Eventra/issues/10841) |
 
 ---
 
