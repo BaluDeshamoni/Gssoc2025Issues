@@ -14,12 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| # 🚀 Feature Request: Add Patient Medical History Timeline | Medium | [#756](https://github.com/Dipanita45/HEALCONNECT/issues/756) |
-| Fix Client-Side Route Guard and Identity Bypass | Medium | [#755](https://github.com/Dipanita45/HEALCONNECT/pull/755) |
-| Comprehensive Accessibility (a11y) Audit & Fixes | Medium | [#754](https://github.com/Dipanita45/HEALCONNECT/issues/754) |
-| Implement Skeleton Loaders for Dashboard Data Fetching | Medium | [#752](https://github.com/Dipanita45/HEALCONNECT/issues/752) |
-| Unawaited Async Write in Doctor Registration (Race Condition) | Medium | [#750](https://github.com/Dipanita45/HEALCONNECT/issues/750) |
-| Bug in Offline Data Manager (Database Writes) | Medium | [#749](https://github.com/Dipanita45/HEALCONNECT/issues/749) |
+| Add Input Validation and User-Friendly Error Messages Across Forms | Medium | [#758](https://github.com/Dipanita45/HEALCONNECT/issues/758) |
 
 ---
 
@@ -57,6 +52,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add Breadth-First Search (BFS) and Depth-First Search (DFS) traversal iterators with visitor pattern support | Medium | [#374](https://github.com/SharonIV0x86/CinderPeak/issues/374) |
+| Add graph serialization and deserialization (JSON and adjacency list formats) for persistence and interoperability | Medium | [#373](https://github.com/SharonIV0x86/CinderPeak/issues/373) |
+| Add Dijkstra's Shortest Path algorithm with a generic weight extractor to the algorithm suite | Medium | [#372](https://github.com/SharonIV0x86/CinderPeak/issues/372) |
 | feat: implement cycle detection for both directed (DFS coloring) and undirected (Union-Find) graphs — the library exposes graph structure but provides no way to test whether a graph contains cycles, which is essential for DAG validation | Medium | [#370](https://github.com/SharonIV0x86/CinderPeak/issues/370) |
 | feat: add GraphML / DOT (Graphviz) serialization support — `CinderGraph` instances cannot be saved to disk or visualized externally, making it impossible to persist or debug graph structures | Medium | [#369](https://github.com/SharonIV0x86/CinderPeak/issues/369) |
 | feat: implement Dijkstra's shortest path algorithm as a graph traversal method on `CinderGraph<V, E>` — the library has BFS/DFS traversal but no weighted shortest-path algorithm despite supporting weighted edges natively | Medium | [#368](https://github.com/SharonIV0x86/CinderPeak/issues/368) |
@@ -81,10 +79,6 @@
 | Feature: Add API Usage Analytics Dashboard | Medium | [#346](https://github.com/SharonIV0x86/CinderPeak/issues/346) |
 | Feature: Add Activity Audit Log Viewer | Medium | [#345](https://github.com/SharonIV0x86/CinderPeak/issues/345) |
 | Feature: Add Real-Time System Health Monitoring Dashboard | Medium | [#344](https://github.com/SharonIV0x86/CinderPeak/issues/344) |
-| Feature/transactional integrity | Medium | [#343](https://github.com/SharonIV0x86/CinderPeak/pull/343) |
-| Feature/self loop cleanup | Medium | [#342](https://github.com/SharonIV0x86/CinderPeak/pull/342) |
-| Feature/efficient backend population | Medium | [#341](https://github.com/SharonIV0x86/CinderPeak/pull/341) |
-| Implement comparison and stream operators for PeakStatus | Medium | [#340](https://github.com/SharonIV0x86/CinderPeak/pull/340) |
 
 ---
 
