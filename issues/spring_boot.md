@@ -129,10 +129,18 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps-dev): bump @storybook/preset-create-react-app from 10.4.1 to 10.5.3 | Easy | [#10669](https://github.com/SandeepVashishtha/Eventra/pull/10669) |
-| chore(deps-dev): bump @vitejs/plugin-react from 6.0.2 to 6.0.3 | Easy | [#10668](https://github.com/SandeepVashishtha/Eventra/pull/10668) |
-| deleteNotification fails to decrement global unread count due to async React state updates | Medium | [#10680](https://github.com/SandeepVashishtha/Eventra/issues/10680) |
-| chore(deps-dev): bump the tailwind group across 1 directory with 3 updates | Medium | [#10667](https://github.com/SandeepVashishtha/Eventra/pull/10667) |
+| Post-Event Anonymous Feedback Surveys with Analytics | Medium | [#10870](https://github.com/SandeepVashishtha/Eventra/issues/10870) |
+| Gamified Leaderboard & Engagement Points for Virtual Events | Medium | [#10869](https://github.com/SandeepVashishtha/Eventra/issues/10869) |
+| Automated Certificates of Attendance Generation | Medium | [#10868](https://github.com/SandeepVashishtha/Eventra/issues/10868) |
+| Interactive 3D/Mapbox Venue Floor Plans | Medium | [#10867](https://github.com/SandeepVashishtha/Eventra/issues/10867) |
+| Stale state in handleSubmit closure when network toggles mid-typing | Medium | [#10866](https://github.com/SandeepVashishtha/Eventra/issues/10866) |
+| Safari iOS bottom navigation bar overlaps sticky checkout button | Medium | [#10865](https://github.com/SandeepVashishtha/Eventra/issues/10865) |
+| IndexedDB QuotaExceededError crashes service worker during heavy offline sync | Medium | [#10864](https://github.com/SandeepVashishtha/Eventra/issues/10864) |
+| Race condition in useDebouncedSearch when queries resolve out of order | Medium | [#10863](https://github.com/SandeepVashishtha/Eventra/issues/10863) |
+| SSE Multiplexer Tab Leadership Loss Not Handled — Memory Leak and Duplicate Connections | Medium | [#10844](https://github.com/SandeepVashishtha/Eventra/issues/10844) |
+| `extractSession` Called with Wrong Arguments in `AuthContext.js` | Medium | [#10843](https://github.com/SandeepVashishtha/Eventra/issues/10843) |
+| TOCTOU Race Condition in `useOfflineSync` localStorage Lock Across Browser Tabs | Medium | [#10842](https://github.com/SandeepVashishtha/Eventra/issues/10842) |
+| Duplicate React Router Route for `/event-recommendation` Causes Duplicate API Calls | Medium | [#10841](https://github.com/SandeepVashishtha/Eventra/issues/10841) |
 
 ---
 
