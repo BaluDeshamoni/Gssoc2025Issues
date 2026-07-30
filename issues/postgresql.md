@@ -119,9 +119,10 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | chore: 15+ development fix scripts committed to repository root (apply-fix.js, complete-fix.ps1, fix-*.mjs, etc.) — these one-off automation scripts create severe confusion for contributors and should be removed | Easy | [#1065](https://github.com/Muneerali199/Draftdeckai/issues/1065) |
 | fix: repair diagnostic page guard | Easy | [#1062](https://github.com/Muneerali199/Draftdeckai/pull/1062) |
 | fix: add security warnings and runtime guard for SUPABASE_SERVICE_ROLE_KEY | Easy | [#1058](https://github.com/Muneerali199/Draftdeckai/pull/1058) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 54 updates | Medium | [#1078](https://github.com/Muneerali199/Draftdeckai/pull/1078) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 56 updates | Medium | [#1082](https://github.com/Muneerali199/Draftdeckai/pull/1082) |
+| increase Jest coverage for Resume Generation API routes and validation edge cases | Medium | [#1081](https://github.com/Muneerali199/Draftdeckai/issues/1081) |
+| test: add Jest coverage for ATS Score Checker | Medium | [#1080](https://github.com/Muneerali199/Draftdeckai/pull/1080) |
 | AI-powered hero video for landing page — generate, enhance & integrate | Medium | [#1077](https://github.com/Muneerali199/Draftdeckai/issues/1077) |
-| test: add Jest coverage for the ATS Score Checker — no test file currently exists despite `jest.config.mjs` being configured | Medium | [#1068](https://github.com/Muneerali199/Draftdeckai/issues/1068) |
 | fix: add idempotency/re-validation to the credits deduction flow to prevent double-charging on retried generation requests | Medium | [#1067](https://github.com/Muneerali199/Draftdeckai/issues/1067) |
 | fix: harden client error logging | Medium | [#1064](https://github.com/Muneerali199/Draftdeckai/pull/1064) |
 | fix: support linkedin jobs in extension | Medium | [#1063](https://github.com/Muneerali199/Draftdeckai/pull/1063) |
@@ -344,16 +345,18 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps-dev): bump @storybook/preset-create-react-app from 10.4.1 to 10.5.2 | Medium | [#10669](https://github.com/SandeepVashishtha/Eventra/pull/10669) |
-| chore(deps-dev): bump @vitejs/plugin-react from 6.0.2 to 6.0.3 | Medium | [#10668](https://github.com/SandeepVashishtha/Eventra/pull/10668) |
-| chore(deps-dev): bump the tailwind group with 3 updates | Medium | [#10667](https://github.com/SandeepVashishtha/Eventra/pull/10667) |
-| chore(deps): bump framer-motion from 11.18.2 to 12.42.2 in the framer-motion group | Medium | [#10666](https://github.com/SandeepVashishtha/Eventra/pull/10666) |
-| chore(deps): bump the react-ecosystem group with 5 updates | Medium | [#10665](https://github.com/SandeepVashishtha/Eventra/pull/10665) |
-| Bug: Multiple isCoolingDown() calls can cause inconsistent cooldown UI | Medium | [#10660](https://github.com/SandeepVashishtha/Eventra/issues/10660) |
-| Bug: ProjectsTab uses SearchEmptyState for initial empty state instead of a generic empty state | Medium | [#10655](https://github.com/SandeepVashishtha/Eventra/issues/10655) |
-| Bug: ProjectsTab renders raw lastUpdate values without formatting and displays an empty "Updated:" label when lastUpdate is missing | Medium | [#10653](https://github.com/SandeepVashishtha/Eventra/issues/10653) |
-| Bug: HackathonsTab shows search empty state instead of default empty state when no hackathons exist | Medium | [#10648](https://github.com/SandeepVashishtha/Eventra/issues/10648) |
-| Bug: HackathonsTab shows raw dates and missing-location UI without fallbacks | Medium | [#10646](https://github.com/SandeepVashishtha/Eventra/issues/10646) |
+| Post-Event Anonymous Feedback Surveys with Analytics | Medium | [#10870](https://github.com/SandeepVashishtha/Eventra/issues/10870) |
+| Gamified Leaderboard & Engagement Points for Virtual Events | Medium | [#10869](https://github.com/SandeepVashishtha/Eventra/issues/10869) |
+| Automated Certificates of Attendance Generation | Medium | [#10868](https://github.com/SandeepVashishtha/Eventra/issues/10868) |
+| Interactive 3D/Mapbox Venue Floor Plans | Medium | [#10867](https://github.com/SandeepVashishtha/Eventra/issues/10867) |
+| Stale state in handleSubmit closure when network toggles mid-typing | Medium | [#10866](https://github.com/SandeepVashishtha/Eventra/issues/10866) |
+| Safari iOS bottom navigation bar overlaps sticky checkout button | Medium | [#10865](https://github.com/SandeepVashishtha/Eventra/issues/10865) |
+| IndexedDB QuotaExceededError crashes service worker during heavy offline sync | Medium | [#10864](https://github.com/SandeepVashishtha/Eventra/issues/10864) |
+| Race condition in useDebouncedSearch when queries resolve out of order | Medium | [#10863](https://github.com/SandeepVashishtha/Eventra/issues/10863) |
+| SSE Multiplexer Tab Leadership Loss Not Handled — Memory Leak and Duplicate Connections | Medium | [#10844](https://github.com/SandeepVashishtha/Eventra/issues/10844) |
+| `extractSession` Called with Wrong Arguments in `AuthContext.js` | Medium | [#10843](https://github.com/SandeepVashishtha/Eventra/issues/10843) |
+| TOCTOU Race Condition in `useOfflineSync` localStorage Lock Across Browser Tabs | Medium | [#10842](https://github.com/SandeepVashishtha/Eventra/issues/10842) |
+| Duplicate React Router Route for `/event-recommendation` Causes Duplicate API Calls | Medium | [#10841](https://github.com/SandeepVashishtha/Eventra/issues/10841) |
 
 ---
 
