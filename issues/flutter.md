@@ -48,6 +48,10 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Add a "Bookmark" feature so users can save their favourite programs for quick access | Medium | [#494](https://github.com/andoriyaprashant/OpSo/issues/494) |
+| Add a search/filter bar on the home screen to quickly find programs by name or category | Medium | [#493](https://github.com/andoriyaprashant/OpSo/issues/493) |
+| Add GSSoC 2025 and 2026 program details — the app currently only covers GSSoC 2024 | Medium | [#492](https://github.com/andoriyaprashant/OpSo/issues/492) |
+| .env file is committed to the repository and must be removed immediately — secrets may be exposed | Medium | [#491](https://github.com/andoriyaprashant/OpSo/issues/491) |
 | Add GitHub Actions CI workflow to run flutter analyze and flutter test on every PR | Medium | [#490](https://github.com/andoriyaprashant/OpSo/issues/490) |
 | Add a Search / Filter functionality on the Home Screen to quickly find programs by name or category | Medium | [#489](https://github.com/andoriyaprashant/OpSo/issues/489) |
 | .env file is committed to the public repository — API keys and sensitive configuration are exposed | Medium | [#488](https://github.com/andoriyaprashant/OpSo/issues/488) |
