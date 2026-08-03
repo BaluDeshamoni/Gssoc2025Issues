@@ -101,7 +101,6 @@
 | Reorganized folder structure as per GSSoC task | Medium | [#24](https://github.com/Ananya-te/MusicTrackerAPI/pull/24) |
 | webpage making @Nischala Medavarapu | Medium | [#23](https://github.com/Ananya-te/MusicTrackerAPI/issues/23) |
 | Add Update and Delete Functionality to Music Tracker API | Medium | [#20](https://github.com/Ananya-te/MusicTrackerAPI/issues/20) |
-| Enhanced README.md for Improved Clarity, Project Structure, and Developer Onboarding | Medium | [#19](https://github.com/Ananya-te/MusicTrackerAPI/pull/19) |
 | done with the file structure fix | Medium | [#14](https://github.com/Ananya-te/MusicTrackerAPI/pull/14) |
 | Readme Enhancement for better readability and scalability | Medium | [#13](https://github.com/Ananya-te/MusicTrackerAPI/pull/13) |
 | Add code_of_conduct.md file to the Repository | Medium | [#11](https://github.com/Ananya-te/MusicTrackerAPI/issues/11) |
@@ -208,15 +207,18 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
+| Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| chore(deps): bump the version-updates group across 1 directory with 2 updates | Medium | [#5352](https://github.com/OWASP/Nest/pull/5352) |
+| Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
+| Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
+| Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
+| Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
 | Add Django Comand To Generate Candidate Claims | Medium | [#5313](https://github.com/OWASP/Nest/pull/5313) |
 | Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
-| Optimize entity leaders and entity channels in CommitteeNode | Medium | [#5300](https://github.com/OWASP/Nest/pull/5300) |
-| Optimize OWASP SnapshotNode | Medium | [#5273](https://github.com/OWASP/Nest/pull/5273) |
-| feat(o11y): add RQ worker custom metrics | Medium | [#5272](https://github.com/OWASP/Nest/pull/5272) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
-| Optimize MemberSnapshotNode | Medium | [#5258](https://github.com/OWASP/Nest/pull/5258) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
-| Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
+| Add ActivityEvent model and builder | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
 
 ---
 
@@ -988,7 +990,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Zomato Restaurant Data Analysis and Visualization | Medium | [#1821](https://github.com/UTSAVS26/PyVerse/issues/1821) |
 | 🧑‍💻: Add README.md for a Beginner Python Project Folder | Medium | [#1817](https://github.com/UTSAVS26/PyVerse/issues/1817) |
 
 ---
@@ -1054,35 +1055,36 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: fix cookies() async and remove hashed confirmPassword | Medium | [#583](https://github.com/aayushraj1010/med-genie/pull/583) |
-| Add AI-Powered Prescription OCR & Medication Dosage Summarizer | Medium | [#582](https://github.com/aayushraj1010/med-genie/issues/582) |
-| Static navigation bar overlaps page content on the "Find Specialist" page | Medium | [#581](https://github.com/aayushraj1010/med-genie/issues/581) |
-| "Find Specialist" form accepts unrealistic age values without validation | Medium | [#580](https://github.com/aayushraj1010/med-genie/issues/580) |
-| fix: missing await in token blacklist check and rate-limit reset time | Medium | [#579](https://github.com/aayushraj1010/med-genie/pull/579) |
-| Critical Remote Code Execution (RCE) vulnerability in CalculatorTool using JavaScript eval() | Medium | [#578](https://github.com/aayushraj1010/med-genie/issues/578) |
-| LangChain ReAct agent relies on remote prompt pulling without offline fallback | Medium | [#577](https://github.com/aayushraj1010/med-genie/issues/577) |
-| Implement AI model evaluation & safety benchmark harness | Medium | [#576](https://github.com/aayushraj1010/med-genie/issues/576) |
-| UI Enhancement: Redesign Navbar with a Premium Modern Look | Medium | [#575](https://github.com/aayushraj1010/med-genie/issues/575) |
-| On Clicking Location , It's showing white bg color . | Medium | [#574](https://github.com/aayushraj1010/med-genie/issues/574) |
-| docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
-| Login/Sign-up button shows "Signing in..." / "Creating account..." on initial page load | Medium | [#572](https://github.com/aayushraj1010/med-genie/issues/572) |
-| Navigation Bar is not completely responsive | Medium | [#571](https://github.com/aayushraj1010/med-genie/issues/571) |
-| Google Auth Issue upon signing up | Medium | [#570](https://github.com/aayushraj1010/med-genie/issues/570) |
-| UI: Bold key phrases in Hero Section description. | Medium | [#569](https://github.com/aayushraj1010/med-genie/issues/569) |
-| Chat bot error | Medium | [#568](https://github.com/aayushraj1010/med-genie/issues/568) |
-| Google Auth issue | Medium | [#567](https://github.com/aayushraj1010/med-genie/issues/567) |
-| OAuth Access Token Leaked via URL Query Params in Google Callback | Medium | [#566](https://github.com/aayushraj1010/med-genie/issues/566) |
-| docs: README privacy claims conflict with documented persistence architecture and data storage behavior | Medium | [#564](https://github.com/aayushraj1010/med-genie/issues/564) |
-| security: Insecure default JWT_SECRET fallback enables token forgery and full account takeover | Medium | [#563](https://github.com/aayushraj1010/med-genie/issues/563) |
-| UI Inconsistency Across Routes (Global Styles / Navigation Component Breakdown) | Medium | [#562](https://github.com/aayushraj1010/med-genie/issues/562) |
-| fix: batch - contact/FAQ links, cookies/terms routing, navbar alignment | Medium | [#560](https://github.com/aayushraj1010/med-genie/pull/560) |
-| Proposal: Add Symptom Classification Model and Medical Handbook RAG Pipeline | Medium | [#559](https://github.com/aayushraj1010/med-genie/issues/559) |
-| Feat: Add hover effect to button | Medium | [#558](https://github.com/aayushraj1010/med-genie/issues/558) |
-| Contact Us Navigation Link Does Not Navigate to Contact Section | Medium | [#557](https://github.com/aayushraj1010/med-genie/issues/557) |
-| Downgrade dotenv package version to 16.4.5 | Medium | [#556](https://github.com/aayushraj1010/med-genie/pull/556) |
-| Contact Us and FAQ link is static and doesn't render to any webpage | Medium | [#555](https://github.com/aayushraj1010/med-genie/issues/555) |
-| Bug :Navbar Overlaps Hero Section Content on Multiple Pages | Medium | [#554](https://github.com/aayushraj1010/med-genie/issues/554) |
-| DOC : Add a FAQ section to contributing.md file | Medium | [#553](https://github.com/aayushraj1010/med-genie/issues/553) |
+| Chat camera/upload button POSTs to non-existent `/api/upload` → silent 404 | Medium | [#640](https://github.com/aayushraj1010/med-genie/issues/640) |
+| Google OAuth sets refresh cookie as `refreshToken` but backend reads `refresh_token` | Medium | [#639](https://github.com/aayushraj1010/med-genie/issues/639) |
+| Users force-logged-out every ~15 min: refresh-token cookie is never set by the frontend | Medium | [#638](https://github.com/aayushraj1010/med-genie/issues/638) |
+| fix: code quality and safety improvements | Medium | [#637](https://github.com/aayushraj1010/med-genie/pull/637) |
+| fix: code quality and safety improvements | Medium | [#636](https://github.com/aayushraj1010/med-genie/pull/636) |
+| fix: code quality and safety improvements | Medium | [#635](https://github.com/aayushraj1010/med-genie/pull/635) |
+| fix: code quality and safety improvements | Medium | [#634](https://github.com/aayushraj1010/med-genie/pull/634) |
+| fix: code quality and safety improvements | Medium | [#633](https://github.com/aayushraj1010/med-genie/pull/633) |
+| fix: code quality and safety improvements | Medium | [#632](https://github.com/aayushraj1010/med-genie/pull/632) |
+| fix: resolve 1 bugs | Medium | [#631](https://github.com/aayushraj1010/med-genie/pull/631) |
+| fix: code quality and safety improvements | Medium | [#630](https://github.com/aayushraj1010/med-genie/pull/630) |
+| fix: resolve 1 bugs | Medium | [#629](https://github.com/aayushraj1010/med-genie/pull/629) |
+| fix: resolve 1 bugs | Medium | [#628](https://github.com/aayushraj1010/med-genie/pull/628) |
+| fix: code quality and safety improvements | Medium | [#626](https://github.com/aayushraj1010/med-genie/pull/626) |
+| fix: code quality and safety improvements | Medium | [#625](https://github.com/aayushraj1010/med-genie/pull/625) |
+| fix: code quality and safety improvements | Medium | [#624](https://github.com/aayushraj1010/med-genie/pull/624) |
+| fix: code quality and safety improvements | Medium | [#623](https://github.com/aayushraj1010/med-genie/pull/623) |
+| fix: code quality and safety improvements | Medium | [#622](https://github.com/aayushraj1010/med-genie/pull/622) |
+| fix: code quality and safety improvements | Medium | [#621](https://github.com/aayushraj1010/med-genie/pull/621) |
+| fix: code quality and safety improvements | Medium | [#620](https://github.com/aayushraj1010/med-genie/pull/620) |
+| fix: code quality and safety improvements | Medium | [#619](https://github.com/aayushraj1010/med-genie/pull/619) |
+| fix: code quality and safety improvements | Medium | [#618](https://github.com/aayushraj1010/med-genie/pull/618) |
+| fix: improve error handling | Medium | [#617](https://github.com/aayushraj1010/med-genie/pull/617) |
+| fix: add safety checks | Medium | [#616](https://github.com/aayushraj1010/med-genie/pull/616) |
+| fix: improve error handling | Medium | [#615](https://github.com/aayushraj1010/med-genie/pull/615) |
+| fix: improve error handling | Medium | [#614](https://github.com/aayushraj1010/med-genie/pull/614) |
+| fix: improve error handling | Medium | [#613](https://github.com/aayushraj1010/med-genie/pull/613) |
+| fix: improve error handling | Medium | [#612](https://github.com/aayushraj1010/med-genie/pull/612) |
+| fix: improve error handling | Medium | [#611](https://github.com/aayushraj1010/med-genie/pull/611) |
+| fix: improve error handling | Medium | [#610](https://github.com/aayushraj1010/med-genie/pull/610) |
 
 ---
 
