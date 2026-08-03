@@ -93,16 +93,18 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add dependency maintenance documentation section | Easy | [#5279](https://github.com/OWASP/Nest/pull/5279) |
-| Merge the updates from main | Easy | [#5274](https://github.com/OWASP/Nest/pull/5274) |
-| bump immutable from 5.1.6 to 5.1.8 | Medium | [#5289](https://github.com/OWASP/Nest/pull/5289) |
-| Optimize entity_leaders and entity_channels in ChapterNode | Medium | [#5285](https://github.com/OWASP/Nest/pull/5285) |
-| Optimize OWASP SnapshotNode | Medium | [#5273](https://github.com/OWASP/Nest/pull/5273) |
-| feat(o11y): add RQ worker custom metrics | Medium | [#5272](https://github.com/OWASP/Nest/pull/5272) |
+| feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
+| Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| chore(deps): bump the version-updates group across 1 directory with 2 updates | Medium | [#5352](https://github.com/OWASP/Nest/pull/5352) |
+| Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
+| Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
+| Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
+| Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
+| Add Django Comand To Generate Candidate Claims | Medium | [#5313](https://github.com/OWASP/Nest/pull/5313) |
+| Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
-| Optimize MemberSnapshotNode | Medium | [#5258](https://github.com/OWASP/Nest/pull/5258) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
-| Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
+| Add ActivityEvent model and builder | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
 
 ---
 
@@ -638,6 +640,15 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| security: TOCTOU Race Condition in QA Approvals | Medium | [#458](https://github.com/LarytheLord/Adventurers-Guild/issues/458) |
+| Fix: Restrict /api/users/search to admin role to prevent PII leak | Medium | [#457](https://github.com/LarytheLord/Adventurers-Guild/pull/457) |
+| seo: Root meta description still describes the old developer-marketplace model | Medium | [#454](https://github.com/LarytheLord/Adventurers-Guild/issues/454) |
+| chore: NEXT_PUBLIC_GA_ID is declared but never actually used | Medium | [#453](https://github.com/LarytheLord/Adventurers-Guild/issues/453) |
+| seo: Quest detail pages use static, generic metadata instead of the real quest title/description | Medium | [#452](https://github.com/LarytheLord/Adventurers-Guild/issues/452) |
+| bug: Quest social-share image is broken — points to non-existent /og/default.png | Medium | [#451](https://github.com/LarytheLord/Adventurers-Guild/issues/451) |
+| seo: Missing sitemap.xml and robots.txt | Medium | [#450](https://github.com/LarytheLord/Adventurers-Guild/issues/450) |
+| bug: Data Leak in User Search | Medium | [#449](https://github.com/LarytheLord/Adventurers-Guild/issues/449) |
+| bug: Invisible Text on Dark Background in Admin Dashboard | Medium | [#448](https://github.com/LarytheLord/Adventurers-Guild/issues/448) |
 | feat: Add QuestBriefSchema fields to quest creation API (#257) | Medium | [#447](https://github.com/LarytheLord/Adventurers-Guild/pull/447) |
 | feat: Add secure email change flow with verification to OLD email (#407) | Medium | [#446](https://github.com/LarytheLord/Adventurers-Guild/pull/446) |
 | fix: Move XP reward inside transaction to prevent permanent XP loss (#324) | Medium | [#445](https://github.com/LarytheLord/Adventurers-Guild/pull/445) |
@@ -649,16 +660,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | feat: Admin Analytics API — platform health metrics | Medium | [#408](https://github.com/LarytheLord/Adventurers-Guild/issues/408) |
 | security: Secure email change flow for NextAuth/Prisma stack | Medium | [#407](https://github.com/LarytheLord/Adventurers-Guild/issues/407) |
 | feat: Quest track filtering — enforce BOOTCAMP/INTERN/OPEN visibility | Medium | [#406](https://github.com/LarytheLord/Adventurers-Guild/issues/406) |
-| fix: Admin QA reject/approve skips syncQuestLifecycleStatus — quest status stuck after admin action | Medium | [#330](https://github.com/LarytheLord/Adventurers-Guild/issues/330) |
 | fix: XP reward runs outside DB transaction — adventurer permanently loses XP if second write fails | Medium | [#324](https://github.com/LarytheLord/Adventurers-Guild/issues/324) |
 | CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
-| Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
-| feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
-| Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
-| NSoC 2026 Contribution Tracking & XP Awards | Medium | [#184](https://github.com/LarytheLord/Adventurers-Guild/issues/184) |
 
 ---
 
@@ -1033,6 +1039,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| V1 koustav | Medium | [#67](https://github.com/EasyGoDocs/easygodocs/pull/67) |
 | line remove(readme.md) | Medium | [#64](https://github.com/EasyGoDocs/easygodocs/pull/64) |
 | V1 oindil | Medium | [#60](https://github.com/EasyGoDocs/easygodocs/pull/60) |
 | Docs must be simpler. We provide simple solutions. | Medium | [#58](https://github.com/EasyGoDocs/easygodocs/issues/58) |
@@ -1247,7 +1254,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(product-card): add product card block | Medium | [#142](https://github.com/subhadeeproy3902/mvpblocks/pull/142) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
