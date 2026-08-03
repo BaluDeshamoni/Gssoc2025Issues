@@ -316,6 +316,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create ARCHITECTURE.md documentation | Medium | [#1952](https://github.com/apu52/Travel_Website/issues/1952) |
+| Add Dependabot configuration for automated dependency updates | Medium | [#1951](https://github.com/apu52/Travel_Website/issues/1951) |
+| Implement Prettier for automated code formatting | Medium | [#1950](https://github.com/apu52/Travel_Website/issues/1950) |
 | fix: address validation and contributors page boundary fixes | Medium | [#1949](https://github.com/apu52/Travel_Website/pull/1949) |
 | fix: implicit global variables in carousel JS | Medium | [#1948](https://github.com/apu52/Travel_Website/pull/1948) |
 | fix: prevent Google Maps iframe from overflowing footer container (#1938) | Medium | [#1947](https://github.com/apu52/Travel_Website/pull/1947) |
@@ -343,9 +346,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Add new UI sections (Testimonials / FAQ / Newsletter / Destination Details) | Medium | [#1924](https://github.com/apu52/Travel_Website/issues/1924) |
 | Add scroll to top button & i18n languages | Medium | [#1923](https://github.com/apu52/Travel_Website/issues/1923) |
 | Footer improvement needed on book now page under packages | Medium | [#1922](https://github.com/apu52/Travel_Website/issues/1922) |
-| UI Enhancement | Medium | [#1921](https://github.com/apu52/Travel_Website/issues/1921) |
-| style: enhance button hover and focus interaction | Medium | [#1920](https://github.com/apu52/Travel_Website/pull/1920) |
-| Add Navbar | Medium | [#1919](https://github.com/apu52/Travel_Website/issues/1919) |
 
 ---
 
@@ -1071,6 +1071,25 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add Live Deployment for Project | Medium | [#74](https://github.com/sania28/clubmate/issues/74) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
+
+---
+
+## 📌 Project: recode-website
+
+📝 **Description:** community blog website 
+
+🔗 [View Project](https://github.com/recodehive/recode-website)
+
+💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| fix: resolve 3 bugs | Easy | [#2047](https://github.com/recodehive/recode-website/pull/2047) |
+| UI/ UX Change updates | Easy | [#2036](https://github.com/recodehive/recode-website/issues/2036) |
 
 ---
 
@@ -1823,36 +1842,36 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance README with troubleshooting and FAQ | Medium | [#689](https://github.com/lovelymahor/StudyMatePlus/pull/689) |
-| Add Troubleshooting Guide and FAQ to Documentation | Medium | [#688](https://github.com/lovelymahor/StudyMatePlus/issues/688) |
-| fix(login): improve login page UI | Medium | [#687](https://github.com/lovelymahor/StudyMatePlus/pull/687) |
-| Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
-| Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
-| Add global styles and premium Login/Register page styling | Medium | [#684](https://github.com/lovelymahor/StudyMatePlus/pull/684) |
-| Optimize testimonials section for smoother scrolling | Medium | [#683](https://github.com/lovelymahor/StudyMatePlus/pull/683) |
-| fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
-| UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
-| fix: delete uploaded temp file after processing in syllabus upload route | Medium | [#680](https://github.com/lovelymahor/StudyMatePlus/pull/680) |
-| Bug: Uploaded files in /api/syllabus/upload are never deleted from disk — causes unbounded storage growth and file retention risk | Medium | [#679](https://github.com/lovelymahor/StudyMatePlus/issues/679) |
-| Fix: Prevent adding empty or whitespace-only tasks | Medium | [#677](https://github.com/lovelymahor/StudyMatePlus/pull/677) |
-| bug: Urgent UI fixes (Logo clipping, massive section gap, and light theme text contrast) | Medium | [#676](https://github.com/lovelymahor/StudyMatePlus/issues/676) |
-| fix: use environment variable REACT_APP_API_URL for API calls in FeedbackModal and Notes | Medium | [#674](https://github.com/lovelymahor/StudyMatePlus/pull/674) |
-| fix: migrate OpenAI SDK integration to v4 and update deprecated model | Medium | [#673](https://github.com/lovelymahor/StudyMatePlus/pull/673) |
-| fix: prevent adding empty or whitespace-only tasks to To-Do list (#670) | Medium | [#672](https://github.com/lovelymahor/StudyMatePlus/pull/672) |
-| feat: Add Dockerization for seamless local development (#510) | Medium | [#671](https://github.com/lovelymahor/StudyMatePlus/pull/671) |
-| Bug: Empty tasks can be added to the To-Do list | Medium | [#670](https://github.com/lovelymahor/StudyMatePlus/issues/670) |
-| Add Empty State Illustrations for Notes, Flashcards, Quizzes, and Tasks | Medium | [#668](https://github.com/lovelymahor/StudyMatePlus/issues/668) |
-| Improve Dark Mode UI Consistency Across the Application | Medium | [#667](https://github.com/lovelymahor/StudyMatePlus/issues/667) |
-| Registration fails on the "Secure Your Account" step. After entering a valid password and clicking Create Account, the application displays a generic error message: | Medium | [#666](https://github.com/lovelymahor/StudyMatePlus/issues/666) |
-| feat: implement syllabus preview and download functionality | Medium | [#665](https://github.com/lovelymahor/StudyMatePlus/pull/665) |
-| Missing env variable validation on startup | Medium | [#664](https://github.com/lovelymahor/StudyMatePlus/issues/664) |
-| Feature: Add forgot password / reset flow | Medium | [#663](https://github.com/lovelymahor/StudyMatePlus/issues/663) |
-| Add Feedback Sorting and Filtering by Difficulty Rating | Medium | [#662](https://github.com/lovelymahor/StudyMatePlus/issues/662) |
-| UI Bug: Performance lag and non-circular transition in "What Students Say" carousel | Medium | [#661](https://github.com/lovelymahor/StudyMatePlus/issues/661) |
-| Add loading states and error handling for API requests | Medium | [#660](https://github.com/lovelymahor/StudyMatePlus/issues/660) |
-| fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
-| fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
-| Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
+| docs: Add API Endpoints Overview section to README | Medium | [#726](https://github.com/lovelymahor/StudyMatePlus/issues/726) |
+| Hero section overflows initial viewport at 100% browser zoom | Medium | [#725](https://github.com/lovelymahor/StudyMatePlus/issues/725) |
+| Improve footer text contrast for better readability and accessibility | Medium | [#724](https://github.com/lovelymahor/StudyMatePlus/issues/724) |
+| fix: resolve 1 bugs | Medium | [#723](https://github.com/lovelymahor/StudyMatePlus/pull/723) |
+| fix: resolve 1 bugs | Medium | [#722](https://github.com/lovelymahor/StudyMatePlus/pull/722) |
+| fix: code quality and safety improvements | Medium | [#721](https://github.com/lovelymahor/StudyMatePlus/pull/721) |
+| fixed: prevent adding empty tasks or whitespace-only inputs to to-do list | Medium | [#720](https://github.com/lovelymahor/StudyMatePlus/pull/720) |
+| Fixed unmanaged file storage on syllabus upload | Medium | [#719](https://github.com/lovelymahor/StudyMatePlus/pull/719) |
+| Add Multi-University and Department Filter with Persistent URL Query Params for Syllabus/PYQ Navigation | Medium | [#718](https://github.com/lovelymahor/StudyMatePlus/issues/718) |
+| Add Skeleton Loading States and Error Boundary Components Across All Data-Fetching Pages | Medium | [#717](https://github.com/lovelymahor/StudyMatePlus/issues/717) |
+| Implement Rate Limiting and Input Sanitization on Backend API Routes to Prevent Abuse | Medium | [#716](https://github.com/lovelymahor/StudyMatePlus/issues/716) |
+| Add GitHub Actions CI/CD Pipeline for Automated Build, Lint, and Dependency Audit on PRs | Medium | [#715](https://github.com/lovelymahor/StudyMatePlus/issues/715) |
+| Update .env.example with environment variables | Medium | [#714](https://github.com/lovelymahor/StudyMatePlus/pull/714) |
+| Remove stray root package.json and package-lock.json | Medium | [#713](https://github.com/lovelymahor/StudyMatePlus/pull/713) |
+| Add a Contact Us Page | Medium | [#712](https://github.com/lovelymahor/StudyMatePlus/issues/712) |
+| Update test to check StudyMatePlus navbar logo | Medium | [#711](https://github.com/lovelymahor/StudyMatePlus/pull/711) |
+| Fix duplicate multer entry in package.json | Medium | [#710](https://github.com/lovelymahor/StudyMatePlus/pull/710) |
+| Stray root package.json conflicts with client/server package.json | Medium | [#709](https://github.com/lovelymahor/StudyMatePlus/issues/709) |
+| Contribute.js: placeholder/broken links | Medium | [#708](https://github.com/lovelymahor/StudyMatePlus/issues/708) |
+| Default CRA App.test.js placeholder test left unmodified and broken | Medium | [#707](https://github.com/lovelymahor/StudyMatePlus/issues/707) |
+| MindMapEditor.js: search feature is dead code, never wired to the UI | Medium | [#706](https://github.com/lovelymahor/StudyMatePlus/issues/706) |
+| Syllabus.js: broken useMemo dependency array prevents memoization from updating | Medium | [#705](https://github.com/lovelymahor/StudyMatePlus/issues/705) |
+| document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
+| Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
+| Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
+| Notes.jsx calls backend endpoints that don't exist | Medium | [#701](https://github.com/lovelymahor/StudyMatePlus/issues/701) |
+| PYQs.js and Syllabus.js: browsing UI is mock-only, buttons non-functional | Medium | [#700](https://github.com/lovelymahor/StudyMatePlus/issues/700) |
+| Feedback.js displays hardcoded mock data instead of fetching real feedback | Medium | [#699](https://github.com/lovelymahor/StudyMatePlus/issues/699) |
+| FeedbackModal.js: hardcoded localhost API URL breaks in production | Medium | [#698](https://github.com/lovelymahor/StudyMatePlus/issues/698) |
+| SubmitFeedback.js: form submission does not call the backend API | Medium | [#697](https://github.com/lovelymahor/StudyMatePlus/issues/697) |
 
 ---
 
