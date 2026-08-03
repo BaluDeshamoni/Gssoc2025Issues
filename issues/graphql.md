@@ -14,16 +14,18 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| add dependency maintenance documentation section | Easy | [#5279](https://github.com/OWASP/Nest/pull/5279) |
-| Merge the updates from main | Easy | [#5274](https://github.com/OWASP/Nest/pull/5274) |
-| bump immutable from 5.1.6 to 5.1.8 | Medium | [#5289](https://github.com/OWASP/Nest/pull/5289) |
-| Optimize entity_leaders and entity_channels in ChapterNode | Medium | [#5285](https://github.com/OWASP/Nest/pull/5285) |
-| Optimize OWASP SnapshotNode | Medium | [#5273](https://github.com/OWASP/Nest/pull/5273) |
-| feat(o11y): add RQ worker custom metrics | Medium | [#5272](https://github.com/OWASP/Nest/pull/5272) |
+| feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
+| Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| chore(deps): bump the version-updates group across 1 directory with 2 updates | Medium | [#5352](https://github.com/OWASP/Nest/pull/5352) |
+| Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
+| Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
+| Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
+| Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
+| Add Django Comand To Generate Candidate Claims | Medium | [#5313](https://github.com/OWASP/Nest/pull/5313) |
+| Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
-| Optimize MemberSnapshotNode | Medium | [#5258](https://github.com/OWASP/Nest/pull/5258) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
-| Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
+| Add ActivityEvent model and builder | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
 
 ---
 
