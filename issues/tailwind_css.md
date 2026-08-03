@@ -247,14 +247,18 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
+| Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| chore(deps): bump the version-updates group across 1 directory with 2 updates | Medium | [#5352](https://github.com/OWASP/Nest/pull/5352) |
+| Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
+| Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
+| Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
+| Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
 | Add Django Comand To Generate Candidate Claims | Medium | [#5313](https://github.com/OWASP/Nest/pull/5313) |
 | Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
-| Optimize OWASP SnapshotNode | Medium | [#5273](https://github.com/OWASP/Nest/pull/5273) |
-| feat(o11y): add RQ worker custom metrics | Medium | [#5272](https://github.com/OWASP/Nest/pull/5272) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
-| Optimize MemberSnapshotNode | Medium | [#5258](https://github.com/OWASP/Nest/pull/5258) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
-| Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
+| Add ActivityEvent model and builder | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
 
 ---
 
@@ -507,9 +511,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add Input Validation and User-Friendly Error Messages Across Forms | Medium | [#758](https://github.com/Dipanita45/HEALCONNECT/issues/758) |
-| Error in page https://healconnect.vercel.app/how-it-works/ | Medium | [#757](https://github.com/Dipanita45/HEALCONNECT/issues/757) |
-| # 🚀 Feature Request: Add Patient Medical History Timeline | Medium | [#756](https://github.com/Dipanita45/HEALCONNECT/issues/756) |
-| Fix Client-Side Route Guard and Identity Bypass | Medium | [#755](https://github.com/Dipanita45/HEALCONNECT/pull/755) |
 
 ---
 
@@ -723,6 +724,15 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: code quality and safety improvements | Medium | [#757](https://github.com/GitMetricsLab/github_tracker/pull/757) |
+| fix: code quality and safety improvements | Medium | [#756](https://github.com/GitMetricsLab/github_tracker/pull/756) |
+| fix: code quality and safety improvements | Medium | [#755](https://github.com/GitMetricsLab/github_tracker/pull/755) |
+| fix: code quality and safety improvements | Medium | [#754](https://github.com/GitMetricsLab/github_tracker/pull/754) |
+| fix: code quality and safety improvements | Medium | [#753](https://github.com/GitMetricsLab/github_tracker/pull/753) |
+| fix: code quality and safety improvements | Medium | [#752](https://github.com/GitMetricsLab/github_tracker/pull/752) |
+| fix: code quality and safety improvements | Medium | [#751](https://github.com/GitMetricsLab/github_tracker/pull/751) |
+| fix: code quality and safety improvements | Medium | [#750](https://github.com/GitMetricsLab/github_tracker/pull/750) |
+| fix: code quality and safety improvements | Medium | [#749](https://github.com/GitMetricsLab/github_tracker/pull/749) |
 | Add conditional rendering for empty data state | Medium | [#748](https://github.com/GitMetricsLab/github_tracker/pull/748) |
 | feat: dynamic page title on route change | Medium | [#747](https://github.com/GitMetricsLab/github_tracker/pull/747) |
 | feat: add Terms and Conditions page and footer link | Medium | [#746](https://github.com/GitMetricsLab/github_tracker/pull/746) |
@@ -953,8 +963,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
-| ci(deps): bump trufflesecurity/trufflehog from 3.95.9 to 3.96.0 in the security-actions group | Medium | [#956](https://github.com/alienx5499/SortVision/pull/956) |
-| ci(deps): bump next from 16.2.10 to 16.2.11 in /SortVision in the npm_and_yarn group across 1 directory | Medium | [#955](https://github.com/alienx5499/SortVision/pull/955) |
+| ci(deps): bump next from 16.2.10 to 16.2.11 in /SortVision in the npm_and_yarn group across 1 directory | Medium | [#957](https://github.com/alienx5499/SortVision/pull/957) |
 | feat: add live speed control and sorting step explanations | Medium | [#865](https://github.com/alienx5499/SortVision/pull/865) |
 | Add Step-by-Step Explanation Mode Alongside Sorting Visualization | Medium | [#710](https://github.com/alienx5499/SortVision/issues/710) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
@@ -1473,6 +1482,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Missing Graceful Shutdown in Express Server | Medium | [#128](https://github.com/CoderUzumaki/PrepEdge-AI/issues/128) |
 | chore(deps): bump the production-dependencies group across 1 directory with 33 updates | Medium | [#127](https://github.com/CoderUzumaki/PrepEdge-AI/pull/127) |
 | Install Vercel Web Analytics | Medium | [#121](https://github.com/CoderUzumaki/PrepEdge-AI/pull/121) |
 | chore(deps-dev): bump eslint-plugin-react-refresh from 0.4.26 to 0.5.2 | Medium | [#119](https://github.com/CoderUzumaki/PrepEdge-AI/pull/119) |
@@ -1860,36 +1870,36 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance README with troubleshooting and FAQ | Medium | [#689](https://github.com/lovelymahor/StudyMatePlus/pull/689) |
-| Add Troubleshooting Guide and FAQ to Documentation | Medium | [#688](https://github.com/lovelymahor/StudyMatePlus/issues/688) |
-| fix(login): improve login page UI | Medium | [#687](https://github.com/lovelymahor/StudyMatePlus/pull/687) |
-| Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
-| Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
-| Add global styles and premium Login/Register page styling | Medium | [#684](https://github.com/lovelymahor/StudyMatePlus/pull/684) |
-| Optimize testimonials section for smoother scrolling | Medium | [#683](https://github.com/lovelymahor/StudyMatePlus/pull/683) |
-| fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
-| UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
-| fix: delete uploaded temp file after processing in syllabus upload route | Medium | [#680](https://github.com/lovelymahor/StudyMatePlus/pull/680) |
-| Bug: Uploaded files in /api/syllabus/upload are never deleted from disk — causes unbounded storage growth and file retention risk | Medium | [#679](https://github.com/lovelymahor/StudyMatePlus/issues/679) |
-| Fix: Prevent adding empty or whitespace-only tasks | Medium | [#677](https://github.com/lovelymahor/StudyMatePlus/pull/677) |
-| bug: Urgent UI fixes (Logo clipping, massive section gap, and light theme text contrast) | Medium | [#676](https://github.com/lovelymahor/StudyMatePlus/issues/676) |
-| fix: use environment variable REACT_APP_API_URL for API calls in FeedbackModal and Notes | Medium | [#674](https://github.com/lovelymahor/StudyMatePlus/pull/674) |
-| fix: migrate OpenAI SDK integration to v4 and update deprecated model | Medium | [#673](https://github.com/lovelymahor/StudyMatePlus/pull/673) |
-| fix: prevent adding empty or whitespace-only tasks to To-Do list (#670) | Medium | [#672](https://github.com/lovelymahor/StudyMatePlus/pull/672) |
-| feat: Add Dockerization for seamless local development (#510) | Medium | [#671](https://github.com/lovelymahor/StudyMatePlus/pull/671) |
-| Bug: Empty tasks can be added to the To-Do list | Medium | [#670](https://github.com/lovelymahor/StudyMatePlus/issues/670) |
-| Add Empty State Illustrations for Notes, Flashcards, Quizzes, and Tasks | Medium | [#668](https://github.com/lovelymahor/StudyMatePlus/issues/668) |
-| Improve Dark Mode UI Consistency Across the Application | Medium | [#667](https://github.com/lovelymahor/StudyMatePlus/issues/667) |
-| Registration fails on the "Secure Your Account" step. After entering a valid password and clicking Create Account, the application displays a generic error message: | Medium | [#666](https://github.com/lovelymahor/StudyMatePlus/issues/666) |
-| feat: implement syllabus preview and download functionality | Medium | [#665](https://github.com/lovelymahor/StudyMatePlus/pull/665) |
-| Missing env variable validation on startup | Medium | [#664](https://github.com/lovelymahor/StudyMatePlus/issues/664) |
-| Feature: Add forgot password / reset flow | Medium | [#663](https://github.com/lovelymahor/StudyMatePlus/issues/663) |
-| Add Feedback Sorting and Filtering by Difficulty Rating | Medium | [#662](https://github.com/lovelymahor/StudyMatePlus/issues/662) |
-| UI Bug: Performance lag and non-circular transition in "What Students Say" carousel | Medium | [#661](https://github.com/lovelymahor/StudyMatePlus/issues/661) |
-| Add loading states and error handling for API requests | Medium | [#660](https://github.com/lovelymahor/StudyMatePlus/issues/660) |
-| fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
-| fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
-| Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
+| docs: Add API Endpoints Overview section to README | Medium | [#726](https://github.com/lovelymahor/StudyMatePlus/issues/726) |
+| Hero section overflows initial viewport at 100% browser zoom | Medium | [#725](https://github.com/lovelymahor/StudyMatePlus/issues/725) |
+| Improve footer text contrast for better readability and accessibility | Medium | [#724](https://github.com/lovelymahor/StudyMatePlus/issues/724) |
+| fix: resolve 1 bugs | Medium | [#723](https://github.com/lovelymahor/StudyMatePlus/pull/723) |
+| fix: resolve 1 bugs | Medium | [#722](https://github.com/lovelymahor/StudyMatePlus/pull/722) |
+| fix: code quality and safety improvements | Medium | [#721](https://github.com/lovelymahor/StudyMatePlus/pull/721) |
+| fixed: prevent adding empty tasks or whitespace-only inputs to to-do list | Medium | [#720](https://github.com/lovelymahor/StudyMatePlus/pull/720) |
+| Fixed unmanaged file storage on syllabus upload | Medium | [#719](https://github.com/lovelymahor/StudyMatePlus/pull/719) |
+| Add Multi-University and Department Filter with Persistent URL Query Params for Syllabus/PYQ Navigation | Medium | [#718](https://github.com/lovelymahor/StudyMatePlus/issues/718) |
+| Add Skeleton Loading States and Error Boundary Components Across All Data-Fetching Pages | Medium | [#717](https://github.com/lovelymahor/StudyMatePlus/issues/717) |
+| Implement Rate Limiting and Input Sanitization on Backend API Routes to Prevent Abuse | Medium | [#716](https://github.com/lovelymahor/StudyMatePlus/issues/716) |
+| Add GitHub Actions CI/CD Pipeline for Automated Build, Lint, and Dependency Audit on PRs | Medium | [#715](https://github.com/lovelymahor/StudyMatePlus/issues/715) |
+| Update .env.example with environment variables | Medium | [#714](https://github.com/lovelymahor/StudyMatePlus/pull/714) |
+| Remove stray root package.json and package-lock.json | Medium | [#713](https://github.com/lovelymahor/StudyMatePlus/pull/713) |
+| Add a Contact Us Page | Medium | [#712](https://github.com/lovelymahor/StudyMatePlus/issues/712) |
+| Update test to check StudyMatePlus navbar logo | Medium | [#711](https://github.com/lovelymahor/StudyMatePlus/pull/711) |
+| Fix duplicate multer entry in package.json | Medium | [#710](https://github.com/lovelymahor/StudyMatePlus/pull/710) |
+| Stray root package.json conflicts with client/server package.json | Medium | [#709](https://github.com/lovelymahor/StudyMatePlus/issues/709) |
+| Contribute.js: placeholder/broken links | Medium | [#708](https://github.com/lovelymahor/StudyMatePlus/issues/708) |
+| Default CRA App.test.js placeholder test left unmodified and broken | Medium | [#707](https://github.com/lovelymahor/StudyMatePlus/issues/707) |
+| MindMapEditor.js: search feature is dead code, never wired to the UI | Medium | [#706](https://github.com/lovelymahor/StudyMatePlus/issues/706) |
+| Syllabus.js: broken useMemo dependency array prevents memoization from updating | Medium | [#705](https://github.com/lovelymahor/StudyMatePlus/issues/705) |
+| document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
+| Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
+| Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
+| Notes.jsx calls backend endpoints that don't exist | Medium | [#701](https://github.com/lovelymahor/StudyMatePlus/issues/701) |
+| PYQs.js and Syllabus.js: browsing UI is mock-only, buttons non-functional | Medium | [#700](https://github.com/lovelymahor/StudyMatePlus/issues/700) |
+| Feedback.js displays hardcoded mock data instead of fetching real feedback | Medium | [#699](https://github.com/lovelymahor/StudyMatePlus/issues/699) |
+| FeedbackModal.js: hardcoded localhost API URL breaks in production | Medium | [#698](https://github.com/lovelymahor/StudyMatePlus/issues/698) |
+| SubmitFeedback.js: form submission does not call the backend API | Medium | [#697](https://github.com/lovelymahor/StudyMatePlus/issues/697) |
 
 ---
 
@@ -1950,6 +1960,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| V1 koustav | Medium | [#67](https://github.com/EasyGoDocs/easygodocs/pull/67) |
 | line remove(readme.md) | Medium | [#64](https://github.com/EasyGoDocs/easygodocs/pull/64) |
 | V1 oindil | Medium | [#60](https://github.com/EasyGoDocs/easygodocs/pull/60) |
 | Docs must be simpler. We provide simple solutions. | Medium | [#58](https://github.com/EasyGoDocs/easygodocs/issues/58) |
@@ -2161,16 +2172,28 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Personalized AI-Generated Event Itineraries | Medium | [#10829](https://github.com/SandeepVashishtha/Eventra/issues/10829) |
-| Feature: Full Virtual Reality (VR) Hybrid Event Experience | Medium | [#10828](https://github.com/SandeepVashishtha/Eventra/issues/10828) |
-| Feature: Intelligent Power Management System Integration for Venues | Medium | [#10827](https://github.com/SandeepVashishtha/Eventra/issues/10827) |
-| Feature: DAO-style Event Governance for Community Events | Medium | [#10826](https://github.com/SandeepVashishtha/Eventra/issues/10826) |
-| Feature: Wearable Integration for Attendee Health Monitoring | Medium | [#10825](https://github.com/SandeepVashishtha/Eventra/issues/10825) |
-| Feature: Contactless Biometric Entry System | Medium | [#10824](https://github.com/SandeepVashishtha/Eventra/issues/10824) |
-| Feature: Real-time Emergency Evacuation Routing via Push Notifications | Medium | [#10823](https://github.com/SandeepVashishtha/Eventra/issues/10823) |
-| Feature: Decentralized Identity (DID) based Vendor Credential Verification | Medium | [#10822](https://github.com/SandeepVashishtha/Eventra/issues/10822) |
-| Feature: AI-driven Post-Event Sentiment Analysis from Social Media | Medium | [#10821](https://github.com/SandeepVashishtha/Eventra/issues/10821) |
-| Feature: Gamification Engine with Location-based Quests | Medium | [#10820](https://github.com/SandeepVashishtha/Eventra/issues/10820) |
+| chore(deps-dev): bump @vitejs/plugin-react from 6.0.4 to 6.0.5 | Easy | [#11113](https://github.com/SandeepVashishtha/Eventra/pull/11113) |
+| chore(deps): bump react-intersection-observer from 10.1.0 to 11.0.0 in the react-ecosystem group | Easy | [#11111](https://github.com/SandeepVashishtha/Eventra/pull/11111) |
+| security: Regex-based HTML fallback sanitizer may allow malformed HTML bypasses | Medium | [#11122](https://github.com/SandeepVashishtha/Eventra/issues/11122) |
+| security: Rate limiter trusts X-Forwarded-For header from untrusted clients | Medium | [#11121](https://github.com/SandeepVashishtha/Eventra/issues/11121) |
+| security: File validation allows dangerous extensions with trailing-dot filenames | Medium | [#11120](https://github.com/SandeepVashishtha/Eventra/issues/11120) |
+| security: Analytics endpoints are accessible to all authenticated users | Medium | [#11119](https://github.com/SandeepVashishtha/Eventra/issues/11119) |
+| security: Project upvote endpoint allows unlimited vote inflation | Medium | [#11118](https://github.com/SandeepVashishtha/Eventra/issues/11118) |
+| security: Event waitlist endpoint exposes attendee information to unrelated organizers | Medium | [#11117](https://github.com/SandeepVashishtha/Eventra/issues/11117) |
+| security: Broken Object-Level Authorization allows organizers to promote waitlisted users for any event | Medium | [#11116](https://github.com/SandeepVashishtha/Eventra/issues/11116) |
+| security: Broken Object-Level Authorization allows organizers to update any hackathon | Medium | [#11115](https://github.com/SandeepVashishtha/Eventra/issues/11115) |
+| chore(deps-dev): bump @playwright/test from 1.62.0 to 1.62.1 | Medium | [#11112](https://github.com/SandeepVashishtha/Eventra/pull/11112) |
+| Feature: Real-time Sentiment Analysis for Live Sessions via Chat | Medium | [#11110](https://github.com/SandeepVashishtha/Eventra/issues/11110) |
+| Feature: Smart Contract-Based Vendor Payments | Medium | [#11109](https://github.com/SandeepVashishtha/Eventra/issues/11109) |
+| Feature: Cross-Event Attendee Loyalty & Rewards Program | Medium | [#11108](https://github.com/SandeepVashishtha/Eventra/issues/11108) |
+| Feature: Automated Accessibility Compliance Checker for Event Assets | Medium | [#11107](https://github.com/SandeepVashishtha/Eventra/issues/11107) |
+| Feature: Decentralized Event Governance (DAO) for Community Events | Medium | [#11106](https://github.com/SandeepVashishtha/Eventra/issues/11106) |
+| Feature: Integration with Wearable Health Devices for Wellness Events | Medium | [#11105](https://github.com/SandeepVashishtha/Eventra/issues/11105) |
+| Feature: Augmented Reality (AR) Wayfinding | Medium | [#11104](https://github.com/SandeepVashishtha/Eventra/issues/11104) |
+| Feature: Speaker Prep Portal with Real-Time Q&A Triage | Medium | [#11103](https://github.com/SandeepVashishtha/Eventra/issues/11103) |
+| Feature: Customizable Event-Specific Mobile Apps (White-labeling) | Medium | [#11102](https://github.com/SandeepVashishtha/Eventra/issues/11102) |
+| Feature: Sponsor ROI Tracking with Heatmaps & Dwell Time | Medium | [#11101](https://github.com/SandeepVashishtha/Eventra/issues/11101) |
+| chore(deps-dev): bump vite from 8.1.5 to 8.2.0 | Hard | [#11114](https://github.com/SandeepVashishtha/Eventra/pull/11114) |
 
 ---
 
