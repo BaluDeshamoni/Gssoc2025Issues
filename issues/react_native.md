@@ -93,6 +93,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| security: TOCTOU Race Condition in QA Approvals | Medium | [#458](https://github.com/LarytheLord/Adventurers-Guild/issues/458) |
+| Fix: Restrict /api/users/search to admin role to prevent PII leak | Medium | [#457](https://github.com/LarytheLord/Adventurers-Guild/pull/457) |
+| seo: Root meta description still describes the old developer-marketplace model | Medium | [#454](https://github.com/LarytheLord/Adventurers-Guild/issues/454) |
+| chore: NEXT_PUBLIC_GA_ID is declared but never actually used | Medium | [#453](https://github.com/LarytheLord/Adventurers-Guild/issues/453) |
+| seo: Quest detail pages use static, generic metadata instead of the real quest title/description | Medium | [#452](https://github.com/LarytheLord/Adventurers-Guild/issues/452) |
+| bug: Quest social-share image is broken — points to non-existent /og/default.png | Medium | [#451](https://github.com/LarytheLord/Adventurers-Guild/issues/451) |
+| seo: Missing sitemap.xml and robots.txt | Medium | [#450](https://github.com/LarytheLord/Adventurers-Guild/issues/450) |
 | bug: Data Leak in User Search | Medium | [#449](https://github.com/LarytheLord/Adventurers-Guild/issues/449) |
 | bug: Invisible Text on Dark Background in Admin Dashboard | Medium | [#448](https://github.com/LarytheLord/Adventurers-Guild/issues/448) |
 | feat: Add QuestBriefSchema fields to quest creation API (#257) | Medium | [#447](https://github.com/LarytheLord/Adventurers-Guild/pull/447) |
@@ -106,15 +113,11 @@
 | feat: Admin Analytics API — platform health metrics | Medium | [#408](https://github.com/LarytheLord/Adventurers-Guild/issues/408) |
 | security: Secure email change flow for NextAuth/Prisma stack | Medium | [#407](https://github.com/LarytheLord/Adventurers-Guild/issues/407) |
 | feat: Quest track filtering — enforce BOOTCAMP/INTERN/OPEN visibility | Medium | [#406](https://github.com/LarytheLord/Adventurers-Guild/issues/406) |
-| fix: Admin QA reject/approve skips syncQuestLifecycleStatus — quest status stuck after admin action | Medium | [#330](https://github.com/LarytheLord/Adventurers-Guild/issues/330) |
 | fix: XP reward runs outside DB transaction — adventurer permanently loses XP if second write fails | Medium | [#324](https://github.com/LarytheLord/Adventurers-Guild/issues/324) |
 | CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
-| Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
-| feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
-| Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 
 ---
 
