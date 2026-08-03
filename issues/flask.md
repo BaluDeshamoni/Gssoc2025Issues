@@ -261,36 +261,36 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance README with troubleshooting and FAQ | Medium | [#596](https://github.com/aayushraj1010/med-genie/pull/596) |
-| Add Troubleshooting Guide and FAQ to Documentation | Medium | [#595](https://github.com/aayushraj1010/med-genie/issues/595) |
-| fix: add radix parameter to parseInt calls | Medium | [#594](https://github.com/aayushraj1010/med-genie/pull/594) |
-| fix: add radix parameter to parseInt calls | Medium | [#593](https://github.com/aayushraj1010/med-genie/pull/593) |
-| fix: add .catch() to promise chains | Medium | [#592](https://github.com/aayushraj1010/med-genie/pull/592) |
-| fix: handle promise rejections with .catch() | Medium | [#591](https://github.com/aayushraj1010/med-genie/pull/591) |
-| fix: improve code safety | Medium | [#590](https://github.com/aayushraj1010/med-genie/pull/590) |
-| fix: add error handling for localStorage and API calls | Medium | [#589](https://github.com/aayushraj1010/med-genie/pull/589) |
-| fix: add HTTP status check before JSON parse | Medium | [#588](https://github.com/aayushraj1010/med-genie/pull/588) |
-| fix: add safety checks | Medium | [#587](https://github.com/aayushraj1010/med-genie/pull/587) |
-| fix: make verifyToken/verifyRefreshToken async to properly await isTokenBlacklisted | Medium | [#586](https://github.com/aayushraj1010/med-genie/pull/586) |
-| Add AI-Powered Prescription OCR & Medication Dosage Summarizer | Medium | [#585](https://github.com/aayushraj1010/med-genie/issues/585) |
-| fix: check response.ok before calling .json() in login and register | Medium | [#584](https://github.com/aayushraj1010/med-genie/pull/584) |
-| fix: fix cookies() async and remove hashed confirmPassword | Medium | [#583](https://github.com/aayushraj1010/med-genie/pull/583) |
-| Add AI-Powered Prescription OCR & Medication Dosage Summarizer | Medium | [#582](https://github.com/aayushraj1010/med-genie/issues/582) |
-| Static navigation bar overlaps page content on the "Find Specialist" page | Medium | [#581](https://github.com/aayushraj1010/med-genie/issues/581) |
-| "Find Specialist" form accepts unrealistic age values without validation | Medium | [#580](https://github.com/aayushraj1010/med-genie/issues/580) |
-| fix: missing await in token blacklist check and rate-limit reset time | Medium | [#579](https://github.com/aayushraj1010/med-genie/pull/579) |
-| Critical Remote Code Execution (RCE) vulnerability in CalculatorTool using JavaScript eval() | Medium | [#578](https://github.com/aayushraj1010/med-genie/issues/578) |
-| LangChain ReAct agent relies on remote prompt pulling without offline fallback | Medium | [#577](https://github.com/aayushraj1010/med-genie/issues/577) |
-| Implement AI model evaluation & safety benchmark harness | Medium | [#576](https://github.com/aayushraj1010/med-genie/issues/576) |
-| UI Enhancement: Redesign Navbar with a Premium Modern Look | Medium | [#575](https://github.com/aayushraj1010/med-genie/issues/575) |
-| On Clicking Location , It's showing white bg color . | Medium | [#574](https://github.com/aayushraj1010/med-genie/issues/574) |
-| docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
-| Login/Sign-up button shows "Signing in..." / "Creating account..." on initial page load | Medium | [#572](https://github.com/aayushraj1010/med-genie/issues/572) |
-| Navigation Bar is not completely responsive | Medium | [#571](https://github.com/aayushraj1010/med-genie/issues/571) |
-| Google Auth Issue upon signing up | Medium | [#570](https://github.com/aayushraj1010/med-genie/issues/570) |
-| UI: Bold key phrases in Hero Section description. | Medium | [#569](https://github.com/aayushraj1010/med-genie/issues/569) |
-| Chat bot error | Medium | [#568](https://github.com/aayushraj1010/med-genie/issues/568) |
-| Google Auth issue | Medium | [#567](https://github.com/aayushraj1010/med-genie/issues/567) |
+| Chat camera/upload button POSTs to non-existent `/api/upload` → silent 404 | Medium | [#640](https://github.com/aayushraj1010/med-genie/issues/640) |
+| Google OAuth sets refresh cookie as `refreshToken` but backend reads `refresh_token` | Medium | [#639](https://github.com/aayushraj1010/med-genie/issues/639) |
+| Users force-logged-out every ~15 min: refresh-token cookie is never set by the frontend | Medium | [#638](https://github.com/aayushraj1010/med-genie/issues/638) |
+| fix: code quality and safety improvements | Medium | [#637](https://github.com/aayushraj1010/med-genie/pull/637) |
+| fix: code quality and safety improvements | Medium | [#636](https://github.com/aayushraj1010/med-genie/pull/636) |
+| fix: code quality and safety improvements | Medium | [#635](https://github.com/aayushraj1010/med-genie/pull/635) |
+| fix: code quality and safety improvements | Medium | [#634](https://github.com/aayushraj1010/med-genie/pull/634) |
+| fix: code quality and safety improvements | Medium | [#633](https://github.com/aayushraj1010/med-genie/pull/633) |
+| fix: code quality and safety improvements | Medium | [#632](https://github.com/aayushraj1010/med-genie/pull/632) |
+| fix: resolve 1 bugs | Medium | [#631](https://github.com/aayushraj1010/med-genie/pull/631) |
+| fix: code quality and safety improvements | Medium | [#630](https://github.com/aayushraj1010/med-genie/pull/630) |
+| fix: resolve 1 bugs | Medium | [#629](https://github.com/aayushraj1010/med-genie/pull/629) |
+| fix: resolve 1 bugs | Medium | [#628](https://github.com/aayushraj1010/med-genie/pull/628) |
+| fix: code quality and safety improvements | Medium | [#626](https://github.com/aayushraj1010/med-genie/pull/626) |
+| fix: code quality and safety improvements | Medium | [#625](https://github.com/aayushraj1010/med-genie/pull/625) |
+| fix: code quality and safety improvements | Medium | [#624](https://github.com/aayushraj1010/med-genie/pull/624) |
+| fix: code quality and safety improvements | Medium | [#623](https://github.com/aayushraj1010/med-genie/pull/623) |
+| fix: code quality and safety improvements | Medium | [#622](https://github.com/aayushraj1010/med-genie/pull/622) |
+| fix: code quality and safety improvements | Medium | [#621](https://github.com/aayushraj1010/med-genie/pull/621) |
+| fix: code quality and safety improvements | Medium | [#620](https://github.com/aayushraj1010/med-genie/pull/620) |
+| fix: code quality and safety improvements | Medium | [#619](https://github.com/aayushraj1010/med-genie/pull/619) |
+| fix: code quality and safety improvements | Medium | [#618](https://github.com/aayushraj1010/med-genie/pull/618) |
+| fix: improve error handling | Medium | [#617](https://github.com/aayushraj1010/med-genie/pull/617) |
+| fix: add safety checks | Medium | [#616](https://github.com/aayushraj1010/med-genie/pull/616) |
+| fix: improve error handling | Medium | [#615](https://github.com/aayushraj1010/med-genie/pull/615) |
+| fix: improve error handling | Medium | [#614](https://github.com/aayushraj1010/med-genie/pull/614) |
+| fix: improve error handling | Medium | [#613](https://github.com/aayushraj1010/med-genie/pull/613) |
+| fix: improve error handling | Medium | [#612](https://github.com/aayushraj1010/med-genie/pull/612) |
+| fix: improve error handling | Medium | [#611](https://github.com/aayushraj1010/med-genie/pull/611) |
+| fix: improve error handling | Medium | [#610](https://github.com/aayushraj1010/med-genie/pull/610) |
 
 ---
 
