@@ -272,7 +272,6 @@ User Profile: BMI calculator and fitness analytics.
 | Reorganized folder structure as per GSSoC task | Medium | [#24](https://github.com/Ananya-te/MusicTrackerAPI/pull/24) |
 | webpage making @Nischala Medavarapu | Medium | [#23](https://github.com/Ananya-te/MusicTrackerAPI/issues/23) |
 | Add Update and Delete Functionality to Music Tracker API | Medium | [#20](https://github.com/Ananya-te/MusicTrackerAPI/issues/20) |
-| Enhanced README.md for Improved Clarity, Project Structure, and Developer Onboarding | Medium | [#19](https://github.com/Ananya-te/MusicTrackerAPI/pull/19) |
 | done with the file structure fix | Medium | [#14](https://github.com/Ananya-te/MusicTrackerAPI/pull/14) |
 | Readme Enhancement for better readability and scalability | Medium | [#13](https://github.com/Ananya-te/MusicTrackerAPI/pull/13) |
 | Add code_of_conduct.md file to the Repository | Medium | [#11](https://github.com/Ananya-te/MusicTrackerAPI/issues/11) |
@@ -425,6 +424,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Create ARCHITECTURE.md documentation | Medium | [#1952](https://github.com/apu52/Travel_Website/issues/1952) |
+| Add Dependabot configuration for automated dependency updates | Medium | [#1951](https://github.com/apu52/Travel_Website/issues/1951) |
+| Implement Prettier for automated code formatting | Medium | [#1950](https://github.com/apu52/Travel_Website/issues/1950) |
 | fix: address validation and contributors page boundary fixes | Medium | [#1949](https://github.com/apu52/Travel_Website/pull/1949) |
 | fix: implicit global variables in carousel JS | Medium | [#1948](https://github.com/apu52/Travel_Website/pull/1948) |
 | fix: prevent Google Maps iframe from overflowing footer container (#1938) | Medium | [#1947](https://github.com/apu52/Travel_Website/pull/1947) |
@@ -452,9 +454,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Add new UI sections (Testimonials / FAQ / Newsletter / Destination Details) | Medium | [#1924](https://github.com/apu52/Travel_Website/issues/1924) |
 | Add scroll to top button & i18n languages | Medium | [#1923](https://github.com/apu52/Travel_Website/issues/1923) |
 | Footer improvement needed on book now page under packages | Medium | [#1922](https://github.com/apu52/Travel_Website/issues/1922) |
-| UI Enhancement | Medium | [#1921](https://github.com/apu52/Travel_Website/issues/1921) |
-| style: enhance button hover and focus interaction | Medium | [#1920](https://github.com/apu52/Travel_Website/pull/1920) |
-| Add Navbar | Medium | [#1919](https://github.com/apu52/Travel_Website/issues/1919) |
 
 ---
 
@@ -1188,14 +1187,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump @radix-ui/react-collapsible from 1.1.16 to 1.1.20 | Easy | [#2020](https://github.com/recodehive/recode-website/pull/2020) |
-| chore: bump @tsparticles/react from 4.3.1 to 4.3.2 | Easy | [#2019](https://github.com/recodehive/recode-website/pull/2019) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.64.0 to 8.65.0 | Easy | [#2018](https://github.com/recodehive/recode-website/pull/2018) |
-| chore: bump @tailwindcss/postcss from 4.3.2 to 4.3.3 | Easy | [#2017](https://github.com/recodehive/recode-website/pull/2017) |
-| chore: bump @radix-ui/react-avatar from 1.2.2 to 1.2.6 | Easy | [#2016](https://github.com/recodehive/recode-website/pull/2016) |
-| Fix build error: move changelog utility component out of pages directory | Easy | [#2011](https://github.com/recodehive/recode-website/pull/2011) |
-| fix(testimonials): replace testimonial names with recode hive contributors (#1983) | Easy | [#2008](https://github.com/recodehive/recode-website/pull/2008) |
-| fix: remove debug console.log statements from production components | Easy | [#2004](https://github.com/recodehive/recode-website/pull/2004) |
+| fix: resolve 3 bugs | Easy | [#2047](https://github.com/recodehive/recode-website/pull/2047) |
+| UI/ UX Change updates | Easy | [#2036](https://github.com/recodehive/recode-website/issues/2036) |
 
 ---
 
@@ -1453,35 +1446,36 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: fix cookies() async and remove hashed confirmPassword | Medium | [#583](https://github.com/aayushraj1010/med-genie/pull/583) |
-| Add AI-Powered Prescription OCR & Medication Dosage Summarizer | Medium | [#582](https://github.com/aayushraj1010/med-genie/issues/582) |
-| Static navigation bar overlaps page content on the "Find Specialist" page | Medium | [#581](https://github.com/aayushraj1010/med-genie/issues/581) |
-| "Find Specialist" form accepts unrealistic age values without validation | Medium | [#580](https://github.com/aayushraj1010/med-genie/issues/580) |
-| fix: missing await in token blacklist check and rate-limit reset time | Medium | [#579](https://github.com/aayushraj1010/med-genie/pull/579) |
-| Critical Remote Code Execution (RCE) vulnerability in CalculatorTool using JavaScript eval() | Medium | [#578](https://github.com/aayushraj1010/med-genie/issues/578) |
-| LangChain ReAct agent relies on remote prompt pulling without offline fallback | Medium | [#577](https://github.com/aayushraj1010/med-genie/issues/577) |
-| Implement AI model evaluation & safety benchmark harness | Medium | [#576](https://github.com/aayushraj1010/med-genie/issues/576) |
-| UI Enhancement: Redesign Navbar with a Premium Modern Look | Medium | [#575](https://github.com/aayushraj1010/med-genie/issues/575) |
-| On Clicking Location , It's showing white bg color . | Medium | [#574](https://github.com/aayushraj1010/med-genie/issues/574) |
-| docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
-| Login/Sign-up button shows "Signing in..." / "Creating account..." on initial page load | Medium | [#572](https://github.com/aayushraj1010/med-genie/issues/572) |
-| Navigation Bar is not completely responsive | Medium | [#571](https://github.com/aayushraj1010/med-genie/issues/571) |
-| Google Auth Issue upon signing up | Medium | [#570](https://github.com/aayushraj1010/med-genie/issues/570) |
-| UI: Bold key phrases in Hero Section description. | Medium | [#569](https://github.com/aayushraj1010/med-genie/issues/569) |
-| Chat bot error | Medium | [#568](https://github.com/aayushraj1010/med-genie/issues/568) |
-| Google Auth issue | Medium | [#567](https://github.com/aayushraj1010/med-genie/issues/567) |
-| OAuth Access Token Leaked via URL Query Params in Google Callback | Medium | [#566](https://github.com/aayushraj1010/med-genie/issues/566) |
-| docs: README privacy claims conflict with documented persistence architecture and data storage behavior | Medium | [#564](https://github.com/aayushraj1010/med-genie/issues/564) |
-| security: Insecure default JWT_SECRET fallback enables token forgery and full account takeover | Medium | [#563](https://github.com/aayushraj1010/med-genie/issues/563) |
-| UI Inconsistency Across Routes (Global Styles / Navigation Component Breakdown) | Medium | [#562](https://github.com/aayushraj1010/med-genie/issues/562) |
-| fix: batch - contact/FAQ links, cookies/terms routing, navbar alignment | Medium | [#560](https://github.com/aayushraj1010/med-genie/pull/560) |
-| Proposal: Add Symptom Classification Model and Medical Handbook RAG Pipeline | Medium | [#559](https://github.com/aayushraj1010/med-genie/issues/559) |
-| Feat: Add hover effect to button | Medium | [#558](https://github.com/aayushraj1010/med-genie/issues/558) |
-| Contact Us Navigation Link Does Not Navigate to Contact Section | Medium | [#557](https://github.com/aayushraj1010/med-genie/issues/557) |
-| Downgrade dotenv package version to 16.4.5 | Medium | [#556](https://github.com/aayushraj1010/med-genie/pull/556) |
-| Contact Us and FAQ link is static and doesn't render to any webpage | Medium | [#555](https://github.com/aayushraj1010/med-genie/issues/555) |
-| Bug :Navbar Overlaps Hero Section Content on Multiple Pages | Medium | [#554](https://github.com/aayushraj1010/med-genie/issues/554) |
-| DOC : Add a FAQ section to contributing.md file | Medium | [#553](https://github.com/aayushraj1010/med-genie/issues/553) |
+| Chat camera/upload button POSTs to non-existent `/api/upload` → silent 404 | Medium | [#640](https://github.com/aayushraj1010/med-genie/issues/640) |
+| Google OAuth sets refresh cookie as `refreshToken` but backend reads `refresh_token` | Medium | [#639](https://github.com/aayushraj1010/med-genie/issues/639) |
+| Users force-logged-out every ~15 min: refresh-token cookie is never set by the frontend | Medium | [#638](https://github.com/aayushraj1010/med-genie/issues/638) |
+| fix: code quality and safety improvements | Medium | [#637](https://github.com/aayushraj1010/med-genie/pull/637) |
+| fix: code quality and safety improvements | Medium | [#636](https://github.com/aayushraj1010/med-genie/pull/636) |
+| fix: code quality and safety improvements | Medium | [#635](https://github.com/aayushraj1010/med-genie/pull/635) |
+| fix: code quality and safety improvements | Medium | [#634](https://github.com/aayushraj1010/med-genie/pull/634) |
+| fix: code quality and safety improvements | Medium | [#633](https://github.com/aayushraj1010/med-genie/pull/633) |
+| fix: code quality and safety improvements | Medium | [#632](https://github.com/aayushraj1010/med-genie/pull/632) |
+| fix: resolve 1 bugs | Medium | [#631](https://github.com/aayushraj1010/med-genie/pull/631) |
+| fix: code quality and safety improvements | Medium | [#630](https://github.com/aayushraj1010/med-genie/pull/630) |
+| fix: resolve 1 bugs | Medium | [#629](https://github.com/aayushraj1010/med-genie/pull/629) |
+| fix: resolve 1 bugs | Medium | [#628](https://github.com/aayushraj1010/med-genie/pull/628) |
+| fix: code quality and safety improvements | Medium | [#626](https://github.com/aayushraj1010/med-genie/pull/626) |
+| fix: code quality and safety improvements | Medium | [#625](https://github.com/aayushraj1010/med-genie/pull/625) |
+| fix: code quality and safety improvements | Medium | [#624](https://github.com/aayushraj1010/med-genie/pull/624) |
+| fix: code quality and safety improvements | Medium | [#623](https://github.com/aayushraj1010/med-genie/pull/623) |
+| fix: code quality and safety improvements | Medium | [#622](https://github.com/aayushraj1010/med-genie/pull/622) |
+| fix: code quality and safety improvements | Medium | [#621](https://github.com/aayushraj1010/med-genie/pull/621) |
+| fix: code quality and safety improvements | Medium | [#620](https://github.com/aayushraj1010/med-genie/pull/620) |
+| fix: code quality and safety improvements | Medium | [#619](https://github.com/aayushraj1010/med-genie/pull/619) |
+| fix: code quality and safety improvements | Medium | [#618](https://github.com/aayushraj1010/med-genie/pull/618) |
+| fix: improve error handling | Medium | [#617](https://github.com/aayushraj1010/med-genie/pull/617) |
+| fix: add safety checks | Medium | [#616](https://github.com/aayushraj1010/med-genie/pull/616) |
+| fix: improve error handling | Medium | [#615](https://github.com/aayushraj1010/med-genie/pull/615) |
+| fix: improve error handling | Medium | [#614](https://github.com/aayushraj1010/med-genie/pull/614) |
+| fix: improve error handling | Medium | [#613](https://github.com/aayushraj1010/med-genie/pull/613) |
+| fix: improve error handling | Medium | [#612](https://github.com/aayushraj1010/med-genie/pull/612) |
+| fix: improve error handling | Medium | [#611](https://github.com/aayushraj1010/med-genie/pull/611) |
+| fix: improve error handling | Medium | [#610](https://github.com/aayushraj1010/med-genie/pull/610) |
 
 ---
 
@@ -2015,36 +2009,36 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix(login): improve login page UI | Medium | [#687](https://github.com/lovelymahor/StudyMatePlus/pull/687) |
-| Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
-| Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
-| Add global styles and premium Login/Register page styling | Medium | [#684](https://github.com/lovelymahor/StudyMatePlus/pull/684) |
-| Optimize testimonials section for smoother scrolling | Medium | [#683](https://github.com/lovelymahor/StudyMatePlus/pull/683) |
-| fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
-| UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
-| fix: delete uploaded temp file after processing in syllabus upload route | Medium | [#680](https://github.com/lovelymahor/StudyMatePlus/pull/680) |
-| Bug: Uploaded files in /api/syllabus/upload are never deleted from disk — causes unbounded storage growth and file retention risk | Medium | [#679](https://github.com/lovelymahor/StudyMatePlus/issues/679) |
-| Fix: Prevent adding empty or whitespace-only tasks | Medium | [#677](https://github.com/lovelymahor/StudyMatePlus/pull/677) |
-| bug: Urgent UI fixes (Logo clipping, massive section gap, and light theme text contrast) | Medium | [#676](https://github.com/lovelymahor/StudyMatePlus/issues/676) |
-| fix: use environment variable REACT_APP_API_URL for API calls in FeedbackModal and Notes | Medium | [#674](https://github.com/lovelymahor/StudyMatePlus/pull/674) |
-| fix: migrate OpenAI SDK integration to v4 and update deprecated model | Medium | [#673](https://github.com/lovelymahor/StudyMatePlus/pull/673) |
-| fix: prevent adding empty or whitespace-only tasks to To-Do list (#670) | Medium | [#672](https://github.com/lovelymahor/StudyMatePlus/pull/672) |
-| feat: Add Dockerization for seamless local development (#510) | Medium | [#671](https://github.com/lovelymahor/StudyMatePlus/pull/671) |
-| Bug: Empty tasks can be added to the To-Do list | Medium | [#670](https://github.com/lovelymahor/StudyMatePlus/issues/670) |
-| Add Empty State Illustrations for Notes, Flashcards, Quizzes, and Tasks | Medium | [#668](https://github.com/lovelymahor/StudyMatePlus/issues/668) |
-| Improve Dark Mode UI Consistency Across the Application | Medium | [#667](https://github.com/lovelymahor/StudyMatePlus/issues/667) |
-| Registration fails on the "Secure Your Account" step. After entering a valid password and clicking Create Account, the application displays a generic error message: | Medium | [#666](https://github.com/lovelymahor/StudyMatePlus/issues/666) |
-| feat: implement syllabus preview and download functionality | Medium | [#665](https://github.com/lovelymahor/StudyMatePlus/pull/665) |
-| Missing env variable validation on startup | Medium | [#664](https://github.com/lovelymahor/StudyMatePlus/issues/664) |
-| Feature: Add forgot password / reset flow | Medium | [#663](https://github.com/lovelymahor/StudyMatePlus/issues/663) |
-| Add Feedback Sorting and Filtering by Difficulty Rating | Medium | [#662](https://github.com/lovelymahor/StudyMatePlus/issues/662) |
-| UI Bug: Performance lag and non-circular transition in "What Students Say" carousel | Medium | [#661](https://github.com/lovelymahor/StudyMatePlus/issues/661) |
-| Add loading states and error handling for API requests | Medium | [#660](https://github.com/lovelymahor/StudyMatePlus/issues/660) |
-| fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
-| fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
-| Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
-| Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
-| Feedback page displays hardcoded feedback instead of saved feedback | Medium | [#654](https://github.com/lovelymahor/StudyMatePlus/issues/654) |
+| docs: Add API Endpoints Overview section to README | Medium | [#726](https://github.com/lovelymahor/StudyMatePlus/issues/726) |
+| Hero section overflows initial viewport at 100% browser zoom | Medium | [#725](https://github.com/lovelymahor/StudyMatePlus/issues/725) |
+| Improve footer text contrast for better readability and accessibility | Medium | [#724](https://github.com/lovelymahor/StudyMatePlus/issues/724) |
+| fix: resolve 1 bugs | Medium | [#723](https://github.com/lovelymahor/StudyMatePlus/pull/723) |
+| fix: resolve 1 bugs | Medium | [#722](https://github.com/lovelymahor/StudyMatePlus/pull/722) |
+| fix: code quality and safety improvements | Medium | [#721](https://github.com/lovelymahor/StudyMatePlus/pull/721) |
+| fixed: prevent adding empty tasks or whitespace-only inputs to to-do list | Medium | [#720](https://github.com/lovelymahor/StudyMatePlus/pull/720) |
+| Fixed unmanaged file storage on syllabus upload | Medium | [#719](https://github.com/lovelymahor/StudyMatePlus/pull/719) |
+| Add Multi-University and Department Filter with Persistent URL Query Params for Syllabus/PYQ Navigation | Medium | [#718](https://github.com/lovelymahor/StudyMatePlus/issues/718) |
+| Add Skeleton Loading States and Error Boundary Components Across All Data-Fetching Pages | Medium | [#717](https://github.com/lovelymahor/StudyMatePlus/issues/717) |
+| Implement Rate Limiting and Input Sanitization on Backend API Routes to Prevent Abuse | Medium | [#716](https://github.com/lovelymahor/StudyMatePlus/issues/716) |
+| Add GitHub Actions CI/CD Pipeline for Automated Build, Lint, and Dependency Audit on PRs | Medium | [#715](https://github.com/lovelymahor/StudyMatePlus/issues/715) |
+| Update .env.example with environment variables | Medium | [#714](https://github.com/lovelymahor/StudyMatePlus/pull/714) |
+| Remove stray root package.json and package-lock.json | Medium | [#713](https://github.com/lovelymahor/StudyMatePlus/pull/713) |
+| Add a Contact Us Page | Medium | [#712](https://github.com/lovelymahor/StudyMatePlus/issues/712) |
+| Update test to check StudyMatePlus navbar logo | Medium | [#711](https://github.com/lovelymahor/StudyMatePlus/pull/711) |
+| Fix duplicate multer entry in package.json | Medium | [#710](https://github.com/lovelymahor/StudyMatePlus/pull/710) |
+| Stray root package.json conflicts with client/server package.json | Medium | [#709](https://github.com/lovelymahor/StudyMatePlus/issues/709) |
+| Contribute.js: placeholder/broken links | Medium | [#708](https://github.com/lovelymahor/StudyMatePlus/issues/708) |
+| Default CRA App.test.js placeholder test left unmodified and broken | Medium | [#707](https://github.com/lovelymahor/StudyMatePlus/issues/707) |
+| MindMapEditor.js: search feature is dead code, never wired to the UI | Medium | [#706](https://github.com/lovelymahor/StudyMatePlus/issues/706) |
+| Syllabus.js: broken useMemo dependency array prevents memoization from updating | Medium | [#705](https://github.com/lovelymahor/StudyMatePlus/issues/705) |
+| document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
+| Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
+| Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
+| Notes.jsx calls backend endpoints that don't exist | Medium | [#701](https://github.com/lovelymahor/StudyMatePlus/issues/701) |
+| PYQs.js and Syllabus.js: browsing UI is mock-only, buttons non-functional | Medium | [#700](https://github.com/lovelymahor/StudyMatePlus/issues/700) |
+| Feedback.js displays hardcoded mock data instead of fetching real feedback | Medium | [#699](https://github.com/lovelymahor/StudyMatePlus/issues/699) |
+| FeedbackModal.js: hardcoded localhost API URL breaks in production | Medium | [#698](https://github.com/lovelymahor/StudyMatePlus/issues/698) |
+| SubmitFeedback.js: form submission does not call the backend API | Medium | [#697](https://github.com/lovelymahor/StudyMatePlus/issues/697) |
 
 ---
 
