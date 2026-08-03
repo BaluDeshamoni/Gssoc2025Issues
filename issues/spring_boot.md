@@ -129,18 +129,28 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Post-Event Anonymous Feedback Surveys with Analytics | Medium | [#10870](https://github.com/SandeepVashishtha/Eventra/issues/10870) |
-| Gamified Leaderboard & Engagement Points for Virtual Events | Medium | [#10869](https://github.com/SandeepVashishtha/Eventra/issues/10869) |
-| Automated Certificates of Attendance Generation | Medium | [#10868](https://github.com/SandeepVashishtha/Eventra/issues/10868) |
-| Interactive 3D/Mapbox Venue Floor Plans | Medium | [#10867](https://github.com/SandeepVashishtha/Eventra/issues/10867) |
-| Stale state in handleSubmit closure when network toggles mid-typing | Medium | [#10866](https://github.com/SandeepVashishtha/Eventra/issues/10866) |
-| Safari iOS bottom navigation bar overlaps sticky checkout button | Medium | [#10865](https://github.com/SandeepVashishtha/Eventra/issues/10865) |
-| IndexedDB QuotaExceededError crashes service worker during heavy offline sync | Medium | [#10864](https://github.com/SandeepVashishtha/Eventra/issues/10864) |
-| Race condition in useDebouncedSearch when queries resolve out of order | Medium | [#10863](https://github.com/SandeepVashishtha/Eventra/issues/10863) |
-| SSE Multiplexer Tab Leadership Loss Not Handled — Memory Leak and Duplicate Connections | Medium | [#10844](https://github.com/SandeepVashishtha/Eventra/issues/10844) |
-| `extractSession` Called with Wrong Arguments in `AuthContext.js` | Medium | [#10843](https://github.com/SandeepVashishtha/Eventra/issues/10843) |
-| TOCTOU Race Condition in `useOfflineSync` localStorage Lock Across Browser Tabs | Medium | [#10842](https://github.com/SandeepVashishtha/Eventra/issues/10842) |
-| Duplicate React Router Route for `/event-recommendation` Causes Duplicate API Calls | Medium | [#10841](https://github.com/SandeepVashishtha/Eventra/issues/10841) |
+| chore(deps-dev): bump @vitejs/plugin-react from 6.0.4 to 6.0.5 | Easy | [#11113](https://github.com/SandeepVashishtha/Eventra/pull/11113) |
+| chore(deps): bump react-intersection-observer from 10.1.0 to 11.0.0 in the react-ecosystem group | Easy | [#11111](https://github.com/SandeepVashishtha/Eventra/pull/11111) |
+| security: Regex-based HTML fallback sanitizer may allow malformed HTML bypasses | Medium | [#11122](https://github.com/SandeepVashishtha/Eventra/issues/11122) |
+| security: Rate limiter trusts X-Forwarded-For header from untrusted clients | Medium | [#11121](https://github.com/SandeepVashishtha/Eventra/issues/11121) |
+| security: File validation allows dangerous extensions with trailing-dot filenames | Medium | [#11120](https://github.com/SandeepVashishtha/Eventra/issues/11120) |
+| security: Analytics endpoints are accessible to all authenticated users | Medium | [#11119](https://github.com/SandeepVashishtha/Eventra/issues/11119) |
+| security: Project upvote endpoint allows unlimited vote inflation | Medium | [#11118](https://github.com/SandeepVashishtha/Eventra/issues/11118) |
+| security: Event waitlist endpoint exposes attendee information to unrelated organizers | Medium | [#11117](https://github.com/SandeepVashishtha/Eventra/issues/11117) |
+| security: Broken Object-Level Authorization allows organizers to promote waitlisted users for any event | Medium | [#11116](https://github.com/SandeepVashishtha/Eventra/issues/11116) |
+| security: Broken Object-Level Authorization allows organizers to update any hackathon | Medium | [#11115](https://github.com/SandeepVashishtha/Eventra/issues/11115) |
+| chore(deps-dev): bump @playwright/test from 1.62.0 to 1.62.1 | Medium | [#11112](https://github.com/SandeepVashishtha/Eventra/pull/11112) |
+| Feature: Real-time Sentiment Analysis for Live Sessions via Chat | Medium | [#11110](https://github.com/SandeepVashishtha/Eventra/issues/11110) |
+| Feature: Smart Contract-Based Vendor Payments | Medium | [#11109](https://github.com/SandeepVashishtha/Eventra/issues/11109) |
+| Feature: Cross-Event Attendee Loyalty & Rewards Program | Medium | [#11108](https://github.com/SandeepVashishtha/Eventra/issues/11108) |
+| Feature: Automated Accessibility Compliance Checker for Event Assets | Medium | [#11107](https://github.com/SandeepVashishtha/Eventra/issues/11107) |
+| Feature: Decentralized Event Governance (DAO) for Community Events | Medium | [#11106](https://github.com/SandeepVashishtha/Eventra/issues/11106) |
+| Feature: Integration with Wearable Health Devices for Wellness Events | Medium | [#11105](https://github.com/SandeepVashishtha/Eventra/issues/11105) |
+| Feature: Augmented Reality (AR) Wayfinding | Medium | [#11104](https://github.com/SandeepVashishtha/Eventra/issues/11104) |
+| Feature: Speaker Prep Portal with Real-Time Q&A Triage | Medium | [#11103](https://github.com/SandeepVashishtha/Eventra/issues/11103) |
+| Feature: Customizable Event-Specific Mobile Apps (White-labeling) | Medium | [#11102](https://github.com/SandeepVashishtha/Eventra/issues/11102) |
+| Feature: Sponsor ROI Tracking with Heatmaps & Dwell Time | Medium | [#11101](https://github.com/SandeepVashishtha/Eventra/issues/11101) |
+| chore(deps-dev): bump vite from 8.1.5 to 8.2.0 | Hard | [#11114](https://github.com/SandeepVashishtha/Eventra/pull/11114) |
 
 ---
 
