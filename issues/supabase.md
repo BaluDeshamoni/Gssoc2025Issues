@@ -85,25 +85,36 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: clean up ~15 ad-hoc "fix-*"/"apply-*" scripts committed to the repo root — they clutter onboarding and risk being run against the wrong environment | Easy | [#1066](https://github.com/Muneerali199/Draftdeckai/issues/1066) |
-| chore: 15+ development fix scripts committed to repository root (apply-fix.js, complete-fix.ps1, fix-*.mjs, etc.) — these one-off automation scripts create severe confusion for contributors and should be removed | Easy | [#1065](https://github.com/Muneerali199/Draftdeckai/issues/1065) |
-| fix: repair diagnostic page guard | Easy | [#1062](https://github.com/Muneerali199/Draftdeckai/pull/1062) |
-| fix: add security warnings and runtime guard for SUPABASE_SERVICE_ROLE_KEY | Easy | [#1058](https://github.com/Muneerali199/Draftdeckai/pull/1058) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 54 updates | Medium | [#1078](https://github.com/Muneerali199/Draftdeckai/pull/1078) |
-| AI-powered hero video for landing page — generate, enhance & integrate | Medium | [#1077](https://github.com/Muneerali199/Draftdeckai/issues/1077) |
-| test: add Jest coverage for the ATS Score Checker — no test file currently exists despite `jest.config.mjs` being configured | Medium | [#1068](https://github.com/Muneerali199/Draftdeckai/issues/1068) |
-| fix: add idempotency/re-validation to the credits deduction flow to prevent double-charging on retried generation requests | Medium | [#1067](https://github.com/Muneerali199/Draftdeckai/issues/1067) |
-| fix: harden client error logging | Medium | [#1064](https://github.com/Muneerali199/Draftdeckai/pull/1064) |
-| fix: support linkedin jobs in extension | Medium | [#1063](https://github.com/Muneerali199/Draftdeckai/pull/1063) |
-| fix(autosave): debounce document autosave to prevent excessive Supabase writes | Medium | [#1059](https://github.com/Muneerali199/Draftdeckai/pull/1059) |
-| feat(history): implement Phase 1 history improvements with sorting and enhanced search experience | Medium | [#1034](https://github.com/Muneerali199/Draftdeckai/pull/1034) |
-| chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.2 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
-| fix(dependencies): update vulnerable packages to pass security audit | Hard | [#1061](https://github.com/Muneerali199/Draftdeckai/pull/1061) |
-| fix(security): enhance Stripe webhook signature verification | Hard | [#1060](https://github.com/Muneerali199/Draftdeckai/pull/1060) |
-| fix: reduce Mermaid.js main-thread blocking for large diagrams | Hard | [#1056](https://github.com/Muneerali199/Draftdeckai/pull/1056) |
-| fix: sanitize AI-generated presentation markup with DOMPurify | Hard | [#1055](https://github.com/Muneerali199/Draftdeckai/pull/1055) |
-| Build document workflow engine — multi-step, connected document creation | Hard | [#1021](https://github.com/Muneerali199/Draftdeckai/issues/1021) |
-| Differentiate DraftDeckAI landing page and first-run experience | Hard | [#1020](https://github.com/Muneerali199/Draftdeckai/issues/1020) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1253](https://github.com/Muneerali199/Draftdeckai/pull/1253) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1252](https://github.com/Muneerali199/Draftdeckai/pull/1252) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1251](https://github.com/Muneerali199/Draftdeckai/pull/1251) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1250](https://github.com/Muneerali199/Draftdeckai/pull/1250) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1249](https://github.com/Muneerali199/Draftdeckai/pull/1249) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1248](https://github.com/Muneerali199/Draftdeckai/pull/1248) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1247](https://github.com/Muneerali199/Draftdeckai/pull/1247) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1246](https://github.com/Muneerali199/Draftdeckai/pull/1246) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1245](https://github.com/Muneerali199/Draftdeckai/pull/1245) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1244](https://github.com/Muneerali199/Draftdeckai/pull/1244) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1243](https://github.com/Muneerali199/Draftdeckai/pull/1243) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1242](https://github.com/Muneerali199/Draftdeckai/pull/1242) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1241](https://github.com/Muneerali199/Draftdeckai/pull/1241) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1240](https://github.com/Muneerali199/Draftdeckai/pull/1240) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1239](https://github.com/Muneerali199/Draftdeckai/pull/1239) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1238](https://github.com/Muneerali199/Draftdeckai/pull/1238) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1237](https://github.com/Muneerali199/Draftdeckai/pull/1237) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1236](https://github.com/Muneerali199/Draftdeckai/pull/1236) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1235](https://github.com/Muneerali199/Draftdeckai/pull/1235) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1234](https://github.com/Muneerali199/Draftdeckai/pull/1234) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1233](https://github.com/Muneerali199/Draftdeckai/pull/1233) |
+| feat(history): add clear search button and search result count | Medium | [#1232](https://github.com/Muneerali199/Draftdeckai/pull/1232) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1231](https://github.com/Muneerali199/Draftdeckai/pull/1231) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1230](https://github.com/Muneerali199/Draftdeckai/pull/1230) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1229](https://github.com/Muneerali199/Draftdeckai/pull/1229) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1228](https://github.com/Muneerali199/Draftdeckai/pull/1228) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1227](https://github.com/Muneerali199/Draftdeckai/pull/1227) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1226](https://github.com/Muneerali199/Draftdeckai/pull/1226) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1225](https://github.com/Muneerali199/Draftdeckai/pull/1225) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1224](https://github.com/Muneerali199/Draftdeckai/pull/1224) |
 
 ---
 
@@ -176,29 +187,31 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: implement pagination across global quest dashboards | Medium | [#437](https://github.com/LarytheLord/Adventurers-Guild/pull/437) |
+| security: TOCTOU Race Condition in QA Approvals | Medium | [#458](https://github.com/LarytheLord/Adventurers-Guild/issues/458) |
+| Fix: Restrict /api/users/search to admin role to prevent PII leak | Medium | [#457](https://github.com/LarytheLord/Adventurers-Guild/pull/457) |
+| seo: Root meta description still describes the old developer-marketplace model | Medium | [#454](https://github.com/LarytheLord/Adventurers-Guild/issues/454) |
+| chore: NEXT_PUBLIC_GA_ID is declared but never actually used | Medium | [#453](https://github.com/LarytheLord/Adventurers-Guild/issues/453) |
+| seo: Quest detail pages use static, generic metadata instead of the real quest title/description | Medium | [#452](https://github.com/LarytheLord/Adventurers-Guild/issues/452) |
+| bug: Quest social-share image is broken — points to non-existent /og/default.png | Medium | [#451](https://github.com/LarytheLord/Adventurers-Guild/issues/451) |
+| seo: Missing sitemap.xml and robots.txt | Medium | [#450](https://github.com/LarytheLord/Adventurers-Guild/issues/450) |
+| bug: Data Leak in User Search | Medium | [#449](https://github.com/LarytheLord/Adventurers-Guild/issues/449) |
+| bug: Invisible Text on Dark Background in Admin Dashboard | Medium | [#448](https://github.com/LarytheLord/Adventurers-Guild/issues/448) |
+| feat: Add QuestBriefSchema fields to quest creation API (#257) | Medium | [#447](https://github.com/LarytheLord/Adventurers-Guild/pull/447) |
+| feat: Add secure email change flow with verification to OLD email (#407) | Medium | [#446](https://github.com/LarytheLord/Adventurers-Guild/pull/446) |
+| fix: Move XP reward inside transaction to prevent permanent XP loss (#324) | Medium | [#445](https://github.com/LarytheLord/Adventurers-Guild/pull/445) |
 | fix: resolve 500 error on onboarding due to OAuth ID mismatch and Neon cold start (#428) | Medium | [#429](https://github.com/LarytheLord/Adventurers-Guild/pull/429) |
 | Onboarding fails with 500 Internal Server Error on /api/user/onboarding | Medium | [#428](https://github.com/LarytheLord/Adventurers-Guild/issues/428) |
-| security: Skill Points Validation Missing | Medium | [#426](https://github.com/LarytheLord/Adventurers-Guild/issues/426) |
-| security: Enforce String Length Constraints on Profile Inputs | Medium | [#425](https://github.com/LarytheLord/Adventurers-Guild/issues/425) |
-| feature: Missing Pagination on Global Quest Dashboards | Medium | [#424](https://github.com/LarytheLord/Adventurers-Guild/issues/424) |
 | feature: Implement Account Deletion Mechanics | Medium | [#423](https://github.com/LarytheLord/Adventurers-Guild/issues/423) |
-| bug: Admin Sidebar is Hard to Scroll on Desktop | Medium | [#422](https://github.com/LarytheLord/Adventurers-Guild/issues/422) |
-| bug: Mismatched Rank Calculations Between Header and Leaderboard Table | Medium | [#421](https://github.com/LarytheLord/Adventurers-Guild/issues/421) |
 | feature: Add "Change Password" to Profile Settings | Medium | [#420](https://github.com/LarytheLord/Adventurers-Guild/issues/420) |
 | feat: Guild Master role — intermediate QA gate between student and admin | Medium | [#409](https://github.com/LarytheLord/Adventurers-Guild/issues/409) |
 | feat: Admin Analytics API — platform health metrics | Medium | [#408](https://github.com/LarytheLord/Adventurers-Guild/issues/408) |
 | security: Secure email change flow for NextAuth/Prisma stack | Medium | [#407](https://github.com/LarytheLord/Adventurers-Guild/issues/407) |
 | feat: Quest track filtering — enforce BOOTCAMP/INTERN/OPEN visibility | Medium | [#406](https://github.com/LarytheLord/Adventurers-Guild/issues/406) |
-| fix: Admin QA reject/approve skips syncQuestLifecycleStatus — quest status stuck after admin action | Medium | [#330](https://github.com/LarytheLord/Adventurers-Guild/issues/330) |
 | fix: XP reward runs outside DB transaction — adventurer permanently loses XP if second write fails | Medium | [#324](https://github.com/LarytheLord/Adventurers-Guild/issues/324) |
 | CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
-| Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
-| feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
-| Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 
 ---
 
