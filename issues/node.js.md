@@ -1487,6 +1487,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement a spaced repetition study scheduler for saved notes — help students retain material more effectively | Medium | [#731](https://github.com/lovelymahor/StudyMatePlus/issues/731) |
+| Add file upload validation for PYQ papers — enforce file type, size limit, and virus-scan placeholder | Medium | [#730](https://github.com/lovelymahor/StudyMatePlus/issues/730) |
+| Add GitHub Actions CI pipeline — automate lint, build, and test for both client and server on every PR | Medium | [#729](https://github.com/lovelymahor/StudyMatePlus/issues/729) |
+| CORS middleware applied twice with no origin whitelist — allows any origin to call the API | Medium | [#728](https://github.com/lovelymahor/StudyMatePlus/issues/728) |
+| **Redesign Website Background and Update Button Color Theme for Improved UI** | Medium | [#727](https://github.com/lovelymahor/StudyMatePlus/issues/727) |
 | docs: Add API Endpoints Overview section to README | Medium | [#726](https://github.com/lovelymahor/StudyMatePlus/issues/726) |
 | Hero section overflows initial viewport at 100% browser zoom | Medium | [#725](https://github.com/lovelymahor/StudyMatePlus/issues/725) |
 | Improve footer text contrast for better readability and accessibility | Medium | [#724](https://github.com/lovelymahor/StudyMatePlus/issues/724) |
@@ -1512,11 +1517,6 @@ Fast Workflow Tools
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
 | Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
 | Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
-| Notes.jsx calls backend endpoints that don't exist | Medium | [#701](https://github.com/lovelymahor/StudyMatePlus/issues/701) |
-| PYQs.js and Syllabus.js: browsing UI is mock-only, buttons non-functional | Medium | [#700](https://github.com/lovelymahor/StudyMatePlus/issues/700) |
-| Feedback.js displays hardcoded mock data instead of fetching real feedback | Medium | [#699](https://github.com/lovelymahor/StudyMatePlus/issues/699) |
-| FeedbackModal.js: hardcoded localhost API URL breaks in production | Medium | [#698](https://github.com/lovelymahor/StudyMatePlus/issues/698) |
-| SubmitFeedback.js: form submission does not call the backend API | Medium | [#697](https://github.com/lovelymahor/StudyMatePlus/issues/697) |
 
 ---
 
@@ -1867,6 +1867,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: resolve 4 bugs in NPMChat | Easy | [#249](https://github.com/ThePlator/NPMChat/pull/249) |
+| fix: resolve 1 bugs in NPMChat | Easy | [#248](https://github.com/ThePlator/NPMChat/pull/248) |
 | fix: resolve 2 bugs | Easy | [#246](https://github.com/ThePlator/NPMChat/pull/246) |
 | fix: code quality and safety improvements | Easy | [#245](https://github.com/ThePlator/NPMChat/pull/245) |
 | fix: code quality and safety improvements | Easy | [#244](https://github.com/ThePlator/NPMChat/pull/244) |
@@ -1877,6 +1879,7 @@ Fast Workflow Tools
 | fix: code quality and safety improvements | Easy | [#237](https://github.com/ThePlator/NPMChat/pull/237) |
 | docs: improve contribution guidelines | Easy | [#229](https://github.com/ThePlator/NPMChat/pull/229) |
 | fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
+| fix: resolve 4 bugs in NPMChat | Medium | [#247](https://github.com/ThePlator/NPMChat/pull/247) |
 | fix: resolve 3 bugs | Medium | [#240](https://github.com/ThePlator/NPMChat/pull/240) |
 | fix: resolve 2 bugs | Medium | [#239](https://github.com/ThePlator/NPMChat/pull/239) |
 | fix: code quality and safety improvements | Medium | [#236](https://github.com/ThePlator/NPMChat/pull/236) |
@@ -1890,11 +1893,9 @@ Fast Workflow Tools
 | Improve navbar responsiveness across all devices | Medium | [#226](https://github.com/ThePlator/NPMChat/issues/226) |
 | Prevent duplicate socket reconnects caused by accumulated token refresh listeners | Medium | [#196](https://github.com/ThePlator/NPMChat/issues/196) |
 | Challenge correctness is derived from fragile output text | Medium | [#194](https://github.com/ThePlator/NPMChat/issues/194) |
-| Room socket events do not enforce room membership or host permissions | Medium | [#193](https://github.com/ThePlator/NPMChat/issues/193) |
 | fix: require structured challenge test results | Hard | [#201](https://github.com/ThePlator/NPMChat/pull/201) |
 | security: enforce room socket membership | Hard | [#200](https://github.com/ThePlator/NPMChat/pull/200) |
 | O auth2 with cookie | Hard | [#197](https://github.com/ThePlator/NPMChat/pull/197) |
-| Fix file validation and add upload progress UI (#142) | Hard | [#173](https://github.com/ThePlator/NPMChat/pull/173) |
 
 ---
 
