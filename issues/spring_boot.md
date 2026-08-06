@@ -129,28 +129,31 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps-dev): bump @vitejs/plugin-react from 6.0.4 to 6.0.5 | Easy | [#11113](https://github.com/SandeepVashishtha/Eventra/pull/11113) |
-| chore(deps): bump react-intersection-observer from 10.1.0 to 11.0.0 in the react-ecosystem group | Easy | [#11111](https://github.com/SandeepVashishtha/Eventra/pull/11111) |
-| security: Regex-based HTML fallback sanitizer may allow malformed HTML bypasses | Medium | [#11122](https://github.com/SandeepVashishtha/Eventra/issues/11122) |
-| security: Rate limiter trusts X-Forwarded-For header from untrusted clients | Medium | [#11121](https://github.com/SandeepVashishtha/Eventra/issues/11121) |
-| security: File validation allows dangerous extensions with trailing-dot filenames | Medium | [#11120](https://github.com/SandeepVashishtha/Eventra/issues/11120) |
-| security: Analytics endpoints are accessible to all authenticated users | Medium | [#11119](https://github.com/SandeepVashishtha/Eventra/issues/11119) |
-| security: Project upvote endpoint allows unlimited vote inflation | Medium | [#11118](https://github.com/SandeepVashishtha/Eventra/issues/11118) |
-| security: Event waitlist endpoint exposes attendee information to unrelated organizers | Medium | [#11117](https://github.com/SandeepVashishtha/Eventra/issues/11117) |
-| security: Broken Object-Level Authorization allows organizers to promote waitlisted users for any event | Medium | [#11116](https://github.com/SandeepVashishtha/Eventra/issues/11116) |
-| security: Broken Object-Level Authorization allows organizers to update any hackathon | Medium | [#11115](https://github.com/SandeepVashishtha/Eventra/issues/11115) |
-| chore(deps-dev): bump @playwright/test from 1.62.0 to 1.62.1 | Medium | [#11112](https://github.com/SandeepVashishtha/Eventra/pull/11112) |
-| Feature: Real-time Sentiment Analysis for Live Sessions via Chat | Medium | [#11110](https://github.com/SandeepVashishtha/Eventra/issues/11110) |
-| Feature: Smart Contract-Based Vendor Payments | Medium | [#11109](https://github.com/SandeepVashishtha/Eventra/issues/11109) |
-| Feature: Cross-Event Attendee Loyalty & Rewards Program | Medium | [#11108](https://github.com/SandeepVashishtha/Eventra/issues/11108) |
-| Feature: Automated Accessibility Compliance Checker for Event Assets | Medium | [#11107](https://github.com/SandeepVashishtha/Eventra/issues/11107) |
-| Feature: Decentralized Event Governance (DAO) for Community Events | Medium | [#11106](https://github.com/SandeepVashishtha/Eventra/issues/11106) |
-| Feature: Integration with Wearable Health Devices for Wellness Events | Medium | [#11105](https://github.com/SandeepVashishtha/Eventra/issues/11105) |
-| Feature: Augmented Reality (AR) Wayfinding | Medium | [#11104](https://github.com/SandeepVashishtha/Eventra/issues/11104) |
-| Feature: Speaker Prep Portal with Real-Time Q&A Triage | Medium | [#11103](https://github.com/SandeepVashishtha/Eventra/issues/11103) |
-| Feature: Customizable Event-Specific Mobile Apps (White-labeling) | Medium | [#11102](https://github.com/SandeepVashishtha/Eventra/issues/11102) |
-| Feature: Sponsor ROI Tracking with Heatmaps & Dwell Time | Medium | [#11101](https://github.com/SandeepVashishtha/Eventra/issues/11101) |
-| chore(deps-dev): bump vite from 8.1.5 to 8.2.0 | Hard | [#11114](https://github.com/SandeepVashishtha/Eventra/pull/11114) |
+| Feature: Quantum Random Number Generator for Lottery Upgrades | Medium | [#11863](https://github.com/SandeepVashishtha/Eventra/issues/11863) |
+| Feature: Automated Talent Hospitality Rider Fulfillment | Medium | [#11862](https://github.com/SandeepVashishtha/Eventra/issues/11862) |
+| Feature: Algorithmic Lighting Seizure Risk Mitigation | Medium | [#11861](https://github.com/SandeepVashishtha/Eventra/issues/11861) |
+| Feature: Algorithmic Lighting Seizure Risk Mitigation | Medium | [#11860](https://github.com/SandeepVashishtha/Eventra/issues/11860) |
+| Feature: Dynamic Surge-Pricing for Premium Concessions | Medium | [#11859](https://github.com/SandeepVashishtha/Eventra/issues/11859) |
+| Feature: Live Holographic Multi-Language Teleprompter | Medium | [#11858](https://github.com/SandeepVashishtha/Eventra/issues/11858) |
+| Feature: Predictive VIP Ride-Choreography Dispatch | Medium | [#11857](https://github.com/SandeepVashishtha/Eventra/issues/11857) |
+| Feature: Sub-Ohm Vaping/Smoke Detection Security Alert | Medium | [#11856](https://github.com/SandeepVashishtha/Eventra/issues/11856) |
+| Feature: Dynamic Acoustic Baffling Actuator Control | Medium | [#11854](https://github.com/SandeepVashishtha/Eventra/issues/11854) |
+| Feature: Blockchain-Backed Supply Chain Authenticator for Merch | Medium | [#11853](https://github.com/SandeepVashishtha/Eventra/issues/11853) |
+| Feature: Crowd-Sourced 3D Photogrammetry Engine | Medium | [#11852](https://github.com/SandeepVashishtha/Eventra/issues/11852) |
+| Feature: Zero-Knowledge Proof Age Verification | Medium | [#11851](https://github.com/SandeepVashishtha/Eventra/issues/11851) |
+| Feature: Micro-Location Bluetooth Beacon Heatmaps | Medium | [#11850](https://github.com/SandeepVashishtha/Eventra/issues/11850) |
+| Feature: Automated Heatstroke Risk Triage System | Medium | [#11848](https://github.com/SandeepVashishtha/Eventra/issues/11848) |
+| Feature: Spatial Audio Navigation Wayfinding | Medium | [#11847](https://github.com/SandeepVashishtha/Eventra/issues/11847) |
+| Feature: Smart-Contract Vendor Revenue Splitting | Medium | [#11846](https://github.com/SandeepVashishtha/Eventra/issues/11846) |
+| Feature: Generative AI Real-Time Setlist Predictor | Medium | [#11845](https://github.com/SandeepVashishtha/Eventra/issues/11845) |
+| Feature: Haptic Accessibility Vest Integration for the Deaf | Medium | [#11844](https://github.com/SandeepVashishtha/Eventra/issues/11844) |
+| Feature: Decentralized Lost & Found Bounty System | Medium | [#11842](https://github.com/SandeepVashishtha/Eventra/issues/11842) |
+| Feature: Autonomous Swarm Drone Photography Director | Medium | [#11841](https://github.com/SandeepVashishtha/Eventra/issues/11841) |
+| Feature: Kinetic Energy Harvesting Dancefloor Dashboard | Medium | [#11840](https://github.com/SandeepVashishtha/Eventra/issues/11840) |
+| Conditional Hook Usage in useKeyboardShortcuts.js | Medium | [#11838](https://github.com/SandeepVashishtha/Eventra/issues/11838) |
+| React Compiler Memoization Errors in useFormValidation.js | Medium | [#11837](https://github.com/SandeepVashishtha/Eventra/issues/11837) |
+| Duplicate Function Declaration in api.js | Medium | [#11835](https://github.com/SandeepVashishtha/Eventra/issues/11835) |
+| Undefined Component in HackathonsTab.jsx | Medium | [#11834](https://github.com/SandeepVashishtha/Eventra/issues/11834) |
 
 ---
 
