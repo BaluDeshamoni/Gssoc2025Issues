@@ -261,6 +261,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| **Feature: Add Theme Toggle (Light/Dark/System) to the Navigation Bar** | Medium | [#641](https://github.com/aayushraj1010/med-genie/issues/641) |
 | Chat camera/upload button POSTs to non-existent `/api/upload` → silent 404 | Medium | [#640](https://github.com/aayushraj1010/med-genie/issues/640) |
 | Google OAuth sets refresh cookie as `refreshToken` but backend reads `refresh_token` | Medium | [#639](https://github.com/aayushraj1010/med-genie/issues/639) |
 | Users force-logged-out every ~15 min: refresh-token cookie is never set by the frontend | Medium | [#638](https://github.com/aayushraj1010/med-genie/issues/638) |
@@ -290,7 +291,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | fix: improve error handling | Medium | [#613](https://github.com/aayushraj1010/med-genie/pull/613) |
 | fix: improve error handling | Medium | [#612](https://github.com/aayushraj1010/med-genie/pull/612) |
 | fix: improve error handling | Medium | [#611](https://github.com/aayushraj1010/med-genie/pull/611) |
-| fix: improve error handling | Medium | [#610](https://github.com/aayushraj1010/med-genie/pull/610) |
 
 ---
 
@@ -370,8 +370,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: implement user-configurable Ollama URL with backend proxying | Medium | [#295](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/295) |
-| feat: implement conversational-level privacy controls | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
+| fix: make Ollama base URL configurable via OLLAMA_BASE_URL env var | Medium | [#309](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/309) |
 
 ---
 
