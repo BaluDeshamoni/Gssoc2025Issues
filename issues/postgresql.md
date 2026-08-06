@@ -115,36 +115,36 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: clean up ~15 ad-hoc "fix-*"/"apply-*" scripts committed to the repo root — they clutter onboarding and risk being run against the wrong environment | Easy | [#1066](https://github.com/Muneerali199/Draftdeckai/issues/1066) |
-| chore: 15+ development fix scripts committed to repository root (apply-fix.js, complete-fix.ps1, fix-*.mjs, etc.) — these one-off automation scripts create severe confusion for contributors and should be removed | Easy | [#1065](https://github.com/Muneerali199/Draftdeckai/issues/1065) |
-| fix: code quality and safety improvements | Medium | [#1107](https://github.com/Muneerali199/Draftdeckai/pull/1107) |
-| fix: code quality and safety improvements | Medium | [#1106](https://github.com/Muneerali199/Draftdeckai/pull/1106) |
-| fix: code quality and safety improvements | Medium | [#1105](https://github.com/Muneerali199/Draftdeckai/pull/1105) |
-| fix: code quality and safety improvements | Medium | [#1104](https://github.com/Muneerali199/Draftdeckai/pull/1104) |
-| fix: code quality and safety improvements | Medium | [#1103](https://github.com/Muneerali199/Draftdeckai/pull/1103) |
-| fix: code quality and safety improvements | Medium | [#1102](https://github.com/Muneerali199/Draftdeckai/pull/1102) |
-| fix: code quality and safety improvements | Medium | [#1101](https://github.com/Muneerali199/Draftdeckai/pull/1101) |
-| fix: code quality and safety improvements | Medium | [#1100](https://github.com/Muneerali199/Draftdeckai/pull/1100) |
-| fix: resolve 1 bugs | Medium | [#1099](https://github.com/Muneerali199/Draftdeckai/pull/1099) |
-| fix: code quality and safety improvements | Medium | [#1098](https://github.com/Muneerali199/Draftdeckai/pull/1098) |
-| fix: resolve 3 bugs | Medium | [#1097](https://github.com/Muneerali199/Draftdeckai/pull/1097) |
-| fix: resolve 4 bugs | Medium | [#1096](https://github.com/Muneerali199/Draftdeckai/pull/1096) |
-| fix: code quality and safety improvements | Medium | [#1095](https://github.com/Muneerali199/Draftdeckai/pull/1095) |
-| fix: code quality and safety improvements | Medium | [#1094](https://github.com/Muneerali199/Draftdeckai/pull/1094) |
-| fix: resolve 4 bugs | Medium | [#1093](https://github.com/Muneerali199/Draftdeckai/pull/1093) |
-| fix: code quality and safety improvements | Medium | [#1092](https://github.com/Muneerali199/Draftdeckai/pull/1092) |
-| fix: resolve 4 bugs | Medium | [#1091](https://github.com/Muneerali199/Draftdeckai/pull/1091) |
-| fix: resolve 2 bugs | Medium | [#1090](https://github.com/Muneerali199/Draftdeckai/pull/1090) |
-| fix: resolve 2 bugs | Medium | [#1089](https://github.com/Muneerali199/Draftdeckai/pull/1089) |
-| fix: resolve 2 bugs | Medium | [#1088](https://github.com/Muneerali199/Draftdeckai/pull/1088) |
-| fix: code quality and safety improvements | Medium | [#1087](https://github.com/Muneerali199/Draftdeckai/pull/1087) |
-| fix: code quality and safety improvements | Medium | [#1086](https://github.com/Muneerali199/Draftdeckai/pull/1086) |
-| fix: code quality and safety improvements | Medium | [#1085](https://github.com/Muneerali199/Draftdeckai/pull/1085) |
-| fix: code quality and safety improvements | Medium | [#1084](https://github.com/Muneerali199/Draftdeckai/pull/1084) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 51 updates | Medium | [#1083](https://github.com/Muneerali199/Draftdeckai/pull/1083) |
-| increase Jest coverage for Resume Generation API routes and validation edge cases | Medium | [#1081](https://github.com/Muneerali199/Draftdeckai/issues/1081) |
-| AI-powered hero video for landing page — generate, enhance & integrate | Medium | [#1077](https://github.com/Muneerali199/Draftdeckai/issues/1077) |
-| fix: add idempotency/re-validation to the credits deduction flow to prevent double-charging on retried generation requests | Medium | [#1067](https://github.com/Muneerali199/Draftdeckai/issues/1067) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1253](https://github.com/Muneerali199/Draftdeckai/pull/1253) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1252](https://github.com/Muneerali199/Draftdeckai/pull/1252) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1251](https://github.com/Muneerali199/Draftdeckai/pull/1251) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1250](https://github.com/Muneerali199/Draftdeckai/pull/1250) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1249](https://github.com/Muneerali199/Draftdeckai/pull/1249) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1248](https://github.com/Muneerali199/Draftdeckai/pull/1248) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1247](https://github.com/Muneerali199/Draftdeckai/pull/1247) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1246](https://github.com/Muneerali199/Draftdeckai/pull/1246) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1245](https://github.com/Muneerali199/Draftdeckai/pull/1245) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1244](https://github.com/Muneerali199/Draftdeckai/pull/1244) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1243](https://github.com/Muneerali199/Draftdeckai/pull/1243) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1242](https://github.com/Muneerali199/Draftdeckai/pull/1242) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1241](https://github.com/Muneerali199/Draftdeckai/pull/1241) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1240](https://github.com/Muneerali199/Draftdeckai/pull/1240) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1239](https://github.com/Muneerali199/Draftdeckai/pull/1239) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1238](https://github.com/Muneerali199/Draftdeckai/pull/1238) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1237](https://github.com/Muneerali199/Draftdeckai/pull/1237) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1236](https://github.com/Muneerali199/Draftdeckai/pull/1236) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1235](https://github.com/Muneerali199/Draftdeckai/pull/1235) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1234](https://github.com/Muneerali199/Draftdeckai/pull/1234) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1233](https://github.com/Muneerali199/Draftdeckai/pull/1233) |
+| feat(history): add clear search button and search result count | Medium | [#1232](https://github.com/Muneerali199/Draftdeckai/pull/1232) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1231](https://github.com/Muneerali199/Draftdeckai/pull/1231) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1230](https://github.com/Muneerali199/Draftdeckai/pull/1230) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1229](https://github.com/Muneerali199/Draftdeckai/pull/1229) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1228](https://github.com/Muneerali199/Draftdeckai/pull/1228) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1227](https://github.com/Muneerali199/Draftdeckai/pull/1227) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1226](https://github.com/Muneerali199/Draftdeckai/pull/1226) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1225](https://github.com/Muneerali199/Draftdeckai/pull/1225) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1224](https://github.com/Muneerali199/Draftdeckai/pull/1224) |
 
 ---
 
@@ -355,28 +355,31 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps-dev): bump @vitejs/plugin-react from 6.0.4 to 6.0.5 | Easy | [#11113](https://github.com/SandeepVashishtha/Eventra/pull/11113) |
-| chore(deps): bump react-intersection-observer from 10.1.0 to 11.0.0 in the react-ecosystem group | Easy | [#11111](https://github.com/SandeepVashishtha/Eventra/pull/11111) |
-| security: Regex-based HTML fallback sanitizer may allow malformed HTML bypasses | Medium | [#11122](https://github.com/SandeepVashishtha/Eventra/issues/11122) |
-| security: Rate limiter trusts X-Forwarded-For header from untrusted clients | Medium | [#11121](https://github.com/SandeepVashishtha/Eventra/issues/11121) |
-| security: File validation allows dangerous extensions with trailing-dot filenames | Medium | [#11120](https://github.com/SandeepVashishtha/Eventra/issues/11120) |
-| security: Analytics endpoints are accessible to all authenticated users | Medium | [#11119](https://github.com/SandeepVashishtha/Eventra/issues/11119) |
-| security: Project upvote endpoint allows unlimited vote inflation | Medium | [#11118](https://github.com/SandeepVashishtha/Eventra/issues/11118) |
-| security: Event waitlist endpoint exposes attendee information to unrelated organizers | Medium | [#11117](https://github.com/SandeepVashishtha/Eventra/issues/11117) |
-| security: Broken Object-Level Authorization allows organizers to promote waitlisted users for any event | Medium | [#11116](https://github.com/SandeepVashishtha/Eventra/issues/11116) |
-| security: Broken Object-Level Authorization allows organizers to update any hackathon | Medium | [#11115](https://github.com/SandeepVashishtha/Eventra/issues/11115) |
-| chore(deps-dev): bump @playwright/test from 1.62.0 to 1.62.1 | Medium | [#11112](https://github.com/SandeepVashishtha/Eventra/pull/11112) |
-| Feature: Real-time Sentiment Analysis for Live Sessions via Chat | Medium | [#11110](https://github.com/SandeepVashishtha/Eventra/issues/11110) |
-| Feature: Smart Contract-Based Vendor Payments | Medium | [#11109](https://github.com/SandeepVashishtha/Eventra/issues/11109) |
-| Feature: Cross-Event Attendee Loyalty & Rewards Program | Medium | [#11108](https://github.com/SandeepVashishtha/Eventra/issues/11108) |
-| Feature: Automated Accessibility Compliance Checker for Event Assets | Medium | [#11107](https://github.com/SandeepVashishtha/Eventra/issues/11107) |
-| Feature: Decentralized Event Governance (DAO) for Community Events | Medium | [#11106](https://github.com/SandeepVashishtha/Eventra/issues/11106) |
-| Feature: Integration with Wearable Health Devices for Wellness Events | Medium | [#11105](https://github.com/SandeepVashishtha/Eventra/issues/11105) |
-| Feature: Augmented Reality (AR) Wayfinding | Medium | [#11104](https://github.com/SandeepVashishtha/Eventra/issues/11104) |
-| Feature: Speaker Prep Portal with Real-Time Q&A Triage | Medium | [#11103](https://github.com/SandeepVashishtha/Eventra/issues/11103) |
-| Feature: Customizable Event-Specific Mobile Apps (White-labeling) | Medium | [#11102](https://github.com/SandeepVashishtha/Eventra/issues/11102) |
-| Feature: Sponsor ROI Tracking with Heatmaps & Dwell Time | Medium | [#11101](https://github.com/SandeepVashishtha/Eventra/issues/11101) |
-| chore(deps-dev): bump vite from 8.1.5 to 8.2.0 | Hard | [#11114](https://github.com/SandeepVashishtha/Eventra/pull/11114) |
+| Feature: Quantum Random Number Generator for Lottery Upgrades | Medium | [#11863](https://github.com/SandeepVashishtha/Eventra/issues/11863) |
+| Feature: Automated Talent Hospitality Rider Fulfillment | Medium | [#11862](https://github.com/SandeepVashishtha/Eventra/issues/11862) |
+| Feature: Algorithmic Lighting Seizure Risk Mitigation | Medium | [#11861](https://github.com/SandeepVashishtha/Eventra/issues/11861) |
+| Feature: Algorithmic Lighting Seizure Risk Mitigation | Medium | [#11860](https://github.com/SandeepVashishtha/Eventra/issues/11860) |
+| Feature: Dynamic Surge-Pricing for Premium Concessions | Medium | [#11859](https://github.com/SandeepVashishtha/Eventra/issues/11859) |
+| Feature: Live Holographic Multi-Language Teleprompter | Medium | [#11858](https://github.com/SandeepVashishtha/Eventra/issues/11858) |
+| Feature: Predictive VIP Ride-Choreography Dispatch | Medium | [#11857](https://github.com/SandeepVashishtha/Eventra/issues/11857) |
+| Feature: Sub-Ohm Vaping/Smoke Detection Security Alert | Medium | [#11856](https://github.com/SandeepVashishtha/Eventra/issues/11856) |
+| Feature: Dynamic Acoustic Baffling Actuator Control | Medium | [#11854](https://github.com/SandeepVashishtha/Eventra/issues/11854) |
+| Feature: Blockchain-Backed Supply Chain Authenticator for Merch | Medium | [#11853](https://github.com/SandeepVashishtha/Eventra/issues/11853) |
+| Feature: Crowd-Sourced 3D Photogrammetry Engine | Medium | [#11852](https://github.com/SandeepVashishtha/Eventra/issues/11852) |
+| Feature: Zero-Knowledge Proof Age Verification | Medium | [#11851](https://github.com/SandeepVashishtha/Eventra/issues/11851) |
+| Feature: Micro-Location Bluetooth Beacon Heatmaps | Medium | [#11850](https://github.com/SandeepVashishtha/Eventra/issues/11850) |
+| Feature: Automated Heatstroke Risk Triage System | Medium | [#11848](https://github.com/SandeepVashishtha/Eventra/issues/11848) |
+| Feature: Spatial Audio Navigation Wayfinding | Medium | [#11847](https://github.com/SandeepVashishtha/Eventra/issues/11847) |
+| Feature: Smart-Contract Vendor Revenue Splitting | Medium | [#11846](https://github.com/SandeepVashishtha/Eventra/issues/11846) |
+| Feature: Generative AI Real-Time Setlist Predictor | Medium | [#11845](https://github.com/SandeepVashishtha/Eventra/issues/11845) |
+| Feature: Haptic Accessibility Vest Integration for the Deaf | Medium | [#11844](https://github.com/SandeepVashishtha/Eventra/issues/11844) |
+| Feature: Decentralized Lost & Found Bounty System | Medium | [#11842](https://github.com/SandeepVashishtha/Eventra/issues/11842) |
+| Feature: Autonomous Swarm Drone Photography Director | Medium | [#11841](https://github.com/SandeepVashishtha/Eventra/issues/11841) |
+| Feature: Kinetic Energy Harvesting Dancefloor Dashboard | Medium | [#11840](https://github.com/SandeepVashishtha/Eventra/issues/11840) |
+| Conditional Hook Usage in useKeyboardShortcuts.js | Medium | [#11838](https://github.com/SandeepVashishtha/Eventra/issues/11838) |
+| React Compiler Memoization Errors in useFormValidation.js | Medium | [#11837](https://github.com/SandeepVashishtha/Eventra/issues/11837) |
+| Duplicate Function Declaration in api.js | Medium | [#11835](https://github.com/SandeepVashishtha/Eventra/issues/11835) |
+| Undefined Component in HackathonsTab.jsx | Medium | [#11834](https://github.com/SandeepVashishtha/Eventra/issues/11834) |
 
 ---
 
