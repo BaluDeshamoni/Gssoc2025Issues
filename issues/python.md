@@ -209,7 +209,8 @@ Make informed mentorship choices through intelligent matching and profile-based 
 |----------|----------------|---------|
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| chore(deps): bump the version-updates group across 1 directory with 2 updates | Medium | [#5352](https://github.com/OWASP/Nest/pull/5352) |
+| Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
+| Optimize ChapterNode top_contributors | Medium | [#5361](https://github.com/OWASP/Nest/pull/5361) |
 | Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
 | Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
 | Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
@@ -218,7 +219,6 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
-| Add ActivityEvent model and builder | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
 
 ---
 
@@ -1055,6 +1055,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| **Feature: Add Theme Toggle (Light/Dark/System) to the Navigation Bar** | Medium | [#641](https://github.com/aayushraj1010/med-genie/issues/641) |
 | Chat camera/upload button POSTs to non-existent `/api/upload` → silent 404 | Medium | [#640](https://github.com/aayushraj1010/med-genie/issues/640) |
 | Google OAuth sets refresh cookie as `refreshToken` but backend reads `refresh_token` | Medium | [#639](https://github.com/aayushraj1010/med-genie/issues/639) |
 | Users force-logged-out every ~15 min: refresh-token cookie is never set by the frontend | Medium | [#638](https://github.com/aayushraj1010/med-genie/issues/638) |
@@ -1084,7 +1085,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | fix: improve error handling | Medium | [#613](https://github.com/aayushraj1010/med-genie/pull/613) |
 | fix: improve error handling | Medium | [#612](https://github.com/aayushraj1010/med-genie/pull/612) |
 | fix: improve error handling | Medium | [#611](https://github.com/aayushraj1010/med-genie/pull/611) |
-| fix: improve error handling | Medium | [#610](https://github.com/aayushraj1010/med-genie/pull/610) |
 
 ---
 
@@ -1667,8 +1667,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: implement user-configurable Ollama URL with backend proxying | Medium | [#295](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/295) |
-| feat: implement conversational-level privacy controls | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
+| fix: make Ollama base URL configurable via OLLAMA_BASE_URL env var | Medium | [#309](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/309) |
 
 ---
 
