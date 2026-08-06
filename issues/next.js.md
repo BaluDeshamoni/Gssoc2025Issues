@@ -39,11 +39,11 @@
 | Add Contributors Section in README | Medium | [#264](https://github.com/iaadillatif/techxninjas-client/issues/264) |
 | On clicking the Explore What's Inside TechXNinjas's : Resume builder , it's not showing anything | Medium | [#263](https://github.com/iaadillatif/techxninjas-client/issues/263) |
 | Add Pull Request (PR) Template | Medium | [#261](https://github.com/iaadillatif/techxninjas-client/issues/261) |
-| BUG FIX: Removing the private keys from .env.local file | Medium | [#260](https://github.com/iaadillatif/techxninjas-client/pull/260) |
 | Add courses which redirect to coursera and popular websites | Medium | [#259](https://github.com/iaadillatif/techxninjas-client/issues/259) |
 | Make the home page more futeristic | Medium | [#258](https://github.com/iaadillatif/techxninjas-client/issues/258) |
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
+| course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
 
 ---
 
@@ -160,20 +160,18 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Merge the updates from main | Easy | [#5274](https://github.com/OWASP/Nest/pull/5274) |
+| feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
+| Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
+| Optimize ChapterNode top_contributors | Medium | [#5361](https://github.com/OWASP/Nest/pull/5361) |
+| Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
+| Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
+| Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
+| Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
+| Add Django Comand To Generate Candidate Claims | Medium | [#5313](https://github.com/OWASP/Nest/pull/5313) |
 | Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
-| Clean up entity leaders and entity channels from GenericEntityNode | Medium | [#5301](https://github.com/OWASP/Nest/pull/5301) |
-| Optimize entity leaders and entity channels in CommitteeNode | Medium | [#5300](https://github.com/OWASP/Nest/pull/5300) |
-| Optimize entity channels and entity leaders in ProjectNode | Medium | [#5299](https://github.com/OWASP/Nest/pull/5299) |
-| Feat: docker volume name check | Medium | [#5296](https://github.com/OWASP/Nest/pull/5296) |
-| fix: revert db volume name and add compose volume name check | Medium | [#5295](https://github.com/OWASP/Nest/pull/5295) |
-| Optimize entity_leaders and entity_channels in ChapterNode | Medium | [#5285](https://github.com/OWASP/Nest/pull/5285) |
-| Optimize OWASP SnapshotNode | Medium | [#5273](https://github.com/OWASP/Nest/pull/5273) |
-| feat(o11y): add RQ worker custom metrics | Medium | [#5272](https://github.com/OWASP/Nest/pull/5272) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
-| Optimize MemberSnapshotNode | Medium | [#5258](https://github.com/OWASP/Nest/pull/5258) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
-| Add ActivityEvent model | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
 
 ---
 
@@ -197,29 +195,6 @@
 | Feature/accessibility improvements [GSSoC 2025] | Medium | [#127](https://github.com/AyushSharma72/Skill_Trade/pull/127) |
 | Add GSSoC'25 Banner. | Medium | [#126](https://github.com/AyushSharma72/Skill_Trade/issues/126) |
 | Fix the mobile responsiveness of contact form on contact page | Medium | [#123](https://github.com/AyushSharma72/Skill_Trade/issues/123) |
-
----
-
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Input Validation and User-Friendly Error Messages Across Forms | Medium | [#758](https://github.com/Dipanita45/HEALCONNECT/issues/758) |
-| Error in page https://healconnect.vercel.app/how-it-works/ | Medium | [#757](https://github.com/Dipanita45/HEALCONNECT/issues/757) |
-| # 🚀 Feature Request: Add Patient Medical History Timeline | Medium | [#756](https://github.com/Dipanita45/HEALCONNECT/issues/756) |
-| Fix Client-Side Route Guard and Identity Bypass | Medium | [#755](https://github.com/Dipanita45/HEALCONNECT/pull/755) |
-| Comprehensive Accessibility (a11y) Audit & Fixes | Medium | [#754](https://github.com/Dipanita45/HEALCONNECT/issues/754) |
-| Implement Skeleton Loaders for Dashboard Data Fetching | Medium | [#752](https://github.com/Dipanita45/HEALCONNECT/issues/752) |
 
 ---
 
@@ -353,25 +328,36 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: clean up ~15 ad-hoc "fix-*"/"apply-*" scripts committed to the repo root — they clutter onboarding and risk being run against the wrong environment | Easy | [#1066](https://github.com/Muneerali199/Draftdeckai/issues/1066) |
-| chore: 15+ development fix scripts committed to repository root (apply-fix.js, complete-fix.ps1, fix-*.mjs, etc.) — these one-off automation scripts create severe confusion for contributors and should be removed | Easy | [#1065](https://github.com/Muneerali199/Draftdeckai/issues/1065) |
-| fix: repair diagnostic page guard | Easy | [#1062](https://github.com/Muneerali199/Draftdeckai/pull/1062) |
-| fix: add security warnings and runtime guard for SUPABASE_SERVICE_ROLE_KEY | Easy | [#1058](https://github.com/Muneerali199/Draftdeckai/pull/1058) |
-| test: add Jest coverage for ATS Score Checker | Medium | [#1080](https://github.com/Muneerali199/Draftdeckai/pull/1080) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 55 updates | Medium | [#1079](https://github.com/Muneerali199/Draftdeckai/pull/1079) |
-| AI-powered hero video for landing page — generate, enhance & integrate | Medium | [#1077](https://github.com/Muneerali199/Draftdeckai/issues/1077) |
-| fix: add idempotency/re-validation to the credits deduction flow to prevent double-charging on retried generation requests | Medium | [#1067](https://github.com/Muneerali199/Draftdeckai/issues/1067) |
-| fix: harden client error logging | Medium | [#1064](https://github.com/Muneerali199/Draftdeckai/pull/1064) |
-| fix: support linkedin jobs in extension | Medium | [#1063](https://github.com/Muneerali199/Draftdeckai/pull/1063) |
-| fix(autosave): debounce document autosave to prevent excessive Supabase writes | Medium | [#1059](https://github.com/Muneerali199/Draftdeckai/pull/1059) |
-| feat(history): implement Phase 1 history improvements with sorting and enhanced search experience | Medium | [#1034](https://github.com/Muneerali199/Draftdeckai/pull/1034) |
-| chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.2 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
-| fix(dependencies): update vulnerable packages to pass security audit | Hard | [#1061](https://github.com/Muneerali199/Draftdeckai/pull/1061) |
-| fix(security): enhance Stripe webhook signature verification | Hard | [#1060](https://github.com/Muneerali199/Draftdeckai/pull/1060) |
-| fix: reduce Mermaid.js main-thread blocking for large diagrams | Hard | [#1056](https://github.com/Muneerali199/Draftdeckai/pull/1056) |
-| fix: sanitize AI-generated presentation markup with DOMPurify | Hard | [#1055](https://github.com/Muneerali199/Draftdeckai/pull/1055) |
-| Build document workflow engine — multi-step, connected document creation | Hard | [#1021](https://github.com/Muneerali199/Draftdeckai/issues/1021) |
-| Differentiate DraftDeckAI landing page and first-run experience | Hard | [#1020](https://github.com/Muneerali199/Draftdeckai/issues/1020) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1253](https://github.com/Muneerali199/Draftdeckai/pull/1253) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1252](https://github.com/Muneerali199/Draftdeckai/pull/1252) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1251](https://github.com/Muneerali199/Draftdeckai/pull/1251) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1250](https://github.com/Muneerali199/Draftdeckai/pull/1250) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1249](https://github.com/Muneerali199/Draftdeckai/pull/1249) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1248](https://github.com/Muneerali199/Draftdeckai/pull/1248) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1247](https://github.com/Muneerali199/Draftdeckai/pull/1247) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1246](https://github.com/Muneerali199/Draftdeckai/pull/1246) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1245](https://github.com/Muneerali199/Draftdeckai/pull/1245) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1244](https://github.com/Muneerali199/Draftdeckai/pull/1244) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1243](https://github.com/Muneerali199/Draftdeckai/pull/1243) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1242](https://github.com/Muneerali199/Draftdeckai/pull/1242) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1241](https://github.com/Muneerali199/Draftdeckai/pull/1241) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1240](https://github.com/Muneerali199/Draftdeckai/pull/1240) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1239](https://github.com/Muneerali199/Draftdeckai/pull/1239) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1238](https://github.com/Muneerali199/Draftdeckai/pull/1238) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1237](https://github.com/Muneerali199/Draftdeckai/pull/1237) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1236](https://github.com/Muneerali199/Draftdeckai/pull/1236) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1235](https://github.com/Muneerali199/Draftdeckai/pull/1235) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1234](https://github.com/Muneerali199/Draftdeckai/pull/1234) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1233](https://github.com/Muneerali199/Draftdeckai/pull/1233) |
+| feat(history): add clear search button and search result count | Medium | [#1232](https://github.com/Muneerali199/Draftdeckai/pull/1232) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1231](https://github.com/Muneerali199/Draftdeckai/pull/1231) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1230](https://github.com/Muneerali199/Draftdeckai/pull/1230) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1229](https://github.com/Muneerali199/Draftdeckai/pull/1229) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1228](https://github.com/Muneerali199/Draftdeckai/pull/1228) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1227](https://github.com/Muneerali199/Draftdeckai/pull/1227) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1226](https://github.com/Muneerali199/Draftdeckai/pull/1226) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1225](https://github.com/Muneerali199/Draftdeckai/pull/1225) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1224](https://github.com/Muneerali199/Draftdeckai/pull/1224) |
 
 ---
 
@@ -466,26 +452,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | UI enhancement: Landing Page | Medium | [#5](https://github.com/sailaja-adapa/GuruShish/issues/5) |
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
 | Glassy Navbar Contribution | Medium | [#3](https://github.com/sailaja-adapa/GuruShish/issues/3) |
-
----
-
-## 📌 Project: recode-website
-
-📝 **Description:** community blog website 
-
-🔗 [View Project](https://github.com/recodehive/recode-website)
-
-💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Fix build error: move changelog utility component out of pages directory | Easy | [#2011](https://github.com/recodehive/recode-website/pull/2011) |
-| fix(testimonials): replace testimonial names with recode hive contributors (#1983) | Easy | [#2008](https://github.com/recodehive/recode-website/pull/2008) |
-| fix: remove debug console.log statements from production components | Easy | [#2004](https://github.com/recodehive/recode-website/pull/2004) |
 
 ---
 
@@ -749,6 +715,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| security: TOCTOU Race Condition in QA Approvals | Medium | [#458](https://github.com/LarytheLord/Adventurers-Guild/issues/458) |
+| Fix: Restrict /api/users/search to admin role to prevent PII leak | Medium | [#457](https://github.com/LarytheLord/Adventurers-Guild/pull/457) |
+| seo: Root meta description still describes the old developer-marketplace model | Medium | [#454](https://github.com/LarytheLord/Adventurers-Guild/issues/454) |
+| chore: NEXT_PUBLIC_GA_ID is declared but never actually used | Medium | [#453](https://github.com/LarytheLord/Adventurers-Guild/issues/453) |
+| seo: Quest detail pages use static, generic metadata instead of the real quest title/description | Medium | [#452](https://github.com/LarytheLord/Adventurers-Guild/issues/452) |
+| bug: Quest social-share image is broken — points to non-existent /og/default.png | Medium | [#451](https://github.com/LarytheLord/Adventurers-Guild/issues/451) |
+| seo: Missing sitemap.xml and robots.txt | Medium | [#450](https://github.com/LarytheLord/Adventurers-Guild/issues/450) |
 | bug: Data Leak in User Search | Medium | [#449](https://github.com/LarytheLord/Adventurers-Guild/issues/449) |
 | bug: Invisible Text on Dark Background in Admin Dashboard | Medium | [#448](https://github.com/LarytheLord/Adventurers-Guild/issues/448) |
 | feat: Add QuestBriefSchema fields to quest creation API (#257) | Medium | [#447](https://github.com/LarytheLord/Adventurers-Guild/pull/447) |
@@ -762,15 +735,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | feat: Admin Analytics API — platform health metrics | Medium | [#408](https://github.com/LarytheLord/Adventurers-Guild/issues/408) |
 | security: Secure email change flow for NextAuth/Prisma stack | Medium | [#407](https://github.com/LarytheLord/Adventurers-Guild/issues/407) |
 | feat: Quest track filtering — enforce BOOTCAMP/INTERN/OPEN visibility | Medium | [#406](https://github.com/LarytheLord/Adventurers-Guild/issues/406) |
-| fix: Admin QA reject/approve skips syncQuestLifecycleStatus — quest status stuck after admin action | Medium | [#330](https://github.com/LarytheLord/Adventurers-Guild/issues/330) |
 | fix: XP reward runs outside DB transaction — adventurer permanently loses XP if second write fails | Medium | [#324](https://github.com/LarytheLord/Adventurers-Guild/issues/324) |
 | CRITICAL: QuestBriefSchema fields missing from Prisma schema — quest context silently broken | Medium | [#257](https://github.com/LarytheLord/Adventurers-Guild/issues/257) |
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
-| Announcement: @Adil2009700 joins as co-maintainer | Medium | [#208](https://github.com/LarytheLord/Adventurers-Guild/issues/208) |
-| feat: Launch Content Assets — Demo video, GIFs, and social media graphics | Medium | [#195](https://github.com/LarytheLord/Adventurers-Guild/issues/195) |
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
-| Add the website screenshot to the readme | Medium | [#188](https://github.com/LarytheLord/Adventurers-Guild/issues/188) |
 
 ---
 
@@ -1086,6 +1055,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| V1 koustav | Medium | [#67](https://github.com/EasyGoDocs/easygodocs/pull/67) |
 | line remove(readme.md) | Medium | [#64](https://github.com/EasyGoDocs/easygodocs/pull/64) |
 | V1 oindil | Medium | [#60](https://github.com/EasyGoDocs/easygodocs/pull/60) |
 | Docs must be simpler. We provide simple solutions. | Medium | [#58](https://github.com/EasyGoDocs/easygodocs/issues/58) |
@@ -1126,8 +1096,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: implement user-configurable Ollama URL with backend proxying | Medium | [#295](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/295) |
-| feat: implement conversational-level privacy controls | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
+| fix: make Ollama base URL configurable via OLLAMA_BASE_URL env var | Medium | [#309](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/309) |
 
 ---
 
@@ -1145,23 +1114,35 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: resolve 4 bugs in NPMChat | Easy | [#249](https://github.com/ThePlator/NPMChat/pull/249) |
+| fix: resolve 1 bugs in NPMChat | Easy | [#248](https://github.com/ThePlator/NPMChat/pull/248) |
+| fix: resolve 2 bugs | Easy | [#246](https://github.com/ThePlator/NPMChat/pull/246) |
+| fix: code quality and safety improvements | Easy | [#245](https://github.com/ThePlator/NPMChat/pull/245) |
+| fix: code quality and safety improvements | Easy | [#244](https://github.com/ThePlator/NPMChat/pull/244) |
+| fix: code quality and safety improvements | Easy | [#243](https://github.com/ThePlator/NPMChat/pull/243) |
+| fix: code quality and safety improvements | Easy | [#242](https://github.com/ThePlator/NPMChat/pull/242) |
+| fix: code quality and safety improvements | Easy | [#241](https://github.com/ThePlator/NPMChat/pull/241) |
+| fix: code quality and safety improvements | Easy | [#238](https://github.com/ThePlator/NPMChat/pull/238) |
+| fix: code quality and safety improvements | Easy | [#237](https://github.com/ThePlator/NPMChat/pull/237) |
 | docs: improve contribution guidelines | Easy | [#229](https://github.com/ThePlator/NPMChat/pull/229) |
 | fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
+| fix: resolve 4 bugs in NPMChat | Medium | [#247](https://github.com/ThePlator/NPMChat/pull/247) |
+| fix: resolve 3 bugs | Medium | [#240](https://github.com/ThePlator/NPMChat/pull/240) |
+| fix: resolve 2 bugs | Medium | [#239](https://github.com/ThePlator/NPMChat/pull/239) |
+| fix: code quality and safety improvements | Medium | [#236](https://github.com/ThePlator/NPMChat/pull/236) |
+| fix: align legal pages with the app theme | Medium | [#235](https://github.com/ThePlator/NPMChat/pull/235) |
 | Bug: Terms and Privacy pages UI does not match the main website theme | Medium | [#234](https://github.com/ThePlator/NPMChat/issues/234) |
 | Bug: Heart/Favorite button has no functionality | Medium | [#233](https://github.com/ThePlator/NPMChat/issues/233) |
 | Bug: Add navigation back to home from other routes | Medium | [#232](https://github.com/ThePlator/NPMChat/issues/232) |
 | Feature: Add scroll-to-top button for better navigation | Medium | [#231](https://github.com/ThePlator/NPMChat/issues/231) |
 | Bug: Default favicon is displayed instead of NPMChat favicon | Medium | [#230](https://github.com/ThePlator/NPMChat/issues/230) |
 | # [Feature Request] Add Quick Copy Button for Code Blocks in Chat Messages | Medium | [#228](https://github.com/ThePlator/NPMChat/issues/228) |
+| Improve navbar responsiveness across all devices | Medium | [#226](https://github.com/ThePlator/NPMChat/issues/226) |
 | Prevent duplicate socket reconnects caused by accumulated token refresh listeners | Medium | [#196](https://github.com/ThePlator/NPMChat/issues/196) |
 | Challenge correctness is derived from fragile output text | Medium | [#194](https://github.com/ThePlator/NPMChat/issues/194) |
-| Room socket events do not enforce room membership or host permissions | Medium | [#193](https://github.com/ThePlator/NPMChat/issues/193) |
-| Fix oauth ci passport guard | Medium | [#152](https://github.com/ThePlator/NPMChat/pull/152) |
-| Missing Receiver Verification on Message Send | Medium | [#141](https://github.com/ThePlator/NPMChat/issues/141) |
 | fix: require structured challenge test results | Hard | [#201](https://github.com/ThePlator/NPMChat/pull/201) |
 | security: enforce room socket membership | Hard | [#200](https://github.com/ThePlator/NPMChat/pull/200) |
 | O auth2 with cookie | Hard | [#197](https://github.com/ThePlator/NPMChat/pull/197) |
-| Fix file validation and add upload progress UI (#142) | Hard | [#173](https://github.com/ThePlator/NPMChat/pull/173) |
 
 ---
 
@@ -1315,7 +1296,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(product-card): add product card block | Medium | [#142](https://github.com/subhadeeproy3902/mvpblocks/pull/142) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
