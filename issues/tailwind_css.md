@@ -39,11 +39,11 @@
 | Add Contributors Section in README | Medium | [#264](https://github.com/iaadillatif/techxninjas-client/issues/264) |
 | On clicking the Explore What's Inside TechXNinjas's : Resume builder , it's not showing anything | Medium | [#263](https://github.com/iaadillatif/techxninjas-client/issues/263) |
 | Add Pull Request (PR) Template | Medium | [#261](https://github.com/iaadillatif/techxninjas-client/issues/261) |
-| BUG FIX: Removing the private keys from .env.local file | Medium | [#260](https://github.com/iaadillatif/techxninjas-client/pull/260) |
 | Add courses which redirect to coursera and popular websites | Medium | [#259](https://github.com/iaadillatif/techxninjas-client/issues/259) |
 | Make the home page more futeristic | Medium | [#258](https://github.com/iaadillatif/techxninjas-client/issues/258) |
 | Improving the navbar of techxninjas | Medium | [#257](https://github.com/iaadillatif/techxninjas-client/issues/257) |
 | Fix category indicator | Medium | [#255](https://github.com/iaadillatif/techxninjas-client/pull/255) |
+| course details feature | Medium | [#254](https://github.com/iaadillatif/techxninjas-client/issues/254) |
 
 ---
 
@@ -249,7 +249,8 @@ Accessibility features like dark mode,white.
 |----------|----------------|---------|
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| chore(deps): bump the version-updates group across 1 directory with 2 updates | Medium | [#5352](https://github.com/OWASP/Nest/pull/5352) |
+| Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
+| Optimize ChapterNode top_contributors | Medium | [#5361](https://github.com/OWASP/Nest/pull/5361) |
 | Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
 | Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
 | Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
@@ -258,7 +259,6 @@ Accessibility features like dark mode,white.
 | Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
-| Add ActivityEvent model and builder | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
 
 ---
 
@@ -493,24 +493,6 @@ Schools, offices, and wellness centers looking to green their spaces
 | Docs : Add Table of Contents in README | Medium | [#103](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/103) |
 | Pagination added to StudentsList | Medium | [#100](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/100) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
-
----
-
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Input Validation and User-Friendly Error Messages Across Forms | Medium | [#758](https://github.com/Dipanita45/HEALCONNECT/issues/758) |
 
 ---
 
@@ -963,7 +945,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
-| ci(deps): bump next from 16.2.10 to 16.2.11 in /SortVision in the npm_and_yarn group across 1 directory | Medium | [#957](https://github.com/alienx5499/SortVision/pull/957) |
 | feat: add live speed control and sorting step explanations | Medium | [#865](https://github.com/alienx5499/SortVision/pull/865) |
 | Add Step-by-Step Explanation Mode Alongside Sorting Visualization | Medium | [#710](https://github.com/alienx5499/SortVision/issues/710) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
@@ -1482,8 +1463,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump the production-dependencies group across 1 directory with 35 updates | Medium | [#129](https://github.com/CoderUzumaki/PrepEdge-AI/pull/129) |
 | Missing Graceful Shutdown in Express Server | Medium | [#128](https://github.com/CoderUzumaki/PrepEdge-AI/issues/128) |
-| chore(deps): bump the production-dependencies group across 1 directory with 33 updates | Medium | [#127](https://github.com/CoderUzumaki/PrepEdge-AI/pull/127) |
 | Install Vercel Web Analytics | Medium | [#121](https://github.com/CoderUzumaki/PrepEdge-AI/pull/121) |
 | chore(deps-dev): bump eslint-plugin-react-refresh from 0.4.26 to 0.5.2 | Medium | [#119](https://github.com/CoderUzumaki/PrepEdge-AI/pull/119) |
 | chore(deps-dev): bump vitest from 3.2.6 to 4.1.8 | Medium | [#118](https://github.com/CoderUzumaki/PrepEdge-AI/pull/118) |
@@ -1870,6 +1851,11 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement a spaced repetition study scheduler for saved notes — help students retain material more effectively | Medium | [#731](https://github.com/lovelymahor/StudyMatePlus/issues/731) |
+| Add file upload validation for PYQ papers — enforce file type, size limit, and virus-scan placeholder | Medium | [#730](https://github.com/lovelymahor/StudyMatePlus/issues/730) |
+| Add GitHub Actions CI pipeline — automate lint, build, and test for both client and server on every PR | Medium | [#729](https://github.com/lovelymahor/StudyMatePlus/issues/729) |
+| CORS middleware applied twice with no origin whitelist — allows any origin to call the API | Medium | [#728](https://github.com/lovelymahor/StudyMatePlus/issues/728) |
+| **Redesign Website Background and Update Button Color Theme for Improved UI** | Medium | [#727](https://github.com/lovelymahor/StudyMatePlus/issues/727) |
 | docs: Add API Endpoints Overview section to README | Medium | [#726](https://github.com/lovelymahor/StudyMatePlus/issues/726) |
 | Hero section overflows initial viewport at 100% browser zoom | Medium | [#725](https://github.com/lovelymahor/StudyMatePlus/issues/725) |
 | Improve footer text contrast for better readability and accessibility | Medium | [#724](https://github.com/lovelymahor/StudyMatePlus/issues/724) |
@@ -1895,11 +1881,6 @@ Fast Workflow Tools
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
 | Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
 | Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
-| Notes.jsx calls backend endpoints that don't exist | Medium | [#701](https://github.com/lovelymahor/StudyMatePlus/issues/701) |
-| PYQs.js and Syllabus.js: browsing UI is mock-only, buttons non-functional | Medium | [#700](https://github.com/lovelymahor/StudyMatePlus/issues/700) |
-| Feedback.js displays hardcoded mock data instead of fetching real feedback | Medium | [#699](https://github.com/lovelymahor/StudyMatePlus/issues/699) |
-| FeedbackModal.js: hardcoded localhost API URL breaks in production | Medium | [#698](https://github.com/lovelymahor/StudyMatePlus/issues/698) |
-| SubmitFeedback.js: form submission does not call the backend API | Medium | [#697](https://github.com/lovelymahor/StudyMatePlus/issues/697) |
 
 ---
 
@@ -2127,8 +2108,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: implement user-configurable Ollama URL with backend proxying | Medium | [#295](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/295) |
-| feat: implement conversational-level privacy controls | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
+| fix: make Ollama base URL configurable via OLLAMA_BASE_URL env var | Medium | [#309](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/309) |
 
 ---
 
@@ -2172,28 +2152,31 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps-dev): bump @vitejs/plugin-react from 6.0.4 to 6.0.5 | Easy | [#11113](https://github.com/SandeepVashishtha/Eventra/pull/11113) |
-| chore(deps): bump react-intersection-observer from 10.1.0 to 11.0.0 in the react-ecosystem group | Easy | [#11111](https://github.com/SandeepVashishtha/Eventra/pull/11111) |
-| security: Regex-based HTML fallback sanitizer may allow malformed HTML bypasses | Medium | [#11122](https://github.com/SandeepVashishtha/Eventra/issues/11122) |
-| security: Rate limiter trusts X-Forwarded-For header from untrusted clients | Medium | [#11121](https://github.com/SandeepVashishtha/Eventra/issues/11121) |
-| security: File validation allows dangerous extensions with trailing-dot filenames | Medium | [#11120](https://github.com/SandeepVashishtha/Eventra/issues/11120) |
-| security: Analytics endpoints are accessible to all authenticated users | Medium | [#11119](https://github.com/SandeepVashishtha/Eventra/issues/11119) |
-| security: Project upvote endpoint allows unlimited vote inflation | Medium | [#11118](https://github.com/SandeepVashishtha/Eventra/issues/11118) |
-| security: Event waitlist endpoint exposes attendee information to unrelated organizers | Medium | [#11117](https://github.com/SandeepVashishtha/Eventra/issues/11117) |
-| security: Broken Object-Level Authorization allows organizers to promote waitlisted users for any event | Medium | [#11116](https://github.com/SandeepVashishtha/Eventra/issues/11116) |
-| security: Broken Object-Level Authorization allows organizers to update any hackathon | Medium | [#11115](https://github.com/SandeepVashishtha/Eventra/issues/11115) |
-| chore(deps-dev): bump @playwright/test from 1.62.0 to 1.62.1 | Medium | [#11112](https://github.com/SandeepVashishtha/Eventra/pull/11112) |
-| Feature: Real-time Sentiment Analysis for Live Sessions via Chat | Medium | [#11110](https://github.com/SandeepVashishtha/Eventra/issues/11110) |
-| Feature: Smart Contract-Based Vendor Payments | Medium | [#11109](https://github.com/SandeepVashishtha/Eventra/issues/11109) |
-| Feature: Cross-Event Attendee Loyalty & Rewards Program | Medium | [#11108](https://github.com/SandeepVashishtha/Eventra/issues/11108) |
-| Feature: Automated Accessibility Compliance Checker for Event Assets | Medium | [#11107](https://github.com/SandeepVashishtha/Eventra/issues/11107) |
-| Feature: Decentralized Event Governance (DAO) for Community Events | Medium | [#11106](https://github.com/SandeepVashishtha/Eventra/issues/11106) |
-| Feature: Integration with Wearable Health Devices for Wellness Events | Medium | [#11105](https://github.com/SandeepVashishtha/Eventra/issues/11105) |
-| Feature: Augmented Reality (AR) Wayfinding | Medium | [#11104](https://github.com/SandeepVashishtha/Eventra/issues/11104) |
-| Feature: Speaker Prep Portal with Real-Time Q&A Triage | Medium | [#11103](https://github.com/SandeepVashishtha/Eventra/issues/11103) |
-| Feature: Customizable Event-Specific Mobile Apps (White-labeling) | Medium | [#11102](https://github.com/SandeepVashishtha/Eventra/issues/11102) |
-| Feature: Sponsor ROI Tracking with Heatmaps & Dwell Time | Medium | [#11101](https://github.com/SandeepVashishtha/Eventra/issues/11101) |
-| chore(deps-dev): bump vite from 8.1.5 to 8.2.0 | Hard | [#11114](https://github.com/SandeepVashishtha/Eventra/pull/11114) |
+| Feature: Quantum Random Number Generator for Lottery Upgrades | Medium | [#11863](https://github.com/SandeepVashishtha/Eventra/issues/11863) |
+| Feature: Automated Talent Hospitality Rider Fulfillment | Medium | [#11862](https://github.com/SandeepVashishtha/Eventra/issues/11862) |
+| Feature: Algorithmic Lighting Seizure Risk Mitigation | Medium | [#11861](https://github.com/SandeepVashishtha/Eventra/issues/11861) |
+| Feature: Algorithmic Lighting Seizure Risk Mitigation | Medium | [#11860](https://github.com/SandeepVashishtha/Eventra/issues/11860) |
+| Feature: Dynamic Surge-Pricing for Premium Concessions | Medium | [#11859](https://github.com/SandeepVashishtha/Eventra/issues/11859) |
+| Feature: Live Holographic Multi-Language Teleprompter | Medium | [#11858](https://github.com/SandeepVashishtha/Eventra/issues/11858) |
+| Feature: Predictive VIP Ride-Choreography Dispatch | Medium | [#11857](https://github.com/SandeepVashishtha/Eventra/issues/11857) |
+| Feature: Sub-Ohm Vaping/Smoke Detection Security Alert | Medium | [#11856](https://github.com/SandeepVashishtha/Eventra/issues/11856) |
+| Feature: Dynamic Acoustic Baffling Actuator Control | Medium | [#11854](https://github.com/SandeepVashishtha/Eventra/issues/11854) |
+| Feature: Blockchain-Backed Supply Chain Authenticator for Merch | Medium | [#11853](https://github.com/SandeepVashishtha/Eventra/issues/11853) |
+| Feature: Crowd-Sourced 3D Photogrammetry Engine | Medium | [#11852](https://github.com/SandeepVashishtha/Eventra/issues/11852) |
+| Feature: Zero-Knowledge Proof Age Verification | Medium | [#11851](https://github.com/SandeepVashishtha/Eventra/issues/11851) |
+| Feature: Micro-Location Bluetooth Beacon Heatmaps | Medium | [#11850](https://github.com/SandeepVashishtha/Eventra/issues/11850) |
+| Feature: Automated Heatstroke Risk Triage System | Medium | [#11848](https://github.com/SandeepVashishtha/Eventra/issues/11848) |
+| Feature: Spatial Audio Navigation Wayfinding | Medium | [#11847](https://github.com/SandeepVashishtha/Eventra/issues/11847) |
+| Feature: Smart-Contract Vendor Revenue Splitting | Medium | [#11846](https://github.com/SandeepVashishtha/Eventra/issues/11846) |
+| Feature: Generative AI Real-Time Setlist Predictor | Medium | [#11845](https://github.com/SandeepVashishtha/Eventra/issues/11845) |
+| Feature: Haptic Accessibility Vest Integration for the Deaf | Medium | [#11844](https://github.com/SandeepVashishtha/Eventra/issues/11844) |
+| Feature: Decentralized Lost & Found Bounty System | Medium | [#11842](https://github.com/SandeepVashishtha/Eventra/issues/11842) |
+| Feature: Autonomous Swarm Drone Photography Director | Medium | [#11841](https://github.com/SandeepVashishtha/Eventra/issues/11841) |
+| Feature: Kinetic Energy Harvesting Dancefloor Dashboard | Medium | [#11840](https://github.com/SandeepVashishtha/Eventra/issues/11840) |
+| Conditional Hook Usage in useKeyboardShortcuts.js | Medium | [#11838](https://github.com/SandeepVashishtha/Eventra/issues/11838) |
+| React Compiler Memoization Errors in useFormValidation.js | Medium | [#11837](https://github.com/SandeepVashishtha/Eventra/issues/11837) |
+| Duplicate Function Declaration in api.js | Medium | [#11835](https://github.com/SandeepVashishtha/Eventra/issues/11835) |
+| Undefined Component in HackathonsTab.jsx | Medium | [#11834](https://github.com/SandeepVashishtha/Eventra/issues/11834) |
 
 ---
 
