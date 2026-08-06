@@ -1173,25 +1173,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
-## 📌 Project: recode-website
-
-📝 **Description:** community blog website 
-
-🔗 [View Project](https://github.com/recodehive/recode-website)
-
-💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| fix: resolve 3 bugs | Easy | [#2047](https://github.com/recodehive/recode-website/pull/2047) |
-| UI/ UX Change updates | Easy | [#2036](https://github.com/recodehive/recode-website/issues/2036) |
-
----
-
 ## 📌 Project: Wisdom-Weaver
 
 📝 **Description:** Develop an AI-driven, multi-modal mental health support system that integrates NLP, emotion recognition, and reinforcement learning to provide real-time, adaptive mental health assistance using Spiritual Book *Bhagwat Geeta*
@@ -1446,6 +1427,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| **Feature: Add Theme Toggle (Light/Dark/System) to the Navigation Bar** | Medium | [#641](https://github.com/aayushraj1010/med-genie/issues/641) |
 | Chat camera/upload button POSTs to non-existent `/api/upload` → silent 404 | Medium | [#640](https://github.com/aayushraj1010/med-genie/issues/640) |
 | Google OAuth sets refresh cookie as `refreshToken` but backend reads `refresh_token` | Medium | [#639](https://github.com/aayushraj1010/med-genie/issues/639) |
 | Users force-logged-out every ~15 min: refresh-token cookie is never set by the frontend | Medium | [#638](https://github.com/aayushraj1010/med-genie/issues/638) |
@@ -1475,7 +1457,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | fix: improve error handling | Medium | [#613](https://github.com/aayushraj1010/med-genie/pull/613) |
 | fix: improve error handling | Medium | [#612](https://github.com/aayushraj1010/med-genie/pull/612) |
 | fix: improve error handling | Medium | [#611](https://github.com/aayushraj1010/med-genie/pull/611) |
-| fix: improve error handling | Medium | [#610](https://github.com/aayushraj1010/med-genie/pull/610) |
 
 ---
 
@@ -2009,6 +1990,11 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement a spaced repetition study scheduler for saved notes — help students retain material more effectively | Medium | [#731](https://github.com/lovelymahor/StudyMatePlus/issues/731) |
+| Add file upload validation for PYQ papers — enforce file type, size limit, and virus-scan placeholder | Medium | [#730](https://github.com/lovelymahor/StudyMatePlus/issues/730) |
+| Add GitHub Actions CI pipeline — automate lint, build, and test for both client and server on every PR | Medium | [#729](https://github.com/lovelymahor/StudyMatePlus/issues/729) |
+| CORS middleware applied twice with no origin whitelist — allows any origin to call the API | Medium | [#728](https://github.com/lovelymahor/StudyMatePlus/issues/728) |
+| **Redesign Website Background and Update Button Color Theme for Improved UI** | Medium | [#727](https://github.com/lovelymahor/StudyMatePlus/issues/727) |
 | docs: Add API Endpoints Overview section to README | Medium | [#726](https://github.com/lovelymahor/StudyMatePlus/issues/726) |
 | Hero section overflows initial viewport at 100% browser zoom | Medium | [#725](https://github.com/lovelymahor/StudyMatePlus/issues/725) |
 | Improve footer text contrast for better readability and accessibility | Medium | [#724](https://github.com/lovelymahor/StudyMatePlus/issues/724) |
@@ -2034,11 +2020,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
 | Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
 | Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
-| Notes.jsx calls backend endpoints that don't exist | Medium | [#701](https://github.com/lovelymahor/StudyMatePlus/issues/701) |
-| PYQs.js and Syllabus.js: browsing UI is mock-only, buttons non-functional | Medium | [#700](https://github.com/lovelymahor/StudyMatePlus/issues/700) |
-| Feedback.js displays hardcoded mock data instead of fetching real feedback | Medium | [#699](https://github.com/lovelymahor/StudyMatePlus/issues/699) |
-| FeedbackModal.js: hardcoded localhost API URL breaks in production | Medium | [#698](https://github.com/lovelymahor/StudyMatePlus/issues/698) |
-| SubmitFeedback.js: form submission does not call the backend API | Medium | [#697](https://github.com/lovelymahor/StudyMatePlus/issues/697) |
 
 ---
 
