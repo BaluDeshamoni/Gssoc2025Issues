@@ -250,15 +250,14 @@ Accessibility features like dark mode,white.
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
 | Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
-| Optimize ChapterNode top_contributors | Medium | [#5361](https://github.com/OWASP/Nest/pull/5361) |
 | Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
 | Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
 | Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
 | Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
-| Add Django Comand To Generate Candidate Claims | Medium | [#5313](https://github.com/OWASP/Nest/pull/5313) |
 | Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
 | Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
+| Add ActivityEvent model and builder | Medium | [#5233](https://github.com/OWASP/Nest/pull/5233) |
 
 ---
 
@@ -525,6 +524,24 @@ Schools, offices, and wellness centers looking to green their spaces
 | Docs : Add Table of Contents in README | Medium | [#103](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/103) |
 | Pagination added to StudentsList | Medium | [#100](https://github.com/dhananjay6561/ClassSync-GSSOC/pull/100) |
 | Pagination — Leaves | Medium | [#87](https://github.com/dhananjay6561/ClassSync-GSSOC/issues/87) |
+
+---
+
+## 📌 Project: Healconnect 
+
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
+
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 🐛 Bug: Improve Form Validation and Error Handling | Medium | [#760](https://github.com/Dipanita45/HEALCONNECT/issues/760) |
 
 ---
 
@@ -2370,31 +2387,27 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Quantum Random Number Generator for Lottery Upgrades | Medium | [#11863](https://github.com/SandeepVashishtha/Eventra/issues/11863) |
-| Feature: Automated Talent Hospitality Rider Fulfillment | Medium | [#11862](https://github.com/SandeepVashishtha/Eventra/issues/11862) |
-| Feature: Algorithmic Lighting Seizure Risk Mitigation | Medium | [#11861](https://github.com/SandeepVashishtha/Eventra/issues/11861) |
-| Feature: Algorithmic Lighting Seizure Risk Mitigation | Medium | [#11860](https://github.com/SandeepVashishtha/Eventra/issues/11860) |
-| Feature: Dynamic Surge-Pricing for Premium Concessions | Medium | [#11859](https://github.com/SandeepVashishtha/Eventra/issues/11859) |
-| Feature: Live Holographic Multi-Language Teleprompter | Medium | [#11858](https://github.com/SandeepVashishtha/Eventra/issues/11858) |
-| Feature: Predictive VIP Ride-Choreography Dispatch | Medium | [#11857](https://github.com/SandeepVashishtha/Eventra/issues/11857) |
-| Feature: Sub-Ohm Vaping/Smoke Detection Security Alert | Medium | [#11856](https://github.com/SandeepVashishtha/Eventra/issues/11856) |
-| Feature: Dynamic Acoustic Baffling Actuator Control | Medium | [#11854](https://github.com/SandeepVashishtha/Eventra/issues/11854) |
-| Feature: Blockchain-Backed Supply Chain Authenticator for Merch | Medium | [#11853](https://github.com/SandeepVashishtha/Eventra/issues/11853) |
-| Feature: Crowd-Sourced 3D Photogrammetry Engine | Medium | [#11852](https://github.com/SandeepVashishtha/Eventra/issues/11852) |
-| Feature: Zero-Knowledge Proof Age Verification | Medium | [#11851](https://github.com/SandeepVashishtha/Eventra/issues/11851) |
-| Feature: Micro-Location Bluetooth Beacon Heatmaps | Medium | [#11850](https://github.com/SandeepVashishtha/Eventra/issues/11850) |
-| Feature: Automated Heatstroke Risk Triage System | Medium | [#11848](https://github.com/SandeepVashishtha/Eventra/issues/11848) |
-| Feature: Spatial Audio Navigation Wayfinding | Medium | [#11847](https://github.com/SandeepVashishtha/Eventra/issues/11847) |
-| Feature: Smart-Contract Vendor Revenue Splitting | Medium | [#11846](https://github.com/SandeepVashishtha/Eventra/issues/11846) |
-| Feature: Generative AI Real-Time Setlist Predictor | Medium | [#11845](https://github.com/SandeepVashishtha/Eventra/issues/11845) |
-| Feature: Haptic Accessibility Vest Integration for the Deaf | Medium | [#11844](https://github.com/SandeepVashishtha/Eventra/issues/11844) |
-| Feature: Decentralized Lost & Found Bounty System | Medium | [#11842](https://github.com/SandeepVashishtha/Eventra/issues/11842) |
-| Feature: Autonomous Swarm Drone Photography Director | Medium | [#11841](https://github.com/SandeepVashishtha/Eventra/issues/11841) |
-| Feature: Kinetic Energy Harvesting Dancefloor Dashboard | Medium | [#11840](https://github.com/SandeepVashishtha/Eventra/issues/11840) |
-| Conditional Hook Usage in useKeyboardShortcuts.js | Medium | [#11838](https://github.com/SandeepVashishtha/Eventra/issues/11838) |
-| React Compiler Memoization Errors in useFormValidation.js | Medium | [#11837](https://github.com/SandeepVashishtha/Eventra/issues/11837) |
-| Duplicate Function Declaration in api.js | Medium | [#11835](https://github.com/SandeepVashishtha/Eventra/issues/11835) |
-| Undefined Component in HackathonsTab.jsx | Medium | [#11834](https://github.com/SandeepVashishtha/Eventra/issues/11834) |
+| Guest Checkout flow for free events | Medium | [#12136](https://github.com/SandeepVashishtha/Eventra/issues/12136) |
+| Direct "Export to Google Sheets" API integration | Medium | [#12133](https://github.com/SandeepVashishtha/Eventra/issues/12133) |
+| Drag-and-drop file reordering for event image galleries | Medium | [#12129](https://github.com/SandeepVashishtha/Eventra/issues/12129) |
+| scheduleService.js caches emergency room changes for too long | Medium | [#12128](https://github.com/SandeepVashishtha/Eventra/issues/12128) |
+| LoginForm.js Remember Me cookie expiry is off by 1 day on leap years | Medium | [#12125](https://github.com/SandeepVashishtha/Eventra/issues/12125) |
+| Feature: Intelligent Crowd Dispersal via Gamified Drops | Medium | [#12123](https://github.com/SandeepVashishtha/Eventra/issues/12123) |
+| useLocalStorage.js event listener fails to sync event deletions across tabs | Medium | [#12122](https://github.com/SandeepVashishtha/Eventra/issues/12122) |
+| Feature: Real-time NLP Translation for International Artists | Medium | [#12121](https://github.com/SandeepVashishtha/Eventra/issues/12121) |
+| Feature: AI-Generated Personalized Setlist Predictions | Medium | [#12120](https://github.com/SandeepVashishtha/Eventra/issues/12120) |
+| Feature: Decentralized Identity (DID) for Alcohol Sales | Medium | [#12119](https://github.com/SandeepVashishtha/Eventra/issues/12119) |
+| Feature: Automated Aerial Drone Defibrillator (AED) Dispatch | Medium | [#12118](https://github.com/SandeepVashishtha/Eventra/issues/12118) |
+| Feature: Tactile Transducer Integration for Deaf Attendees | Medium | [#12117](https://github.com/SandeepVashishtha/Eventra/issues/12117) |
+| Feature: AR Virtual Merchandise Try-On | Medium | [#12116](https://github.com/SandeepVashishtha/Eventra/issues/12116) |
+| Feature: Automated Noise-Cancellation Safe Zones | Medium | [#12115](https://github.com/SandeepVashishtha/Eventra/issues/12115) |
+| Feature: Predictive Crowd Crush Prevention via LiDAR | Medium | [#12114](https://github.com/SandeepVashishtha/Eventra/issues/12114) |
+| Feature: Haptic Feedback Dance Floor Energy Harvesting | Medium | [#12113](https://github.com/SandeepVashishtha/Eventra/issues/12113) |
+| Feature: Generative AI Food Menu Localization | Medium | [#12112](https://github.com/SandeepVashishtha/Eventra/issues/12112) |
+| Feature: Edge-AI Weapon Detection on X-Ray Scanners | Medium | [#12111](https://github.com/SandeepVashishtha/Eventra/issues/12111) |
+| Feature: Blockchain-Verified VIP Meet & Greet Provenance | Medium | [#12110](https://github.com/SandeepVashishtha/Eventra/issues/12110) |
+| OrganizerCheckIn.jsx virtualization renders blank rows on fast mobile scrolling | Medium | [#12109](https://github.com/SandeepVashishtha/Eventra/issues/12109) |
+| secureStorage.js falls back to plaintext if quota exceeded | Medium | [#12108](https://github.com/SandeepVashishtha/Eventra/issues/12108) |
 
 ---
 
