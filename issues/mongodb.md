@@ -402,6 +402,15 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: code quality and safety improvements | Medium | [#757](https://github.com/GitMetricsLab/github_tracker/pull/757) |
+| fix: code quality and safety improvements | Medium | [#756](https://github.com/GitMetricsLab/github_tracker/pull/756) |
+| fix: code quality and safety improvements | Medium | [#755](https://github.com/GitMetricsLab/github_tracker/pull/755) |
+| fix: code quality and safety improvements | Medium | [#754](https://github.com/GitMetricsLab/github_tracker/pull/754) |
+| fix: code quality and safety improvements | Medium | [#753](https://github.com/GitMetricsLab/github_tracker/pull/753) |
+| fix: code quality and safety improvements | Medium | [#752](https://github.com/GitMetricsLab/github_tracker/pull/752) |
+| fix: code quality and safety improvements | Medium | [#751](https://github.com/GitMetricsLab/github_tracker/pull/751) |
+| fix: code quality and safety improvements | Medium | [#750](https://github.com/GitMetricsLab/github_tracker/pull/750) |
+| fix: code quality and safety improvements | Medium | [#749](https://github.com/GitMetricsLab/github_tracker/pull/749) |
 | Add conditional rendering for empty data state | Medium | [#748](https://github.com/GitMetricsLab/github_tracker/pull/748) |
 | feat: dynamic page title on route change | Medium | [#747](https://github.com/GitMetricsLab/github_tracker/pull/747) |
 | feat: add Terms and Conditions page and footer link | Medium | [#746](https://github.com/GitMetricsLab/github_tracker/pull/746) |
@@ -895,7 +904,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the production-dependencies group across 1 directory with 33 updates | Medium | [#127](https://github.com/CoderUzumaki/PrepEdge-AI/pull/127) |
+| chore(deps): bump the production-dependencies group across 1 directory with 35 updates | Medium | [#129](https://github.com/CoderUzumaki/PrepEdge-AI/pull/129) |
+| Missing Graceful Shutdown in Express Server | Medium | [#128](https://github.com/CoderUzumaki/PrepEdge-AI/issues/128) |
 | Install Vercel Web Analytics | Medium | [#121](https://github.com/CoderUzumaki/PrepEdge-AI/pull/121) |
 | chore(deps-dev): bump eslint-plugin-react-refresh from 0.4.26 to 0.5.2 | Medium | [#119](https://github.com/CoderUzumaki/PrepEdge-AI/pull/119) |
 | chore(deps-dev): bump vitest from 3.2.6 to 4.1.8 | Medium | [#118](https://github.com/CoderUzumaki/PrepEdge-AI/pull/118) |
@@ -1009,7 +1019,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 | feat: Enhance User model with URL validation and documentation | Medium | [#181](https://github.com/DevSyncx/DevSync/pull/181) |
 | Suggestions regarding DevSync | Medium | [#176](https://github.com/DevSyncx/DevSync/issues/176) |
 | Add clickable navigation to feature cards on homepage | Medium | [#174](https://github.com/DevSyncx/DevSync/pull/174) |
-| Fix: Enhance ScrollRevealWrapper with proper ref handling and variants | Medium | [#173](https://github.com/DevSyncx/DevSync/pull/173) |
 | Fix 75  Added AI assistant on the dashboard page | Medium | [#171](https://github.com/DevSyncx/DevSync/pull/171) |
 | Improve Dark Mode UI/UX on Dashboard Page | Medium | [#165](https://github.com/DevSyncx/DevSync/issues/165) |
 | added a deactivating feature | Medium | [#154](https://github.com/DevSyncx/DevSync/pull/154) |
@@ -1194,36 +1203,36 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix(login): improve login page UI | Medium | [#687](https://github.com/lovelymahor/StudyMatePlus/pull/687) |
-| Did changes with the UI/UX for the login page(login.jsx and login.css… | Medium | [#686](https://github.com/lovelymahor/StudyMatePlus/pull/686) |
-| Fixing UI of the login page. | Medium | [#685](https://github.com/lovelymahor/StudyMatePlus/issues/685) |
-| Add global styles and premium Login/Register page styling | Medium | [#684](https://github.com/lovelymahor/StudyMatePlus/pull/684) |
-| Optimize testimonials section for smoother scrolling | Medium | [#683](https://github.com/lovelymahor/StudyMatePlus/pull/683) |
-| fix: use environment-based API URL for FeedbackModal requests | Medium | [#682](https://github.com/lovelymahor/StudyMatePlus/pull/682) |
-| UI Enhancement: Make the Landing Page More Interactive and Visually Appealing | Medium | [#681](https://github.com/lovelymahor/StudyMatePlus/issues/681) |
-| fix: delete uploaded temp file after processing in syllabus upload route | Medium | [#680](https://github.com/lovelymahor/StudyMatePlus/pull/680) |
-| Bug: Uploaded files in /api/syllabus/upload are never deleted from disk — causes unbounded storage growth and file retention risk | Medium | [#679](https://github.com/lovelymahor/StudyMatePlus/issues/679) |
-| Fix: Prevent adding empty or whitespace-only tasks | Medium | [#677](https://github.com/lovelymahor/StudyMatePlus/pull/677) |
-| bug: Urgent UI fixes (Logo clipping, massive section gap, and light theme text contrast) | Medium | [#676](https://github.com/lovelymahor/StudyMatePlus/issues/676) |
-| Added: global scroll-to-top button on all pages (Fixes #117) | Medium | [#675](https://github.com/lovelymahor/StudyMatePlus/pull/675) |
-| fix: use environment variable REACT_APP_API_URL for API calls in FeedbackModal and Notes | Medium | [#674](https://github.com/lovelymahor/StudyMatePlus/pull/674) |
-| fix: migrate OpenAI SDK integration to v4 and update deprecated model | Medium | [#673](https://github.com/lovelymahor/StudyMatePlus/pull/673) |
-| fix: prevent adding empty or whitespace-only tasks to To-Do list (#670) | Medium | [#672](https://github.com/lovelymahor/StudyMatePlus/pull/672) |
-| feat: Add Dockerization for seamless local development (#510) | Medium | [#671](https://github.com/lovelymahor/StudyMatePlus/pull/671) |
-| Bug: Empty tasks can be added to the To-Do list | Medium | [#670](https://github.com/lovelymahor/StudyMatePlus/issues/670) |
-| Add Empty State Illustrations for Notes, Flashcards, Quizzes, and Tasks | Medium | [#668](https://github.com/lovelymahor/StudyMatePlus/issues/668) |
-| Improve Dark Mode UI Consistency Across the Application | Medium | [#667](https://github.com/lovelymahor/StudyMatePlus/issues/667) |
-| Registration fails on the "Secure Your Account" step. After entering a valid password and clicking Create Account, the application displays a generic error message: | Medium | [#666](https://github.com/lovelymahor/StudyMatePlus/issues/666) |
-| feat: implement syllabus preview and download functionality | Medium | [#665](https://github.com/lovelymahor/StudyMatePlus/pull/665) |
-| Missing env variable validation on startup | Medium | [#664](https://github.com/lovelymahor/StudyMatePlus/issues/664) |
-| Feature: Add forgot password / reset flow | Medium | [#663](https://github.com/lovelymahor/StudyMatePlus/issues/663) |
-| Add Feedback Sorting and Filtering by Difficulty Rating | Medium | [#662](https://github.com/lovelymahor/StudyMatePlus/issues/662) |
-| UI Bug: Performance lag and non-circular transition in "What Students Say" carousel | Medium | [#661](https://github.com/lovelymahor/StudyMatePlus/issues/661) |
-| Add loading states and error handling for API requests | Medium | [#660](https://github.com/lovelymahor/StudyMatePlus/issues/660) |
-| fix: remove invalid docs folder reference | Medium | [#659](https://github.com/lovelymahor/StudyMatePlus/pull/659) |
-| fix: improve footer text contrast in light mode | Medium | [#658](https://github.com/lovelymahor/StudyMatePlus/pull/658) |
-| Fix/signup UI alignment | Medium | [#656](https://github.com/lovelymahor/StudyMatePlus/pull/656) |
-| Footer and FAQ contain dead routes | Medium | [#655](https://github.com/lovelymahor/StudyMatePlus/issues/655) |
+| Implement a spaced repetition study scheduler for saved notes — help students retain material more effectively | Medium | [#731](https://github.com/lovelymahor/StudyMatePlus/issues/731) |
+| Add file upload validation for PYQ papers — enforce file type, size limit, and virus-scan placeholder | Medium | [#730](https://github.com/lovelymahor/StudyMatePlus/issues/730) |
+| Add GitHub Actions CI pipeline — automate lint, build, and test for both client and server on every PR | Medium | [#729](https://github.com/lovelymahor/StudyMatePlus/issues/729) |
+| CORS middleware applied twice with no origin whitelist — allows any origin to call the API | Medium | [#728](https://github.com/lovelymahor/StudyMatePlus/issues/728) |
+| **Redesign Website Background and Update Button Color Theme for Improved UI** | Medium | [#727](https://github.com/lovelymahor/StudyMatePlus/issues/727) |
+| docs: Add API Endpoints Overview section to README | Medium | [#726](https://github.com/lovelymahor/StudyMatePlus/issues/726) |
+| Hero section overflows initial viewport at 100% browser zoom | Medium | [#725](https://github.com/lovelymahor/StudyMatePlus/issues/725) |
+| Improve footer text contrast for better readability and accessibility | Medium | [#724](https://github.com/lovelymahor/StudyMatePlus/issues/724) |
+| fix: resolve 1 bugs | Medium | [#723](https://github.com/lovelymahor/StudyMatePlus/pull/723) |
+| fix: resolve 1 bugs | Medium | [#722](https://github.com/lovelymahor/StudyMatePlus/pull/722) |
+| fix: code quality and safety improvements | Medium | [#721](https://github.com/lovelymahor/StudyMatePlus/pull/721) |
+| fixed: prevent adding empty tasks or whitespace-only inputs to to-do list | Medium | [#720](https://github.com/lovelymahor/StudyMatePlus/pull/720) |
+| Fixed unmanaged file storage on syllabus upload | Medium | [#719](https://github.com/lovelymahor/StudyMatePlus/pull/719) |
+| Add Multi-University and Department Filter with Persistent URL Query Params for Syllabus/PYQ Navigation | Medium | [#718](https://github.com/lovelymahor/StudyMatePlus/issues/718) |
+| Add Skeleton Loading States and Error Boundary Components Across All Data-Fetching Pages | Medium | [#717](https://github.com/lovelymahor/StudyMatePlus/issues/717) |
+| Implement Rate Limiting and Input Sanitization on Backend API Routes to Prevent Abuse | Medium | [#716](https://github.com/lovelymahor/StudyMatePlus/issues/716) |
+| Add GitHub Actions CI/CD Pipeline for Automated Build, Lint, and Dependency Audit on PRs | Medium | [#715](https://github.com/lovelymahor/StudyMatePlus/issues/715) |
+| Update .env.example with environment variables | Medium | [#714](https://github.com/lovelymahor/StudyMatePlus/pull/714) |
+| Remove stray root package.json and package-lock.json | Medium | [#713](https://github.com/lovelymahor/StudyMatePlus/pull/713) |
+| Add a Contact Us Page | Medium | [#712](https://github.com/lovelymahor/StudyMatePlus/issues/712) |
+| Update test to check StudyMatePlus navbar logo | Medium | [#711](https://github.com/lovelymahor/StudyMatePlus/pull/711) |
+| Fix duplicate multer entry in package.json | Medium | [#710](https://github.com/lovelymahor/StudyMatePlus/pull/710) |
+| Stray root package.json conflicts with client/server package.json | Medium | [#709](https://github.com/lovelymahor/StudyMatePlus/issues/709) |
+| Contribute.js: placeholder/broken links | Medium | [#708](https://github.com/lovelymahor/StudyMatePlus/issues/708) |
+| Default CRA App.test.js placeholder test left unmodified and broken | Medium | [#707](https://github.com/lovelymahor/StudyMatePlus/issues/707) |
+| MindMapEditor.js: search feature is dead code, never wired to the UI | Medium | [#706](https://github.com/lovelymahor/StudyMatePlus/issues/706) |
+| Syllabus.js: broken useMemo dependency array prevents memoization from updating | Medium | [#705](https://github.com/lovelymahor/StudyMatePlus/issues/705) |
+| document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
+| Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
+| Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
 
 ---
 
@@ -1392,8 +1401,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: implement user-configurable Ollama URL with backend proxying | Medium | [#295](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/295) |
-| feat: implement conversational-level privacy controls | Medium | [#294](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/294) |
+| fix: make Ollama base URL configurable via OLLAMA_BASE_URL env var | Medium | [#309](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/309) |
 
 ---
 
@@ -1453,23 +1461,35 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix: resolve 4 bugs in NPMChat | Easy | [#249](https://github.com/ThePlator/NPMChat/pull/249) |
+| fix: resolve 1 bugs in NPMChat | Easy | [#248](https://github.com/ThePlator/NPMChat/pull/248) |
+| fix: resolve 2 bugs | Easy | [#246](https://github.com/ThePlator/NPMChat/pull/246) |
+| fix: code quality and safety improvements | Easy | [#245](https://github.com/ThePlator/NPMChat/pull/245) |
+| fix: code quality and safety improvements | Easy | [#244](https://github.com/ThePlator/NPMChat/pull/244) |
+| fix: code quality and safety improvements | Easy | [#243](https://github.com/ThePlator/NPMChat/pull/243) |
+| fix: code quality and safety improvements | Easy | [#242](https://github.com/ThePlator/NPMChat/pull/242) |
+| fix: code quality and safety improvements | Easy | [#241](https://github.com/ThePlator/NPMChat/pull/241) |
+| fix: code quality and safety improvements | Easy | [#238](https://github.com/ThePlator/NPMChat/pull/238) |
+| fix: code quality and safety improvements | Easy | [#237](https://github.com/ThePlator/NPMChat/pull/237) |
 | docs: improve contribution guidelines | Easy | [#229](https://github.com/ThePlator/NPMChat/pull/229) |
 | fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
+| fix: resolve 4 bugs in NPMChat | Medium | [#247](https://github.com/ThePlator/NPMChat/pull/247) |
+| fix: resolve 3 bugs | Medium | [#240](https://github.com/ThePlator/NPMChat/pull/240) |
+| fix: resolve 2 bugs | Medium | [#239](https://github.com/ThePlator/NPMChat/pull/239) |
+| fix: code quality and safety improvements | Medium | [#236](https://github.com/ThePlator/NPMChat/pull/236) |
+| fix: align legal pages with the app theme | Medium | [#235](https://github.com/ThePlator/NPMChat/pull/235) |
 | Bug: Terms and Privacy pages UI does not match the main website theme | Medium | [#234](https://github.com/ThePlator/NPMChat/issues/234) |
 | Bug: Heart/Favorite button has no functionality | Medium | [#233](https://github.com/ThePlator/NPMChat/issues/233) |
 | Bug: Add navigation back to home from other routes | Medium | [#232](https://github.com/ThePlator/NPMChat/issues/232) |
 | Feature: Add scroll-to-top button for better navigation | Medium | [#231](https://github.com/ThePlator/NPMChat/issues/231) |
 | Bug: Default favicon is displayed instead of NPMChat favicon | Medium | [#230](https://github.com/ThePlator/NPMChat/issues/230) |
 | # [Feature Request] Add Quick Copy Button for Code Blocks in Chat Messages | Medium | [#228](https://github.com/ThePlator/NPMChat/issues/228) |
+| Improve navbar responsiveness across all devices | Medium | [#226](https://github.com/ThePlator/NPMChat/issues/226) |
 | Prevent duplicate socket reconnects caused by accumulated token refresh listeners | Medium | [#196](https://github.com/ThePlator/NPMChat/issues/196) |
 | Challenge correctness is derived from fragile output text | Medium | [#194](https://github.com/ThePlator/NPMChat/issues/194) |
-| Room socket events do not enforce room membership or host permissions | Medium | [#193](https://github.com/ThePlator/NPMChat/issues/193) |
-| Fix oauth ci passport guard | Medium | [#152](https://github.com/ThePlator/NPMChat/pull/152) |
-| Missing Receiver Verification on Message Send | Medium | [#141](https://github.com/ThePlator/NPMChat/issues/141) |
 | fix: require structured challenge test results | Hard | [#201](https://github.com/ThePlator/NPMChat/pull/201) |
 | security: enforce room socket membership | Hard | [#200](https://github.com/ThePlator/NPMChat/pull/200) |
 | O auth2 with cookie | Hard | [#197](https://github.com/ThePlator/NPMChat/pull/197) |
-| Fix file validation and add upload progress UI (#142) | Hard | [#173](https://github.com/ThePlator/NPMChat/pull/173) |
 
 ---
 
