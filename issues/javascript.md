@@ -424,6 +424,24 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
+## 📌 Project: Healconnect 
+
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
+
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 🐛 Bug: Improve Form Validation and Error Handling | Medium | [#760](https://github.com/Dipanita45/HEALCONNECT/issues/760) |
+
+---
+
 ## 📌 Project: Blogging Platform
 
 📝 **Description:** User friendly Interface where users can create accounts and post blogs on any topic and also allows users to read other blogs based on preference and intrest ,also allows sharing 
