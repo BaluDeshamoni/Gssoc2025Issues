@@ -261,6 +261,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| No Loading State or Error Handling on AI Response Fetch — Users See Blank Screen During API Calls | Medium | [#645](https://github.com/aayushraj1010/med-genie/issues/645) |
+| Add Medication Reminder and Drug Interaction Checker Feature | Medium | [#644](https://github.com/aayushraj1010/med-genie/issues/644) |
+| Implement Symptom History and Session Persistence So Users Can Track Their Health Queries Over Time | Medium | [#643](https://github.com/aayushraj1010/med-genie/issues/643) |
+| Add Medical Symptom Input Validation and Safe Messaging Guidelines to Prevent Misuse of Health Information | Medium | [#642](https://github.com/aayushraj1010/med-genie/issues/642) |
 | **Feature: Add Theme Toggle (Light/Dark/System) to the Navigation Bar** | Medium | [#641](https://github.com/aayushraj1010/med-genie/issues/641) |
 | Chat camera/upload button POSTs to non-existent `/api/upload` → silent 404 | Medium | [#640](https://github.com/aayushraj1010/med-genie/issues/640) |
 | Google OAuth sets refresh cookie as `refreshToken` but backend reads `refresh_token` | Medium | [#639](https://github.com/aayushraj1010/med-genie/issues/639) |
@@ -287,10 +291,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | fix: improve error handling | Medium | [#617](https://github.com/aayushraj1010/med-genie/pull/617) |
 | fix: add safety checks | Medium | [#616](https://github.com/aayushraj1010/med-genie/pull/616) |
 | fix: improve error handling | Medium | [#615](https://github.com/aayushraj1010/med-genie/pull/615) |
-| fix: improve error handling | Medium | [#614](https://github.com/aayushraj1010/med-genie/pull/614) |
-| fix: improve error handling | Medium | [#613](https://github.com/aayushraj1010/med-genie/pull/613) |
-| fix: improve error handling | Medium | [#612](https://github.com/aayushraj1010/med-genie/pull/612) |
-| fix: improve error handling | Medium | [#611](https://github.com/aayushraj1010/med-genie/pull/611) |
 
 ---
 
