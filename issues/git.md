@@ -254,6 +254,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| No Loading State or Error Handling on AI Response Fetch — Users See Blank Screen During API Calls | Medium | [#645](https://github.com/aayushraj1010/med-genie/issues/645) |
+| Add Medication Reminder and Drug Interaction Checker Feature | Medium | [#644](https://github.com/aayushraj1010/med-genie/issues/644) |
+| Implement Symptom History and Session Persistence So Users Can Track Their Health Queries Over Time | Medium | [#643](https://github.com/aayushraj1010/med-genie/issues/643) |
+| Add Medical Symptom Input Validation and Safe Messaging Guidelines to Prevent Misuse of Health Information | Medium | [#642](https://github.com/aayushraj1010/med-genie/issues/642) |
 | **Feature: Add Theme Toggle (Light/Dark/System) to the Navigation Bar** | Medium | [#641](https://github.com/aayushraj1010/med-genie/issues/641) |
 | Chat camera/upload button POSTs to non-existent `/api/upload` → silent 404 | Medium | [#640](https://github.com/aayushraj1010/med-genie/issues/640) |
 | Google OAuth sets refresh cookie as `refreshToken` but backend reads `refresh_token` | Medium | [#639](https://github.com/aayushraj1010/med-genie/issues/639) |
@@ -280,10 +284,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | fix: improve error handling | Medium | [#617](https://github.com/aayushraj1010/med-genie/pull/617) |
 | fix: add safety checks | Medium | [#616](https://github.com/aayushraj1010/med-genie/pull/616) |
 | fix: improve error handling | Medium | [#615](https://github.com/aayushraj1010/med-genie/pull/615) |
-| fix: improve error handling | Medium | [#614](https://github.com/aayushraj1010/med-genie/pull/614) |
-| fix: improve error handling | Medium | [#613](https://github.com/aayushraj1010/med-genie/pull/613) |
-| fix: improve error handling | Medium | [#612](https://github.com/aayushraj1010/med-genie/pull/612) |
-| fix: improve error handling | Medium | [#611](https://github.com/aayushraj1010/med-genie/pull/611) |
 
 ---
 
@@ -651,27 +651,26 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Guest Checkout flow for free events | Medium | [#12136](https://github.com/SandeepVashishtha/Eventra/issues/12136) |
-| Direct "Export to Google Sheets" API integration | Medium | [#12133](https://github.com/SandeepVashishtha/Eventra/issues/12133) |
-| Drag-and-drop file reordering for event image galleries | Medium | [#12129](https://github.com/SandeepVashishtha/Eventra/issues/12129) |
-| scheduleService.js caches emergency room changes for too long | Medium | [#12128](https://github.com/SandeepVashishtha/Eventra/issues/12128) |
-| LoginForm.js Remember Me cookie expiry is off by 1 day on leap years | Medium | [#12125](https://github.com/SandeepVashishtha/Eventra/issues/12125) |
-| Feature: Intelligent Crowd Dispersal via Gamified Drops | Medium | [#12123](https://github.com/SandeepVashishtha/Eventra/issues/12123) |
-| useLocalStorage.js event listener fails to sync event deletions across tabs | Medium | [#12122](https://github.com/SandeepVashishtha/Eventra/issues/12122) |
-| Feature: Real-time NLP Translation for International Artists | Medium | [#12121](https://github.com/SandeepVashishtha/Eventra/issues/12121) |
-| Feature: AI-Generated Personalized Setlist Predictions | Medium | [#12120](https://github.com/SandeepVashishtha/Eventra/issues/12120) |
-| Feature: Decentralized Identity (DID) for Alcohol Sales | Medium | [#12119](https://github.com/SandeepVashishtha/Eventra/issues/12119) |
-| Feature: Automated Aerial Drone Defibrillator (AED) Dispatch | Medium | [#12118](https://github.com/SandeepVashishtha/Eventra/issues/12118) |
-| Feature: Tactile Transducer Integration for Deaf Attendees | Medium | [#12117](https://github.com/SandeepVashishtha/Eventra/issues/12117) |
-| Feature: AR Virtual Merchandise Try-On | Medium | [#12116](https://github.com/SandeepVashishtha/Eventra/issues/12116) |
-| Feature: Automated Noise-Cancellation Safe Zones | Medium | [#12115](https://github.com/SandeepVashishtha/Eventra/issues/12115) |
-| Feature: Predictive Crowd Crush Prevention via LiDAR | Medium | [#12114](https://github.com/SandeepVashishtha/Eventra/issues/12114) |
-| Feature: Haptic Feedback Dance Floor Energy Harvesting | Medium | [#12113](https://github.com/SandeepVashishtha/Eventra/issues/12113) |
-| Feature: Generative AI Food Menu Localization | Medium | [#12112](https://github.com/SandeepVashishtha/Eventra/issues/12112) |
-| Feature: Edge-AI Weapon Detection on X-Ray Scanners | Medium | [#12111](https://github.com/SandeepVashishtha/Eventra/issues/12111) |
-| Feature: Blockchain-Verified VIP Meet & Greet Provenance | Medium | [#12110](https://github.com/SandeepVashishtha/Eventra/issues/12110) |
-| OrganizerCheckIn.jsx virtualization renders blank rows on fast mobile scrolling | Medium | [#12109](https://github.com/SandeepVashishtha/Eventra/issues/12109) |
-| secureStorage.js falls back to plaintext if quota exceeded | Medium | [#12108](https://github.com/SandeepVashishtha/Eventra/issues/12108) |
+| Feature: P2P Mesh Network Ride-Sharing Matching | Medium | [#12269](https://github.com/SandeepVashishtha/Eventra/issues/12269) |
+| Feature: Multi-Stage Audio Sync (Beat-matching Overlap Zones) | Medium | [#12268](https://github.com/SandeepVashishtha/Eventra/issues/12268) |
+| Feature: Predictive VIP Drink Prep via Gait/Face Recognition | Medium | [#12267](https://github.com/SandeepVashishtha/Eventra/issues/12267) |
+| Feature: Automated High-Speed Camera Mosh-Pit Detection | Medium | [#12266](https://github.com/SandeepVashishtha/Eventra/issues/12266) |
+| Feature: Real-Time Carbon Footprint Offset Tokenizer | Medium | [#12265](https://github.com/SandeepVashishtha/Eventra/issues/12265) |
+| Feature: Dynamic Smart-Locker Spatial Allocation | Medium | [#12264](https://github.com/SandeepVashishtha/Eventra/issues/12264) |
+| Feature: AI-Driven Silent Disco Channel Optimizer | Medium | [#12263](https://github.com/SandeepVashishtha/Eventra/issues/12263) |
+| Feature: Real-Time Sponsorship Header Bidding Engine | Medium | [#12262](https://github.com/SandeepVashishtha/Eventra/issues/12262) |
+| Feature: Drone-Delivered Emergency Medical Dispatch | Medium | [#12261](https://github.com/SandeepVashishtha/Eventra/issues/12261) |
+| Feature: Personalized AR Wayfinding via LiDAR Scanning | Medium | [#12260](https://github.com/SandeepVashishtha/Eventra/issues/12260) |
+| Feature: Structural Integrity Deep-Learning Pre-Cog | Medium | [#12259](https://github.com/SandeepVashishtha/Eventra/issues/12259) |
+| Feature: Generative AI Real-Time Hologram Translator | Medium | [#12258](https://github.com/SandeepVashishtha/Eventra/issues/12258) |
+| Feature: Kinetic Energy Harvesting Floor Analytics | Medium | [#12257](https://github.com/SandeepVashishtha/Eventra/issues/12257) |
+| Feature: Haptic Floor Sub-Bass Synchronization Engine | Medium | [#12256](https://github.com/SandeepVashishtha/Eventra/issues/12256) |
+| Feature: Multi-Modal VIP Transport Dispatch (Heli/Boat/Car) | Medium | [#12255](https://github.com/SandeepVashishtha/Eventra/issues/12255) |
+| Feature: Predictive Medical Tent Triage Allocation AI | Medium | [#12254](https://github.com/SandeepVashishtha/Eventra/issues/12254) |
+| Feature: Automated Pyrotechnic Wind-Shear Abort Protocol | Medium | [#12253](https://github.com/SandeepVashishtha/Eventra/issues/12253) |
+| Feature: Holographic Artist Presence via 5G Edge Rendering | Medium | [#12252](https://github.com/SandeepVashishtha/Eventra/issues/12252) |
+| Feature: Drone Swarm Aerial LED Advertising API | Medium | [#12251](https://github.com/SandeepVashishtha/Eventra/issues/12251) |
+| Feature: Automated Drink Inventory Rebalancing via AGV Swarm | Medium | [#12250](https://github.com/SandeepVashishtha/Eventra/issues/12250) |
 
 ---
 
