@@ -162,16 +162,15 @@
 |----------|----------------|---------|
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| chore(deps): bump dompurify from 3.4.12 to 3.4.13 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#5382](https://github.com/OWASP/Nest/pull/5382) |
+| Implement GraphQL queries for Pulse activity events | Medium | [#5381](https://github.com/OWASP/Nest/pull/5381) |
+| Optimize top_contributors resolver in CommitteeNode | Medium | [#5380](https://github.com/OWASP/Nest/pull/5380) |
 | Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
-| Optimize ChapterNode top_contributors | Medium | [#5361](https://github.com/OWASP/Nest/pull/5361) |
 | Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
 | Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
 | Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
 | Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
-| Add Django Comand To Generate Candidate Claims | Medium | [#5313](https://github.com/OWASP/Nest/pull/5313) |
-| Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
-| Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
 
 ---
 
@@ -195,6 +194,24 @@
 | Feature/accessibility improvements [GSSoC 2025] | Medium | [#127](https://github.com/AyushSharma72/Skill_Trade/pull/127) |
 | Add GSSoC'25 Banner. | Medium | [#126](https://github.com/AyushSharma72/Skill_Trade/issues/126) |
 | Fix the mobile responsiveness of contact form on contact page | Medium | [#123](https://github.com/AyushSharma72/Skill_Trade/issues/123) |
+
+---
+
+## 📌 Project: Healconnect 
+
+📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
+
+🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
+
+💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| 🐛 Bug: Improve Form Validation and Error Handling | Medium | [#760](https://github.com/Dipanita45/HEALCONNECT/issues/760) |
 
 ---
 
@@ -328,36 +345,36 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1253](https://github.com/Muneerali199/Draftdeckai/pull/1253) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1252](https://github.com/Muneerali199/Draftdeckai/pull/1252) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1251](https://github.com/Muneerali199/Draftdeckai/pull/1251) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1250](https://github.com/Muneerali199/Draftdeckai/pull/1250) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1249](https://github.com/Muneerali199/Draftdeckai/pull/1249) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1248](https://github.com/Muneerali199/Draftdeckai/pull/1248) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1247](https://github.com/Muneerali199/Draftdeckai/pull/1247) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1246](https://github.com/Muneerali199/Draftdeckai/pull/1246) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1245](https://github.com/Muneerali199/Draftdeckai/pull/1245) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1244](https://github.com/Muneerali199/Draftdeckai/pull/1244) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1243](https://github.com/Muneerali199/Draftdeckai/pull/1243) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1242](https://github.com/Muneerali199/Draftdeckai/pull/1242) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1241](https://github.com/Muneerali199/Draftdeckai/pull/1241) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1240](https://github.com/Muneerali199/Draftdeckai/pull/1240) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1239](https://github.com/Muneerali199/Draftdeckai/pull/1239) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1238](https://github.com/Muneerali199/Draftdeckai/pull/1238) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1237](https://github.com/Muneerali199/Draftdeckai/pull/1237) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1236](https://github.com/Muneerali199/Draftdeckai/pull/1236) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1235](https://github.com/Muneerali199/Draftdeckai/pull/1235) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1234](https://github.com/Muneerali199/Draftdeckai/pull/1234) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1233](https://github.com/Muneerali199/Draftdeckai/pull/1233) |
-| feat(history): add clear search button and search result count | Medium | [#1232](https://github.com/Muneerali199/Draftdeckai/pull/1232) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1231](https://github.com/Muneerali199/Draftdeckai/pull/1231) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1230](https://github.com/Muneerali199/Draftdeckai/pull/1230) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1229](https://github.com/Muneerali199/Draftdeckai/pull/1229) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1228](https://github.com/Muneerali199/Draftdeckai/pull/1228) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1227](https://github.com/Muneerali199/Draftdeckai/pull/1227) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1226](https://github.com/Muneerali199/Draftdeckai/pull/1226) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1225](https://github.com/Muneerali199/Draftdeckai/pull/1225) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1224](https://github.com/Muneerali199/Draftdeckai/pull/1224) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1457](https://github.com/Muneerali199/Draftdeckai/pull/1457) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1456](https://github.com/Muneerali199/Draftdeckai/pull/1456) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1455](https://github.com/Muneerali199/Draftdeckai/pull/1455) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1454](https://github.com/Muneerali199/Draftdeckai/pull/1454) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1453](https://github.com/Muneerali199/Draftdeckai/pull/1453) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1452](https://github.com/Muneerali199/Draftdeckai/pull/1452) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1451](https://github.com/Muneerali199/Draftdeckai/pull/1451) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1350](https://github.com/Muneerali199/Draftdeckai/pull/1350) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1349](https://github.com/Muneerali199/Draftdeckai/pull/1349) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1348](https://github.com/Muneerali199/Draftdeckai/pull/1348) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1347](https://github.com/Muneerali199/Draftdeckai/pull/1347) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1346](https://github.com/Muneerali199/Draftdeckai/pull/1346) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1345](https://github.com/Muneerali199/Draftdeckai/pull/1345) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1344](https://github.com/Muneerali199/Draftdeckai/pull/1344) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1343](https://github.com/Muneerali199/Draftdeckai/pull/1343) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1342](https://github.com/Muneerali199/Draftdeckai/pull/1342) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1341](https://github.com/Muneerali199/Draftdeckai/pull/1341) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1340](https://github.com/Muneerali199/Draftdeckai/pull/1340) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1339](https://github.com/Muneerali199/Draftdeckai/pull/1339) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1338](https://github.com/Muneerali199/Draftdeckai/pull/1338) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1337](https://github.com/Muneerali199/Draftdeckai/pull/1337) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1336](https://github.com/Muneerali199/Draftdeckai/pull/1336) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1335](https://github.com/Muneerali199/Draftdeckai/pull/1335) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1334](https://github.com/Muneerali199/Draftdeckai/pull/1334) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1333](https://github.com/Muneerali199/Draftdeckai/pull/1333) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1332](https://github.com/Muneerali199/Draftdeckai/pull/1332) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1331](https://github.com/Muneerali199/Draftdeckai/pull/1331) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1330](https://github.com/Muneerali199/Draftdeckai/pull/1330) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1329](https://github.com/Muneerali199/Draftdeckai/pull/1329) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1328](https://github.com/Muneerali199/Draftdeckai/pull/1328) |
 
 ---
 
@@ -452,6 +469,25 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | UI enhancement: Landing Page | Medium | [#5](https://github.com/sailaja-adapa/GuruShish/issues/5) |
 | 🛠️ UI Improvement Proposal: Enhance Font Visibility on Login Page | Medium | [#4](https://github.com/sailaja-adapa/GuruShish/issues/4) |
 | Glassy Navbar Contribution | Medium | [#3](https://github.com/sailaja-adapa/GuruShish/issues/3) |
+
+---
+
+## 📌 Project: recode-website
+
+📝 **Description:** community blog website 
+
+🔗 [View Project](https://github.com/recodehive/recode-website)
+
+💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Home page FAQ Changes | Easy | [#1990](https://github.com/recodehive/recode-website/issues/1990) |
+| reduce the gap between text lines | Easy | [#1982](https://github.com/recodehive/recode-website/issues/1982) |
 
 ---
 
