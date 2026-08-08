@@ -269,16 +269,15 @@
 |----------|----------------|---------|
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| chore(deps): bump dompurify from 3.4.12 to 3.4.13 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#5382](https://github.com/OWASP/Nest/pull/5382) |
+| Implement GraphQL queries for Pulse activity events | Medium | [#5381](https://github.com/OWASP/Nest/pull/5381) |
+| Optimize top_contributors resolver in CommitteeNode | Medium | [#5380](https://github.com/OWASP/Nest/pull/5380) |
 | Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
-| Optimize ChapterNode top_contributors | Medium | [#5361](https://github.com/OWASP/Nest/pull/5361) |
 | Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
 | Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
 | Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
 | Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
-| Add Django Comand To Generate Candidate Claims | Medium | [#5313](https://github.com/OWASP/Nest/pull/5313) |
-| Program status can be set to any value, no server side validation | Medium | [#5302](https://github.com/OWASP/Nest/issues/5302) |
 | Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
-| Add humans.txt route | Medium | [#5235](https://github.com/OWASP/Nest/pull/5235) |
 
 ---
 
@@ -2848,31 +2847,26 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Quantum Random Number Generator for Lottery Upgrades | Medium | [#11863](https://github.com/SandeepVashishtha/Eventra/issues/11863) |
-| Feature: Automated Talent Hospitality Rider Fulfillment | Medium | [#11862](https://github.com/SandeepVashishtha/Eventra/issues/11862) |
-| Feature: Algorithmic Lighting Seizure Risk Mitigation | Medium | [#11861](https://github.com/SandeepVashishtha/Eventra/issues/11861) |
-| Feature: Algorithmic Lighting Seizure Risk Mitigation | Medium | [#11860](https://github.com/SandeepVashishtha/Eventra/issues/11860) |
-| Feature: Dynamic Surge-Pricing for Premium Concessions | Medium | [#11859](https://github.com/SandeepVashishtha/Eventra/issues/11859) |
-| Feature: Live Holographic Multi-Language Teleprompter | Medium | [#11858](https://github.com/SandeepVashishtha/Eventra/issues/11858) |
-| Feature: Predictive VIP Ride-Choreography Dispatch | Medium | [#11857](https://github.com/SandeepVashishtha/Eventra/issues/11857) |
-| Feature: Sub-Ohm Vaping/Smoke Detection Security Alert | Medium | [#11856](https://github.com/SandeepVashishtha/Eventra/issues/11856) |
-| Feature: Dynamic Acoustic Baffling Actuator Control | Medium | [#11854](https://github.com/SandeepVashishtha/Eventra/issues/11854) |
-| Feature: Blockchain-Backed Supply Chain Authenticator for Merch | Medium | [#11853](https://github.com/SandeepVashishtha/Eventra/issues/11853) |
-| Feature: Crowd-Sourced 3D Photogrammetry Engine | Medium | [#11852](https://github.com/SandeepVashishtha/Eventra/issues/11852) |
-| Feature: Zero-Knowledge Proof Age Verification | Medium | [#11851](https://github.com/SandeepVashishtha/Eventra/issues/11851) |
-| Feature: Micro-Location Bluetooth Beacon Heatmaps | Medium | [#11850](https://github.com/SandeepVashishtha/Eventra/issues/11850) |
-| Feature: Automated Heatstroke Risk Triage System | Medium | [#11848](https://github.com/SandeepVashishtha/Eventra/issues/11848) |
-| Feature: Spatial Audio Navigation Wayfinding | Medium | [#11847](https://github.com/SandeepVashishtha/Eventra/issues/11847) |
-| Feature: Smart-Contract Vendor Revenue Splitting | Medium | [#11846](https://github.com/SandeepVashishtha/Eventra/issues/11846) |
-| Feature: Generative AI Real-Time Setlist Predictor | Medium | [#11845](https://github.com/SandeepVashishtha/Eventra/issues/11845) |
-| Feature: Haptic Accessibility Vest Integration for the Deaf | Medium | [#11844](https://github.com/SandeepVashishtha/Eventra/issues/11844) |
-| Feature: Decentralized Lost & Found Bounty System | Medium | [#11842](https://github.com/SandeepVashishtha/Eventra/issues/11842) |
-| Feature: Autonomous Swarm Drone Photography Director | Medium | [#11841](https://github.com/SandeepVashishtha/Eventra/issues/11841) |
-| Feature: Kinetic Energy Harvesting Dancefloor Dashboard | Medium | [#11840](https://github.com/SandeepVashishtha/Eventra/issues/11840) |
-| Conditional Hook Usage in useKeyboardShortcuts.js | Medium | [#11838](https://github.com/SandeepVashishtha/Eventra/issues/11838) |
-| React Compiler Memoization Errors in useFormValidation.js | Medium | [#11837](https://github.com/SandeepVashishtha/Eventra/issues/11837) |
-| Duplicate Function Declaration in api.js | Medium | [#11835](https://github.com/SandeepVashishtha/Eventra/issues/11835) |
-| Undefined Component in HackathonsTab.jsx | Medium | [#11834](https://github.com/SandeepVashishtha/Eventra/issues/11834) |
+| Feature: P2P Mesh Network Ride-Sharing Matching | Medium | [#12269](https://github.com/SandeepVashishtha/Eventra/issues/12269) |
+| Feature: Multi-Stage Audio Sync (Beat-matching Overlap Zones) | Medium | [#12268](https://github.com/SandeepVashishtha/Eventra/issues/12268) |
+| Feature: Predictive VIP Drink Prep via Gait/Face Recognition | Medium | [#12267](https://github.com/SandeepVashishtha/Eventra/issues/12267) |
+| Feature: Automated High-Speed Camera Mosh-Pit Detection | Medium | [#12266](https://github.com/SandeepVashishtha/Eventra/issues/12266) |
+| Feature: Real-Time Carbon Footprint Offset Tokenizer | Medium | [#12265](https://github.com/SandeepVashishtha/Eventra/issues/12265) |
+| Feature: Dynamic Smart-Locker Spatial Allocation | Medium | [#12264](https://github.com/SandeepVashishtha/Eventra/issues/12264) |
+| Feature: AI-Driven Silent Disco Channel Optimizer | Medium | [#12263](https://github.com/SandeepVashishtha/Eventra/issues/12263) |
+| Feature: Real-Time Sponsorship Header Bidding Engine | Medium | [#12262](https://github.com/SandeepVashishtha/Eventra/issues/12262) |
+| Feature: Drone-Delivered Emergency Medical Dispatch | Medium | [#12261](https://github.com/SandeepVashishtha/Eventra/issues/12261) |
+| Feature: Personalized AR Wayfinding via LiDAR Scanning | Medium | [#12260](https://github.com/SandeepVashishtha/Eventra/issues/12260) |
+| Feature: Structural Integrity Deep-Learning Pre-Cog | Medium | [#12259](https://github.com/SandeepVashishtha/Eventra/issues/12259) |
+| Feature: Generative AI Real-Time Hologram Translator | Medium | [#12258](https://github.com/SandeepVashishtha/Eventra/issues/12258) |
+| Feature: Kinetic Energy Harvesting Floor Analytics | Medium | [#12257](https://github.com/SandeepVashishtha/Eventra/issues/12257) |
+| Feature: Haptic Floor Sub-Bass Synchronization Engine | Medium | [#12256](https://github.com/SandeepVashishtha/Eventra/issues/12256) |
+| Feature: Multi-Modal VIP Transport Dispatch (Heli/Boat/Car) | Medium | [#12255](https://github.com/SandeepVashishtha/Eventra/issues/12255) |
+| Feature: Predictive Medical Tent Triage Allocation AI | Medium | [#12254](https://github.com/SandeepVashishtha/Eventra/issues/12254) |
+| Feature: Automated Pyrotechnic Wind-Shear Abort Protocol | Medium | [#12253](https://github.com/SandeepVashishtha/Eventra/issues/12253) |
+| Feature: Holographic Artist Presence via 5G Edge Rendering | Medium | [#12252](https://github.com/SandeepVashishtha/Eventra/issues/12252) |
+| Feature: Drone Swarm Aerial LED Advertising API | Medium | [#12251](https://github.com/SandeepVashishtha/Eventra/issues/12251) |
+| Feature: Automated Drink Inventory Rebalancing via AGV Swarm | Medium | [#12250](https://github.com/SandeepVashishtha/Eventra/issues/12250) |
 
 ---
 
