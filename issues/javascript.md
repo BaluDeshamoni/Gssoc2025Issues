@@ -1003,7 +1003,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Day 63 - CyberCut Barbershop complete | Medium | [#832](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/832) |
 | #759 -Day63 Expense splitter - Added Frontend Project | Medium | [#829](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/829) |
 | Add a email masker project | Medium | [#822](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/822) |
-| feat(tasks): prevent XSS, fix task id handling, add duplicate checks and overdue sort | Medium | [#819](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/819) |
 | Add Word Chain Challenge Game | Medium | [#818](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/818) |
 | Filter System Not Working Properly | Medium | [#816](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/816) |
 | For adding Digital Lie Detector | Medium | [#815](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/815) |
@@ -1021,6 +1020,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Fix: Resolve inconsistent alignment in header search bar and button | Medium | [#787](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/787) |
 | Add Expense Tracker Project | Medium | [#785](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/785) |
 | Suggestion: Introduce Day 33 – Maze Runner | Medium | [#783](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/783) |
+| Added a new game: Whack-a-Mole | Medium | [#781](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/pull/781) |
 
 ---
 
@@ -1071,6 +1071,25 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Add Live Deployment for Project | Medium | [#74](https://github.com/sania28/clubmate/issues/74) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
+
+---
+
+## 📌 Project: recode-website
+
+📝 **Description:** community blog website 
+
+🔗 [View Project](https://github.com/recodehive/recode-website)
+
+💻 **Tech Stack:** Next.js, JavaScript, CSS, HTML, SQL
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Home page FAQ Changes | Easy | [#1990](https://github.com/recodehive/recode-website/issues/1990) |
+| reduce the gap between text lines | Easy | [#1982](https://github.com/recodehive/recode-website/issues/1982) |
 
 ---
 
