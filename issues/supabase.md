@@ -85,36 +85,36 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1358](https://github.com/Muneerali199/Draftdeckai/pull/1358) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1357](https://github.com/Muneerali199/Draftdeckai/pull/1357) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1356](https://github.com/Muneerali199/Draftdeckai/pull/1356) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1355](https://github.com/Muneerali199/Draftdeckai/pull/1355) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1354](https://github.com/Muneerali199/Draftdeckai/pull/1354) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1353](https://github.com/Muneerali199/Draftdeckai/pull/1353) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1352](https://github.com/Muneerali199/Draftdeckai/pull/1352) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1351](https://github.com/Muneerali199/Draftdeckai/pull/1351) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1350](https://github.com/Muneerali199/Draftdeckai/pull/1350) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1349](https://github.com/Muneerali199/Draftdeckai/pull/1349) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1348](https://github.com/Muneerali199/Draftdeckai/pull/1348) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1347](https://github.com/Muneerali199/Draftdeckai/pull/1347) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1346](https://github.com/Muneerali199/Draftdeckai/pull/1346) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1345](https://github.com/Muneerali199/Draftdeckai/pull/1345) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1344](https://github.com/Muneerali199/Draftdeckai/pull/1344) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1343](https://github.com/Muneerali199/Draftdeckai/pull/1343) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1342](https://github.com/Muneerali199/Draftdeckai/pull/1342) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1341](https://github.com/Muneerali199/Draftdeckai/pull/1341) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1340](https://github.com/Muneerali199/Draftdeckai/pull/1340) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1339](https://github.com/Muneerali199/Draftdeckai/pull/1339) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1338](https://github.com/Muneerali199/Draftdeckai/pull/1338) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1337](https://github.com/Muneerali199/Draftdeckai/pull/1337) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1336](https://github.com/Muneerali199/Draftdeckai/pull/1336) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1335](https://github.com/Muneerali199/Draftdeckai/pull/1335) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1334](https://github.com/Muneerali199/Draftdeckai/pull/1334) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1333](https://github.com/Muneerali199/Draftdeckai/pull/1333) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1332](https://github.com/Muneerali199/Draftdeckai/pull/1332) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1331](https://github.com/Muneerali199/Draftdeckai/pull/1331) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1330](https://github.com/Muneerali199/Draftdeckai/pull/1330) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1329](https://github.com/Muneerali199/Draftdeckai/pull/1329) |
+| BLOCK — PR #1471 | Medium | [#1485](https://github.com/Muneerali199/Draftdeckai/issues/1485) |
+| BLOCK — PR #1471 | Medium | [#1484](https://github.com/Muneerali199/Draftdeckai/issues/1484) |
+| BLOCK — PR #1482 | Medium | [#1483](https://github.com/Muneerali199/Draftdeckai/issues/1483) |
+| BLOCK — PR #1471 | Medium | [#1481](https://github.com/Muneerali199/Draftdeckai/issues/1481) |
+| BLOCK — PR #1471 | Medium | [#1480](https://github.com/Muneerali199/Draftdeckai/issues/1480) |
+| BLOCK — PR #1471 | Medium | [#1479](https://github.com/Muneerali199/Draftdeckai/issues/1479) |
+| BLOCK — PR #1471 | Medium | [#1478](https://github.com/Muneerali199/Draftdeckai/issues/1478) |
+| BLOCK — PR #1471 | Medium | [#1477](https://github.com/Muneerali199/Draftdeckai/issues/1477) |
+| BLOCK — PR #1471 | Medium | [#1476](https://github.com/Muneerali199/Draftdeckai/issues/1476) |
+| BLOCK — PR #1471 | Medium | [#1475](https://github.com/Muneerali199/Draftdeckai/issues/1475) |
+| BLOCK — PR #1471 | Medium | [#1474](https://github.com/Muneerali199/Draftdeckai/issues/1474) |
+| BLOCK — PR #1471 | Medium | [#1472](https://github.com/Muneerali199/Draftdeckai/issues/1472) |
+| refactor: payment webhook retry + coupon stacking + proration + orders_meta migration | Medium | [#1471](https://github.com/Muneerali199/Draftdeckai/pull/1471) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1328](https://github.com/Muneerali199/Draftdeckai/pull/1328) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1315](https://github.com/Muneerali199/Draftdeckai/pull/1315) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1269](https://github.com/Muneerali199/Draftdeckai/pull/1269) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1268](https://github.com/Muneerali199/Draftdeckai/pull/1268) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1267](https://github.com/Muneerali199/Draftdeckai/pull/1267) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1266](https://github.com/Muneerali199/Draftdeckai/pull/1266) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1265](https://github.com/Muneerali199/Draftdeckai/pull/1265) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1264](https://github.com/Muneerali199/Draftdeckai/pull/1264) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1263](https://github.com/Muneerali199/Draftdeckai/pull/1263) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1262](https://github.com/Muneerali199/Draftdeckai/pull/1262) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1261](https://github.com/Muneerali199/Draftdeckai/pull/1261) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1260](https://github.com/Muneerali199/Draftdeckai/pull/1260) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1259](https://github.com/Muneerali199/Draftdeckai/pull/1259) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1258](https://github.com/Muneerali199/Draftdeckai/pull/1258) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1257](https://github.com/Muneerali199/Draftdeckai/pull/1257) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1256](https://github.com/Muneerali199/Draftdeckai/pull/1256) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1255](https://github.com/Muneerali199/Draftdeckai/pull/1255) |
 
 ---
 
