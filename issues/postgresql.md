@@ -115,36 +115,36 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1457](https://github.com/Muneerali199/Draftdeckai/pull/1457) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1456](https://github.com/Muneerali199/Draftdeckai/pull/1456) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1455](https://github.com/Muneerali199/Draftdeckai/pull/1455) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1454](https://github.com/Muneerali199/Draftdeckai/pull/1454) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1453](https://github.com/Muneerali199/Draftdeckai/pull/1453) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1452](https://github.com/Muneerali199/Draftdeckai/pull/1452) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1451](https://github.com/Muneerali199/Draftdeckai/pull/1451) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1350](https://github.com/Muneerali199/Draftdeckai/pull/1350) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1349](https://github.com/Muneerali199/Draftdeckai/pull/1349) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1348](https://github.com/Muneerali199/Draftdeckai/pull/1348) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1347](https://github.com/Muneerali199/Draftdeckai/pull/1347) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1346](https://github.com/Muneerali199/Draftdeckai/pull/1346) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1345](https://github.com/Muneerali199/Draftdeckai/pull/1345) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1344](https://github.com/Muneerali199/Draftdeckai/pull/1344) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1343](https://github.com/Muneerali199/Draftdeckai/pull/1343) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1342](https://github.com/Muneerali199/Draftdeckai/pull/1342) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1341](https://github.com/Muneerali199/Draftdeckai/pull/1341) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1340](https://github.com/Muneerali199/Draftdeckai/pull/1340) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1339](https://github.com/Muneerali199/Draftdeckai/pull/1339) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1338](https://github.com/Muneerali199/Draftdeckai/pull/1338) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1337](https://github.com/Muneerali199/Draftdeckai/pull/1337) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1336](https://github.com/Muneerali199/Draftdeckai/pull/1336) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1335](https://github.com/Muneerali199/Draftdeckai/pull/1335) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1334](https://github.com/Muneerali199/Draftdeckai/pull/1334) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1333](https://github.com/Muneerali199/Draftdeckai/pull/1333) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1332](https://github.com/Muneerali199/Draftdeckai/pull/1332) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1331](https://github.com/Muneerali199/Draftdeckai/pull/1331) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1330](https://github.com/Muneerali199/Draftdeckai/pull/1330) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1329](https://github.com/Muneerali199/Draftdeckai/pull/1329) |
+| BLOCK — PR #1471 | Medium | [#1485](https://github.com/Muneerali199/Draftdeckai/issues/1485) |
+| BLOCK — PR #1471 | Medium | [#1484](https://github.com/Muneerali199/Draftdeckai/issues/1484) |
+| BLOCK — PR #1482 | Medium | [#1483](https://github.com/Muneerali199/Draftdeckai/issues/1483) |
+| BLOCK — PR #1471 | Medium | [#1481](https://github.com/Muneerali199/Draftdeckai/issues/1481) |
+| BLOCK — PR #1471 | Medium | [#1480](https://github.com/Muneerali199/Draftdeckai/issues/1480) |
+| BLOCK — PR #1471 | Medium | [#1479](https://github.com/Muneerali199/Draftdeckai/issues/1479) |
+| BLOCK — PR #1471 | Medium | [#1478](https://github.com/Muneerali199/Draftdeckai/issues/1478) |
+| BLOCK — PR #1471 | Medium | [#1477](https://github.com/Muneerali199/Draftdeckai/issues/1477) |
+| BLOCK — PR #1471 | Medium | [#1476](https://github.com/Muneerali199/Draftdeckai/issues/1476) |
+| BLOCK — PR #1471 | Medium | [#1475](https://github.com/Muneerali199/Draftdeckai/issues/1475) |
+| BLOCK — PR #1471 | Medium | [#1474](https://github.com/Muneerali199/Draftdeckai/issues/1474) |
+| BLOCK — PR #1471 | Medium | [#1472](https://github.com/Muneerali199/Draftdeckai/issues/1472) |
+| refactor: payment webhook retry + coupon stacking + proration + orders_meta migration | Medium | [#1471](https://github.com/Muneerali199/Draftdeckai/pull/1471) |
 | fix: resolve 4 bugs in Draftdeckai | Medium | [#1328](https://github.com/Muneerali199/Draftdeckai/pull/1328) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1315](https://github.com/Muneerali199/Draftdeckai/pull/1315) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1269](https://github.com/Muneerali199/Draftdeckai/pull/1269) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1268](https://github.com/Muneerali199/Draftdeckai/pull/1268) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1267](https://github.com/Muneerali199/Draftdeckai/pull/1267) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1266](https://github.com/Muneerali199/Draftdeckai/pull/1266) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1265](https://github.com/Muneerali199/Draftdeckai/pull/1265) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1264](https://github.com/Muneerali199/Draftdeckai/pull/1264) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1263](https://github.com/Muneerali199/Draftdeckai/pull/1263) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1262](https://github.com/Muneerali199/Draftdeckai/pull/1262) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1261](https://github.com/Muneerali199/Draftdeckai/pull/1261) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1260](https://github.com/Muneerali199/Draftdeckai/pull/1260) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1259](https://github.com/Muneerali199/Draftdeckai/pull/1259) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1258](https://github.com/Muneerali199/Draftdeckai/pull/1258) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1257](https://github.com/Muneerali199/Draftdeckai/pull/1257) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1256](https://github.com/Muneerali199/Draftdeckai/pull/1256) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1255](https://github.com/Muneerali199/Draftdeckai/pull/1255) |
 
 ---
 
@@ -355,26 +355,16 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: P2P Mesh Network Ride-Sharing Matching | Medium | [#12269](https://github.com/SandeepVashishtha/Eventra/issues/12269) |
-| Feature: Multi-Stage Audio Sync (Beat-matching Overlap Zones) | Medium | [#12268](https://github.com/SandeepVashishtha/Eventra/issues/12268) |
-| Feature: Predictive VIP Drink Prep via Gait/Face Recognition | Medium | [#12267](https://github.com/SandeepVashishtha/Eventra/issues/12267) |
-| Feature: Automated High-Speed Camera Mosh-Pit Detection | Medium | [#12266](https://github.com/SandeepVashishtha/Eventra/issues/12266) |
-| Feature: Real-Time Carbon Footprint Offset Tokenizer | Medium | [#12265](https://github.com/SandeepVashishtha/Eventra/issues/12265) |
-| Feature: Dynamic Smart-Locker Spatial Allocation | Medium | [#12264](https://github.com/SandeepVashishtha/Eventra/issues/12264) |
-| Feature: AI-Driven Silent Disco Channel Optimizer | Medium | [#12263](https://github.com/SandeepVashishtha/Eventra/issues/12263) |
-| Feature: Real-Time Sponsorship Header Bidding Engine | Medium | [#12262](https://github.com/SandeepVashishtha/Eventra/issues/12262) |
-| Feature: Drone-Delivered Emergency Medical Dispatch | Medium | [#12261](https://github.com/SandeepVashishtha/Eventra/issues/12261) |
-| Feature: Personalized AR Wayfinding via LiDAR Scanning | Medium | [#12260](https://github.com/SandeepVashishtha/Eventra/issues/12260) |
-| Feature: Structural Integrity Deep-Learning Pre-Cog | Medium | [#12259](https://github.com/SandeepVashishtha/Eventra/issues/12259) |
-| Feature: Generative AI Real-Time Hologram Translator | Medium | [#12258](https://github.com/SandeepVashishtha/Eventra/issues/12258) |
-| Feature: Kinetic Energy Harvesting Floor Analytics | Medium | [#12257](https://github.com/SandeepVashishtha/Eventra/issues/12257) |
-| Feature: Haptic Floor Sub-Bass Synchronization Engine | Medium | [#12256](https://github.com/SandeepVashishtha/Eventra/issues/12256) |
-| Feature: Multi-Modal VIP Transport Dispatch (Heli/Boat/Car) | Medium | [#12255](https://github.com/SandeepVashishtha/Eventra/issues/12255) |
-| Feature: Predictive Medical Tent Triage Allocation AI | Medium | [#12254](https://github.com/SandeepVashishtha/Eventra/issues/12254) |
-| Feature: Automated Pyrotechnic Wind-Shear Abort Protocol | Medium | [#12253](https://github.com/SandeepVashishtha/Eventra/issues/12253) |
-| Feature: Holographic Artist Presence via 5G Edge Rendering | Medium | [#12252](https://github.com/SandeepVashishtha/Eventra/issues/12252) |
-| Feature: Drone Swarm Aerial LED Advertising API | Medium | [#12251](https://github.com/SandeepVashishtha/Eventra/issues/12251) |
-| Feature: Automated Drink Inventory Rebalancing via AGV Swarm | Medium | [#12250](https://github.com/SandeepVashishtha/Eventra/issues/12250) |
+| Feature: Drone-Delivered Autonomous Narcan Deployment | Medium | [#13313](https://github.com/SandeepVashishtha/Eventra/issues/13313) |
+| Feature: Holographic Fireworks via Swarm Nano-Lasers | Medium | [#13312](https://github.com/SandeepVashishtha/Eventra/issues/13312) |
+| Feature: Zero-Knowledge Proof Backstage Pass Auctions | Medium | [#13311](https://github.com/SandeepVashishtha/Eventra/issues/13311) |
+| Feature: Smart-Fabric Cooling Tents with Peltier Weaves | Medium | [#13310](https://github.com/SandeepVashishtha/Eventra/issues/13310) |
+| Feature: Magnetic Levitation DJ Booth Stabilizers | Medium | [#13309](https://github.com/SandeepVashishtha/Eventra/issues/13309) |
+| Feature: AI-Generated Personalized Setlist Recaps | Medium | [#13308](https://github.com/SandeepVashishtha/Eventra/issues/13308) |
+| Feature: Autonomous Drink Delivery via Underground Pneumatic Tubes | Medium | [#13307](https://github.com/SandeepVashishtha/Eventra/issues/13307) |
+| Feature: Real-Time Crowd Sentiment Analysis via Thermal Imaging | Medium | [#13306](https://github.com/SandeepVashishtha/Eventra/issues/13306) |
+| Feature: Hydration Level Monitoring via Smart Cups | Medium | [#13305](https://github.com/SandeepVashishtha/Eventra/issues/13305) |
+| Feature: Decentralized Mesh-Network SOS Beacons | Medium | [#13304](https://github.com/SandeepVashishtha/Eventra/issues/13304) |
 
 ---
 
