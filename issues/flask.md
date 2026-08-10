@@ -261,6 +261,7 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| docs: remove leftover AI-generated artifact text from README | Medium | [#646](https://github.com/aayushraj1010/med-genie/pull/646) |
 | No Loading State or Error Handling on AI Response Fetch — Users See Blank Screen During API Calls | Medium | [#645](https://github.com/aayushraj1010/med-genie/issues/645) |
 | Add Medication Reminder and Drug Interaction Checker Feature | Medium | [#644](https://github.com/aayushraj1010/med-genie/issues/644) |
 | Implement Symptom History and Session Persistence So Users Can Track Their Health Queries Over Time | Medium | [#643](https://github.com/aayushraj1010/med-genie/issues/643) |
@@ -290,7 +291,6 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | fix: code quality and safety improvements | Medium | [#618](https://github.com/aayushraj1010/med-genie/pull/618) |
 | fix: improve error handling | Medium | [#617](https://github.com/aayushraj1010/med-genie/pull/617) |
 | fix: add safety checks | Medium | [#616](https://github.com/aayushraj1010/med-genie/pull/616) |
-| fix: improve error handling | Medium | [#615](https://github.com/aayushraj1010/med-genie/pull/615) |
 
 ---
 
@@ -370,6 +370,14 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Contact honeypot returns a 400 that reveals the trap instead of faking success | Medium | [#322](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/322) |
+| Duplicate CORS registration — wildcard CORS(app) overrides the localhost-only /api/* policy | Medium | [#321](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/321) |
+| /chat/stream file upload drops user_id — logged-in session saved as orphaned guest session | Medium | [#320](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/320) |
+| /chat and /chat/stream append messages to any session_id without ownership check (IDOR) | Medium | [#319](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/319) |
+| Mentioned sessions read without ownership check — IDOR leaks any user's chat history | Medium | [#318](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/318) |
+| FEATURE: Prevent Server-Side Request Forgery (SSRF) in Web Search Tools | Medium | [#317](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/317) |
+| FEATURE: Streaming Responses via Server-Sent Events (SSE) | Medium | [#316](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/316) |
+| FEATURE: Decouple LLM Engine using the Factory Pattern | Medium | [#315](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/315) |
 | fix: make Ollama base URL configurable via OLLAMA_BASE_URL env var | Medium | [#309](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/309) |
 
 ---
