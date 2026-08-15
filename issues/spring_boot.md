@@ -129,26 +129,36 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: P2P Mesh Network Ride-Sharing Matching | Medium | [#12269](https://github.com/SandeepVashishtha/Eventra/issues/12269) |
-| Feature: Multi-Stage Audio Sync (Beat-matching Overlap Zones) | Medium | [#12268](https://github.com/SandeepVashishtha/Eventra/issues/12268) |
-| Feature: Predictive VIP Drink Prep via Gait/Face Recognition | Medium | [#12267](https://github.com/SandeepVashishtha/Eventra/issues/12267) |
-| Feature: Automated High-Speed Camera Mosh-Pit Detection | Medium | [#12266](https://github.com/SandeepVashishtha/Eventra/issues/12266) |
-| Feature: Real-Time Carbon Footprint Offset Tokenizer | Medium | [#12265](https://github.com/SandeepVashishtha/Eventra/issues/12265) |
-| Feature: Dynamic Smart-Locker Spatial Allocation | Medium | [#12264](https://github.com/SandeepVashishtha/Eventra/issues/12264) |
-| Feature: AI-Driven Silent Disco Channel Optimizer | Medium | [#12263](https://github.com/SandeepVashishtha/Eventra/issues/12263) |
-| Feature: Real-Time Sponsorship Header Bidding Engine | Medium | [#12262](https://github.com/SandeepVashishtha/Eventra/issues/12262) |
-| Feature: Drone-Delivered Emergency Medical Dispatch | Medium | [#12261](https://github.com/SandeepVashishtha/Eventra/issues/12261) |
-| Feature: Personalized AR Wayfinding via LiDAR Scanning | Medium | [#12260](https://github.com/SandeepVashishtha/Eventra/issues/12260) |
-| Feature: Structural Integrity Deep-Learning Pre-Cog | Medium | [#12259](https://github.com/SandeepVashishtha/Eventra/issues/12259) |
-| Feature: Generative AI Real-Time Hologram Translator | Medium | [#12258](https://github.com/SandeepVashishtha/Eventra/issues/12258) |
-| Feature: Kinetic Energy Harvesting Floor Analytics | Medium | [#12257](https://github.com/SandeepVashishtha/Eventra/issues/12257) |
-| Feature: Haptic Floor Sub-Bass Synchronization Engine | Medium | [#12256](https://github.com/SandeepVashishtha/Eventra/issues/12256) |
-| Feature: Multi-Modal VIP Transport Dispatch (Heli/Boat/Car) | Medium | [#12255](https://github.com/SandeepVashishtha/Eventra/issues/12255) |
-| Feature: Predictive Medical Tent Triage Allocation AI | Medium | [#12254](https://github.com/SandeepVashishtha/Eventra/issues/12254) |
-| Feature: Automated Pyrotechnic Wind-Shear Abort Protocol | Medium | [#12253](https://github.com/SandeepVashishtha/Eventra/issues/12253) |
-| Feature: Holographic Artist Presence via 5G Edge Rendering | Medium | [#12252](https://github.com/SandeepVashishtha/Eventra/issues/12252) |
-| Feature: Drone Swarm Aerial LED Advertising API | Medium | [#12251](https://github.com/SandeepVashishtha/Eventra/issues/12251) |
-| Feature: Automated Drink Inventory Rebalancing via AGV Swarm | Medium | [#12250](https://github.com/SandeepVashishtha/Eventra/issues/12250) |
+| AuthService.signup concurrent duplicate-email race returns 500 instead of 409 | Medium | [#19012](https://github.com/SandeepVashishtha/Eventra/pull/19012) |
+| UserController.updateUserProfile uses case-sensitive username uniqueness and no validation | Medium | [#19011](https://github.com/SandeepVashishtha/Eventra/pull/19011) |
+| PushSubscriptionService validates endpoint only at subscribe time - DNS-rebinding SSRF at dispatch | Medium | [#19010](https://github.com/SandeepVashishtha/Eventra/pull/19010) |
+| Event cancellation only refunds the upfront installment - later installments never refunded | Medium | [#19009](https://github.com/SandeepVashishtha/Eventra/pull/19009) |
+| SSRF via user-supplied webhook URLs in WebhookNotificationService / WebhookDispatchService | Medium | [#19008](https://github.com/SandeepVashishtha/Eventra/pull/19008) |
+| Manual waitlist promotion never increments event.registeredCount - capacity desync and over-selling | Medium | [#19007](https://github.com/SandeepVashishtha/Eventra/pull/19007) |
+| EventService.updateEvent silently nulls eventDate and location on partial updates | Medium | [#19006](https://github.com/SandeepVashishtha/Eventra/pull/19006) |
+| PaymentController @PreAuthorize('USER') authority does not exist - all payment endpoints 403 for real users | Medium | [#19005](https://github.com/SandeepVashishtha/Eventra/pull/19005) |
+| Deleting an EventRegistration violates payments FK (500) and destroys the financial audit trail | Medium | [#19004](https://github.com/SandeepVashishtha/Eventra/pull/19004) |
+| Validate teamId and inviterUserId inside TeamService | Medium | [#19003](https://github.com/SandeepVashishtha/Eventra/pull/19003) |
+| Validate teamId and inviterUserId inside TeamService | Medium | [#19002](https://github.com/SandeepVashishtha/Eventra/issues/19002) |
+| Enable XMLConstants.FEATURE_SECURE_PROCESSING on SvgSanitizationService transformer | Medium | [#19001](https://github.com/SandeepVashishtha/Eventra/pull/19001) |
+| Enable XMLConstants.FEATURE_SECURE_PROCESSING on SvgSanitizationService transformer | Medium | [#19000](https://github.com/SandeepVashishtha/Eventra/issues/19000) |
+| Validate registrationId parameters in QrCodeValidationService | Medium | [#18999](https://github.com/SandeepVashishtha/Eventra/pull/18999) |
+| Validate registrationId parameters in QrCodeValidationService | Medium | [#18998](https://github.com/SandeepVashishtha/Eventra/issues/18998) |
+| Close PDF document in finally block in PdfTicketGeneratorService | Medium | [#18997](https://github.com/SandeepVashishtha/Eventra/pull/18997) |
+| Close PDF document in finally block in PdfTicketGeneratorService | Medium | [#18996](https://github.com/SandeepVashishtha/Eventra/issues/18996) |
+| Prevent NullPointerException on criteria extraction in ParticipantCommunicationGroupService | Medium | [#18995](https://github.com/SandeepVashishtha/Eventra/pull/18995) |
+| Prevent NullPointerException on criteria extraction in ParticipantCommunicationGroupService | Medium | [#18994](https://github.com/SandeepVashishtha/Eventra/issues/18994) |
+| Validate recipient email address format in EmailService | Medium | [#18993](https://github.com/SandeepVashishtha/Eventra/pull/18993) |
+| Validate recipient email address format in EmailService | Medium | [#18992](https://github.com/SandeepVashishtha/Eventra/issues/18992) |
+| Close PDF document in finally block in PdfTicketGeneratorService | Medium | [#18991](https://github.com/SandeepVashishtha/Eventra/issues/18991) |
+| Prevent NullPointerException on criteria extraction in ParticipantCommunicationGroupService | Medium | [#18990](https://github.com/SandeepVashishtha/Eventra/pull/18990) |
+| Prevent NullPointerException on criteria extraction in ParticipantCommunicationGroupService | Medium | [#18989](https://github.com/SandeepVashishtha/Eventra/issues/18989) |
+| Validate recipient email address format in EmailService | Medium | [#18988](https://github.com/SandeepVashishtha/Eventra/pull/18988) |
+| Validate recipient email address format in EmailService | Medium | [#18987](https://github.com/SandeepVashishtha/Eventra/issues/18987) |
+| fix(security): validate Paillier ciphertexts and reject malformed inputs instead of returning defaults | Medium | [#18986](https://github.com/SandeepVashishtha/Eventra/pull/18986) |
+| fix(security): implement real RFC 6238 TOTP verification in TotpManager | Medium | [#18985](https://github.com/SandeepVashishtha/Eventra/pull/18985) |
+| Stripe webhook handlers swallow all exceptions → lost payments and inconsistent ledger | Medium | [#18984](https://github.com/SandeepVashishtha/Eventra/pull/18984) |
+| SubtitleController has an orphan 	hrow at class body → backend fails to compile | Medium | [#18983](https://github.com/SandeepVashishtha/Eventra/pull/18983) |
 
 ---
 
