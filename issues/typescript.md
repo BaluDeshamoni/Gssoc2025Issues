@@ -93,17 +93,19 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(infra): Enable NAT gateway for staging & use private subnets | Easy | [#5432](https://github.com/OWASP/Nest/pull/5432) |
+| feat(o11y): add Grafana and stable VM endpoint | Easy | [#5405](https://github.com/OWASP/Nest/pull/5405) |
+| Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| chore(deps): bump dompurify from 3.4.12 to 3.4.13 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#5382](https://github.com/OWASP/Nest/pull/5382) |
+| Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
+| Updated crp-model to include default certificate | Medium | [#5420](https://github.com/OWASP/Nest/pull/5420) |
+| fix: upgrade @heroui/react to v3 | Medium | [#5389](https://github.com/OWASP/Nest/pull/5389) |
 | Implement GraphQL queries for Pulse activity events | Medium | [#5381](https://github.com/OWASP/Nest/pull/5381) |
-| Optimize top_contributors resolver in CommitteeNode | Medium | [#5380](https://github.com/OWASP/Nest/pull/5380) |
 | Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
 | Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
-| Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
 | Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
 | Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
-| Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
 
 ---
 
@@ -525,8 +527,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | screen shot of issused bugs | Medium | [#252](https://github.com/souvikpramanikgit/LearnHub/issues/252) |
 | Improve Landing Page Performance by Optimizing Background Image (LCP Enhancement) | Medium | [#251](https://github.com/souvikpramanikgit/LearnHub/issues/251) |
 | Optimized background image file issue | Medium | [#250](https://github.com/souvikpramanikgit/LearnHub/issues/250) |
-| feat: make Why Choose LearnHub cards clickable with modal details | Medium | [#249](https://github.com/souvikpramanikgit/LearnHub/pull/249) |
-| feat: added web development & dsa roadmap pages with sidebar updates | Medium | [#248](https://github.com/souvikpramanikgit/LearnHub/pull/248) |
 | Optimize Background Image Loading (LCP/CLS) | Medium | [#245](https://github.com/souvikpramanikgit/LearnHub/issues/245) |
 | CSS Refactor: Theme-Specific Contrast Fix for Highlighted Text | Medium | [#244](https://github.com/souvikpramanikgit/LearnHub/issues/244) |
 | Update docusaurus.config.ts | Medium | [#222](https://github.com/souvikpramanikgit/LearnHub/pull/222) |
@@ -876,6 +876,24 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | chore(deps): bump next from 15.3.5 to 16.1.5 in /client | Medium | [#23](https://github.com/dscnitrourkela/project-xangoes/pull/23) |
 | Phase - 1 Issue 5: Basic Frontend Authentication Pages | Medium | [#20](https://github.com/dscnitrourkela/project-xangoes/pull/20) |
 | Login and Signup Page #9 | Medium | [#19](https://github.com/dscnitrourkela/project-xangoes/pull/19) |
+
+---
+
+## 📌 Project: AI Flow
+
+📝 **Description:** AI Flow is a web application that provides a suite of AI-powered productivity tools, including prompt enhancement, text summarization, code and SQL explanation, regex generation, language translation, and sentiment analysis. The platform features a modern, responsive interface, secure authentication, and integrates with the Gemini 2.0 Flash API for fast and accurate results. AI Flow is designed to help users streamline workflows, learn faster, and leverage artificial intelligence in everyday tasks.
+
+🔗 [View Project](https://github.com/Jyotibrat/AI-Flow)
+
+💻 **Tech Stack:** TypeScript, React, Vite, Supabase, Gemini 2.0 Flash API, Blogger API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add IdeaHunter to the AI tools directory | Medium | [#76](https://github.com/Jyotibrat/AI-Flow/issues/76) |
 
 ---
 
