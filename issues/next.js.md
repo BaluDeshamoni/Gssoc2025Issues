@@ -160,17 +160,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(infra): Enable NAT gateway for staging & use private subnets | Easy | [#5432](https://github.com/OWASP/Nest/pull/5432) |
+| feat(o11y): add Grafana and stable VM endpoint | Easy | [#5405](https://github.com/OWASP/Nest/pull/5405) |
+| Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| chore(deps): bump dompurify from 3.4.12 to 3.4.13 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#5382](https://github.com/OWASP/Nest/pull/5382) |
+| Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
+| Updated crp-model to include default certificate | Medium | [#5420](https://github.com/OWASP/Nest/pull/5420) |
+| fix: upgrade @heroui/react to v3 | Medium | [#5389](https://github.com/OWASP/Nest/pull/5389) |
 | Implement GraphQL queries for Pulse activity events | Medium | [#5381](https://github.com/OWASP/Nest/pull/5381) |
-| Optimize top_contributors resolver in CommitteeNode | Medium | [#5380](https://github.com/OWASP/Nest/pull/5380) |
 | Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
 | Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
-| Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
 | Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
 | Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
-| Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
 
 ---
 
@@ -211,6 +213,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve form validation and error handling across the HEALCONNECT application. | Medium | [#761](https://github.com/Dipanita45/HEALCONNECT/issues/761) |
 | 🐛 Bug: Improve Form Validation and Error Handling | Medium | [#760](https://github.com/Dipanita45/HEALCONNECT/issues/760) |
 
 ---
@@ -345,36 +348,36 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1457](https://github.com/Muneerali199/Draftdeckai/pull/1457) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1456](https://github.com/Muneerali199/Draftdeckai/pull/1456) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1455](https://github.com/Muneerali199/Draftdeckai/pull/1455) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1454](https://github.com/Muneerali199/Draftdeckai/pull/1454) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1453](https://github.com/Muneerali199/Draftdeckai/pull/1453) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1452](https://github.com/Muneerali199/Draftdeckai/pull/1452) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1451](https://github.com/Muneerali199/Draftdeckai/pull/1451) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1350](https://github.com/Muneerali199/Draftdeckai/pull/1350) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1349](https://github.com/Muneerali199/Draftdeckai/pull/1349) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1348](https://github.com/Muneerali199/Draftdeckai/pull/1348) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1347](https://github.com/Muneerali199/Draftdeckai/pull/1347) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1346](https://github.com/Muneerali199/Draftdeckai/pull/1346) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1345](https://github.com/Muneerali199/Draftdeckai/pull/1345) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1344](https://github.com/Muneerali199/Draftdeckai/pull/1344) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1343](https://github.com/Muneerali199/Draftdeckai/pull/1343) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1342](https://github.com/Muneerali199/Draftdeckai/pull/1342) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1341](https://github.com/Muneerali199/Draftdeckai/pull/1341) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1340](https://github.com/Muneerali199/Draftdeckai/pull/1340) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1339](https://github.com/Muneerali199/Draftdeckai/pull/1339) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1338](https://github.com/Muneerali199/Draftdeckai/pull/1338) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1337](https://github.com/Muneerali199/Draftdeckai/pull/1337) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1336](https://github.com/Muneerali199/Draftdeckai/pull/1336) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1335](https://github.com/Muneerali199/Draftdeckai/pull/1335) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1334](https://github.com/Muneerali199/Draftdeckai/pull/1334) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1333](https://github.com/Muneerali199/Draftdeckai/pull/1333) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1332](https://github.com/Muneerali199/Draftdeckai/pull/1332) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1331](https://github.com/Muneerali199/Draftdeckai/pull/1331) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1330](https://github.com/Muneerali199/Draftdeckai/pull/1330) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1329](https://github.com/Muneerali199/Draftdeckai/pull/1329) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 53 updates | Medium | [#1486](https://github.com/Muneerali199/Draftdeckai/pull/1486) |
+| BLOCK — PR #1471 | Medium | [#1485](https://github.com/Muneerali199/Draftdeckai/issues/1485) |
+| BLOCK — PR #1471 | Medium | [#1484](https://github.com/Muneerali199/Draftdeckai/issues/1484) |
+| BLOCK — PR #1482 | Medium | [#1483](https://github.com/Muneerali199/Draftdeckai/issues/1483) |
+| BLOCK — PR #1471 | Medium | [#1481](https://github.com/Muneerali199/Draftdeckai/issues/1481) |
+| BLOCK — PR #1471 | Medium | [#1480](https://github.com/Muneerali199/Draftdeckai/issues/1480) |
+| BLOCK — PR #1471 | Medium | [#1479](https://github.com/Muneerali199/Draftdeckai/issues/1479) |
+| BLOCK — PR #1471 | Medium | [#1478](https://github.com/Muneerali199/Draftdeckai/issues/1478) |
+| BLOCK — PR #1471 | Medium | [#1477](https://github.com/Muneerali199/Draftdeckai/issues/1477) |
+| BLOCK — PR #1471 | Medium | [#1476](https://github.com/Muneerali199/Draftdeckai/issues/1476) |
+| BLOCK — PR #1471 | Medium | [#1475](https://github.com/Muneerali199/Draftdeckai/issues/1475) |
+| BLOCK — PR #1471 | Medium | [#1474](https://github.com/Muneerali199/Draftdeckai/issues/1474) |
+| BLOCK — PR #1471 | Medium | [#1472](https://github.com/Muneerali199/Draftdeckai/issues/1472) |
+| refactor: payment webhook retry + coupon stacking + proration + orders_meta migration | Medium | [#1471](https://github.com/Muneerali199/Draftdeckai/pull/1471) |
 | fix: resolve 4 bugs in Draftdeckai | Medium | [#1328](https://github.com/Muneerali199/Draftdeckai/pull/1328) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1315](https://github.com/Muneerali199/Draftdeckai/pull/1315) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1269](https://github.com/Muneerali199/Draftdeckai/pull/1269) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1268](https://github.com/Muneerali199/Draftdeckai/pull/1268) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1267](https://github.com/Muneerali199/Draftdeckai/pull/1267) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1266](https://github.com/Muneerali199/Draftdeckai/pull/1266) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1265](https://github.com/Muneerali199/Draftdeckai/pull/1265) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1264](https://github.com/Muneerali199/Draftdeckai/pull/1264) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1263](https://github.com/Muneerali199/Draftdeckai/pull/1263) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1262](https://github.com/Muneerali199/Draftdeckai/pull/1262) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1261](https://github.com/Muneerali199/Draftdeckai/pull/1261) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1260](https://github.com/Muneerali199/Draftdeckai/pull/1260) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1259](https://github.com/Muneerali199/Draftdeckai/pull/1259) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1258](https://github.com/Muneerali199/Draftdeckai/pull/1258) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1257](https://github.com/Muneerali199/Draftdeckai/pull/1257) |
+| fix: resolve 4 bugs in Draftdeckai | Medium | [#1256](https://github.com/Muneerali199/Draftdeckai/pull/1256) |
 
 ---
 
@@ -486,8 +489,18 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Redirect Read Blog Button | Easy | [#2074](https://github.com/recodehive/recode-website/issues/2074) |
+| 🐞[Bug]: Overlapping Text in Button | Easy | [#2073](https://github.com/recodehive/recode-website/issues/2073) |
+| 🐞[Bug]: Profile Dropdown Hidden Behind Sidebar | Easy | [#2072](https://github.com/recodehive/recode-website/issues/2072) |
+| Leaderboard Badge hover shape changes | Easy | [#2071](https://github.com/recodehive/recode-website/issues/2071) |
+| Recode Hive Logo Not Visible in Night Mode | Easy | [#2070](https://github.com/recodehive/recode-website/issues/2070) |
+| 🐞[Bug]: Desktop navbar hamburger menu does not display navigation items | Easy | [#2069](https://github.com/recodehive/recode-website/issues/2069) |
+| chore: bump eslint from 10.7.0 to 10.8.1 | Easy | [#2068](https://github.com/recodehive/recode-website/pull/2068) |
+| chore: bump lucide-react from 0.503.0 to 1.30.0 | Easy | [#2067](https://github.com/recodehive/recode-website/pull/2067) |
+| chore: bump postcss from 8.5.24 to 8.5.26 | Easy | [#2066](https://github.com/recodehive/recode-website/pull/2066) |
+| chore: bump styled-components from 6.5.0 to 6.5.1 | Easy | [#2065](https://github.com/recodehive/recode-website/pull/2065) |
+| chore: bump framer-motion from 12.43.0 to 13.0.0 | Easy | [#2064](https://github.com/recodehive/recode-website/pull/2064) |
 | Home page FAQ Changes | Easy | [#1990](https://github.com/recodehive/recode-website/issues/1990) |
-| reduce the gap between text lines | Easy | [#1982](https://github.com/recodehive/recode-website/issues/1982) |
 
 ---
 
@@ -1132,7 +1145,13 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: make Ollama base URL configurable via OLLAMA_BASE_URL env var | Medium | [#309](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/309) |
+| feat(core): implement SSE streaming (fixes #316) | Medium | [#326](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/326) |
+| feat(core): decouple LLM engine via Factory Pattern (fixes #315) | Medium | [#325](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/325) |
+| feat(security): implement SSRF mitigation layer for web requests (fixes #317) | Medium | [#324](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/324) |
+| Contact honeypot returns a 400 that reveals the trap instead of faking success | Medium | [#322](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/322) |
+| Duplicate CORS registration — wildcard CORS(app) overrides the localhost-only /api/* policy | Medium | [#321](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/321) |
+| /chat/stream file upload drops user_id — logged-in session saved as orphaned guest session | Medium | [#320](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/320) |
+| /chat and /chat/stream append messages to any session_id without ownership check (IDOR) | Medium | [#319](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/319) |
 
 ---
 
