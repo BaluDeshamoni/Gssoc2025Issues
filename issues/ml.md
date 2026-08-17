@@ -1187,8 +1187,18 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Redirect Read Blog Button | Easy | [#2074](https://github.com/recodehive/recode-website/issues/2074) |
+| 🐞[Bug]: Overlapping Text in Button | Easy | [#2073](https://github.com/recodehive/recode-website/issues/2073) |
+| 🐞[Bug]: Profile Dropdown Hidden Behind Sidebar | Easy | [#2072](https://github.com/recodehive/recode-website/issues/2072) |
+| Leaderboard Badge hover shape changes | Easy | [#2071](https://github.com/recodehive/recode-website/issues/2071) |
+| Recode Hive Logo Not Visible in Night Mode | Easy | [#2070](https://github.com/recodehive/recode-website/issues/2070) |
+| 🐞[Bug]: Desktop navbar hamburger menu does not display navigation items | Easy | [#2069](https://github.com/recodehive/recode-website/issues/2069) |
+| chore: bump eslint from 10.7.0 to 10.8.1 | Easy | [#2068](https://github.com/recodehive/recode-website/pull/2068) |
+| chore: bump lucide-react from 0.503.0 to 1.30.0 | Easy | [#2067](https://github.com/recodehive/recode-website/pull/2067) |
+| chore: bump postcss from 8.5.24 to 8.5.26 | Easy | [#2066](https://github.com/recodehive/recode-website/pull/2066) |
+| chore: bump styled-components from 6.5.0 to 6.5.1 | Easy | [#2065](https://github.com/recodehive/recode-website/pull/2065) |
+| chore: bump framer-motion from 12.43.0 to 13.0.0 | Easy | [#2064](https://github.com/recodehive/recode-website/pull/2064) |
 | Home page FAQ Changes | Easy | [#1990](https://github.com/recodehive/recode-website/issues/1990) |
-| reduce the gap between text lines | Easy | [#1982](https://github.com/recodehive/recode-website/issues/1982) |
 
 ---
 
@@ -1280,8 +1290,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | screen shot of issused bugs | Medium | [#252](https://github.com/souvikpramanikgit/LearnHub/issues/252) |
 | Improve Landing Page Performance by Optimizing Background Image (LCP Enhancement) | Medium | [#251](https://github.com/souvikpramanikgit/LearnHub/issues/251) |
 | Optimized background image file issue | Medium | [#250](https://github.com/souvikpramanikgit/LearnHub/issues/250) |
-| feat: make Why Choose LearnHub cards clickable with modal details | Medium | [#249](https://github.com/souvikpramanikgit/LearnHub/pull/249) |
-| feat: added web development & dsa roadmap pages with sidebar updates | Medium | [#248](https://github.com/souvikpramanikgit/LearnHub/pull/248) |
 | Optimize Background Image Loading (LCP/CLS) | Medium | [#245](https://github.com/souvikpramanikgit/LearnHub/issues/245) |
 | CSS Refactor: Theme-Specific Contrast Fix for Highlighted Text | Medium | [#244](https://github.com/souvikpramanikgit/LearnHub/issues/244) |
 | Update docusaurus.config.ts | Medium | [#222](https://github.com/souvikpramanikgit/LearnHub/pull/222) |
@@ -1446,6 +1454,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Real-Time Search Bar, Keyword Highlighting, and ARIA Live Regions in Health Vault (health-vault.html) | Medium | [#649](https://github.com/aayushraj1010/med-genie/issues/649) |
+| fix(auth): resolve forgot password API Prisma schema mismatch | Medium | [#648](https://github.com/aayushraj1010/med-genie/pull/648) |
+| fix: log actual chat errors for better debuggability | Medium | [#647](https://github.com/aayushraj1010/med-genie/pull/647) |
+| docs: remove leftover AI-generated artifact text from README | Medium | [#646](https://github.com/aayushraj1010/med-genie/pull/646) |
 | No Loading State or Error Handling on AI Response Fetch — Users See Blank Screen During API Calls | Medium | [#645](https://github.com/aayushraj1010/med-genie/issues/645) |
 | Add Medication Reminder and Drug Interaction Checker Feature | Medium | [#644](https://github.com/aayushraj1010/med-genie/issues/644) |
 | Implement Symptom History and Session Persistence So Users Can Track Their Health Queries Over Time | Medium | [#643](https://github.com/aayushraj1010/med-genie/issues/643) |
@@ -1472,10 +1484,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | fix: code quality and safety improvements | Medium | [#621](https://github.com/aayushraj1010/med-genie/pull/621) |
 | fix: code quality and safety improvements | Medium | [#620](https://github.com/aayushraj1010/med-genie/pull/620) |
 | fix: code quality and safety improvements | Medium | [#619](https://github.com/aayushraj1010/med-genie/pull/619) |
-| fix: code quality and safety improvements | Medium | [#618](https://github.com/aayushraj1010/med-genie/pull/618) |
-| fix: improve error handling | Medium | [#617](https://github.com/aayushraj1010/med-genie/pull/617) |
-| fix: add safety checks | Medium | [#616](https://github.com/aayushraj1010/med-genie/pull/616) |
-| fix: improve error handling | Medium | [#615](https://github.com/aayushraj1010/med-genie/pull/615) |
 
 ---
 
@@ -2638,6 +2646,7 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | Add continuous horizontal auto-scrolling animation to testimonial/project cards | Easy | [#20](https://github.com/stuticoder123/Alum-Connect/issues/20) |
+| Resolve all open GitHub issues: UX, animations, courses, and Google auth | Medium | [#33](https://github.com/stuticoder123/Alum-Connect/pull/33) |
 | Fix: Free Courses and Video Courses Cards Not Working | Medium | [#27](https://github.com/stuticoder123/Alum-Connect/issues/27) |
 | Footer links open pages at the footer instead of scrolling to content | Medium | [#24](https://github.com/stuticoder123/Alum-Connect/issues/24) |
 
