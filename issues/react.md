@@ -267,17 +267,19 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(infra): Enable NAT gateway for staging & use private subnets | Easy | [#5432](https://github.com/OWASP/Nest/pull/5432) |
+| feat(o11y): add Grafana and stable VM endpoint | Easy | [#5405](https://github.com/OWASP/Nest/pull/5405) |
+| Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| chore(deps): bump dompurify from 3.4.12 to 3.4.13 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#5382](https://github.com/OWASP/Nest/pull/5382) |
+| Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
+| Updated crp-model to include default certificate | Medium | [#5420](https://github.com/OWASP/Nest/pull/5420) |
+| fix: upgrade @heroui/react to v3 | Medium | [#5389](https://github.com/OWASP/Nest/pull/5389) |
 | Implement GraphQL queries for Pulse activity events | Medium | [#5381](https://github.com/OWASP/Nest/pull/5381) |
-| Optimize top_contributors resolver in CommitteeNode | Medium | [#5380](https://github.com/OWASP/Nest/pull/5380) |
 | Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
 | Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
-| Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
 | Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
 | Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
-| Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
 
 ---
 
@@ -999,6 +1001,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| docs: improve contributor onboarding and setup | Medium | [#758](https://github.com/GitMetricsLab/github_tracker/pull/758) |
 | fix: code quality and safety improvements | Medium | [#757](https://github.com/GitMetricsLab/github_tracker/pull/757) |
 | fix: code quality and safety improvements | Medium | [#756](https://github.com/GitMetricsLab/github_tracker/pull/756) |
 | fix: code quality and safety improvements | Medium | [#755](https://github.com/GitMetricsLab/github_tracker/pull/755) |
@@ -1605,8 +1608,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | screen shot of issused bugs | Medium | [#252](https://github.com/souvikpramanikgit/LearnHub/issues/252) |
 | Improve Landing Page Performance by Optimizing Background Image (LCP Enhancement) | Medium | [#251](https://github.com/souvikpramanikgit/LearnHub/issues/251) |
 | Optimized background image file issue | Medium | [#250](https://github.com/souvikpramanikgit/LearnHub/issues/250) |
-| feat: make Why Choose LearnHub cards clickable with modal details | Medium | [#249](https://github.com/souvikpramanikgit/LearnHub/pull/249) |
-| feat: added web development & dsa roadmap pages with sidebar updates | Medium | [#248](https://github.com/souvikpramanikgit/LearnHub/pull/248) |
 | Optimize Background Image Loading (LCP/CLS) | Medium | [#245](https://github.com/souvikpramanikgit/LearnHub/issues/245) |
 | CSS Refactor: Theme-Specific Contrast Fix for Highlighted Text | Medium | [#244](https://github.com/souvikpramanikgit/LearnHub/issues/244) |
 | Update docusaurus.config.ts | Medium | [#222](https://github.com/souvikpramanikgit/LearnHub/pull/222) |
@@ -2205,6 +2206,24 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 ---
 
+## 📌 Project: AI Flow
+
+📝 **Description:** AI Flow is a web application that provides a suite of AI-powered productivity tools, including prompt enhancement, text summarization, code and SQL explanation, regex generation, language translation, and sentiment analysis. The platform features a modern, responsive interface, secure authentication, and integrates with the Gemini 2.0 Flash API for fast and accurate results. AI Flow is designed to help users streamline workflows, learn faster, and leverage artificial intelligence in everyday tasks.
+
+🔗 [View Project](https://github.com/Jyotibrat/AI-Flow)
+
+💻 **Tech Stack:** TypeScript, React, Vite, Supabase, Gemini 2.0 Flash API, Blogger API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add IdeaHunter to the AI tools directory | Medium | [#76](https://github.com/Jyotibrat/AI-Flow/issues/76) |
+
+---
+
 ## 📌 Project: Eco-Store
 
 📝 **Description:** This project is a user-friendly platform dedicated to promoting sustainable living by offering a cursted selection of eco-friendly products. Beyond shopping, the website empowers users to make informed environmental choices with an integrated carbon footprint calculator that estimates the carbon impact of everyday items and activities. By combining green shopping with actionable insights, the site encourages conscious consumption and helps users contribute to a healthier planet.
@@ -2761,7 +2780,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: make Ollama base URL configurable via OLLAMA_BASE_URL env var | Medium | [#309](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/309) |
+| feat(core): implement SSE streaming (fixes #316) | Medium | [#326](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/326) |
+| feat(core): decouple LLM engine via Factory Pattern (fixes #315) | Medium | [#325](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/325) |
+| feat(security): implement SSRF mitigation layer for web requests (fixes #317) | Medium | [#324](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/324) |
+| Contact honeypot returns a 400 that reveals the trap instead of faking success | Medium | [#322](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/322) |
+| Duplicate CORS registration — wildcard CORS(app) overrides the localhost-only /api/* policy | Medium | [#321](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/321) |
+| /chat/stream file upload drops user_id — logged-in session saved as orphaned guest session | Medium | [#320](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/320) |
+| /chat and /chat/stream append messages to any session_id without ownership check (IDOR) | Medium | [#319](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/319) |
 
 ---
 
@@ -2847,26 +2872,36 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: P2P Mesh Network Ride-Sharing Matching | Medium | [#12269](https://github.com/SandeepVashishtha/Eventra/issues/12269) |
-| Feature: Multi-Stage Audio Sync (Beat-matching Overlap Zones) | Medium | [#12268](https://github.com/SandeepVashishtha/Eventra/issues/12268) |
-| Feature: Predictive VIP Drink Prep via Gait/Face Recognition | Medium | [#12267](https://github.com/SandeepVashishtha/Eventra/issues/12267) |
-| Feature: Automated High-Speed Camera Mosh-Pit Detection | Medium | [#12266](https://github.com/SandeepVashishtha/Eventra/issues/12266) |
-| Feature: Real-Time Carbon Footprint Offset Tokenizer | Medium | [#12265](https://github.com/SandeepVashishtha/Eventra/issues/12265) |
-| Feature: Dynamic Smart-Locker Spatial Allocation | Medium | [#12264](https://github.com/SandeepVashishtha/Eventra/issues/12264) |
-| Feature: AI-Driven Silent Disco Channel Optimizer | Medium | [#12263](https://github.com/SandeepVashishtha/Eventra/issues/12263) |
-| Feature: Real-Time Sponsorship Header Bidding Engine | Medium | [#12262](https://github.com/SandeepVashishtha/Eventra/issues/12262) |
-| Feature: Drone-Delivered Emergency Medical Dispatch | Medium | [#12261](https://github.com/SandeepVashishtha/Eventra/issues/12261) |
-| Feature: Personalized AR Wayfinding via LiDAR Scanning | Medium | [#12260](https://github.com/SandeepVashishtha/Eventra/issues/12260) |
-| Feature: Structural Integrity Deep-Learning Pre-Cog | Medium | [#12259](https://github.com/SandeepVashishtha/Eventra/issues/12259) |
-| Feature: Generative AI Real-Time Hologram Translator | Medium | [#12258](https://github.com/SandeepVashishtha/Eventra/issues/12258) |
-| Feature: Kinetic Energy Harvesting Floor Analytics | Medium | [#12257](https://github.com/SandeepVashishtha/Eventra/issues/12257) |
-| Feature: Haptic Floor Sub-Bass Synchronization Engine | Medium | [#12256](https://github.com/SandeepVashishtha/Eventra/issues/12256) |
-| Feature: Multi-Modal VIP Transport Dispatch (Heli/Boat/Car) | Medium | [#12255](https://github.com/SandeepVashishtha/Eventra/issues/12255) |
-| Feature: Predictive Medical Tent Triage Allocation AI | Medium | [#12254](https://github.com/SandeepVashishtha/Eventra/issues/12254) |
-| Feature: Automated Pyrotechnic Wind-Shear Abort Protocol | Medium | [#12253](https://github.com/SandeepVashishtha/Eventra/issues/12253) |
-| Feature: Holographic Artist Presence via 5G Edge Rendering | Medium | [#12252](https://github.com/SandeepVashishtha/Eventra/issues/12252) |
-| Feature: Drone Swarm Aerial LED Advertising API | Medium | [#12251](https://github.com/SandeepVashishtha/Eventra/issues/12251) |
-| Feature: Automated Drink Inventory Rebalancing via AGV Swarm | Medium | [#12250](https://github.com/SandeepVashishtha/Eventra/issues/12250) |
+| fix: handle JWT token expiry with auto-redirect to login | Medium | [#19154](https://github.com/SandeepVashishtha/Eventra/pull/19154) |
+| Add JWT token expiry handling with automatic silent refresh and graceful logout on session expiration | Medium | [#19153](https://github.com/SandeepVashishtha/Eventra/issues/19153) |
+| Add open-source project showcase with upvoting system and community discovery feed | Medium | [#19152](https://github.com/SandeepVashishtha/Eventra/issues/19152) |
+| Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19151](https://github.com/SandeepVashishtha/Eventra/issues/19151) |
+| Add recurring event support — allow organizers to schedule weekly, monthly, or custom-interval events | Medium | [#19150](https://github.com/SandeepVashishtha/Eventra/issues/19150) |
+| Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19149](https://github.com/SandeepVashishtha/Eventra/issues/19149) |
+| Add event registration with ticket generation and QR code check-in capability | Medium | [#19148](https://github.com/SandeepVashishtha/Eventra/issues/19148) |
+| Add event search and filtering by category, date range, and location on the events listing page | Medium | [#19147](https://github.com/SandeepVashishtha/Eventra/issues/19147) |
+| Add GitHub Actions CI pipeline with lint, type-check, and test validation on every pull request | Medium | [#19146](https://github.com/SandeepVashishtha/Eventra/issues/19146) |
+| fix(api): merge per-request headers over defaults in fetchAPI (#19095) | Medium | [#19145](https://github.com/SandeepVashishtha/Eventra/pull/19145) |
+| fix: authorize leaderboard broadcast endpoint (issue #19078) | Medium | [#19144](https://github.com/SandeepVashishtha/Eventra/pull/19144) |
+| fix: authorize leaderboard broadcast endpoint (issue #19063) | Medium | [#19143](https://github.com/SandeepVashishtha/Eventra/pull/19143) |
+| fix: reject unsupported 'free' event search filter with 400 (#19061) | Medium | [#19142](https://github.com/SandeepVashishtha/Eventra/pull/19142) |
+| fix: guard AdminService.updateEvent setters against null partial payloads (#19091) | Medium | [#19141](https://github.com/SandeepVashishtha/Eventra/pull/19141) |
+| fix: stop TrendingEventCard fabricating date and attendance (#19139) | Medium | [#19140](https://github.com/SandeepVashishtha/Eventra/pull/19140) |
+| TrendingEventCard shows fabricated date "Aug 28, 2026" and "120 going" when API omits fields | Medium | [#19139](https://github.com/SandeepVashishtha/Eventra/issues/19139) |
+| fix: enable CSRF token protection (#19053) | Medium | [#19138](https://github.com/SandeepVashishtha/Eventra/pull/19138) |
+| fix: charge corrected last-installment amount in Stripe scheduleInstallmentPayments (#19033) | Medium | [#19137](https://github.com/SandeepVashishtha/Eventra/pull/19137) |
+| fix: chain audit block hashes so verify-chain succeeds (#19086) | Medium | [#19136](https://github.com/SandeepVashishtha/Eventra/pull/19136) |
+| fix: enforce event-ownership authorization on saveTemplate/getTemplate (#19071) | Medium | [#19135](https://github.com/SandeepVashishtha/Eventra/pull/19135) |
+| fix: validate recipient email and strip CRLF from subject (#19057) | Medium | [#19134](https://github.com/SandeepVashishtha/Eventra/pull/19134) |
+| fix: implement GDPR anonymization job for pending-deletion users (#19043) | Medium | [#19133](https://github.com/SandeepVashishtha/Eventra/pull/19133) |
+| fix: render EmailTemplate tokens in a single pass to avoid re-expansion (#19073) | Medium | [#19132](https://github.com/SandeepVashishtha/Eventra/pull/19132) |
+| fix: email password reset link after persisting token (#19090) | Medium | [#19131](https://github.com/SandeepVashishtha/Eventra/pull/19131) |
+| fix: validate email address format and stop masking failures in EmailSender (#19072) | Medium | [#19130](https://github.com/SandeepVashishtha/Eventra/pull/19130) |
+| fix: make PushSubscriptionService.subscribe idempotent under concurrent duplicate insert (#19059) | Medium | [#19129](https://github.com/SandeepVashishtha/Eventra/pull/19129) |
+| fix: require active registration to submit feedback (#19075) | Medium | [#19128](https://github.com/SandeepVashishtha/Eventra/pull/19128) |
+| fix: render email templates in a single pass to prevent token re-expansion (#19058) | Medium | [#19127](https://github.com/SandeepVashishtha/Eventra/pull/19127) |
+| fix: require confirmed registration to submit feedback (#19060) | Medium | [#19126](https://github.com/SandeepVashishtha/Eventra/pull/19126) |
+| fix: enforce ownership/authorization in WebAuthn ticket verification (#19029) | Medium | [#19125](https://github.com/SandeepVashishtha/Eventra/pull/19125) |
 
 ---
 
