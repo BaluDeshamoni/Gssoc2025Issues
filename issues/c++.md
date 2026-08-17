@@ -14,6 +14,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve form validation and error handling across the HEALCONNECT application. | Medium | [#761](https://github.com/Dipanita45/HEALCONNECT/issues/761) |
 | 🐛 Bug: Improve Form Validation and Error Handling | Medium | [#760](https://github.com/Dipanita45/HEALCONNECT/issues/760) |
 
 ---
