@@ -129,36 +129,36 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| AuthService.signup concurrent duplicate-email race returns 500 instead of 409 | Medium | [#19012](https://github.com/SandeepVashishtha/Eventra/pull/19012) |
-| UserController.updateUserProfile uses case-sensitive username uniqueness and no validation | Medium | [#19011](https://github.com/SandeepVashishtha/Eventra/pull/19011) |
-| PushSubscriptionService validates endpoint only at subscribe time - DNS-rebinding SSRF at dispatch | Medium | [#19010](https://github.com/SandeepVashishtha/Eventra/pull/19010) |
-| Event cancellation only refunds the upfront installment - later installments never refunded | Medium | [#19009](https://github.com/SandeepVashishtha/Eventra/pull/19009) |
-| SSRF via user-supplied webhook URLs in WebhookNotificationService / WebhookDispatchService | Medium | [#19008](https://github.com/SandeepVashishtha/Eventra/pull/19008) |
-| Manual waitlist promotion never increments event.registeredCount - capacity desync and over-selling | Medium | [#19007](https://github.com/SandeepVashishtha/Eventra/pull/19007) |
-| EventService.updateEvent silently nulls eventDate and location on partial updates | Medium | [#19006](https://github.com/SandeepVashishtha/Eventra/pull/19006) |
-| PaymentController @PreAuthorize('USER') authority does not exist - all payment endpoints 403 for real users | Medium | [#19005](https://github.com/SandeepVashishtha/Eventra/pull/19005) |
-| Deleting an EventRegistration violates payments FK (500) and destroys the financial audit trail | Medium | [#19004](https://github.com/SandeepVashishtha/Eventra/pull/19004) |
-| Validate teamId and inviterUserId inside TeamService | Medium | [#19003](https://github.com/SandeepVashishtha/Eventra/pull/19003) |
-| Validate teamId and inviterUserId inside TeamService | Medium | [#19002](https://github.com/SandeepVashishtha/Eventra/issues/19002) |
-| Enable XMLConstants.FEATURE_SECURE_PROCESSING on SvgSanitizationService transformer | Medium | [#19001](https://github.com/SandeepVashishtha/Eventra/pull/19001) |
-| Enable XMLConstants.FEATURE_SECURE_PROCESSING on SvgSanitizationService transformer | Medium | [#19000](https://github.com/SandeepVashishtha/Eventra/issues/19000) |
-| Validate registrationId parameters in QrCodeValidationService | Medium | [#18999](https://github.com/SandeepVashishtha/Eventra/pull/18999) |
-| Validate registrationId parameters in QrCodeValidationService | Medium | [#18998](https://github.com/SandeepVashishtha/Eventra/issues/18998) |
-| Close PDF document in finally block in PdfTicketGeneratorService | Medium | [#18997](https://github.com/SandeepVashishtha/Eventra/pull/18997) |
-| Close PDF document in finally block in PdfTicketGeneratorService | Medium | [#18996](https://github.com/SandeepVashishtha/Eventra/issues/18996) |
-| Prevent NullPointerException on criteria extraction in ParticipantCommunicationGroupService | Medium | [#18995](https://github.com/SandeepVashishtha/Eventra/pull/18995) |
-| Prevent NullPointerException on criteria extraction in ParticipantCommunicationGroupService | Medium | [#18994](https://github.com/SandeepVashishtha/Eventra/issues/18994) |
-| Validate recipient email address format in EmailService | Medium | [#18993](https://github.com/SandeepVashishtha/Eventra/pull/18993) |
-| Validate recipient email address format in EmailService | Medium | [#18992](https://github.com/SandeepVashishtha/Eventra/issues/18992) |
-| Close PDF document in finally block in PdfTicketGeneratorService | Medium | [#18991](https://github.com/SandeepVashishtha/Eventra/issues/18991) |
-| Prevent NullPointerException on criteria extraction in ParticipantCommunicationGroupService | Medium | [#18990](https://github.com/SandeepVashishtha/Eventra/pull/18990) |
-| Prevent NullPointerException on criteria extraction in ParticipantCommunicationGroupService | Medium | [#18989](https://github.com/SandeepVashishtha/Eventra/issues/18989) |
-| Validate recipient email address format in EmailService | Medium | [#18988](https://github.com/SandeepVashishtha/Eventra/pull/18988) |
-| Validate recipient email address format in EmailService | Medium | [#18987](https://github.com/SandeepVashishtha/Eventra/issues/18987) |
-| fix(security): validate Paillier ciphertexts and reject malformed inputs instead of returning defaults | Medium | [#18986](https://github.com/SandeepVashishtha/Eventra/pull/18986) |
-| fix(security): implement real RFC 6238 TOTP verification in TotpManager | Medium | [#18985](https://github.com/SandeepVashishtha/Eventra/pull/18985) |
-| Stripe webhook handlers swallow all exceptions → lost payments and inconsistent ledger | Medium | [#18984](https://github.com/SandeepVashishtha/Eventra/pull/18984) |
-| SubtitleController has an orphan 	hrow at class body → backend fails to compile | Medium | [#18983](https://github.com/SandeepVashishtha/Eventra/pull/18983) |
+| fix: handle JWT token expiry with auto-redirect to login | Medium | [#19154](https://github.com/SandeepVashishtha/Eventra/pull/19154) |
+| Add JWT token expiry handling with automatic silent refresh and graceful logout on session expiration | Medium | [#19153](https://github.com/SandeepVashishtha/Eventra/issues/19153) |
+| Add open-source project showcase with upvoting system and community discovery feed | Medium | [#19152](https://github.com/SandeepVashishtha/Eventra/issues/19152) |
+| Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19151](https://github.com/SandeepVashishtha/Eventra/issues/19151) |
+| Add recurring event support — allow organizers to schedule weekly, monthly, or custom-interval events | Medium | [#19150](https://github.com/SandeepVashishtha/Eventra/issues/19150) |
+| Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19149](https://github.com/SandeepVashishtha/Eventra/issues/19149) |
+| Add event registration with ticket generation and QR code check-in capability | Medium | [#19148](https://github.com/SandeepVashishtha/Eventra/issues/19148) |
+| Add event search and filtering by category, date range, and location on the events listing page | Medium | [#19147](https://github.com/SandeepVashishtha/Eventra/issues/19147) |
+| Add GitHub Actions CI pipeline with lint, type-check, and test validation on every pull request | Medium | [#19146](https://github.com/SandeepVashishtha/Eventra/issues/19146) |
+| fix(api): merge per-request headers over defaults in fetchAPI (#19095) | Medium | [#19145](https://github.com/SandeepVashishtha/Eventra/pull/19145) |
+| fix: authorize leaderboard broadcast endpoint (issue #19078) | Medium | [#19144](https://github.com/SandeepVashishtha/Eventra/pull/19144) |
+| fix: authorize leaderboard broadcast endpoint (issue #19063) | Medium | [#19143](https://github.com/SandeepVashishtha/Eventra/pull/19143) |
+| fix: reject unsupported 'free' event search filter with 400 (#19061) | Medium | [#19142](https://github.com/SandeepVashishtha/Eventra/pull/19142) |
+| fix: guard AdminService.updateEvent setters against null partial payloads (#19091) | Medium | [#19141](https://github.com/SandeepVashishtha/Eventra/pull/19141) |
+| fix: stop TrendingEventCard fabricating date and attendance (#19139) | Medium | [#19140](https://github.com/SandeepVashishtha/Eventra/pull/19140) |
+| TrendingEventCard shows fabricated date "Aug 28, 2026" and "120 going" when API omits fields | Medium | [#19139](https://github.com/SandeepVashishtha/Eventra/issues/19139) |
+| fix: enable CSRF token protection (#19053) | Medium | [#19138](https://github.com/SandeepVashishtha/Eventra/pull/19138) |
+| fix: charge corrected last-installment amount in Stripe scheduleInstallmentPayments (#19033) | Medium | [#19137](https://github.com/SandeepVashishtha/Eventra/pull/19137) |
+| fix: chain audit block hashes so verify-chain succeeds (#19086) | Medium | [#19136](https://github.com/SandeepVashishtha/Eventra/pull/19136) |
+| fix: enforce event-ownership authorization on saveTemplate/getTemplate (#19071) | Medium | [#19135](https://github.com/SandeepVashishtha/Eventra/pull/19135) |
+| fix: validate recipient email and strip CRLF from subject (#19057) | Medium | [#19134](https://github.com/SandeepVashishtha/Eventra/pull/19134) |
+| fix: implement GDPR anonymization job for pending-deletion users (#19043) | Medium | [#19133](https://github.com/SandeepVashishtha/Eventra/pull/19133) |
+| fix: render EmailTemplate tokens in a single pass to avoid re-expansion (#19073) | Medium | [#19132](https://github.com/SandeepVashishtha/Eventra/pull/19132) |
+| fix: email password reset link after persisting token (#19090) | Medium | [#19131](https://github.com/SandeepVashishtha/Eventra/pull/19131) |
+| fix: validate email address format and stop masking failures in EmailSender (#19072) | Medium | [#19130](https://github.com/SandeepVashishtha/Eventra/pull/19130) |
+| fix: make PushSubscriptionService.subscribe idempotent under concurrent duplicate insert (#19059) | Medium | [#19129](https://github.com/SandeepVashishtha/Eventra/pull/19129) |
+| fix: require active registration to submit feedback (#19075) | Medium | [#19128](https://github.com/SandeepVashishtha/Eventra/pull/19128) |
+| fix: render email templates in a single pass to prevent token re-expansion (#19058) | Medium | [#19127](https://github.com/SandeepVashishtha/Eventra/pull/19127) |
+| fix: require confirmed registration to submit feedback (#19060) | Medium | [#19126](https://github.com/SandeepVashishtha/Eventra/pull/19126) |
+| fix: enforce ownership/authorization in WebAuthn ticket verification (#19029) | Medium | [#19125](https://github.com/SandeepVashishtha/Eventra/pull/19125) |
 
 ---
 
