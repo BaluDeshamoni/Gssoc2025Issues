@@ -402,6 +402,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| docs: improve contributor onboarding and setup | Medium | [#758](https://github.com/GitMetricsLab/github_tracker/pull/758) |
 | fix: code quality and safety improvements | Medium | [#757](https://github.com/GitMetricsLab/github_tracker/pull/757) |
 | fix: code quality and safety improvements | Medium | [#756](https://github.com/GitMetricsLab/github_tracker/pull/756) |
 | fix: code quality and safety improvements | Medium | [#755](https://github.com/GitMetricsLab/github_tracker/pull/755) |
@@ -1401,15 +1402,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(core): implement SSE streaming (fixes #316) | Medium | [#326](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/326) |
+| feat(core): decouple LLM engine via Factory Pattern (fixes #315) | Medium | [#325](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/325) |
+| feat(security): implement SSRF mitigation layer for web requests (fixes #317) | Medium | [#324](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/324) |
 | Contact honeypot returns a 400 that reveals the trap instead of faking success | Medium | [#322](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/322) |
 | Duplicate CORS registration — wildcard CORS(app) overrides the localhost-only /api/* policy | Medium | [#321](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/321) |
 | /chat/stream file upload drops user_id — logged-in session saved as orphaned guest session | Medium | [#320](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/320) |
 | /chat and /chat/stream append messages to any session_id without ownership check (IDOR) | Medium | [#319](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/319) |
-| Mentioned sessions read without ownership check — IDOR leaks any user's chat history | Medium | [#318](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/318) |
-| FEATURE: Prevent Server-Side Request Forgery (SSRF) in Web Search Tools | Medium | [#317](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/317) |
-| FEATURE: Streaming Responses via Server-Sent Events (SSE) | Medium | [#316](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/316) |
-| FEATURE: Decouple LLM Engine using the Factory Pattern | Medium | [#315](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/315) |
-| fix: make Ollama base URL configurable via OLLAMA_BASE_URL env var | Medium | [#309](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/309) |
 
 ---
 
