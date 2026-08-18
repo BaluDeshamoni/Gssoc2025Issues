@@ -85,6 +85,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump the minor-and-patch group across 1 directory with 57 updates | Medium | [#1487](https://github.com/Muneerali199/Draftdeckai/pull/1487) |
 | BLOCK — PR #1471 | Medium | [#1485](https://github.com/Muneerali199/Draftdeckai/issues/1485) |
 | BLOCK — PR #1471 | Medium | [#1484](https://github.com/Muneerali199/Draftdeckai/issues/1484) |
 | BLOCK — PR #1482 | Medium | [#1483](https://github.com/Muneerali199/Draftdeckai/issues/1483) |
@@ -114,7 +115,6 @@
 | fix: resolve 4 bugs in Draftdeckai | Medium | [#1258](https://github.com/Muneerali199/Draftdeckai/pull/1258) |
 | fix: resolve 4 bugs in Draftdeckai | Medium | [#1257](https://github.com/Muneerali199/Draftdeckai/pull/1257) |
 | fix: resolve 4 bugs in Draftdeckai | Medium | [#1256](https://github.com/Muneerali199/Draftdeckai/pull/1256) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1255](https://github.com/Muneerali199/Draftdeckai/pull/1255) |
 
 ---
 
@@ -212,6 +212,24 @@
 | feat: Peer QA Economy — B-rank+ Adventurers earn XP bounty for reviewing F/E/D submissions | Medium | [#219](https://github.com/LarytheLord/Adventurers-Guild/issues/219) |
 | refactor: Submission Service Layer — Stage 3 of 3 service layer refactor | Medium | [#194](https://github.com/LarytheLord/Adventurers-Guild/issues/194) |
 | Improve the privacy page | Medium | [#191](https://github.com/LarytheLord/Adventurers-Guild/issues/191) |
+
+---
+
+## 📌 Project: AI Flow
+
+📝 **Description:** AI Flow is a web application that provides a suite of AI-powered productivity tools, including prompt enhancement, text summarization, code and SQL explanation, regex generation, language translation, and sentiment analysis. The platform features a modern, responsive interface, secure authentication, and integrates with the Gemini 2.0 Flash API for fast and accurate results. AI Flow is designed to help users streamline workflows, learn faster, and leverage artificial intelligence in everyday tasks.
+
+🔗 [View Project](https://github.com/Jyotibrat/AI-Flow)
+
+💻 **Tech Stack:** TypeScript, React, Vite, Supabase, Gemini 2.0 Flash API, Blogger API
+
+---
+
+### 🐛 Unassigned Issues
+
+| 🔖 Title | 🎯 Difficulty | 🔗 Link |
+|----------|----------------|---------|
+| Add IdeaHunter to the AI tools directory | Medium | [#76](https://github.com/Jyotibrat/AI-Flow/issues/76) |
 
 ---
 
