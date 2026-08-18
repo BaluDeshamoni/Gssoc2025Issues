@@ -115,6 +115,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump the minor-and-patch group across 1 directory with 57 updates | Medium | [#1487](https://github.com/Muneerali199/Draftdeckai/pull/1487) |
 | BLOCK — PR #1471 | Medium | [#1485](https://github.com/Muneerali199/Draftdeckai/issues/1485) |
 | BLOCK — PR #1471 | Medium | [#1484](https://github.com/Muneerali199/Draftdeckai/issues/1484) |
 | BLOCK — PR #1482 | Medium | [#1483](https://github.com/Muneerali199/Draftdeckai/issues/1483) |
@@ -144,7 +145,6 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 | fix: resolve 4 bugs in Draftdeckai | Medium | [#1258](https://github.com/Muneerali199/Draftdeckai/pull/1258) |
 | fix: resolve 4 bugs in Draftdeckai | Medium | [#1257](https://github.com/Muneerali199/Draftdeckai/pull/1257) |
 | fix: resolve 4 bugs in Draftdeckai | Medium | [#1256](https://github.com/Muneerali199/Draftdeckai/pull/1256) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1255](https://github.com/Muneerali199/Draftdeckai/pull/1255) |
 
 ---
 
@@ -355,16 +355,36 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: Drone-Delivered Autonomous Narcan Deployment | Medium | [#13313](https://github.com/SandeepVashishtha/Eventra/issues/13313) |
-| Feature: Holographic Fireworks via Swarm Nano-Lasers | Medium | [#13312](https://github.com/SandeepVashishtha/Eventra/issues/13312) |
-| Feature: Zero-Knowledge Proof Backstage Pass Auctions | Medium | [#13311](https://github.com/SandeepVashishtha/Eventra/issues/13311) |
-| Feature: Smart-Fabric Cooling Tents with Peltier Weaves | Medium | [#13310](https://github.com/SandeepVashishtha/Eventra/issues/13310) |
-| Feature: Magnetic Levitation DJ Booth Stabilizers | Medium | [#13309](https://github.com/SandeepVashishtha/Eventra/issues/13309) |
-| Feature: AI-Generated Personalized Setlist Recaps | Medium | [#13308](https://github.com/SandeepVashishtha/Eventra/issues/13308) |
-| Feature: Autonomous Drink Delivery via Underground Pneumatic Tubes | Medium | [#13307](https://github.com/SandeepVashishtha/Eventra/issues/13307) |
-| Feature: Real-Time Crowd Sentiment Analysis via Thermal Imaging | Medium | [#13306](https://github.com/SandeepVashishtha/Eventra/issues/13306) |
-| Feature: Hydration Level Monitoring via Smart Cups | Medium | [#13305](https://github.com/SandeepVashishtha/Eventra/issues/13305) |
-| Feature: Decentralized Mesh-Network SOS Beacons | Medium | [#13304](https://github.com/SandeepVashishtha/Eventra/issues/13304) |
+| Add JWT token expiry handling with automatic silent refresh and graceful logout on session expiration | Medium | [#19153](https://github.com/SandeepVashishtha/Eventra/issues/19153) |
+| Add open-source project showcase with upvoting system and community discovery feed | Medium | [#19152](https://github.com/SandeepVashishtha/Eventra/issues/19152) |
+| Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19151](https://github.com/SandeepVashishtha/Eventra/issues/19151) |
+| Add recurring event support — allow organizers to schedule weekly, monthly, or custom-interval events | Medium | [#19150](https://github.com/SandeepVashishtha/Eventra/issues/19150) |
+| Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19149](https://github.com/SandeepVashishtha/Eventra/issues/19149) |
+| Add event registration with ticket generation and QR code check-in capability | Medium | [#19148](https://github.com/SandeepVashishtha/Eventra/issues/19148) |
+| Add event search and filtering by category, date range, and location on the events listing page | Medium | [#19147](https://github.com/SandeepVashishtha/Eventra/issues/19147) |
+| Add GitHub Actions CI pipeline with lint, type-check, and test validation on every pull request | Medium | [#19146](https://github.com/SandeepVashishtha/Eventra/issues/19146) |
+| fix(api): merge per-request headers over defaults in fetchAPI (#19095) | Medium | [#19145](https://github.com/SandeepVashishtha/Eventra/pull/19145) |
+| fix: authorize leaderboard broadcast endpoint (issue #19078) | Medium | [#19144](https://github.com/SandeepVashishtha/Eventra/pull/19144) |
+| fix: authorize leaderboard broadcast endpoint (issue #19063) | Medium | [#19143](https://github.com/SandeepVashishtha/Eventra/pull/19143) |
+| fix: reject unsupported 'free' event search filter with 400 (#19061) | Medium | [#19142](https://github.com/SandeepVashishtha/Eventra/pull/19142) |
+| fix: guard AdminService.updateEvent setters against null partial payloads (#19091) | Medium | [#19141](https://github.com/SandeepVashishtha/Eventra/pull/19141) |
+| fix: stop TrendingEventCard fabricating date and attendance (#19139) | Medium | [#19140](https://github.com/SandeepVashishtha/Eventra/pull/19140) |
+| TrendingEventCard shows fabricated date "Aug 28, 2026" and "120 going" when API omits fields | Medium | [#19139](https://github.com/SandeepVashishtha/Eventra/issues/19139) |
+| fix: enable CSRF token protection (#19053) | Medium | [#19138](https://github.com/SandeepVashishtha/Eventra/pull/19138) |
+| fix: charge corrected last-installment amount in Stripe scheduleInstallmentPayments (#19033) | Medium | [#19137](https://github.com/SandeepVashishtha/Eventra/pull/19137) |
+| fix: chain audit block hashes so verify-chain succeeds (#19086) | Medium | [#19136](https://github.com/SandeepVashishtha/Eventra/pull/19136) |
+| fix: enforce event-ownership authorization on saveTemplate/getTemplate (#19071) | Medium | [#19135](https://github.com/SandeepVashishtha/Eventra/pull/19135) |
+| fix: validate recipient email and strip CRLF from subject (#19057) | Medium | [#19134](https://github.com/SandeepVashishtha/Eventra/pull/19134) |
+| fix: implement GDPR anonymization job for pending-deletion users (#19043) | Medium | [#19133](https://github.com/SandeepVashishtha/Eventra/pull/19133) |
+| fix: render EmailTemplate tokens in a single pass to avoid re-expansion (#19073) | Medium | [#19132](https://github.com/SandeepVashishtha/Eventra/pull/19132) |
+| fix: email password reset link after persisting token (#19090) | Medium | [#19131](https://github.com/SandeepVashishtha/Eventra/pull/19131) |
+| fix: validate email address format and stop masking failures in EmailSender (#19072) | Medium | [#19130](https://github.com/SandeepVashishtha/Eventra/pull/19130) |
+| fix: make PushSubscriptionService.subscribe idempotent under concurrent duplicate insert (#19059) | Medium | [#19129](https://github.com/SandeepVashishtha/Eventra/pull/19129) |
+| fix: require active registration to submit feedback (#19075) | Medium | [#19128](https://github.com/SandeepVashishtha/Eventra/pull/19128) |
+| fix: render email templates in a single pass to prevent token re-expansion (#19058) | Medium | [#19127](https://github.com/SandeepVashishtha/Eventra/pull/19127) |
+| fix: require confirmed registration to submit feedback (#19060) | Medium | [#19126](https://github.com/SandeepVashishtha/Eventra/pull/19126) |
+| fix: enforce ownership/authorization in WebAuthn ticket verification (#19029) | Medium | [#19125](https://github.com/SandeepVashishtha/Eventra/pull/19125) |
+| fix: parse real table and column in IndexOptimizer instead of stubs (#19044) | Medium | [#19124](https://github.com/SandeepVashishtha/Eventra/pull/19124) |
 
 ---
 
