@@ -439,6 +439,8 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Registration Page Layout & Usability | Medium | [#733](https://github.com/lovelymahor/StudyMatePlus/issues/733) |
+| Hero Section UI Redesign | Medium | [#732](https://github.com/lovelymahor/StudyMatePlus/issues/732) |
 | Implement a spaced repetition study scheduler for saved notes — help students retain material more effectively | Medium | [#731](https://github.com/lovelymahor/StudyMatePlus/issues/731) |
 | Add file upload validation for PYQ papers — enforce file type, size limit, and virus-scan placeholder | Medium | [#730](https://github.com/lovelymahor/StudyMatePlus/issues/730) |
 | Add GitHub Actions CI pipeline — automate lint, build, and test for both client and server on every PR | Medium | [#729](https://github.com/lovelymahor/StudyMatePlus/issues/729) |
@@ -467,8 +469,6 @@
 | MindMapEditor.js: search feature is dead code, never wired to the UI | Medium | [#706](https://github.com/lovelymahor/StudyMatePlus/issues/706) |
 | Syllabus.js: broken useMemo dependency array prevents memoization from updating | Medium | [#705](https://github.com/lovelymahor/StudyMatePlus/issues/705) |
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
-| Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
-| Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
 
 ---
 
