@@ -53,6 +53,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(graph): Add operator<< overload for CinderGraph to support printing graph info | Easy | [#317](https://github.com/SharonIV0x86/CinderPeak/issues/317) |
 | Add Breadth-First Search (BFS) and Depth-First Search (DFS) traversal iterators with visitor pattern support | Medium | [#374](https://github.com/SharonIV0x86/CinderPeak/issues/374) |
 | Add graph serialization and deserialization (JSON and adjacency list formats) for persistence and interoperability | Medium | [#373](https://github.com/SharonIV0x86/CinderPeak/issues/373) |
 | Add Dijkstra's Shortest Path algorithm with a generic weight extractor to the algorithm suite | Medium | [#372](https://github.com/SharonIV0x86/CinderPeak/issues/372) |
@@ -60,26 +61,25 @@
 | feat: add GraphML / DOT (Graphviz) serialization support — `CinderGraph` instances cannot be saved to disk or visualized externally, making it impossible to persist or debug graph structures | Medium | [#369](https://github.com/SharonIV0x86/CinderPeak/issues/369) |
 | feat: implement Dijkstra's shortest path algorithm as a graph traversal method on `CinderGraph<V, E>` — the library has BFS/DFS traversal but no weighted shortest-path algorithm despite supporting weighted edges natively | Medium | [#368](https://github.com/SharonIV0x86/CinderPeak/issues/368) |
 | test: add coverage for EventDispatcher, EventHub and metadata listeners | Medium | [#367](https://github.com/SharonIV0x86/CinderPeak/pull/367) |
-| Feature: Add Intelligent Alert & Incident Management System | Medium | [#363](https://github.com/SharonIV0x86/CinderPeak/issues/363) |
-| Feature: Add Resource Usage Forecast Dashboard | Medium | [#362](https://github.com/SharonIV0x86/CinderPeak/issues/362) |
-| Feature: Add AI-Based Log Analysis & Root Cause Suggestions | Medium | [#361](https://github.com/SharonIV0x86/CinderPeak/issues/361) |
-| Feature: Add Container & Docker Health Dashboard | Medium | [#360](https://github.com/SharonIV0x86/CinderPeak/issues/360) |
-| Feature: Add Deployment Pipeline Monitoring Dashboard | Medium | [#359](https://github.com/SharonIV0x86/CinderPeak/issues/359) |
-| Feature: Add Webhook Management Console | Medium | [#358](https://github.com/SharonIV0x86/CinderPeak/issues/358) |
-| Feature: Add Configuration Version History | Medium | [#357](https://github.com/SharonIV0x86/CinderPeak/issues/357) |
-| Feature: Add Service Dependency Visualization | Medium | [#356](https://github.com/SharonIV0x86/CinderPeak/issues/356) |
-| Feature: Add Security Scan Dashboard | Medium | [#355](https://github.com/SharonIV0x86/CinderPeak/issues/355) |
-| Feature: Add Automated Backup & Restore Manager | Medium | [#354](https://github.com/SharonIV0x86/CinderPeak/issues/354) |
-| Feature: Add Plugin & Extension Management System | Medium | [#353](https://github.com/SharonIV0x86/CinderPeak/issues/353) |
-| Feature: Add Error Diagnostics Dashboard | Medium | [#352](https://github.com/SharonIV0x86/CinderPeak/issues/352) |
-| Feature: Add Performance Profiling Dashboard | Medium | [#351](https://github.com/SharonIV0x86/CinderPeak/issues/351) |
-| Feature: Add Role-Based Permission Management Panel | Medium | [#350](https://github.com/SharonIV0x86/CinderPeak/issues/350) |
-| Feature: Add Scheduled Task Management Dashboard | Medium | [#349](https://github.com/SharonIV0x86/CinderPeak/issues/349) |
-| Feature: Add Notification Center for Background Operations | Medium | [#348](https://github.com/SharonIV0x86/CinderPeak/issues/348) |
-| Feature: Add Configuration Validation Wizard | Medium | [#347](https://github.com/SharonIV0x86/CinderPeak/issues/347) |
-| Feature: Add API Usage Analytics Dashboard | Medium | [#346](https://github.com/SharonIV0x86/CinderPeak/issues/346) |
-| Feature: Add Activity Audit Log Viewer | Medium | [#345](https://github.com/SharonIV0x86/CinderPeak/issues/345) |
-| Feature: Add Real-Time System Health Monitoring Dashboard | Medium | [#344](https://github.com/SharonIV0x86/CinderPeak/issues/344) |
+| Feature/transactional integrity | Medium | [#343](https://github.com/SharonIV0x86/CinderPeak/pull/343) |
+| Feature/self loop cleanup | Medium | [#342](https://github.com/SharonIV0x86/CinderPeak/pull/342) |
+| Feature/efficient backend population | Medium | [#341](https://github.com/SharonIV0x86/CinderPeak/pull/341) |
+| Implement comparison and stream operators for PeakStatus | Medium | [#340](https://github.com/SharonIV0x86/CinderPeak/pull/340) |
+| Feature/redundant map lookups | Medium | [#339](https://github.com/SharonIV0x86/CinderPeak/pull/339) |
+| Feature/vertex removal optimization | Medium | [#338](https://github.com/SharonIV0x86/CinderPeak/pull/338) |
+| Direct efficient backend population from AdjacencyList to HybridCSR_COO | Medium | [#337](https://github.com/SharonIV0x86/CinderPeak/issues/337) |
+| Partial failures on undirected graph operations leave graph in inconsistent state | Medium | [#336](https://github.com/SharonIV0x86/CinderPeak/issues/336) |
+| Edge removal and update do not reject self-loops at orchestrator layer | Medium | [#335](https://github.com/SharonIV0x86/CinderPeak/issues/335) |
+| Optimize addEdge flow by caching resolved VertexIds to skip redundant map lookups | Medium | [#334](https://github.com/SharonIV0x86/CinderPeak/issues/334) |
+| Direct efficient backend population from AdjacencyList to HybridCSR_COO | Medium | [#333](https://github.com/SharonIV0x86/CinderPeak/issues/333) |
+| Optimize impl_removeVertex to run in O(degree) using in-edge tracking | Medium | [#332](https://github.com/SharonIV0x86/CinderPeak/issues/332) |
+| Implement comparison and stream operators for PeakStatus | Medium | [#331](https://github.com/SharonIV0x86/CinderPeak/issues/331) |
+| ci(security): augment build pipeline with CodeQL static analysis | Medium | [#330](https://github.com/SharonIV0x86/CinderPeak/issues/330) |
+| feat(graph): Add operator<< overload for CinderGraph to support printing graph info | Medium | [#329](https://github.com/SharonIV0x86/CinderPeak/issues/329) |
+| Fix: Logger Resource Leak and Concurrency Leak | Medium | [#328](https://github.com/SharonIV0x86/CinderPeak/pull/328) |
+| Thread-Safety Issue in CinderVertex/CinderEdge ID Generation | Medium | [#327](https://github.com/SharonIV0x86/CinderPeak/issues/327) |
+| refactor: Resolve unused parameter warning in Events/DefaultListeners.hpp | Medium | [#325](https://github.com/SharonIV0x86/CinderPeak/issues/325) |
+| feat: structured exception mapping and contextual error reporting (#298) | Medium | [#318](https://github.com/SharonIV0x86/CinderPeak/pull/318) |
 
 ---
 
