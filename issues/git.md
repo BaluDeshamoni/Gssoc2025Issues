@@ -254,6 +254,10 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Real-Time Search Bar, Keyword Highlighting, and ARIA Live Regions in Health Vault (health-vault.html) | Medium | [#649](https://github.com/aayushraj1010/med-genie/issues/649) |
+| fix(auth): resolve forgot password API Prisma schema mismatch | Medium | [#648](https://github.com/aayushraj1010/med-genie/pull/648) |
+| fix: log actual chat errors for better debuggability | Medium | [#647](https://github.com/aayushraj1010/med-genie/pull/647) |
+| docs: remove leftover AI-generated artifact text from README | Medium | [#646](https://github.com/aayushraj1010/med-genie/pull/646) |
 | No Loading State or Error Handling on AI Response Fetch — Users See Blank Screen During API Calls | Medium | [#645](https://github.com/aayushraj1010/med-genie/issues/645) |
 | Add Medication Reminder and Drug Interaction Checker Feature | Medium | [#644](https://github.com/aayushraj1010/med-genie/issues/644) |
 | Implement Symptom History and Session Persistence So Users Can Track Their Health Queries Over Time | Medium | [#643](https://github.com/aayushraj1010/med-genie/issues/643) |
@@ -280,10 +284,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | fix: code quality and safety improvements | Medium | [#621](https://github.com/aayushraj1010/med-genie/pull/621) |
 | fix: code quality and safety improvements | Medium | [#620](https://github.com/aayushraj1010/med-genie/pull/620) |
 | fix: code quality and safety improvements | Medium | [#619](https://github.com/aayushraj1010/med-genie/pull/619) |
-| fix: code quality and safety improvements | Medium | [#618](https://github.com/aayushraj1010/med-genie/pull/618) |
-| fix: improve error handling | Medium | [#617](https://github.com/aayushraj1010/med-genie/pull/617) |
-| fix: add safety checks | Medium | [#616](https://github.com/aayushraj1010/med-genie/pull/616) |
-| fix: improve error handling | Medium | [#615](https://github.com/aayushraj1010/med-genie/pull/615) |
 
 ---
 
@@ -566,6 +566,8 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Registration Page Layout & Usability | Medium | [#733](https://github.com/lovelymahor/StudyMatePlus/issues/733) |
+| Hero Section UI Redesign | Medium | [#732](https://github.com/lovelymahor/StudyMatePlus/issues/732) |
 | Implement a spaced repetition study scheduler for saved notes — help students retain material more effectively | Medium | [#731](https://github.com/lovelymahor/StudyMatePlus/issues/731) |
 | Add file upload validation for PYQ papers — enforce file type, size limit, and virus-scan placeholder | Medium | [#730](https://github.com/lovelymahor/StudyMatePlus/issues/730) |
 | Add GitHub Actions CI pipeline — automate lint, build, and test for both client and server on every PR | Medium | [#729](https://github.com/lovelymahor/StudyMatePlus/issues/729) |
@@ -594,8 +596,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | MindMapEditor.js: search feature is dead code, never wired to the UI | Medium | [#706](https://github.com/lovelymahor/StudyMatePlus/issues/706) |
 | Syllabus.js: broken useMemo dependency array prevents memoization from updating | Medium | [#705](https://github.com/lovelymahor/StudyMatePlus/issues/705) |
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
-| Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
-| Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
 
 ---
 
@@ -651,26 +651,36 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Feature: P2P Mesh Network Ride-Sharing Matching | Medium | [#12269](https://github.com/SandeepVashishtha/Eventra/issues/12269) |
-| Feature: Multi-Stage Audio Sync (Beat-matching Overlap Zones) | Medium | [#12268](https://github.com/SandeepVashishtha/Eventra/issues/12268) |
-| Feature: Predictive VIP Drink Prep via Gait/Face Recognition | Medium | [#12267](https://github.com/SandeepVashishtha/Eventra/issues/12267) |
-| Feature: Automated High-Speed Camera Mosh-Pit Detection | Medium | [#12266](https://github.com/SandeepVashishtha/Eventra/issues/12266) |
-| Feature: Real-Time Carbon Footprint Offset Tokenizer | Medium | [#12265](https://github.com/SandeepVashishtha/Eventra/issues/12265) |
-| Feature: Dynamic Smart-Locker Spatial Allocation | Medium | [#12264](https://github.com/SandeepVashishtha/Eventra/issues/12264) |
-| Feature: AI-Driven Silent Disco Channel Optimizer | Medium | [#12263](https://github.com/SandeepVashishtha/Eventra/issues/12263) |
-| Feature: Real-Time Sponsorship Header Bidding Engine | Medium | [#12262](https://github.com/SandeepVashishtha/Eventra/issues/12262) |
-| Feature: Drone-Delivered Emergency Medical Dispatch | Medium | [#12261](https://github.com/SandeepVashishtha/Eventra/issues/12261) |
-| Feature: Personalized AR Wayfinding via LiDAR Scanning | Medium | [#12260](https://github.com/SandeepVashishtha/Eventra/issues/12260) |
-| Feature: Structural Integrity Deep-Learning Pre-Cog | Medium | [#12259](https://github.com/SandeepVashishtha/Eventra/issues/12259) |
-| Feature: Generative AI Real-Time Hologram Translator | Medium | [#12258](https://github.com/SandeepVashishtha/Eventra/issues/12258) |
-| Feature: Kinetic Energy Harvesting Floor Analytics | Medium | [#12257](https://github.com/SandeepVashishtha/Eventra/issues/12257) |
-| Feature: Haptic Floor Sub-Bass Synchronization Engine | Medium | [#12256](https://github.com/SandeepVashishtha/Eventra/issues/12256) |
-| Feature: Multi-Modal VIP Transport Dispatch (Heli/Boat/Car) | Medium | [#12255](https://github.com/SandeepVashishtha/Eventra/issues/12255) |
-| Feature: Predictive Medical Tent Triage Allocation AI | Medium | [#12254](https://github.com/SandeepVashishtha/Eventra/issues/12254) |
-| Feature: Automated Pyrotechnic Wind-Shear Abort Protocol | Medium | [#12253](https://github.com/SandeepVashishtha/Eventra/issues/12253) |
-| Feature: Holographic Artist Presence via 5G Edge Rendering | Medium | [#12252](https://github.com/SandeepVashishtha/Eventra/issues/12252) |
-| Feature: Drone Swarm Aerial LED Advertising API | Medium | [#12251](https://github.com/SandeepVashishtha/Eventra/issues/12251) |
-| Feature: Automated Drink Inventory Rebalancing via AGV Swarm | Medium | [#12250](https://github.com/SandeepVashishtha/Eventra/issues/12250) |
+| Add JWT token expiry handling with automatic silent refresh and graceful logout on session expiration | Medium | [#19153](https://github.com/SandeepVashishtha/Eventra/issues/19153) |
+| Add open-source project showcase with upvoting system and community discovery feed | Medium | [#19152](https://github.com/SandeepVashishtha/Eventra/issues/19152) |
+| Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19151](https://github.com/SandeepVashishtha/Eventra/issues/19151) |
+| Add recurring event support — allow organizers to schedule weekly, monthly, or custom-interval events | Medium | [#19150](https://github.com/SandeepVashishtha/Eventra/issues/19150) |
+| Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19149](https://github.com/SandeepVashishtha/Eventra/issues/19149) |
+| Add event registration with ticket generation and QR code check-in capability | Medium | [#19148](https://github.com/SandeepVashishtha/Eventra/issues/19148) |
+| Add event search and filtering by category, date range, and location on the events listing page | Medium | [#19147](https://github.com/SandeepVashishtha/Eventra/issues/19147) |
+| Add GitHub Actions CI pipeline with lint, type-check, and test validation on every pull request | Medium | [#19146](https://github.com/SandeepVashishtha/Eventra/issues/19146) |
+| fix(api): merge per-request headers over defaults in fetchAPI (#19095) | Medium | [#19145](https://github.com/SandeepVashishtha/Eventra/pull/19145) |
+| fix: authorize leaderboard broadcast endpoint (issue #19078) | Medium | [#19144](https://github.com/SandeepVashishtha/Eventra/pull/19144) |
+| fix: authorize leaderboard broadcast endpoint (issue #19063) | Medium | [#19143](https://github.com/SandeepVashishtha/Eventra/pull/19143) |
+| fix: reject unsupported 'free' event search filter with 400 (#19061) | Medium | [#19142](https://github.com/SandeepVashishtha/Eventra/pull/19142) |
+| fix: guard AdminService.updateEvent setters against null partial payloads (#19091) | Medium | [#19141](https://github.com/SandeepVashishtha/Eventra/pull/19141) |
+| fix: stop TrendingEventCard fabricating date and attendance (#19139) | Medium | [#19140](https://github.com/SandeepVashishtha/Eventra/pull/19140) |
+| TrendingEventCard shows fabricated date "Aug 28, 2026" and "120 going" when API omits fields | Medium | [#19139](https://github.com/SandeepVashishtha/Eventra/issues/19139) |
+| fix: enable CSRF token protection (#19053) | Medium | [#19138](https://github.com/SandeepVashishtha/Eventra/pull/19138) |
+| fix: charge corrected last-installment amount in Stripe scheduleInstallmentPayments (#19033) | Medium | [#19137](https://github.com/SandeepVashishtha/Eventra/pull/19137) |
+| fix: chain audit block hashes so verify-chain succeeds (#19086) | Medium | [#19136](https://github.com/SandeepVashishtha/Eventra/pull/19136) |
+| fix: enforce event-ownership authorization on saveTemplate/getTemplate (#19071) | Medium | [#19135](https://github.com/SandeepVashishtha/Eventra/pull/19135) |
+| fix: validate recipient email and strip CRLF from subject (#19057) | Medium | [#19134](https://github.com/SandeepVashishtha/Eventra/pull/19134) |
+| fix: implement GDPR anonymization job for pending-deletion users (#19043) | Medium | [#19133](https://github.com/SandeepVashishtha/Eventra/pull/19133) |
+| fix: render EmailTemplate tokens in a single pass to avoid re-expansion (#19073) | Medium | [#19132](https://github.com/SandeepVashishtha/Eventra/pull/19132) |
+| fix: email password reset link after persisting token (#19090) | Medium | [#19131](https://github.com/SandeepVashishtha/Eventra/pull/19131) |
+| fix: validate email address format and stop masking failures in EmailSender (#19072) | Medium | [#19130](https://github.com/SandeepVashishtha/Eventra/pull/19130) |
+| fix: make PushSubscriptionService.subscribe idempotent under concurrent duplicate insert (#19059) | Medium | [#19129](https://github.com/SandeepVashishtha/Eventra/pull/19129) |
+| fix: require active registration to submit feedback (#19075) | Medium | [#19128](https://github.com/SandeepVashishtha/Eventra/pull/19128) |
+| fix: render email templates in a single pass to prevent token re-expansion (#19058) | Medium | [#19127](https://github.com/SandeepVashishtha/Eventra/pull/19127) |
+| fix: require confirmed registration to submit feedback (#19060) | Medium | [#19126](https://github.com/SandeepVashishtha/Eventra/pull/19126) |
+| fix: enforce ownership/authorization in WebAuthn ticket verification (#19029) | Medium | [#19125](https://github.com/SandeepVashishtha/Eventra/pull/19125) |
+| fix: parse real table and column in IndexOptimizer instead of stubs (#19044) | Medium | [#19124](https://github.com/SandeepVashishtha/Eventra/pull/19124) |
 
 ---
 
