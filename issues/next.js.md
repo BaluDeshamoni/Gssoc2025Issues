@@ -165,6 +165,8 @@
 | Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| Update NestBot manifest file | Medium | [#5439](https://github.com/OWASP/Nest/pull/5439) |
+| chore(deps): bump sqlparse from 0.5.5 to 0.6.0 in /backend in the pip group across 1 directory | Medium | [#5438](https://github.com/OWASP/Nest/pull/5438) |
 | Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
 | Updated crp-model to include default certificate | Medium | [#5420](https://github.com/OWASP/Nest/pull/5420) |
 | fix: upgrade @heroui/react to v3 | Medium | [#5389](https://github.com/OWASP/Nest/pull/5389) |
@@ -348,7 +350,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the minor-and-patch group across 1 directory with 53 updates | Medium | [#1486](https://github.com/Muneerali199/Draftdeckai/pull/1486) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 57 updates | Medium | [#1487](https://github.com/Muneerali199/Draftdeckai/pull/1487) |
 | BLOCK — PR #1471 | Medium | [#1485](https://github.com/Muneerali199/Draftdeckai/issues/1485) |
 | BLOCK — PR #1471 | Medium | [#1484](https://github.com/Muneerali199/Draftdeckai/issues/1484) |
 | BLOCK — PR #1482 | Medium | [#1483](https://github.com/Muneerali199/Draftdeckai/issues/1483) |
