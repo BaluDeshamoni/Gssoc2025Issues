@@ -192,17 +192,21 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(infra): Enable NAT gateway for staging & use private subnets | Easy | [#5432](https://github.com/OWASP/Nest/pull/5432) |
+| feat(o11y): add Grafana and stable VM endpoint | Easy | [#5405](https://github.com/OWASP/Nest/pull/5405) |
+| Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| chore(deps): bump dompurify from 3.4.12 to 3.4.13 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#5382](https://github.com/OWASP/Nest/pull/5382) |
+| Update NestBot manifest file | Medium | [#5439](https://github.com/OWASP/Nest/pull/5439) |
+| chore(deps): bump sqlparse from 0.5.5 to 0.6.0 in /backend in the pip group across 1 directory | Medium | [#5438](https://github.com/OWASP/Nest/pull/5438) |
+| Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
+| Updated crp-model to include default certificate | Medium | [#5420](https://github.com/OWASP/Nest/pull/5420) |
+| fix: upgrade @heroui/react to v3 | Medium | [#5389](https://github.com/OWASP/Nest/pull/5389) |
 | Implement GraphQL queries for Pulse activity events | Medium | [#5381](https://github.com/OWASP/Nest/pull/5381) |
-| Optimize top_contributors resolver in CommitteeNode | Medium | [#5380](https://github.com/OWASP/Nest/pull/5380) |
 | Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
 | Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
-| Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
 | Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
 | Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
-| Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
 
 ---
 
@@ -707,6 +711,7 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| docs: improve contributor onboarding and setup | Medium | [#758](https://github.com/GitMetricsLab/github_tracker/pull/758) |
 | fix: code quality and safety improvements | Medium | [#757](https://github.com/GitMetricsLab/github_tracker/pull/757) |
 | fix: code quality and safety improvements | Medium | [#756](https://github.com/GitMetricsLab/github_tracker/pull/756) |
 | fix: code quality and safety improvements | Medium | [#755](https://github.com/GitMetricsLab/github_tracker/pull/755) |
@@ -1306,6 +1311,7 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(security): sanitize user input in contact form email body | Medium | [#130](https://github.com/CoderUzumaki/PrepEdge-AI/pull/130) |
 | chore(deps): bump the production-dependencies group across 1 directory with 35 updates | Medium | [#129](https://github.com/CoderUzumaki/PrepEdge-AI/pull/129) |
 | Missing Graceful Shutdown in Express Server | Medium | [#128](https://github.com/CoderUzumaki/PrepEdge-AI/issues/128) |
 | Install Vercel Web Analytics | Medium | [#121](https://github.com/CoderUzumaki/PrepEdge-AI/pull/121) |
@@ -1745,6 +1751,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Registration Page Layout & Usability | Medium | [#733](https://github.com/lovelymahor/StudyMatePlus/issues/733) |
+| Hero Section UI Redesign | Medium | [#732](https://github.com/lovelymahor/StudyMatePlus/issues/732) |
 | Implement a spaced repetition study scheduler for saved notes — help students retain material more effectively | Medium | [#731](https://github.com/lovelymahor/StudyMatePlus/issues/731) |
 | Add file upload validation for PYQ papers — enforce file type, size limit, and virus-scan placeholder | Medium | [#730](https://github.com/lovelymahor/StudyMatePlus/issues/730) |
 | Add GitHub Actions CI pipeline — automate lint, build, and test for both client and server on every PR | Medium | [#729](https://github.com/lovelymahor/StudyMatePlus/issues/729) |
@@ -1773,8 +1781,6 @@ Fast Workflow Tools
 | MindMapEditor.js: search feature is dead code, never wired to the UI | Medium | [#706](https://github.com/lovelymahor/StudyMatePlus/issues/706) |
 | Syllabus.js: broken useMemo dependency array prevents memoization from updating | Medium | [#705](https://github.com/lovelymahor/StudyMatePlus/issues/705) |
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
-| Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
-| Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
 
 ---
 
@@ -2006,7 +2012,13 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: make Ollama base URL configurable via OLLAMA_BASE_URL env var | Medium | [#309](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/309) |
+| feat(core): implement SSE streaming (fixes #316) | Medium | [#326](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/326) |
+| feat(core): decouple LLM engine via Factory Pattern (fixes #315) | Medium | [#325](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/325) |
+| feat(security): implement SSRF mitigation layer for web requests (fixes #317) | Medium | [#324](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/324) |
+| Contact honeypot returns a 400 that reveals the trap instead of faking success | Medium | [#322](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/322) |
+| Duplicate CORS registration — wildcard CORS(app) overrides the localhost-only /api/* policy | Medium | [#321](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/321) |
+| /chat/stream file upload drops user_id — logged-in session saved as orphaned guest session | Medium | [#320](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/320) |
+| /chat and /chat/stream append messages to any session_id without ownership check (IDOR) | Medium | [#319](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/319) |
 
 ---
 
