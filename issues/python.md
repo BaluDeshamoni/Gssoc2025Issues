@@ -207,17 +207,21 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(infra): Enable NAT gateway for staging & use private subnets | Easy | [#5432](https://github.com/OWASP/Nest/pull/5432) |
+| feat(o11y): add Grafana and stable VM endpoint | Easy | [#5405](https://github.com/OWASP/Nest/pull/5405) |
+| Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| chore(deps): bump dompurify from 3.4.12 to 3.4.13 in /frontend in the npm_and_yarn group across 1 directory | Medium | [#5382](https://github.com/OWASP/Nest/pull/5382) |
+| Update NestBot manifest file | Medium | [#5439](https://github.com/OWASP/Nest/pull/5439) |
+| chore(deps): bump sqlparse from 0.5.5 to 0.6.0 in /backend in the pip group across 1 directory | Medium | [#5438](https://github.com/OWASP/Nest/pull/5438) |
+| Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
+| Updated crp-model to include default certificate | Medium | [#5420](https://github.com/OWASP/Nest/pull/5420) |
+| fix: upgrade @heroui/react to v3 | Medium | [#5389](https://github.com/OWASP/Nest/pull/5389) |
 | Implement GraphQL queries for Pulse activity events | Medium | [#5381](https://github.com/OWASP/Nest/pull/5381) |
-| Optimize top_contributors resolver in CommitteeNode | Medium | [#5380](https://github.com/OWASP/Nest/pull/5380) |
 | Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
 | Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
-| Standardize CRP Certificate GraphQL validation | Medium | [#5345](https://github.com/OWASP/Nest/pull/5345) |
 | Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
 | Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
-| Repositories static sitemap lastmod always uses current time instead of latest repository update | Medium | [#5259](https://github.com/OWASP/Nest/issues/5259) |
 
 ---
 
@@ -975,24 +979,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 ---
 
-## 📌 Project: PyVerse
-
-📝 **Description:** PyVerse is an open-source collection of diverse Python projects, tools, and scripts, ranging from beginner to advanced, across various domains like machine learning, web development, and automation.
-
-🔗 [View Project](https://github.com/UTSAVS26/PyVerse)
-
-💻 **Tech Stack:** Python
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| 🧑‍💻: Add README.md for a Beginner Python Project Folder | Medium | [#1817](https://github.com/UTSAVS26/PyVerse/issues/1817) |
-
----
-
 ## 📌 Project: White Paper
 
 📝 **Description:** The White Paper project is a simple notepad app built with Python Django. It allows users to create, save, and manage notes with a secure authentication system to keep their data private. Users can sign up, log in, and access their notes, offering a seamless and secure note-taking experience.
@@ -1054,6 +1040,10 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Implement Real-Time Search Bar, Keyword Highlighting, and ARIA Live Regions in Health Vault (health-vault.html) | Medium | [#649](https://github.com/aayushraj1010/med-genie/issues/649) |
+| fix(auth): resolve forgot password API Prisma schema mismatch | Medium | [#648](https://github.com/aayushraj1010/med-genie/pull/648) |
+| fix: log actual chat errors for better debuggability | Medium | [#647](https://github.com/aayushraj1010/med-genie/pull/647) |
+| docs: remove leftover AI-generated artifact text from README | Medium | [#646](https://github.com/aayushraj1010/med-genie/pull/646) |
 | No Loading State or Error Handling on AI Response Fetch — Users See Blank Screen During API Calls | Medium | [#645](https://github.com/aayushraj1010/med-genie/issues/645) |
 | Add Medication Reminder and Drug Interaction Checker Feature | Medium | [#644](https://github.com/aayushraj1010/med-genie/issues/644) |
 | Implement Symptom History and Session Persistence So Users Can Track Their Health Queries Over Time | Medium | [#643](https://github.com/aayushraj1010/med-genie/issues/643) |
@@ -1080,10 +1070,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | fix: code quality and safety improvements | Medium | [#621](https://github.com/aayushraj1010/med-genie/pull/621) |
 | fix: code quality and safety improvements | Medium | [#620](https://github.com/aayushraj1010/med-genie/pull/620) |
 | fix: code quality and safety improvements | Medium | [#619](https://github.com/aayushraj1010/med-genie/pull/619) |
-| fix: code quality and safety improvements | Medium | [#618](https://github.com/aayushraj1010/med-genie/pull/618) |
-| fix: improve error handling | Medium | [#617](https://github.com/aayushraj1010/med-genie/pull/617) |
-| fix: add safety checks | Medium | [#616](https://github.com/aayushraj1010/med-genie/pull/616) |
-| fix: improve error handling | Medium | [#615](https://github.com/aayushraj1010/med-genie/pull/615) |
 
 ---
 
@@ -1324,25 +1310,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | feat: enhance Streamlit UI and fix CI configuration | Medium | [#35](https://github.com/my-projects-it/Shakti-app/pull/35) |
-
----
-
-## 📌 Project: ZBOT
-
-📝 **Description:** Its a personal AI agent like harvis used to automate stuffs
-
-🔗 [View Project](https://github.com/DishaA06/ZBOT)
-
-💻 **Tech Stack:** Python
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Add Pull Request (PR) Template | Medium | [#25](https://github.com/DishaA06/ZBOT/issues/25) |
-| Improve and Standardize GitHub Issue Template for Better Clarity | Medium | [#24](https://github.com/DishaA06/ZBOT/issues/24) |
 
 ---
 
@@ -1666,7 +1633,13 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: make Ollama base URL configurable via OLLAMA_BASE_URL env var | Medium | [#309](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/309) |
+| feat(core): implement SSE streaming (fixes #316) | Medium | [#326](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/326) |
+| feat(core): decouple LLM engine via Factory Pattern (fixes #315) | Medium | [#325](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/325) |
+| feat(security): implement SSRF mitigation layer for web requests (fixes #317) | Medium | [#324](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/324) |
+| Contact honeypot returns a 400 that reveals the trap instead of faking success | Medium | [#322](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/322) |
+| Duplicate CORS registration — wildcard CORS(app) overrides the localhost-only /api/* policy | Medium | [#321](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/321) |
+| /chat/stream file upload drops user_id — logged-in session saved as orphaned guest session | Medium | [#320](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/320) |
+| /chat and /chat/stream append messages to any session_id without ownership check (IDOR) | Medium | [#319](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/319) |
 
 ---
 
