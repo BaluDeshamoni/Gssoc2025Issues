@@ -197,6 +197,8 @@ Accessibility features like dark mode,white.
 | Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| chore(deps): bump the version-updates group across 1 directory with 2 updates | Medium | [#5441](https://github.com/OWASP/Nest/pull/5441) |
+| chore(deps): bump the version-updates group across 1 directory with 2 updates | Medium | [#5440](https://github.com/OWASP/Nest/pull/5440) |
 | Update NestBot manifest file | Medium | [#5439](https://github.com/OWASP/Nest/pull/5439) |
 | chore(deps): bump sqlparse from 0.5.5 to 0.6.0 in /backend in the pip group across 1 directory | Medium | [#5438](https://github.com/OWASP/Nest/pull/5438) |
 | Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
@@ -2012,6 +2014,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Uploading an image into a named chat silently resets its title to "How can I help you?" | Medium | [#329](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/329) |
+| NoSQL operator injection at the auth boundary — email/password taken from JSON with no type check | Medium | [#328](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/328) |
+| No rate limiting on auth endpoints (/api/login, /api/register, /api/auth/google) — unbounded brute-force | Medium | [#327](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/327) |
 | feat(core): implement SSE streaming (fixes #316) | Medium | [#326](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/326) |
 | feat(core): decouple LLM engine via Factory Pattern (fixes #315) | Medium | [#325](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/325) |
 | feat(security): implement SSRF mitigation layer for web requests (fixes #317) | Medium | [#324](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/324) |
