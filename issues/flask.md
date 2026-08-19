@@ -370,6 +370,9 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Uploading an image into a named chat silently resets its title to "How can I help you?" | Medium | [#329](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/329) |
+| NoSQL operator injection at the auth boundary — email/password taken from JSON with no type check | Medium | [#328](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/328) |
+| No rate limiting on auth endpoints (/api/login, /api/register, /api/auth/google) — unbounded brute-force | Medium | [#327](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/327) |
 | feat(core): implement SSE streaming (fixes #316) | Medium | [#326](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/326) |
 | feat(core): decouple LLM engine via Factory Pattern (fixes #315) | Medium | [#325](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/325) |
 | feat(security): implement SSRF mitigation layer for web requests (fixes #317) | Medium | [#324](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/324) |
