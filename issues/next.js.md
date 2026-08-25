@@ -160,13 +160,13 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(infra): Enable NAT gateway for staging & use private subnets | Easy | [#5432](https://github.com/OWASP/Nest/pull/5432) |
+| LocalStack Build And Push Docker Images and Other Improvements | Easy | [#5463](https://github.com/OWASP/Nest/pull/5463) |
 | feat(o11y): add Grafana and stable VM endpoint | Easy | [#5405](https://github.com/OWASP/Nest/pull/5405) |
 | Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| Update NestBot manifest file | Medium | [#5439](https://github.com/OWASP/Nest/pull/5439) |
-| chore(deps): bump sqlparse from 0.5.5 to 0.6.0 in /backend in the pip group across 1 directory | Medium | [#5438](https://github.com/OWASP/Nest/pull/5438) |
+| PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
+| Crp certificate issuer | Medium | [#5446](https://github.com/OWASP/Nest/pull/5446) |
 | Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
 | Updated crp-model to include default certificate | Medium | [#5420](https://github.com/OWASP/Nest/pull/5420) |
 | fix: upgrade @heroui/react to v3 | Medium | [#5389](https://github.com/OWASP/Nest/pull/5389) |
@@ -198,25 +198,6 @@
 | Feature/accessibility improvements [GSSoC 2025] | Medium | [#127](https://github.com/AyushSharma72/Skill_Trade/pull/127) |
 | Add GSSoC'25 Banner. | Medium | [#126](https://github.com/AyushSharma72/Skill_Trade/issues/126) |
 | Fix the mobile responsiveness of contact form on contact page | Medium | [#123](https://github.com/AyushSharma72/Skill_Trade/issues/123) |
-
----
-
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Improve form validation and error handling across the HEALCONNECT application. | Medium | [#761](https://github.com/Dipanita45/HEALCONNECT/issues/761) |
-| 🐛 Bug: Improve Form Validation and Error Handling | Medium | [#760](https://github.com/Dipanita45/HEALCONNECT/issues/760) |
 
 ---
 
@@ -350,7 +331,7 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the minor-and-patch group across 1 directory with 57 updates | Medium | [#1487](https://github.com/Muneerali199/Draftdeckai/pull/1487) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 60 updates | Medium | [#1488](https://github.com/Muneerali199/Draftdeckai/pull/1488) |
 | BLOCK — PR #1471 | Medium | [#1485](https://github.com/Muneerali199/Draftdeckai/issues/1485) |
 | BLOCK — PR #1471 | Medium | [#1484](https://github.com/Muneerali199/Draftdeckai/issues/1484) |
 | BLOCK — PR #1482 | Medium | [#1483](https://github.com/Muneerali199/Draftdeckai/issues/1483) |
@@ -491,17 +472,20 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Fix/faq heading and spacing fix #1990 | Easy | [#2084](https://github.com/recodehive/recode-website/pull/2084) |
+| Fix/2070 logo night mode | Easy | [#2083](https://github.com/recodehive/recode-website/pull/2083) |
+| fix: profile dropdown clipped behind collapsed sidebar (#2072) | Easy | [#2082](https://github.com/recodehive/recode-website/pull/2082) |
+| fix: redirect Read Blog footer button to /blogs (#2074) | Easy | [#2081](https://github.com/recodehive/recode-website/pull/2081) |
+| chore: bump lucide-react from 0.503.0 to 1.31.0 | Easy | [#2080](https://github.com/recodehive/recode-website/pull/2080) |
+| chore: bump @typescript-eslint/parser from 8.66.0 to 8.67.0 | Easy | [#2079](https://github.com/recodehive/recode-website/pull/2079) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.66.0 to 8.67.0 | Easy | [#2078](https://github.com/recodehive/recode-website/pull/2078) |
+| chore: bump @clerk/react from 6.12.11 to 6.14.3 | Easy | [#2077](https://github.com/recodehive/recode-website/pull/2077) |
+| chore: bump framer-motion from 12.43.0 to 13.1.0 | Easy | [#2076](https://github.com/recodehive/recode-website/pull/2076) |
 | Redirect Read Blog Button | Easy | [#2074](https://github.com/recodehive/recode-website/issues/2074) |
-| 🐞[Bug]: Overlapping Text in Button | Easy | [#2073](https://github.com/recodehive/recode-website/issues/2073) |
 | 🐞[Bug]: Profile Dropdown Hidden Behind Sidebar | Easy | [#2072](https://github.com/recodehive/recode-website/issues/2072) |
 | Leaderboard Badge hover shape changes | Easy | [#2071](https://github.com/recodehive/recode-website/issues/2071) |
 | Recode Hive Logo Not Visible in Night Mode | Easy | [#2070](https://github.com/recodehive/recode-website/issues/2070) |
 | 🐞[Bug]: Desktop navbar hamburger menu does not display navigation items | Easy | [#2069](https://github.com/recodehive/recode-website/issues/2069) |
-| chore: bump eslint from 10.7.0 to 10.8.1 | Easy | [#2068](https://github.com/recodehive/recode-website/pull/2068) |
-| chore: bump lucide-react from 0.503.0 to 1.30.0 | Easy | [#2067](https://github.com/recodehive/recode-website/pull/2067) |
-| chore: bump postcss from 8.5.24 to 8.5.26 | Easy | [#2066](https://github.com/recodehive/recode-website/pull/2066) |
-| chore: bump styled-components from 6.5.0 to 6.5.1 | Easy | [#2065](https://github.com/recodehive/recode-website/pull/2065) |
-| chore: bump framer-motion from 12.43.0 to 13.0.0 | Easy | [#2064](https://github.com/recodehive/recode-website/pull/2064) |
 | Home page FAQ Changes | Easy | [#1990](https://github.com/recodehive/recode-website/issues/1990) |
 
 ---
@@ -1147,13 +1131,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(core): implement SSE streaming (fixes #316) | Medium | [#326](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/326) |
-| feat(core): decouple LLM engine via Factory Pattern (fixes #315) | Medium | [#325](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/325) |
-| feat(security): implement SSRF mitigation layer for web requests (fixes #317) | Medium | [#324](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/324) |
-| Contact honeypot returns a 400 that reveals the trap instead of faking success | Medium | [#322](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/322) |
-| Duplicate CORS registration — wildcard CORS(app) overrides the localhost-only /api/* policy | Medium | [#321](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/321) |
-| /chat/stream file upload drops user_id — logged-in session saved as orphaned guest session | Medium | [#320](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/320) |
-| /chat and /chat/stream append messages to any session_id without ownership check (IDOR) | Medium | [#319](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/319) |
+| FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
 
 ---
 
