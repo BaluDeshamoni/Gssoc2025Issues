@@ -115,7 +115,7 @@ Civix is a civic tech solution that empowers citizens to report and track local 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the minor-and-patch group across 1 directory with 57 updates | Medium | [#1487](https://github.com/Muneerali199/Draftdeckai/pull/1487) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 60 updates | Medium | [#1488](https://github.com/Muneerali199/Draftdeckai/pull/1488) |
 | BLOCK — PR #1471 | Medium | [#1485](https://github.com/Muneerali199/Draftdeckai/issues/1485) |
 | BLOCK — PR #1471 | Medium | [#1484](https://github.com/Muneerali199/Draftdeckai/issues/1484) |
 | BLOCK — PR #1482 | Medium | [#1483](https://github.com/Muneerali199/Draftdeckai/issues/1483) |
@@ -355,8 +355,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| fix(backend): persist add-on inventory in database with atomic decrement (#19087) | Medium | [#19162](https://github.com/SandeepVashishtha/Eventra/pull/19162) |
 | Add JWT token expiry handling with automatic silent refresh and graceful logout on session expiration | Medium | [#19153](https://github.com/SandeepVashishtha/Eventra/issues/19153) |
-| Add open-source project showcase with upvoting system and community discovery feed | Medium | [#19152](https://github.com/SandeepVashishtha/Eventra/issues/19152) |
 | Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19151](https://github.com/SandeepVashishtha/Eventra/issues/19151) |
 | Add recurring event support — allow organizers to schedule weekly, monthly, or custom-interval events | Medium | [#19150](https://github.com/SandeepVashishtha/Eventra/issues/19150) |
 | Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19149](https://github.com/SandeepVashishtha/Eventra/issues/19149) |
