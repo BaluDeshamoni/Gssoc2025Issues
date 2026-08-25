@@ -958,7 +958,6 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Live Deployment for Project | Medium | [#74](https://github.com/sania28/clubmate/issues/74) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
 
@@ -2062,7 +2061,6 @@ Fast Workflow Tools
 | Add Feedback Button Above Footer | Medium | [#42](https://github.com/vishvboda/RupeeFi/issues/42) |
 | animating the sidebar(mobile view) | Medium | [#41](https://github.com/vishvboda/RupeeFi/issues/41) |
 | Feature: Implement Loan Management Feature for Personal Finance Section | Medium | [#40](https://github.com/vishvboda/RupeeFi/issues/40) |
-| Update README.md (Fix content table links) | Medium | [#39](https://github.com/vishvboda/RupeeFi/pull/39) |
 | Enhance blog page UI with hover effects and styling improvements | Medium | [#38](https://github.com/vishvboda/RupeeFi/pull/38) |
 | Fix: Learn More button now navigates to Blog page | Medium | [#37](https://github.com/vishvboda/RupeeFi/pull/37) |
 | Enhance Dashboard UI to Align with Website Aesthetics | Medium | [#36](https://github.com/vishvboda/RupeeFi/issues/36) |
