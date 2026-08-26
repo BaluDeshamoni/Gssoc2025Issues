@@ -207,13 +207,13 @@ Make informed mentorship choices through intelligent matching and profile-based 
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(infra): Enable NAT gateway for staging & use private subnets | Easy | [#5432](https://github.com/OWASP/Nest/pull/5432) |
+| LocalStack Build And Push Docker Images and Other Improvements | Easy | [#5463](https://github.com/OWASP/Nest/pull/5463) |
 | feat(o11y): add Grafana and stable VM endpoint | Easy | [#5405](https://github.com/OWASP/Nest/pull/5405) |
 | Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| Update NestBot manifest file | Medium | [#5439](https://github.com/OWASP/Nest/pull/5439) |
-| chore(deps): bump sqlparse from 0.5.5 to 0.6.0 in /backend in the pip group across 1 directory | Medium | [#5438](https://github.com/OWASP/Nest/pull/5438) |
+| PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
+| Crp certificate issuer | Medium | [#5446](https://github.com/OWASP/Nest/pull/5446) |
 | Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
 | Updated crp-model to include default certificate | Medium | [#5420](https://github.com/OWASP/Nest/pull/5420) |
 | fix: upgrade @heroui/react to v3 | Medium | [#5389](https://github.com/OWASP/Nest/pull/5389) |
@@ -573,8 +573,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Updates README.md | Medium | [#1864](https://github.com/omroy07/AgriTech/pull/1864) |
 | fix: resolve cart visibility issue | Medium | [#1863](https://github.com/omroy07/AgriTech/pull/1863) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
-| feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
-| Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
+| feat: Add livestock management - 20 | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
+| Level Up Page Structure - 10 | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
 | feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
 | Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
@@ -797,7 +797,6 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Live Deployment for Project | Medium | [#74](https://github.com/sania28/clubmate/issues/74) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
 
@@ -1633,13 +1632,7 @@ The goal of the project is to make this simulation more interactive, modular, an
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(core): implement SSE streaming (fixes #316) | Medium | [#326](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/326) |
-| feat(core): decouple LLM engine via Factory Pattern (fixes #315) | Medium | [#325](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/325) |
-| feat(security): implement SSRF mitigation layer for web requests (fixes #317) | Medium | [#324](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/324) |
-| Contact honeypot returns a 400 that reveals the trap instead of faking success | Medium | [#322](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/322) |
-| Duplicate CORS registration — wildcard CORS(app) overrides the localhost-only /api/* policy | Medium | [#321](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/321) |
-| /chat/stream file upload drops user_id — logged-in session saved as orphaned guest session | Medium | [#320](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/320) |
-| /chat and /chat/stream append messages to any session_id without ownership check (IDOR) | Medium | [#319](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/319) |
+| FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
 
 ---
 
