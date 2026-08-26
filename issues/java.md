@@ -1069,19 +1069,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Fix/faq heading and spacing fix #1990 | Easy | [#2084](https://github.com/recodehive/recode-website/pull/2084) |
-| Fix/2070 logo night mode | Easy | [#2083](https://github.com/recodehive/recode-website/pull/2083) |
-| fix: profile dropdown clipped behind collapsed sidebar (#2072) | Easy | [#2082](https://github.com/recodehive/recode-website/pull/2082) |
-| fix: redirect Read Blog footer button to /blogs (#2074) | Easy | [#2081](https://github.com/recodehive/recode-website/pull/2081) |
-| chore: bump lucide-react from 0.503.0 to 1.31.0 | Easy | [#2080](https://github.com/recodehive/recode-website/pull/2080) |
-| chore: bump @typescript-eslint/parser from 8.66.0 to 8.67.0 | Easy | [#2079](https://github.com/recodehive/recode-website/pull/2079) |
-| chore: bump @typescript-eslint/eslint-plugin from 8.66.0 to 8.67.0 | Easy | [#2078](https://github.com/recodehive/recode-website/pull/2078) |
-| chore: bump @clerk/react from 6.12.11 to 6.14.3 | Easy | [#2077](https://github.com/recodehive/recode-website/pull/2077) |
-| chore: bump framer-motion from 12.43.0 to 13.1.0 | Easy | [#2076](https://github.com/recodehive/recode-website/pull/2076) |
+| chore: bump framer-motion from 12.43.0 to 13.1.1 | Easy | [#2089](https://github.com/recodehive/recode-website/pull/2089) |
+| chore: bump @clerk/react from 6.12.11 to 6.14.5 | Easy | [#2088](https://github.com/recodehive/recode-website/pull/2088) |
 | Redirect Read Blog Button | Easy | [#2074](https://github.com/recodehive/recode-website/issues/2074) |
-| 🐞[Bug]: Profile Dropdown Hidden Behind Sidebar | Easy | [#2072](https://github.com/recodehive/recode-website/issues/2072) |
 | Leaderboard Badge hover shape changes | Easy | [#2071](https://github.com/recodehive/recode-website/issues/2071) |
-| Recode Hive Logo Not Visible in Night Mode | Easy | [#2070](https://github.com/recodehive/recode-website/issues/2070) |
 | 🐞[Bug]: Desktop navbar hamburger menu does not display navigation items | Easy | [#2069](https://github.com/recodehive/recode-website/issues/2069) |
 | Home page FAQ Changes | Easy | [#1990](https://github.com/recodehive/recode-website/issues/1990) |
 
