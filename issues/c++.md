@@ -1,24 +1,5 @@
 # 🚀 Projects using C++
 
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Improve form validation and error handling across the HEALCONNECT application. | Medium | [#761](https://github.com/Dipanita45/HEALCONNECT/issues/761) |
-| 🐛 Bug: Improve Form Validation and Error Handling | Medium | [#760](https://github.com/Dipanita45/HEALCONNECT/issues/760) |
-
----
-
 ## 📌 Project: cpp-sdk-appwrite
 
 📝 **Description:** The first ever C++ SDK for Appwrite, build from scratch!
