@@ -208,8 +208,8 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Updates README.md | Medium | [#1864](https://github.com/omroy07/AgriTech/pull/1864) |
 | fix: resolve cart visibility issue | Medium | [#1863](https://github.com/omroy07/AgriTech/pull/1863) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
-| feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
-| Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
+| feat: Add livestock management - 20 | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
+| Level Up Page Structure - 10 | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
 | feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
 | Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
@@ -370,16 +370,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Uploading an image into a named chat silently resets its title to "How can I help you?" | Medium | [#329](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/329) |
-| NoSQL operator injection at the auth boundary — email/password taken from JSON with no type check | Medium | [#328](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/328) |
-| No rate limiting on auth endpoints (/api/login, /api/register, /api/auth/google) — unbounded brute-force | Medium | [#327](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/327) |
-| feat(core): implement SSE streaming (fixes #316) | Medium | [#326](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/326) |
-| feat(core): decouple LLM engine via Factory Pattern (fixes #315) | Medium | [#325](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/325) |
-| feat(security): implement SSRF mitigation layer for web requests (fixes #317) | Medium | [#324](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/324) |
-| Contact honeypot returns a 400 that reveals the trap instead of faking success | Medium | [#322](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/322) |
-| Duplicate CORS registration — wildcard CORS(app) overrides the localhost-only /api/* policy | Medium | [#321](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/321) |
-| /chat/stream file upload drops user_id — logged-in session saved as orphaned guest session | Medium | [#320](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/320) |
-| /chat and /chat/stream append messages to any session_id without ownership check (IDOR) | Medium | [#319](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/319) |
+| FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
 
 ---
 
