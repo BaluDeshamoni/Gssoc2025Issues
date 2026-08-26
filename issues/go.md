@@ -192,15 +192,13 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(infra): Enable NAT gateway for staging & use private subnets | Easy | [#5432](https://github.com/OWASP/Nest/pull/5432) |
+| LocalStack Build And Push Docker Images and Other Improvements | Easy | [#5463](https://github.com/OWASP/Nest/pull/5463) |
 | feat(o11y): add Grafana and stable VM endpoint | Easy | [#5405](https://github.com/OWASP/Nest/pull/5405) |
 | Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| chore(deps): bump the version-updates group across 1 directory with 2 updates | Medium | [#5441](https://github.com/OWASP/Nest/pull/5441) |
-| chore(deps): bump the version-updates group across 1 directory with 2 updates | Medium | [#5440](https://github.com/OWASP/Nest/pull/5440) |
-| Update NestBot manifest file | Medium | [#5439](https://github.com/OWASP/Nest/pull/5439) |
-| chore(deps): bump sqlparse from 0.5.5 to 0.6.0 in /backend in the pip group across 1 directory | Medium | [#5438](https://github.com/OWASP/Nest/pull/5438) |
+| PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
+| Crp certificate issuer | Medium | [#5446](https://github.com/OWASP/Nest/pull/5446) |
 | Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
 | Updated crp-model to include default certificate | Medium | [#5420](https://github.com/OWASP/Nest/pull/5420) |
 | fix: upgrade @heroui/react to v3 | Medium | [#5389](https://github.com/OWASP/Nest/pull/5389) |
@@ -2014,16 +2012,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Uploading an image into a named chat silently resets its title to "How can I help you?" | Medium | [#329](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/329) |
-| NoSQL operator injection at the auth boundary — email/password taken from JSON with no type check | Medium | [#328](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/328) |
-| No rate limiting on auth endpoints (/api/login, /api/register, /api/auth/google) — unbounded brute-force | Medium | [#327](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/327) |
-| feat(core): implement SSE streaming (fixes #316) | Medium | [#326](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/326) |
-| feat(core): decouple LLM engine via Factory Pattern (fixes #315) | Medium | [#325](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/325) |
-| feat(security): implement SSRF mitigation layer for web requests (fixes #317) | Medium | [#324](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/324) |
-| Contact honeypot returns a 400 that reveals the trap instead of faking success | Medium | [#322](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/322) |
-| Duplicate CORS registration — wildcard CORS(app) overrides the localhost-only /api/* policy | Medium | [#321](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/321) |
-| /chat/stream file upload drops user_id — logged-in session saved as orphaned guest session | Medium | [#320](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/320) |
-| /chat and /chat/stream append messages to any session_id without ownership check (IDOR) | Medium | [#319](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/319) |
+| FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
 
 ---
 
@@ -2280,7 +2269,6 @@ Fast Workflow Tools
 | Add Feedback Button Above Footer | Medium | [#42](https://github.com/vishvboda/RupeeFi/issues/42) |
 | animating the sidebar(mobile view) | Medium | [#41](https://github.com/vishvboda/RupeeFi/issues/41) |
 | Feature: Implement Loan Management Feature for Personal Finance Section | Medium | [#40](https://github.com/vishvboda/RupeeFi/issues/40) |
-| Update README.md (Fix content table links) | Medium | [#39](https://github.com/vishvboda/RupeeFi/pull/39) |
 | Enhance blog page UI with hover effects and styling improvements | Medium | [#38](https://github.com/vishvboda/RupeeFi/pull/38) |
 | Fix: Learn More button now navigates to Blog page | Medium | [#37](https://github.com/vishvboda/RupeeFi/pull/37) |
 | Enhance Dashboard UI to Align with Website Aesthetics | Medium | [#36](https://github.com/vishvboda/RupeeFi/issues/36) |
