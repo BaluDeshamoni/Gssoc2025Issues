@@ -424,25 +424,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 
 ---
 
-## 📌 Project: Healconnect 
-
-📝 **Description:** A  health monitoring system that provides real-time tracking of vital signs, helping users manage their well-being with accurate data and smart insights—all in one easy-to-use platform.
-
-🔗 [View Project](https://github.com/Dipanita45/HEALCONNECT)
-
-💻 **Tech Stack:** Next.js, JavaScript, C++, Tailwind CSS
-
----
-
-### 🐛 Unassigned Issues
-
-| 🔖 Title | 🎯 Difficulty | 🔗 Link |
-|----------|----------------|---------|
-| Improve form validation and error handling across the HEALCONNECT application. | Medium | [#761](https://github.com/Dipanita45/HEALCONNECT/issues/761) |
-| 🐛 Bug: Improve Form Validation and Error Handling | Medium | [#760](https://github.com/Dipanita45/HEALCONNECT/issues/760) |
-
----
-
 ## 📌 Project: Blogging Platform
 
 📝 **Description:** User friendly Interface where users can create accounts and post blogs on any topic and also allows users to read other blogs based on preference and intrest ,also allows sharing 
@@ -749,8 +730,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | Updates README.md | Medium | [#1864](https://github.com/omroy07/AgriTech/pull/1864) |
 | fix: resolve cart visibility issue | Medium | [#1863](https://github.com/omroy07/AgriTech/pull/1863) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
-| feat: Add livestock management | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
-| Level Up Page Structure | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
+| feat: Add livestock management - 20 | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
+| Level Up Page Structure - 10 | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
 | feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
 | Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
@@ -1069,7 +1050,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Add Live Deployment for Project | Medium | [#74](https://github.com/sania28/clubmate/issues/74) |
 | homepage changes and login/signup buttons | Medium | [#29](https://github.com/sania28/clubmate/pull/29) |
 | Add Login & Signup Pages with Real-Time Validation & Styling | Medium | [#26](https://github.com/sania28/clubmate/pull/26) |
 
@@ -1089,17 +1069,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump framer-motion from 12.43.0 to 13.1.1 | Easy | [#2089](https://github.com/recodehive/recode-website/pull/2089) |
+| chore: bump @clerk/react from 6.12.11 to 6.14.5 | Easy | [#2088](https://github.com/recodehive/recode-website/pull/2088) |
 | Redirect Read Blog Button | Easy | [#2074](https://github.com/recodehive/recode-website/issues/2074) |
-| 🐞[Bug]: Overlapping Text in Button | Easy | [#2073](https://github.com/recodehive/recode-website/issues/2073) |
-| 🐞[Bug]: Profile Dropdown Hidden Behind Sidebar | Easy | [#2072](https://github.com/recodehive/recode-website/issues/2072) |
 | Leaderboard Badge hover shape changes | Easy | [#2071](https://github.com/recodehive/recode-website/issues/2071) |
-| Recode Hive Logo Not Visible in Night Mode | Easy | [#2070](https://github.com/recodehive/recode-website/issues/2070) |
 | 🐞[Bug]: Desktop navbar hamburger menu does not display navigation items | Easy | [#2069](https://github.com/recodehive/recode-website/issues/2069) |
-| chore: bump eslint from 10.7.0 to 10.8.1 | Easy | [#2068](https://github.com/recodehive/recode-website/pull/2068) |
-| chore: bump lucide-react from 0.503.0 to 1.30.0 | Easy | [#2067](https://github.com/recodehive/recode-website/pull/2067) |
-| chore: bump postcss from 8.5.24 to 8.5.26 | Easy | [#2066](https://github.com/recodehive/recode-website/pull/2066) |
-| chore: bump styled-components from 6.5.0 to 6.5.1 | Easy | [#2065](https://github.com/recodehive/recode-website/pull/2065) |
-| chore: bump framer-motion from 12.43.0 to 13.0.0 | Easy | [#2064](https://github.com/recodehive/recode-website/pull/2064) |
 | Home page FAQ Changes | Easy | [#1990](https://github.com/recodehive/recode-website/issues/1990) |
 
 ---
@@ -1851,6 +1825,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve Registration Page Layout & Usability | Medium | [#733](https://github.com/lovelymahor/StudyMatePlus/issues/733) |
+| Hero Section UI Redesign | Medium | [#732](https://github.com/lovelymahor/StudyMatePlus/issues/732) |
 | Implement a spaced repetition study scheduler for saved notes — help students retain material more effectively | Medium | [#731](https://github.com/lovelymahor/StudyMatePlus/issues/731) |
 | Add file upload validation for PYQ papers — enforce file type, size limit, and virus-scan placeholder | Medium | [#730](https://github.com/lovelymahor/StudyMatePlus/issues/730) |
 | Add GitHub Actions CI pipeline — automate lint, build, and test for both client and server on every PR | Medium | [#729](https://github.com/lovelymahor/StudyMatePlus/issues/729) |
@@ -1879,8 +1855,6 @@ Fast Workflow Tools
 | MindMapEditor.js: search feature is dead code, never wired to the UI | Medium | [#706](https://github.com/lovelymahor/StudyMatePlus/issues/706) |
 | Syllabus.js: broken useMemo dependency array prevents memoization from updating | Medium | [#705](https://github.com/lovelymahor/StudyMatePlus/issues/705) |
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
-| Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
-| Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
 
 ---
 
