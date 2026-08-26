@@ -85,7 +85,7 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the minor-and-patch group across 1 directory with 57 updates | Medium | [#1487](https://github.com/Muneerali199/Draftdeckai/pull/1487) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 60 updates | Medium | [#1488](https://github.com/Muneerali199/Draftdeckai/pull/1488) |
 | BLOCK — PR #1471 | Medium | [#1485](https://github.com/Muneerali199/Draftdeckai/issues/1485) |
 | BLOCK — PR #1471 | Medium | [#1484](https://github.com/Muneerali199/Draftdeckai/issues/1484) |
 | BLOCK — PR #1482 | Medium | [#1483](https://github.com/Muneerali199/Draftdeckai/issues/1483) |
