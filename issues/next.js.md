@@ -165,6 +165,9 @@
 | Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| chore(deps): bump the version-updates group across 19 directories with 1 update | Medium | [#5483](https://github.com/OWASP/Nest/pull/5483) |
+| chore(deps): bump the version-updates group across 1 directory with 4 updates | Medium | [#5482](https://github.com/OWASP/Nest/pull/5482) |
+| chore(deps): bump astral-sh/uv from 0.12.1 to 0.12.2 in /docker/code-checks in the version-updates group across 1 directory | Medium | [#5481](https://github.com/OWASP/Nest/pull/5481) |
 | PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
 | Crp certificate issuer | Medium | [#5446](https://github.com/OWASP/Nest/pull/5446) |
 | Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
@@ -472,8 +475,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump framer-motion from 12.43.0 to 13.1.1 | Easy | [#2089](https://github.com/recodehive/recode-website/pull/2089) |
-| chore: bump @clerk/react from 6.12.11 to 6.14.5 | Easy | [#2088](https://github.com/recodehive/recode-website/pull/2088) |
 | Redirect Read Blog Button | Easy | [#2074](https://github.com/recodehive/recode-website/issues/2074) |
 | Leaderboard Badge hover shape changes | Easy | [#2071](https://github.com/recodehive/recode-website/issues/2071) |
 | 🐞[Bug]: Desktop navbar hamburger menu does not display navigation items | Easy | [#2069](https://github.com/recodehive/recode-website/issues/2069) |
@@ -1322,6 +1323,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(testimonials): add testimonials-hanging-cards block | Medium | [#144](https://github.com/subhadeeproy3902/mvpblocks/pull/144) |
+| fix: resolve Next.js build crashes caused by top-level third-party client initialization | Medium | [#143](https://github.com/subhadeeproy3902/mvpblocks/pull/143) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
