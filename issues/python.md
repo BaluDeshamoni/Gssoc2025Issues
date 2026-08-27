@@ -212,6 +212,9 @@ Make informed mentorship choices through intelligent matching and profile-based 
 | Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| chore(deps): bump the version-updates group across 19 directories with 1 update | Medium | [#5483](https://github.com/OWASP/Nest/pull/5483) |
+| chore(deps): bump the version-updates group across 1 directory with 4 updates | Medium | [#5482](https://github.com/OWASP/Nest/pull/5482) |
+| chore(deps): bump astral-sh/uv from 0.12.1 to 0.12.2 in /docker/code-checks in the version-updates group across 1 directory | Medium | [#5481](https://github.com/OWASP/Nest/pull/5481) |
 | PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
 | Crp certificate issuer | Medium | [#5446](https://github.com/OWASP/Nest/pull/5446) |
 | Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
