@@ -1069,8 +1069,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump framer-motion from 12.43.0 to 13.1.1 | Easy | [#2089](https://github.com/recodehive/recode-website/pull/2089) |
-| chore: bump @clerk/react from 6.12.11 to 6.14.5 | Easy | [#2088](https://github.com/recodehive/recode-website/pull/2088) |
 | Redirect Read Blog Button | Easy | [#2074](https://github.com/recodehive/recode-website/issues/2074) |
 | Leaderboard Badge hover shape changes | Easy | [#2071](https://github.com/recodehive/recode-website/issues/2071) |
 | 🐞[Bug]: Desktop navbar hamburger menu does not display navigation items | Easy | [#2069](https://github.com/recodehive/recode-website/issues/2069) |
