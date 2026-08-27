@@ -252,6 +252,9 @@ Accessibility features like dark mode,white.
 | Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| chore(deps): bump the version-updates group across 19 directories with 1 update | Medium | [#5483](https://github.com/OWASP/Nest/pull/5483) |
+| chore(deps): bump the version-updates group across 1 directory with 4 updates | Medium | [#5482](https://github.com/OWASP/Nest/pull/5482) |
+| chore(deps): bump astral-sh/uv from 0.12.1 to 0.12.2 in /docker/code-checks in the version-updates group across 1 directory | Medium | [#5481](https://github.com/OWASP/Nest/pull/5481) |
 | PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
 | Crp certificate issuer | Medium | [#5446](https://github.com/OWASP/Nest/pull/5446) |
 | Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
@@ -1548,8 +1551,8 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump the production-dependencies group across 1 directory with 36 updates | Medium | [#131](https://github.com/CoderUzumaki/PrepEdge-AI/pull/131) |
 | fix(security): sanitize user input in contact form email body | Medium | [#130](https://github.com/CoderUzumaki/PrepEdge-AI/pull/130) |
-| chore(deps): bump the production-dependencies group across 1 directory with 35 updates | Medium | [#129](https://github.com/CoderUzumaki/PrepEdge-AI/pull/129) |
 | Missing Graceful Shutdown in Express Server | Medium | [#128](https://github.com/CoderUzumaki/PrepEdge-AI/issues/128) |
 | Install Vercel Web Analytics | Medium | [#121](https://github.com/CoderUzumaki/PrepEdge-AI/pull/121) |
 | chore(deps-dev): bump eslint-plugin-react-refresh from 0.4.26 to 0.5.2 | Medium | [#119](https://github.com/CoderUzumaki/PrepEdge-AI/pull/119) |
@@ -2636,6 +2639,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat(testimonials): add testimonials-hanging-cards block | Medium | [#144](https://github.com/subhadeeproy3902/mvpblocks/pull/144) |
+| fix: resolve Next.js build crashes caused by top-level third-party client initialization | Medium | [#143](https://github.com/subhadeeproy3902/mvpblocks/pull/143) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
 | Add hero sections | Medium | [#6](https://github.com/subhadeeproy3902/mvpblocks/issues/6) |
