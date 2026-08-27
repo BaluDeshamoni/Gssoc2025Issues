@@ -905,8 +905,8 @@ W3nity lets startups, developers, and communities connect, collaborate, and tran
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore(deps): bump the production-dependencies group across 1 directory with 36 updates | Medium | [#131](https://github.com/CoderUzumaki/PrepEdge-AI/pull/131) |
 | fix(security): sanitize user input in contact form email body | Medium | [#130](https://github.com/CoderUzumaki/PrepEdge-AI/pull/130) |
-| chore(deps): bump the production-dependencies group across 1 directory with 35 updates | Medium | [#129](https://github.com/CoderUzumaki/PrepEdge-AI/pull/129) |
 | Missing Graceful Shutdown in Express Server | Medium | [#128](https://github.com/CoderUzumaki/PrepEdge-AI/issues/128) |
 | Install Vercel Web Analytics | Medium | [#121](https://github.com/CoderUzumaki/PrepEdge-AI/pull/121) |
 | chore(deps-dev): bump eslint-plugin-react-refresh from 0.4.26 to 0.5.2 | Medium | [#119](https://github.com/CoderUzumaki/PrepEdge-AI/pull/119) |
