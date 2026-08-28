@@ -98,9 +98,9 @@ Accessibility features like dark mode,white.
 | Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| chore(deps): bump the version-updates group across 19 directories with 1 update | Medium | [#5483](https://github.com/OWASP/Nest/pull/5483) |
-| chore(deps): bump the version-updates group across 1 directory with 4 updates | Medium | [#5482](https://github.com/OWASP/Nest/pull/5482) |
-| chore(deps): bump astral-sh/uv from 0.12.1 to 0.12.2 in /docker/code-checks in the version-updates group across 1 directory | Medium | [#5481](https://github.com/OWASP/Nest/pull/5481) |
+| chore(deps): bump the version-updates group across 1 directory with 3 updates | Medium | [#5486](https://github.com/OWASP/Nest/pull/5486) |
+| chore(deps): bump google/osv-scanner from v2.4.0 to v2.5.0 in /docker/osv-scanner in the version-updates group across 1 directory | Medium | [#5485](https://github.com/OWASP/Nest/pull/5485) |
+| chore(deps): bump the version-updates group across 1 directory with 3 updates | Medium | [#5484](https://github.com/OWASP/Nest/pull/5484) |
 | PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
 | Crp certificate issuer | Medium | [#5446](https://github.com/OWASP/Nest/pull/5446) |
 | Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
@@ -109,7 +109,6 @@ Accessibility features like dark mode,white.
 | Implement GraphQL queries for Pulse activity events | Medium | [#5381](https://github.com/OWASP/Nest/pull/5381) |
 | Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
 | Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
-| Add backend tests for certificate generation | Medium | [#5342](https://github.com/OWASP/Nest/pull/5342) |
 | Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
 
 ---
