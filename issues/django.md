@@ -19,9 +19,6 @@
 | Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| chore(deps): bump the version-updates group across 1 directory with 3 updates | Medium | [#5486](https://github.com/OWASP/Nest/pull/5486) |
-| chore(deps): bump google/osv-scanner from v2.4.0 to v2.5.0 in /docker/osv-scanner in the version-updates group across 1 directory | Medium | [#5485](https://github.com/OWASP/Nest/pull/5485) |
-| chore(deps): bump the version-updates group across 1 directory with 3 updates | Medium | [#5484](https://github.com/OWASP/Nest/pull/5484) |
 | PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
 | Crp certificate issuer | Medium | [#5446](https://github.com/OWASP/Nest/pull/5446) |
 | Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
