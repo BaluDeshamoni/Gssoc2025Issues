@@ -165,9 +165,6 @@
 | Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
 | feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
 | Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| chore(deps): bump the version-updates group across 1 directory with 3 updates | Medium | [#5486](https://github.com/OWASP/Nest/pull/5486) |
-| chore(deps): bump google/osv-scanner from v2.4.0 to v2.5.0 in /docker/osv-scanner in the version-updates group across 1 directory | Medium | [#5485](https://github.com/OWASP/Nest/pull/5485) |
-| chore(deps): bump the version-updates group across 1 directory with 3 updates | Medium | [#5484](https://github.com/OWASP/Nest/pull/5484) |
 | PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
 | Crp certificate issuer | Medium | [#5446](https://github.com/OWASP/Nest/pull/5446) |
 | Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
@@ -333,6 +330,9 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: clean up ~15 ad-hoc "fix-*"/"apply-*" scripts committed to the repo root — they clutter onboarding and risk being run against the wrong environment | Easy | [#1066](https://github.com/Muneerali199/Draftdeckai/issues/1066) |
+| chore: 15+ development fix scripts committed to repository root (apply-fix.js, complete-fix.ps1, fix-*.mjs, etc.) — these one-off automation scripts create severe confusion for contributors and should be removed | Easy | [#1065](https://github.com/Muneerali199/Draftdeckai/issues/1065) |
+| fix: add security warnings and runtime guard for SUPABASE_SERVICE_ROLE_KEY | Easy | [#1058](https://github.com/Muneerali199/Draftdeckai/pull/1058) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 60 updates | Medium | [#1488](https://github.com/Muneerali199/Draftdeckai/pull/1488) |
 | BLOCK — PR #1471 | Medium | [#1485](https://github.com/Muneerali199/Draftdeckai/issues/1485) |
 | BLOCK — PR #1471 | Medium | [#1484](https://github.com/Muneerali199/Draftdeckai/issues/1484) |
@@ -347,22 +347,12 @@ Kindly assign me this issue. | Medium | [#45](https://github.com/Dnyaneshpise/sk
 | BLOCK — PR #1471 | Medium | [#1474](https://github.com/Muneerali199/Draftdeckai/issues/1474) |
 | BLOCK — PR #1471 | Medium | [#1472](https://github.com/Muneerali199/Draftdeckai/issues/1472) |
 | refactor: payment webhook retry + coupon stacking + proration + orders_meta migration | Medium | [#1471](https://github.com/Muneerali199/Draftdeckai/pull/1471) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1328](https://github.com/Muneerali199/Draftdeckai/pull/1328) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1315](https://github.com/Muneerali199/Draftdeckai/pull/1315) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1269](https://github.com/Muneerali199/Draftdeckai/pull/1269) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1268](https://github.com/Muneerali199/Draftdeckai/pull/1268) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1267](https://github.com/Muneerali199/Draftdeckai/pull/1267) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1266](https://github.com/Muneerali199/Draftdeckai/pull/1266) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1265](https://github.com/Muneerali199/Draftdeckai/pull/1265) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1264](https://github.com/Muneerali199/Draftdeckai/pull/1264) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1263](https://github.com/Muneerali199/Draftdeckai/pull/1263) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1262](https://github.com/Muneerali199/Draftdeckai/pull/1262) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1261](https://github.com/Muneerali199/Draftdeckai/pull/1261) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1260](https://github.com/Muneerali199/Draftdeckai/pull/1260) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1259](https://github.com/Muneerali199/Draftdeckai/pull/1259) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1258](https://github.com/Muneerali199/Draftdeckai/pull/1258) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1257](https://github.com/Muneerali199/Draftdeckai/pull/1257) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1256](https://github.com/Muneerali199/Draftdeckai/pull/1256) |
+| feat(history): add clear search button and search result count | Medium | [#1232](https://github.com/Muneerali199/Draftdeckai/pull/1232) |
+| increase Jest coverage for Resume Generation API routes and validation edge cases | Medium | [#1081](https://github.com/Muneerali199/Draftdeckai/issues/1081) |
+| fix: add idempotency/re-validation to the credits deduction flow to prevent double-charging on retried generation requests | Medium | [#1067](https://github.com/Muneerali199/Draftdeckai/issues/1067) |
+| chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.2 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
+| Build document workflow engine — multi-step, connected document creation | Hard | [#1021](https://github.com/Muneerali199/Draftdeckai/issues/1021) |
+| Differentiate DraftDeckAI landing page and first-run experience | Hard | [#1020](https://github.com/Muneerali199/Draftdeckai/issues/1020) |
 
 ---
 
@@ -474,6 +464,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: bump @clerk/react from 6.14.6 to 6.14.7 | Easy | [#2095](https://github.com/recodehive/recode-website/pull/2095) |
 | Redirect Read Blog Button | Easy | [#2074](https://github.com/recodehive/recode-website/issues/2074) |
 | Leaderboard Badge hover shape changes | Easy | [#2071](https://github.com/recodehive/recode-website/issues/2071) |
 | 🐞[Bug]: Desktop navbar hamburger menu does not display navigation items | Easy | [#2069](https://github.com/recodehive/recode-website/issues/2069) |
@@ -1122,6 +1113,9 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| FEATURE: Implement Local Retrieval-Augmented Generation (RAG) Pipeline for PDF Summarization via Vector DB | Medium | [#332](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/332) |
+| feat(chat): add global search across a user's sessions | Medium | [#331](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/331) |
+| Global chat search across all sessions (POST /api/chat/search) | Medium | [#330](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/330) |
 | FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
 
 ---
@@ -1140,23 +1134,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve 4 bugs in NPMChat | Easy | [#249](https://github.com/ThePlator/NPMChat/pull/249) |
-| fix: resolve 1 bugs in NPMChat | Easy | [#248](https://github.com/ThePlator/NPMChat/pull/248) |
-| fix: resolve 2 bugs | Easy | [#246](https://github.com/ThePlator/NPMChat/pull/246) |
-| fix: code quality and safety improvements | Easy | [#245](https://github.com/ThePlator/NPMChat/pull/245) |
-| fix: code quality and safety improvements | Easy | [#244](https://github.com/ThePlator/NPMChat/pull/244) |
-| fix: code quality and safety improvements | Easy | [#243](https://github.com/ThePlator/NPMChat/pull/243) |
-| fix: code quality and safety improvements | Easy | [#242](https://github.com/ThePlator/NPMChat/pull/242) |
-| fix: code quality and safety improvements | Easy | [#241](https://github.com/ThePlator/NPMChat/pull/241) |
-| fix: code quality and safety improvements | Easy | [#238](https://github.com/ThePlator/NPMChat/pull/238) |
-| fix: code quality and safety improvements | Easy | [#237](https://github.com/ThePlator/NPMChat/pull/237) |
 | docs: improve contribution guidelines | Easy | [#229](https://github.com/ThePlator/NPMChat/pull/229) |
-| fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
-| fix: resolve 4 bugs in NPMChat | Medium | [#247](https://github.com/ThePlator/NPMChat/pull/247) |
-| fix: resolve 3 bugs | Medium | [#240](https://github.com/ThePlator/NPMChat/pull/240) |
-| fix: resolve 2 bugs | Medium | [#239](https://github.com/ThePlator/NPMChat/pull/239) |
-| fix: code quality and safety improvements | Medium | [#236](https://github.com/ThePlator/NPMChat/pull/236) |
-| fix: align legal pages with the app theme | Medium | [#235](https://github.com/ThePlator/NPMChat/pull/235) |
 | Bug: Terms and Privacy pages UI does not match the main website theme | Medium | [#234](https://github.com/ThePlator/NPMChat/issues/234) |
 | Bug: Heart/Favorite button has no functionality | Medium | [#233](https://github.com/ThePlator/NPMChat/issues/233) |
 | Bug: Add navigation back to home from other routes | Medium | [#232](https://github.com/ThePlator/NPMChat/issues/232) |
@@ -1166,9 +1144,11 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | Improve navbar responsiveness across all devices | Medium | [#226](https://github.com/ThePlator/NPMChat/issues/226) |
 | Prevent duplicate socket reconnects caused by accumulated token refresh listeners | Medium | [#196](https://github.com/ThePlator/NPMChat/issues/196) |
 | Challenge correctness is derived from fragile output text | Medium | [#194](https://github.com/ThePlator/NPMChat/issues/194) |
-| fix: require structured challenge test results | Hard | [#201](https://github.com/ThePlator/NPMChat/pull/201) |
-| security: enforce room socket membership | Hard | [#200](https://github.com/ThePlator/NPMChat/pull/200) |
+| Room socket events do not enforce room membership or host permissions | Medium | [#193](https://github.com/ThePlator/NPMChat/issues/193) |
+| Fix oauth ci passport guard | Medium | [#152](https://github.com/ThePlator/NPMChat/pull/152) |
+| Missing Receiver Verification on Message Send | Medium | [#141](https://github.com/ThePlator/NPMChat/issues/141) |
 | O auth2 with cookie | Hard | [#197](https://github.com/ThePlator/NPMChat/pull/197) |
+| Fix file validation and add upload progress UI (#142) | Hard | [#173](https://github.com/ThePlator/NPMChat/pull/173) |
 
 ---
 
@@ -1322,7 +1302,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat(testimonials): add testimonials-hanging-cards block | Medium | [#144](https://github.com/subhadeeproy3902/mvpblocks/pull/144) |
 | fix: resolve Next.js build crashes caused by top-level third-party client initialization | Medium | [#143](https://github.com/subhadeeproy3902/mvpblocks/pull/143) |
 | New feature request | Medium | [#105](https://github.com/subhadeeproy3902/mvpblocks/issues/105) |
 | Enhance AI integration | Medium | [#22](https://github.com/subhadeeproy3902/mvpblocks/issues/22) |
