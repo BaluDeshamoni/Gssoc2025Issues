@@ -259,31 +259,29 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | fix: log actual chat errors for better debuggability | Medium | [#647](https://github.com/aayushraj1010/med-genie/pull/647) |
 | docs: remove leftover AI-generated artifact text from README | Medium | [#646](https://github.com/aayushraj1010/med-genie/pull/646) |
 | No Loading State or Error Handling on AI Response Fetch — Users See Blank Screen During API Calls | Medium | [#645](https://github.com/aayushraj1010/med-genie/issues/645) |
-| Add Medication Reminder and Drug Interaction Checker Feature | Medium | [#644](https://github.com/aayushraj1010/med-genie/issues/644) |
 | Implement Symptom History and Session Persistence So Users Can Track Their Health Queries Over Time | Medium | [#643](https://github.com/aayushraj1010/med-genie/issues/643) |
 | Add Medical Symptom Input Validation and Safe Messaging Guidelines to Prevent Misuse of Health Information | Medium | [#642](https://github.com/aayushraj1010/med-genie/issues/642) |
 | **Feature: Add Theme Toggle (Light/Dark/System) to the Navigation Bar** | Medium | [#641](https://github.com/aayushraj1010/med-genie/issues/641) |
 | Chat camera/upload button POSTs to non-existent `/api/upload` → silent 404 | Medium | [#640](https://github.com/aayushraj1010/med-genie/issues/640) |
 | Google OAuth sets refresh cookie as `refreshToken` but backend reads `refresh_token` | Medium | [#639](https://github.com/aayushraj1010/med-genie/issues/639) |
 | Users force-logged-out every ~15 min: refresh-token cookie is never set by the frontend | Medium | [#638](https://github.com/aayushraj1010/med-genie/issues/638) |
-| fix: code quality and safety improvements | Medium | [#637](https://github.com/aayushraj1010/med-genie/pull/637) |
-| fix: code quality and safety improvements | Medium | [#636](https://github.com/aayushraj1010/med-genie/pull/636) |
-| fix: code quality and safety improvements | Medium | [#635](https://github.com/aayushraj1010/med-genie/pull/635) |
-| fix: code quality and safety improvements | Medium | [#634](https://github.com/aayushraj1010/med-genie/pull/634) |
-| fix: code quality and safety improvements | Medium | [#633](https://github.com/aayushraj1010/med-genie/pull/633) |
-| fix: code quality and safety improvements | Medium | [#632](https://github.com/aayushraj1010/med-genie/pull/632) |
-| fix: resolve 1 bugs | Medium | [#631](https://github.com/aayushraj1010/med-genie/pull/631) |
-| fix: code quality and safety improvements | Medium | [#630](https://github.com/aayushraj1010/med-genie/pull/630) |
-| fix: resolve 1 bugs | Medium | [#629](https://github.com/aayushraj1010/med-genie/pull/629) |
-| fix: resolve 1 bugs | Medium | [#628](https://github.com/aayushraj1010/med-genie/pull/628) |
-| fix: code quality and safety improvements | Medium | [#626](https://github.com/aayushraj1010/med-genie/pull/626) |
-| fix: code quality and safety improvements | Medium | [#625](https://github.com/aayushraj1010/med-genie/pull/625) |
-| fix: code quality and safety improvements | Medium | [#624](https://github.com/aayushraj1010/med-genie/pull/624) |
-| fix: code quality and safety improvements | Medium | [#623](https://github.com/aayushraj1010/med-genie/pull/623) |
-| fix: code quality and safety improvements | Medium | [#622](https://github.com/aayushraj1010/med-genie/pull/622) |
-| fix: code quality and safety improvements | Medium | [#621](https://github.com/aayushraj1010/med-genie/pull/621) |
-| fix: code quality and safety improvements | Medium | [#620](https://github.com/aayushraj1010/med-genie/pull/620) |
-| fix: code quality and safety improvements | Medium | [#619](https://github.com/aayushraj1010/med-genie/pull/619) |
+| Enhance README with troubleshooting and FAQ | Medium | [#596](https://github.com/aayushraj1010/med-genie/pull/596) |
+| Add Troubleshooting Guide and FAQ to Documentation | Medium | [#595](https://github.com/aayushraj1010/med-genie/issues/595) |
+| Add AI-Powered Prescription OCR & Medication Dosage Summarizer | Medium | [#585](https://github.com/aayushraj1010/med-genie/issues/585) |
+| Add AI-Powered Prescription OCR & Medication Dosage Summarizer | Medium | [#582](https://github.com/aayushraj1010/med-genie/issues/582) |
+| Static navigation bar overlaps page content on the "Find Specialist" page | Medium | [#581](https://github.com/aayushraj1010/med-genie/issues/581) |
+| "Find Specialist" form accepts unrealistic age values without validation | Medium | [#580](https://github.com/aayushraj1010/med-genie/issues/580) |
+| Critical Remote Code Execution (RCE) vulnerability in CalculatorTool using JavaScript eval() | Medium | [#578](https://github.com/aayushraj1010/med-genie/issues/578) |
+| LangChain ReAct agent relies on remote prompt pulling without offline fallback | Medium | [#577](https://github.com/aayushraj1010/med-genie/issues/577) |
+| Implement AI model evaluation & safety benchmark harness | Medium | [#576](https://github.com/aayushraj1010/med-genie/issues/576) |
+| UI Enhancement: Redesign Navbar with a Premium Modern Look | Medium | [#575](https://github.com/aayushraj1010/med-genie/issues/575) |
+| On Clicking Location , It's showing white bg color . | Medium | [#574](https://github.com/aayushraj1010/med-genie/issues/574) |
+| docs: improve maintainer section wording | Medium | [#573](https://github.com/aayushraj1010/med-genie/pull/573) |
+| Login/Sign-up button shows "Signing in..." / "Creating account..." on initial page load | Medium | [#572](https://github.com/aayushraj1010/med-genie/issues/572) |
+| Navigation Bar is not completely responsive | Medium | [#571](https://github.com/aayushraj1010/med-genie/issues/571) |
+| Google Auth Issue upon signing up | Medium | [#570](https://github.com/aayushraj1010/med-genie/issues/570) |
+| UI: Bold key phrases in Hero Section description. | Medium | [#569](https://github.com/aayushraj1010/med-genie/issues/569) |
+| Google Auth issue | Medium | [#567](https://github.com/aayushraj1010/med-genie/issues/567) |
 
 ---
 
@@ -576,9 +574,6 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | docs: Add API Endpoints Overview section to README | Medium | [#726](https://github.com/lovelymahor/StudyMatePlus/issues/726) |
 | Hero section overflows initial viewport at 100% browser zoom | Medium | [#725](https://github.com/lovelymahor/StudyMatePlus/issues/725) |
 | Improve footer text contrast for better readability and accessibility | Medium | [#724](https://github.com/lovelymahor/StudyMatePlus/issues/724) |
-| fix: resolve 1 bugs | Medium | [#723](https://github.com/lovelymahor/StudyMatePlus/pull/723) |
-| fix: resolve 1 bugs | Medium | [#722](https://github.com/lovelymahor/StudyMatePlus/pull/722) |
-| fix: code quality and safety improvements | Medium | [#721](https://github.com/lovelymahor/StudyMatePlus/pull/721) |
 | fixed: prevent adding empty tasks or whitespace-only inputs to to-do list | Medium | [#720](https://github.com/lovelymahor/StudyMatePlus/pull/720) |
 | Fixed unmanaged file storage on syllabus upload | Medium | [#719](https://github.com/lovelymahor/StudyMatePlus/pull/719) |
 | Add Multi-University and Department Filter with Persistent URL Query Params for Syllabus/PYQ Navigation | Medium | [#718](https://github.com/lovelymahor/StudyMatePlus/issues/718) |
@@ -596,6 +591,9 @@ Ideal for communities, colleges, and local networks — EventMappr makes event d
 | MindMapEditor.js: search feature is dead code, never wired to the UI | Medium | [#706](https://github.com/lovelymahor/StudyMatePlus/issues/706) |
 | Syllabus.js: broken useMemo dependency array prevents memoization from updating | Medium | [#705](https://github.com/lovelymahor/StudyMatePlus/issues/705) |
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
+| Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
+| Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
+| Notes.jsx calls backend endpoints that don't exist | Medium | [#701](https://github.com/lovelymahor/StudyMatePlus/issues/701) |
 
 ---
 
