@@ -85,6 +85,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| chore: clean up ~15 ad-hoc "fix-*"/"apply-*" scripts committed to the repo root — they clutter onboarding and risk being run against the wrong environment | Easy | [#1066](https://github.com/Muneerali199/Draftdeckai/issues/1066) |
+| chore: 15+ development fix scripts committed to repository root (apply-fix.js, complete-fix.ps1, fix-*.mjs, etc.) — these one-off automation scripts create severe confusion for contributors and should be removed | Easy | [#1065](https://github.com/Muneerali199/Draftdeckai/issues/1065) |
+| fix: add security warnings and runtime guard for SUPABASE_SERVICE_ROLE_KEY | Easy | [#1058](https://github.com/Muneerali199/Draftdeckai/pull/1058) |
 | chore(deps): bump the minor-and-patch group across 1 directory with 60 updates | Medium | [#1488](https://github.com/Muneerali199/Draftdeckai/pull/1488) |
 | BLOCK — PR #1471 | Medium | [#1485](https://github.com/Muneerali199/Draftdeckai/issues/1485) |
 | BLOCK — PR #1471 | Medium | [#1484](https://github.com/Muneerali199/Draftdeckai/issues/1484) |
@@ -99,22 +102,12 @@
 | BLOCK — PR #1471 | Medium | [#1474](https://github.com/Muneerali199/Draftdeckai/issues/1474) |
 | BLOCK — PR #1471 | Medium | [#1472](https://github.com/Muneerali199/Draftdeckai/issues/1472) |
 | refactor: payment webhook retry + coupon stacking + proration + orders_meta migration | Medium | [#1471](https://github.com/Muneerali199/Draftdeckai/pull/1471) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1328](https://github.com/Muneerali199/Draftdeckai/pull/1328) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1315](https://github.com/Muneerali199/Draftdeckai/pull/1315) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1269](https://github.com/Muneerali199/Draftdeckai/pull/1269) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1268](https://github.com/Muneerali199/Draftdeckai/pull/1268) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1267](https://github.com/Muneerali199/Draftdeckai/pull/1267) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1266](https://github.com/Muneerali199/Draftdeckai/pull/1266) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1265](https://github.com/Muneerali199/Draftdeckai/pull/1265) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1264](https://github.com/Muneerali199/Draftdeckai/pull/1264) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1263](https://github.com/Muneerali199/Draftdeckai/pull/1263) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1262](https://github.com/Muneerali199/Draftdeckai/pull/1262) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1261](https://github.com/Muneerali199/Draftdeckai/pull/1261) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1260](https://github.com/Muneerali199/Draftdeckai/pull/1260) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1259](https://github.com/Muneerali199/Draftdeckai/pull/1259) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1258](https://github.com/Muneerali199/Draftdeckai/pull/1258) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1257](https://github.com/Muneerali199/Draftdeckai/pull/1257) |
-| fix: resolve 4 bugs in Draftdeckai | Medium | [#1256](https://github.com/Muneerali199/Draftdeckai/pull/1256) |
+| feat(history): add clear search button and search result count | Medium | [#1232](https://github.com/Muneerali199/Draftdeckai/pull/1232) |
+| increase Jest coverage for Resume Generation API routes and validation edge cases | Medium | [#1081](https://github.com/Muneerali199/Draftdeckai/issues/1081) |
+| fix: add idempotency/re-validation to the credits deduction flow to prevent double-charging on retried generation requests | Medium | [#1067](https://github.com/Muneerali199/Draftdeckai/issues/1067) |
+| chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.2 | Medium | [#1012](https://github.com/Muneerali199/Draftdeckai/pull/1012) |
+| Build document workflow engine — multi-step, connected document creation | Hard | [#1021](https://github.com/Muneerali199/Draftdeckai/issues/1021) |
+| Differentiate DraftDeckAI landing page and first-run experience | Hard | [#1020](https://github.com/Muneerali199/Draftdeckai/issues/1020) |
 
 ---
 
