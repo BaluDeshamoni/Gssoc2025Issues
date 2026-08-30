@@ -527,15 +527,6 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | docs: improve contributor onboarding and setup | Medium | [#758](https://github.com/GitMetricsLab/github_tracker/pull/758) |
-| fix: code quality and safety improvements | Medium | [#757](https://github.com/GitMetricsLab/github_tracker/pull/757) |
-| fix: code quality and safety improvements | Medium | [#756](https://github.com/GitMetricsLab/github_tracker/pull/756) |
-| fix: code quality and safety improvements | Medium | [#755](https://github.com/GitMetricsLab/github_tracker/pull/755) |
-| fix: code quality and safety improvements | Medium | [#754](https://github.com/GitMetricsLab/github_tracker/pull/754) |
-| fix: code quality and safety improvements | Medium | [#753](https://github.com/GitMetricsLab/github_tracker/pull/753) |
-| fix: code quality and safety improvements | Medium | [#752](https://github.com/GitMetricsLab/github_tracker/pull/752) |
-| fix: code quality and safety improvements | Medium | [#751](https://github.com/GitMetricsLab/github_tracker/pull/751) |
-| fix: code quality and safety improvements | Medium | [#750](https://github.com/GitMetricsLab/github_tracker/pull/750) |
-| fix: code quality and safety improvements | Medium | [#749](https://github.com/GitMetricsLab/github_tracker/pull/749) |
 | Add conditional rendering for empty data state | Medium | [#748](https://github.com/GitMetricsLab/github_tracker/pull/748) |
 | feat: dynamic page title on route change | Medium | [#747](https://github.com/GitMetricsLab/github_tracker/pull/747) |
 | feat: add Terms and Conditions page and footer link | Medium | [#746](https://github.com/GitMetricsLab/github_tracker/pull/746) |
@@ -1497,9 +1488,6 @@ Fast Workflow Tools
 | docs: Add API Endpoints Overview section to README | Medium | [#726](https://github.com/lovelymahor/StudyMatePlus/issues/726) |
 | Hero section overflows initial viewport at 100% browser zoom | Medium | [#725](https://github.com/lovelymahor/StudyMatePlus/issues/725) |
 | Improve footer text contrast for better readability and accessibility | Medium | [#724](https://github.com/lovelymahor/StudyMatePlus/issues/724) |
-| fix: resolve 1 bugs | Medium | [#723](https://github.com/lovelymahor/StudyMatePlus/pull/723) |
-| fix: resolve 1 bugs | Medium | [#722](https://github.com/lovelymahor/StudyMatePlus/pull/722) |
-| fix: code quality and safety improvements | Medium | [#721](https://github.com/lovelymahor/StudyMatePlus/pull/721) |
 | fixed: prevent adding empty tasks or whitespace-only inputs to to-do list | Medium | [#720](https://github.com/lovelymahor/StudyMatePlus/pull/720) |
 | Fixed unmanaged file storage on syllabus upload | Medium | [#719](https://github.com/lovelymahor/StudyMatePlus/pull/719) |
 | Add Multi-University and Department Filter with Persistent URL Query Params for Syllabus/PYQ Navigation | Medium | [#718](https://github.com/lovelymahor/StudyMatePlus/issues/718) |
@@ -1517,6 +1505,9 @@ Fast Workflow Tools
 | MindMapEditor.js: search feature is dead code, never wired to the UI | Medium | [#706](https://github.com/lovelymahor/StudyMatePlus/issues/706) |
 | Syllabus.js: broken useMemo dependency array prevents memoization from updating | Medium | [#705](https://github.com/lovelymahor/StudyMatePlus/issues/705) |
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
+| Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
+| Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
+| Notes.jsx calls backend endpoints that don't exist | Medium | [#701](https://github.com/lovelymahor/StudyMatePlus/issues/701) |
 
 ---
 
@@ -1583,10 +1574,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix(web): make FAQ section theme-aware and align nav/footer label to FAQ | Medium | [#116](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/116) |
-| improve FAQ fuzzy matching for typo-heavy queries | Medium | [#115](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/115) |
-| add GSSoC assignment FAQ | Medium | [#114](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/114) |
-| align FAQ labels and theme styling | Medium | [#113](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/113) |
 | fixed FAQ light theme | Medium | [#111](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/111) |
 | Modern Issue Templates | Medium | [#109](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/109) |
 | # 🔍 Add Real-Time FAQ Search & Filter Functionality [GSSoC 2025] | Medium | [#101](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/101) |
@@ -1867,23 +1854,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: resolve 4 bugs in NPMChat | Easy | [#249](https://github.com/ThePlator/NPMChat/pull/249) |
-| fix: resolve 1 bugs in NPMChat | Easy | [#248](https://github.com/ThePlator/NPMChat/pull/248) |
-| fix: resolve 2 bugs | Easy | [#246](https://github.com/ThePlator/NPMChat/pull/246) |
-| fix: code quality and safety improvements | Easy | [#245](https://github.com/ThePlator/NPMChat/pull/245) |
-| fix: code quality and safety improvements | Easy | [#244](https://github.com/ThePlator/NPMChat/pull/244) |
-| fix: code quality and safety improvements | Easy | [#243](https://github.com/ThePlator/NPMChat/pull/243) |
-| fix: code quality and safety improvements | Easy | [#242](https://github.com/ThePlator/NPMChat/pull/242) |
-| fix: code quality and safety improvements | Easy | [#241](https://github.com/ThePlator/NPMChat/pull/241) |
-| fix: code quality and safety improvements | Easy | [#238](https://github.com/ThePlator/NPMChat/pull/238) |
-| fix: code quality and safety improvements | Easy | [#237](https://github.com/ThePlator/NPMChat/pull/237) |
 | docs: improve contribution guidelines | Easy | [#229](https://github.com/ThePlator/NPMChat/pull/229) |
-| fix: clean up token refresh listeners | Easy | [#199](https://github.com/ThePlator/NPMChat/pull/199) |
-| fix: resolve 4 bugs in NPMChat | Medium | [#247](https://github.com/ThePlator/NPMChat/pull/247) |
-| fix: resolve 3 bugs | Medium | [#240](https://github.com/ThePlator/NPMChat/pull/240) |
-| fix: resolve 2 bugs | Medium | [#239](https://github.com/ThePlator/NPMChat/pull/239) |
-| fix: code quality and safety improvements | Medium | [#236](https://github.com/ThePlator/NPMChat/pull/236) |
-| fix: align legal pages with the app theme | Medium | [#235](https://github.com/ThePlator/NPMChat/pull/235) |
 | Bug: Terms and Privacy pages UI does not match the main website theme | Medium | [#234](https://github.com/ThePlator/NPMChat/issues/234) |
 | Bug: Heart/Favorite button has no functionality | Medium | [#233](https://github.com/ThePlator/NPMChat/issues/233) |
 | Bug: Add navigation back to home from other routes | Medium | [#232](https://github.com/ThePlator/NPMChat/issues/232) |
@@ -1893,9 +1864,11 @@ Fast Workflow Tools
 | Improve navbar responsiveness across all devices | Medium | [#226](https://github.com/ThePlator/NPMChat/issues/226) |
 | Prevent duplicate socket reconnects caused by accumulated token refresh listeners | Medium | [#196](https://github.com/ThePlator/NPMChat/issues/196) |
 | Challenge correctness is derived from fragile output text | Medium | [#194](https://github.com/ThePlator/NPMChat/issues/194) |
-| fix: require structured challenge test results | Hard | [#201](https://github.com/ThePlator/NPMChat/pull/201) |
-| security: enforce room socket membership | Hard | [#200](https://github.com/ThePlator/NPMChat/pull/200) |
+| Room socket events do not enforce room membership or host permissions | Medium | [#193](https://github.com/ThePlator/NPMChat/issues/193) |
+| Fix oauth ci passport guard | Medium | [#152](https://github.com/ThePlator/NPMChat/pull/152) |
+| Missing Receiver Verification on Message Send | Medium | [#141](https://github.com/ThePlator/NPMChat/issues/141) |
 | O auth2 with cookie | Hard | [#197](https://github.com/ThePlator/NPMChat/pull/197) |
+| Fix file validation and add upload progress UI (#142) | Hard | [#173](https://github.com/ThePlator/NPMChat/pull/173) |
 
 ---
 
