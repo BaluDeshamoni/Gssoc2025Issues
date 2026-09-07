@@ -193,19 +193,25 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | LocalStack Build And Push Docker Images and Other Improvements | Easy | [#5463](https://github.com/OWASP/Nest/pull/5463) |
-| feat(o11y): add Grafana and stable VM endpoint | Easy | [#5405](https://github.com/OWASP/Nest/pull/5405) |
-| Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
-| feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
-| Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| chore(deps): bump the version-updates group across 2 directories with 4 updates | Medium | [#5538](https://github.com/OWASP/Nest/pull/5538) |
+| chore(deps): bump docker/setup-buildx-action from 4.2.0 to 4.3.0 in the version-updates group across 1 directory | Medium | [#5537](https://github.com/OWASP/Nest/pull/5537) |
+| chore(deps): bump the version-updates group across 3 directories with 3 updates | Medium | [#5536](https://github.com/OWASP/Nest/pull/5536) |
+| chore(deps): bump the version-updates group across 1 directory with 3 updates | Medium | [#5535](https://github.com/OWASP/Nest/pull/5535) |
+| Bump next to v16.3.4 | Medium | [#5534](https://github.com/OWASP/Nest/pull/5534) |
+| fix: improve error handling in CalendarButton component | Medium | [#5533](https://github.com/OWASP/Nest/pull/5533) |
+| fix: add fallback for AI-generated issue summaries | Medium | [#5532](https://github.com/OWASP/Nest/pull/5532) |
+| Feature/5511 refactor nestbot ai assistant | Medium | [#5529](https://github.com/OWASP/Nest/pull/5529) |
+| refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#5528](https://github.com/OWASP/Nest/pull/5528) |
+| fix(frontend): show trailing pagination ellipsis | Medium | [#5527](https://github.com/OWASP/Nest/pull/5527) |
+| fix(frontend): keep mobile spacing consistent below search | Medium | [#5526](https://github.com/OWASP/Nest/pull/5526) |
+| refactor(github): rename RepositoryNode.issues to recent_issues | Medium | [#5525](https://github.com/OWASP/Nest/pull/5525) |
+| Extract nested ternary operation into an independent state. | Medium | [#5524](https://github.com/OWASP/Nest/pull/5524) |
+| Created OWASP Pulse Frontend Page | Medium | [#5510](https://github.com/OWASP/Nest/pull/5510) |
+| Add Django Management Commands to Parse Board Activity Data | Medium | [#5503](https://github.com/OWASP/Nest/pull/5503) |
+| Feat/newsletter digest pipeline | Medium | [#5502](https://github.com/OWASP/Nest/pull/5502) |
+| Add Django Models to Store Board Activity Data | Medium | [#5494](https://github.com/OWASP/Nest/pull/5494) |
+| Feat/email log model | Medium | [#5489](https://github.com/OWASP/Nest/pull/5489) |
 | PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
-| Crp certificate issuer | Medium | [#5446](https://github.com/OWASP/Nest/pull/5446) |
-| Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
-| Updated crp-model to include default certificate | Medium | [#5420](https://github.com/OWASP/Nest/pull/5420) |
-| fix: upgrade @heroui/react to v3 | Medium | [#5389](https://github.com/OWASP/Nest/pull/5389) |
-| Implement GraphQL queries for Pulse activity events | Medium | [#5381](https://github.com/OWASP/Nest/pull/5381) |
-| Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
-| Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
-| Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
 
 ---
 
@@ -408,7 +414,6 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: add env copy example in backend README | Medium | [#325](https://github.com/Devasy/splitwiser/pull/325) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#323](https://github.com/Devasy/splitwiser/pull/323) |
 | Add biometric authentication option (FaceID/TouchID) | Medium | [#322](https://github.com/Devasy/splitwiser/pull/322) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#321](https://github.com/Devasy/splitwiser/pull/321) |
@@ -438,6 +443,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | enhance: Add image upload cropping to Profile | Medium | [#296](https://github.com/Devasy/splitwiser/pull/296) |
 | style: Consistent hover/focus states across buttons | Medium | [#295](https://github.com/Devasy/splitwiser/pull/295) |
 | Add skeleton loading to HomeScreen | Medium | [#294](https://github.com/Devasy/splitwiser/pull/294) |
+| ux: Add skeleton loading to mobile HomeScreen | Medium | [#293](https://github.com/Devasy/splitwiser/pull/293) |
 
 ---
 
@@ -1741,6 +1747,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve registration page layout & usability | Medium | [#734](https://github.com/lovelymahor/StudyMatePlus/pull/734) |
 | Improve Registration Page Layout & Usability | Medium | [#733](https://github.com/lovelymahor/StudyMatePlus/issues/733) |
 | Hero Section UI Redesign | Medium | [#732](https://github.com/lovelymahor/StudyMatePlus/issues/732) |
 | Implement a spaced repetition study scheduler for saved notes — help students retain material more effectively | Medium | [#731](https://github.com/lovelymahor/StudyMatePlus/issues/731) |
@@ -1770,7 +1777,6 @@ Fast Workflow Tools
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
 | Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
 | Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
-| Notes.jsx calls backend endpoints that don't exist | Medium | [#701](https://github.com/lovelymahor/StudyMatePlus/issues/701) |
 
 ---
 
@@ -2002,9 +2008,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Implement Local Retrieval-Augmented Generation (RAG) Pipeline for PDF Summarization via Vector DB | Medium | [#332](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/332) |
-| feat(chat): add global search across a user's sessions | Medium | [#331](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/331) |
-| Global chat search across all sessions (POST /api/chat/search) | Medium | [#330](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/330) |
 | FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
 
 ---
