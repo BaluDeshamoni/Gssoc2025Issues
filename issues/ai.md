@@ -248,19 +248,25 @@ Accessibility features like dark mode,white.
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
 | LocalStack Build And Push Docker Images and Other Improvements | Easy | [#5463](https://github.com/OWASP/Nest/pull/5463) |
-| feat(o11y): add Grafana and stable VM endpoint | Easy | [#5405](https://github.com/OWASP/Nest/pull/5405) |
-| Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
-| feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
-| Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
+| chore(deps): bump the version-updates group across 2 directories with 4 updates | Medium | [#5538](https://github.com/OWASP/Nest/pull/5538) |
+| chore(deps): bump docker/setup-buildx-action from 4.2.0 to 4.3.0 in the version-updates group across 1 directory | Medium | [#5537](https://github.com/OWASP/Nest/pull/5537) |
+| chore(deps): bump the version-updates group across 3 directories with 3 updates | Medium | [#5536](https://github.com/OWASP/Nest/pull/5536) |
+| chore(deps): bump the version-updates group across 1 directory with 3 updates | Medium | [#5535](https://github.com/OWASP/Nest/pull/5535) |
+| Bump next to v16.3.4 | Medium | [#5534](https://github.com/OWASP/Nest/pull/5534) |
+| fix: improve error handling in CalendarButton component | Medium | [#5533](https://github.com/OWASP/Nest/pull/5533) |
+| fix: add fallback for AI-generated issue summaries | Medium | [#5532](https://github.com/OWASP/Nest/pull/5532) |
+| Feature/5511 refactor nestbot ai assistant | Medium | [#5529](https://github.com/OWASP/Nest/pull/5529) |
+| refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#5528](https://github.com/OWASP/Nest/pull/5528) |
+| fix(frontend): show trailing pagination ellipsis | Medium | [#5527](https://github.com/OWASP/Nest/pull/5527) |
+| fix(frontend): keep mobile spacing consistent below search | Medium | [#5526](https://github.com/OWASP/Nest/pull/5526) |
+| refactor(github): rename RepositoryNode.issues to recent_issues | Medium | [#5525](https://github.com/OWASP/Nest/pull/5525) |
+| Extract nested ternary operation into an independent state. | Medium | [#5524](https://github.com/OWASP/Nest/pull/5524) |
+| Created OWASP Pulse Frontend Page | Medium | [#5510](https://github.com/OWASP/Nest/pull/5510) |
+| Add Django Management Commands to Parse Board Activity Data | Medium | [#5503](https://github.com/OWASP/Nest/pull/5503) |
+| Feat/newsletter digest pipeline | Medium | [#5502](https://github.com/OWASP/Nest/pull/5502) |
+| Add Django Models to Store Board Activity Data | Medium | [#5494](https://github.com/OWASP/Nest/pull/5494) |
+| Feat/email log model | Medium | [#5489](https://github.com/OWASP/Nest/pull/5489) |
 | PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
-| Crp certificate issuer | Medium | [#5446](https://github.com/OWASP/Nest/pull/5446) |
-| Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
-| Updated crp-model to include default certificate | Medium | [#5420](https://github.com/OWASP/Nest/pull/5420) |
-| fix: upgrade @heroui/react to v3 | Medium | [#5389](https://github.com/OWASP/Nest/pull/5389) |
-| Implement GraphQL queries for Pulse activity events | Medium | [#5381](https://github.com/OWASP/Nest/pull/5381) |
-| Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
-| Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
-| Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
 
 ---
 
@@ -1020,7 +1026,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 |----------|----------------|---------|
 | UI/UX Cleanup: Simplify the Settings Section | Easy | [#672](https://github.com/alienx5499/SortVision/issues/672) |
 | Add Interactive Code Playground | Easy | [#670](https://github.com/alienx5499/SortVision/issues/670) |
-| feat: add live speed control and sorting step explanations | Medium | [#865](https://github.com/alienx5499/SortVision/pull/865) |
 | Add Step-by-Step Explanation Mode Alongside Sorting Visualization | Medium | [#710](https://github.com/alienx5499/SortVision/issues/710) |
 | Dynamic Speed Control During Sorting Visualization | Medium | [#657](https://github.com/alienx5499/SortVision/issues/657) |
 | Show Random Numbers in Sorting Visualization | Medium | [#656](https://github.com/alienx5499/SortVision/issues/656) |
@@ -2044,6 +2049,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve registration page layout & usability | Medium | [#734](https://github.com/lovelymahor/StudyMatePlus/pull/734) |
 | Improve Registration Page Layout & Usability | Medium | [#733](https://github.com/lovelymahor/StudyMatePlus/issues/733) |
 | Hero Section UI Redesign | Medium | [#732](https://github.com/lovelymahor/StudyMatePlus/issues/732) |
 | Implement a spaced repetition study scheduler for saved notes — help students retain material more effectively | Medium | [#731](https://github.com/lovelymahor/StudyMatePlus/issues/731) |
@@ -2073,7 +2079,6 @@ Fast Workflow Tools
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
 | Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
 | Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
-| Notes.jsx calls backend endpoints that don't exist | Medium | [#701](https://github.com/lovelymahor/StudyMatePlus/issues/701) |
 
 ---
 
@@ -2321,9 +2326,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Implement Local Retrieval-Augmented Generation (RAG) Pipeline for PDF Summarization via Vector DB | Medium | [#332](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/332) |
-| feat(chat): add global search across a user's sessions | Medium | [#331](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/331) |
-| Global chat search across all sessions (POST /api/chat/search) | Medium | [#330](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/330) |
 | FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
 
 ---
@@ -2368,11 +2370,8 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix(backend): persist add-on inventory in database with atomic decrement (#19087) | Medium | [#19162](https://github.com/SandeepVashishtha/Eventra/pull/19162) |
-| Add JWT token expiry handling with automatic silent refresh and graceful logout on session expiration | Medium | [#19153](https://github.com/SandeepVashishtha/Eventra/issues/19153) |
 | Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19151](https://github.com/SandeepVashishtha/Eventra/issues/19151) |
 | Add recurring event support — allow organizers to schedule weekly, monthly, or custom-interval events | Medium | [#19150](https://github.com/SandeepVashishtha/Eventra/issues/19150) |
-| Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19149](https://github.com/SandeepVashishtha/Eventra/issues/19149) |
 | Add event registration with ticket generation and QR code check-in capability | Medium | [#19148](https://github.com/SandeepVashishtha/Eventra/issues/19148) |
 | Add event search and filtering by category, date range, and location on the events listing page | Medium | [#19147](https://github.com/SandeepVashishtha/Eventra/issues/19147) |
 | Add GitHub Actions CI pipeline with lint, type-check, and test validation on every pull request | Medium | [#19146](https://github.com/SandeepVashishtha/Eventra/issues/19146) |
@@ -2398,6 +2397,9 @@ Fast Workflow Tools
 | fix: require confirmed registration to submit feedback (#19060) | Medium | [#19126](https://github.com/SandeepVashishtha/Eventra/pull/19126) |
 | fix: enforce ownership/authorization in WebAuthn ticket verification (#19029) | Medium | [#19125](https://github.com/SandeepVashishtha/Eventra/pull/19125) |
 | fix: parse real table and column in IndexOptimizer instead of stubs (#19044) | Medium | [#19124](https://github.com/SandeepVashishtha/Eventra/pull/19124) |
+| fix: resolve PaymentPlan before deleting EventRegistration (#19031) | Medium | [#19123](https://github.com/SandeepVashishtha/Eventra/pull/19123) |
+| fix: harden CSV formula-injection sanitizer (issue #19046) | Medium | [#19122](https://github.com/SandeepVashishtha/Eventra/pull/19122) |
+| fix: enforce rpId, key-derived algorithm, and signature counter in WebAuthn assertion (#19030) | Medium | [#19121](https://github.com/SandeepVashishtha/Eventra/pull/19121) |
 
 ---
 
