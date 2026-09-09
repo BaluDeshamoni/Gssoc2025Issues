@@ -294,7 +294,6 @@ Schools, offices, and wellness centers looking to green their spaces
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| docs: add env copy example in backend README | Medium | [#325](https://github.com/Devasy/splitwiser/pull/325) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#323](https://github.com/Devasy/splitwiser/pull/323) |
 | Add biometric authentication option (FaceID/TouchID) | Medium | [#322](https://github.com/Devasy/splitwiser/pull/322) |
 | ux: Complete skeleton loading for HomeScreen groups | Medium | [#321](https://github.com/Devasy/splitwiser/pull/321) |
@@ -324,6 +323,7 @@ Schools, offices, and wellness centers looking to green their spaces
 | enhance: Add image upload cropping to Profile | Medium | [#296](https://github.com/Devasy/splitwiser/pull/296) |
 | style: Consistent hover/focus states across buttons | Medium | [#295](https://github.com/Devasy/splitwiser/pull/295) |
 | Add skeleton loading to HomeScreen | Medium | [#294](https://github.com/Devasy/splitwiser/pull/294) |
+| ux: Add skeleton loading to mobile HomeScreen | Medium | [#293](https://github.com/Devasy/splitwiser/pull/293) |
 
 ---
 
@@ -1196,6 +1196,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve registration page layout & usability | Medium | [#734](https://github.com/lovelymahor/StudyMatePlus/pull/734) |
 | Improve Registration Page Layout & Usability | Medium | [#733](https://github.com/lovelymahor/StudyMatePlus/issues/733) |
 | Hero Section UI Redesign | Medium | [#732](https://github.com/lovelymahor/StudyMatePlus/issues/732) |
 | Implement a spaced repetition study scheduler for saved notes — help students retain material more effectively | Medium | [#731](https://github.com/lovelymahor/StudyMatePlus/issues/731) |
@@ -1225,7 +1226,6 @@ Fast Workflow Tools
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
 | Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
 | Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
-| Notes.jsx calls backend endpoints that don't exist | Medium | [#701](https://github.com/lovelymahor/StudyMatePlus/issues/701) |
 
 ---
 
@@ -1394,9 +1394,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Implement Local Retrieval-Augmented Generation (RAG) Pipeline for PDF Summarization via Vector DB | Medium | [#332](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/332) |
-| feat(chat): add global search across a user's sessions | Medium | [#331](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/331) |
-| Global chat search across all sessions (POST /api/chat/search) | Medium | [#330](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/330) |
 | FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
 
 ---
