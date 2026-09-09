@@ -14,20 +14,30 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| LocalStack Build And Push Docker Images and Other Improvements | Easy | [#5463](https://github.com/OWASP/Nest/pull/5463) |
-| feat(o11y): add Grafana and stable VM endpoint | Easy | [#5405](https://github.com/OWASP/Nest/pull/5405) |
-| Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
-| feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
-| Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
-| Crp certificate issuer | Medium | [#5446](https://github.com/OWASP/Nest/pull/5446) |
-| Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
-| Updated crp-model to include default certificate | Medium | [#5420](https://github.com/OWASP/Nest/pull/5420) |
-| fix: upgrade @heroui/react to v3 | Medium | [#5389](https://github.com/OWASP/Nest/pull/5389) |
-| Implement GraphQL queries for Pulse activity events | Medium | [#5381](https://github.com/OWASP/Nest/pull/5381) |
-| Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
-| Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
-| Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
+| chore(deps): bump the version-updates group across 1 directory with 2 updates | Medium | [#5558](https://github.com/OWASP/Nest/pull/5558) |
+| chore(deps): bump aws-actions/amazon-ecr-login from 2.1.6 to 2.1.7 in the version-updates group across 1 directory | Medium | [#5557](https://github.com/OWASP/Nest/pull/5557) |
+| chore(deps): bump the version-updates group across 3 directories with 3 updates | Medium | [#5556](https://github.com/OWASP/Nest/pull/5556) |
+| feat: update ReadTheDocs theme styling | Medium | [#5555](https://github.com/OWASP/Nest/pull/5555) |
+| fix(frontend): make navbar responsive across breakpoints | Medium | [#5554](https://github.com/OWASP/Nest/pull/5554) |
+| Feat/unsubscribe filtered view | Medium | [#5553](https://github.com/OWASP/Nest/pull/5553) |
+| Feature: NestBot /ai — route security questions to OpenCRE (keep community RAG local) | Medium | [#5550](https://github.com/OWASP/Nest/issues/5550) |
+| Feature: MCP server for Nest REST API v0 (OpenCRE Agent integration) | Medium | [#5549](https://github.com/OWASP/Nest/issues/5549) |
+| feat(header): expand UserMenu trigger to show avatar, name | Medium | [#5547](https://github.com/OWASP/Nest/pull/5547) |
+| feat: implement recent searches in GlobalSearch | Medium | [#5544](https://github.com/OWASP/Nest/pull/5544) |
+| fix: resolve barchart rendering issue | Medium | [#5542](https://github.com/OWASP/Nest/pull/5542) |
+| Fix/issue summary fallback | Medium | [#5540](https://github.com/OWASP/Nest/pull/5540) |
+| fix: wrap breadcrumb in nav landmark for screen reader navigation | Medium | [#5539](https://github.com/OWASP/Nest/pull/5539) |
+| fix: improve error handling in CalendarButton component | Medium | [#5533](https://github.com/OWASP/Nest/pull/5533) |
+| fix: add fallback for AI-generated issue summaries | Medium | [#5532](https://github.com/OWASP/Nest/pull/5532) |
+| Feature/5511 refactor nestbot ai assistant | Medium | [#5529](https://github.com/OWASP/Nest/pull/5529) |
+| refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#5528](https://github.com/OWASP/Nest/pull/5528) |
+| fix(frontend): show trailing pagination ellipsis | Medium | [#5527](https://github.com/OWASP/Nest/pull/5527) |
+| fix(frontend): keep mobile spacing consistent below search | Medium | [#5526](https://github.com/OWASP/Nest/pull/5526) |
+| refactor(github): rename RepositoryNode.issues to recent_issues | Medium | [#5525](https://github.com/OWASP/Nest/pull/5525) |
+| Extract nested ternary operation into an independent state. | Medium | [#5524](https://github.com/OWASP/Nest/pull/5524) |
+| Created OWASP Pulse Frontend Page | Medium | [#5510](https://github.com/OWASP/Nest/pull/5510) |
+| Add Django Management Commands to Parse Board Activity Data | Medium | [#5503](https://github.com/OWASP/Nest/pull/5503) |
+| Feat/newsletter digest pipeline | Medium | [#5502](https://github.com/OWASP/Nest/pull/5502) |
 
 ---
 
