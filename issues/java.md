@@ -727,11 +727,10 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| feat: Add livestock management | Medium | [#1867](https://github.com/omroy07/AgriTech/pull/1867) |
 | Updates README.md | Medium | [#1864](https://github.com/omroy07/AgriTech/pull/1864) |
 | fix: resolve cart visibility issue | Medium | [#1863](https://github.com/omroy07/AgriTech/pull/1863) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
-| feat: Add livestock management - 20 | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
-| Level Up Page Structure - 10 | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
 | feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
 | Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
@@ -1069,7 +1068,8 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore: bump @clerk/react from 6.14.6 to 6.14.7 | Easy | [#2095](https://github.com/recodehive/recode-website/pull/2095) |
+| chore: bump framer-motion from 13.1.1 to 13.2.0 | Easy | [#2112](https://github.com/recodehive/recode-website/pull/2112) |
+| chore: bump lint-staged from 17.4.1 to 17.5.0 | Easy | [#2111](https://github.com/recodehive/recode-website/pull/2111) |
 | Redirect Read Blog Button | Easy | [#2074](https://github.com/recodehive/recode-website/issues/2074) |
 | Leaderboard Badge hover shape changes | Easy | [#2071](https://github.com/recodehive/recode-website/issues/2071) |
 | 🐞[Bug]: Desktop navbar hamburger menu does not display navigation items | Easy | [#2069](https://github.com/recodehive/recode-website/issues/2069) |
@@ -1191,36 +1191,36 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| Enhance footer design and add social media links | Medium | [#428](https://github.com/multiverseweb/Dataverse/issues/428) |
-| Typo Readme Line 112 | Medium | [#427](https://github.com/multiverseweb/Dataverse/issues/427) |
-| Hamburger menu and Cross icon looking a little big in size | Medium | [#426](https://github.com/multiverseweb/Dataverse/issues/426) |
-| Add Background Color to Footer Section | Medium | [#425](https://github.com/multiverseweb/Dataverse/issues/425) |
-| Fix Navbar to Stay on Top While Scrolling | Medium | [#424](https://github.com/multiverseweb/Dataverse/issues/424) |
-| Updated login button style | Medium | [#423](https://github.com/multiverseweb/Dataverse/pull/423) |
-| fix(web): ensure preloader video plays reliably across browsers | Medium | [#422](https://github.com/multiverseweb/Dataverse/pull/422) |
-| Secure DB config + Parameterized SQL + Unified schema (env-based) | Medium | [#421](https://github.com/multiverseweb/Dataverse/pull/421) |
-| Add Dark/Light Mode Toggle | Medium | [#420](https://github.com/multiverseweb/Dataverse/issues/420) |
-| dataverse | Medium | [#419](https://github.com/multiverseweb/Dataverse/issues/419) |
-| Scrollbar Hidden | Medium | [#418](https://github.com/multiverseweb/Dataverse/issues/418) |
-| feat: implement enterprise-grade security enhancements #416 | Medium | [#417](https://github.com/multiverseweb/Dataverse/pull/417) |
-| Implement secure password handling and database security | Medium | [#416](https://github.com/multiverseweb/Dataverse/issues/416) |
-| Add Auth in login Signup page | Medium | [#415](https://github.com/multiverseweb/Dataverse/issues/415) |
-| Preloader Not Playing | Medium | [#414](https://github.com/multiverseweb/Dataverse/issues/414) |
-| No Feedback on Errors | Medium | [#413](https://github.com/multiverseweb/Dataverse/issues/413) |
-| Add Export as PNG/PDF Option for Graphs | Medium | [#412](https://github.com/multiverseweb/Dataverse/issues/412) |
-| Fix layout misalignment in main section (image and content overlapping) | Medium | [#410](https://github.com/multiverseweb/Dataverse/issues/410) |
-| Add a "Getting Started" section to the README | Medium | [#409](https://github.com/multiverseweb/Dataverse/issues/409) |
-| Implement data import/export module + user-friendly CSV/Excel UI for visualizations | Medium | [#408](https://github.com/multiverseweb/Dataverse/issues/408) |
-| Add ToolTip hints for buttons and Charts | Medium | [#407](https://github.com/multiverseweb/Dataverse/issues/407) |
-| Documentation Add Code of Conduct for Dataverse – GSSOC'25 (Open Source Contributions) | Medium | [#406](https://github.com/multiverseweb/Dataverse/issues/406) |
-| 🔐 Password Strength Checker | Medium | [#405](https://github.com/multiverseweb/Dataverse/issues/405) |
-| Sticky and Glassy Navbar | Medium | [#404](https://github.com/multiverseweb/Dataverse/issues/404) |
-| Use Parameterized SQL Queries Instead of String Formatting | Medium | [#403](https://github.com/multiverseweb/Dataverse/issues/403) |
-| Add a light/dark mode toggle | Medium | [#402](https://github.com/multiverseweb/Dataverse/issues/402) |
-| Improve Predictive Analytics with Model Evaluation Metrics | Medium | [#401](https://github.com/multiverseweb/Dataverse/issues/401) |
-| improving the UI/UX of the authentication pages | Medium | [#400](https://github.com/multiverseweb/Dataverse/issues/400) |
-| Feature Request: Language Toggle for Multilingual UI | Medium | [#399](https://github.com/multiverseweb/Dataverse/issues/399) |
-| Improved UI: Dark Mode Toggle, Corrected the stunning visuals page by solving 4044 error | Medium | [#398](https://github.com/multiverseweb/Dataverse/pull/398) |
+| Enhance footer design and add social media links | Medium | [#428](https://github.com/tjiuce/Dataverse/issues/428) |
+| Typo Readme Line 112 | Medium | [#427](https://github.com/tjiuce/Dataverse/issues/427) |
+| Hamburger menu and Cross icon looking a little big in size | Medium | [#426](https://github.com/tjiuce/Dataverse/issues/426) |
+| Add Background Color to Footer Section | Medium | [#425](https://github.com/tjiuce/Dataverse/issues/425) |
+| Fix Navbar to Stay on Top While Scrolling | Medium | [#424](https://github.com/tjiuce/Dataverse/issues/424) |
+| Updated login button style | Medium | [#423](https://github.com/tjiuce/Dataverse/pull/423) |
+| fix(web): ensure preloader video plays reliably across browsers | Medium | [#422](https://github.com/tjiuce/Dataverse/pull/422) |
+| Secure DB config + Parameterized SQL + Unified schema (env-based) | Medium | [#421](https://github.com/tjiuce/Dataverse/pull/421) |
+| Add Dark/Light Mode Toggle | Medium | [#420](https://github.com/tjiuce/Dataverse/issues/420) |
+| dataverse | Medium | [#419](https://github.com/tjiuce/Dataverse/issues/419) |
+| Scrollbar Hidden | Medium | [#418](https://github.com/tjiuce/Dataverse/issues/418) |
+| feat: implement enterprise-grade security enhancements #416 | Medium | [#417](https://github.com/tjiuce/Dataverse/pull/417) |
+| Implement secure password handling and database security | Medium | [#416](https://github.com/tjiuce/Dataverse/issues/416) |
+| Add Auth in login Signup page | Medium | [#415](https://github.com/tjiuce/Dataverse/issues/415) |
+| Preloader Not Playing | Medium | [#414](https://github.com/tjiuce/Dataverse/issues/414) |
+| No Feedback on Errors | Medium | [#413](https://github.com/tjiuce/Dataverse/issues/413) |
+| Add Export as PNG/PDF Option for Graphs | Medium | [#412](https://github.com/tjiuce/Dataverse/issues/412) |
+| Fix layout misalignment in main section (image and content overlapping) | Medium | [#410](https://github.com/tjiuce/Dataverse/issues/410) |
+| Add a "Getting Started" section to the README | Medium | [#409](https://github.com/tjiuce/Dataverse/issues/409) |
+| Implement data import/export module + user-friendly CSV/Excel UI for visualizations | Medium | [#408](https://github.com/tjiuce/Dataverse/issues/408) |
+| Add ToolTip hints for buttons and Charts | Medium | [#407](https://github.com/tjiuce/Dataverse/issues/407) |
+| Documentation Add Code of Conduct for Dataverse – GSSOC'25 (Open Source Contributions) | Medium | [#406](https://github.com/tjiuce/Dataverse/issues/406) |
+| 🔐 Password Strength Checker | Medium | [#405](https://github.com/tjiuce/Dataverse/issues/405) |
+| Sticky and Glassy Navbar | Medium | [#404](https://github.com/tjiuce/Dataverse/issues/404) |
+| Use Parameterized SQL Queries Instead of String Formatting | Medium | [#403](https://github.com/tjiuce/Dataverse/issues/403) |
+| Add a light/dark mode toggle | Medium | [#402](https://github.com/tjiuce/Dataverse/issues/402) |
+| Improve Predictive Analytics with Model Evaluation Metrics | Medium | [#401](https://github.com/tjiuce/Dataverse/issues/401) |
+| improving the UI/UX of the authentication pages | Medium | [#400](https://github.com/tjiuce/Dataverse/issues/400) |
+| Feature Request: Language Toggle for Multilingual UI | Medium | [#399](https://github.com/tjiuce/Dataverse/issues/399) |
+| Improved UI: Dark Mode Toggle, Corrected the stunning visuals page by solving 4044 error | Medium | [#398](https://github.com/tjiuce/Dataverse/pull/398) |
 
 ---
 
@@ -1909,6 +1909,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve registration page layout & usability | Medium | [#734](https://github.com/lovelymahor/StudyMatePlus/pull/734) |
 | Improve Registration Page Layout & Usability | Medium | [#733](https://github.com/lovelymahor/StudyMatePlus/issues/733) |
 | Hero Section UI Redesign | Medium | [#732](https://github.com/lovelymahor/StudyMatePlus/issues/732) |
 | Implement a spaced repetition study scheduler for saved notes — help students retain material more effectively | Medium | [#731](https://github.com/lovelymahor/StudyMatePlus/issues/731) |
@@ -1938,7 +1939,6 @@ Fast Workflow Tools
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
 | Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
 | Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
-| Notes.jsx calls backend endpoints that don't exist | Medium | [#701](https://github.com/lovelymahor/StudyMatePlus/issues/701) |
 
 ---
 
@@ -2598,7 +2598,6 @@ Fast Workflow Tools
 | Navbar styling for companies page. | Medium | [#738](https://github.com/SurajSG23/Job-Portal/pull/738) |
 | Improved Navbar of Contact Page | Medium | [#737](https://github.com/SurajSG23/Job-Portal/pull/737) |
 | Styled navbar and footer for faq page. | Medium | [#736](https://github.com/SurajSG23/Job-Portal/pull/736) |
-| fixed issue:Add Glassmorphic Effect to Navbar | Medium | [#732](https://github.com/SurajSG23/Job-Portal/pull/732) |
 | implemented search for saved-jobs | Medium | [#700](https://github.com/SurajSG23/Job-Portal/pull/700) |
 
 ---
