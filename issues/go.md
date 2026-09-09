@@ -192,12 +192,19 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| LocalStack Build And Push Docker Images and Other Improvements | Easy | [#5463](https://github.com/OWASP/Nest/pull/5463) |
-| chore(deps): bump the version-updates group across 2 directories with 4 updates | Medium | [#5538](https://github.com/OWASP/Nest/pull/5538) |
-| chore(deps): bump docker/setup-buildx-action from 4.2.0 to 4.3.0 in the version-updates group across 1 directory | Medium | [#5537](https://github.com/OWASP/Nest/pull/5537) |
-| chore(deps): bump the version-updates group across 3 directories with 3 updates | Medium | [#5536](https://github.com/OWASP/Nest/pull/5536) |
-| chore(deps): bump the version-updates group across 1 directory with 3 updates | Medium | [#5535](https://github.com/OWASP/Nest/pull/5535) |
-| Bump next to v16.3.4 | Medium | [#5534](https://github.com/OWASP/Nest/pull/5534) |
+| chore(deps): bump the version-updates group across 1 directory with 2 updates | Medium | [#5558](https://github.com/OWASP/Nest/pull/5558) |
+| chore(deps): bump aws-actions/amazon-ecr-login from 2.1.6 to 2.1.7 in the version-updates group across 1 directory | Medium | [#5557](https://github.com/OWASP/Nest/pull/5557) |
+| chore(deps): bump the version-updates group across 3 directories with 3 updates | Medium | [#5556](https://github.com/OWASP/Nest/pull/5556) |
+| feat: update ReadTheDocs theme styling | Medium | [#5555](https://github.com/OWASP/Nest/pull/5555) |
+| fix(frontend): make navbar responsive across breakpoints | Medium | [#5554](https://github.com/OWASP/Nest/pull/5554) |
+| Feat/unsubscribe filtered view | Medium | [#5553](https://github.com/OWASP/Nest/pull/5553) |
+| Feature: NestBot /ai — route security questions to OpenCRE (keep community RAG local) | Medium | [#5550](https://github.com/OWASP/Nest/issues/5550) |
+| Feature: MCP server for Nest REST API v0 (OpenCRE Agent integration) | Medium | [#5549](https://github.com/OWASP/Nest/issues/5549) |
+| feat(header): expand UserMenu trigger to show avatar, name | Medium | [#5547](https://github.com/OWASP/Nest/pull/5547) |
+| feat: implement recent searches in GlobalSearch | Medium | [#5544](https://github.com/OWASP/Nest/pull/5544) |
+| fix: resolve barchart rendering issue | Medium | [#5542](https://github.com/OWASP/Nest/pull/5542) |
+| Fix/issue summary fallback | Medium | [#5540](https://github.com/OWASP/Nest/pull/5540) |
+| fix: wrap breadcrumb in nav landmark for screen reader navigation | Medium | [#5539](https://github.com/OWASP/Nest/pull/5539) |
 | fix: improve error handling in CalendarButton component | Medium | [#5533](https://github.com/OWASP/Nest/pull/5533) |
 | fix: add fallback for AI-generated issue summaries | Medium | [#5532](https://github.com/OWASP/Nest/pull/5532) |
 | Feature/5511 refactor nestbot ai assistant | Medium | [#5529](https://github.com/OWASP/Nest/pull/5529) |
@@ -209,9 +216,6 @@ Accessibility features like dark mode,white.
 | Created OWASP Pulse Frontend Page | Medium | [#5510](https://github.com/OWASP/Nest/pull/5510) |
 | Add Django Management Commands to Parse Board Activity Data | Medium | [#5503](https://github.com/OWASP/Nest/pull/5503) |
 | Feat/newsletter digest pipeline | Medium | [#5502](https://github.com/OWASP/Nest/pull/5502) |
-| Add Django Models to Store Board Activity Data | Medium | [#5494](https://github.com/OWASP/Nest/pull/5494) |
-| Feat/email log model | Medium | [#5489](https://github.com/OWASP/Nest/pull/5489) |
-| PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
 
 ---
 
