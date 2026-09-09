@@ -129,11 +129,9 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix(backend): persist add-on inventory in database with atomic decrement (#19087) | Medium | [#19162](https://github.com/SandeepVashishtha/Eventra/pull/19162) |
-| Add JWT token expiry handling with automatic silent refresh and graceful logout on session expiration | Medium | [#19153](https://github.com/SandeepVashishtha/Eventra/issues/19153) |
+| fix: guard against missing eventDate in spotlight card to prevent Inv… | Medium | [#19167](https://github.com/SandeepVashishtha/Eventra/pull/19167) |
 | Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19151](https://github.com/SandeepVashishtha/Eventra/issues/19151) |
 | Add recurring event support — allow organizers to schedule weekly, monthly, or custom-interval events | Medium | [#19150](https://github.com/SandeepVashishtha/Eventra/issues/19150) |
-| Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19149](https://github.com/SandeepVashishtha/Eventra/issues/19149) |
 | Add event registration with ticket generation and QR code check-in capability | Medium | [#19148](https://github.com/SandeepVashishtha/Eventra/issues/19148) |
 | Add event search and filtering by category, date range, and location on the events listing page | Medium | [#19147](https://github.com/SandeepVashishtha/Eventra/issues/19147) |
 | Add GitHub Actions CI pipeline with lint, type-check, and test validation on every pull request | Medium | [#19146](https://github.com/SandeepVashishtha/Eventra/issues/19146) |
@@ -159,6 +157,8 @@
 | fix: require confirmed registration to submit feedback (#19060) | Medium | [#19126](https://github.com/SandeepVashishtha/Eventra/pull/19126) |
 | fix: enforce ownership/authorization in WebAuthn ticket verification (#19029) | Medium | [#19125](https://github.com/SandeepVashishtha/Eventra/pull/19125) |
 | fix: parse real table and column in IndexOptimizer instead of stubs (#19044) | Medium | [#19124](https://github.com/SandeepVashishtha/Eventra/pull/19124) |
+| fix: resolve PaymentPlan before deleting EventRegistration (#19031) | Medium | [#19123](https://github.com/SandeepVashishtha/Eventra/pull/19123) |
+| fix: harden CSV formula-injection sanitizer (issue #19046) | Medium | [#19122](https://github.com/SandeepVashishtha/Eventra/pull/19122) |
 
 ---
 
