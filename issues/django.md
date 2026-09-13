@@ -14,20 +14,32 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| LocalStack Build And Push Docker Images and Other Improvements | Easy | [#5463](https://github.com/OWASP/Nest/pull/5463) |
-| feat(o11y): add Grafana and stable VM endpoint | Easy | [#5405](https://github.com/OWASP/Nest/pull/5405) |
-| Board Candidate Transparency Improvements | Easy | [#5384](https://github.com/OWASP/Nest/pull/5384) |
-| feat(o11y): add o11y terraform module for VM | Easy | [#5341](https://github.com/OWASP/Nest/pull/5341) |
-| Add AGENTS.md with project conventions for coding agents | Easy | [#5339](https://github.com/OWASP/Nest/pull/5339) |
-| PoC for E2E tests for protected routes authentication and mentorship tests | Medium | [#5454](https://github.com/OWASP/Nest/pull/5454) |
-| Crp certificate issuer | Medium | [#5446](https://github.com/OWASP/Nest/pull/5446) |
-| Static sitemap publishes /repositories which has no page, and omits the homepage | Medium | [#5428](https://github.com/OWASP/Nest/issues/5428) |
-| Updated crp-model to include default certificate | Medium | [#5420](https://github.com/OWASP/Nest/pull/5420) |
-| fix: upgrade @heroui/react to v3 | Medium | [#5389](https://github.com/OWASP/Nest/pull/5389) |
-| Implement GraphQL queries for Pulse activity events | Medium | [#5381](https://github.com/OWASP/Nest/pull/5381) |
-| Add Candidate Page and Claim Highlights Feature | Medium | [#5371](https://github.com/OWASP/Nest/pull/5371) |
-| Refactor: eliminate O(n²) fuzzy matching in owasp-update-leaders | Medium | [#5351](https://github.com/OWASP/Nest/issues/5351) |
-| Add management command to backfill ActivityEvent histor | Medium | [#5338](https://github.com/OWASP/Nest/pull/5338) |
+| fix(frontend): skip GetMyPrograms query for non-project leaders | Medium | [#5575](https://github.com/OWASP/Nest/pull/5575) |
+| Some Links in footer navigates to 404 | Medium | [#5574](https://github.com/OWASP/Nest/issues/5574) |
+| fix: generate issue summaries after save | Medium | [#5568](https://github.com/OWASP/Nest/pull/5568) |
+| fix(frontend): consistent Search bottom spacing on mobile across pages | Medium | [#5564](https://github.com/OWASP/Nest/pull/5564) |
+| Feat/mentorship programs sort | Medium | [#5563](https://github.com/OWASP/Nest/pull/5563) |
+| Update ReadTheDocs theme to match Nest light and dark themes | Medium | [#5561](https://github.com/OWASP/Nest/pull/5561) |
+| expand usermenu to show name, handle | Medium | [#5559](https://github.com/OWASP/Nest/pull/5559) |
+| feat: update ReadTheDocs theme styling | Medium | [#5555](https://github.com/OWASP/Nest/pull/5555) |
+| fix(frontend): make navbar responsive across breakpoints | Medium | [#5554](https://github.com/OWASP/Nest/pull/5554) |
+| Feat/unsubscribe filtered view | Medium | [#5553](https://github.com/OWASP/Nest/pull/5553) |
+| Feature: NestBot /ai — route security questions to OpenCRE (keep community RAG local) | Medium | [#5550](https://github.com/OWASP/Nest/issues/5550) |
+| Feature: MCP server for Nest REST API v0 (OpenCRE Agent integration) | Medium | [#5549](https://github.com/OWASP/Nest/issues/5549) |
+| feat(header): expand UserMenu trigger to show avatar, name | Medium | [#5547](https://github.com/OWASP/Nest/pull/5547) |
+| feat: implement recent searches in GlobalSearch | Medium | [#5544](https://github.com/OWASP/Nest/pull/5544) |
+| fix: resolve barchart rendering issue | Medium | [#5542](https://github.com/OWASP/Nest/pull/5542) |
+| fix: issue summary fallback | Medium | [#5540](https://github.com/OWASP/Nest/pull/5540) |
+| fix: wrap breadcrumb in nav landmark for screen reader navigation | Medium | [#5539](https://github.com/OWASP/Nest/pull/5539) |
+| fix: improve error handling in CalendarButton component | Medium | [#5533](https://github.com/OWASP/Nest/pull/5533) |
+| fix: add fallback for AI-generated issue summaries | Medium | [#5532](https://github.com/OWASP/Nest/pull/5532) |
+| Feature/5511 refactor nestbot ai assistant | Medium | [#5529](https://github.com/OWASP/Nest/pull/5529) |
+| refactor: rename RepositoryNode.issues field to recent_issues | Medium | [#5528](https://github.com/OWASP/Nest/pull/5528) |
+| fix(frontend): show trailing pagination ellipsis | Medium | [#5527](https://github.com/OWASP/Nest/pull/5527) |
+| fix(frontend): keep mobile spacing consistent below search | Medium | [#5526](https://github.com/OWASP/Nest/pull/5526) |
+| refactor(github): rename RepositoryNode.issues to recent_issues | Medium | [#5525](https://github.com/OWASP/Nest/pull/5525) |
+| Extract nested ternary operation into an independent state. | Medium | [#5524](https://github.com/OWASP/Nest/pull/5524) |
+| Created OWASP Pulse Frontend Page | Medium | [#5510](https://github.com/OWASP/Nest/pull/5510) |
 
 ---
 
