@@ -247,9 +247,13 @@ Accessibility features like dark mode,white.
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| chore(deps): bump the version-updates group across 1 directory with 2 updates | Medium | [#5558](https://github.com/OWASP/Nest/pull/5558) |
-| chore(deps): bump aws-actions/amazon-ecr-login from 2.1.6 to 2.1.7 in the version-updates group across 1 directory | Medium | [#5557](https://github.com/OWASP/Nest/pull/5557) |
-| chore(deps): bump the version-updates group across 3 directories with 3 updates | Medium | [#5556](https://github.com/OWASP/Nest/pull/5556) |
+| fix(frontend): skip GetMyPrograms query for non-project leaders | Medium | [#5575](https://github.com/OWASP/Nest/pull/5575) |
+| Some Links in footer navigates to 404 | Medium | [#5574](https://github.com/OWASP/Nest/issues/5574) |
+| fix: generate issue summaries after save | Medium | [#5568](https://github.com/OWASP/Nest/pull/5568) |
+| fix(frontend): consistent Search bottom spacing on mobile across pages | Medium | [#5564](https://github.com/OWASP/Nest/pull/5564) |
+| Feat/mentorship programs sort | Medium | [#5563](https://github.com/OWASP/Nest/pull/5563) |
+| Update ReadTheDocs theme to match Nest light and dark themes | Medium | [#5561](https://github.com/OWASP/Nest/pull/5561) |
+| expand usermenu to show name, handle | Medium | [#5559](https://github.com/OWASP/Nest/pull/5559) |
 | feat: update ReadTheDocs theme styling | Medium | [#5555](https://github.com/OWASP/Nest/pull/5555) |
 | fix(frontend): make navbar responsive across breakpoints | Medium | [#5554](https://github.com/OWASP/Nest/pull/5554) |
 | Feat/unsubscribe filtered view | Medium | [#5553](https://github.com/OWASP/Nest/pull/5553) |
@@ -258,7 +262,7 @@ Accessibility features like dark mode,white.
 | feat(header): expand UserMenu trigger to show avatar, name | Medium | [#5547](https://github.com/OWASP/Nest/pull/5547) |
 | feat: implement recent searches in GlobalSearch | Medium | [#5544](https://github.com/OWASP/Nest/pull/5544) |
 | fix: resolve barchart rendering issue | Medium | [#5542](https://github.com/OWASP/Nest/pull/5542) |
-| Fix/issue summary fallback | Medium | [#5540](https://github.com/OWASP/Nest/pull/5540) |
+| fix: issue summary fallback | Medium | [#5540](https://github.com/OWASP/Nest/pull/5540) |
 | fix: wrap breadcrumb in nav landmark for screen reader navigation | Medium | [#5539](https://github.com/OWASP/Nest/pull/5539) |
 | fix: improve error handling in CalendarButton component | Medium | [#5533](https://github.com/OWASP/Nest/pull/5533) |
 | fix: add fallback for AI-generated issue summaries | Medium | [#5532](https://github.com/OWASP/Nest/pull/5532) |
@@ -269,8 +273,6 @@ Accessibility features like dark mode,white.
 | refactor(github): rename RepositoryNode.issues to recent_issues | Medium | [#5525](https://github.com/OWASP/Nest/pull/5525) |
 | Extract nested ternary operation into an independent state. | Medium | [#5524](https://github.com/OWASP/Nest/pull/5524) |
 | Created OWASP Pulse Frontend Page | Medium | [#5510](https://github.com/OWASP/Nest/pull/5510) |
-| Add Django Management Commands to Parse Board Activity Data | Medium | [#5503](https://github.com/OWASP/Nest/pull/5503) |
-| Feat/newsletter digest pipeline | Medium | [#5502](https://github.com/OWASP/Nest/pull/5502) |
 
 ---
 
@@ -2156,7 +2158,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: guard against missing eventDate in spotlight card to prevent Inv… | Medium | [#19167](https://github.com/SandeepVashishtha/Eventra/pull/19167) |
 | Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19151](https://github.com/SandeepVashishtha/Eventra/issues/19151) |
 | Add recurring event support — allow organizers to schedule weekly, monthly, or custom-interval events | Medium | [#19150](https://github.com/SandeepVashishtha/Eventra/issues/19150) |
 | Add event registration with ticket generation and QR code check-in capability | Medium | [#19148](https://github.com/SandeepVashishtha/Eventra/issues/19148) |
@@ -2186,6 +2187,7 @@ Fast Workflow Tools
 | fix: parse real table and column in IndexOptimizer instead of stubs (#19044) | Medium | [#19124](https://github.com/SandeepVashishtha/Eventra/pull/19124) |
 | fix: resolve PaymentPlan before deleting EventRegistration (#19031) | Medium | [#19123](https://github.com/SandeepVashishtha/Eventra/pull/19123) |
 | fix: harden CSV formula-injection sanitizer (issue #19046) | Medium | [#19122](https://github.com/SandeepVashishtha/Eventra/pull/19122) |
+| fix: enforce rpId, key-derived algorithm, and signature counter in WebAuthn assertion (#19030) | Medium | [#19121](https://github.com/SandeepVashishtha/Eventra/pull/19121) |
 
 ---
 
