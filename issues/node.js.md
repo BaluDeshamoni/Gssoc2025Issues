@@ -1478,6 +1478,7 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Improve registration page layout & usability | Medium | [#734](https://github.com/lovelymahor/StudyMatePlus/pull/734) |
 | Improve Registration Page Layout & Usability | Medium | [#733](https://github.com/lovelymahor/StudyMatePlus/issues/733) |
 | Hero Section UI Redesign | Medium | [#732](https://github.com/lovelymahor/StudyMatePlus/issues/732) |
 | Implement a spaced repetition study scheduler for saved notes — help students retain material more effectively | Medium | [#731](https://github.com/lovelymahor/StudyMatePlus/issues/731) |
@@ -1507,7 +1508,6 @@ Fast Workflow Tools
 | document.title set directly during render across multiple pages (React anti-pattern) | Medium | [#704](https://github.com/lovelymahor/StudyMatePlus/issues/704) |
 | Profile.js: Edit button is non-functional | Medium | [#703](https://github.com/lovelymahor/StudyMatePlus/issues/703) |
 | Analytics.js: filter controls are decorative and don't affect displayed data | Medium | [#702](https://github.com/lovelymahor/StudyMatePlus/issues/702) |
-| Notes.jsx calls backend endpoints that don't exist | Medium | [#701](https://github.com/lovelymahor/StudyMatePlus/issues/701) |
 
 ---
 
@@ -1574,7 +1574,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fixed FAQ light theme | Medium | [#111](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/111) |
 | Modern Issue Templates | Medium | [#109](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/109) |
 | # 🔍 Add Real-Time FAQ Search & Filter Functionality [GSSoC 2025] | Medium | [#101](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/101) |
 | feat: add elegant loading skeleton states for improved UX   [GSSoC 2025] | Medium | [#100](https://github.com/piyushpatelcodes/gssocFAQ-Bot/pull/100) |
