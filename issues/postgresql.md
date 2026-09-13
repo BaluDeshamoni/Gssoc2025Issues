@@ -348,7 +348,6 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| fix: guard against missing eventDate in spotlight card to prevent Inv… | Medium | [#19167](https://github.com/SandeepVashishtha/Eventra/pull/19167) |
 | Add organizer dashboard with event analytics — registrations over time, attendance rate, and geographic breakdown | Medium | [#19151](https://github.com/SandeepVashishtha/Eventra/issues/19151) |
 | Add recurring event support — allow organizers to schedule weekly, monthly, or custom-interval events | Medium | [#19150](https://github.com/SandeepVashishtha/Eventra/issues/19150) |
 | Add event registration with ticket generation and QR code check-in capability | Medium | [#19148](https://github.com/SandeepVashishtha/Eventra/issues/19148) |
@@ -378,6 +377,7 @@ Transform your documents into flashcards, summaries, and quizzes with cutting-ed
 | fix: parse real table and column in IndexOptimizer instead of stubs (#19044) | Medium | [#19124](https://github.com/SandeepVashishtha/Eventra/pull/19124) |
 | fix: resolve PaymentPlan before deleting EventRegistration (#19031) | Medium | [#19123](https://github.com/SandeepVashishtha/Eventra/pull/19123) |
 | fix: harden CSV formula-injection sanitizer (issue #19046) | Medium | [#19122](https://github.com/SandeepVashishtha/Eventra/pull/19122) |
+| fix: enforce rpId, key-derived algorithm, and signature counter in WebAuthn assertion (#19030) | Medium | [#19121](https://github.com/SandeepVashishtha/Eventra/pull/19121) |
 
 ---
 
