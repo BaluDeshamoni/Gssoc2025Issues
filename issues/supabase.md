@@ -88,7 +88,7 @@
 | chore: clean up ~15 ad-hoc "fix-*"/"apply-*" scripts committed to the repo root — they clutter onboarding and risk being run against the wrong environment | Easy | [#1066](https://github.com/Muneerali199/Draftdeckai/issues/1066) |
 | chore: 15+ development fix scripts committed to repository root (apply-fix.js, complete-fix.ps1, fix-*.mjs, etc.) — these one-off automation scripts create severe confusion for contributors and should be removed | Easy | [#1065](https://github.com/Muneerali199/Draftdeckai/issues/1065) |
 | fix: add security warnings and runtime guard for SUPABASE_SERVICE_ROLE_KEY | Easy | [#1058](https://github.com/Muneerali199/Draftdeckai/pull/1058) |
-| chore(deps): bump the minor-and-patch group across 1 directory with 60 updates | Medium | [#1488](https://github.com/Muneerali199/Draftdeckai/pull/1488) |
+| chore(deps): bump the minor-and-patch group across 1 directory with 62 updates | Medium | [#1490](https://github.com/Muneerali199/Draftdeckai/pull/1490) |
 | BLOCK — PR #1471 | Medium | [#1485](https://github.com/Muneerali199/Draftdeckai/issues/1485) |
 | BLOCK — PR #1471 | Medium | [#1484](https://github.com/Muneerali199/Draftdeckai/issues/1484) |
 | BLOCK — PR #1482 | Medium | [#1483](https://github.com/Muneerali199/Draftdeckai/issues/1483) |
