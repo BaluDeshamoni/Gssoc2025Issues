@@ -208,11 +208,10 @@ Placify serves three primary stakeholders — students, colleges, and recruiters
 | Updates README.md | Medium | [#1864](https://github.com/omroy07/AgriTech/pull/1864) |
 | fix: resolve cart visibility issue | Medium | [#1863](https://github.com/omroy07/AgriTech/pull/1863) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
-| feat: Add livestock management - 20 | Medium | [#1675](https://github.com/omroy07/AgriTech/issues/1675) |
-| Level Up Page Structure - 10 | Medium | [#1668](https://github.com/omroy07/AgriTech/issues/1668) |
 | feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
 | Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
+| Social media buttons do not redirect to their respective pages. | Medium | [#904](https://github.com/omroy07/AgriTech/issues/904) |
 
 ---
 
@@ -368,9 +367,6 @@ Fast Workflow Tools
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| FEATURE: Implement Local Retrieval-Augmented Generation (RAG) Pipeline for PDF Summarization via Vector DB | Medium | [#332](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/332) |
-| feat(chat): add global search across a user's sessions | Medium | [#331](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/pull/331) |
-| Global chat search across all sessions (POST /api/chat/search) | Medium | [#330](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/330) |
 | FEATURE: Support local Ollama models from the deployed web application | Medium | [#291](https://github.com/Rucha-Ambaliya/PrivGPT-Studio/issues/291) |
 
 ---
