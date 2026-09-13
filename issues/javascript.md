@@ -212,6 +212,16 @@
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| OSCI 2026 setup | Medium | [#241](https://github.com/SrigadaAkshayKumar/stock/issues/241) |
+| Add prediction confidence and model evaluation dashboard | Medium | [#240](https://github.com/SrigadaAkshayKumar/stock/pull/240) |
+| Fix typo "evry" to "every" on About page (fixes #235)Fix about typo | Medium | [#239](https://github.com/SrigadaAkshayKumar/stock/pull/239) |
+| Feature: Implement User Profile Page (/profile) | Medium | [#238](https://github.com/SrigadaAkshayKumar/stock/issues/238) |
+| Feature: Add Prediction Confidence and Model Evaluation Dashboard | Medium | [#237](https://github.com/SrigadaAkshayKumar/stock/issues/237) |
+| <Stock data not loading> | Medium | [#236](https://github.com/SrigadaAkshayKumar/stock/issues/236) |
+| < Typo on About page> | Medium | [#235](https://github.com/SrigadaAkshayKumar/stock/issues/235) |
+| fix(ui): resolve unreadable card text on hover in dark mode | Medium | [#234](https://github.com/SrigadaAkshayKumar/stock/pull/234) |
+| fix: trigger stock search on Enter | Medium | [#233](https://github.com/SrigadaAkshayKumar/stock/pull/233) |
+| fix: improve stock card hover contrast | Medium | [#232](https://github.com/SrigadaAkshayKumar/stock/pull/232) |
 | Card text becomes unreadable on hover in dark mode | Medium | [#230](https://github.com/SrigadaAkshayKumar/stock/issues/230) |
 | Search functionality doesn't trigger on Enter key | Medium | [#216](https://github.com/SrigadaAkshayKumar/stock/issues/216) |
 
@@ -727,13 +737,13 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
-| feat: Add livestock management | Medium | [#1867](https://github.com/omroy07/AgriTech/pull/1867) |
 | Updates README.md | Medium | [#1864](https://github.com/omroy07/AgriTech/pull/1864) |
 | fix: resolve cart visibility issue | Medium | [#1863](https://github.com/omroy07/AgriTech/pull/1863) |
 | IoT Sensor Integration | Medium | [#1677](https://github.com/omroy07/AgriTech/pull/1677) |
 | feat: centralize configuration and secure firebase handling | Medium | [#1492](https://github.com/omroy07/AgriTech/pull/1492) |
 | Add Farmer Success Stories Section (Trust Builder) | Medium | [#1479](https://github.com/omroy07/AgriTech/pull/1479) |
 | Refactor CSS: themes, navbar, footer, mobile | Medium | [#1321](https://github.com/omroy07/AgriTech/pull/1321) |
+| Social media buttons do not redirect to their respective pages. | Medium | [#904](https://github.com/omroy07/AgriTech/issues/904) |
 
 ---
 
@@ -1068,6 +1078,11 @@ As an open-source project, VAISH welcomes contributors to build their own custom
 
 | 🔖 Title | 🎯 Difficulty | 🔗 Link |
 |----------|----------------|---------|
+| Remove GSSoC Checkbox | Easy | [#2117](https://github.com/recodehive/recode-website/issues/2117) |
+| chore: bump @typescript-eslint/eslint-plugin from 8.69.0 to 8.70.0 | Easy | [#2116](https://github.com/recodehive/recode-website/pull/2116) |
+| chore: bump @typescript-eslint/parser from 8.69.0 to 8.70.0 | Easy | [#2115](https://github.com/recodehive/recode-website/pull/2115) |
+| chore: bump lucide-react from 0.503.0 to 1.42.0 | Easy | [#2114](https://github.com/recodehive/recode-website/pull/2114) |
+| 🐞[Bug]: Documentation sidebar overlaps/cuts off content when clicking the docs section | Easy | [#2113](https://github.com/recodehive/recode-website/issues/2113) |
 | chore: bump framer-motion from 13.1.1 to 13.2.0 | Easy | [#2112](https://github.com/recodehive/recode-website/pull/2112) |
 | chore: bump lint-staged from 17.4.1 to 17.5.0 | Easy | [#2111](https://github.com/recodehive/recode-website/pull/2111) |
 | Redirect Read Blog Button | Easy | [#2074](https://github.com/recodehive/recode-website/issues/2074) |
